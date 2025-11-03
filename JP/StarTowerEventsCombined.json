@@ -1,0 +1,6474 @@
+[
+  {
+    "id": 101,
+    "description": "交易-潜能",
+    "event_type": 4,
+    "guaranteed_map_id": 201114,
+    "guaranteed_map_scene_res": "Levels/Roguelike/Roguelike_2/Roguelike_2_Reward_002",
+    "guaranteed_map_theme": "流水と暗影",
+    "related_npcs": [
+      9133,
+      9172,
+      9173,
+      9174
+    ],
+    "actions": [
+      {
+        "npc_id": 9133,
+        "lines": [
+          "いくつかオススメの品があるんだけど、買ってかない？"
+        ]
+      },
+      {
+        "npc_id": 9172,
+        "lines": [
+          "強くなりたいですか？"
+        ]
+      },
+      {
+        "npc_id": 9173,
+        "lines": [
+          "魔王サマの運を試してみるのはどうかしら？"
+        ]
+      },
+      {
+        "npc_id": 9174,
+        "lines": [
+          "運試しをしたいのです？"
+        ]
+      }
+    ],
+    "options": [
+      {
+        "option_index": 1,
+        "npc_id": 9133,
+        "lines": [
+          "安いものが欲しい。"
+        ]
+      },
+      {
+        "option_index": 1,
+        "npc_id": 9172,
+        "lines": [
+          "なりたい。"
+        ]
+      },
+      {
+        "option_index": 1,
+        "npc_id": 9173,
+        "lines": [
+          "ちょっとだけ試す。"
+        ]
+      },
+      {
+        "option_index": 1,
+        "npc_id": 9174,
+        "lines": [
+          "少しだけ。"
+        ]
+      },
+      {
+        "option_index": 2,
+        "npc_id": 9133,
+        "lines": [
+          "何があるか見せて。"
+        ]
+      },
+      {
+        "option_index": 2,
+        "npc_id": 9172,
+        "lines": [
+          "とてもなりたい。"
+        ]
+      },
+      {
+        "option_index": 2,
+        "npc_id": 9173,
+        "lines": [
+          "ガッツリ試す！"
+        ]
+      },
+      {
+        "option_index": 2,
+        "npc_id": 9174,
+        "lines": [
+          "ガッツリ試したい！"
+        ]
+      },
+      {
+        "option_index": 3,
+        "npc_id": 9133,
+        "lines": [
+          "コインがないから、買わない。"
+        ]
+      },
+      {
+        "option_index": 3,
+        "npc_id": 9172,
+        "lines": [
+          "なりたくない。"
+        ]
+      },
+      {
+        "option_index": 3,
+        "npc_id": 9173,
+        "lines": [
+          "やめておく。"
+        ]
+      },
+      {
+        "option_index": 3,
+        "npc_id": 9174,
+        "lines": [
+          "やっぱりやめておく。"
+        ]
+      }
+    ],
+    "option_outcomes": [
+      {
+        "option_id": 10101,
+        "option_index": 1,
+        "text": "<sprite name=item_11_small>を100枚消費し、素質（金）をランダムで1個獲得する",
+        "results": [
+          {
+            "result_id": 1010101,
+            "probability_percent": null,
+            "effects": [
+              {
+                "code": 5,
+                "parameters": [
+                  100
+                ],
+                "type": "spend_coin",
+                "amount": 100
+              },
+              {
+                "code": 3,
+                "parameters": [
+                  103,
+                  0
+                ],
+                "type": "trigger_drop",
+                "drop_items": [
+                  {
+                    "item_id": 32001,
+                    "item_name": "音楽カセット・初級"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "option_id": 10102,
+        "option_index": 2,
+        "text": "<sprite name=item_11_small>を120枚消費し、素質をランダムで1個獲得する",
+        "results": [
+          {
+            "result_id": 1010201,
+            "probability_percent": null,
+            "effects": [
+              {
+                "code": 5,
+                "parameters": [
+                  120
+                ],
+                "type": "spend_coin",
+                "amount": 120
+              },
+              {
+                "code": 3,
+                "parameters": [
+                  101,
+                  0
+                ],
+                "type": "trigger_drop",
+                "drop_items": [
+                  {
+                    "item_id": 21091,
+                    "item_name": "薄光の残滓"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "option_id": 10103,
+        "option_index": 3,
+        "text": "<sprite name=item_11_small>を30枚獲得する",
+        "results": [
+          {
+            "result_id": 1010301,
+            "probability_percent": null,
+            "effects": [
+              {
+                "code": 1,
+                "parameters": [
+                  30
+                ],
+                "type": "gain_coin",
+                "amount": 30
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 102,
+    "description": "交易-潜能",
+    "event_type": 4,
+    "guaranteed_map_id": 201114,
+    "guaranteed_map_scene_res": "Levels/Roguelike/Roguelike_2/Roguelike_2_Reward_002",
+    "guaranteed_map_theme": "流水と暗影",
+    "related_npcs": [
+      9133,
+      9172,
+      9173,
+      9174
+    ],
+    "actions": [
+      {
+        "npc_id": 9133,
+        "lines": [
+          "売り物はまだあるんだけど……どうする？"
+        ]
+      },
+      {
+        "npc_id": 9172,
+        "lines": [
+          "魔王なら、もっと強くなれます。"
+        ]
+      },
+      {
+        "npc_id": 9173,
+        "lines": [
+          "さあ……魔王サマの運を試すのよ♪"
+        ]
+      },
+      {
+        "npc_id": 9174,
+        "lines": [
+          "こういう時、魔王さんはどんな選択をするのです？"
+        ]
+      }
+    ],
+    "options": [
+      {
+        "option_index": 1,
+        "npc_id": 9133,
+        "lines": [
+          "わかった、これをもらうよ。"
+        ]
+      },
+      {
+        "option_index": 1,
+        "npc_id": 9172,
+        "lines": [
+          "強くなる！"
+        ]
+      },
+      {
+        "option_index": 1,
+        "npc_id": 9173,
+        "lines": [
+          "ちょっとだけ試す。"
+        ]
+      },
+      {
+        "option_index": 1,
+        "npc_id": 9174,
+        "lines": [
+          "慎重に出そう。"
+        ]
+      },
+      {
+        "option_index": 2,
+        "npc_id": 9133,
+        "lines": [
+          "……店より高くない？"
+        ]
+      },
+      {
+        "option_index": 2,
+        "npc_id": 9172,
+        "lines": [
+          "もっと強くなる！"
+        ]
+      },
+      {
+        "option_index": 2,
+        "npc_id": 9173,
+        "lines": [
+          "ガッツリ試す！"
+        ]
+      },
+      {
+        "option_index": 2,
+        "npc_id": 9174,
+        "lines": [
+          "積極的に出そう！"
+        ]
+      },
+      {
+        "option_index": 3,
+        "npc_id": 9133,
+        "lines": [
+          "高っ！！ぼったくり？！"
+        ]
+      },
+      {
+        "option_index": 3,
+        "npc_id": 9172,
+        "lines": [
+          "最強の存在になる！"
+        ]
+      },
+      {
+        "option_index": 3,
+        "npc_id": 9173,
+        "lines": [
+          "ここまで来たら、全ベット！"
+        ]
+      },
+      {
+        "option_index": 3,
+        "npc_id": 9174,
+        "lines": [
+          "ここまで来たら、全賭けだ！"
+        ]
+      },
+      {
+        "option_index": 4,
+        "npc_id": 9133,
+        "lines": [
+          "買わない。"
+        ]
+      },
+      {
+        "option_index": 4,
+        "npc_id": 9172,
+        "lines": [
+          "もう十分強いから……"
+        ]
+      },
+      {
+        "option_index": 4,
+        "npc_id": 9173,
+        "lines": [
+          "やめておく。"
+        ]
+      },
+      {
+        "option_index": 4,
+        "npc_id": 9174,
+        "lines": [
+          "やっぱりやめておく。"
+        ]
+      }
+    ],
+    "option_outcomes": [
+      {
+        "option_id": 10201,
+        "option_index": 1,
+        "text": "<sprite name=item_11_small>を120枚消費し、支援素質をランダムで1個獲得する",
+        "results": [
+          {
+            "result_id": 1020101,
+            "probability_percent": null,
+            "effects": [
+              {
+                "code": 5,
+                "parameters": [
+                  120
+                ],
+                "type": "spend_coin",
+                "amount": 120
+              },
+              {
+                "code": 3,
+                "parameters": [
+                  101,
+                  2
+                ],
+                "type": "trigger_drop",
+                "drop_items": [
+                  {
+                    "item_id": 32011,
+                    "item_name": "弾幕カセット・初級"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "result_id": 1020102,
+            "probability_percent": null,
+            "effects": [
+              {
+                "code": 5,
+                "parameters": [
+                  120
+                ],
+                "type": "spend_coin",
+                "amount": 120
+              },
+              {
+                "code": 3,
+                "parameters": [
+                  101,
+                  3
+                ],
+                "type": "trigger_drop",
+                "drop_items": [
+                  {
+                    "item_id": 32011,
+                    "item_name": "弾幕カセット・初級"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "option_id": 10202,
+        "option_index": 2,
+        "text": "<sprite name=item_11_small>を160枚消費し、主力素質をランダムで1個獲得する",
+        "results": [
+          {
+            "result_id": 1020201,
+            "probability_percent": null,
+            "effects": [
+              {
+                "code": 5,
+                "parameters": [
+                  160
+                ],
+                "type": "spend_coin",
+                "amount": 160
+              },
+              {
+                "code": 3,
+                "parameters": [
+                  101,
+                  1
+                ],
+                "type": "trigger_drop",
+                "drop_items": [
+                  {
+                    "item_id": 32011,
+                    "item_name": "弾幕カセット・初級"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "option_id": 10203,
+        "option_index": 3,
+        "text": "<sprite name=item_11_small>を200枚消費し、素質（虹）をランダムで1個獲得する",
+        "results": [
+          {
+            "result_id": 1020301,
+            "probability_percent": null,
+            "effects": [
+              {
+                "code": 5,
+                "parameters": [
+                  200
+                ],
+                "type": "spend_coin",
+                "amount": 200
+              },
+              {
+                "code": 3,
+                "parameters": [
+                  104,
+                  0
+                ],
+                "type": "trigger_drop",
+                "drop_items": [
+                  {
+                    "item_id": 32021,
+                    "item_name": "格闘カセット・初級"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "option_id": 10204,
+        "option_index": 4,
+        "text": "<sprite name=item_11_small>を30枚獲得する",
+        "results": [
+          {
+            "result_id": 1020401,
+            "probability_percent": null,
+            "effects": [
+              {
+                "code": 1,
+                "parameters": [
+                  30
+                ],
+                "type": "gain_coin",
+                "amount": 30
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 103,
+    "description": "获取辉光币",
+    "event_type": 4,
+    "guaranteed_map_id": 201114,
+    "guaranteed_map_scene_res": "Levels/Roguelike/Roguelike_2/Roguelike_2_Reward_002",
+    "guaranteed_map_theme": "流水と暗影",
+    "related_npcs": [
+      9133,
+      9172,
+      9173,
+      9174
+    ],
+    "actions": [
+      {
+        "npc_id": 9133,
+        "lines": [
+          "道に迷っちゃってね～音だけが頼りなんだけどさ～……"
+        ]
+      },
+      {
+        "npc_id": 9172,
+        "lines": [
+          "治療に使える音符を集めているんですが、いただけますか？"
+        ]
+      },
+      {
+        "npc_id": 9173,
+        "lines": [
+          "この音符を処分するつもりかしら？任せるのよ。"
+        ]
+      },
+      {
+        "npc_id": 9174,
+        "lines": [
+          "本当に好きな音は、これじゃないのです？"
+        ]
+      }
+    ],
+    "options": [
+      {
+        "option_index": 1,
+        "npc_id": 9133,
+        "lines": [
+          "道案内してあげるよ！"
+        ]
+      },
+      {
+        "option_index": 1,
+        "npc_id": 9172,
+        "lines": [
+          "あげるよ！"
+        ]
+      },
+      {
+        "option_index": 1,
+        "npc_id": 9173,
+        "lines": [
+          "渡す。"
+        ]
+      },
+      {
+        "option_index": 1,
+        "npc_id": 9174,
+        "lines": [
+          "コインに換えてほしい。"
+        ]
+      },
+      {
+        "option_index": 2,
+        "npc_id": 9133,
+        "lines": [
+          "ごめん、手伝えない。"
+        ]
+      },
+      {
+        "option_index": 2,
+        "npc_id": 9172,
+        "lines": [
+          "ごめん、あげられない。"
+        ]
+      },
+      {
+        "option_index": 2,
+        "npc_id": 9173,
+        "lines": [
+          "やめておく。"
+        ]
+      },
+      {
+        "option_index": 2,
+        "npc_id": 9174,
+        "lines": [
+          "そのままでいい。"
+        ]
+      }
+    ],
+    "option_outcomes": [
+      {
+        "option_id": 10301,
+        "option_index": 1,
+        "text": "音符をランダムで5個消費し、<sprite name=item_11_small>を150枚獲得する",
+        "results": [
+          {
+            "result_id": 1030101,
+            "probability_percent": null,
+            "effects": [
+              {
+                "code": 19,
+                "parameters": [
+                  5
+                ],
+                "type": "spend_notes_random",
+                "quantity": 5
+              },
+              {
+                "code": 1,
+                "parameters": [
+                  150
+                ],
+                "type": "gain_coin",
+                "amount": 150
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "option_id": 10302,
+        "option_index": 2,
+        "text": "<sprite name=item_11_small>を30枚獲得する",
+        "results": [
+          {
+            "result_id": 1030201,
+            "probability_percent": null,
+            "effects": [
+              {
+                "code": 1,
+                "parameters": [
+                  30
+                ],
+                "type": "gain_coin",
+                "amount": 30
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 104,
+    "description": "获取潜能",
+    "event_type": 4,
+    "guaranteed_map_id": 201114,
+    "guaranteed_map_scene_res": "Levels/Roguelike/Roguelike_2/Roguelike_2_Reward_002",
+    "guaranteed_map_theme": "流水と暗影",
+    "related_npcs": [
+      9133,
+      9172,
+      9173,
+      9174
+    ],
+    "actions": [
+      {
+        "npc_id": 9133,
+        "lines": [
+          "こいつは特限定品だよー値段は少し張るけどね。"
+        ]
+      },
+      {
+        "npc_id": 9172,
+        "lines": [
+          "助けて欲しいのですか？それなら……わかりますよね？"
+        ]
+      },
+      {
+        "npc_id": 9173,
+        "lines": [
+          "運命からの贈り物を得るために、何を差し出すつもりかしら？"
+        ]
+      },
+      {
+        "npc_id": 9174,
+        "lines": [
+          "魔王さんの心がけ一つで、運命が微笑みかけるのです。どうするのです？"
+        ]
+      }
+    ],
+    "options": [
+      {
+        "option_index": 1,
+        "npc_id": 9133,
+        "lines": [
+          "音符を渡す。"
+        ]
+      },
+      {
+        "option_index": 1,
+        "npc_id": 9172,
+        "lines": [
+          "音符を渡す。"
+        ]
+      },
+      {
+        "option_index": 1,
+        "npc_id": 9173,
+        "lines": [
+          "音符を渡す。"
+        ]
+      },
+      {
+        "option_index": 1,
+        "npc_id": 9174,
+        "lines": [
+          "音符を渡す。"
+        ]
+      },
+      {
+        "option_index": 2,
+        "npc_id": 9133,
+        "lines": [
+          "ステラコインを渡す。"
+        ]
+      },
+      {
+        "option_index": 2,
+        "npc_id": 9172,
+        "lines": [
+          "ステラコインを渡す。"
+        ]
+      },
+      {
+        "option_index": 2,
+        "npc_id": 9173,
+        "lines": [
+          "ステラコインを渡す。"
+        ]
+      },
+      {
+        "option_index": 2,
+        "npc_id": 9174,
+        "lines": [
+          "ステラコインを渡す。"
+        ]
+      },
+      {
+        "option_index": 3,
+        "npc_id": 9133,
+        "lines": [
+          "必要ない。"
+        ]
+      },
+      {
+        "option_index": 3,
+        "npc_id": 9172,
+        "lines": [
+          "助けは必要ない。"
+        ]
+      },
+      {
+        "option_index": 3,
+        "npc_id": 9173,
+        "lines": [
+          "必要ない。"
+        ]
+      },
+      {
+        "option_index": 3,
+        "npc_id": 9174,
+        "lines": [
+          "必要ない。"
+        ]
+      }
+    ],
+    "option_outcomes": [
+      {
+        "option_id": 10401,
+        "option_index": 1,
+        "text": "音符をランダムで10個消費し、素質（虹）をランダムで1個獲得する",
+        "results": [
+          {
+            "result_id": 1040101,
+            "probability_percent": null,
+            "effects": [
+              {
+                "code": 19,
+                "parameters": [
+                  10
+                ],
+                "type": "spend_notes_random",
+                "quantity": 10
+              },
+              {
+                "code": 3,
+                "parameters": [
+                  104,
+                  0
+                ],
+                "type": "trigger_drop",
+                "drop_items": [
+                  {
+                    "item_id": 32021,
+                    "item_name": "格闘カセット・初級"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "option_id": 10402,
+        "option_index": 2,
+        "text": "<sprite name=item_11_small>を200枚消費し、素質（虹）をランダムで1個獲得する",
+        "results": [
+          {
+            "result_id": 1040201,
+            "probability_percent": null,
+            "effects": [
+              {
+                "code": 5,
+                "parameters": [
+                  200
+                ],
+                "type": "spend_coin",
+                "amount": 200
+              },
+              {
+                "code": 3,
+                "parameters": [
+                  104,
+                  0
+                ],
+                "type": "trigger_drop",
+                "drop_items": [
+                  {
+                    "item_id": 32021,
+                    "item_name": "格闘カセット・初級"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "option_id": 10403,
+        "option_index": 3,
+        "text": "<sprite name=item_11_small>を30枚獲得する",
+        "results": [
+          {
+            "result_id": 1040301,
+            "probability_percent": null,
+            "effects": [
+              {
+                "code": 1,
+                "parameters": [
+                  30
+                ],
+                "type": "gain_coin",
+                "amount": 30
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 105,
+    "description": "赌辉光币",
+    "event_type": 4,
+    "guaranteed_map_id": 201114,
+    "guaranteed_map_scene_res": "Levels/Roguelike/Roguelike_2/Roguelike_2_Reward_002",
+    "guaranteed_map_theme": "流水と暗影",
+    "related_npcs": [
+      9133,
+      9172,
+      9173,
+      9174
+    ],
+    "actions": [
+      {
+        "npc_id": 9133,
+        "lines": [
+          "運試し、してみない？"
+        ]
+      },
+      {
+        "npc_id": 9172,
+        "lines": [
+          "賭けに出るタイミングです。"
+        ]
+      },
+      {
+        "npc_id": 9173,
+        "lines": [
+          "これは……運命の勝負なのよ！"
+        ]
+      },
+      {
+        "npc_id": 9174,
+        "lines": [
+          "魔王さんは何を信じて物事を決めているのです？"
+        ]
+      }
+    ],
+    "options": [
+      {
+        "option_index": 1,
+        "npc_id": 9133,
+        "lines": [
+          "やってみよう。"
+        ]
+      },
+      {
+        "option_index": 1,
+        "npc_id": 9172,
+        "lines": [
+          "手堅く賭ける！"
+        ]
+      },
+      {
+        "option_index": 1,
+        "npc_id": 9173,
+        "lines": [
+          "勝つぞ！"
+        ]
+      },
+      {
+        "option_index": 1,
+        "npc_id": 9174,
+        "lines": [
+          "運を信じる。"
+        ]
+      },
+      {
+        "option_index": 2,
+        "npc_id": 9133,
+        "lines": [
+          "必ず勝つ！"
+        ]
+      },
+      {
+        "option_index": 2,
+        "npc_id": 9172,
+        "lines": [
+          "一発逆転に賭ける！"
+        ]
+      },
+      {
+        "option_index": 2,
+        "npc_id": 9173,
+        "lines": [
+          "勝てる……のか？"
+        ]
+      },
+      {
+        "option_index": 2,
+        "npc_id": 9174,
+        "lines": [
+          "運命を信じる。"
+        ]
+      },
+      {
+        "option_index": 3,
+        "npc_id": 9133,
+        "lines": [
+          "やめておく。"
+        ]
+      },
+      {
+        "option_index": 3,
+        "npc_id": 9172,
+        "lines": [
+          "またの機会に！"
+        ]
+      },
+      {
+        "option_index": 3,
+        "npc_id": 9173,
+        "lines": [
+          "……負けない。"
+        ]
+      },
+      {
+        "option_index": 3,
+        "npc_id": 9174,
+        "lines": [
+          "現実を信じる。"
+        ]
+      }
+    ],
+    "option_outcomes": [
+      {
+        "option_id": 10501,
+        "option_index": 1,
+        "text": "以下のいずれかを得る。<sprite name=item_11_small>を200枚獲得（50％）/<sprite name=item_11_small>を100枚失う（50％）",
+        "results": [
+          {
+            "result_id": 1050101,
+            "probability_percent": 50.0,
+            "effects": [
+              {
+                "code": 1,
+                "parameters": [
+                  200
+                ],
+                "type": "gain_coin",
+                "amount": 200
+              }
+            ]
+          },
+          {
+            "result_id": 1050102,
+            "probability_percent": 50.0,
+            "effects": [
+              {
+                "code": 5,
+                "parameters": [
+                  100
+                ],
+                "type": "spend_coin",
+                "amount": 100
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "option_id": 10502,
+        "option_index": 2,
+        "text": "以下のいずれかを得る。<sprite name=item_11_small>を650枚獲得（30％）/<sprite name=item_11_small>を200枚失う（70％）",
+        "results": [
+          {
+            "result_id": 1050201,
+            "probability_percent": 30.0,
+            "effects": [
+              {
+                "code": 1,
+                "parameters": [
+                  650
+                ],
+                "type": "gain_coin",
+                "amount": 650
+              }
+            ]
+          },
+          {
+            "result_id": 1050202,
+            "probability_percent": 70.0,
+            "effects": [
+              {
+                "code": 5,
+                "parameters": [
+                  200
+                ],
+                "type": "spend_coin",
+                "amount": 200
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "option_id": 10503,
+        "option_index": 3,
+        "text": "<sprite name=item_11_small>を30枚獲得する",
+        "results": [
+          {
+            "result_id": 1050301,
+            "probability_percent": null,
+            "effects": [
+              {
+                "code": 1,
+                "parameters": [
+                  30
+                ],
+                "type": "gain_coin",
+                "amount": 30
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 106,
+    "description": "赌潜能",
+    "event_type": 4,
+    "guaranteed_map_id": 201114,
+    "guaranteed_map_scene_res": "Levels/Roguelike/Roguelike_2/Roguelike_2_Reward_002",
+    "guaranteed_map_theme": "流水と暗影",
+    "related_npcs": [
+      9133,
+      9172,
+      9173,
+      9174
+    ],
+    "actions": [
+      {
+        "npc_id": 9133,
+        "lines": [
+          "運試し、してみない？"
+        ]
+      },
+      {
+        "npc_id": 9172,
+        "lines": [
+          "リスクを負う時がきたようです。"
+        ]
+      },
+      {
+        "npc_id": 9173,
+        "lines": [
+          "これは……運命の勝負なのよ！"
+        ]
+      },
+      {
+        "npc_id": 9174,
+        "lines": [
+          "魔王さんは何を信じて、物事を決めているのです？"
+        ]
+      }
+    ],
+    "options": [
+      {
+        "option_index": 1,
+        "npc_id": 9133,
+        "lines": [
+          "望むところだ！"
+        ]
+      },
+      {
+        "option_index": 1,
+        "npc_id": 9172,
+        "lines": [
+          "少しだけなら！"
+        ]
+      },
+      {
+        "option_index": 1,
+        "npc_id": 9173,
+        "lines": [
+          "正面から挑む！"
+        ]
+      },
+      {
+        "option_index": 1,
+        "npc_id": 9174,
+        "lines": [
+          "運命が答えをくれる。"
+        ]
+      },
+      {
+        "option_index": 2,
+        "npc_id": 9133,
+        "lines": [
+          "流れが来てない気がする。"
+        ]
+      },
+      {
+        "option_index": 2,
+        "npc_id": 9172,
+        "lines": [
+          "命を賭けよう！"
+        ]
+      },
+      {
+        "option_index": 2,
+        "npc_id": 9173,
+        "lines": [
+          "安定は大事！"
+        ]
+      },
+      {
+        "option_index": 2,
+        "npc_id": 9174,
+        "lines": [
+          "冷静に、理性で。"
+        ]
+      },
+      {
+        "option_index": 3,
+        "npc_id": 9133,
+        "lines": [
+          "やめておく。"
+        ]
+      },
+      {
+        "option_index": 3,
+        "npc_id": 9172,
+        "lines": [
+          "リスクは負いたくない。"
+        ]
+      },
+      {
+        "option_index": 3,
+        "npc_id": 9173,
+        "lines": [
+          "賭けなければ負けない。"
+        ]
+      },
+      {
+        "option_index": 3,
+        "npc_id": 9174,
+        "lines": [
+          "何も信じていない。"
+        ]
+      }
+    ],
+    "option_outcomes": [
+      {
+        "option_id": 10601,
+        "option_index": 1,
+        "text": "最大HPを20%消費し、50%の確率で素質（虹）をランダムで1個獲得する",
+        "results": [
+          {
+            "result_id": 1060101,
+            "probability_percent": null,
+            "effects": [
+              {
+                "code": 14,
+                "parameters": [
+                  989981
+                ],
+                "type": "apply_event_effect",
+                "target_id": 989981
+              },
+              {
+                "code": 3,
+                "parameters": [
+                  104,
+                  0
+                ],
+                "type": "trigger_drop",
+                "drop_items": [
+                  {
+                    "item_id": 32021,
+                    "item_name": "格闘カセット・初級"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "result_id": 1060102,
+            "probability_percent": null,
+            "effects": [
+              {
+                "code": 14,
+                "parameters": [
+                  989981
+                ],
+                "type": "apply_event_effect",
+                "target_id": 989981
+              },
+              {
+                "code": 16,
+                "parameters": [
+                  108030102
+                ],
+                "type": "trigger_event_message",
+                "target_id": 108030102
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "option_id": 10602,
+        "option_index": 2,
+        "text": "最大HPを40%消費し、素質（金）をランダムで1個獲得する",
+        "results": [
+          {
+            "result_id": 1060201,
+            "probability_percent": null,
+            "effects": [
+              {
+                "code": 14,
+                "parameters": [
+                  989983
+                ],
+                "type": "apply_event_effect",
+                "target_id": 989983
+              },
+              {
+                "code": 3,
+                "parameters": [
+                  103,
+                  0
+                ],
+                "type": "trigger_drop",
+                "drop_items": [
+                  {
+                    "item_id": 32001,
+                    "item_name": "音楽カセット・初級"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "option_id": 10603,
+        "option_index": 3,
+        "text": "<sprite name=item_11_small>を30枚獲得する",
+        "results": [
+          {
+            "result_id": 1060301,
+            "probability_percent": null,
+            "effects": [
+              {
+                "code": 1,
+                "parameters": [
+                  30
+                ],
+                "type": "gain_coin",
+                "amount": 30
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 107,
+    "description": "获取音符",
+    "event_type": 4,
+    "guaranteed_map_id": 201114,
+    "guaranteed_map_scene_res": "Levels/Roguelike/Roguelike_2/Roguelike_2_Reward_002",
+    "guaranteed_map_theme": "流水と暗影",
+    "related_npcs": [
+      9133,
+      9172,
+      9173,
+      9174
+    ],
+    "actions": [
+      {
+        "npc_id": 9133,
+        "lines": [
+          "歌を聴くの？じゃあ、一緒に聴こうか。"
+        ]
+      },
+      {
+        "npc_id": 9172,
+        "lines": [
+          "音楽も治療の一環です。"
+        ]
+      },
+      {
+        "npc_id": 9173,
+        "lines": [
+          "旋律は……魔王サマの運命にどう影響を与えるのかしら？"
+        ]
+      },
+      {
+        "npc_id": 9174,
+        "lines": [
+          "魔王さんは運命の旋律をどんな風に聴くのです？"
+        ]
+      }
+    ],
+    "options": [
+      {
+        "option_index": 1,
+        "npc_id": 9133,
+        "lines": [
+          "曲を選んでもいい？"
+        ]
+      },
+      {
+        "option_index": 1,
+        "npc_id": 9172,
+        "lines": [
+          "これが聴きたい。"
+        ]
+      },
+      {
+        "option_index": 1,
+        "npc_id": 9173,
+        "lines": [
+          "ヒントをくれる。"
+        ]
+      },
+      {
+        "option_index": 1,
+        "npc_id": 9174,
+        "lines": [
+          "計画的に。"
+        ]
+      },
+      {
+        "option_index": 2,
+        "npc_id": 9133,
+        "lines": [
+          "曲を選んでもいい？"
+        ]
+      },
+      {
+        "option_index": 2,
+        "npc_id": 9172,
+        "lines": [
+          "これが聴きたい。"
+        ]
+      },
+      {
+        "option_index": 2,
+        "npc_id": 9173,
+        "lines": [
+          "ヒントをくれる。"
+        ]
+      },
+      {
+        "option_index": 2,
+        "npc_id": 9174,
+        "lines": [
+          "計画的に。"
+        ]
+      },
+      {
+        "option_index": 3,
+        "npc_id": 9133,
+        "lines": [
+          "曲を選んでもいい？"
+        ]
+      },
+      {
+        "option_index": 3,
+        "npc_id": 9172,
+        "lines": [
+          "これが聴きたい。"
+        ]
+      },
+      {
+        "option_index": 3,
+        "npc_id": 9173,
+        "lines": [
+          "ヒントをくれる。"
+        ]
+      },
+      {
+        "option_index": 3,
+        "npc_id": 9174,
+        "lines": [
+          "計画的に。"
+        ]
+      },
+      {
+        "option_index": 4,
+        "npc_id": 9133,
+        "lines": [
+          "曲を選んでもいい？"
+        ]
+      },
+      {
+        "option_index": 4,
+        "npc_id": 9172,
+        "lines": [
+          "これが聴きたい。"
+        ]
+      },
+      {
+        "option_index": 4,
+        "npc_id": 9173,
+        "lines": [
+          "ヒントをくれる。"
+        ]
+      },
+      {
+        "option_index": 4,
+        "npc_id": 9174,
+        "lines": [
+          "計画的に。"
+        ]
+      },
+      {
+        "option_index": 5,
+        "npc_id": 9133,
+        "lines": [
+          "曲を選んでもいい？"
+        ]
+      },
+      {
+        "option_index": 5,
+        "npc_id": 9172,
+        "lines": [
+          "これが聴きたい。"
+        ]
+      },
+      {
+        "option_index": 5,
+        "npc_id": 9173,
+        "lines": [
+          "ヒントをくれる。"
+        ]
+      },
+      {
+        "option_index": 5,
+        "npc_id": 9174,
+        "lines": [
+          "計画的に。"
+        ]
+      },
+      {
+        "option_index": 6,
+        "npc_id": 9133,
+        "lines": [
+          "曲を選んでもいい？"
+        ]
+      },
+      {
+        "option_index": 6,
+        "npc_id": 9172,
+        "lines": [
+          "これが聴きたい。"
+        ]
+      },
+      {
+        "option_index": 6,
+        "npc_id": 9173,
+        "lines": [
+          "ヒントをくれる。"
+        ]
+      },
+      {
+        "option_index": 6,
+        "npc_id": 9174,
+        "lines": [
+          "計画的に。"
+        ]
+      },
+      {
+        "option_index": 7,
+        "npc_id": 9133,
+        "lines": [
+          "曲を選んでもいい？"
+        ]
+      },
+      {
+        "option_index": 7,
+        "npc_id": 9172,
+        "lines": [
+          "これが聴きたい。"
+        ]
+      },
+      {
+        "option_index": 7,
+        "npc_id": 9173,
+        "lines": [
+          "ヒントをくれる。"
+        ]
+      },
+      {
+        "option_index": 7,
+        "npc_id": 9174,
+        "lines": [
+          "計画的に。"
+        ]
+      },
+      {
+        "option_index": 8,
+        "npc_id": 9133,
+        "lines": [
+          "あなたの好きな曲でいい。"
+        ]
+      },
+      {
+        "option_index": 8,
+        "npc_id": 9172,
+        "lines": [
+          "全部聴きたい。"
+        ]
+      },
+      {
+        "option_index": 8,
+        "npc_id": 9173,
+        "lines": [
+          "道を示してくれる。"
+        ]
+      },
+      {
+        "option_index": 8,
+        "npc_id": 9174,
+        "lines": [
+          "気の向くままに。"
+        ]
+      }
+    ],
+    "option_outcomes": [
+      {
+        "option_id": 10701,
+        "option_index": 1,
+        "text": "強撃の音符<sprite name=note_90011_S>を5個獲得する",
+        "results": [
+          {
+            "result_id": 1070101,
+            "probability_percent": null,
+            "effects": [
+              {
+                "code": 18,
+                "parameters": [
+                  90011,
+                  5
+                ],
+                "type": "gain_specific_notes",
+                "note_id": 90011,
+                "quantity": 5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "option_id": 10702,
+        "option_index": 2,
+        "text": "幸運の音符<sprite name=note_90012_S>を5個獲得する",
+        "results": [
+          {
+            "result_id": 1070201,
+            "probability_percent": null,
+            "effects": [
+              {
+                "code": 18,
+                "parameters": [
+                  90012,
+                  5
+                ],
+                "type": "gain_specific_notes",
+                "note_id": 90012,
+                "quantity": 5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "option_id": 10703,
+        "option_index": 3,
+        "text": "爆発の音符<sprite name=note_90013_S>を5個獲得する",
+        "results": [
+          {
+            "result_id": 1070301,
+            "probability_percent": null,
+            "effects": [
+              {
+                "code": 18,
+                "parameters": [
+                  90013,
+                  5
+                ],
+                "type": "gain_specific_notes",
+                "note_id": 90013,
+                "quantity": 5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "option_id": 10704,
+        "option_index": 4,
+        "text": "体力の音符<sprite name=note_90014_S>を5個獲得する",
+        "results": [
+          {
+            "result_id": 1070401,
+            "probability_percent": null,
+            "effects": [
+              {
+                "code": 18,
+                "parameters": [
+                  90014,
+                  5
+                ],
+                "type": "gain_specific_notes",
+                "note_id": 90014,
+                "quantity": 5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "option_id": 10705,
+        "option_index": 5,
+        "text": "集中の音符<sprite name=note_90015_S>を5個獲得する",
+        "results": [
+          {
+            "result_id": 1070501,
+            "probability_percent": null,
+            "effects": [
+              {
+                "code": 18,
+                "parameters": [
+                  90015,
+                  5
+                ],
+                "type": "gain_specific_notes",
+                "note_id": 90015,
+                "quantity": 5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "option_id": 10706,
+        "option_index": 6,
+        "text": "器用の音符<sprite name=note_90016_S>を5個獲得する",
+        "results": [
+          {
+            "result_id": 1070601,
+            "probability_percent": null,
+            "effects": [
+              {
+                "code": 18,
+                "parameters": [
+                  90016,
+                  5
+                ],
+                "type": "gain_specific_notes",
+                "note_id": 90016,
+                "quantity": 5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "option_id": 10707,
+        "option_index": 7,
+        "text": "必殺の音符<sprite name=note_90017_S>を5個獲得する",
+        "results": [
+          {
+            "result_id": 1070701,
+            "probability_percent": null,
+            "effects": [
+              {
+                "code": 18,
+                "parameters": [
+                  90017,
+                  5
+                ],
+                "type": "gain_specific_notes",
+                "note_id": 90017,
+                "quantity": 5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "option_id": 10708,
+        "option_index": 8,
+        "text": "音符をランダムで5個獲得する",
+        "results": [
+          {
+            "result_id": 1070801,
+            "probability_percent": null,
+            "effects": [
+              {
+                "code": 17,
+                "parameters": [
+                  5,
+                  1
+                ],
+                "type": "gain_notes_random",
+                "quantity": 5,
+                "note_type": 1
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 108,
+    "description": "交易音符",
+    "event_type": 4,
+    "guaranteed_map_id": 201114,
+    "guaranteed_map_scene_res": "Levels/Roguelike/Roguelike_2/Roguelike_2_Reward_002",
+    "guaranteed_map_theme": "流水と暗影",
+    "related_npcs": [
+      9133,
+      9172,
+      9173,
+      9174
+    ],
+    "actions": [
+      {
+        "npc_id": 9133,
+        "lines": [
+          "歌を聴くの？じゃあ、一緒に聴こうか。"
+        ]
+      },
+      {
+        "npc_id": 9172,
+        "lines": [
+          "音楽も治療の一環です。"
+        ]
+      },
+      {
+        "npc_id": 9173,
+        "lines": [
+          "旋律は……魔王サマの運命にどう影響を与えるのかしら？"
+        ]
+      },
+      {
+        "npc_id": 9174,
+        "lines": [
+          "魔王さんは運命の旋律をどんな風に聴くのです？"
+        ]
+      }
+    ],
+    "options": [
+      {
+        "option_index": 1,
+        "npc_id": 9133,
+        "lines": [
+          "曲を選んでもいい？"
+        ]
+      },
+      {
+        "option_index": 1,
+        "npc_id": 9172,
+        "lines": [
+          "これが聴きたい。"
+        ]
+      },
+      {
+        "option_index": 1,
+        "npc_id": 9173,
+        "lines": [
+          "ヒントをくれる。"
+        ]
+      },
+      {
+        "option_index": 1,
+        "npc_id": 9174,
+        "lines": [
+          "計画的に。"
+        ]
+      },
+      {
+        "option_index": 2,
+        "npc_id": 9133,
+        "lines": [
+          "曲を選んでもいい？"
+        ]
+      },
+      {
+        "option_index": 2,
+        "npc_id": 9172,
+        "lines": [
+          "これが聴きたい。"
+        ]
+      },
+      {
+        "option_index": 2,
+        "npc_id": 9173,
+        "lines": [
+          "ヒントをくれる。"
+        ]
+      },
+      {
+        "option_index": 2,
+        "npc_id": 9174,
+        "lines": [
+          "計画的に。"
+        ]
+      },
+      {
+        "option_index": 3,
+        "npc_id": 9133,
+        "lines": [
+          "曲を選んでもいい？"
+        ]
+      },
+      {
+        "option_index": 3,
+        "npc_id": 9172,
+        "lines": [
+          "これが聴きたい。"
+        ]
+      },
+      {
+        "option_index": 3,
+        "npc_id": 9173,
+        "lines": [
+          "ヒントをくれる。"
+        ]
+      },
+      {
+        "option_index": 3,
+        "npc_id": 9174,
+        "lines": [
+          "計画的に。"
+        ]
+      },
+      {
+        "option_index": 4,
+        "npc_id": 9133,
+        "lines": [
+          "曲を選んでもいい？"
+        ]
+      },
+      {
+        "option_index": 4,
+        "npc_id": 9172,
+        "lines": [
+          "これが聴きたい。"
+        ]
+      },
+      {
+        "option_index": 4,
+        "npc_id": 9173,
+        "lines": [
+          "ヒントをくれる。"
+        ]
+      },
+      {
+        "option_index": 4,
+        "npc_id": 9174,
+        "lines": [
+          "計画的に。"
+        ]
+      },
+      {
+        "option_index": 5,
+        "npc_id": 9133,
+        "lines": [
+          "曲を選んでもいい？"
+        ]
+      },
+      {
+        "option_index": 5,
+        "npc_id": 9172,
+        "lines": [
+          "これが聴きたい。"
+        ]
+      },
+      {
+        "option_index": 5,
+        "npc_id": 9173,
+        "lines": [
+          "ヒントをくれる。"
+        ]
+      },
+      {
+        "option_index": 5,
+        "npc_id": 9174,
+        "lines": [
+          "計画的に。"
+        ]
+      },
+      {
+        "option_index": 6,
+        "npc_id": 9133,
+        "lines": [
+          "曲を選んでもいい？"
+        ]
+      },
+      {
+        "option_index": 6,
+        "npc_id": 9172,
+        "lines": [
+          "これが聴きたい。"
+        ]
+      },
+      {
+        "option_index": 6,
+        "npc_id": 9173,
+        "lines": [
+          "ヒントをくれる。"
+        ]
+      },
+      {
+        "option_index": 6,
+        "npc_id": 9174,
+        "lines": [
+          "計画的に。"
+        ]
+      },
+      {
+        "option_index": 7,
+        "npc_id": 9133,
+        "lines": [
+          "曲を選んでもいい？"
+        ]
+      },
+      {
+        "option_index": 7,
+        "npc_id": 9172,
+        "lines": [
+          "これが聴きたい。"
+        ]
+      },
+      {
+        "option_index": 7,
+        "npc_id": 9173,
+        "lines": [
+          "ヒントをくれる。"
+        ]
+      },
+      {
+        "option_index": 7,
+        "npc_id": 9174,
+        "lines": [
+          "計画的に。"
+        ]
+      },
+      {
+        "option_index": 8,
+        "npc_id": 9133,
+        "lines": [
+          "あなたの好きな曲でいい。"
+        ]
+      },
+      {
+        "option_index": 8,
+        "npc_id": 9172,
+        "lines": [
+          "全部聴きたい。"
+        ]
+      },
+      {
+        "option_index": 8,
+        "npc_id": 9173,
+        "lines": [
+          "道を示してくれる。"
+        ]
+      },
+      {
+        "option_index": 8,
+        "npc_id": 9174,
+        "lines": [
+          "気の向くままに。"
+        ]
+      },
+      {
+        "option_index": 9,
+        "npc_id": 9133,
+        "lines": [
+          "やめておく。"
+        ]
+      },
+      {
+        "option_index": 9,
+        "npc_id": 9172,
+        "lines": [
+          "やめておく。"
+        ]
+      },
+      {
+        "option_index": 9,
+        "npc_id": 9173,
+        "lines": [
+          "影響は受けないようにしてる。"
+        ]
+      },
+      {
+        "option_index": 9,
+        "npc_id": 9174,
+        "lines": [
+          "何も聞かない。"
+        ]
+      }
+    ],
+    "option_outcomes": [
+      {
+        "option_id": 10801,
+        "option_index": 1,
+        "text": "<sprite name=item_11_small>を140枚消費し、強撃の音符<sprite name=note_90011_S>を10個獲得する",
+        "results": [
+          {
+            "result_id": 1080101,
+            "probability_percent": null,
+            "effects": [
+              {
+                "code": 5,
+                "parameters": [
+                  140
+                ],
+                "type": "spend_coin",
+                "amount": 140
+              },
+              {
+                "code": 18,
+                "parameters": [
+                  90011,
+                  10
+                ],
+                "type": "gain_specific_notes",
+                "note_id": 90011,
+                "quantity": 10
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "option_id": 10802,
+        "option_index": 2,
+        "text": "<sprite name=item_11_small>を140枚消費し、幸運の音符<sprite name=note_90012_S>を10個獲得する",
+        "results": [
+          {
+            "result_id": 1080201,
+            "probability_percent": null,
+            "effects": [
+              {
+                "code": 5,
+                "parameters": [
+                  140
+                ],
+                "type": "spend_coin",
+                "amount": 140
+              },
+              {
+                "code": 18,
+                "parameters": [
+                  90012,
+                  10
+                ],
+                "type": "gain_specific_notes",
+                "note_id": 90012,
+                "quantity": 10
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "option_id": 10803,
+        "option_index": 3,
+        "text": "<sprite name=item_11_small>を140枚消費し、爆発の音符<sprite name=note_90013_S>を10個獲得する",
+        "results": [
+          {
+            "result_id": 1080301,
+            "probability_percent": null,
+            "effects": [
+              {
+                "code": 5,
+                "parameters": [
+                  140
+                ],
+                "type": "spend_coin",
+                "amount": 140
+              },
+              {
+                "code": 18,
+                "parameters": [
+                  90013,
+                  10
+                ],
+                "type": "gain_specific_notes",
+                "note_id": 90013,
+                "quantity": 10
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "option_id": 10804,
+        "option_index": 4,
+        "text": "<sprite name=item_11_small>を140枚消費し、体力の音符<sprite name=note_90014_S>を10個獲得する",
+        "results": [
+          {
+            "result_id": 1080401,
+            "probability_percent": null,
+            "effects": [
+              {
+                "code": 5,
+                "parameters": [
+                  140
+                ],
+                "type": "spend_coin",
+                "amount": 140
+              },
+              {
+                "code": 18,
+                "parameters": [
+                  90014,
+                  10
+                ],
+                "type": "gain_specific_notes",
+                "note_id": 90014,
+                "quantity": 10
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "option_id": 10805,
+        "option_index": 5,
+        "text": "<sprite name=item_11_small>を140枚消費し、集中の音符<sprite name=note_90015_S>を10個獲得する",
+        "results": [
+          {
+            "result_id": 1080501,
+            "probability_percent": null,
+            "effects": [
+              {
+                "code": 5,
+                "parameters": [
+                  140
+                ],
+                "type": "spend_coin",
+                "amount": 140
+              },
+              {
+                "code": 18,
+                "parameters": [
+                  90015,
+                  10
+                ],
+                "type": "gain_specific_notes",
+                "note_id": 90015,
+                "quantity": 10
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "option_id": 10806,
+        "option_index": 6,
+        "text": "<sprite name=item_11_small>を140枚消費し、器用の音符<sprite name=note_90016_S>を10個獲得する",
+        "results": [
+          {
+            "result_id": 1080601,
+            "probability_percent": null,
+            "effects": [
+              {
+                "code": 5,
+                "parameters": [
+                  140
+                ],
+                "type": "spend_coin",
+                "amount": 140
+              },
+              {
+                "code": 18,
+                "parameters": [
+                  90016,
+                  10
+                ],
+                "type": "gain_specific_notes",
+                "note_id": 90016,
+                "quantity": 10
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "option_id": 10807,
+        "option_index": 7,
+        "text": "<sprite name=item_11_small>を140枚消費し、必殺の音符<sprite name=note_90017_S>を10個獲得する",
+        "results": [
+          {
+            "result_id": 1080701,
+            "probability_percent": null,
+            "effects": [
+              {
+                "code": 5,
+                "parameters": [
+                  140
+                ],
+                "type": "spend_coin",
+                "amount": 140
+              },
+              {
+                "code": 18,
+                "parameters": [
+                  90017,
+                  10
+                ],
+                "type": "gain_specific_notes",
+                "note_id": 90017,
+                "quantity": 10
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "option_id": 10808,
+        "option_index": 8,
+        "text": "<sprite name=item_11_small>を90枚消費し、音符をランダムで10個獲得する",
+        "results": [
+          {
+            "result_id": 1080801,
+            "probability_percent": null,
+            "effects": [
+              {
+                "code": 5,
+                "parameters": [
+                  90
+                ],
+                "type": "spend_coin",
+                "amount": 90
+              },
+              {
+                "code": 17,
+                "parameters": [
+                  10,
+                  1
+                ],
+                "type": "gain_notes_random",
+                "quantity": 10,
+                "note_type": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "option_id": 10809,
+        "option_index": 9,
+        "text": "<sprite name=item_11_small>を30枚獲得する",
+        "results": [
+          {
+            "result_id": 1080901,
+            "probability_percent": null,
+            "effects": [
+              {
+                "code": 1,
+                "parameters": [
+                  30
+                ],
+                "type": "gain_coin",
+                "amount": 30
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 109,
+    "description": "购买随机",
+    "event_type": 4,
+    "guaranteed_map_id": 201114,
+    "guaranteed_map_scene_res": "Levels/Roguelike/Roguelike_2/Roguelike_2_Reward_002",
+    "guaranteed_map_theme": "流水と暗影",
+    "related_npcs": [
+      9133,
+      9172,
+      9173,
+      9174
+    ],
+    "actions": [
+      {
+        "npc_id": 9133,
+        "lines": [
+          "この商品、買ってくれない？中身は開けてからのお楽しみってことで。"
+        ]
+      },
+      {
+        "npc_id": 9172,
+        "lines": [
+          "ちょっとしたプレゼントです。"
+        ]
+      },
+      {
+        "npc_id": 9173,
+        "lines": [
+          "ちょっとした運試しのつもりだったのよ……"
+        ]
+      },
+      {
+        "npc_id": 9174,
+        "lines": [
+          "魔王さんが自分で進んだのですよ。"
+        ]
+      }
+    ],
+    "options": [
+      {
+        "option_index": 1,
+        "npc_id": 9133,
+        "lines": [
+          "もらおう。"
+        ]
+      },
+      {
+        "option_index": 1,
+        "npc_id": 9172,
+        "lines": [
+          "遠慮なくいただくよ。"
+        ]
+      },
+      {
+        "option_index": 1,
+        "npc_id": 9173,
+        "lines": [
+          "儲けもの！"
+        ]
+      },
+      {
+        "option_index": 1,
+        "npc_id": 9174,
+        "lines": [
+          "恩恵に感謝する。"
+        ]
+      },
+      {
+        "option_index": 2,
+        "npc_id": 9133,
+        "lines": [
+          "押し売りか？！"
+        ]
+      },
+      {
+        "option_index": 2,
+        "npc_id": 9172,
+        "lines": [
+          "お返しをしないとね。"
+        ]
+      },
+      {
+        "option_index": 2,
+        "npc_id": 9173,
+        "lines": [
+          "多少の犠牲は仕方ない。"
+        ]
+      },
+      {
+        "option_index": 2,
+        "npc_id": 9174,
+        "lines": [
+          "代価を払う覚悟はある。"
+        ]
+      }
+    ],
+    "option_outcomes": [
+      {
+        "option_id": 10901,
+        "option_index": 1,
+        "text": "以下のいずれかを得る。<sprite name=item_11_small>を100枚獲得（50％）/素質をランダムで1個獲得（50％）",
+        "results": [
+          {
+            "result_id": 1090101,
+            "probability_percent": 50.0,
+            "effects": [
+              {
+                "code": 1,
+                "parameters": [
+                  100
+                ],
+                "type": "gain_coin",
+                "amount": 100
+              }
+            ]
+          },
+          {
+            "result_id": 1090102,
+            "probability_percent": 50.0,
+            "effects": [
+              {
+                "code": 3,
+                "parameters": [
+                  103,
+                  0
+                ],
+                "type": "trigger_drop",
+                "drop_items": [
+                  {
+                    "item_id": 32001,
+                    "item_name": "音楽カセット・初級"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "option_id": 10902,
+        "option_index": 2,
+        "text": "<sprite name=item_11_small>を120枚消費し、素質をランダムで1個獲得する",
+        "results": [
+          {
+            "result_id": 1090201,
+            "probability_percent": null,
+            "effects": [
+              {
+                "code": 5,
+                "parameters": [
+                  120
+                ],
+                "type": "spend_coin",
+                "amount": 120
+              },
+              {
+                "code": 3,
+                "parameters": [
+                  101,
+                  0
+                ],
+                "type": "trigger_drop",
+                "drop_items": [
+                  {
+                    "item_id": 21091,
+                    "item_name": "薄光の残滓"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 110,
+    "description": "购买随机",
+    "event_type": 4,
+    "guaranteed_map_id": 201114,
+    "guaranteed_map_scene_res": "Levels/Roguelike/Roguelike_2/Roguelike_2_Reward_002",
+    "guaranteed_map_theme": "流水と暗影",
+    "related_npcs": [
+      9133,
+      9172,
+      9173,
+      9174
+    ],
+    "actions": [
+      {
+        "npc_id": 9133,
+        "lines": [
+          "この商品、買ってくれない？中身は開けてからのお楽しみってことで。"
+        ]
+      },
+      {
+        "npc_id": 9172,
+        "lines": [
+          "ちょっとしたプレゼントです。"
+        ]
+      },
+      {
+        "npc_id": 9173,
+        "lines": [
+          "ちょっとした運試しのつもりだったのよ……"
+        ]
+      },
+      {
+        "npc_id": 9174,
+        "lines": [
+          "魔王さんが自分で進んだのですよ。"
+        ]
+      }
+    ],
+    "options": [
+      {
+        "option_index": 1,
+        "npc_id": 9133,
+        "lines": [
+          "もらおう。"
+        ]
+      },
+      {
+        "option_index": 1,
+        "npc_id": 9172,
+        "lines": [
+          "遠慮なくいただくよ。"
+        ]
+      },
+      {
+        "option_index": 1,
+        "npc_id": 9173,
+        "lines": [
+          "もうけもんだ！"
+        ]
+      },
+      {
+        "option_index": 1,
+        "npc_id": 9174,
+        "lines": [
+          "恩恵に感謝する。"
+        ]
+      },
+      {
+        "option_index": 2,
+        "npc_id": 9133,
+        "lines": [
+          "押し売りか？！"
+        ]
+      },
+      {
+        "option_index": 2,
+        "npc_id": 9172,
+        "lines": [
+          "お返しをしないとね。"
+        ]
+      },
+      {
+        "option_index": 2,
+        "npc_id": 9173,
+        "lines": [
+          "少しの犠牲はしかたない。"
+        ]
+      },
+      {
+        "option_index": 2,
+        "npc_id": 9174,
+        "lines": [
+          "代価を払う覚悟はある。"
+        ]
+      }
+    ],
+    "option_outcomes": [
+      {
+        "option_id": 11001,
+        "option_index": 1,
+        "text": "以下のいずれかを得る。<sprite name=item_11_small>を120枚獲得（50％）/素質（虹）をランダムで1個獲得（50％）",
+        "results": [
+          {
+            "result_id": 1100101,
+            "probability_percent": 50.0,
+            "effects": [
+              {
+                "code": 1,
+                "parameters": [
+                  120
+                ],
+                "type": "gain_coin",
+                "amount": 120
+              }
+            ]
+          },
+          {
+            "result_id": 1100102,
+            "probability_percent": 50.0,
+            "effects": [
+              {
+                "code": 3,
+                "parameters": [
+                  104,
+                  0
+                ],
+                "type": "trigger_drop",
+                "drop_items": [
+                  {
+                    "item_id": 32021,
+                    "item_name": "格闘カセット・初級"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "option_id": 11002,
+        "option_index": 2,
+        "text": "<sprite name=item_11_small>を160枚消費し、素質（虹）をランダムで1個獲得する",
+        "results": [
+          {
+            "result_id": 1100201,
+            "probability_percent": null,
+            "effects": [
+              {
+                "code": 5,
+                "parameters": [
+                  160
+                ],
+                "type": "spend_coin",
+                "amount": 160
+              },
+              {
+                "code": 3,
+                "parameters": [
+                  104,
+                  0
+                ],
+                "type": "trigger_drop",
+                "drop_items": [
+                  {
+                    "item_id": 32021,
+                    "item_name": "格闘カセット・初級"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 111,
+    "description": "恢复or潜能",
+    "event_type": 4,
+    "guaranteed_map_id": 201114,
+    "guaranteed_map_scene_res": "Levels/Roguelike/Roguelike_2/Roguelike_2_Reward_002",
+    "guaranteed_map_theme": "流水と暗影",
+    "related_npcs": [
+      9133,
+      9172,
+      9173,
+      9174
+    ],
+    "actions": [
+      {
+        "npc_id": 9133,
+        "lines": [
+          "お腹が空いているの？それとも……"
+        ]
+      },
+      {
+        "npc_id": 9172,
+        "lines": [
+          "追加の治療が必要ですか？それとも……"
+        ]
+      },
+      {
+        "npc_id": 9173,
+        "lines": [
+          "命だって賭けられるのよ？"
+        ]
+      },
+      {
+        "npc_id": 9174,
+        "lines": [
+          "命と引き換えにしてでも何かを得たいのです？"
+        ]
+      }
+    ],
+    "options": [
+      {
+        "option_index": 1,
+        "npc_id": 9133,
+        "lines": [
+          "何かおいしいものが食べたい！"
+        ]
+      },
+      {
+        "option_index": 1,
+        "npc_id": 9172,
+        "lines": [
+          "治療して欲しい。"
+        ]
+      },
+      {
+        "option_index": 1,
+        "npc_id": 9173,
+        "lines": [
+          "じゃあ、少し頂こうか。"
+        ]
+      },
+      {
+        "option_index": 1,
+        "npc_id": 9174,
+        "lines": [
+          "むしろ命を少し分けてもらいたい……"
+        ]
+      },
+      {
+        "option_index": 2,
+        "npc_id": 9133,
+        "lines": [
+          "刺激的なものが欲しい！"
+        ]
+      },
+      {
+        "option_index": 2,
+        "npc_id": 9172,
+        "lines": [
+          "力が欲しい。"
+        ]
+      },
+      {
+        "option_index": 2,
+        "npc_id": 9173,
+        "lines": [
+          "試してみてもいいかも……"
+        ]
+      },
+      {
+        "option_index": 2,
+        "npc_id": 9174,
+        "lines": [
+          "力と交換する……"
+        ]
+      }
+    ],
+    "option_outcomes": [
+      {
+        "option_id": 11101,
+        "option_index": 1,
+        "text": "HPを20%回復する",
+        "results": [
+          {
+            "result_id": 1110101,
+            "probability_percent": null,
+            "effects": [
+              {
+                "code": 14,
+                "parameters": [
+                  989991
+                ],
+                "type": "apply_event_effect",
+                "target_id": 989991
+              },
+              {
+                "code": 16,
+                "parameters": [
+                  1110101
+                ],
+                "type": "trigger_event_message",
+                "target_id": 1110101
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "option_id": 11102,
+        "option_index": 2,
+        "text": "HPを20%消費し、素質（金）をランダムで1個獲得する",
+        "results": [
+          {
+            "result_id": 1110201,
+            "probability_percent": null,
+            "effects": [
+              {
+                "code": 14,
+                "parameters": [
+                  989981
+                ],
+                "type": "apply_event_effect",
+                "target_id": 989981
+              },
+              {
+                "code": 3,
+                "parameters": [
+                  103,
+                  0
+                ],
+                "type": "trigger_drop",
+                "drop_items": [
+                  {
+                    "item_id": 32001,
+                    "item_name": "音楽カセット・初級"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 112,
+    "description": "恢复or潜能",
+    "event_type": 4,
+    "guaranteed_map_id": 201114,
+    "guaranteed_map_scene_res": "Levels/Roguelike/Roguelike_2/Roguelike_2_Reward_002",
+    "guaranteed_map_theme": "流水と暗影",
+    "related_npcs": [
+      9133,
+      9172,
+      9173,
+      9174
+    ],
+    "actions": [
+      {
+        "npc_id": 9133,
+        "lines": [
+          "お腹が空いているの？それとも……"
+        ]
+      },
+      {
+        "npc_id": 9172,
+        "lines": [
+          "追加の治療が必要ですか？それとも……"
+        ]
+      },
+      {
+        "npc_id": 9173,
+        "lines": [
+          "命だって賭けられるのよ？"
+        ]
+      },
+      {
+        "npc_id": 9174,
+        "lines": [
+          "命と引き換えにしてでも何かを得たいのです？"
+        ]
+      }
+    ],
+    "options": [
+      {
+        "option_index": 1,
+        "npc_id": 9133,
+        "lines": [
+          "何かおいしいものが食べたい！"
+        ]
+      },
+      {
+        "option_index": 1,
+        "npc_id": 9172,
+        "lines": [
+          "治療して欲しい。"
+        ]
+      },
+      {
+        "option_index": 1,
+        "npc_id": 9173,
+        "lines": [
+          "じゃあ、少し頂こうか。"
+        ]
+      },
+      {
+        "option_index": 1,
+        "npc_id": 9174,
+        "lines": [
+          "むしろ命を少し分けてもらいたい……"
+        ]
+      },
+      {
+        "option_index": 2,
+        "npc_id": 9133,
+        "lines": [
+          "刺激的なものが欲しい！"
+        ]
+      },
+      {
+        "option_index": 2,
+        "npc_id": 9172,
+        "lines": [
+          "力が欲しい。"
+        ]
+      },
+      {
+        "option_index": 2,
+        "npc_id": 9173,
+        "lines": [
+          "試してみてもいいかも……"
+        ]
+      },
+      {
+        "option_index": 2,
+        "npc_id": 9174,
+        "lines": [
+          "力と交換する……"
+        ]
+      }
+    ],
+    "option_outcomes": [
+      {
+        "option_id": 11201,
+        "option_index": 1,
+        "text": "HPを20%回復する",
+        "results": [
+          {
+            "result_id": 1120101,
+            "probability_percent": null,
+            "effects": [
+              {
+                "code": 14,
+                "parameters": [
+                  989991
+                ],
+                "type": "apply_event_effect",
+                "target_id": 989991
+              },
+              {
+                "code": 16,
+                "parameters": [
+                  1110101
+                ],
+                "type": "trigger_event_message",
+                "target_id": 1110101
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "option_id": 11202,
+        "option_index": 2,
+        "text": "HPを30％消費し、素質をランダムで1個獲得する",
+        "results": [
+          {
+            "result_id": 1120201,
+            "probability_percent": null,
+            "effects": [
+              {
+                "code": 14,
+                "parameters": [
+                  989982
+                ],
+                "type": "apply_event_effect",
+                "target_id": 989982
+              },
+              {
+                "code": 3,
+                "parameters": [
+                  101,
+                  0
+                ],
+                "type": "trigger_drop",
+                "drop_items": [
+                  {
+                    "item_id": 21091,
+                    "item_name": "薄光の残滓"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 113,
+    "description": "恢复or潜能",
+    "event_type": 4,
+    "guaranteed_map_id": 201114,
+    "guaranteed_map_scene_res": "Levels/Roguelike/Roguelike_2/Roguelike_2_Reward_002",
+    "guaranteed_map_theme": "流水と暗影",
+    "related_npcs": [
+      9133,
+      9172,
+      9173,
+      9174
+    ],
+    "actions": [
+      {
+        "npc_id": 9133,
+        "lines": [
+          "お腹が空いているの？それとも……"
+        ]
+      },
+      {
+        "npc_id": 9172,
+        "lines": [
+          "追加の治療が必要ですか？それとも……"
+        ]
+      },
+      {
+        "npc_id": 9173,
+        "lines": [
+          "命だって賭けられるのよ？"
+        ]
+      },
+      {
+        "npc_id": 9174,
+        "lines": [
+          "命と引き換えにしてでも何かを得たいのです？"
+        ]
+      }
+    ],
+    "options": [
+      {
+        "option_index": 1,
+        "npc_id": 9133,
+        "lines": [
+          "何かおいしいものが食べたい！"
+        ]
+      },
+      {
+        "option_index": 1,
+        "npc_id": 9172,
+        "lines": [
+          "治療して欲しい。"
+        ]
+      },
+      {
+        "option_index": 1,
+        "npc_id": 9173,
+        "lines": [
+          "じゃあ、少し頂こうか。"
+        ]
+      },
+      {
+        "option_index": 1,
+        "npc_id": 9174,
+        "lines": [
+          "むしろ命を少し分けてもらいたい……"
+        ]
+      },
+      {
+        "option_index": 2,
+        "npc_id": 9133,
+        "lines": [
+          "刺激的なものが欲しい！"
+        ]
+      },
+      {
+        "option_index": 2,
+        "npc_id": 9172,
+        "lines": [
+          "力が欲しい。"
+        ]
+      },
+      {
+        "option_index": 2,
+        "npc_id": 9173,
+        "lines": [
+          "試してみてもいいかも……"
+        ]
+      },
+      {
+        "option_index": 2,
+        "npc_id": 9174,
+        "lines": [
+          "力と交換する……"
+        ]
+      },
+      {
+        "option_index": 3,
+        "npc_id": 9133,
+        "lines": [
+          "一番元気が出るやつをちょうだい！"
+        ]
+      },
+      {
+        "option_index": 3,
+        "npc_id": 9172,
+        "lines": [
+          "もっと強い力が欲しい！"
+        ]
+      },
+      {
+        "option_index": 3,
+        "npc_id": 9173,
+        "lines": [
+          "暴れようじゃないか！"
+        ]
+      },
+      {
+        "option_index": 3,
+        "npc_id": 9174,
+        "lines": [
+          "強い力と交換しよう！"
+        ]
+      }
+    ],
+    "option_outcomes": [
+      {
+        "option_id": 11301,
+        "option_index": 1,
+        "text": "HPを20%回復する",
+        "results": [
+          {
+            "result_id": 1130101,
+            "probability_percent": null,
+            "effects": [
+              {
+                "code": 14,
+                "parameters": [
+                  989991
+                ],
+                "type": "apply_event_effect",
+                "target_id": 989991
+              },
+              {
+                "code": 16,
+                "parameters": [
+                  1110101
+                ],
+                "type": "trigger_event_message",
+                "target_id": 1110101
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "option_id": 11302,
+        "option_index": 2,
+        "text": "HPを30％消費し、素質をランダムで1個獲得する",
+        "results": [
+          {
+            "result_id": 1130201,
+            "probability_percent": null,
+            "effects": [
+              {
+                "code": 14,
+                "parameters": [
+                  989982
+                ],
+                "type": "apply_event_effect",
+                "target_id": 989982
+              },
+              {
+                "code": 3,
+                "parameters": [
+                  101,
+                  0
+                ],
+                "type": "trigger_drop",
+                "drop_items": [
+                  {
+                    "item_id": 21091,
+                    "item_name": "薄光の残滓"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "option_id": 11303,
+        "option_index": 3,
+        "text": "HPを50％消費し、素質（虹）をランダムで1個獲得する",
+        "results": [
+          {
+            "result_id": 1130301,
+            "probability_percent": null,
+            "effects": [
+              {
+                "code": 14,
+                "parameters": [
+                  989984
+                ],
+                "type": "apply_event_effect",
+                "target_id": 989984
+              },
+              {
+                "code": 3,
+                "parameters": [
+                  104,
+                  0
+                ],
+                "type": "trigger_drop",
+                "drop_items": [
+                  {
+                    "item_id": 32021,
+                    "item_name": "格闘カセット・初級"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 114,
+    "description": "获取音符",
+    "event_type": 4,
+    "guaranteed_map_id": 201114,
+    "guaranteed_map_scene_res": "Levels/Roguelike/Roguelike_2/Roguelike_2_Reward_002",
+    "guaranteed_map_theme": "流水と暗影",
+    "related_npcs": [
+      9133,
+      9172,
+      9173,
+      9174
+    ],
+    "actions": [
+      {
+        "npc_id": 9133,
+        "lines": [
+          "何時まで起きていたら「夜更かし」だと思う？"
+        ]
+      },
+      {
+        "npc_id": 9172,
+        "lines": [
+          "何が健康にいいかわかりますか？"
+        ]
+      },
+      {
+        "npc_id": 9173,
+        "lines": [
+          "欲望に忠実って……どういうことだと思うのよ？"
+        ]
+      },
+      {
+        "npc_id": 9174,
+        "lines": [
+          "「志を高く持つ」って、どういうことなのです？"
+        ]
+      }
+    ],
+    "options": [
+      {
+        "option_index": 1,
+        "npc_id": 9133,
+        "lines": [
+          "午後8時？"
+        ]
+      },
+      {
+        "option_index": 1,
+        "npc_id": 9172,
+        "lines": [
+          "毎日の夜更かし？"
+        ]
+      },
+      {
+        "option_index": 1,
+        "npc_id": 9173,
+        "lines": [
+          "一生懸命学ぶこと！"
+        ]
+      },
+      {
+        "option_index": 1,
+        "npc_id": 9174,
+        "lines": [
+          "気ままに生きる。"
+        ]
+      },
+      {
+        "option_index": 2,
+        "npc_id": 9133,
+        "lines": [
+          "午後9時？"
+        ]
+      },
+      {
+        "option_index": 2,
+        "npc_id": 9172,
+        "lines": [
+          "部屋に引きこもる？"
+        ]
+      },
+      {
+        "option_index": 2,
+        "npc_id": 9173,
+        "lines": [
+          "真剣に体を鍛えること！"
+        ]
+      },
+      {
+        "option_index": 2,
+        "npc_id": 9174,
+        "lines": [
+          "その時その時を楽しむ。"
+        ]
+      },
+      {
+        "option_index": 3,
+        "npc_id": 9133,
+        "lines": [
+          "午前0時？"
+        ]
+      },
+      {
+        "option_index": 3,
+        "npc_id": 9172,
+        "lines": [
+          "バランスの良い食事？"
+        ]
+      },
+      {
+        "option_index": 3,
+        "npc_id": 9173,
+        "lines": [
+          "未来を気にしないこと！"
+        ]
+      },
+      {
+        "option_index": 3,
+        "npc_id": 9174,
+        "lines": [
+          "計画を立てて実行する。"
+        ]
+      },
+      {
+        "option_index": 4,
+        "npc_id": 9133,
+        "lines": [
+          "午前5時？"
+        ]
+      },
+      {
+        "option_index": 4,
+        "npc_id": 9172,
+        "lines": [
+          "星骸になる？"
+        ]
+      },
+      {
+        "option_index": 4,
+        "npc_id": 9173,
+        "lines": [
+          "食べ物はほどほどに！"
+        ]
+      },
+      {
+        "option_index": 4,
+        "npc_id": 9174,
+        "lines": [
+          "他人の指示に従う。"
+        ]
+      },
+      {
+        "option_index": 5,
+        "npc_id": 9133,
+        "lines": [
+          "翌朝8時？"
+        ]
+      },
+      {
+        "option_index": 5,
+        "npc_id": 9172,
+        "lines": [
+          "暴飲暴食？"
+        ]
+      },
+      {
+        "option_index": 5,
+        "npc_id": 9173,
+        "lines": [
+          "深夜まで仕事を続けること！"
+        ]
+      },
+      {
+        "option_index": 5,
+        "npc_id": 9174,
+        "lines": [
+          "みんなとおなじことをする。"
+        ]
+      }
+    ],
+    "option_outcomes": [
+      {
+        "option_id": 11401,
+        "option_index": 1,
+        "text": "正解すると、音符をランダムで10個獲得できる！",
+        "results": [
+          {
+            "result_id": 1140101,
+            "probability_percent": null,
+            "effects": [
+              {
+                "code": 16,
+                "parameters": [
+                  100140101
+                ],
+                "type": "trigger_event_message",
+                "target_id": 100140101
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "option_id": 11402,
+        "option_index": 2,
+        "text": "正解すると、音符をランダムで10個獲得できる！",
+        "results": [
+          {
+            "result_id": 1140201,
+            "probability_percent": null,
+            "effects": [
+              {
+                "code": 16,
+                "parameters": [
+                  100140101
+                ],
+                "type": "trigger_event_message",
+                "target_id": 100140101
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "option_id": 11403,
+        "option_index": 3,
+        "text": "正解すると、音符をランダムで10個獲得できる！",
+        "results": [
+          {
+            "result_id": 1140301,
+            "probability_percent": null,
+            "effects": [
+              {
+                "code": 17,
+                "parameters": [
+                  10,
+                  1
+                ],
+                "type": "gain_notes_random",
+                "quantity": 10,
+                "note_type": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "option_id": 11404,
+        "option_index": 4,
+        "text": "正解すると、音符をランダムで10個獲得できる！",
+        "results": [
+          {
+            "result_id": 1140401,
+            "probability_percent": null,
+            "effects": [
+              {
+                "code": 16,
+                "parameters": [
+                  100140101
+                ],
+                "type": "trigger_event_message",
+                "target_id": 100140101
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "option_id": 11405,
+        "option_index": 5,
+        "text": "正解すると、音符をランダムで10個獲得できる！",
+        "results": [
+          {
+            "result_id": 1140501,
+            "probability_percent": null,
+            "effects": [
+              {
+                "code": 16,
+                "parameters": [
+                  100140101
+                ],
+                "type": "trigger_event_message",
+                "target_id": 100140101
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 115,
+    "description": "获取潜能",
+    "event_type": 4,
+    "guaranteed_map_id": 201114,
+    "guaranteed_map_scene_res": "Levels/Roguelike/Roguelike_2/Roguelike_2_Reward_002",
+    "guaranteed_map_theme": "流水と暗影",
+    "related_npcs": [
+      9133,
+      9172,
+      9173,
+      9174
+    ],
+    "actions": [
+      {
+        "npc_id": 9133,
+        "lines": [
+          "星ノ塔はどの数字が一番好きだと思う？当ててごらん。"
+        ]
+      },
+      {
+        "npc_id": 9172,
+        "lines": [
+          "何をたくさん食べれば健康にいいかわかりますか？"
+        ]
+      },
+      {
+        "npc_id": 9173,
+        "lines": [
+          "ワタシはどんな巡遊者が好きだと思うのよ？当ててみるのよ♪"
+        ]
+      },
+      {
+        "npc_id": 9174,
+        "lines": [
+          "私がお話したい巡遊者って、どんな人だと思うのです？"
+        ]
+      }
+    ],
+    "options": [
+      {
+        "option_index": 1,
+        "npc_id": 9133,
+        "lines": [
+          "一本道だから……1？"
+        ]
+      },
+      {
+        "option_index": 1,
+        "npc_id": 9172,
+        "lines": [
+          "星骸？"
+        ]
+      },
+      {
+        "option_index": 1,
+        "npc_id": 9173,
+        "lines": [
+          "賢い人。"
+        ]
+      },
+      {
+        "option_index": 1,
+        "npc_id": 9174,
+        "lines": [
+          "不満の多い人。"
+        ]
+      },
+      {
+        "option_index": 2,
+        "npc_id": 9133,
+        "lines": [
+          "道は上と下にしかないから……2？"
+        ]
+      },
+      {
+        "option_index": 2,
+        "npc_id": 9172,
+        "lines": [
+          "雑草？"
+        ]
+      },
+      {
+        "option_index": 2,
+        "npc_id": 9173,
+        "lines": [
+          "情熱的な人。"
+        ]
+      },
+      {
+        "option_index": 2,
+        "npc_id": 9174,
+        "lines": [
+          "流されやすい人。"
+        ]
+      },
+      {
+        "option_index": 3,
+        "npc_id": 9133,
+        "lines": [
+          "数字は3を選ぶことにしてるんだ。"
+        ]
+      },
+      {
+        "option_index": 3,
+        "npc_id": 9172,
+        "lines": [
+          "野菜？"
+        ]
+      },
+      {
+        "option_index": 3,
+        "npc_id": 9173,
+        "lines": [
+          "欲望に忠実な人。"
+        ]
+      },
+      {
+        "option_index": 3,
+        "npc_id": 9174,
+        "lines": [
+          "志の高い人。"
+        ]
+      },
+      {
+        "option_index": 4,
+        "npc_id": 9133,
+        "lines": [
+          "あなた達は4人だから……4？"
+        ]
+      },
+      {
+        "option_index": 4,
+        "npc_id": 9172,
+        "lines": [
+          "木材？"
+        ]
+      },
+      {
+        "option_index": 4,
+        "npc_id": 9173,
+        "lines": [
+          "暗くて消極的な人。"
+        ]
+      },
+      {
+        "option_index": 4,
+        "npc_id": 9174,
+        "lines": [
+          "考えなしの人。"
+        ]
+      },
+      {
+        "option_index": 5,
+        "npc_id": 9133,
+        "lines": [
+          "なぜかいつも5コイン余って使えないから……5？"
+        ]
+      },
+      {
+        "option_index": 5,
+        "npc_id": 9172,
+        "lines": [
+          "石？"
+        ]
+      },
+      {
+        "option_index": 5,
+        "npc_id": 9173,
+        "lines": [
+          "愚かな人。"
+        ]
+      },
+      {
+        "option_index": 5,
+        "npc_id": 9174,
+        "lines": [
+          "すぐ妥協する人。"
+        ]
+      }
+    ],
+    "option_outcomes": [
+      {
+        "option_id": 11501,
+        "option_index": 1,
+        "text": "正解すると、素質をランダムで1個獲得できる！",
+        "results": [
+          {
+            "result_id": 1150101,
+            "probability_percent": null,
+            "effects": [
+              {
+                "code": 16,
+                "parameters": [
+                  100140101
+                ],
+                "type": "trigger_event_message",
+                "target_id": 100140101
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "option_id": 11502,
+        "option_index": 2,
+        "text": "正解すると、素質をランダムで1個獲得できる！",
+        "results": [
+          {
+            "result_id": 1150201,
+            "probability_percent": null,
+            "effects": [
+              {
+                "code": 16,
+                "parameters": [
+                  100140101
+                ],
+                "type": "trigger_event_message",
+                "target_id": 100140101
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "option_id": 11503,
+        "option_index": 3,
+        "text": "正解すると、素質をランダムで1個獲得できる！",
+        "results": [
+          {
+            "result_id": 1150301,
+            "probability_percent": null,
+            "effects": [
+              {
+                "code": 3,
+                "parameters": [
+                  101,
+                  0
+                ],
+                "type": "trigger_drop",
+                "drop_items": [
+                  {
+                    "item_id": 21091,
+                    "item_name": "薄光の残滓"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "option_id": 11504,
+        "option_index": 4,
+        "text": "正解すると、素質をランダムで1個獲得できる！",
+        "results": [
+          {
+            "result_id": 1150401,
+            "probability_percent": null,
+            "effects": [
+              {
+                "code": 16,
+                "parameters": [
+                  100140101
+                ],
+                "type": "trigger_event_message",
+                "target_id": 100140101
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "option_id": 11505,
+        "option_index": 5,
+        "text": "正解すると、素質をランダムで1個獲得できる！",
+        "results": [
+          {
+            "result_id": 1150501,
+            "probability_percent": null,
+            "effects": [
+              {
+                "code": 16,
+                "parameters": [
+                  100140101
+                ],
+                "type": "trigger_event_message",
+                "target_id": 100140101
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 116,
+    "description": "获取潜能",
+    "event_type": 4,
+    "guaranteed_map_id": 201114,
+    "guaranteed_map_scene_res": "Levels/Roguelike/Roguelike_2/Roguelike_2_Reward_002",
+    "guaranteed_map_theme": "流水と暗影",
+    "related_npcs": [
+      9133,
+      9172,
+      9173,
+      9174
+    ],
+    "actions": [
+      {
+        "npc_id": 9133,
+        "lines": [
+          "2の10乗は？"
+        ]
+      },
+      {
+        "npc_id": 9172,
+        "lines": [
+          "健康のために何をやめるべきか、わかりますよね？"
+        ]
+      },
+      {
+        "npc_id": 9173,
+        "lines": [
+          "1オクターブには何音あるのよ？"
+        ]
+      },
+      {
+        "npc_id": 9174,
+        "lines": [
+          "立方体にはいくつの面があるのです？"
+        ]
+      }
+    ],
+    "options": [
+      {
+        "option_index": 1,
+        "npc_id": 9133,
+        "lines": [
+          "64？"
+        ]
+      },
+      {
+        "option_index": 1,
+        "npc_id": 9172,
+        "lines": [
+          "朝ご飯？"
+        ]
+      },
+      {
+        "option_index": 1,
+        "npc_id": 9173,
+        "lines": [
+          "5音？"
+        ]
+      },
+      {
+        "option_index": 1,
+        "npc_id": 9174,
+        "lines": [
+          "4つ？"
+        ]
+      },
+      {
+        "option_index": 2,
+        "npc_id": 9133,
+        "lines": [
+          "256？"
+        ]
+      },
+      {
+        "option_index": 2,
+        "npc_id": 9172,
+        "lines": [
+          "歯磨き？"
+        ]
+      },
+      {
+        "option_index": 2,
+        "npc_id": 9173,
+        "lines": [
+          "8音？"
+        ]
+      },
+      {
+        "option_index": 2,
+        "npc_id": 9174,
+        "lines": [
+          "5つ？"
+        ]
+      },
+      {
+        "option_index": 3,
+        "npc_id": 9133,
+        "lines": [
+          "1024？"
+        ]
+      },
+      {
+        "option_index": 3,
+        "npc_id": 9172,
+        "lines": [
+          "座りっぱなしの生活？"
+        ]
+      },
+      {
+        "option_index": 3,
+        "npc_id": 9173,
+        "lines": [
+          "12音？"
+        ]
+      },
+      {
+        "option_index": 3,
+        "npc_id": 9174,
+        "lines": [
+          "6つ？"
+        ]
+      },
+      {
+        "option_index": 4,
+        "npc_id": 9133,
+        "lines": [
+          "4096？"
+        ]
+      },
+      {
+        "option_index": 4,
+        "npc_id": 9172,
+        "lines": [
+          "日光浴？"
+        ]
+      },
+      {
+        "option_index": 4,
+        "npc_id": 9173,
+        "lines": [
+          "16音？"
+        ]
+      },
+      {
+        "option_index": 4,
+        "npc_id": 9174,
+        "lines": [
+          "7つ？"
+        ]
+      },
+      {
+        "option_index": 5,
+        "npc_id": 9133,
+        "lines": [
+          "65536？"
+        ]
+      },
+      {
+        "option_index": 5,
+        "npc_id": 9172,
+        "lines": [
+          "運動？"
+        ]
+      },
+      {
+        "option_index": 5,
+        "npc_id": 9173,
+        "lines": [
+          "18音？"
+        ]
+      },
+      {
+        "option_index": 5,
+        "npc_id": 9174,
+        "lines": [
+          "8つ？"
+        ]
+      }
+    ],
+    "option_outcomes": [
+      {
+        "option_id": 11601,
+        "option_index": 1,
+        "text": "正解すると、素質（虹）をランダムで1個獲得できる！",
+        "results": [
+          {
+            "result_id": 1160101,
+            "probability_percent": null,
+            "effects": [
+              {
+                "code": 16,
+                "parameters": [
+                  100140101
+                ],
+                "type": "trigger_event_message",
+                "target_id": 100140101
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "option_id": 11602,
+        "option_index": 2,
+        "text": "正解すると、素質（虹）をランダムで1個獲得できる！",
+        "results": [
+          {
+            "result_id": 1160201,
+            "probability_percent": null,
+            "effects": [
+              {
+                "code": 16,
+                "parameters": [
+                  100140101
+                ],
+                "type": "trigger_event_message",
+                "target_id": 100140101
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "option_id": 11603,
+        "option_index": 3,
+        "text": "正解すると、素質（虹）をランダムで1個獲得できる！",
+        "results": [
+          {
+            "result_id": 1160301,
+            "probability_percent": null,
+            "effects": [
+              {
+                "code": 3,
+                "parameters": [
+                  104,
+                  0
+                ],
+                "type": "trigger_drop",
+                "drop_items": [
+                  {
+                    "item_id": 32021,
+                    "item_name": "格闘カセット・初級"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "option_id": 11604,
+        "option_index": 4,
+        "text": "正解すると、素質（虹）をランダムで1個獲得できる！",
+        "results": [
+          {
+            "result_id": 1160401,
+            "probability_percent": null,
+            "effects": [
+              {
+                "code": 16,
+                "parameters": [
+                  100140101
+                ],
+                "type": "trigger_event_message",
+                "target_id": 100140101
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "option_id": 11605,
+        "option_index": 5,
+        "text": "正解すると、素質（虹）をランダムで1個獲得できる！",
+        "results": [
+          {
+            "result_id": 1160501,
+            "probability_percent": null,
+            "effects": [
+              {
+                "code": 16,
+                "parameters": [
+                  100140101
+                ],
+                "type": "trigger_event_message",
+                "target_id": 100140101
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 117,
+    "description": "随机货币",
+    "event_type": 4,
+    "guaranteed_map_id": 201114,
+    "guaranteed_map_scene_res": "Levels/Roguelike/Roguelike_2/Roguelike_2_Reward_002",
+    "guaranteed_map_theme": "流水と暗影",
+    "related_npcs": [
+      9133,
+      9172,
+      9173,
+      9174
+    ],
+    "actions": [
+      {
+        "npc_id": 9133,
+        "lines": [
+          "この不思議なゲーム機、遊んでみたい？"
+        ]
+      },
+      {
+        "npc_id": 9172,
+        "lines": [
+          "何が起こるかわからない薬ですが……試します？"
+        ]
+      },
+      {
+        "npc_id": 9173,
+        "lines": [
+          "運命のギャンブルが始まるのよ！"
+        ]
+      },
+      {
+        "npc_id": 9174,
+        "lines": [
+          "運命の鏡に足を踏み入れたいのです？"
+        ]
+      }
+    ],
+    "options": [
+      {
+        "option_index": 1,
+        "npc_id": 9133,
+        "lines": [
+          "……本当に遊んでいいの？"
+        ]
+      },
+      {
+        "option_index": 1,
+        "npc_id": 9172,
+        "lines": [
+          "試してみよう！"
+        ]
+      },
+      {
+        "option_index": 1,
+        "npc_id": 9173,
+        "lines": [
+          "よし、賭けよう！"
+        ]
+      },
+      {
+        "option_index": 1,
+        "npc_id": 9174,
+        "lines": [
+          "ぜひ！"
+        ]
+      },
+      {
+        "option_index": 2,
+        "npc_id": 9133,
+        "lines": [
+          "やめておくよ。"
+        ]
+      },
+      {
+        "option_index": 2,
+        "npc_id": 9172,
+        "lines": [
+          "やめておこう！"
+        ]
+      },
+      {
+        "option_index": 2,
+        "npc_id": 9173,
+        "lines": [
+          "なんだか危なそうだ……"
+        ]
+      },
+      {
+        "option_index": 2,
+        "npc_id": 9174,
+        "lines": [
+          "やめておく。"
+        ]
+      }
+    ],
+    "option_outcomes": [
+      {
+        "option_id": 11701,
+        "option_index": 1,
+        "text": "<sprite name=item_11_small>またはHPがランダムで変動する！",
+        "results": [
+          {
+            "result_id": 1170101,
+            "probability_percent": null,
+            "effects": [
+              {
+                "code": 1,
+                "parameters": [
+                  100
+                ],
+                "type": "gain_coin",
+                "amount": 100
+              }
+            ]
+          },
+          {
+            "result_id": 1170102,
+            "probability_percent": null,
+            "effects": [
+              {
+                "code": 6,
+                "parameters": [
+                  100
+                ],
+                "type": "modify_hp_or_resource",
+                "value": 100
+              }
+            ]
+          },
+          {
+            "result_id": 1170103,
+            "probability_percent": null,
+            "effects": [
+              {
+                "code": 14,
+                "parameters": [
+                  989992
+                ],
+                "type": "apply_event_effect",
+                "target_id": 989992
+              },
+              {
+                "code": 16,
+                "parameters": [
+                  1110101
+                ],
+                "type": "trigger_event_message",
+                "target_id": 1110101
+              }
+            ]
+          },
+          {
+            "result_id": 1170104,
+            "probability_percent": null,
+            "effects": [
+              {
+                "code": 14,
+                "parameters": [
+                  989982
+                ],
+                "type": "apply_event_effect",
+                "target_id": 989982
+              },
+              {
+                "code": 16,
+                "parameters": [
+                  1110102
+                ],
+                "type": "trigger_event_message",
+                "target_id": 1110102
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "option_id": 11702,
+        "option_index": 2,
+        "text": "<sprite name=item_11_small>を30枚獲得する",
+        "results": [
+          {
+            "result_id": 1170201,
+            "probability_percent": null,
+            "effects": [
+              {
+                "code": 1,
+                "parameters": [
+                  30
+                ],
+                "type": "gain_coin",
+                "amount": 30
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 118,
+    "description": "随机货币&潜能",
+    "event_type": 4,
+    "guaranteed_map_id": 201114,
+    "guaranteed_map_scene_res": "Levels/Roguelike/Roguelike_2/Roguelike_2_Reward_002",
+    "guaranteed_map_theme": "流水と暗影",
+    "related_npcs": [
+      9133,
+      9172,
+      9173,
+      9174
+    ],
+    "actions": [
+      {
+        "npc_id": 9133,
+        "lines": [
+          "この不思議なゲーム機、遊んでみたい？"
+        ]
+      },
+      {
+        "npc_id": 9172,
+        "lines": [
+          "何が起こるかわからない薬ですが……試します？"
+        ]
+      },
+      {
+        "npc_id": 9173,
+        "lines": [
+          "運命のギャンブルが始まるのよ！"
+        ]
+      },
+      {
+        "npc_id": 9174,
+        "lines": [
+          "運命の鏡に足を踏み入れたいのです？"
+        ]
+      }
+    ],
+    "options": [
+      {
+        "option_index": 1,
+        "npc_id": 9133,
+        "lines": [
+          "……本当に遊んでいいの？"
+        ]
+      },
+      {
+        "option_index": 1,
+        "npc_id": 9172,
+        "lines": [
+          "試してみよう！"
+        ]
+      },
+      {
+        "option_index": 1,
+        "npc_id": 9173,
+        "lines": [
+          "よし、賭けよう！"
+        ]
+      },
+      {
+        "option_index": 1,
+        "npc_id": 9174,
+        "lines": [
+          "ぜひ！"
+        ]
+      },
+      {
+        "option_index": 2,
+        "npc_id": 9133,
+        "lines": [
+          "やめておくよ。"
+        ]
+      },
+      {
+        "option_index": 2,
+        "npc_id": 9172,
+        "lines": [
+          "やめておこう！"
+        ]
+      },
+      {
+        "option_index": 2,
+        "npc_id": 9173,
+        "lines": [
+          "なんだか危なそうだ……"
+        ]
+      },
+      {
+        "option_index": 2,
+        "npc_id": 9174,
+        "lines": [
+          "やめておく。"
+        ]
+      }
+    ],
+    "option_outcomes": [
+      {
+        "option_id": 11801,
+        "option_index": 1,
+        "text": "<sprite name=item_11_small>HP、または素質がランダムで変動する！",
+        "results": [
+          {
+            "result_id": 1180101,
+            "probability_percent": null,
+            "effects": [
+              {
+                "code": 1,
+                "parameters": [
+                  100
+                ],
+                "type": "gain_coin",
+                "amount": 100
+              }
+            ]
+          },
+          {
+            "result_id": 1180102,
+            "probability_percent": null,
+            "effects": [
+              {
+                "code": 6,
+                "parameters": [
+                  100
+                ],
+                "type": "modify_hp_or_resource",
+                "value": 100
+              }
+            ]
+          },
+          {
+            "result_id": 1180103,
+            "probability_percent": null,
+            "effects": [
+              {
+                "code": 14,
+                "parameters": [
+                  989992
+                ],
+                "type": "apply_event_effect",
+                "target_id": 989992
+              },
+              {
+                "code": 16,
+                "parameters": [
+                  1110101
+                ],
+                "type": "trigger_event_message",
+                "target_id": 1110101
+              }
+            ]
+          },
+          {
+            "result_id": 1180104,
+            "probability_percent": null,
+            "effects": [
+              {
+                "code": 14,
+                "parameters": [
+                  989982
+                ],
+                "type": "apply_event_effect",
+                "target_id": 989982
+              },
+              {
+                "code": 16,
+                "parameters": [
+                  1110102
+                ],
+                "type": "trigger_event_message",
+                "target_id": 1110102
+              }
+            ]
+          },
+          {
+            "result_id": 1180105,
+            "probability_percent": null,
+            "effects": [
+              {
+                "code": 3,
+                "parameters": [
+                  101,
+                  0
+                ],
+                "type": "trigger_drop",
+                "drop_items": [
+                  {
+                    "item_id": 21091,
+                    "item_name": "薄光の残滓"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "option_id": 11802,
+        "option_index": 2,
+        "text": "<sprite name=item_11_small>を30枚獲得する",
+        "results": [
+          {
+            "result_id": 1180201,
+            "probability_percent": null,
+            "effects": [
+              {
+                "code": 1,
+                "parameters": [
+                  30
+                ],
+                "type": "gain_coin",
+                "amount": 30
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 119,
+    "description": "随机货币&潜能",
+    "event_type": 4,
+    "guaranteed_map_id": 201114,
+    "guaranteed_map_scene_res": "Levels/Roguelike/Roguelike_2/Roguelike_2_Reward_002",
+    "guaranteed_map_theme": "流水と暗影",
+    "related_npcs": [
+      9133,
+      9172,
+      9173,
+      9174
+    ],
+    "actions": [
+      {
+        "npc_id": 9133,
+        "lines": [
+          "この不思議なゲーム機、遊んでみたい？"
+        ]
+      },
+      {
+        "npc_id": 9172,
+        "lines": [
+          "何が起こるかわからない薬ですが……試します？"
+        ]
+      },
+      {
+        "npc_id": 9173,
+        "lines": [
+          "運命のギャンブルが始まるのよ！"
+        ]
+      },
+      {
+        "npc_id": 9174,
+        "lines": [
+          "運命の鏡に足を踏み入れたいのです？"
+        ]
+      }
+    ],
+    "options": [
+      {
+        "option_index": 1,
+        "npc_id": 9133,
+        "lines": [
+          "……本当に遊んでいいの？"
+        ]
+      },
+      {
+        "option_index": 1,
+        "npc_id": 9172,
+        "lines": [
+          "試してみよう！"
+        ]
+      },
+      {
+        "option_index": 1,
+        "npc_id": 9173,
+        "lines": [
+          "よし、賭けよう！"
+        ]
+      },
+      {
+        "option_index": 1,
+        "npc_id": 9174,
+        "lines": [
+          "ぜひ！"
+        ]
+      },
+      {
+        "option_index": 2,
+        "npc_id": 9133,
+        "lines": [
+          "やめておくよ。"
+        ]
+      },
+      {
+        "option_index": 2,
+        "npc_id": 9172,
+        "lines": [
+          "やめておこう！"
+        ]
+      },
+      {
+        "option_index": 2,
+        "npc_id": 9173,
+        "lines": [
+          "なんだか危なそうだ……"
+        ]
+      },
+      {
+        "option_index": 2,
+        "npc_id": 9174,
+        "lines": [
+          "やめておく。"
+        ]
+      }
+    ],
+    "option_outcomes": [
+      {
+        "option_id": 11901,
+        "option_index": 1,
+        "text": "<sprite name=item_11_small>または素質がランダムで変動する！",
+        "results": [
+          {
+            "result_id": 1190101,
+            "probability_percent": null,
+            "effects": [
+              {
+                "code": 1,
+                "parameters": [
+                  120
+                ],
+                "type": "gain_coin",
+                "amount": 120
+              }
+            ]
+          },
+          {
+            "result_id": 1190102,
+            "probability_percent": null,
+            "effects": [
+              {
+                "code": 6,
+                "parameters": [
+                  120
+                ],
+                "type": "modify_hp_or_resource",
+                "value": 120
+              }
+            ]
+          },
+          {
+            "result_id": 1190103,
+            "probability_percent": null,
+            "effects": [
+              {
+                "code": 3,
+                "parameters": [
+                  104,
+                  0
+                ],
+                "type": "trigger_drop",
+                "drop_items": [
+                  {
+                    "item_id": 32021,
+                    "item_name": "格闘カセット・初級"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "option_id": 11902,
+        "option_index": 2,
+        "text": "<sprite name=item_11_small>を30枚獲得する",
+        "results": [
+          {
+            "result_id": 1190201,
+            "probability_percent": null,
+            "effects": [
+              {
+                "code": 1,
+                "parameters": [
+                  30
+                ],
+                "type": "gain_coin",
+                "amount": 30
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 120,
+    "description": "随机音符",
+    "event_type": 4,
+    "guaranteed_map_id": 201114,
+    "guaranteed_map_scene_res": "Levels/Roguelike/Roguelike_2/Roguelike_2_Reward_002",
+    "guaranteed_map_theme": "流水と暗影",
+    "related_npcs": [
+      9133,
+      9172,
+      9173,
+      9174
+    ],
+    "actions": [
+      {
+        "npc_id": 9133,
+        "lines": [
+          "いくつか売り物を持ってきたけど、買っとく？"
+        ]
+      },
+      {
+        "npc_id": 9172,
+        "lines": [
+          "この音楽を聴けば……何か思わぬものが得られるかもしれません。"
+        ]
+      },
+      {
+        "npc_id": 9173,
+        "lines": [
+          "運命と取引するのよ？それとも施しを受けるのよ？"
+        ]
+      },
+      {
+        "npc_id": 9174,
+        "lines": [
+          "運に身を任せるのです？それとも私に助けを求めるのです？"
+        ]
+      }
+    ],
+    "options": [
+      {
+        "option_index": 1,
+        "npc_id": 9133,
+        "lines": [
+          "買うよ！"
+        ]
+      },
+      {
+        "option_index": 1,
+        "npc_id": 9172,
+        "lines": [
+          "真剣に聴く。"
+        ]
+      },
+      {
+        "option_index": 1,
+        "npc_id": 9173,
+        "lines": [
+          "公正な取引がしたい。"
+        ]
+      },
+      {
+        "option_index": 1,
+        "npc_id": 9174,
+        "lines": [
+          "取引だ。"
+        ]
+      },
+      {
+        "option_index": 2,
+        "npc_id": 9133,
+        "lines": [
+          "少しだけ欲しい。"
+        ]
+      },
+      {
+        "option_index": 2,
+        "npc_id": 9172,
+        "lines": [
+          "聴き流す。"
+        ]
+      },
+      {
+        "option_index": 2,
+        "npc_id": 9173,
+        "lines": [
+          "めぐんでください。"
+        ]
+      },
+      {
+        "option_index": 2,
+        "npc_id": 9174,
+        "lines": [
+          "助けて欲しい。"
+        ]
+      }
+    ],
+    "option_outcomes": [
+      {
+        "option_id": 12001,
+        "option_index": 1,
+        "text": "<sprite name=item_11_small>を50枚消費し、音符をランダムで5個獲得する",
+        "results": [
+          {
+            "result_id": 1200101,
+            "probability_percent": null,
+            "effects": [
+              {
+                "code": 5,
+                "parameters": [
+                  50
+                ],
+                "type": "spend_coin",
+                "amount": 50
+              },
+              {
+                "code": 17,
+                "parameters": [
+                  5,
+                  1
+                ],
+                "type": "gain_notes_random",
+                "quantity": 5,
+                "note_type": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "option_id": 12002,
+        "option_index": 2,
+        "text": "以下のいずれかを得る。HPを30％回復（50％）/音符をランダムで5個獲得（50％）",
+        "results": [
+          {
+            "result_id": 1200201,
+            "probability_percent": 50.0,
+            "effects": [
+              {
+                "code": 14,
+                "parameters": [
+                  989992
+                ],
+                "type": "apply_event_effect",
+                "target_id": 989992
+              },
+              {
+                "code": 16,
+                "parameters": [
+                  1110101
+                ],
+                "type": "trigger_event_message",
+                "target_id": 1110101
+              }
+            ]
+          },
+          {
+            "result_id": 1200202,
+            "probability_percent": 50.0,
+            "effects": [
+              {
+                "code": 17,
+                "parameters": [
+                  5,
+                  1
+                ],
+                "type": "gain_notes_random",
+                "quantity": 5,
+                "note_type": 1
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 121,
+    "description": "随机潜能",
+    "event_type": 4,
+    "guaranteed_map_id": 201114,
+    "guaranteed_map_scene_res": "Levels/Roguelike/Roguelike_2/Roguelike_2_Reward_002",
+    "guaranteed_map_theme": "流水と暗影",
+    "related_npcs": [
+      9133,
+      9172,
+      9173,
+      9174
+    ],
+    "actions": [
+      {
+        "npc_id": 9133,
+        "lines": [
+          "いくつか売り物を持ってきたけど、買っとく？"
+        ]
+      },
+      {
+        "npc_id": 9172,
+        "lines": [
+          "この薬を飲めば、おもしろいことになるかもしれません。"
+        ]
+      },
+      {
+        "npc_id": 9173,
+        "lines": [
+          "運命と取引するのよ？それとも施しを受けるのよ？"
+        ]
+      },
+      {
+        "npc_id": 9174,
+        "lines": [
+          "運に身を任せるのです？それとも私に助けを求めるのです？"
+        ]
+      }
+    ],
+    "options": [
+      {
+        "option_index": 1,
+        "npc_id": 9133,
+        "lines": [
+          "買うよ！"
+        ]
+      },
+      {
+        "option_index": 1,
+        "npc_id": 9172,
+        "lines": [
+          "買っておこう。"
+        ]
+      },
+      {
+        "option_index": 1,
+        "npc_id": 9173,
+        "lines": [
+          "公正な取引がしたい。"
+        ]
+      },
+      {
+        "option_index": 1,
+        "npc_id": 9174,
+        "lines": [
+          "運任せだ！"
+        ]
+      },
+      {
+        "option_index": 2,
+        "npc_id": 9133,
+        "lines": [
+          "少しだけ欲しい。"
+        ]
+      },
+      {
+        "option_index": 2,
+        "npc_id": 9172,
+        "lines": [
+          "一気に飲み干す。"
+        ]
+      },
+      {
+        "option_index": 2,
+        "npc_id": 9173,
+        "lines": [
+          "めぐんでください。"
+        ]
+      },
+      {
+        "option_index": 2,
+        "npc_id": 9174,
+        "lines": [
+          "助けて欲しい！"
+        ]
+      }
+    ],
+    "option_outcomes": [
+      {
+        "option_id": 12101,
+        "option_index": 1,
+        "text": "<sprite name=item_11_small>を100枚消費し、素質をランダムで1個獲得する",
+        "results": [
+          {
+            "result_id": 1210101,
+            "probability_percent": null,
+            "effects": [
+              {
+                "code": 5,
+                "parameters": [
+                  100
+                ],
+                "type": "spend_coin",
+                "amount": 100
+              },
+              {
+                "code": 3,
+                "parameters": [
+                  101,
+                  0
+                ],
+                "type": "trigger_drop",
+                "drop_items": [
+                  {
+                    "item_id": 21091,
+                    "item_name": "薄光の残滓"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "option_id": 12102,
+        "option_index": 2,
+        "text": "以下のいずれかを得る。HPを30％回復（50％）/素質をランダムで1個獲得（50％）",
+        "results": [
+          {
+            "result_id": 1210201,
+            "probability_percent": 50.0,
+            "effects": [
+              {
+                "code": 14,
+                "parameters": [
+                  989992
+                ],
+                "type": "apply_event_effect",
+                "target_id": 989992
+              },
+              {
+                "code": 16,
+                "parameters": [
+                  1110101
+                ],
+                "type": "trigger_event_message",
+                "target_id": 1110101
+              }
+            ]
+          },
+          {
+            "result_id": 1210202,
+            "probability_percent": 50.0,
+            "effects": [
+              {
+                "code": 3,
+                "parameters": [
+                  101,
+                  0
+                ],
+                "type": "trigger_drop",
+                "drop_items": [
+                  {
+                    "item_id": 21091,
+                    "item_name": "薄光の残滓"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 122,
+    "description": "随机潜能",
+    "event_type": 4,
+    "guaranteed_map_id": 201114,
+    "guaranteed_map_scene_res": "Levels/Roguelike/Roguelike_2/Roguelike_2_Reward_002",
+    "guaranteed_map_theme": "流水と暗影",
+    "related_npcs": [
+      9133,
+      9172,
+      9173,
+      9174
+    ],
+    "actions": [
+      {
+        "npc_id": 9133,
+        "lines": [
+          "とっておきの高級品だよー買わなきゃ損しちゃうんじゃないかな？"
+        ]
+      },
+      {
+        "npc_id": 9172,
+        "lines": [
+          "この薬を塗れば……見違えますよ？"
+        ]
+      },
+      {
+        "npc_id": 9173,
+        "lines": [
+          "運命と取引するのよ？それとも施しを受けるのよ？"
+        ]
+      },
+      {
+        "npc_id": 9174,
+        "lines": [
+          "運に身を任せるのです？それとも私に助けを求めるのです？"
+        ]
+      }
+    ],
+    "options": [
+      {
+        "option_index": 1,
+        "npc_id": 9133,
+        "lines": [
+          "買うに決まってる！"
+        ]
+      },
+      {
+        "option_index": 1,
+        "npc_id": 9172,
+        "lines": [
+          "一つ買おう。"
+        ]
+      },
+      {
+        "option_index": 1,
+        "npc_id": 9173,
+        "lines": [
+          "公正な取引がしたい。"
+        ]
+      },
+      {
+        "option_index": 1,
+        "npc_id": 9174,
+        "lines": [
+          "運任せだ！"
+        ]
+      },
+      {
+        "option_index": 2,
+        "npc_id": 9133,
+        "lines": [
+          "少しだけ欲しい。"
+        ]
+      },
+      {
+        "option_index": 2,
+        "npc_id": 9172,
+        "lines": [
+          "さっそく塗る。"
+        ]
+      },
+      {
+        "option_index": 2,
+        "npc_id": 9173,
+        "lines": [
+          "めぐんでください。"
+        ]
+      },
+      {
+        "option_index": 2,
+        "npc_id": 9174,
+        "lines": [
+          "助けて欲しい！"
+        ]
+      }
+    ],
+    "option_outcomes": [
+      {
+        "option_id": 12201,
+        "option_index": 1,
+        "text": "<sprite name=item_11_small>を180枚消費し、素質（虹）をランダムで1個獲得する",
+        "results": [
+          {
+            "result_id": 1220101,
+            "probability_percent": null,
+            "effects": [
+              {
+                "code": 5,
+                "parameters": [
+                  180
+                ],
+                "type": "spend_coin",
+                "amount": 180
+              },
+              {
+                "code": 3,
+                "parameters": [
+                  104,
+                  0
+                ],
+                "type": "trigger_drop",
+                "drop_items": [
+                  {
+                    "item_id": 32021,
+                    "item_name": "格闘カセット・初級"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "option_id": 12202,
+        "option_index": 2,
+        "text": "以下のいずれかを得る。HPを30％回復（50％）/素質（虹）をランダムで1個獲得（50％）",
+        "results": [
+          {
+            "result_id": 1220201,
+            "probability_percent": 50.0,
+            "effects": [
+              {
+                "code": 14,
+                "parameters": [
+                  989992
+                ],
+                "type": "apply_event_effect",
+                "target_id": 989992
+              },
+              {
+                "code": 16,
+                "parameters": [
+                  1110101
+                ],
+                "type": "trigger_event_message",
+                "target_id": 1110101
+              }
+            ]
+          },
+          {
+            "result_id": 1220202,
+            "probability_percent": 50.0,
+            "effects": [
+              {
+                "code": 3,
+                "parameters": [
+                  104,
+                  0
+                ],
+                "type": "trigger_drop",
+                "drop_items": [
+                  {
+                    "item_id": 32021,
+                    "item_name": "格闘カセット・初級"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 123,
+    "description": "随机潜能",
+    "event_type": 4,
+    "guaranteed_map_id": 201114,
+    "guaranteed_map_scene_res": "Levels/Roguelike/Roguelike_2/Roguelike_2_Reward_002",
+    "guaranteed_map_theme": "流水と暗影",
+    "related_npcs": [
+      9133,
+      9172,
+      9173,
+      9174
+    ],
+    "actions": [
+      {
+        "npc_id": 9133,
+        "lines": [
+          "実は……あんたもいい商品になると思ってるんだよね。"
+        ]
+      },
+      {
+        "npc_id": 9172,
+        "lines": [
+          "治療をご希望ですか？それとも取引き？"
+        ]
+      },
+      {
+        "npc_id": 9173,
+        "lines": [
+          "魔王サマの命も……賭けのチップになるのよ。"
+        ]
+      },
+      {
+        "npc_id": 9174,
+        "lines": [
+          "ほんの少しだけ命を差し出せば……"
+        ]
+      }
+    ],
+    "options": [
+      {
+        "option_index": 1,
+        "npc_id": 9133,
+        "lines": [
+          "腕や脚は売れない。"
+        ]
+      },
+      {
+        "option_index": 1,
+        "npc_id": 9172,
+        "lines": [
+          "治療。"
+        ]
+      },
+      {
+        "option_index": 1,
+        "npc_id": 9173,
+        "lines": [
+          "それならもっとチップが欲しい。"
+        ]
+      },
+      {
+        "option_index": 1,
+        "npc_id": 9174,
+        "lines": [
+          "やっぱりやめておいたほうがいいかな？"
+        ]
+      },
+      {
+        "option_index": 2,
+        "npc_id": 9133,
+        "lines": [
+          "何が欲しいの？"
+        ]
+      },
+      {
+        "option_index": 2,
+        "npc_id": 9172,
+        "lines": [
+          "取引き。"
+        ]
+      },
+      {
+        "option_index": 2,
+        "npc_id": 9173,
+        "lines": [
+          "負けたら手当をお願いね！"
+        ]
+      },
+      {
+        "option_index": 2,
+        "npc_id": 9174,
+        "lines": [
+          "魅力的な提案だ……"
+        ]
+      }
+    ],
+    "option_outcomes": [
+      {
+        "option_id": 12301,
+        "option_index": 1,
+        "text": "<sprite name=item_11_small>を50枚消費し、HPを20%回復する",
+        "results": [
+          {
+            "result_id": 1230101,
+            "probability_percent": null,
+            "effects": [
+              {
+                "code": 5,
+                "parameters": [
+                  50
+                ],
+                "type": "spend_coin",
+                "amount": 50
+              },
+              {
+                "code": 14,
+                "parameters": [
+                  989991
+                ],
+                "type": "apply_event_effect",
+                "target_id": 989991
+              },
+              {
+                "code": 16,
+                "parameters": [
+                  1110101
+                ],
+                "type": "trigger_event_message",
+                "target_id": 1110101
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "option_id": 12302,
+        "option_index": 2,
+        "text": "最大HPを30％消費し、素質をランダムで1個獲得する",
+        "results": [
+          {
+            "result_id": 1230201,
+            "probability_percent": null,
+            "effects": [
+              {
+                "code": 14,
+                "parameters": [
+                  989982
+                ],
+                "type": "apply_event_effect",
+                "target_id": 989982
+              },
+              {
+                "code": 3,
+                "parameters": [
+                  101,
+                  0
+                ],
+                "type": "trigger_drop",
+                "drop_items": [
+                  {
+                    "item_id": 21091,
+                    "item_name": "薄光の残滓"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 124,
+    "description": "随机潜能",
+    "event_type": 4,
+    "guaranteed_map_id": 201114,
+    "guaranteed_map_scene_res": "Levels/Roguelike/Roguelike_2/Roguelike_2_Reward_002",
+    "guaranteed_map_theme": "流水と暗影",
+    "related_npcs": [
+      9133,
+      9172,
+      9173,
+      9174
+    ],
+    "actions": [
+      {
+        "npc_id": 9133,
+        "lines": [
+          "この不思議なゲーム機、遊んでみたい？"
+        ]
+      },
+      {
+        "npc_id": 9172,
+        "lines": [
+          "何が起こるかわからない薬ですが……試します？"
+        ]
+      },
+      {
+        "npc_id": 9173,
+        "lines": [
+          "運命のギャンブルが始まるのよ！"
+        ]
+      },
+      {
+        "npc_id": 9174,
+        "lines": [
+          "運命の鏡に足を踏み入れたいのです？"
+        ]
+      }
+    ],
+    "options": [
+      {
+        "option_index": 1,
+        "npc_id": 9133,
+        "lines": [
+          "……本当に遊んでいいの？"
+        ]
+      },
+      {
+        "option_index": 1,
+        "npc_id": 9172,
+        "lines": [
+          "試してみよう。"
+        ]
+      },
+      {
+        "option_index": 1,
+        "npc_id": 9173,
+        "lines": [
+          "よし、賭けよう！"
+        ]
+      },
+      {
+        "option_index": 1,
+        "npc_id": 9174,
+        "lines": [
+          "ぜひ！"
+        ]
+      },
+      {
+        "option_index": 2,
+        "npc_id": 9133,
+        "lines": [
+          "いや、やめておくよ。"
+        ]
+      },
+      {
+        "option_index": 2,
+        "npc_id": 9172,
+        "lines": [
+          "やめておこう。"
+        ]
+      },
+      {
+        "option_index": 2,
+        "npc_id": 9173,
+        "lines": [
+          "なんだか危なそうだ……"
+        ]
+      },
+      {
+        "option_index": 2,
+        "npc_id": 9174,
+        "lines": [
+          "やめておく。"
+        ]
+      }
+    ],
+    "option_outcomes": [
+      {
+        "option_id": 12401,
+        "option_index": 1,
+        "text": "以下のいずれかを得る。素質を1個獲得（33％）/HPを20％回復（33％）/HPを30％失う（33％）",
+        "results": [
+          {
+            "result_id": 1240101,
+            "probability_percent": 33.0,
+            "effects": [
+              {
+                "code": 3,
+                "parameters": [
+                  101,
+                  0
+                ],
+                "type": "trigger_drop",
+                "drop_items": [
+                  {
+                    "item_id": 21091,
+                    "item_name": "薄光の残滓"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "result_id": 1240102,
+            "probability_percent": 33.0,
+            "effects": [
+              {
+                "code": 14,
+                "parameters": [
+                  989991
+                ],
+                "type": "apply_event_effect",
+                "target_id": 989991
+              },
+              {
+                "code": 16,
+                "parameters": [
+                  1110101
+                ],
+                "type": "trigger_event_message",
+                "target_id": 1110101
+              }
+            ]
+          },
+          {
+            "result_id": 1240103,
+            "probability_percent": 33.0,
+            "effects": [
+              {
+                "code": 14,
+                "parameters": [
+                  989982
+                ],
+                "type": "apply_event_effect",
+                "target_id": 989982
+              },
+              {
+                "code": 16,
+                "parameters": [
+                  1110102
+                ],
+                "type": "trigger_event_message",
+                "target_id": 1110102
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "option_id": 12402,
+        "option_index": 2,
+        "text": "<sprite name=item_11_small>を30枚獲得する",
+        "results": [
+          {
+            "result_id": 1240201,
+            "probability_percent": null,
+            "effects": [
+              {
+                "code": 1,
+                "parameters": [
+                  30
+                ],
+                "type": "gain_coin",
+                "amount": 30
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 125,
+    "description": "随机潜能",
+    "event_type": 4,
+    "guaranteed_map_id": 201114,
+    "guaranteed_map_scene_res": "Levels/Roguelike/Roguelike_2/Roguelike_2_Reward_002",
+    "guaranteed_map_theme": "流水と暗影",
+    "related_npcs": [
+      9133,
+      9172,
+      9173,
+      9174
+    ],
+    "actions": [
+      {
+        "npc_id": 9133,
+        "lines": [
+          "この不思議なゲーム機、遊んでみたい？"
+        ]
+      },
+      {
+        "npc_id": 9172,
+        "lines": [
+          "何が起こるかわからない薬ですが……試します？"
+        ]
+      },
+      {
+        "npc_id": 9173,
+        "lines": [
+          "運命のギャンブルが始まるのよ！"
+        ]
+      },
+      {
+        "npc_id": 9174,
+        "lines": [
+          "運命の鏡に足を踏み入れたいのです？"
+        ]
+      }
+    ],
+    "options": [
+      {
+        "option_index": 1,
+        "npc_id": 9133,
+        "lines": [
+          "……本当に遊んでいいの？"
+        ]
+      },
+      {
+        "option_index": 1,
+        "npc_id": 9172,
+        "lines": [
+          "少しだけなら……"
+        ]
+      },
+      {
+        "option_index": 1,
+        "npc_id": 9173,
+        "lines": [
+          "よし、賭けよう！"
+        ]
+      },
+      {
+        "option_index": 1,
+        "npc_id": 9174,
+        "lines": [
+          "ぜひ！"
+        ]
+      },
+      {
+        "option_index": 2,
+        "npc_id": 9133,
+        "lines": [
+          "ずっと遊びたかった！"
+        ]
+      },
+      {
+        "option_index": 2,
+        "npc_id": 9172,
+        "lines": [
+          "ぜひ！"
+        ]
+      },
+      {
+        "option_index": 2,
+        "npc_id": 9173,
+        "lines": [
+          "どんとこい！"
+        ]
+      },
+      {
+        "option_index": 2,
+        "npc_id": 9174,
+        "lines": [
+          "自分の運命は、自分で決める！"
+        ]
+      },
+      {
+        "option_index": 3,
+        "npc_id": 9133,
+        "lines": [
+          "いや、遊ばない。"
+        ]
+      },
+      {
+        "option_index": 3,
+        "npc_id": 9172,
+        "lines": [
+          "次の機会に。"
+        ]
+      },
+      {
+        "option_index": 3,
+        "npc_id": 9173,
+        "lines": [
+          "なんだか危なそう……"
+        ]
+      },
+      {
+        "option_index": 3,
+        "npc_id": 9174,
+        "lines": [
+          "いや、危なそうだ……"
+        ]
+      }
+    ],
+    "option_outcomes": [
+      {
+        "option_id": 12501,
+        "option_index": 1,
+        "text": "以下のいずれかを得る。素質（金）を1個獲得（33％）/HPを20％回復（33％）/HPを20％失う（33％）",
+        "results": [
+          {
+            "result_id": 1250101,
+            "probability_percent": 33.0,
+            "effects": [
+              {
+                "code": 3,
+                "parameters": [
+                  103,
+                  0
+                ],
+                "type": "trigger_drop",
+                "drop_items": [
+                  {
+                    "item_id": 32001,
+                    "item_name": "音楽カセット・初級"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "result_id": 1250102,
+            "probability_percent": 33.0,
+            "effects": [
+              {
+                "code": 14,
+                "parameters": [
+                  989991
+                ],
+                "type": "apply_event_effect",
+                "target_id": 989991
+              },
+              {
+                "code": 16,
+                "parameters": [
+                  1110101
+                ],
+                "type": "trigger_event_message",
+                "target_id": 1110101
+              }
+            ]
+          },
+          {
+            "result_id": 1250103,
+            "probability_percent": 33.0,
+            "effects": [
+              {
+                "code": 14,
+                "parameters": [
+                  989981
+                ],
+                "type": "apply_event_effect",
+                "target_id": 989981
+              },
+              {
+                "code": 16,
+                "parameters": [
+                  1110102
+                ],
+                "type": "trigger_event_message",
+                "target_id": 1110102
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "option_id": 12502,
+        "option_index": 2,
+        "text": "以下のいずれかを得る。素質（虹）を1個獲得（33％）/HPを30％回復（33％）/HPを50％失う（33％）",
+        "results": [
+          {
+            "result_id": 1250201,
+            "probability_percent": 33.0,
+            "effects": [
+              {
+                "code": 3,
+                "parameters": [
+                  104,
+                  0
+                ],
+                "type": "trigger_drop",
+                "drop_items": [
+                  {
+                    "item_id": 32021,
+                    "item_name": "格闘カセット・初級"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "result_id": 1250202,
+            "probability_percent": 33.0,
+            "effects": [
+              {
+                "code": 14,
+                "parameters": [
+                  989992
+                ],
+                "type": "apply_event_effect",
+                "target_id": 989992
+              },
+              {
+                "code": 16,
+                "parameters": [
+                  1110101
+                ],
+                "type": "trigger_event_message",
+                "target_id": 1110101
+              }
+            ]
+          },
+          {
+            "result_id": 1250203,
+            "probability_percent": 33.0,
+            "effects": [
+              {
+                "code": 14,
+                "parameters": [
+                  989984
+                ],
+                "type": "apply_event_effect",
+                "target_id": 989984
+              },
+              {
+                "code": 16,
+                "parameters": [
+                  1110102
+                ],
+                "type": "trigger_event_message",
+                "target_id": 1110102
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "option_id": 12503,
+        "option_index": 3,
+        "text": "<sprite name=item_11_small>を30枚獲得する",
+        "results": [
+          {
+            "result_id": 1250301,
+            "probability_percent": null,
+            "effects": [
+              {
+                "code": 1,
+                "parameters": [
+                  30
+                ],
+                "type": "gain_coin",
+                "amount": 30
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 126,
+    "description": "随机潜能",
+    "event_type": 4,
+    "guaranteed_map_id": 201114,
+    "guaranteed_map_scene_res": "Levels/Roguelike/Roguelike_2/Roguelike_2_Reward_002",
+    "guaranteed_map_theme": "流水と暗影",
+    "related_npcs": [
+      9133,
+      9172,
+      9173,
+      9174
+    ],
+    "actions": [
+      {
+        "npc_id": 9133,
+        "lines": [
+          "友達って、本当にいいもんだよね……"
+        ]
+      },
+      {
+        "npc_id": 9172,
+        "lines": [
+          "星ノ塔を登るとき、仲間がいることを忘れないでください。"
+        ]
+      },
+      {
+        "npc_id": 9173,
+        "lines": [
+          "魔王サマたちは運命で結ばれているのよ……"
+        ]
+      },
+      {
+        "npc_id": 9174,
+        "lines": [
+          "魔王さんたちは同じ運命を追い求めているのですよ……"
+        ]
+      }
+    ],
+    "options": [
+      {
+        "option_index": 1,
+        "npc_id": 9133,
+        "lines": [
+          "私たちはもう友達だよ！"
+        ]
+      },
+      {
+        "option_index": 1,
+        "npc_id": 9172,
+        "lines": [
+          "助け合っていく。"
+        ]
+      },
+      {
+        "option_index": 1,
+        "npc_id": 9173,
+        "lines": [
+          "息ぴったりだからね。"
+        ]
+      },
+      {
+        "option_index": 1,
+        "npc_id": 9174,
+        "lines": [
+          "目的は一つ。"
+        ]
+      },
+      {
+        "option_index": 2,
+        "npc_id": 9133,
+        "lines": [
+          "もしよければ、私と友達になって欲しいな。"
+        ]
+      },
+      {
+        "option_index": 2,
+        "npc_id": 9172,
+        "lines": [
+          "仲間は私が守る！"
+        ]
+      },
+      {
+        "option_index": 2,
+        "npc_id": 9173,
+        "lines": [
+          "固い絆で結ばれてる。"
+        ]
+      },
+      {
+        "option_index": 2,
+        "npc_id": 9174,
+        "lines": [
+          "運命共同体だね。"
+        ]
+      }
+    ],
+    "option_outcomes": [
+      {
+        "option_id": 12601,
+        "option_index": 1,
+        "text": "支援巡遊者の素質（金）をランダムで1個獲得する",
+        "results": [
+          {
+            "result_id": 1260101,
+            "probability_percent": null,
+            "effects": [
+              {
+                "code": 3,
+                "parameters": [
+                  103,
+                  2
+                ],
+                "type": "trigger_drop",
+                "drop_items": [
+                  {
+                    "item_id": 32021,
+                    "item_name": "格闘カセット・初級"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "result_id": 1260102,
+            "probability_percent": null,
+            "effects": [
+              {
+                "code": 3,
+                "parameters": [
+                  103,
+                  3
+                ],
+                "type": "trigger_drop",
+                "drop_items": [
+                  {
+                    "item_id": 32021,
+                    "item_name": "格闘カセット・初級"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "option_id": 12602,
+        "option_index": 2,
+        "text": "HPを20%回復する",
+        "results": [
+          {
+            "result_id": 1260201,
+            "probability_percent": null,
+            "effects": [
+              {
+                "code": 14,
+                "parameters": [
+                  989991
+                ],
+                "type": "apply_event_effect",
+                "target_id": 989991
+              },
+              {
+                "code": 16,
+                "parameters": [
+                  1110101
+                ],
+                "type": "trigger_event_message",
+                "target_id": 1110101
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 127,
+    "description": "随机潜能&音符",
+    "event_type": 4,
+    "guaranteed_map_id": 201114,
+    "guaranteed_map_scene_res": "Levels/Roguelike/Roguelike_2/Roguelike_2_Reward_002",
+    "guaranteed_map_theme": "流水と暗影",
+    "related_npcs": [
+      9133,
+      9172,
+      9173,
+      9174
+    ],
+    "actions": [
+      {
+        "npc_id": 9133,
+        "lines": [
+          "友達って、本当にいいもんだよね……"
+        ]
+      },
+      {
+        "npc_id": 9172,
+        "lines": [
+          "星ノ塔を登るとき、仲間がいることを忘れないでください。"
+        ]
+      },
+      {
+        "npc_id": 9173,
+        "lines": [
+          "魔王サマたちは運命で結ばれているのよ……"
+        ]
+      },
+      {
+        "npc_id": 9174,
+        "lines": [
+          "魔王さんたちは同じ運命を追い求めているのですよ……"
+        ]
+      }
+    ],
+    "options": [
+      {
+        "option_index": 1,
+        "npc_id": 9133,
+        "lines": [
+          "私たちはもう友達だよ！"
+        ]
+      },
+      {
+        "option_index": 1,
+        "npc_id": 9172,
+        "lines": [
+          "助け合っていく。"
+        ]
+      },
+      {
+        "option_index": 1,
+        "npc_id": 9173,
+        "lines": [
+          "息ぴったりだからね。"
+        ]
+      },
+      {
+        "option_index": 1,
+        "npc_id": 9174,
+        "lines": [
+          "目的は一つ。"
+        ]
+      },
+      {
+        "option_index": 2,
+        "npc_id": 9133,
+        "lines": [
+          "もしよければ、私と友達になって欲しいな。"
+        ]
+      },
+      {
+        "option_index": 2,
+        "npc_id": 9172,
+        "lines": [
+          "もちろん忘れない。"
+        ]
+      },
+      {
+        "option_index": 2,
+        "npc_id": 9173,
+        "lines": [
+          "固い絆で結ばれてる。"
+        ]
+      },
+      {
+        "option_index": 2,
+        "npc_id": 9174,
+        "lines": [
+          "運命共同体だね。"
+        ]
+      }
+    ],
+    "option_outcomes": [
+      {
+        "option_id": 12701,
+        "option_index": 1,
+        "text": "支援巡遊者の素質をランダムで1個獲得する",
+        "results": [
+          {
+            "result_id": 1270101,
+            "probability_percent": null,
+            "effects": [
+              {
+                "code": 3,
+                "parameters": [
+                  101,
+                  2
+                ],
+                "type": "trigger_drop",
+                "drop_items": [
+                  {
+                    "item_id": 32011,
+                    "item_name": "弾幕カセット・初級"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "result_id": 1270102,
+            "probability_percent": null,
+            "effects": [
+              {
+                "code": 3,
+                "parameters": [
+                  101,
+                  3
+                ],
+                "type": "trigger_drop",
+                "drop_items": [
+                  {
+                    "item_id": 32011,
+                    "item_name": "弾幕カセット・初級"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "option_id": 12702,
+        "option_index": 2,
+        "text": "音符をランダムで5個獲得する",
+        "results": [
+          {
+            "result_id": 1270201,
+            "probability_percent": null,
+            "effects": [
+              {
+                "code": 17,
+                "parameters": [
+                  5,
+                  1
+                ],
+                "type": "gain_notes_random",
+                "quantity": 5,
+                "note_type": 1
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 128,
+    "description": "随机潜能&货币",
+    "event_type": 4,
+    "guaranteed_map_id": 201114,
+    "guaranteed_map_scene_res": "Levels/Roguelike/Roguelike_2/Roguelike_2_Reward_002",
+    "guaranteed_map_theme": "流水と暗影",
+    "related_npcs": [
+      9133,
+      9172,
+      9173,
+      9174
+    ],
+    "actions": [
+      {
+        "npc_id": 9133,
+        "lines": [
+          "友達って、本当にいいもんだよね……"
+        ]
+      },
+      {
+        "npc_id": 9172,
+        "lines": [
+          "星ノ塔を登るとき、仲間がいることを忘れないでください。"
+        ]
+      },
+      {
+        "npc_id": 9173,
+        "lines": [
+          "魔王サマたちは運命で結ばれているのよ……"
+        ]
+      },
+      {
+        "npc_id": 9174,
+        "lines": [
+          "魔王さんたちは同じ運命を追い求めているのですよ……"
+        ]
+      }
+    ],
+    "options": [
+      {
+        "option_index": 1,
+        "npc_id": 9133,
+        "lines": [
+          "私たちはもう友達だよ！"
+        ]
+      },
+      {
+        "option_index": 1,
+        "npc_id": 9172,
+        "lines": [
+          "助け合っていく。"
+        ]
+      },
+      {
+        "option_index": 1,
+        "npc_id": 9173,
+        "lines": [
+          "息ぴったりだからね。"
+        ]
+      },
+      {
+        "option_index": 1,
+        "npc_id": 9174,
+        "lines": [
+          "目的は一つ。"
+        ]
+      },
+      {
+        "option_index": 2,
+        "npc_id": 9133,
+        "lines": [
+          "もしよければ、私と友達になって欲しいな。"
+        ]
+      },
+      {
+        "option_index": 2,
+        "npc_id": 9172,
+        "lines": [
+          "利益が重要。"
+        ]
+      },
+      {
+        "option_index": 2,
+        "npc_id": 9173,
+        "lines": [
+          "固い絆で結ばれてる。"
+        ]
+      },
+      {
+        "option_index": 2,
+        "npc_id": 9174,
+        "lines": [
+          "運命共同体だね。"
+        ]
+      }
+    ],
+    "option_outcomes": [
+      {
+        "option_id": 12801,
+        "option_index": 1,
+        "text": "支援巡遊者の素質（虹）をランダムで1個獲得する",
+        "results": [
+          {
+            "result_id": 1280101,
+            "probability_percent": null,
+            "effects": [
+              {
+                "code": 3,
+                "parameters": [
+                  104,
+                  2
+                ],
+                "type": "trigger_drop",
+                "drop_items": [
+                  {
+                    "item_id": 32011,
+                    "item_name": "弾幕カセット・初級"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "result_id": 1280102,
+            "probability_percent": null,
+            "effects": [
+              {
+                "code": 3,
+                "parameters": [
+                  104,
+                  3
+                ],
+                "type": "trigger_drop",
+                "drop_items": [
+                  {
+                    "item_id": 32011,
+                    "item_name": "弾幕カセット・初級"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "option_id": 12802,
+        "option_index": 2,
+        "text": "<sprite name=item_11_small>を30枚獲得する",
+        "results": [
+          {
+            "result_id": 1280201,
+            "probability_percent": null,
+            "effects": [
+              {
+                "code": 1,
+                "parameters": [
+                  30
+                ],
+                "type": "gain_coin",
+                "amount": 30
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
