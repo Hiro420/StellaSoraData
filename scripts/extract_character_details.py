@@ -9,8 +9,8 @@ from typing import Any, Dict, List, Optional
 # 入力ファイル群が配置されているリポジトリのルートパスを決定します。
 BASE_DIR = Path(__file__).resolve().parents[1]
 
-# 解析対象のキャラクターIDを指定します。初期値として依頼された145を設定しています。
-TARGET_CHARACTER_ID = 145
+# 解析対象のキャラクターIDを指定します。初期値として依頼された144を設定しています。
+TARGET_CHARACTER_ID = 144
 
 
 def load_json(path: Path) -> Dict[str, Any]:

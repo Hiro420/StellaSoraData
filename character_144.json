@@ -1,0 +1,244 @@
+{
+  "Id": 144,
+  "InternalName": "Character.144.1",
+  "JapaneseName": "チトセ",
+  "AtkSpd": 1000000,
+  "SwitchCD": 200,
+  "EnergyConvRatio": 7500,
+  "EnergyEfficiency": 10000,
+  "SkillsUpgradeGroup": [
+    144,
+    144,
+    144,
+    144
+  ],
+  "GemSlots": [
+    301,
+    102,
+    203
+  ],
+  "Skills": {
+    "NormalAtk": {
+      "Id": 14410000,
+      "RawData": {
+        "Id": 14410000,
+        "Title": "Skill.14410000.1",
+        "FCPath": "AIScript.Character._14401.SkillScript_NormalAttack",
+        "Type": 1,
+        "BriefDesc": "Skill.14410000.13",
+        "Desc": "Skill.14410000.2",
+        "Icon": "Icon/Skill/14401_Normal",
+        "MaxLevel": 10,
+        "GetEnergyLimit": 204300,
+        "Param1": "HitDamage,DamageNum,144100001",
+        "Param2": "HitDamage,DamageNum,144100002",
+        "Param3": "HitDamage,DamageNum,144100003",
+        "Param4": "HitDamage,DamageNum,144100004",
+        "Param5": "HitDamage,DamageNum,144100005",
+        "Param6": "HitDamage,DamageNum,144100006",
+        "Param7": "HitDamage,DamageNum,144100007",
+        "Param8": "HitDamage,DamageNum,144100008",
+        "Param9": "HitDamage,DamageNum,144100009",
+        "CheckSkillInterval": true
+      },
+      "Texts": {
+        "Title": "漣",
+        "BriefDesc": "大太刀を振り回し、連続でダメージを与える。",
+        "Desc": "大太刀を振り回し、連続でダメージを与える。\u000b1撃目：攻撃力の<color=#fb8037>&Param1&x2</color>の水属性ダメージを与える。\u000b2撃目：攻撃力の<color=#fb8037>&Param2&</color>の水属性ダメージを与える。\u000b3撃目：攻撃力の<color=#fb8037>&Param3&</color>、<color=#fb8037>&Param8&</color>の水属性ダメージを与える。\u000b4撃目：攻撃力の<color=#fb8037>&Param4&x2</color>の水属性ダメージを与える。\u000b5撃目：攻撃力の<color=#fb8037>&Param5&x2</color>、<color=#fb8037>&Param9&</color>の水属性ダメージを与える。\u000b6撃目：攻撃力の<color=#fb8037>&Param6&</color>、<color=#fb8037>&Param7&</color>の水属性ダメージを与える。"
+      }
+    },
+    "Skill": {
+      "Id": 14431000,
+      "RawData": {
+        "Id": 14431000,
+        "Title": "Skill.14431000.1",
+        "FCPath": "AIScript.Character._14401.SkillScript_Skill_Normal_MainControl",
+        "Type": 3,
+        "BriefDesc": "Skill.14431000.13",
+        "Desc": "Skill.14431000.2",
+        "Icon": "Icon/Skill/14401_Skill_Main",
+        "SkillCD": 80000,
+        "MaxLevel": 10,
+        "SectionAmount": 2,
+        "UseInterval": 5000,
+        "GetEnergyLimit": 312200,
+        "Param1": "HitDamage,DamageNum,144310001",
+        "Param2": "HitDamage,DamageNum,144310002",
+        "Param3": "HitDamage,DamageNum,144000001",
+        "CheckSkillInterval": true
+      },
+      "Texts": {
+        "Title": "龍薙閃",
+        "BriefDesc": "前方に突進し、範囲内に水属性ダメージを与える。主力スキルを2回発動するごとに、次に発動する主力スキルが強化される。\u000b主力スキルは##水属性の印#1018#を発動させることができる。",
+        "Desc": "前方に突進し、範囲内に攻撃力の<color=#fb8037>&Param1&x2</color>の水属性ダメージを与える。発動可能回数は2回。\u000b主力スキルを2回発動するごとに、次に発動する主力スキルは流閃・鱗に変化する。流閃・鱗は騰蛇を生成し、範囲内に攻撃力の<color=#fb8037>&Param2&x3</color>の水属性ダメージを与える。\u000b主力スキルと流閃・鱗は##水属性の印#1018#を発動させることができる。発動させると、範囲内に攻撃力の&Param3&の水属性の印ダメージを与え、##寒冷#1027#を付与する。"
+      }
+    },
+    "SpecialSkill": {
+      "Id": 14470000,
+      "RawData": {
+        "Id": 14470000,
+        "Title": "Skill.14470000.1",
+        "FCPath": "AIScript.Character._14401.SkillScript_Rush",
+        "Type": 7,
+        "BriefDesc": "Skill.14470000.13",
+        "Desc": "Skill.14470000.2",
+        "MaxLevel": 10,
+        "CheckSkillInterval": true
+      },
+      "Texts": {
+        "Title": null,
+        "BriefDesc": null,
+        "Desc": null
+      }
+    },
+    "Ultimate": {
+      "Id": 14440000,
+      "RawData": {
+        "Id": 14440000,
+        "Title": "Skill.14440000.1",
+        "FCPath": "AIScript.Character._14401.SkillScript_Ultra",
+        "Type": 5,
+        "BriefDesc": "Skill.14440000.13",
+        "Desc": "Skill.14440000.2",
+        "Icon": "Icon/Skill/14401_Ultra",
+        "SkillCD": 300000,
+        "MaxLevel": 10,
+        "UltraEnergy": 2850000,
+        "Param1": "HitDamage,DamageNum,144400001",
+        "Param2": "HitDamage,DamageNum,144400002",
+        "Param3": "HitDamage,DamageNum,144000001",
+        "CheckSkillInterval": true
+      },
+      "Texts": {
+        "Title": "龍薙閃・蛟噛",
+        "BriefDesc": "2本の小太刀で攻撃し、騰蛇を引き寄せて広範囲に水属性ダメージを与える。\u000b必殺技は##水属性の印#1018#を発動させることができる。",
+        "Desc": "2本の小太刀で攻撃し、広範囲に攻撃力の<color=#fb8037>&Param1&x11</color>の水属性ダメージを与える。その後、騰蛇を引き寄せ、広範囲に攻撃力の<color=#fb8037>&Param2&</color>の水属性ダメージを与える。\u000b必殺技は##水属性の印#1018#を発動させることができる。発動させると、範囲内に攻撃力&Param3&の水属性の印ダメージを与え、##寒冷#1027#を付与する。"
+      }
+    },
+    "AssistNormalAtk": {
+      "Id": 14410000,
+      "RawData": {
+        "Id": 14410000,
+        "Title": "Skill.14410000.1",
+        "FCPath": "AIScript.Character._14401.SkillScript_NormalAttack",
+        "Type": 1,
+        "BriefDesc": "Skill.14410000.13",
+        "Desc": "Skill.14410000.2",
+        "Icon": "Icon/Skill/14401_Normal",
+        "MaxLevel": 10,
+        "GetEnergyLimit": 204300,
+        "Param1": "HitDamage,DamageNum,144100001",
+        "Param2": "HitDamage,DamageNum,144100002",
+        "Param3": "HitDamage,DamageNum,144100003",
+        "Param4": "HitDamage,DamageNum,144100004",
+        "Param5": "HitDamage,DamageNum,144100005",
+        "Param6": "HitDamage,DamageNum,144100006",
+        "Param7": "HitDamage,DamageNum,144100007",
+        "Param8": "HitDamage,DamageNum,144100008",
+        "Param9": "HitDamage,DamageNum,144100009",
+        "CheckSkillInterval": true
+      },
+      "Texts": {
+        "Title": "漣",
+        "BriefDesc": "大太刀を振り回し、連続でダメージを与える。",
+        "Desc": "大太刀を振り回し、連続でダメージを与える。\u000b1撃目：攻撃力の<color=#fb8037>&Param1&x2</color>の水属性ダメージを与える。\u000b2撃目：攻撃力の<color=#fb8037>&Param2&</color>の水属性ダメージを与える。\u000b3撃目：攻撃力の<color=#fb8037>&Param3&</color>、<color=#fb8037>&Param8&</color>の水属性ダメージを与える。\u000b4撃目：攻撃力の<color=#fb8037>&Param4&x2</color>の水属性ダメージを与える。\u000b5撃目：攻撃力の<color=#fb8037>&Param5&x2</color>、<color=#fb8037>&Param9&</color>の水属性ダメージを与える。\u000b6撃目：攻撃力の<color=#fb8037>&Param6&</color>、<color=#fb8037>&Param7&</color>の水属性ダメージを与える。"
+      }
+    },
+    "AssistSkill": {
+      "Id": 14432000,
+      "RawData": {
+        "Id": 14432000,
+        "Title": "Skill.14432000.1",
+        "FCPath": "AIScript.Character._14401.SkillScript_Skill_Support",
+        "Type": 4,
+        "BriefDesc": "Skill.14432000.13",
+        "Desc": "Skill.14432000.2",
+        "Icon": "Icon/Skill/14401_Skill_Support",
+        "SkillCD": 120000,
+        "MaxLevel": 10,
+        "Param1": "HitDamage,DamageNum,144320001",
+        "Param2": "HitDamage,DamageNum,144320002",
+        "Param3": "HitDamage,DamageNum,144000001",
+        "CheckSkillInterval": true
+      },
+      "Texts": {
+        "Title": "連段滝",
+        "BriefDesc": "高速で連撃を繰り出し、範囲内に水属性ダメージを与える。\u000b支援スキル発動時、自身の周囲に鏡影を生成し、水属性ダメージを与える。\u000b支援スキルは##水属性の印#1018#を発動させることができる。",
+        "Desc": "高速で3回の連撃を繰り出し、それぞれ範囲内に攻撃力の<color=#fb8037>&Param1&x4</color>の水属性ダメージを与える。\u000b支援スキル発動時、自身の周囲に鏡影を生成し、攻撃力の<color=#fb8037>&Param2&</color>の水属性ダメージを与える。この効果は3回まで発動する。\u000b支援スキルは##水属性の印#1018#を発動させることができる。発動させると、範囲内に攻撃力の&Param3&の水属性の印ダメージを与え、##寒冷#1027#を付与する。"
+      }
+    },
+    "AssistSpecialSkill": {
+      "Id": 14470000,
+      "RawData": {
+        "Id": 14470000,
+        "Title": "Skill.14470000.1",
+        "FCPath": "AIScript.Character._14401.SkillScript_Rush",
+        "Type": 7,
+        "BriefDesc": "Skill.14470000.13",
+        "Desc": "Skill.14470000.2",
+        "MaxLevel": 10,
+        "CheckSkillInterval": true
+      },
+      "Texts": {
+        "Title": null,
+        "BriefDesc": null,
+        "Desc": null
+      }
+    },
+    "AssistUltimate": {
+      "Id": 14440000,
+      "RawData": {
+        "Id": 14440000,
+        "Title": "Skill.14440000.1",
+        "FCPath": "AIScript.Character._14401.SkillScript_Ultra",
+        "Type": 5,
+        "BriefDesc": "Skill.14440000.13",
+        "Desc": "Skill.14440000.2",
+        "Icon": "Icon/Skill/14401_Ultra",
+        "SkillCD": 300000,
+        "MaxLevel": 10,
+        "UltraEnergy": 2850000,
+        "Param1": "HitDamage,DamageNum,144400001",
+        "Param2": "HitDamage,DamageNum,144400002",
+        "Param3": "HitDamage,DamageNum,144000001",
+        "CheckSkillInterval": true
+      },
+      "Texts": {
+        "Title": "龍薙閃・蛟噛",
+        "BriefDesc": "2本の小太刀で攻撃し、騰蛇を引き寄せて広範囲に水属性ダメージを与える。\u000b必殺技は##水属性の印#1018#を発動させることができる。",
+        "Desc": "2本の小太刀で攻撃し、広範囲に攻撃力の<color=#fb8037>&Param1&x11</color>の水属性ダメージを与える。その後、騰蛇を引き寄せ、広範囲に攻撃力の<color=#fb8037>&Param2&</color>の水属性ダメージを与える。\u000b必殺技は##水属性の印#1018#を発動させることができる。発動させると、範囲内に攻撃力&Param3&の水属性の印ダメージを与え、##寒冷#1027#を付与する。"
+      }
+    },
+    "TalentSkill": {
+      "Id": 14400000,
+      "RawData": {},
+      "Texts": {
+        "Title": null,
+        "BriefDesc": null,
+        "Desc": null
+      }
+    }
+  },
+  "SkillUpgradeDetails": [
+    {
+      "Id": 144,
+      "Group": 119,
+      "AdvanceNum": 3,
+      "Tid1": 32001,
+      "Qty1": 24,
+      "Tid2": 32002,
+      "Qty2": 3,
+      "Tid3": 32000,
+      "Qty3": 10,
+      "GoldQty": 49800
+    }
+  ],
+  "RelatedIds": {
+    "ViewId": 144,
+    "AdvanceGroup": 144,
+    "FragmentsId": 1440,
+    "AttributeId": "144",
+    "AIId": 14401,
+    "AssistAIId": 14402
+  }
+}
