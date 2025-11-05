@@ -1,0 +1,757 @@
+<!doctype html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8" />
+  <title>編成ビュー（レベル＆ステータス / スキル / 心相）</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <style>
+    /* 画面全体の基本スタイル（ダーク） */
+    :root { --gap:12px; --radius:14px; }
+    body{font-family:system-ui,-apple-system,"Segoe UI",Roboto,"Noto Sans JP","Yu Gothic UI","Meiryo",sans-serif;margin:0;padding:16px;background:#0b1220;color:#eef2ff}
+    h1{font-size:1.35rem;margin:0 0 10px} h2{font-size:1.05rem;margin:0;color:#c5d7ff}
+    .card{background:#121a2b;border:1px solid #1e2a42;border-radius:var(--radius);padding:16px;margin-bottom:14px}
+    .row{display:grid;gap:var(--gap)} .row.cols-3{grid-template-columns:repeat(3,minmax(0,1fr))}
+    .slot{display:grid;gap:12px;background:#0f1728;border:1px solid #1b2740;border-radius:var(--radius);padding:12px}
+    .controls{display:grid;gap:8px} .controls label{display:grid;gap:6px}
+    select,input[type="file"]{background:#0a1120;border:1px solid #1c2a45;color:#e9eeff;border-radius:10px;padding:9px 10px}
+    .table-wrap{overflow:auto;border-radius:10px;border:1px solid #1e2a42;background:#0a1120;margin-top:6px}
+    table{width:100%;border-collapse:collapse} thead th{position:sticky;top:0;background:#101a30;z-index:1;color:#cfe2ff;text-align:left}
+    th,td{padding:8px 10px;border-bottom:1px solid #1a2742;white-space:nowrap}
+    .hidden{display:none!important}
+    .muted{color:#9fb4d9}
+
+    /* タブUI */
+    .tabs{display:flex;gap:8px;border-bottom:1px solid #1e2a42;margin-top:6px}
+    .tab-btn{background:#0a1120;border:1px solid #1c2a45;color:#cfe2ff;padding:6px 10px;border-top-left-radius:10px;border-top-right-radius:10px;cursor:pointer}
+    .tab-btn.active{background:#16233f;border-bottom-color:#16233f;font-weight:700}
+    .tab-panel{display:none;padding:10px 0}
+    .tab-panel.active{display:block}
+
+    /* スキルカードとステッパー */
+    .skills-box{display:grid;gap:10px}
+    .skill-card{border:1px solid #243457;border-radius:10px;padding:12px;background:#0c1430;display:grid;gap:8px}
+    .skill-head{display:flex;gap:10px;align-items:center;justify-content:flex-start}
+    .skill-title{font-weight:700;color:#cfe2ff;margin-left:6px}
+    .skill-desc{line-height:1.6}
+    .stepper{display:flex;align-items:center;gap:6px}
+    .stepper button{width:28px;height:28px;border-radius:999px;border:1px solid #2a3a5f;background:#141f36;color:#e3ecff;font-weight:700;cursor:pointer}
+    .stepper input{width:52px;text-align:center;background:#0a1120;border:1px solid #1c2a45;color:#e9eeff;border-radius:8px;padding:6px 6px}
+    .stepper button:disabled{opacity:.5;cursor:not-allowed}
+
+    /* Wordリンクとモーダル */
+    .word-link{background:none;border:none;padding:0;margin:0;font:inherit;color:inherit;cursor:pointer;text-decoration:underline}
+    .modal-backdrop{position:fixed;inset:0;background:rgba(0,0,0,.6);display:none;align-items:center;justify-content:center}
+    .modal{width:min(720px,90vw);max-height:80vh;overflow:auto;background:#101a30;border:1px solid #2a3a5f;border-radius:12px;box-shadow:0 15px 40px rgba(0,0,0,.5);padding:16px}
+    .modal h3{margin:0 0 8px} .modal .close{float:right;background:#192850;border:1px solid #2a3a5f;border-radius:8px;color:#cfe2ff;padding:4px 8px;cursor:pointer}
+
+    /* 心相（Talents） */
+    .talent-controls{display:flex;gap:10px;align-items:center;flex-wrap:wrap}
+    .tiny{font-size:.92em}
+    .pill{display:inline-block;border:1px solid #29406a;background:#0c1430;border-radius:999px;padding:4px 8px;margin:2px}
+    .badge{display:inline-block;background:#15315e;border:1px solid #26457a;border-radius:6px;padding:2px 6px;margin-left:6px;color:#cfe2ff}
+    .talent-group{border:1px solid #22365d;border-radius:10px;background:#0b1533;padding:10px;margin-top:10px}
+    .talent-grid{display:grid;grid-template-columns:repeat(10,1fr);gap:6px;margin-top:8px}
+    .node{border:1px solid #2a3a5f;border-radius:8px;text-align:center;padding:6px;background:#0f1a36;color:#bcd2ff}
+    .node.unlocked{background:#16305f;border-color:#2f5292;color:#eaf2ff;font-weight:700}
+    .last-effect{margin-top:6px;border-left:3px solid #2f5292;padding-left:8px}
+    .buff-list{margin-top:8px}
+  </style>
+</head>
+<body>
+  <!-- JSON 読み込み -->
+  <div class="card">
+    <h1>編成（タブ：レベル＆ステータス / スキル / 心相）</h1>
+    <p class="muted">抽出済みJSON（<code>character_*.json</code>）を読み込み、編成とスキル・心相を表示します。</p>
+    <label class="controls" style="max-width:600px">
+      <span>JSONを読み込む（複数可）</span>
+      <input id="jsonFiles" type="file" accept="application/json" multiple />
+    </label>
+    <p id="loadStatus" class="muted"></p>
+  </div>
+
+  <!-- 3カラム（主力／支援1／支援2） -->
+  <div class="row cols-3">
+    <!-- 主力 -->
+    <section class="slot" id="slot-main">
+      <h2>主力</h2>
+      <div class="controls">
+        <label><span>キャラクター</span><select id="select-main" disabled></select></label>
+        <label><span>レベル</span><select id="level-main" disabled></select></label>
+      </div>
+
+      <div class="tabs">
+        <button class="tab-btn active" data-tab="stats-main">レベル＆ステータス</button>
+        <button class="tab-btn" data-tab="skills-main">スキル</button>
+        <button class="tab-btn" data-tab="talents-main">心相</button>
+      </div>
+
+      <div id="stats-main" class="tab-panel active">
+        <div id="statsTable-main" class="table-wrap hidden"></div>
+        <div id="lastEffects-main" class="table-wrap hidden" style="margin-top:10px"></div>
+      </div>
+
+      <div id="skills-main" class="tab-panel">
+        <div id="skillsBox-main" class="skills-box hidden"></div>
+      </div>
+
+      <div id="talents-main" class="tab-panel">
+        <div class="talent-controls">
+          <span>心相進捗（合計）：</span>
+          <div id="talStep-main" class="stepper"></div>
+          <span class="tiny muted">0.0〜5.0（0.1刻み）／ 0.0〜1.0が第1群、1.0〜2.0が第2群…</span>
+        </div>
+        <div id="talentGroups-main"></div>
+        <div id="buffs-main" class="table-wrap hidden"></div>
+      </div>
+
+      <div id="msg-main" class="muted"></div>
+    </section>
+
+    <!-- 支援1 -->
+    <section class="slot" id="slot-s1">
+      <h2>支援 1</h2>
+      <div class="controls">
+        <label><span>キャラクター</span><select id="select-s1" disabled></select></label>
+        <label><span>レベル</span><select id="level-s1" disabled></select></label>
+      </div>
+
+      <div class="tabs">
+        <button class="tab-btn active" data-tab="stats-s1">レベル＆ステータス</button>
+        <button class="tab-btn" data-tab="skills-s1">スキル</button>
+        <button class="tab-btn" data-tab="talents-s1">心相</button>
+      </div>
+
+      <div id="stats-s1" class="tab-panel active">
+        <div id="statsTable-s1" class="table-wrap hidden"></div>
+        <div id="lastEffects-s1" class="table-wrap hidden" style="margin-top:10px"></div>
+      </div>
+
+      <div id="skills-s1" class="tab-panel">
+        <div id="skillsBox-s1" class="skills-box hidden"></div>
+      </div>
+
+      <div id="talents-s1" class="tab-panel">
+        <div class="talent-controls">
+          <span>心相進捗（合計）：</span>
+          <div id="talStep-s1" class="stepper"></div>
+          <span class="tiny muted">0.0〜5.0（0.1刻み）</span>
+        </div>
+        <div id="talentGroups-s1"></div>
+        <div id="buffs-s1" class="table-wrap hidden"></div>
+      </div>
+
+      <div id="msg-s1" class="muted"></div>
+    </section>
+
+    <!-- 支援2 -->
+    <section class="slot" id="slot-s2">
+      <h2>支援 2</h2>
+      <div class="controls">
+        <label><span>キャラクター</span><select id="select-s2" disabled></select></label>
+        <label><span>レベル</span><select id="level-s2" disabled></select></label>
+      </div>
+
+      <div class="tabs">
+        <button class="tab-btn active" data-tab="stats-s2">レベル＆ステータス</button>
+        <button class="tab-btn" data-tab="skills-s2">スキル</button>
+        <button class="tab-btn" data-tab="talents-s2">心相</button>
+      </div>
+
+      <div id="stats-s2" class="tab-panel active">
+        <div id="statsTable-s2" class="table-wrap hidden"></div>
+        <div id="lastEffects-s2" class="table-wrap hidden" style="margin-top:10px"></div>
+      </div>
+
+      <div id="skills-s2" class="tab-panel">
+        <div id="skillsBox-s2" class="skills-box hidden"></div>
+      </div>
+
+      <div id="talents-s2" class="tab-panel">
+        <div class="talent-controls">
+          <span>心相進捗（合計）：</span>
+          <div id="talStep-s2" class="stepper"></div>
+          <span class="tiny muted">0.0〜5.0（0.1刻み）</span>
+        </div>
+        <div id="talentGroups-s2"></div>
+        <div id="buffs-s2" class="table-wrap hidden"></div>
+      </div>
+
+      <div id="msg-s2" class="muted"></div>
+    </section>
+  </div>
+
+  <!-- Word モーダル（スキル／心相 共用） -->
+  <div id="modalWrap" class="modal-backdrop" aria-hidden="true">
+    <div class="modal" role="dialog" aria-modal="true" aria-labelledby="modalTitle">
+      <button class="close" id="modalClose">閉じる</button>
+      <h3 id="modalTitle">用語</h3>
+      <div id="modalBody" class="muted"></div>
+    </div>
+  </div>
+
+  <script>
+    /* =========================
+       基本ユーティリティ
+       ========================= */
+    const LEVEL_OPTIONS=[10,20,30,40,50,60,70,80,90];
+    function gid(id){return document.getElementById(id)}
+    function esc(s){return (s==null)?'':String(s).replace(/[&<>"']/g,m=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[m]));}
+    function clamp(v,min,max){return Math.max(min,Math.min(max,v));}
+    function fmtNum(x){ if(x==null||x==='') return ''; const n=Number(x); return Number.isFinite(n)? String(Math.round(n*100)/100) : String(x); }
+
+    /* =========================
+       スロット構造と初期状態
+       ========================= */
+    const inpFiles=gid('jsonFiles'), loadStatus=gid('loadStatus');
+    const slots={
+      main:{select:gid('select-main'),level:gid('level-main'),
+            tabs:['stats-main','skills-main','talents-main'],
+            statsWrap:gid('statsTable-main'), lastEffects:gid('lastEffects-main'),
+            skillsBox:gid('skillsBox-main'), talentsWrap:gid('talentGroups-main'), buffs:gid('buffs-main'),
+            msg:gid('msg-main'), skillLv:{}, talentProg:0.0},
+      s1:{select:gid('select-s1'),level:gid('level-s1'),
+            tabs:['stats-s1','skills-s1','talents-s1'],
+            statsWrap:gid('statsTable-s1'), lastEffects:gid('lastEffects-s1'),
+            skillsBox:gid('skillsBox-s1'), talentsWrap:gid('talentGroups-s1'), buffs:gid('buffs-s1'),
+            msg:gid('msg-s1'), skillLv:{}, talentProg:0.0},
+      s2:{select:gid('select-s2'),level:gid('level-s2'),
+            tabs:['stats-s2','skills-s2','talents-s2'],
+            statsWrap:gid('statsTable-s2'), lastEffects:gid('lastEffects-s2'),
+            skillsBox:gid('skillsBox-s2'), talentsWrap:gid('talentGroups-s2'), buffs:gid('buffs-s2'),
+            msg:gid('msg-s2'), skillLv:{}, talentProg:0.0},
+    };
+    const nameToData=new Map();
+
+    /* タブ切替 */
+    document.querySelectorAll('.tabs').forEach(tabBar=>{
+      tabBar.addEventListener('click',(e)=>{
+        const btn=e.target.closest('.tab-btn'); if(!btn) return;
+        const cont=tabBar.parentElement;
+        tabBar.querySelectorAll('.tab-btn').forEach(b=>b.classList.remove('active'));
+        cont.querySelectorAll('.tab-panel').forEach(p=>p.classList.remove('active'));
+        btn.classList.add('active');
+        gid(btn.dataset.tab).classList.add('active');
+      });
+    });
+
+    /* JSON 読み込み */
+    inpFiles.addEventListener('change', async ()=>{
+      nameToData.clear();
+      for(const k of Object.keys(slots)){resetSlot(k);}
+
+      const files=Array.from(inpFiles.files||[]); if(!files.length){loadStatus.textContent='読み込みなし';return;}
+      let ok=0, ng=0;
+      for(const f of files){
+        try{
+          const json=JSON.parse(await f.text());
+          const nm=json?.Character?.JapaneseName||json?.Character?.InternalName;
+          if(!nm) {ng++; continue;}
+          nameToData.set(nm,json); ok++;
+        }catch{ng++;}
+      }
+      const names=[...nameToData.keys()].sort((a,b)=>a.localeCompare(b,'ja'));
+      for(const key of Object.keys(slots)){
+        const sel=slots[key].select; sel.innerHTML='';
+        const ph=document.createElement('option'); ph.value=''; ph.textContent='— 選択 —'; sel.appendChild(ph);
+        names.forEach(nm=>{const o=document.createElement('option'); o.value=nm; o.textContent=nm; sel.appendChild(o);});
+      }
+      initLevelSelects();
+      setSelectsEnabled(names.length>0);
+      loadStatus.innerHTML=`読み込み成功:<b style="color:#9ee493">${ok}</b> / 失敗:<b style="color:#ffcc66">${ng}</b>`;
+      initTalentSteppers();
+      for(const k of Object.keys(slots)){attachSlotHandlers(k);}
+    });
+
+    function initLevelSelects(){
+      for(const k of Object.keys(slots)){
+        const s=slots[k].level; s.innerHTML='';
+        LEVEL_OPTIONS.forEach(lv=>{const o=document.createElement('option'); o.value=String(lv); o.textContent=String(lv); s.appendChild(o);});
+      }
+    }
+    function setSelectsEnabled(en){for(const k of Object.keys(slots)){slots[k].select.disabled=!en; slots[k].level.disabled=!en;}}
+    function resetSlot(k){
+      const s=slots[k];
+      s.statsWrap.classList.add('hidden'); s.statsWrap.innerHTML='';
+      s.lastEffects.classList.add('hidden'); s.lastEffects.innerHTML='';
+      s.skillsBox.classList.add('hidden'); s.skillsBox.innerHTML='';
+      s.talentsWrap.innerHTML=''; s.buffs.classList.add('hidden'); s.buffs.innerHTML='';
+      s.msg.textContent=''; s.skillLv={}; s.talentProg=0.0;
+      const section=document.getElementById(`slot-${k}`); const tabBar=section.querySelector('.tabs');
+      tabBar.querySelectorAll('.tab-btn').forEach((b,i)=>b.classList.toggle('active',i===0));
+      section.querySelectorAll('.tab-panel').forEach((p,i)=>p.classList.toggle('active',i===0));
+    }
+
+    /* 数値ステッパー（整数/小数対応） */
+    function createStepperNumber(initial, step, min, max, onChange){
+      const wrap=document.createElement('div'); wrap.className='stepper';
+      const btnMinus=document.createElement('button'); btnMinus.textContent='−';
+      const input=document.createElement('input'); input.type='text'; input.value=String(initial.toFixed(1)); input.readOnly=true;
+      const btnPlus=document.createElement('button'); btnPlus.textContent='＋';
+      function set(v){
+        v = Math.round(clamp(v,min,max)/step)*step;
+        input.value = (Math.abs(step-1) < 1e-9) ? String(v|0) : v.toFixed(1);
+        onChange(v);
+        btnMinus.disabled=(v<=min); btnPlus.disabled=(v>=max);
+      }
+      btnMinus.addEventListener('click',()=>set(parseFloat(input.value)-step));
+      btnPlus.addEventListener('click',()=>set(parseFloat(input.value)+step));
+      set(initial);
+      wrap.append(btnMinus,input,btnPlus);
+      return {el:wrap,set};
+    }
+
+    function initTalentSteppers(){
+      ['main','s1','s2'].forEach(k=>{
+        const anchor=gid(`talStep-${k}`); anchor.innerHTML='';
+        const st=createStepperNumber(0.0, 0.1, 0.0, 5.0, (v)=>{
+          slots[k].talentProg = v;
+          renderAllForSlot(k);
+        });
+        anchor.appendChild(st.el);
+      });
+    }
+
+    /* ステータス表を得る（指定レベル） */
+    function getStatsAtLevel(charData, level){
+      const t=charData?.AttributeTables;if(!Array.isArray(t))return null;
+      const row=t.find(e=>Number(e?.Level)===Number(level));
+      return (row&&Array.isArray(row.Stats))?JSON.parse(JSON.stringify(row.Stats)):null;
+    }
+
+    /* Talents の固定加算＆％別枠集計（Hp/Atk/Def、％は名称別合算）＋最後の効果（Desc Param置換） */
+    function collectTalentFixedAdds(charData, progress){
+      const talents=charData?.Talents||[];
+      const groupProgress = (idx)=>clamp(progress - idx, 0, 1);
+      const adds={};        // Atk / Def / Hp の固定加算
+      const percentAdds={}; // 「攻撃力」「水属性ダメージ」など名称別％合算（単位は％）
+      const lastEffects=[]; // 10/10解放の最後の効果（Param置換済みHTML）
+      const buffs=[];
+
+      const mapToAttrKey = {'攻撃力':'Atk','防御力':'Def','最大HP':'Hp'};
+
+      const wordRefs = charData?.WordRefs || [];
+
+      talents.sort((a,b)=>a.GroupId-b.GroupId).forEach((grp, gi)=>{
+        const prog = groupProgress(gi);
+        const unlockCount = Math.floor(prog*10 + 1e-8);
+        const fullUnlocked = unlockCount >= (grp.NodeLimit||10);
+
+        const nodes = (grp.Nodes||[]).slice().sort((a,b)=>(a.Index||0)-(b.Index||0));
+        const normalNodes = nodes.filter(n=>(n.Index||0)<=10).slice(0,10);
+        const lastNode = nodes.find(n=>(n.Index||0)>10);
+
+        /* 解放済み通常ノードを適用 */
+        normalNodes.slice(0, unlockCount).forEach(n=>{
+          const p = n?.Params||{};
+          for(const key of Object.keys(p)){
+            const res = p[key]?.Resolved; if(!res) continue;
+            if(Array.isArray(res.Fields) && res.Fields.length){
+              const f0 = res.Fields[0];
+              const v  = f0.Value;
+              const tf = v?.Transform || null;
+              let val = (typeof v?.Converted==='number') ? v.Converted : (Number(v?.Raw)||0);
+              const subtype = n?.Effects?.[0]?.Summary?.SubtypeText || '';
+
+              const attrKey = mapToAttrKey[subtype] || null;
+              if (tf === 'Fixed' && attrKey){
+                adds[attrKey] = (adds[attrKey]||0) + Number(val||0);
+                continue;
+              }
+              if (tf === 'HdPct' || tf === '10KHdPct'){
+                percentAdds[subtype] = (percentAdds[subtype]||0) + Number(val||0);
+                continue;
+              }
+
+              const label = n?.Texts?.Title || '';
+              const shown = (tf==='HdPct'||tf==='10KHdPct') ? `${fmtNum(val)}%` : fmtNum(val);
+              buffs.push(`${grp.GroupName||''} / ${label}: ${subtype||''} ${shown}`);
+            }
+          }
+        });
+
+        /* 10/10で最後の効果を Param 置換して追加 */
+        if(fullUnlocked && lastNode){
+          const descHtml = renderDescWithParams(lastNode.Texts?.Desc||'', lastNode.Params||{}, /*charLv*/90, /*skillLv*/1, wordRefs);
+          lastEffects.push({group: grp.GroupName||`Group ${grp.GroupId}`, title: lastNode.Texts?.Title||'最後の効果', desc: descHtml});
+        }
+      });
+
+      return {adds, percentAdds, lastEffects, buffs};
+    }
+
+    /* ステータス表描画（固定加算は「元 +加算」、％別枠は別テーブル、最後の効果表示） */
+    function renderStatsTable(slotKey,charName,level,stats, talentAgg, lastEffects){
+      const wrap=slots[slotKey].statsWrap; wrap.innerHTML='';
+      const hdr=document.createElement('div'); hdr.className='muted';
+      hdr.innerHTML=`選択:<b>${esc(charName)}</b> / レベル:<b>${level}</b>`;
+      wrap.appendChild(hdr);
+
+      const {adds, percentAdds} = talentAgg || {adds:{}, percentAdds:{}};
+
+      /* 基礎値 + 固定加算 */
+      const tbl=document.createElement('table');
+      const thead=document.createElement('thead'); const trh=document.createElement('tr');
+      ['項目（日本語名）','キー','値（心相加算後）'].forEach(h=>{const th=document.createElement('th'); th.textContent=h; trh.appendChild(th);});
+      thead.appendChild(trh);
+      const tbody=document.createElement('tbody');
+
+      stats.forEach(st=>{
+        const key=st?.Key||''; const jp=st?.JapaneseName||'(未定義)';
+        const base=Number(st?.Value||0);
+        const add=Number(adds?.[key]||0);
+        const cellVal = add ? `${base} +${fmtNum(add)}` : String(base);
+        const tr=document.createElement('tr');
+        tr.innerHTML=`<td>${esc(jp)}</td><td>${esc(key)}</td><td>${esc(cellVal)}</td>`;
+        tbody.appendChild(tr);
+      });
+      tbl.append(thead,tbody); wrap.appendChild(tbl); wrap.classList.remove('hidden');
+
+      /* 心相％加算（別枠） */
+      const entries = Object.entries(percentAdds||{});
+      if(entries.length){
+        const tbl2=document.createElement('table'); tbl2.style.marginTop='8px';
+        const thead2=document.createElement('thead'); const trh2=document.createElement('tr');
+        ['心相%加算（別枠）','合計'].forEach(h=>{const th=document.createElement('th'); th.textContent=h; trh2.appendChild(th);});
+        thead2.appendChild(trh2);
+        const tb2=document.createElement('tbody');
+        entries.forEach(([name,sum])=>{
+          const tr=document.createElement('tr');
+          tr.innerHTML=`<td>${esc(name)}</td><td>+${fmtNum(sum)}%</td>`;
+          tb2.appendChild(tr);
+        });
+        tbl2.append(thead2,tb2); wrap.appendChild(tbl2);
+      }
+
+      /* 解放済み最後の効果（Param置換済み） */
+      const lastWrap=slots[slotKey].lastEffects; lastWrap.innerHTML='';
+      if(lastEffects && lastEffects.length){
+        let html=`<table><thead><tr><th>解放済み最後の効果（心相10/10）</th></tr></thead><tbody>`;
+        lastEffects.forEach(le=>{
+          html+=`<tr><td><div class="last-effect"><b>${esc(le.group)} / ${esc(le.title)}</b><div>${le.desc}</div></div></td></tr>`;
+        });
+        html+=`</tbody></table>`;
+        lastWrap.innerHTML=html;
+        lastWrap.classList.remove('hidden');
+      }else{
+        lastWrap.classList.add('hidden'); lastWrap.innerHTML='';
+      }
+    }
+
+    /* ========= スキル表示関連 ========= */
+
+    /* Paramの参照レベル決定：
+       - maxLevel=13 → スキルLv(1〜10)を参照
+       - maxLevel=9  → キャラLv/10 を参照
+       - その他      → とりあえずスキルLv（fallback） */
+    function decideParamRefLevel(paramObj, charLevel, skillInputLevel){
+      const res=paramObj?.Resolved||{};
+      let maxL=0;
+      if(Array.isArray(res.Values)) maxL = Math.max(...res.Values.map(v=>Number(v.Level)||0), 0);
+      else if(Array.isArray(res.Levels)) maxL = Math.max(...res.Levels.map(v=>Number(v.Level)||0), 0);
+
+      if(maxL===13){
+        const v=clamp(Number(skillInputLevel||1),1,10);
+        return {ref:v, max:maxL, mode:'skill'};
+      }else if(maxL===9){
+        const v=clamp(Math.floor(Number(charLevel)/10)||1,1,9);
+        return {ref:v, max:maxL, mode:'char'};
+      }else{
+        const v=clamp(Number(skillInputLevel||1),1, maxL||1);
+        return {ref:v, max:maxL, mode:'fallback'};
+      }
+    }
+
+/* Param 値抽出（％付与ルール：HdPct/10KHdPct のみ％、Time/LaminatedNum/Fixed/10K/Enumは％なし）
+   - HitDamage: Resolved.Values[]
+   - Effect/Once... LevelUp: Resolved.Levels[].Fields[0]
+   - NoLevel（EffectValue/BuffValueなど）: Resolved.Fields[0] ← ★今回の不足分に対応
+*/
+    function pickParamDisplay(paramObj, refLevel){
+    const res = paramObj?.Resolved;
+    if(!res) return {text:'', percent:false};
+
+    // 1) HitDamage（Values）
+    if(Array.isArray(res.Values)){
+        const idx = clamp(refLevel, 1, res.Values.length) - 1;
+        const v = res.Values[idx]; if(!v) return {text:'', percent:false};
+        const val = (typeof v.Converted==='number') ? v.Converted : (v.Raw ?? '');
+        // HitDamageは％（倍率）として扱う
+        return {text: fmtNum(val), percent: true};
+    }
+
+    // 2) Effect（LevelUp）（Levels[].Fields[0]）
+    if(Array.isArray(res.Levels)){
+        const idx = clamp(refLevel, 1, res.Levels.length) - 1;
+        const lv = res.Levels[idx];
+        const f0 = lv?.Fields?.[0];
+        if(!f0) return {text:'', percent:false};
+
+        if(typeof f0.Text === 'string'){
+        return {text: f0.Text, percent:false};
+        }
+        const v = f0.Value || {};
+        const tf = v.Transform || null;
+        const fieldName = f0.Field || '';
+        const rawOrConv = (typeof v.Converted === 'number') ? v.Converted : (v.Raw ?? '');
+
+        // ％付与の判定
+        const percent = (tf === 'HdPct' || tf === '10KHdPct') ? true : false;
+        // ％を付けないケース
+        if (fieldName === 'Time' || fieldName === 'LaminatedNum' || tf === 'Fixed' || tf === '10K' || tf === 'Enum'){
+        return {text: fmtNum(rawOrConv), percent: false};
+        }
+        return {text: fmtNum(rawOrConv), percent: percent};
+    }
+
+    // 3) NoLevel（Resolved.Fields[0]） ← ★ここを新規対応
+    if(Array.isArray(res.Fields) && res.Fields.length){
+        const f0 = res.Fields[0];
+        if(f0 && typeof f0.Text === 'string'){
+        return {text: f0.Text, percent:false};
+        }
+        const v = f0?.Value || {};
+        const tf = v.Transform || null;
+        const fieldName = f0?.Field || '';
+        const rawOrConv = (typeof v.Converted === 'number') ? v.Converted : (v.Raw ?? '');
+
+        // ％付与の判定
+        const percent = (tf === 'HdPct' || tf === '10KHdPct') ? true : false;
+        // ％を付けないケース
+        if (fieldName === 'Time' || fieldName === 'LaminatedNum' || tf === 'Fixed' || tf === '10K' || tf === 'Enum'){
+        return {text: fmtNum(rawOrConv), percent: false};
+        }
+        return {text: fmtNum(rawOrConv), percent: percent};
+    }
+
+    // どの形にも合致しない場合
+    return {text:'', percent:false};
+    }
+
+    /* テキスト整形（改行・colorタグ→span） */
+    function prettifyDesc(desc){
+      if(typeof desc!=='string') return '';
+      let html=desc.replace(/\\u000b/g,'\n').replace(/\u000b/g,'\n').replace(/\n/g,'<br>');
+      html=html.replace(/<color=#([0-9a-fA-F]{3,8})>(.*?)<\/color>/g,(_,hex,inner)=>`<span style="color:#${hex}">${inner}</span>`);
+      return html;
+    }
+
+    /* ##Word を色つきボタン化（クリックでモーダル） */
+    function replaceWordTokensToLinks(desc, wordRefs){
+      if(typeof desc!=='string') return '';
+      return desc.replace(/##([^#]+)#(\d+)#/g,(_,label,id)=>{
+        const ref=wordRefs?.find(w=>String(w.Id)===String(id));
+        const style=ref?.Color?` style="color:${ref.Color}"`:'';
+        return `<button class="word-link"${style} data-word-id="${id}" aria-label="${esc(label)}">${esc(label)}</button>`;
+      });
+    }
+
+    /* Param 置換（%付与ルールを尊重） */
+    function replaceParams(desc, paramsMap, charLevel, skillInputLevel, wordRefs){
+      if(typeof desc!=='string') return '';
+      return desc.replace(/&Param(\d+)&/g,(_,n)=>{
+        const key=`Param${Number(n)}`; const pobj=paramsMap[key];
+        if(!pobj) return '';
+        const {ref}=decideParamRefLevel(pobj, charLevel, skillInputLevel);
+        const {text,percent}=pickParamDisplay(pobj, ref);
+        return esc(text)+(percent?'%':'');
+      });
+    }
+
+    /* Desc を単独描画：Param → 値、## → Wordリンク、colorタグ → span */
+    function renderDescWithParams(desc, params, charLv, skillLv, wordRefs){
+      let html = replaceParams(desc, params, Number(charLv), skillLv, wordRefs);
+      html = replaceWordTokensToLinks(html, wordRefs);
+      html = prettifyDesc(html);
+      return html;
+    }
+
+    /* Word モーダル */
+    const modalWrap=gid('modalWrap'), modalTitle=gid('modalTitle'), modalBody=gid('modalBody'), modalClose=gid('modalClose');
+    modalClose.addEventListener('click',()=>{modalWrap.style.display='none'; modalWrap.setAttribute('aria-hidden','true');});
+    modalWrap.addEventListener('click',(e)=>{if(e.target===modalWrap){modalWrap.style.display='none'; modalWrap.setAttribute('aria-hidden','true');}});
+
+    function wireWordLinks(container, wordRefs){
+      container.querySelectorAll('.word-link').forEach(btn=>{
+        btn.addEventListener('click',()=>{
+          const wid=btn.getAttribute('data-word-id'); const ref=(wordRefs||[]).find(w=>String(w.Id)===String(wid));
+          modalTitle.textContent = btn.getAttribute('aria-label') || '用語';
+          const body = ref?.Body ? prettifyDesc(ref.Body) : '(内容が見つかりません)';
+          modalBody.innerHTML = body;
+          modalWrap.style.display='flex'; modalWrap.setAttribute('aria-hidden','false');
+        });
+      });
+    }
+
+    /* 整数ステッパー（スキルLv用） */
+    function createStepperInt(initial, onChange){
+      const wrap=document.createElement('div'); wrap.className='stepper';
+      const btnMinus=document.createElement('button'); btnMinus.textContent='−';
+      const input=document.createElement('input'); input.type='text'; input.value=String(initial); input.readOnly=true;
+      const btnPlus=document.createElement('button'); btnPlus.textContent='＋';
+      function set(v){v=clamp(v,1,10); input.value=String(v); onChange(v); btnMinus.disabled=(v<=1); btnPlus.disabled=(v>=10);}
+      btnMinus.addEventListener('click',()=>set(Number(input.value)-1));
+      btnPlus.addEventListener('click',()=>set(Number(input.value)+1));
+      set(initial);
+      wrap.append(btnMinus,input,btnPlus);
+      return {el:wrap,set};
+    }
+
+    /* スキルカード作成：
+       - Param に max=13 が一つでも含まれていれば ステッパーを表示
+       - すべて max=9（または skillLv不要）なら ステッパー非表示（charLv/10 を参照） */
+    function createSkillCard(slotKey, skKey, skObj, charLevel, wordRefs){
+      const title=skObj?.Texts?.Title||skKey;
+      const rawDesc=skObj?.Texts?.Desc||'';
+      const params=skObj?.Params||{};
+      const wrap=document.createElement('div'); wrap.className='skill-card';
+
+      /* そのスキルが「スキルLv入力を必要とするか」を判定 */
+      let needsSkillStepper=false;
+      for(const k of Object.keys(params)){
+        const d=decideParamRefLevel(params[k], charLevel, 1);
+        if(d.mode==='skill'){ needsSkillStepper=true; break; }
+      }
+
+      const head=document.createElement('div'); head.className='skill-head';
+      const titleEl=document.createElement('div'); titleEl.className='skill-title'; titleEl.textContent=title;
+
+      const descEl=document.createElement('div'); descEl.className='skill-desc';
+      function renderDesc(){
+        const skillLv = slots[slotKey].skillLv[skKey] ?? 1;
+        let html = replaceParams(rawDesc, params, Number(charLevel), skillLv, wordRefs);
+        html = replaceWordTokensToLinks(html, wordRefs);
+        html = prettifyDesc(html);
+        descEl.innerHTML = html;
+        wireWordLinks(descEl, wordRefs);
+      }
+
+      /* ステッパー：必要な場合のみ表示（Max=13系） */
+      if(needsSkillStepper){
+        if(typeof slots[slotKey].skillLv[skKey]!=='number') slots[slotKey].skillLv[skKey]=1;
+        const step=createStepperInt(slots[slotKey].skillLv[skKey],(v)=>{slots[slotKey].skillLv[skKey]=v; renderDesc();});
+        head.appendChild(step.el);
+      }else{
+        // ステッパー非表示。内部の skillLv はダミー1でOK（Param側で charLv/10 を参照するため）
+        slots[slotKey].skillLv[skKey]=1;
+      }
+
+      head.appendChild(titleEl);
+      wrap.appendChild(head);
+
+      renderDesc();
+      wrap.appendChild(descEl);
+      return wrap;
+    }
+
+    function renderSkills(slotKey, data, charLevel){
+      const box=slots[slotKey].skillsBox; box.innerHTML='';
+      const skills=data?.Skills||{}; const wordRefs=data?.WordRefs||[];
+      const TARGET_SKILL_KEYS=['NormalAtk','Skill','AssistSkill','Ultimate'];
+      TARGET_SKILL_KEYS.forEach(skKey=>{
+        const sk=skills[skKey]; if(!sk||!sk.RawData) return;
+        if(typeof slots[slotKey].skillLv[skKey]!=='number') slots[slotKey].skillLv[skKey]=1;
+        box.appendChild(createSkillCard(slotKey, skKey, sk, charLevel, wordRefs));
+      });
+      box.classList.remove('hidden');
+    }
+
+    /* 心相（Talents）可視化と最後の効果のParam置換 */
+    function renderTalents(slotKey, data){
+      const wrap=slots[slotKey].talentsWrap; const buffsWrap=slots[slotKey].buffs;
+      wrap.innerHTML=''; buffsWrap.classList.add('hidden'); buffsWrap.innerHTML='';
+
+      const groups=(data?.Talents||[]).slice().sort((a,b)=>a.GroupId-b.GroupId);
+      const prog=slots[slotKey].talentProg;
+      if(!groups.length){ wrap.innerHTML='<div class="muted">心相データがありません。</div>'; return; }
+
+      const wordRefs=data?.WordRefs||[];
+
+      groups.forEach((grp, gi)=>{
+        const gProg = clamp(prog - gi, 0, 1);
+        const unlockCount = Math.floor(gProg*10 + 1e-8);
+        const fullUnlocked = unlockCount >= (grp.NodeLimit||10);
+        const nodes = (grp.Nodes||[]).slice().sort((a,b)=>(a.Index||0)-(b.Index||0));
+        const normal = nodes.filter(n=>(n.Index||0)<=10).slice(0,10);
+        const last = nodes.find(n=>(n.Index||0)>10);
+
+        const card=document.createElement('div'); card.className='talent-group';
+        const title=document.createElement('div');
+        title.innerHTML=`<b>${esc(grp.GroupName||`Group ${grp.GroupId}`)}</b>
+          <span class="badge">${unlockCount}/10${fullUnlocked && last?' ＋ 最後の効果':''}</span>`;
+        card.appendChild(title);
+
+        const grid=document.createElement('div'); grid.className='talent-grid';
+        normal.forEach((n,i)=>{
+          const d=document.createElement('div'); d.className='node'; if(i<unlockCount) d.classList.add('unlocked');
+          d.textContent=String(i+1);
+          d.title=(n?.Texts?.Title||'') + ' / ' + (n?.Texts?.Desc||'');
+          grid.appendChild(d);
+        });
+        card.appendChild(grid);
+
+        if(fullUnlocked && last){
+          const lf=document.createElement('div'); lf.className='last-effect';
+          const descHTML = renderDescWithParams(last.Texts?.Desc||'', last.Params||{}, 90, 1, wordRefs);
+          lf.innerHTML=`<div><b>${esc(last.Texts?.Title||'最後の効果')}</b></div><div>${descHTML}</div>`;
+          card.appendChild(lf);
+        }
+        wrap.appendChild(card);
+      });
+
+      // 参考：％系一覧（集計は別関数で）
+      const {buffs}=collectTalentFixedAdds(data, prog);
+      if(buffs.length){
+        let html=`<table><thead><tr><th>心相バフ一覧（％系など）</th></tr></thead><tbody>`;
+        buffs.forEach(b=>{html+=`<tr><td>${esc(b)}</td></tr>`;});
+        html+=`</tbody></table>`;
+        buffsWrap.innerHTML=html; buffsWrap.classList.remove('hidden');
+      }
+    }
+
+    /* スロットのフル再描画 */
+    function renderAllForSlot(k){
+      const sel=slots[k].select, lvlSel=slots[k].level, msg=slots[k].msg;
+      const nm=sel.value; const lv=Number(lvlSel.value||LEVEL_OPTIONS[0]);
+      if(!nm){resetSlot(k); msg.textContent='キャラクターを選択してください。'; return;}
+      const data=nameToData.get(nm); if(!data){resetSlot(k); msg.textContent='データが見つかりません。'; return;}
+
+      const stats=getStatsAtLevel(data, lv);
+      const talentAgg = collectTalentFixedAdds(data, slots[k].talentProg);
+
+      if(stats){ renderStatsTable(k, nm, lv, stats, talentAgg, talentAgg.lastEffects); }
+      else { slots[k].statsWrap.classList.add('hidden'); slots[k].statsWrap.innerHTML=''; }
+
+      renderSkills(k, data, lv);
+      renderTalents(k, data);
+    }
+
+    function attachSlotHandlers(slotKey){
+      const selChar=slots[slotKey].select, selLv=slots[slotKey].level;
+      function update(){ renderAllForSlot(slotKey); }
+      selChar.addEventListener('change',update); selLv.addEventListener('change',update);
+    }
+
+    /* Wordリンクのモーダル配線（スキル/心相両方で使用） */
+    const modalOps={};
+    function wireWordLinks(container, wordRefs){
+      container.querySelectorAll('.word-link').forEach(btn=>{
+        btn.addEventListener('click',()=>{
+          const wid=btn.getAttribute('data-word-id'); const ref=(wordRefs||[]).find(w=>String(w.Id)===String(wid));
+          modalTitle.textContent = btn.getAttribute('aria-label') || '用語';
+          const body = ref?.Body ? prettifyDesc(ref.Body) : '(内容が見つかりません)';
+          modalBody.innerHTML = body;
+          modalWrap.style.display='flex'; modalWrap.setAttribute('aria-hidden','false');
+        });
+      });
+    }
+
+    /* 初期レベルセレクトの準備（ページ読み込み時） */
+    (function initLevels(){
+      for(const k of Object.keys(slots)){
+        const s=slots[k].level; s.innerHTML='';
+        LEVEL_OPTIONS.forEach(lv=>{const o=document.createElement('option'); o.value=String(lv); o.textContent=String(lv); s.appendChild(o);});
+      }
+    })();
+  </script>
+</body>
+</html>

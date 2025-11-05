@@ -70,7 +70,6 @@
       },
       "Texts": {
         "Title": "漣",
-        "BriefDesc": "大太刀を振り回し、連続でダメージを与える。",
         "Desc": "大太刀を振り回し、連続でダメージを与える。\u000b1撃目：攻撃力の<color=#fb8037>&Param1&x2</color>の水属性ダメージを与える。\u000b2撃目：攻撃力の<color=#fb8037>&Param2&</color>の水属性ダメージを与える。\u000b3撃目：攻撃力の<color=#fb8037>&Param3&</color>、<color=#fb8037>&Param8&</color>の水属性ダメージを与える。\u000b4撃目：攻撃力の<color=#fb8037>&Param4&x2</color>の水属性ダメージを与える。\u000b5撃目：攻撃力の<color=#fb8037>&Param5&x2</color>、<color=#fb8037>&Param9&</color>の水属性ダメージを与える。\u000b6撃目：攻撃力の<color=#fb8037>&Param6&</color>、<color=#fb8037>&Param7&</color>の水属性ダメージを与える。"
       },
       "Params": {
@@ -130,8 +129,35 @@
                 "Level": 10,
                 "Raw": 256000,
                 "Converted": 25.6
+              },
+              {
+                "Level": 11,
+                "Raw": 274000,
+                "Converted": 27.4
+              },
+              {
+                "Level": 12,
+                "Raw": 293000,
+                "Converted": 29.3
+              },
+              {
+                "Level": 13,
+                "Raw": 311000,
+                "Converted": 31.1
               }
-            ]
+            ],
+            "Bind": {
+              "LevelTypeRaw": 3,
+              "LevelTypeText": null,
+              "LevelData": 14410000,
+              "SkillName": "漣",
+              "SkillMaxLevel": 10,
+              "Candidates": [
+                14410000
+              ],
+              "Method": "ReverseRef_Single_FallbackFromExplicitNonSkill",
+              "ValueCount": 13
+            }
           },
           "FrameCount": null,
           "DurationSeconds": null,
@@ -193,8 +219,35 @@
                 "Level": 10,
                 "Raw": 372000,
                 "Converted": 37.2
+              },
+              {
+                "Level": 11,
+                "Raw": 398000,
+                "Converted": 39.8
+              },
+              {
+                "Level": 12,
+                "Raw": 425000,
+                "Converted": 42.5
+              },
+              {
+                "Level": 13,
+                "Raw": 451000,
+                "Converted": 45.1
               }
-            ]
+            ],
+            "Bind": {
+              "LevelTypeRaw": 3,
+              "LevelTypeText": null,
+              "LevelData": 14410000,
+              "SkillName": "漣",
+              "SkillMaxLevel": 10,
+              "Candidates": [
+                14410000
+              ],
+              "Method": "ReverseRef_Single_FallbackFromExplicitNonSkill",
+              "ValueCount": 13
+            }
           },
           "FrameCount": null,
           "DurationSeconds": null,
@@ -256,8 +309,35 @@
                 "Level": 10,
                 "Raw": 314000,
                 "Converted": 31.4
+              },
+              {
+                "Level": 11,
+                "Raw": 337000,
+                "Converted": 33.7
+              },
+              {
+                "Level": 12,
+                "Raw": 359000,
+                "Converted": 35.9
+              },
+              {
+                "Level": 13,
+                "Raw": 382000,
+                "Converted": 38.2
               }
-            ]
+            ],
+            "Bind": {
+              "LevelTypeRaw": 3,
+              "LevelTypeText": null,
+              "LevelData": 14410000,
+              "SkillName": "漣",
+              "SkillMaxLevel": 10,
+              "Candidates": [
+                14410000
+              ],
+              "Method": "ReverseRef_Single_FallbackFromExplicitNonSkill",
+              "ValueCount": 13
+            }
           },
           "FrameCount": null,
           "DurationSeconds": null,
@@ -319,8 +399,35 @@
                 "Level": 10,
                 "Raw": 261000,
                 "Converted": 26.1
+              },
+              {
+                "Level": 11,
+                "Raw": 280000,
+                "Converted": 28.0
+              },
+              {
+                "Level": 12,
+                "Raw": 299000,
+                "Converted": 29.9
+              },
+              {
+                "Level": 13,
+                "Raw": 318000,
+                "Converted": 31.8
               }
-            ]
+            ],
+            "Bind": {
+              "LevelTypeRaw": 3,
+              "LevelTypeText": null,
+              "LevelData": 14410000,
+              "SkillName": "漣",
+              "SkillMaxLevel": 10,
+              "Candidates": [
+                14410000
+              ],
+              "Method": "ReverseRef_Single_FallbackFromExplicitNonSkill",
+              "ValueCount": 13
+            }
           },
           "FrameCount": null,
           "DurationSeconds": null,
@@ -382,8 +489,35 @@
                 "Level": 10,
                 "Raw": 282000,
                 "Converted": 28.2
+              },
+              {
+                "Level": 11,
+                "Raw": 302000,
+                "Converted": 30.2
+              },
+              {
+                "Level": 12,
+                "Raw": 323000,
+                "Converted": 32.3
+              },
+              {
+                "Level": 13,
+                "Raw": 343000,
+                "Converted": 34.3
               }
-            ]
+            ],
+            "Bind": {
+              "LevelTypeRaw": 3,
+              "LevelTypeText": null,
+              "LevelData": 14410000,
+              "SkillName": "漣",
+              "SkillMaxLevel": 10,
+              "Candidates": [
+                14410000
+              ],
+              "Method": "ReverseRef_Single_FallbackFromExplicitNonSkill",
+              "ValueCount": 13
+            }
           },
           "FrameCount": null,
           "DurationSeconds": null,
@@ -445,8 +579,35 @@
                 "Level": 10,
                 "Raw": 1600000,
                 "Converted": 160.0
+              },
+              {
+                "Level": 11,
+                "Raw": 1720000,
+                "Converted": 172.0
+              },
+              {
+                "Level": 12,
+                "Raw": 1830000,
+                "Converted": 183.0
+              },
+              {
+                "Level": 13,
+                "Raw": 1950000,
+                "Converted": 195.0
               }
-            ]
+            ],
+            "Bind": {
+              "LevelTypeRaw": 3,
+              "LevelTypeText": null,
+              "LevelData": 14410000,
+              "SkillName": "漣",
+              "SkillMaxLevel": 10,
+              "Candidates": [
+                14410000
+              ],
+              "Method": "ReverseRef_Single_FallbackFromExplicitNonSkill",
+              "ValueCount": 13
+            }
           },
           "FrameCount": null,
           "DurationSeconds": null,
@@ -508,8 +669,35 @@
                 "Level": 10,
                 "Raw": 860000,
                 "Converted": 86.0
+              },
+              {
+                "Level": 11,
+                "Raw": 920000,
+                "Converted": 92.0
+              },
+              {
+                "Level": 12,
+                "Raw": 980000,
+                "Converted": 98.0
+              },
+              {
+                "Level": 13,
+                "Raw": 1040000,
+                "Converted": 104.0
               }
-            ]
+            ],
+            "Bind": {
+              "LevelTypeRaw": 3,
+              "LevelTypeText": null,
+              "LevelData": 14410000,
+              "SkillName": "漣",
+              "SkillMaxLevel": 10,
+              "Candidates": [
+                14410000
+              ],
+              "Method": "ReverseRef_Single_FallbackFromExplicitNonSkill",
+              "ValueCount": 13
+            }
           },
           "FrameCount": null,
           "DurationSeconds": null,
@@ -571,8 +759,35 @@
                 "Level": 10,
                 "Raw": 730000,
                 "Converted": 73.0
+              },
+              {
+                "Level": 11,
+                "Raw": 780000,
+                "Converted": 78.0
+              },
+              {
+                "Level": 12,
+                "Raw": 840000,
+                "Converted": 84.0
+              },
+              {
+                "Level": 13,
+                "Raw": 890000,
+                "Converted": 89.0
               }
-            ]
+            ],
+            "Bind": {
+              "LevelTypeRaw": 3,
+              "LevelTypeText": null,
+              "LevelData": 14410000,
+              "SkillName": "漣",
+              "SkillMaxLevel": 10,
+              "Candidates": [
+                14410000
+              ],
+              "Method": "ReverseRef_Single_FallbackFromExplicitNonSkill",
+              "ValueCount": 13
+            }
           },
           "FrameCount": null,
           "DurationSeconds": null,
@@ -634,8 +849,35 @@
                 "Level": 10,
                 "Raw": 564000,
                 "Converted": 56.4
+              },
+              {
+                "Level": 11,
+                "Raw": 605000,
+                "Converted": 60.5
+              },
+              {
+                "Level": 12,
+                "Raw": 645000,
+                "Converted": 64.5
+              },
+              {
+                "Level": 13,
+                "Raw": 685000,
+                "Converted": 68.5
               }
-            ]
+            ],
+            "Bind": {
+              "LevelTypeRaw": 3,
+              "LevelTypeText": null,
+              "LevelData": 14410000,
+              "SkillName": "漣",
+              "SkillMaxLevel": 10,
+              "Candidates": [
+                14410000
+              ],
+              "Method": "ReverseRef_Single_FallbackFromExplicitNonSkill",
+              "ValueCount": 13
+            }
           },
           "FrameCount": null,
           "DurationSeconds": null,
@@ -665,7 +907,6 @@
       },
       "Texts": {
         "Title": "龍薙閃",
-        "BriefDesc": "前方に突進し、範囲内に水属性ダメージを与える。主力スキルを2回発動するごとに、次に発動する主力スキルが強化される。\u000b主力スキルは##水属性の印#1018#を発動させることができる。",
         "Desc": "前方に突進し、範囲内に攻撃力の<color=#fb8037>&Param1&x2</color>の水属性ダメージを与える。発動可能回数は2回。\u000b主力スキルを2回発動するごとに、次に発動する主力スキルは流閃・鱗に変化する。流閃・鱗は騰蛇を生成し、範囲内に攻撃力の<color=#fb8037>&Param2&x3</color>の水属性ダメージを与える。\u000b主力スキルと流閃・鱗は##水属性の印#1018#を発動させることができる。発動させると、範囲内に攻撃力の&Param3&の水属性の印ダメージを与え、##寒冷#1027#を付与する。"
       },
       "Params": {
@@ -725,8 +966,36 @@
                 "Level": 10,
                 "Raw": 3050000,
                 "Converted": 305.0
+              },
+              {
+                "Level": 11,
+                "Raw": 3270000,
+                "Converted": 327.0
+              },
+              {
+                "Level": 12,
+                "Raw": 3490000,
+                "Converted": 349.0
+              },
+              {
+                "Level": 13,
+                "Raw": 3700000,
+                "Converted": 370.0
               }
-            ]
+            ],
+            "Bind": {
+              "LevelTypeRaw": 3,
+              "LevelTypeText": null,
+              "LevelData": 14431000,
+              "SkillName": "龍薙閃",
+              "SkillMaxLevel": 10,
+              "Candidates": [
+                14431000,
+                14431001
+              ],
+              "Method": "ReverseRef_Ambiguous_TakeFirst_FallbackFromExplicitNonSkill",
+              "ValueCount": 13
+            }
           },
           "FrameCount": null,
           "DurationSeconds": null,
@@ -788,8 +1057,36 @@
                 "Level": 10,
                 "Raw": 3560000,
                 "Converted": 356.0
+              },
+              {
+                "Level": 11,
+                "Raw": 3820000,
+                "Converted": 382.0
+              },
+              {
+                "Level": 12,
+                "Raw": 4070000,
+                "Converted": 407.0
+              },
+              {
+                "Level": 13,
+                "Raw": 4330000,
+                "Converted": 433.0
               }
-            ]
+            ],
+            "Bind": {
+              "LevelTypeRaw": 3,
+              "LevelTypeText": null,
+              "LevelData": 14431000,
+              "SkillName": "龍薙閃",
+              "SkillMaxLevel": 10,
+              "Candidates": [
+                14431000,
+                14431001
+              ],
+              "Method": "ReverseRef_Ambiguous_TakeFirst_FallbackFromExplicitNonSkill",
+              "ValueCount": 13
+            }
           },
           "FrameCount": null,
           "DurationSeconds": null,
@@ -847,834 +1144,22 @@
                 "Raw": 1040000,
                 "Converted": 104.0
               }
-            ]
-          },
-          "FrameCount": null,
-          "DurationSeconds": null,
-          "RecastSeconds": null
-        }
-      }
-    },
-    "SpecialSkill": {
-      "Id": 14470000,
-      "RawData": {
-        "Id": 14470000,
-        "Title": "Skill.14470000.1",
-        "FCPath": "AIScript.Character._14401.SkillScript_Rush",
-        "Type": 7,
-        "BriefDesc": "Skill.14470000.13",
-        "Desc": "Skill.14470000.2",
-        "MaxLevel": 10,
-        "CheckSkillInterval": true
-      },
-      "Texts": {
-        "Title": null,
-        "BriefDesc": null,
-        "Desc": null
-      },
-      "Params": {}
-    },
-    "Ultimate": {
-      "Id": 14440000,
-      "RawData": {
-        "Id": 14440000,
-        "Title": "Skill.14440000.1",
-        "FCPath": "AIScript.Character._14401.SkillScript_Ultra",
-        "Type": 5,
-        "BriefDesc": "Skill.14440000.13",
-        "Desc": "Skill.14440000.2",
-        "Icon": "Icon/Skill/14401_Ultra",
-        "SkillCD": 300000,
-        "MaxLevel": 10,
-        "UltraEnergy": 2850000,
-        "Param1": "HitDamage,DamageNum,144400001",
-        "Param2": "HitDamage,DamageNum,144400002",
-        "Param3": "HitDamage,DamageNum,144000001",
-        "CheckSkillInterval": true
-      },
-      "Texts": {
-        "Title": "龍薙閃・蛟噛",
-        "BriefDesc": "2本の小太刀で攻撃し、騰蛇を引き寄せて広範囲に水属性ダメージを与える。\u000b必殺技は##水属性の印#1018#を発動させることができる。",
-        "Desc": "2本の小太刀で攻撃し、広範囲に攻撃力の<color=#fb8037>&Param1&x11</color>の水属性ダメージを与える。その後、騰蛇を引き寄せ、広範囲に攻撃力の<color=#fb8037>&Param2&</color>の水属性ダメージを与える。\u000b必殺技は##水属性の印#1018#を発動させることができる。発動させると、範囲内に攻撃力&Param3&の水属性の印ダメージを与え、##寒冷#1027#を付与する。"
-      },
-      "Params": {
-        "Param1": {
-          "Source": "HitDamage,DamageNum,144400001",
-          "Table": "HitDamage",
-          "Mode": "DamageNum",
-          "Resolved": {
-            "Field": "SkillPercentAmend",
-            "Values": [
-              {
-                "Level": 1,
-                "Raw": 690000,
-                "Converted": 69.0
-              },
-              {
-                "Level": 2,
-                "Raw": 790000,
-                "Converted": 79.0
-              },
-              {
-                "Level": 3,
-                "Raw": 900000,
-                "Converted": 90.0
-              },
-              {
-                "Level": 4,
-                "Raw": 1210000,
-                "Converted": 121.0
-              },
-              {
-                "Level": 5,
-                "Raw": 1310000,
-                "Converted": 131.0
-              },
-              {
-                "Level": 6,
-                "Raw": 1400000,
-                "Converted": 140.0
-              },
-              {
-                "Level": 7,
-                "Raw": 1600000,
-                "Converted": 160.0
-              },
-              {
-                "Level": 8,
-                "Raw": 1680000,
-                "Converted": 168.0
-              },
-              {
-                "Level": 9,
-                "Raw": 1760000,
-                "Converted": 176.0
-              },
-              {
-                "Level": 10,
-                "Raw": 1930000,
-                "Converted": 193.0
-              }
-            ]
-          },
-          "FrameCount": null,
-          "DurationSeconds": null,
-          "RecastSeconds": null
-        },
-        "Param2": {
-          "Source": "HitDamage,DamageNum,144400002",
-          "Table": "HitDamage",
-          "Mode": "DamageNum",
-          "Resolved": {
-            "Field": "SkillPercentAmend",
-            "Values": [
-              {
-                "Level": 1,
-                "Raw": 3260000,
-                "Converted": 326.0
-              },
-              {
-                "Level": 2,
-                "Raw": 3740000,
-                "Converted": 374.0
-              },
-              {
-                "Level": 3,
-                "Raw": 4230000,
-                "Converted": 423.0
-              },
-              {
-                "Level": 4,
-                "Raw": 5700000,
-                "Converted": 570.0
-              },
-              {
-                "Level": 5,
-                "Raw": 6150000,
-                "Converted": 615.0
-              },
-              {
-                "Level": 6,
-                "Raw": 6610000,
-                "Converted": 661.0
-              },
-              {
-                "Level": 7,
-                "Raw": 7520000,
-                "Converted": 752.0
-              },
-              {
-                "Level": 8,
-                "Raw": 7910000,
-                "Converted": 791.0
-              },
-              {
-                "Level": 9,
-                "Raw": 8300000,
-                "Converted": 830.0
-              },
-              {
-                "Level": 10,
-                "Raw": 9080000,
-                "Converted": 908.0
-              }
-            ]
-          },
-          "FrameCount": null,
-          "DurationSeconds": null,
-          "RecastSeconds": null
-        },
-        "Param3": {
-          "Source": "HitDamage,DamageNum,144000001",
-          "Table": "HitDamage",
-          "Mode": "DamageNum",
-          "Resolved": {
-            "Field": "SkillPercentAmend",
-            "Values": [
-              {
-                "Level": 1,
-                "Raw": 310000,
-                "Converted": 31.0
-              },
-              {
-                "Level": 2,
-                "Raw": 400000,
-                "Converted": 40.0
-              },
-              {
-                "Level": 3,
-                "Raw": 490000,
-                "Converted": 49.0
-              },
-              {
-                "Level": 4,
-                "Raw": 580000,
-                "Converted": 58.0
-              },
-              {
-                "Level": 5,
-                "Raw": 670000,
-                "Converted": 67.0
-              },
-              {
-                "Level": 6,
-                "Raw": 760000,
-                "Converted": 76.0
-              },
-              {
-                "Level": 7,
-                "Raw": 850000,
-                "Converted": 85.0
-              },
-              {
-                "Level": 8,
-                "Raw": 950000,
-                "Converted": 95.0
-              },
-              {
-                "Level": 9,
-                "Raw": 1040000,
-                "Converted": 104.0
-              }
-            ]
-          },
-          "FrameCount": null,
-          "DurationSeconds": null,
-          "RecastSeconds": null
-        }
-      }
-    },
-    "AssistNormalAtk": {
-      "Id": 14410000,
-      "RawData": {
-        "Id": 14410000,
-        "Title": "Skill.14410000.1",
-        "FCPath": "AIScript.Character._14401.SkillScript_NormalAttack",
-        "Type": 1,
-        "BriefDesc": "Skill.14410000.13",
-        "Desc": "Skill.14410000.2",
-        "Icon": "Icon/Skill/14401_Normal",
-        "MaxLevel": 10,
-        "GetEnergyLimit": 204300,
-        "Param1": "HitDamage,DamageNum,144100001",
-        "Param2": "HitDamage,DamageNum,144100002",
-        "Param3": "HitDamage,DamageNum,144100003",
-        "Param4": "HitDamage,DamageNum,144100004",
-        "Param5": "HitDamage,DamageNum,144100005",
-        "Param6": "HitDamage,DamageNum,144100006",
-        "Param7": "HitDamage,DamageNum,144100007",
-        "Param8": "HitDamage,DamageNum,144100008",
-        "Param9": "HitDamage,DamageNum,144100009",
-        "CheckSkillInterval": true
-      },
-      "Texts": {
-        "Title": "漣",
-        "BriefDesc": "大太刀を振り回し、連続でダメージを与える。",
-        "Desc": "大太刀を振り回し、連続でダメージを与える。\u000b1撃目：攻撃力の<color=#fb8037>&Param1&x2</color>の水属性ダメージを与える。\u000b2撃目：攻撃力の<color=#fb8037>&Param2&</color>の水属性ダメージを与える。\u000b3撃目：攻撃力の<color=#fb8037>&Param3&</color>、<color=#fb8037>&Param8&</color>の水属性ダメージを与える。\u000b4撃目：攻撃力の<color=#fb8037>&Param4&x2</color>の水属性ダメージを与える。\u000b5撃目：攻撃力の<color=#fb8037>&Param5&x2</color>、<color=#fb8037>&Param9&</color>の水属性ダメージを与える。\u000b6撃目：攻撃力の<color=#fb8037>&Param6&</color>、<color=#fb8037>&Param7&</color>の水属性ダメージを与える。"
-      },
-      "Params": {
-        "Param1": {
-          "Source": "HitDamage,DamageNum,144100001",
-          "Table": "HitDamage",
-          "Mode": "DamageNum",
-          "Resolved": {
-            "Field": "SkillPercentAmend",
-            "Values": [
-              {
-                "Level": 1,
-                "Raw": 92000,
-                "Converted": 9.2
-              },
-              {
-                "Level": 2,
-                "Raw": 106000,
-                "Converted": 10.6
-              },
-              {
-                "Level": 3,
-                "Raw": 119000,
-                "Converted": 11.9
-              },
-              {
-                "Level": 4,
-                "Raw": 161000,
-                "Converted": 16.1
-              },
-              {
-                "Level": 5,
-                "Raw": 173000,
-                "Converted": 17.3
-              },
-              {
-                "Level": 6,
-                "Raw": 186000,
-                "Converted": 18.6
-              },
-              {
-                "Level": 7,
-                "Raw": 212000,
-                "Converted": 21.2
-              },
-              {
-                "Level": 8,
-                "Raw": 223000,
-                "Converted": 22.3
-              },
-              {
-                "Level": 9,
-                "Raw": 234000,
-                "Converted": 23.4
-              },
-              {
-                "Level": 10,
-                "Raw": 256000,
-                "Converted": 25.6
-              }
-            ]
-          },
-          "FrameCount": null,
-          "DurationSeconds": null,
-          "RecastSeconds": null
-        },
-        "Param2": {
-          "Source": "HitDamage,DamageNum,144100002",
-          "Table": "HitDamage",
-          "Mode": "DamageNum",
-          "Resolved": {
-            "Field": "SkillPercentAmend",
-            "Values": [
-              {
-                "Level": 1,
-                "Raw": 133000,
-                "Converted": 13.3
-              },
-              {
-                "Level": 2,
-                "Raw": 153000,
-                "Converted": 15.3
-              },
-              {
-                "Level": 3,
-                "Raw": 173000,
-                "Converted": 17.3
-              },
-              {
-                "Level": 4,
-                "Raw": 233000,
-                "Converted": 23.3
-              },
-              {
-                "Level": 5,
-                "Raw": 252000,
-                "Converted": 25.2
-              },
-              {
-                "Level": 6,
-                "Raw": 270000,
-                "Converted": 27.0
-              },
-              {
-                "Level": 7,
-                "Raw": 308000,
-                "Converted": 30.8
-              },
-              {
-                "Level": 8,
-                "Raw": 324000,
-                "Converted": 32.4
-              },
-              {
-                "Level": 9,
-                "Raw": 340000,
-                "Converted": 34.0
-              },
-              {
-                "Level": 10,
-                "Raw": 372000,
-                "Converted": 37.2
-              }
-            ]
-          },
-          "FrameCount": null,
-          "DurationSeconds": null,
-          "RecastSeconds": null
-        },
-        "Param3": {
-          "Source": "HitDamage,DamageNum,144100003",
-          "Table": "HitDamage",
-          "Mode": "DamageNum",
-          "Resolved": {
-            "Field": "SkillPercentAmend",
-            "Values": [
-              {
-                "Level": 1,
-                "Raw": 113000,
-                "Converted": 11.3
-              },
-              {
-                "Level": 2,
-                "Raw": 129000,
-                "Converted": 12.9
-              },
-              {
-                "Level": 3,
-                "Raw": 146000,
-                "Converted": 14.6
-              },
-              {
-                "Level": 4,
-                "Raw": 197000,
-                "Converted": 19.7
-              },
-              {
-                "Level": 5,
-                "Raw": 213000,
-                "Converted": 21.3
-              },
-              {
-                "Level": 6,
-                "Raw": 229000,
-                "Converted": 22.9
-              },
-              {
-                "Level": 7,
-                "Raw": 260000,
-                "Converted": 26.0
-              },
-              {
-                "Level": 8,
-                "Raw": 274000,
-                "Converted": 27.4
-              },
-              {
-                "Level": 9,
-                "Raw": 287000,
-                "Converted": 28.7
-              },
-              {
-                "Level": 10,
-                "Raw": 314000,
-                "Converted": 31.4
-              }
-            ]
-          },
-          "FrameCount": null,
-          "DurationSeconds": null,
-          "RecastSeconds": null
-        },
-        "Param4": {
-          "Source": "HitDamage,DamageNum,144100004",
-          "Table": "HitDamage",
-          "Mode": "DamageNum",
-          "Resolved": {
-            "Field": "SkillPercentAmend",
-            "Values": [
-              {
-                "Level": 1,
-                "Raw": 94000,
-                "Converted": 9.4
-              },
-              {
-                "Level": 2,
-                "Raw": 108000,
-                "Converted": 10.8
-              },
-              {
-                "Level": 3,
-                "Raw": 122000,
-                "Converted": 12.2
-              },
-              {
-                "Level": 4,
-                "Raw": 164000,
-                "Converted": 16.4
-              },
-              {
-                "Level": 5,
-                "Raw": 177000,
-                "Converted": 17.7
-              },
-              {
-                "Level": 6,
-                "Raw": 190000,
-                "Converted": 19.0
-              },
-              {
-                "Level": 7,
-                "Raw": 217000,
-                "Converted": 21.7
-              },
-              {
-                "Level": 8,
-                "Raw": 228000,
-                "Converted": 22.8
-              },
-              {
-                "Level": 9,
-                "Raw": 239000,
-                "Converted": 23.9
-              },
-              {
-                "Level": 10,
-                "Raw": 261000,
-                "Converted": 26.1
-              }
-            ]
-          },
-          "FrameCount": null,
-          "DurationSeconds": null,
-          "RecastSeconds": null
-        },
-        "Param5": {
-          "Source": "HitDamage,DamageNum,144100005",
-          "Table": "HitDamage",
-          "Mode": "DamageNum",
-          "Resolved": {
-            "Field": "SkillPercentAmend",
-            "Values": [
-              {
-                "Level": 1,
-                "Raw": 101000,
-                "Converted": 10.1
-              },
-              {
-                "Level": 2,
-                "Raw": 116000,
-                "Converted": 11.6
-              },
-              {
-                "Level": 3,
-                "Raw": 132000,
-                "Converted": 13.2
-              },
-              {
-                "Level": 4,
-                "Raw": 177000,
-                "Converted": 17.7
-              },
-              {
-                "Level": 5,
-                "Raw": 191000,
-                "Converted": 19.1
-              },
-              {
-                "Level": 6,
-                "Raw": 205000,
-                "Converted": 20.5
-              },
-              {
-                "Level": 7,
-                "Raw": 234000,
-                "Converted": 23.4
-              },
-              {
-                "Level": 8,
-                "Raw": 246000,
-                "Converted": 24.6
-              },
-              {
-                "Level": 9,
-                "Raw": 258000,
-                "Converted": 25.8
-              },
-              {
-                "Level": 10,
-                "Raw": 282000,
-                "Converted": 28.2
-              }
-            ]
-          },
-          "FrameCount": null,
-          "DurationSeconds": null,
-          "RecastSeconds": null
-        },
-        "Param6": {
-          "Source": "HitDamage,DamageNum,144100006",
-          "Table": "HitDamage",
-          "Mode": "DamageNum",
-          "Resolved": {
-            "Field": "SkillPercentAmend",
-            "Values": [
-              {
-                "Level": 1,
-                "Raw": 570000,
-                "Converted": 57.0
-              },
-              {
-                "Level": 2,
-                "Raw": 660000,
-                "Converted": 66.0
-              },
-              {
-                "Level": 3,
-                "Raw": 750000,
-                "Converted": 75.0
-              },
-              {
-                "Level": 4,
-                "Raw": 1000000,
-                "Converted": 100.0
-              },
-              {
-                "Level": 5,
-                "Raw": 1080000,
-                "Converted": 108.0
-              },
-              {
-                "Level": 6,
-                "Raw": 1170000,
-                "Converted": 117.0
-              },
-              {
-                "Level": 7,
-                "Raw": 1330000,
-                "Converted": 133.0
-              },
-              {
-                "Level": 8,
-                "Raw": 1390000,
-                "Converted": 139.0
-              },
-              {
-                "Level": 9,
-                "Raw": 1460000,
-                "Converted": 146.0
-              },
-              {
-                "Level": 10,
-                "Raw": 1600000,
-                "Converted": 160.0
-              }
-            ]
-          },
-          "FrameCount": null,
-          "DurationSeconds": null,
-          "RecastSeconds": null
-        },
-        "Param7": {
-          "Source": "HitDamage,DamageNum,144100007",
-          "Table": "HitDamage",
-          "Mode": "DamageNum",
-          "Resolved": {
-            "Field": "SkillPercentAmend",
-            "Values": [
-              {
-                "Level": 1,
-                "Raw": 310000,
-                "Converted": 31.0
-              },
-              {
-                "Level": 2,
-                "Raw": 350000,
-                "Converted": 35.0
-              },
-              {
-                "Level": 3,
-                "Raw": 400000,
-                "Converted": 40.0
-              },
-              {
-                "Level": 4,
-                "Raw": 540000,
-                "Converted": 54.0
-              },
-              {
-                "Level": 5,
-                "Raw": 580000,
-                "Converted": 58.0
-              },
-              {
-                "Level": 6,
-                "Raw": 620000,
-                "Converted": 62.0
-              },
-              {
-                "Level": 7,
-                "Raw": 710000,
-                "Converted": 71.0
-              },
-              {
-                "Level": 8,
-                "Raw": 750000,
-                "Converted": 75.0
-              },
-              {
-                "Level": 9,
-                "Raw": 780000,
-                "Converted": 78.0
-              },
-              {
-                "Level": 10,
-                "Raw": 860000,
-                "Converted": 86.0
-              }
-            ]
-          },
-          "FrameCount": null,
-          "DurationSeconds": null,
-          "RecastSeconds": null
-        },
-        "Param8": {
-          "Source": "HitDamage,DamageNum,144100008",
-          "Table": "HitDamage",
-          "Mode": "DamageNum",
-          "Resolved": {
-            "Field": "SkillPercentAmend",
-            "Values": [
-              {
-                "Level": 1,
-                "Raw": 262000,
-                "Converted": 26.2
-              },
-              {
-                "Level": 2,
-                "Raw": 300000,
-                "Converted": 30.0
-              },
-              {
-                "Level": 3,
-                "Raw": 340000,
-                "Converted": 34.0
-              },
-              {
-                "Level": 4,
-                "Raw": 460000,
-                "Converted": 46.0
-              },
-              {
-                "Level": 5,
-                "Raw": 500000,
-                "Converted": 50.0
-              },
-              {
-                "Level": 6,
-                "Raw": 530000,
-                "Converted": 53.0
-              },
-              {
-                "Level": 7,
-                "Raw": 610000,
-                "Converted": 61.0
-              },
-              {
-                "Level": 8,
-                "Raw": 640000,
-                "Converted": 64.0
-              },
-              {
-                "Level": 9,
-                "Raw": 670000,
-                "Converted": 67.0
-              },
-              {
-                "Level": 10,
-                "Raw": 730000,
-                "Converted": 73.0
-              }
-            ]
-          },
-          "FrameCount": null,
-          "DurationSeconds": null,
-          "RecastSeconds": null
-        },
-        "Param9": {
-          "Source": "HitDamage,DamageNum,144100009",
-          "Table": "HitDamage",
-          "Mode": "DamageNum",
-          "Resolved": {
-            "Field": "SkillPercentAmend",
-            "Values": [
-              {
-                "Level": 1,
-                "Raw": 202000,
-                "Converted": 20.2
-              },
-              {
-                "Level": 2,
-                "Raw": 233000,
-                "Converted": 23.3
-              },
-              {
-                "Level": 3,
-                "Raw": 263000,
-                "Converted": 26.3
-              },
-              {
-                "Level": 4,
-                "Raw": 354000,
-                "Converted": 35.4
-              },
-              {
-                "Level": 5,
-                "Raw": 382000,
-                "Converted": 38.2
-              },
-              {
-                "Level": 6,
-                "Raw": 410000,
-                "Converted": 41.0
-              },
-              {
-                "Level": 7,
-                "Raw": 467000,
-                "Converted": 46.7
-              },
-              {
-                "Level": 8,
-                "Raw": 491000,
-                "Converted": 49.1
-              },
-              {
-                "Level": 9,
-                "Raw": 516000,
-                "Converted": 51.6
-              },
-              {
-                "Level": 10,
-                "Raw": 564000,
-                "Converted": 56.4
-              }
-            ]
+            ],
+            "Bind": {
+              "LevelTypeRaw": 4,
+              "LevelTypeText": null,
+              "LevelData": 14431000,
+              "SkillName": "龍薙閃",
+              "SkillMaxLevel": 10,
+              "Candidates": [
+                14431000,
+                14431001,
+                14432000,
+                14440000
+              ],
+              "Method": "ReverseRef_Ambiguous_TakeFirst",
+              "ValueCount": 9
+            }
           },
           "FrameCount": null,
           "DurationSeconds": null,
@@ -1701,7 +1186,6 @@
       },
       "Texts": {
         "Title": "連段滝",
-        "BriefDesc": "高速で連撃を繰り出し、範囲内に水属性ダメージを与える。\u000b支援スキル発動時、自身の周囲に鏡影を生成し、水属性ダメージを与える。\u000b支援スキルは##水属性の印#1018#を発動させることができる。",
         "Desc": "高速で3回の連撃を繰り出し、それぞれ範囲内に攻撃力の<color=#fb8037>&Param1&x4</color>の水属性ダメージを与える。\u000b支援スキル発動時、自身の周囲に鏡影を生成し、攻撃力の<color=#fb8037>&Param2&</color>の水属性ダメージを与える。この効果は3回まで発動する。\u000b支援スキルは##水属性の印#1018#を発動させることができる。発動させると、範囲内に攻撃力の&Param3&の水属性の印ダメージを与え、##寒冷#1027#を付与する。"
       },
       "Params": {
@@ -1761,8 +1245,35 @@
                 "Level": 10,
                 "Raw": 273000,
                 "Converted": 27.3
+              },
+              {
+                "Level": 11,
+                "Raw": 293000,
+                "Converted": 29.3
+              },
+              {
+                "Level": 12,
+                "Raw": 312000,
+                "Converted": 31.2
+              },
+              {
+                "Level": 13,
+                "Raw": 332000,
+                "Converted": 33.2
               }
-            ]
+            ],
+            "Bind": {
+              "LevelTypeRaw": 3,
+              "LevelTypeText": null,
+              "LevelData": 14432000,
+              "SkillName": "連段滝",
+              "SkillMaxLevel": 10,
+              "Candidates": [
+                14432000
+              ],
+              "Method": "ReverseRef_Single_FallbackFromExplicitNonSkill",
+              "ValueCount": 13
+            }
           },
           "FrameCount": null,
           "DurationSeconds": null,
@@ -1824,8 +1335,35 @@
                 "Level": 10,
                 "Raw": 515000,
                 "Converted": 51.5
+              },
+              {
+                "Level": 11,
+                "Raw": 551000,
+                "Converted": 55.1
+              },
+              {
+                "Level": 12,
+                "Raw": 588000,
+                "Converted": 58.8
+              },
+              {
+                "Level": 13,
+                "Raw": 625000,
+                "Converted": 62.5
               }
-            ]
+            ],
+            "Bind": {
+              "LevelTypeRaw": 3,
+              "LevelTypeText": null,
+              "LevelData": 14432000,
+              "SkillName": "連段滝",
+              "SkillMaxLevel": 10,
+              "Candidates": [
+                14432000
+              ],
+              "Method": "ReverseRef_Single_FallbackFromExplicitNonSkill",
+              "ValueCount": 13
+            }
           },
           "FrameCount": null,
           "DurationSeconds": null,
@@ -1883,7 +1421,22 @@
                 "Raw": 1040000,
                 "Converted": 104.0
               }
-            ]
+            ],
+            "Bind": {
+              "LevelTypeRaw": 4,
+              "LevelTypeText": null,
+              "LevelData": 14431000,
+              "SkillName": "龍薙閃",
+              "SkillMaxLevel": 10,
+              "Candidates": [
+                14431000,
+                14431001,
+                14432000,
+                14440000
+              ],
+              "Method": "ReverseRef_Ambiguous_TakeFirst",
+              "ValueCount": 9
+            }
           },
           "FrameCount": null,
           "DurationSeconds": null,
@@ -1891,26 +1444,7 @@
         }
       }
     },
-    "AssistSpecialSkill": {
-      "Id": 14470000,
-      "RawData": {
-        "Id": 14470000,
-        "Title": "Skill.14470000.1",
-        "FCPath": "AIScript.Character._14401.SkillScript_Rush",
-        "Type": 7,
-        "BriefDesc": "Skill.14470000.13",
-        "Desc": "Skill.14470000.2",
-        "MaxLevel": 10,
-        "CheckSkillInterval": true
-      },
-      "Texts": {
-        "Title": null,
-        "BriefDesc": null,
-        "Desc": null
-      },
-      "Params": {}
-    },
-    "AssistUltimate": {
+    "Ultimate": {
       "Id": 14440000,
       "RawData": {
         "Id": 14440000,
@@ -1930,7 +1464,6 @@
       },
       "Texts": {
         "Title": "龍薙閃・蛟噛",
-        "BriefDesc": "2本の小太刀で攻撃し、騰蛇を引き寄せて広範囲に水属性ダメージを与える。\u000b必殺技は##水属性の印#1018#を発動させることができる。",
         "Desc": "2本の小太刀で攻撃し、広範囲に攻撃力の<color=#fb8037>&Param1&x11</color>の水属性ダメージを与える。その後、騰蛇を引き寄せ、広範囲に攻撃力の<color=#fb8037>&Param2&</color>の水属性ダメージを与える。\u000b必殺技は##水属性の印#1018#を発動させることができる。発動させると、範囲内に攻撃力&Param3&の水属性の印ダメージを与え、##寒冷#1027#を付与する。"
       },
       "Params": {
@@ -1990,8 +1523,35 @@
                 "Level": 10,
                 "Raw": 1930000,
                 "Converted": 193.0
+              },
+              {
+                "Level": 11,
+                "Raw": 2060000,
+                "Converted": 206.0
+              },
+              {
+                "Level": 12,
+                "Raw": 2200000,
+                "Converted": 220.0
+              },
+              {
+                "Level": 13,
+                "Raw": 2340000,
+                "Converted": 234.0
               }
-            ]
+            ],
+            "Bind": {
+              "LevelTypeRaw": 3,
+              "LevelTypeText": null,
+              "LevelData": 14440000,
+              "SkillName": "龍薙閃・蛟噛",
+              "SkillMaxLevel": 10,
+              "Candidates": [
+                14440000
+              ],
+              "Method": "ReverseRef_Single_FallbackFromExplicitNonSkill",
+              "ValueCount": 13
+            }
           },
           "FrameCount": null,
           "DurationSeconds": null,
@@ -2053,8 +1613,35 @@
                 "Level": 10,
                 "Raw": 9080000,
                 "Converted": 908.0
+              },
+              {
+                "Level": 11,
+                "Raw": 9730000,
+                "Converted": 973.0
+              },
+              {
+                "Level": 12,
+                "Raw": 10380000,
+                "Converted": 1038.0
+              },
+              {
+                "Level": 13,
+                "Raw": 11030000,
+                "Converted": 1103.0
               }
-            ]
+            ],
+            "Bind": {
+              "LevelTypeRaw": 3,
+              "LevelTypeText": null,
+              "LevelData": 14440000,
+              "SkillName": "龍薙閃・蛟噛",
+              "SkillMaxLevel": 10,
+              "Candidates": [
+                14440000
+              ],
+              "Method": "ReverseRef_Single_FallbackFromExplicitNonSkill",
+              "ValueCount": 13
+            }
           },
           "FrameCount": null,
           "DurationSeconds": null,
@@ -2112,7 +1699,1158 @@
                 "Raw": 1040000,
                 "Converted": 104.0
               }
-            ]
+            ],
+            "Bind": {
+              "LevelTypeRaw": 4,
+              "LevelTypeText": null,
+              "LevelData": 14431000,
+              "SkillName": "龍薙閃",
+              "SkillMaxLevel": 10,
+              "Candidates": [
+                14431000,
+                14431001,
+                14432000,
+                14440000
+              ],
+              "Method": "ReverseRef_Ambiguous_TakeFirst",
+              "ValueCount": 9
+            }
+          },
+          "FrameCount": null,
+          "DurationSeconds": null,
+          "RecastSeconds": null
+        }
+      }
+    },
+    "AssistNormalAtk": {
+      "Id": 14410000,
+      "RawData": {
+        "Id": 14410000,
+        "Title": "Skill.14410000.1",
+        "FCPath": "AIScript.Character._14401.SkillScript_NormalAttack",
+        "Type": 1,
+        "BriefDesc": "Skill.14410000.13",
+        "Desc": "Skill.14410000.2",
+        "Icon": "Icon/Skill/14401_Normal",
+        "MaxLevel": 10,
+        "GetEnergyLimit": 204300,
+        "Param1": "HitDamage,DamageNum,144100001",
+        "Param2": "HitDamage,DamageNum,144100002",
+        "Param3": "HitDamage,DamageNum,144100003",
+        "Param4": "HitDamage,DamageNum,144100004",
+        "Param5": "HitDamage,DamageNum,144100005",
+        "Param6": "HitDamage,DamageNum,144100006",
+        "Param7": "HitDamage,DamageNum,144100007",
+        "Param8": "HitDamage,DamageNum,144100008",
+        "Param9": "HitDamage,DamageNum,144100009",
+        "CheckSkillInterval": true
+      },
+      "Texts": {
+        "Title": "漣",
+        "Desc": "大太刀を振り回し、連続でダメージを与える。\u000b1撃目：攻撃力の<color=#fb8037>&Param1&x2</color>の水属性ダメージを与える。\u000b2撃目：攻撃力の<color=#fb8037>&Param2&</color>の水属性ダメージを与える。\u000b3撃目：攻撃力の<color=#fb8037>&Param3&</color>、<color=#fb8037>&Param8&</color>の水属性ダメージを与える。\u000b4撃目：攻撃力の<color=#fb8037>&Param4&x2</color>の水属性ダメージを与える。\u000b5撃目：攻撃力の<color=#fb8037>&Param5&x2</color>、<color=#fb8037>&Param9&</color>の水属性ダメージを与える。\u000b6撃目：攻撃力の<color=#fb8037>&Param6&</color>、<color=#fb8037>&Param7&</color>の水属性ダメージを与える。"
+      },
+      "Params": {
+        "Param1": {
+          "Source": "HitDamage,DamageNum,144100001",
+          "Table": "HitDamage",
+          "Mode": "DamageNum",
+          "Resolved": {
+            "Field": "SkillPercentAmend",
+            "Values": [
+              {
+                "Level": 1,
+                "Raw": 92000,
+                "Converted": 9.2
+              },
+              {
+                "Level": 2,
+                "Raw": 106000,
+                "Converted": 10.6
+              },
+              {
+                "Level": 3,
+                "Raw": 119000,
+                "Converted": 11.9
+              },
+              {
+                "Level": 4,
+                "Raw": 161000,
+                "Converted": 16.1
+              },
+              {
+                "Level": 5,
+                "Raw": 173000,
+                "Converted": 17.3
+              },
+              {
+                "Level": 6,
+                "Raw": 186000,
+                "Converted": 18.6
+              },
+              {
+                "Level": 7,
+                "Raw": 212000,
+                "Converted": 21.2
+              },
+              {
+                "Level": 8,
+                "Raw": 223000,
+                "Converted": 22.3
+              },
+              {
+                "Level": 9,
+                "Raw": 234000,
+                "Converted": 23.4
+              },
+              {
+                "Level": 10,
+                "Raw": 256000,
+                "Converted": 25.6
+              },
+              {
+                "Level": 11,
+                "Raw": 274000,
+                "Converted": 27.4
+              },
+              {
+                "Level": 12,
+                "Raw": 293000,
+                "Converted": 29.3
+              },
+              {
+                "Level": 13,
+                "Raw": 311000,
+                "Converted": 31.1
+              }
+            ],
+            "Bind": {
+              "LevelTypeRaw": 3,
+              "LevelTypeText": null,
+              "LevelData": 14410000,
+              "SkillName": "漣",
+              "SkillMaxLevel": 10,
+              "Candidates": [
+                14410000
+              ],
+              "Method": "ReverseRef_Single_FallbackFromExplicitNonSkill",
+              "ValueCount": 13
+            }
+          },
+          "FrameCount": null,
+          "DurationSeconds": null,
+          "RecastSeconds": null
+        },
+        "Param2": {
+          "Source": "HitDamage,DamageNum,144100002",
+          "Table": "HitDamage",
+          "Mode": "DamageNum",
+          "Resolved": {
+            "Field": "SkillPercentAmend",
+            "Values": [
+              {
+                "Level": 1,
+                "Raw": 133000,
+                "Converted": 13.3
+              },
+              {
+                "Level": 2,
+                "Raw": 153000,
+                "Converted": 15.3
+              },
+              {
+                "Level": 3,
+                "Raw": 173000,
+                "Converted": 17.3
+              },
+              {
+                "Level": 4,
+                "Raw": 233000,
+                "Converted": 23.3
+              },
+              {
+                "Level": 5,
+                "Raw": 252000,
+                "Converted": 25.2
+              },
+              {
+                "Level": 6,
+                "Raw": 270000,
+                "Converted": 27.0
+              },
+              {
+                "Level": 7,
+                "Raw": 308000,
+                "Converted": 30.8
+              },
+              {
+                "Level": 8,
+                "Raw": 324000,
+                "Converted": 32.4
+              },
+              {
+                "Level": 9,
+                "Raw": 340000,
+                "Converted": 34.0
+              },
+              {
+                "Level": 10,
+                "Raw": 372000,
+                "Converted": 37.2
+              },
+              {
+                "Level": 11,
+                "Raw": 398000,
+                "Converted": 39.8
+              },
+              {
+                "Level": 12,
+                "Raw": 425000,
+                "Converted": 42.5
+              },
+              {
+                "Level": 13,
+                "Raw": 451000,
+                "Converted": 45.1
+              }
+            ],
+            "Bind": {
+              "LevelTypeRaw": 3,
+              "LevelTypeText": null,
+              "LevelData": 14410000,
+              "SkillName": "漣",
+              "SkillMaxLevel": 10,
+              "Candidates": [
+                14410000
+              ],
+              "Method": "ReverseRef_Single_FallbackFromExplicitNonSkill",
+              "ValueCount": 13
+            }
+          },
+          "FrameCount": null,
+          "DurationSeconds": null,
+          "RecastSeconds": null
+        },
+        "Param3": {
+          "Source": "HitDamage,DamageNum,144100003",
+          "Table": "HitDamage",
+          "Mode": "DamageNum",
+          "Resolved": {
+            "Field": "SkillPercentAmend",
+            "Values": [
+              {
+                "Level": 1,
+                "Raw": 113000,
+                "Converted": 11.3
+              },
+              {
+                "Level": 2,
+                "Raw": 129000,
+                "Converted": 12.9
+              },
+              {
+                "Level": 3,
+                "Raw": 146000,
+                "Converted": 14.6
+              },
+              {
+                "Level": 4,
+                "Raw": 197000,
+                "Converted": 19.7
+              },
+              {
+                "Level": 5,
+                "Raw": 213000,
+                "Converted": 21.3
+              },
+              {
+                "Level": 6,
+                "Raw": 229000,
+                "Converted": 22.9
+              },
+              {
+                "Level": 7,
+                "Raw": 260000,
+                "Converted": 26.0
+              },
+              {
+                "Level": 8,
+                "Raw": 274000,
+                "Converted": 27.4
+              },
+              {
+                "Level": 9,
+                "Raw": 287000,
+                "Converted": 28.7
+              },
+              {
+                "Level": 10,
+                "Raw": 314000,
+                "Converted": 31.4
+              },
+              {
+                "Level": 11,
+                "Raw": 337000,
+                "Converted": 33.7
+              },
+              {
+                "Level": 12,
+                "Raw": 359000,
+                "Converted": 35.9
+              },
+              {
+                "Level": 13,
+                "Raw": 382000,
+                "Converted": 38.2
+              }
+            ],
+            "Bind": {
+              "LevelTypeRaw": 3,
+              "LevelTypeText": null,
+              "LevelData": 14410000,
+              "SkillName": "漣",
+              "SkillMaxLevel": 10,
+              "Candidates": [
+                14410000
+              ],
+              "Method": "ReverseRef_Single_FallbackFromExplicitNonSkill",
+              "ValueCount": 13
+            }
+          },
+          "FrameCount": null,
+          "DurationSeconds": null,
+          "RecastSeconds": null
+        },
+        "Param4": {
+          "Source": "HitDamage,DamageNum,144100004",
+          "Table": "HitDamage",
+          "Mode": "DamageNum",
+          "Resolved": {
+            "Field": "SkillPercentAmend",
+            "Values": [
+              {
+                "Level": 1,
+                "Raw": 94000,
+                "Converted": 9.4
+              },
+              {
+                "Level": 2,
+                "Raw": 108000,
+                "Converted": 10.8
+              },
+              {
+                "Level": 3,
+                "Raw": 122000,
+                "Converted": 12.2
+              },
+              {
+                "Level": 4,
+                "Raw": 164000,
+                "Converted": 16.4
+              },
+              {
+                "Level": 5,
+                "Raw": 177000,
+                "Converted": 17.7
+              },
+              {
+                "Level": 6,
+                "Raw": 190000,
+                "Converted": 19.0
+              },
+              {
+                "Level": 7,
+                "Raw": 217000,
+                "Converted": 21.7
+              },
+              {
+                "Level": 8,
+                "Raw": 228000,
+                "Converted": 22.8
+              },
+              {
+                "Level": 9,
+                "Raw": 239000,
+                "Converted": 23.9
+              },
+              {
+                "Level": 10,
+                "Raw": 261000,
+                "Converted": 26.1
+              },
+              {
+                "Level": 11,
+                "Raw": 280000,
+                "Converted": 28.0
+              },
+              {
+                "Level": 12,
+                "Raw": 299000,
+                "Converted": 29.9
+              },
+              {
+                "Level": 13,
+                "Raw": 318000,
+                "Converted": 31.8
+              }
+            ],
+            "Bind": {
+              "LevelTypeRaw": 3,
+              "LevelTypeText": null,
+              "LevelData": 14410000,
+              "SkillName": "漣",
+              "SkillMaxLevel": 10,
+              "Candidates": [
+                14410000
+              ],
+              "Method": "ReverseRef_Single_FallbackFromExplicitNonSkill",
+              "ValueCount": 13
+            }
+          },
+          "FrameCount": null,
+          "DurationSeconds": null,
+          "RecastSeconds": null
+        },
+        "Param5": {
+          "Source": "HitDamage,DamageNum,144100005",
+          "Table": "HitDamage",
+          "Mode": "DamageNum",
+          "Resolved": {
+            "Field": "SkillPercentAmend",
+            "Values": [
+              {
+                "Level": 1,
+                "Raw": 101000,
+                "Converted": 10.1
+              },
+              {
+                "Level": 2,
+                "Raw": 116000,
+                "Converted": 11.6
+              },
+              {
+                "Level": 3,
+                "Raw": 132000,
+                "Converted": 13.2
+              },
+              {
+                "Level": 4,
+                "Raw": 177000,
+                "Converted": 17.7
+              },
+              {
+                "Level": 5,
+                "Raw": 191000,
+                "Converted": 19.1
+              },
+              {
+                "Level": 6,
+                "Raw": 205000,
+                "Converted": 20.5
+              },
+              {
+                "Level": 7,
+                "Raw": 234000,
+                "Converted": 23.4
+              },
+              {
+                "Level": 8,
+                "Raw": 246000,
+                "Converted": 24.6
+              },
+              {
+                "Level": 9,
+                "Raw": 258000,
+                "Converted": 25.8
+              },
+              {
+                "Level": 10,
+                "Raw": 282000,
+                "Converted": 28.2
+              },
+              {
+                "Level": 11,
+                "Raw": 302000,
+                "Converted": 30.2
+              },
+              {
+                "Level": 12,
+                "Raw": 323000,
+                "Converted": 32.3
+              },
+              {
+                "Level": 13,
+                "Raw": 343000,
+                "Converted": 34.3
+              }
+            ],
+            "Bind": {
+              "LevelTypeRaw": 3,
+              "LevelTypeText": null,
+              "LevelData": 14410000,
+              "SkillName": "漣",
+              "SkillMaxLevel": 10,
+              "Candidates": [
+                14410000
+              ],
+              "Method": "ReverseRef_Single_FallbackFromExplicitNonSkill",
+              "ValueCount": 13
+            }
+          },
+          "FrameCount": null,
+          "DurationSeconds": null,
+          "RecastSeconds": null
+        },
+        "Param6": {
+          "Source": "HitDamage,DamageNum,144100006",
+          "Table": "HitDamage",
+          "Mode": "DamageNum",
+          "Resolved": {
+            "Field": "SkillPercentAmend",
+            "Values": [
+              {
+                "Level": 1,
+                "Raw": 570000,
+                "Converted": 57.0
+              },
+              {
+                "Level": 2,
+                "Raw": 660000,
+                "Converted": 66.0
+              },
+              {
+                "Level": 3,
+                "Raw": 750000,
+                "Converted": 75.0
+              },
+              {
+                "Level": 4,
+                "Raw": 1000000,
+                "Converted": 100.0
+              },
+              {
+                "Level": 5,
+                "Raw": 1080000,
+                "Converted": 108.0
+              },
+              {
+                "Level": 6,
+                "Raw": 1170000,
+                "Converted": 117.0
+              },
+              {
+                "Level": 7,
+                "Raw": 1330000,
+                "Converted": 133.0
+              },
+              {
+                "Level": 8,
+                "Raw": 1390000,
+                "Converted": 139.0
+              },
+              {
+                "Level": 9,
+                "Raw": 1460000,
+                "Converted": 146.0
+              },
+              {
+                "Level": 10,
+                "Raw": 1600000,
+                "Converted": 160.0
+              },
+              {
+                "Level": 11,
+                "Raw": 1720000,
+                "Converted": 172.0
+              },
+              {
+                "Level": 12,
+                "Raw": 1830000,
+                "Converted": 183.0
+              },
+              {
+                "Level": 13,
+                "Raw": 1950000,
+                "Converted": 195.0
+              }
+            ],
+            "Bind": {
+              "LevelTypeRaw": 3,
+              "LevelTypeText": null,
+              "LevelData": 14410000,
+              "SkillName": "漣",
+              "SkillMaxLevel": 10,
+              "Candidates": [
+                14410000
+              ],
+              "Method": "ReverseRef_Single_FallbackFromExplicitNonSkill",
+              "ValueCount": 13
+            }
+          },
+          "FrameCount": null,
+          "DurationSeconds": null,
+          "RecastSeconds": null
+        },
+        "Param7": {
+          "Source": "HitDamage,DamageNum,144100007",
+          "Table": "HitDamage",
+          "Mode": "DamageNum",
+          "Resolved": {
+            "Field": "SkillPercentAmend",
+            "Values": [
+              {
+                "Level": 1,
+                "Raw": 310000,
+                "Converted": 31.0
+              },
+              {
+                "Level": 2,
+                "Raw": 350000,
+                "Converted": 35.0
+              },
+              {
+                "Level": 3,
+                "Raw": 400000,
+                "Converted": 40.0
+              },
+              {
+                "Level": 4,
+                "Raw": 540000,
+                "Converted": 54.0
+              },
+              {
+                "Level": 5,
+                "Raw": 580000,
+                "Converted": 58.0
+              },
+              {
+                "Level": 6,
+                "Raw": 620000,
+                "Converted": 62.0
+              },
+              {
+                "Level": 7,
+                "Raw": 710000,
+                "Converted": 71.0
+              },
+              {
+                "Level": 8,
+                "Raw": 750000,
+                "Converted": 75.0
+              },
+              {
+                "Level": 9,
+                "Raw": 780000,
+                "Converted": 78.0
+              },
+              {
+                "Level": 10,
+                "Raw": 860000,
+                "Converted": 86.0
+              },
+              {
+                "Level": 11,
+                "Raw": 920000,
+                "Converted": 92.0
+              },
+              {
+                "Level": 12,
+                "Raw": 980000,
+                "Converted": 98.0
+              },
+              {
+                "Level": 13,
+                "Raw": 1040000,
+                "Converted": 104.0
+              }
+            ],
+            "Bind": {
+              "LevelTypeRaw": 3,
+              "LevelTypeText": null,
+              "LevelData": 14410000,
+              "SkillName": "漣",
+              "SkillMaxLevel": 10,
+              "Candidates": [
+                14410000
+              ],
+              "Method": "ReverseRef_Single_FallbackFromExplicitNonSkill",
+              "ValueCount": 13
+            }
+          },
+          "FrameCount": null,
+          "DurationSeconds": null,
+          "RecastSeconds": null
+        },
+        "Param8": {
+          "Source": "HitDamage,DamageNum,144100008",
+          "Table": "HitDamage",
+          "Mode": "DamageNum",
+          "Resolved": {
+            "Field": "SkillPercentAmend",
+            "Values": [
+              {
+                "Level": 1,
+                "Raw": 262000,
+                "Converted": 26.2
+              },
+              {
+                "Level": 2,
+                "Raw": 300000,
+                "Converted": 30.0
+              },
+              {
+                "Level": 3,
+                "Raw": 340000,
+                "Converted": 34.0
+              },
+              {
+                "Level": 4,
+                "Raw": 460000,
+                "Converted": 46.0
+              },
+              {
+                "Level": 5,
+                "Raw": 500000,
+                "Converted": 50.0
+              },
+              {
+                "Level": 6,
+                "Raw": 530000,
+                "Converted": 53.0
+              },
+              {
+                "Level": 7,
+                "Raw": 610000,
+                "Converted": 61.0
+              },
+              {
+                "Level": 8,
+                "Raw": 640000,
+                "Converted": 64.0
+              },
+              {
+                "Level": 9,
+                "Raw": 670000,
+                "Converted": 67.0
+              },
+              {
+                "Level": 10,
+                "Raw": 730000,
+                "Converted": 73.0
+              },
+              {
+                "Level": 11,
+                "Raw": 780000,
+                "Converted": 78.0
+              },
+              {
+                "Level": 12,
+                "Raw": 840000,
+                "Converted": 84.0
+              },
+              {
+                "Level": 13,
+                "Raw": 890000,
+                "Converted": 89.0
+              }
+            ],
+            "Bind": {
+              "LevelTypeRaw": 3,
+              "LevelTypeText": null,
+              "LevelData": 14410000,
+              "SkillName": "漣",
+              "SkillMaxLevel": 10,
+              "Candidates": [
+                14410000
+              ],
+              "Method": "ReverseRef_Single_FallbackFromExplicitNonSkill",
+              "ValueCount": 13
+            }
+          },
+          "FrameCount": null,
+          "DurationSeconds": null,
+          "RecastSeconds": null
+        },
+        "Param9": {
+          "Source": "HitDamage,DamageNum,144100009",
+          "Table": "HitDamage",
+          "Mode": "DamageNum",
+          "Resolved": {
+            "Field": "SkillPercentAmend",
+            "Values": [
+              {
+                "Level": 1,
+                "Raw": 202000,
+                "Converted": 20.2
+              },
+              {
+                "Level": 2,
+                "Raw": 233000,
+                "Converted": 23.3
+              },
+              {
+                "Level": 3,
+                "Raw": 263000,
+                "Converted": 26.3
+              },
+              {
+                "Level": 4,
+                "Raw": 354000,
+                "Converted": 35.4
+              },
+              {
+                "Level": 5,
+                "Raw": 382000,
+                "Converted": 38.2
+              },
+              {
+                "Level": 6,
+                "Raw": 410000,
+                "Converted": 41.0
+              },
+              {
+                "Level": 7,
+                "Raw": 467000,
+                "Converted": 46.7
+              },
+              {
+                "Level": 8,
+                "Raw": 491000,
+                "Converted": 49.1
+              },
+              {
+                "Level": 9,
+                "Raw": 516000,
+                "Converted": 51.6
+              },
+              {
+                "Level": 10,
+                "Raw": 564000,
+                "Converted": 56.4
+              },
+              {
+                "Level": 11,
+                "Raw": 605000,
+                "Converted": 60.5
+              },
+              {
+                "Level": 12,
+                "Raw": 645000,
+                "Converted": 64.5
+              },
+              {
+                "Level": 13,
+                "Raw": 685000,
+                "Converted": 68.5
+              }
+            ],
+            "Bind": {
+              "LevelTypeRaw": 3,
+              "LevelTypeText": null,
+              "LevelData": 14410000,
+              "SkillName": "漣",
+              "SkillMaxLevel": 10,
+              "Candidates": [
+                14410000
+              ],
+              "Method": "ReverseRef_Single_FallbackFromExplicitNonSkill",
+              "ValueCount": 13
+            }
+          },
+          "FrameCount": null,
+          "DurationSeconds": null,
+          "RecastSeconds": null
+        }
+      }
+    },
+    "AssistSpecialSkill": {
+      "Id": 14470000,
+      "RawData": {
+        "Id": 14470000,
+        "Title": "Skill.14470000.1",
+        "FCPath": "AIScript.Character._14401.SkillScript_Rush",
+        "Type": 7,
+        "BriefDesc": "Skill.14470000.13",
+        "Desc": "Skill.14470000.2",
+        "MaxLevel": 10,
+        "CheckSkillInterval": true
+      },
+      "Texts": {
+        "Title": null,
+        "Desc": null
+      },
+      "Params": {}
+    },
+    "AssistUltimate": {
+      "Id": 14440000,
+      "RawData": {
+        "Id": 14440000,
+        "Title": "Skill.14440000.1",
+        "FCPath": "AIScript.Character._14401.SkillScript_Ultra",
+        "Type": 5,
+        "BriefDesc": "Skill.14440000.13",
+        "Desc": "Skill.14440000.2",
+        "Icon": "Icon/Skill/14401_Ultra",
+        "SkillCD": 300000,
+        "MaxLevel": 10,
+        "UltraEnergy": 2850000,
+        "Param1": "HitDamage,DamageNum,144400001",
+        "Param2": "HitDamage,DamageNum,144400002",
+        "Param3": "HitDamage,DamageNum,144000001",
+        "CheckSkillInterval": true
+      },
+      "Texts": {
+        "Title": "龍薙閃・蛟噛",
+        "Desc": "2本の小太刀で攻撃し、広範囲に攻撃力の<color=#fb8037>&Param1&x11</color>の水属性ダメージを与える。その後、騰蛇を引き寄せ、広範囲に攻撃力の<color=#fb8037>&Param2&</color>の水属性ダメージを与える。\u000b必殺技は##水属性の印#1018#を発動させることができる。発動させると、範囲内に攻撃力&Param3&の水属性の印ダメージを与え、##寒冷#1027#を付与する。"
+      },
+      "Params": {
+        "Param1": {
+          "Source": "HitDamage,DamageNum,144400001",
+          "Table": "HitDamage",
+          "Mode": "DamageNum",
+          "Resolved": {
+            "Field": "SkillPercentAmend",
+            "Values": [
+              {
+                "Level": 1,
+                "Raw": 690000,
+                "Converted": 69.0
+              },
+              {
+                "Level": 2,
+                "Raw": 790000,
+                "Converted": 79.0
+              },
+              {
+                "Level": 3,
+                "Raw": 900000,
+                "Converted": 90.0
+              },
+              {
+                "Level": 4,
+                "Raw": 1210000,
+                "Converted": 121.0
+              },
+              {
+                "Level": 5,
+                "Raw": 1310000,
+                "Converted": 131.0
+              },
+              {
+                "Level": 6,
+                "Raw": 1400000,
+                "Converted": 140.0
+              },
+              {
+                "Level": 7,
+                "Raw": 1600000,
+                "Converted": 160.0
+              },
+              {
+                "Level": 8,
+                "Raw": 1680000,
+                "Converted": 168.0
+              },
+              {
+                "Level": 9,
+                "Raw": 1760000,
+                "Converted": 176.0
+              },
+              {
+                "Level": 10,
+                "Raw": 1930000,
+                "Converted": 193.0
+              },
+              {
+                "Level": 11,
+                "Raw": 2060000,
+                "Converted": 206.0
+              },
+              {
+                "Level": 12,
+                "Raw": 2200000,
+                "Converted": 220.0
+              },
+              {
+                "Level": 13,
+                "Raw": 2340000,
+                "Converted": 234.0
+              }
+            ],
+            "Bind": {
+              "LevelTypeRaw": 3,
+              "LevelTypeText": null,
+              "LevelData": 14440000,
+              "SkillName": "龍薙閃・蛟噛",
+              "SkillMaxLevel": 10,
+              "Candidates": [
+                14440000
+              ],
+              "Method": "ReverseRef_Single_FallbackFromExplicitNonSkill",
+              "ValueCount": 13
+            }
+          },
+          "FrameCount": null,
+          "DurationSeconds": null,
+          "RecastSeconds": null
+        },
+        "Param2": {
+          "Source": "HitDamage,DamageNum,144400002",
+          "Table": "HitDamage",
+          "Mode": "DamageNum",
+          "Resolved": {
+            "Field": "SkillPercentAmend",
+            "Values": [
+              {
+                "Level": 1,
+                "Raw": 3260000,
+                "Converted": 326.0
+              },
+              {
+                "Level": 2,
+                "Raw": 3740000,
+                "Converted": 374.0
+              },
+              {
+                "Level": 3,
+                "Raw": 4230000,
+                "Converted": 423.0
+              },
+              {
+                "Level": 4,
+                "Raw": 5700000,
+                "Converted": 570.0
+              },
+              {
+                "Level": 5,
+                "Raw": 6150000,
+                "Converted": 615.0
+              },
+              {
+                "Level": 6,
+                "Raw": 6610000,
+                "Converted": 661.0
+              },
+              {
+                "Level": 7,
+                "Raw": 7520000,
+                "Converted": 752.0
+              },
+              {
+                "Level": 8,
+                "Raw": 7910000,
+                "Converted": 791.0
+              },
+              {
+                "Level": 9,
+                "Raw": 8300000,
+                "Converted": 830.0
+              },
+              {
+                "Level": 10,
+                "Raw": 9080000,
+                "Converted": 908.0
+              },
+              {
+                "Level": 11,
+                "Raw": 9730000,
+                "Converted": 973.0
+              },
+              {
+                "Level": 12,
+                "Raw": 10380000,
+                "Converted": 1038.0
+              },
+              {
+                "Level": 13,
+                "Raw": 11030000,
+                "Converted": 1103.0
+              }
+            ],
+            "Bind": {
+              "LevelTypeRaw": 3,
+              "LevelTypeText": null,
+              "LevelData": 14440000,
+              "SkillName": "龍薙閃・蛟噛",
+              "SkillMaxLevel": 10,
+              "Candidates": [
+                14440000
+              ],
+              "Method": "ReverseRef_Single_FallbackFromExplicitNonSkill",
+              "ValueCount": 13
+            }
+          },
+          "FrameCount": null,
+          "DurationSeconds": null,
+          "RecastSeconds": null
+        },
+        "Param3": {
+          "Source": "HitDamage,DamageNum,144000001",
+          "Table": "HitDamage",
+          "Mode": "DamageNum",
+          "Resolved": {
+            "Field": "SkillPercentAmend",
+            "Values": [
+              {
+                "Level": 1,
+                "Raw": 310000,
+                "Converted": 31.0
+              },
+              {
+                "Level": 2,
+                "Raw": 400000,
+                "Converted": 40.0
+              },
+              {
+                "Level": 3,
+                "Raw": 490000,
+                "Converted": 49.0
+              },
+              {
+                "Level": 4,
+                "Raw": 580000,
+                "Converted": 58.0
+              },
+              {
+                "Level": 5,
+                "Raw": 670000,
+                "Converted": 67.0
+              },
+              {
+                "Level": 6,
+                "Raw": 760000,
+                "Converted": 76.0
+              },
+              {
+                "Level": 7,
+                "Raw": 850000,
+                "Converted": 85.0
+              },
+              {
+                "Level": 8,
+                "Raw": 950000,
+                "Converted": 95.0
+              },
+              {
+                "Level": 9,
+                "Raw": 1040000,
+                "Converted": 104.0
+              }
+            ],
+            "Bind": {
+              "LevelTypeRaw": 4,
+              "LevelTypeText": null,
+              "LevelData": 14431000,
+              "SkillName": "龍薙閃",
+              "SkillMaxLevel": 10,
+              "Candidates": [
+                14431000,
+                14431001,
+                14432000,
+                14440000
+              ],
+              "Method": "ReverseRef_Ambiguous_TakeFirst",
+              "ValueCount": 9
+            }
           },
           "FrameCount": null,
           "DurationSeconds": null,
@@ -8579,7 +9317,7 @@
           "Param9": "BuffValue,NoLevel,14401011,Time,10K"
         },
         "Texts": {
-          "Name": "主力スキル発動後、通常攻撃は騰蛇を生成するようになる。さらに、中断耐性が上昇する。",
+          "Name": "蛟龍の型",
           "Desc": "主力スキル発動後、通常攻撃は騰蛇を生成し、範囲内に攻撃力の<color=#0abec5>&Param1&</color>の水属性の通常攻撃ダメージを与えるようになる。生成した騰蛇は##水属性の印#1018#を発動させることができる。発動させると、&Param9&秒間、中断耐性が上昇する。"
         },
         "Params": {
@@ -8594,8 +9332,78 @@
                   "Level": 1,
                   "Raw": 152000,
                   "Converted": 15.2
+                },
+                {
+                  "Level": 2,
+                  "Raw": 175000,
+                  "Converted": 17.5
+                },
+                {
+                  "Level": 3,
+                  "Raw": 197000,
+                  "Converted": 19.7
+                },
+                {
+                  "Level": 4,
+                  "Raw": 266000,
+                  "Converted": 26.6
+                },
+                {
+                  "Level": 5,
+                  "Raw": 287000,
+                  "Converted": 28.7
+                },
+                {
+                  "Level": 6,
+                  "Raw": 308000,
+                  "Converted": 30.8
+                },
+                {
+                  "Level": 7,
+                  "Raw": 351000,
+                  "Converted": 35.1
+                },
+                {
+                  "Level": 8,
+                  "Raw": 369000,
+                  "Converted": 36.9
+                },
+                {
+                  "Level": 9,
+                  "Raw": 387000,
+                  "Converted": 38.7
+                },
+                {
+                  "Level": 10,
+                  "Raw": 423000,
+                  "Converted": 42.3
+                },
+                {
+                  "Level": 11,
+                  "Raw": 454000,
+                  "Converted": 45.4
+                },
+                {
+                  "Level": 12,
+                  "Raw": 484000,
+                  "Converted": 48.4
+                },
+                {
+                  "Level": 13,
+                  "Raw": 514000,
+                  "Converted": 51.4
                 }
-              ]
+              ],
+              "Bind": {
+                "LevelTypeRaw": 3,
+                "LevelTypeText": null,
+                "LevelData": 5,
+                "SkillName": null,
+                "SkillMaxLevel": null,
+                "Candidates": [],
+                "Method": "NoLevelData_NoReverseRef",
+                "ValueCount": 13
+              }
             },
             "FrameCount": null,
             "DurationSeconds": null,
@@ -8727,7 +9535,7 @@
           "Param1": "BuffValue,NoLevel,14401011,Time,10K"
         },
         "Texts": {
-          "Name": "主力スキル発動後、通常攻撃は鏡影を生成するようになる。さらに、中断耐性が上昇する。",
+          "Name": "水影の型",
           "Desc": "主力スキル発動後、通常攻撃はチトセの攻撃力の<color=#0abec5>60%</color>を持つ鏡影を生成するようになる。この鏡影は通常攻撃を発動する。さらに、&Param1&秒間、中断耐性が上昇する。"
         },
         "Params": {
@@ -8794,7 +9602,7 @@
           "Param1": "HitDamage,DamageNum,144310301"
         },
         "Texts": {
-          "Name": "流閃・鱗の発動に必要な主力スキルの発動回数が減少する。さらに、流閃・鱗が強化される。",
+          "Name": "滝斬の型",
           "Desc": "流閃・鱗の発動に必要な主力スキルの発動回数が1回になる。さらに、流閃・鱗が強化され、範囲内に攻撃力の<color=#0abec5>&Param1&x4</color>の水属性のスキルダメージを与えるようになる。"
         },
         "Params": {
@@ -8809,8 +9617,78 @@
                   "Level": 1,
                   "Raw": 980000,
                   "Converted": 98.0
+                },
+                {
+                  "Level": 2,
+                  "Raw": 1130000,
+                  "Converted": 113.0
+                },
+                {
+                  "Level": 3,
+                  "Raw": 1270000,
+                  "Converted": 127.0
+                },
+                {
+                  "Level": 4,
+                  "Raw": 1710000,
+                  "Converted": 171.0
+                },
+                {
+                  "Level": 5,
+                  "Raw": 1850000,
+                  "Converted": 185.0
+                },
+                {
+                  "Level": 6,
+                  "Raw": 1990000,
+                  "Converted": 199.0
+                },
+                {
+                  "Level": 7,
+                  "Raw": 2260000,
+                  "Converted": 226.0
+                },
+                {
+                  "Level": 8,
+                  "Raw": 2380000,
+                  "Converted": 238.0
+                },
+                {
+                  "Level": 9,
+                  "Raw": 2500000,
+                  "Converted": 250.0
+                },
+                {
+                  "Level": 10,
+                  "Raw": 2730000,
+                  "Converted": 273.0
+                },
+                {
+                  "Level": 11,
+                  "Raw": 2930000,
+                  "Converted": 293.0
+                },
+                {
+                  "Level": 12,
+                  "Raw": 3120000,
+                  "Converted": 312.0
+                },
+                {
+                  "Level": 13,
+                  "Raw": 3320000,
+                  "Converted": 332.0
                 }
-              ]
+              ],
+              "Bind": {
+                "LevelTypeRaw": 3,
+                "LevelTypeText": null,
+                "LevelData": 2,
+                "SkillName": null,
+                "SkillMaxLevel": null,
+                "Candidates": [],
+                "Method": "NoLevelData_NoReverseRef",
+                "ValueCount": 13
+              }
             },
             "FrameCount": null,
             "DurationSeconds": null,
@@ -8843,7 +9721,7 @@
           "Desc": "Potential.514404.2"
         },
         "Texts": {
-          "Name": "主力スキルのクールタイムが短縮される。主力スキル発動時、鏡影を生成するようになる。",
+          "Name": "引波の型",
           "Desc": "主力スキルのクールタイムが<color=#0abec5>50%</color>短縮される。\u000b主力スキル発動時、チトセの攻撃力の<color=#0abec5>50%</color>を持つ鏡影を生成するようになる。この鏡影はスキルを発動し、##水属性の印#1018#を発動させることができる。"
         },
         "Params": {},
@@ -8877,7 +9755,7 @@
           "Param2": "OnceAdditionalAttributeValue,NoLevel,14421011,Value1,10KHdPct"
         },
         "Texts": {
-          "Name": "支援スキルの連撃の回数が増加する。増加分の連撃の&Param1&が上昇する。",
+          "Name": "追滝の刃",
           "Desc": "チトセの支援スキルの連撃の回数が2回増加する。増加分の連撃の&Param1&が<color=#0abec5>&Param2&</color>上昇する。"
         },
         "Params": {
@@ -8961,7 +9839,7 @@
           "Param3": "HitDamage,DamageNum,144322201"
         },
         "Texts": {
-          "Name": "支援スキルの連撃の&Param1&が上昇する。連撃で会心発生時、追加で連撃を放つようになる。",
+          "Name": "呑流の渦刃",
           "Desc": "チトセの支援スキルの連斬の&Param1&が<color=#0abec5>&Param2&</color>上昇する。連撃で会心発生後、連撃を追加で1回繰り出し、範囲内の敵に攻撃力の<color=#0abec5>&Param3&x4</color>の水属性のスキルダメージを与えるようになる。追加で繰り出す連斬はこの効果を発動できない。"
         },
         "Params": {
@@ -9026,8 +9904,78 @@
                   "Level": 1,
                   "Raw": 21000,
                   "Converted": 2.1
+                },
+                {
+                  "Level": 2,
+                  "Raw": 24000,
+                  "Converted": 2.4
+                },
+                {
+                  "Level": 3,
+                  "Raw": 28000,
+                  "Converted": 2.8
+                },
+                {
+                  "Level": 4,
+                  "Raw": 37000,
+                  "Converted": 3.7
+                },
+                {
+                  "Level": 5,
+                  "Raw": 40000,
+                  "Converted": 4.0
+                },
+                {
+                  "Level": 6,
+                  "Raw": 43000,
+                  "Converted": 4.3
+                },
+                {
+                  "Level": 7,
+                  "Raw": 49000,
+                  "Converted": 4.9
+                },
+                {
+                  "Level": 8,
+                  "Raw": 52000,
+                  "Converted": 5.2
+                },
+                {
+                  "Level": 9,
+                  "Raw": 54000,
+                  "Converted": 5.4
+                },
+                {
+                  "Level": 10,
+                  "Raw": 59000,
+                  "Converted": 5.9
+                },
+                {
+                  "Level": 11,
+                  "Raw": 63000,
+                  "Converted": 6.3
+                },
+                {
+                  "Level": 12,
+                  "Raw": 68000,
+                  "Converted": 6.8
+                },
+                {
+                  "Level": 13,
+                  "Raw": 72000,
+                  "Converted": 7.2
                 }
-              ]
+              ],
+              "Bind": {
+                "LevelTypeRaw": 3,
+                "LevelTypeText": null,
+                "LevelData": 2,
+                "SkillName": null,
+                "SkillMaxLevel": null,
+                "Candidates": [],
+                "Method": "NoLevelData_NoReverseRef",
+                "ValueCount": 13
+              }
             },
             "FrameCount": null,
             "DurationSeconds": null,
@@ -9061,7 +10009,7 @@
           "Param1": "HitDamage,DamageNum,144322301"
         },
         "Texts": {
-          "Name": "支援スキル発動時、連続で鏡影を生成するようになる。",
+          "Name": "滝壺の水影",
           "Desc": "チトセの支援スキル発動時、鏡影を生成し、攻撃力の<color=#0abec5>&Param1&</color>の水属性のスキルダメージを与えるようになる。この効果での鏡影は6体まで生成できる。"
         },
         "Params": {
@@ -9076,8 +10024,78 @@
                   "Level": 1,
                   "Raw": 236000,
                   "Converted": 23.6
+                },
+                {
+                  "Level": 2,
+                  "Raw": 272000,
+                  "Converted": 27.2
+                },
+                {
+                  "Level": 3,
+                  "Raw": 307000,
+                  "Converted": 30.7
+                },
+                {
+                  "Level": 4,
+                  "Raw": 414000,
+                  "Converted": 41.4
+                },
+                {
+                  "Level": 5,
+                  "Raw": 447000,
+                  "Converted": 44.7
+                },
+                {
+                  "Level": 6,
+                  "Raw": 480000,
+                  "Converted": 48.0
+                },
+                {
+                  "Level": 7,
+                  "Raw": 546000,
+                  "Converted": 54.6
+                },
+                {
+                  "Level": 8,
+                  "Raw": 575000,
+                  "Converted": 57.5
+                },
+                {
+                  "Level": 9,
+                  "Raw": 603000,
+                  "Converted": 60.3
+                },
+                {
+                  "Level": 10,
+                  "Raw": 660000,
+                  "Converted": 66.0
+                },
+                {
+                  "Level": 11,
+                  "Raw": 707000,
+                  "Converted": 70.7
+                },
+                {
+                  "Level": 12,
+                  "Raw": 754000,
+                  "Converted": 75.4
+                },
+                {
+                  "Level": 13,
+                  "Raw": 802000,
+                  "Converted": 80.2
                 }
-              ]
+              ],
+              "Bind": {
+                "LevelTypeRaw": 3,
+                "LevelTypeText": null,
+                "LevelData": 2,
+                "SkillName": null,
+                "SkillMaxLevel": null,
+                "Candidates": [],
+                "Method": "NoLevelData_NoReverseRef",
+                "ValueCount": 13
+              }
             },
             "FrameCount": null,
             "DurationSeconds": null,
@@ -9111,7 +10129,7 @@
           "Param1": "HitDamage,DamageNum,144322401"
         },
         "Texts": {
-          "Name": "支援スキルの鏡影命中時、爆発が発生し、範囲内に水属性ダメージを与えるようになる。",
+          "Name": "砕滝の飛沫",
           "Desc": "チトセの支援スキルの鏡影命中時、爆発が発生し、範囲内に攻撃力の<color=#0abec5>&Param1&</color>の水属性のスキルダメージを与え、##水属性の印#1018#を発動させるようになる。"
         },
         "Params": {
@@ -9126,8 +10144,78 @@
                   "Level": 1,
                   "Raw": 172000,
                   "Converted": 17.2
+                },
+                {
+                  "Level": 2,
+                  "Raw": 198000,
+                  "Converted": 19.8
+                },
+                {
+                  "Level": 3,
+                  "Raw": 224000,
+                  "Converted": 22.4
+                },
+                {
+                  "Level": 4,
+                  "Raw": 301000,
+                  "Converted": 30.1
+                },
+                {
+                  "Level": 5,
+                  "Raw": 325000,
+                  "Converted": 32.5
+                },
+                {
+                  "Level": 6,
+                  "Raw": 349000,
+                  "Converted": 34.9
+                },
+                {
+                  "Level": 7,
+                  "Raw": 397000,
+                  "Converted": 39.7
+                },
+                {
+                  "Level": 8,
+                  "Raw": 418000,
+                  "Converted": 41.8
+                },
+                {
+                  "Level": 9,
+                  "Raw": 438000,
+                  "Converted": 43.8
+                },
+                {
+                  "Level": 10,
+                  "Raw": 480000,
+                  "Converted": 48.0
+                },
+                {
+                  "Level": 11,
+                  "Raw": 514000,
+                  "Converted": 51.4
+                },
+                {
+                  "Level": 12,
+                  "Raw": 549000,
+                  "Converted": 54.9
+                },
+                {
+                  "Level": 13,
+                  "Raw": 583000,
+                  "Converted": 58.3
                 }
-              ]
+              ],
+              "Bind": {
+                "LevelTypeRaw": 3,
+                "LevelTypeText": null,
+                "LevelData": 2,
+                "SkillName": null,
+                "SkillMaxLevel": null,
+                "Candidates": [],
+                "Method": "NoLevelData_NoReverseRef",
+                "ValueCount": 13
+              }
             },
             "FrameCount": null,
             "DurationSeconds": null,
@@ -9167,7 +10255,7 @@
           "Param2": "OnceAdditionalAttribute,LevelUp,14441001,Value1,10KHdPct"
         },
         "Texts": {
-          "Name": "チトセの&Param1&が増加する。必殺技で##水属性の印#1018#を発動させた時、一定確率で##寒冷#1027#を追加で1付与する。",
+          "Name": "暴れまわる蛟龍",
           "Desc": "チトセの&Param1&が<color=#ec6d21>&Param2&</color>増加する。チトセの必殺技で##水属性の印#1018#を発動させた時、50%の確率で##寒冷#1027#を追加で1付与する。"
         },
         "Params": {
@@ -9300,7 +10388,7 @@
           "Param3": "BuffValue,NoLevel,14442011,Time,10K"
         },
         "Texts": {
-          "Name": "必殺技発動時、チトセの&Param1&が上昇する。",
+          "Name": "蛟龍の加護",
           "Desc": "チトセの必殺技発動時から&Param3&秒間、チトセの&Param1&が<color=#ec6d21>&Param2&</color>上昇する。"
         },
         "Params": {
@@ -9499,7 +10587,7 @@
           "Param2": "OnceAdditionalAttribute,LevelUp,14443001,Value1,10KHdPct"
         },
         "Texts": {
-          "Name": "必殺技の、##寒冷#1027#か##氷結#1002#が付与されている敵へのダメージが増加する。",
+          "Name": "蛟龍の霊験",
           "Desc": "チトセの必殺技の、##寒冷#1027#か##氷結#1002#が付与されている敵へのダメージが<color=#ec6d21>&Param2&</color>増加する。"
         },
         "Params": {
@@ -9634,7 +10722,7 @@
           "Param2": "Effect,LevelUp,14405001,EffectTypeParam1,HdPct"
         },
         "Texts": {
-          "Name": "チトセの回避の発動可能回数と&Param1&が増加する。主力スキルか回避発動後、通常攻撃の最終撃を発動するようになる。",
+          "Name": "影隠れの型",
           "Desc": "チトセの回避の発動可能回数が1回増加する。\u000b&Param1&が<color=#ec6d21>&Param2&</color>増加する。主力スキルか回避発動後、次の通常攻撃は最終撃を発動するようになる。"
         },
         "Params": {
@@ -9802,7 +10890,7 @@
           "Param6": "BuffValue,NoLevel,14406011,LaminatedNum,Fixed"
         },
         "Texts": {
-          "Name": "騰蛇のダメージを与えた時、&Param1&が増加する。",
+          "Name": "蛟龍の剣舞",
           "Desc": "騰蛇のダメージを与えた時から&Param5&秒間、&Param1&が<color=#ec6d21>&Param2&</color>増加する。この効果は&Param6&回重複できる。"
         },
         "Params": {
@@ -10053,7 +11141,7 @@
           "Param1": "HitDamage,DamageNum,144310701"
         },
         "Texts": {
-          "Name": "騰蛇命中時、追加で騰蛇を生成するようになる。",
+          "Name": "蛟龍の尾",
           "Desc": "騰蛇命中時、追加で騰蛇を生成し、攻撃力の<color=#fb8037>&Param1&</color>の水属性の通常攻撃ダメージを与えるようになる。この効果は3秒ごとに3回まで発動する。この騰蛇は##水属性の印#1018#を発動させることができる。"
         },
         "Params": {
@@ -10078,8 +11166,48 @@
                   "Level": 3,
                   "Raw": 810000,
                   "Converted": 81.0
+                },
+                {
+                  "Level": 4,
+                  "Raw": 1040000,
+                  "Converted": 104.0
+                },
+                {
+                  "Level": 5,
+                  "Raw": 1260000,
+                  "Converted": 126.0
+                },
+                {
+                  "Level": 6,
+                  "Raw": 1480000,
+                  "Converted": 148.0
+                },
+                {
+                  "Level": 7,
+                  "Raw": 1700000,
+                  "Converted": 170.0
+                },
+                {
+                  "Level": 8,
+                  "Raw": 1920000,
+                  "Converted": 192.0
+                },
+                {
+                  "Level": 9,
+                  "Raw": 2150000,
+                  "Converted": 215.0
                 }
-              ]
+              ],
+              "Bind": {
+                "LevelTypeRaw": 1,
+                "LevelTypeText": null,
+                "LevelData": 514407,
+                "SkillName": null,
+                "SkillMaxLevel": null,
+                "Candidates": [],
+                "Method": "NoLevelData_NoReverseRef",
+                "ValueCount": 9
+              }
             },
             "FrameCount": null,
             "DurationSeconds": null,
@@ -10119,7 +11247,7 @@
           "Param4": "BuffValue,NoLevel,14408011,LaminatedNum,Fixed"
         },
         "Texts": {
-          "Name": "主力スキル発動時、&Param1&が増加する。",
+          "Name": "波間の剣舞",
           "Desc": "主力スキル発動時から&Param3&秒間、&Param1&が<color=#ec6d21>&Param2&</color>増加する。この効果は&Param4&回重複できる。"
         },
         "Params": {
@@ -10315,7 +11443,7 @@
           "Param2": "OnceAdditionalAttribute,LevelUp,14409001,Value1,10KHdPct"
         },
         "Texts": {
-          "Name": "チトセの&Param1&が増加する。\u000b流閃・鱗で敵を撃破後、次に発動する主力スキルは流閃・鱗に変化する。",
+          "Name": "連龍の剣舞",
           "Desc": "チトセの&Param1&が<color=#ec6d21>&Param2&</color>増加する。\u000b流閃・鱗で敵を撃破後、次に発動する主力スキルは流閃・鱗に変化する。"
         },
         "Params": {
@@ -10448,7 +11576,7 @@
           "Param3": "BuffValue,NoLevel,14411011,Time,10K"
         },
         "Texts": {
-          "Name": "チトセの回避は地形をすり抜けることができるようになる。回避発動後、&Param1&が上昇する。",
+          "Name": "石穿の剣舞",
           "Desc": "チトセの回避は地形をすり抜けることができるようになる。回避発動後の&Param3&秒間、&Param1&が<color=#ec6d21>&Param2&</color>上昇する。"
         },
         "Params": {
@@ -10647,7 +11775,7 @@
           "Param2": "Effect,LevelUp,14413001,EffectTypeParam1,HdPct"
         },
         "Texts": {
-          "Name": "自身以外の水属性巡遊者がフィールドにいる時、チトセの&Param1&が上昇する。",
+          "Name": "水龍の共鳴",
           "Desc": "自身以外の水属性巡遊者がフィールドにいる時、チトセの&Param1&が<color=#ec6d21>&Param2&</color>上昇する。"
         },
         "Params": {
@@ -10811,7 +11939,7 @@
           "Param2": "OnceAdditionalAttribute,LevelUp,14410001,Value1,10KHdPct"
         },
         "Texts": {
-          "Name": "チトセの&Param1&が増加する。\u000bスキルの使用可能回数が増加する。",
+          "Name": "漣撃の型",
           "Desc": "チトセの&Param1&が<color=#ec6d21>&Param2&</color>増加する。\u000b主力スキルの発動可能回数が1回増加する。"
         },
         "Params": {
@@ -10949,7 +12077,7 @@
           "Param7": "Effect,LevelUp,14412001,EffectTypeParam1,HdPct"
         },
         "Texts": {
-          "Name": "チトセの&Param1&が上昇する。攻撃を受けた時、&Param3&が追加で上昇する。",
+          "Name": "反攻の型",
           "Desc": "チトセの&Param1&が<color=#ec6d21>&Param2&</color>上昇する。攻撃を受けた時から&Param5&秒間、&Param3&が追加で<color=#ec6d21>&Param4&</color>上昇する。"
         },
         "Params": {
@@ -11406,7 +12534,7 @@
           "Param2": "OnceAdditionalAttribute,LevelUp,14425002,Value1,10KHdPct"
         },
         "Texts": {
-          "Name": "支援スキルの連撃で会心発生時、その後の連撃の会心ダメージが増加する。",
+          "Name": "肺腑穿つ滴",
           "Desc": "チトセの支援スキルの連撃で会心発生時、残りの連撃の会心ダメージが<color=#ec6d21>&Param2&</color>増加する。この効果は0.5秒ごとに1回まで発動する。"
         },
         "Params": {
@@ -11538,7 +12666,7 @@
           "Param2": "OnceAdditionalAttribute,LevelUp,14426002,Value1,10KHdPct"
         },
         "Texts": {
-          "Name": "支援スキルの連撃を繰り出すたびに、連撃のダメージが増加する。",
+          "Name": "末広がりの滝",
           "Desc": "チトセの支援スキルの連撃を繰り出すたびに、連撃のダメージが<color=#ec6d21>&Param2&</color>増加する。"
         },
         "Params": {
@@ -11671,7 +12799,7 @@
           "Param2": "Effect,LevelUp,14427001,EffectTypeParam1,HdPct"
         },
         "Texts": {
-          "Name": "チトセの&Param1&が増加する。支援スキルの連撃の回数が増加する。",
+          "Name": "激流に身を任せ",
           "Desc": "チトセの&Param1&が<color=#ec6d21>&Param2&</color>増加する。チトセの支援スキルは連撃を追加で1回繰り出すようになる。"
         },
         "Params": {
@@ -11837,7 +12965,7 @@
           "Param4": "OnceAdditionalAttribute,LevelUp,14428002,Value1,10KHdPct"
         },
         "Texts": {
-          "Name": "鏡影の&Param1&が増加する。鏡影が敵を撃破時、他の鏡影の&Param3&が増加する。",
+          "Name": "水映の影武者",
           "Desc": "鏡影の&Param1&が<color=#ec6d21>&Param2&</color>増加する。鏡影が敵を撃破時、他の鏡影の&Param3&が<color=#ec6d21>&Param4&</color>増加する。"
         },
         "Params": {
@@ -12065,7 +13193,7 @@
           "Param2": "OnceAdditionalAttribute,LevelUp,14430001,Value1,10KHdPct"
         },
         "Texts": {
-          "Name": "鏡影の、HPが70％未満の敵へのダメージが増加する。",
+          "Name": "影の追い込み漁",
           "Desc": "鏡影の、HPが70％未満の敵へのダメージが<color=#ec6d21>&Param2&</color>増加する。"
         },
         "Params": {
@@ -12163,7 +13291,7 @@
           "Param2": "OnceAdditionalAttribute,LevelUp,14431001,Value1,10KHdPct"
         },
         "Texts": {
-          "Name": "チトセと鏡影の&Param1&が増加する。",
+          "Name": "滝際の波紋",
           "Desc": "チトセと鏡影の&Param1&が<color=#ec6d21>&Param2&</color>増加する。"
         },
         "Params": {
@@ -12296,7 +13424,7 @@
           "Param2": "Effect,LevelUp,14432001,EffectTypeParam1,HdPct"
         },
         "Texts": {
-          "Name": "チトセの&Param1&が上昇する。",
+          "Name": "氷川の龍刃",
           "Desc": "チトセの&Param1&が<color=#ec6d21>&Param2&</color>上昇する。"
         },
         "Params": {
@@ -12460,7 +13588,7 @@
           "Param2": "OnceAdditionalAttribute,LevelUp,14429001,Value1,10KHdPct"
         },
         "Texts": {
-          "Name": "鏡影命中時、鏡影の&Param1&が上昇する。",
+          "Name": "合わせ鏡の水影",
           "Desc": "鏡影命中時、鏡影の&Param1&が<color=#ec6d21>&Param2&</color>上昇する。この効果は支援スキル終了時にリセットされる。"
         },
         "Params": {
@@ -12592,7 +13720,7 @@
           "Param2": "Effect,LevelUp,14433001,EffectTypeParam1,HdPct"
         },
         "Texts": {
-          "Name": "チーム内の水属性巡遊者1体につき、チトセの&Param1&が増加する。",
+          "Name": "水龍の加勢",
           "Desc": "チーム内の水属性巡遊者1体につき、チトセの&Param1&が<color=#ec6d21>&Param2&</color>増加する。"
         },
         "Params": {
@@ -12728,5 +13856,19 @@
         "MaxLevel": 3
       }
     ]
-  }
+  },
+  "WordRefs": [
+    {
+      "Id": 1018,
+      "Label": "水属性の印",
+      "Color": "#6A90EB",
+      "Body": "すべての水属性の印の共通名称。\u000b付与された対象は、特定の水属性巡遊者から攻撃を受けると状態が解除され、特殊な効果が発動する"
+    },
+    {
+      "Id": 1027,
+      "Label": "寒冷",
+      "Color": "#6A90EB",
+      "Body": "移動速度を<color=#fb8037>25%</color>低下させる。持続時間は<color=#fb8037>10.0</color>秒。<color=#fb8037>3.0</color>回まで重複できる\u000b寒冷が<color=#fb8037>3.0</color>になると、凍結に変化する。凍結の持続時間は<color=#fb8037>3.0</color>秒"
+    }
+  ]
 }
