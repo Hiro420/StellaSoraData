@@ -1,0 +1,171 @@
+{
+  "37": {
+    "AttrTypeName": "支援技能等级提升",
+    "Values": [
+      0.1,
+      0.125,
+      0.135,
+      0.15,
+      0.17,
+      0.203,
+      0.3,
+      0.4
+    ],
+    "BySubtype": {
+      "FirstSubtype=1|SecondSubtype=1": [
+        0.1,
+        0.125,
+        0.15,
+        0.3
+      ],
+      "FirstSubtype=None|SecondSubtype=1": [
+        0.135,
+        0.17,
+        0.203,
+        0.4
+      ]
+    },
+    "ByRarity": {
+      "4": [
+        0.1,
+        0.135
+      ],
+      "3": [
+        0.125,
+        0.17
+      ],
+      "2": [
+        0.15,
+        0.203
+      ],
+      "1": [
+        0.3,
+        0.4
+      ]
+    }
+  },
+  "99": {
+    "AttrTypeName": "防御力",
+    "Values": [
+      1,
+      2,
+      3
+    ],
+    "BySubtype": {
+      "FirstSubtype=5|SecondSubtype=1": [
+        1,
+        2,
+        3
+      ],
+      "FirstSubtype=6|SecondSubtype=1": [
+        1,
+        2,
+        3
+      ],
+      "FirstSubtype=7|SecondSubtype=1": [
+        1,
+        2,
+        3
+      ],
+      "FirstSubtype=8|SecondSubtype=1": [
+        1,
+        2,
+        3
+      ],
+      "FirstSubtype=9|SecondSubtype=1": [
+        1,
+        2,
+        3
+      ],
+      "FirstSubtype=10|SecondSubtype=1": [
+        1,
+        2,
+        3
+      ],
+      "FirstSubtype=11|SecondSubtype=1": [
+        1,
+        2,
+        3
+      ],
+      "FirstSubtype=12|SecondSubtype=1": [
+        1,
+        2,
+        3
+      ],
+      "FirstSubtype=13|SecondSubtype=1": [
+        1,
+        2,
+        3
+      ],
+      "FirstSubtype=25|SecondSubtype=1": [
+        1,
+        2,
+        3
+      ],
+      "FirstSubtype=26|SecondSubtype=1": [
+        1,
+        2,
+        3
+      ],
+      "FirstSubtype=27|SecondSubtype=1": [
+        1,
+        2,
+        3
+      ],
+      "FirstSubtype=28|SecondSubtype=1": [
+        1,
+        2,
+        3
+      ],
+      "FirstSubtype=29|SecondSubtype=1": [
+        1,
+        2,
+        3
+      ],
+      "FirstSubtype=30|SecondSubtype=1": [
+        1,
+        2,
+        3
+      ],
+      "FirstSubtype=31|SecondSubtype=1": [
+        1,
+        2,
+        3
+      ],
+      "FirstSubtype=32|SecondSubtype=1": [
+        1,
+        2,
+        3
+      ],
+      "FirstSubtype=33|SecondSubtype=1": [
+        1,
+        2,
+        3
+      ],
+      "FirstSubtype=41|SecondSubtype=1": [
+        1,
+        2,
+        3
+      ],
+      "FirstSubtype=42|SecondSubtype=1": [
+        1,
+        2,
+        3
+      ],
+      "FirstSubtype=43|SecondSubtype=1": [
+        1,
+        2,
+        3
+      ]
+    },
+    "ByRarity": {
+      "2": [
+        1
+      ],
+      "1": [
+        2,
+        3
+      ]
+    }
+  }
+}

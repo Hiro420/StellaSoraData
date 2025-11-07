@@ -1,0 +1,138 @@
+{
+  "GroupId": 2,
+  "Weight": 2765,
+  "Names": {
+    "スキル会心率": [
+      {
+        "TypeId": 30,
+        "Rarity": 1,
+        "Value": "15%"
+      },
+      {
+        "TypeId": 30,
+        "Rarity": 2,
+        "Value": "7.5%"
+      },
+      {
+        "TypeId": 30,
+        "Rarity": 3,
+        "Value": "6.3%"
+      },
+      {
+        "TypeId": 30,
+        "Rarity": 4,
+        "Value": "5%"
+      }
+    ],
+    "印会心率": [
+      {
+        "TypeId": 32,
+        "Rarity": 1,
+        "Value": "15%"
+      },
+      {
+        "TypeId": 32,
+        "Rarity": 2,
+        "Value": "7.5%"
+      },
+      {
+        "TypeId": 32,
+        "Rarity": 3,
+        "Value": "6.3%"
+      },
+      {
+        "TypeId": 32,
+        "Rarity": 4,
+        "Value": "5%"
+      }
+    ],
+    "従者会心率": [
+      {
+        "TypeId": 33,
+        "Rarity": 1,
+        "Value": "15%"
+      },
+      {
+        "TypeId": 33,
+        "Rarity": 2,
+        "Value": "7.5%"
+      },
+      {
+        "TypeId": 33,
+        "Rarity": 3,
+        "Value": "6.3%"
+      },
+      {
+        "TypeId": 33,
+        "Rarity": 4,
+        "Value": "5%"
+      }
+    ],
+    "必殺技会心率": [
+      {
+        "TypeId": 31,
+        "Rarity": 1,
+        "Value": "15%"
+      },
+      {
+        "TypeId": 31,
+        "Rarity": 2,
+        "Value": "7.5%"
+      },
+      {
+        "TypeId": 31,
+        "Rarity": 3,
+        "Value": "6.3%"
+      },
+      {
+        "TypeId": 31,
+        "Rarity": 4,
+        "Value": "5%"
+      }
+    ],
+    "派生物会心率": [
+      {
+        "TypeId": 34,
+        "Rarity": 1,
+        "Value": "15%"
+      },
+      {
+        "TypeId": 34,
+        "Rarity": 2,
+        "Value": "7.5%"
+      },
+      {
+        "TypeId": 34,
+        "Rarity": 3,
+        "Value": "6.3%"
+      },
+      {
+        "TypeId": 34,
+        "Rarity": 4,
+        "Value": "5%"
+      }
+    ],
+    "通常攻撃会心率": [
+      {
+        "TypeId": 29,
+        "Rarity": 1,
+        "Value": "15%"
+      },
+      {
+        "TypeId": 29,
+        "Rarity": 2,
+        "Value": "7.5%"
+      },
+      {
+        "TypeId": 29,
+        "Rarity": 3,
+        "Value": "6.3%"
+      },
+      {
+        "TypeId": 29,
+        "Rarity": 4,
+        "Value": "5%"
+      }
+    ]
+  }
+}

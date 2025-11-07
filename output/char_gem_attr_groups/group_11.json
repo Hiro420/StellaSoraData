@@ -1,0 +1,74 @@
+{
+  "GroupId": 11,
+  "Weight": null,
+  "Names": {
+    "主力スキルレベル上昇": [
+      {
+        "TypeId": 36,
+        "Rarity": 1,
+        "Value": "2"
+      },
+      {
+        "TypeId": 36,
+        "Rarity": 1,
+        "Value": "3"
+      },
+      {
+        "TypeId": 36,
+        "Rarity": 2,
+        "Value": "1"
+      }
+    ],
+    "必殺技レベル上昇": [
+      {
+        "TypeId": 38,
+        "Rarity": 1,
+        "Value": "2"
+      },
+      {
+        "TypeId": 38,
+        "Rarity": 1,
+        "Value": "3"
+      },
+      {
+        "TypeId": 38,
+        "Rarity": 2,
+        "Value": "1"
+      }
+    ],
+    "支援スキルレベル上昇": [
+      {
+        "TypeId": 37,
+        "Rarity": 1,
+        "Value": "2"
+      },
+      {
+        "TypeId": 37,
+        "Rarity": 1,
+        "Value": "3"
+      },
+      {
+        "TypeId": 37,
+        "Rarity": 2,
+        "Value": "1"
+      }
+    ],
+    "通常攻撃レベル上昇": [
+      {
+        "TypeId": 35,
+        "Rarity": 1,
+        "Value": "2"
+      },
+      {
+        "TypeId": 35,
+        "Rarity": 1,
+        "Value": "3"
+      },
+      {
+        "TypeId": 35,
+        "Rarity": 2,
+        "Value": "1"
+      }
+    ]
+  }
+}

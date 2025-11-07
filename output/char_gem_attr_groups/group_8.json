@@ -1,0 +1,204 @@
+{
+  "GroupId": 8,
+  "Weight": 800,
+  "Names": {
+    "主力SP獲得効率": [
+      {
+        "TypeId": 86,
+        "Rarity": 1,
+        "Value": "30%"
+      },
+      {
+        "TypeId": 86,
+        "Rarity": 2,
+        "Value": "15%"
+      },
+      {
+        "TypeId": 86,
+        "Rarity": 3,
+        "Value": "12.5%"
+      },
+      {
+        "TypeId": 86,
+        "Rarity": 4,
+        "Value": "10%"
+      }
+    ],
+    "会心率": [
+      {
+        "TypeId": 67,
+        "Rarity": 1,
+        "Value": "15%"
+      },
+      {
+        "TypeId": 67,
+        "Rarity": 2,
+        "Value": "7.5%"
+      },
+      {
+        "TypeId": 67,
+        "Rarity": 3,
+        "Value": "6.3%"
+      },
+      {
+        "TypeId": 67,
+        "Rarity": 4,
+        "Value": "5%"
+      }
+    ],
+    "光属性耐性貫通": [
+      {
+        "TypeId": 78,
+        "Rarity": 1,
+        "Value": "110"
+      },
+      {
+        "TypeId": 78,
+        "Rarity": 2,
+        "Value": "53"
+      },
+      {
+        "TypeId": 78,
+        "Rarity": 3,
+        "Value": "40"
+      },
+      {
+        "TypeId": 78,
+        "Rarity": 4,
+        "Value": "35"
+      }
+    ],
+    "地属性耐性貫通": [
+      {
+        "TypeId": 76,
+        "Rarity": 1,
+        "Value": "110"
+      },
+      {
+        "TypeId": 76,
+        "Rarity": 2,
+        "Value": "53"
+      },
+      {
+        "TypeId": 76,
+        "Rarity": 3,
+        "Value": "40"
+      },
+      {
+        "TypeId": 76,
+        "Rarity": 4,
+        "Value": "35"
+      }
+    ],
+    "支援SP獲得効率": [
+      {
+        "TypeId": 87,
+        "Rarity": 1,
+        "Value": "40%"
+      },
+      {
+        "TypeId": 87,
+        "Rarity": 2,
+        "Value": "20.3%"
+      },
+      {
+        "TypeId": 87,
+        "Rarity": 3,
+        "Value": "17%"
+      },
+      {
+        "TypeId": 87,
+        "Rarity": 4,
+        "Value": "13.5%"
+      }
+    ],
+    "水属性耐性貫通": [
+      {
+        "TypeId": 74,
+        "Rarity": 1,
+        "Value": "110"
+      },
+      {
+        "TypeId": 74,
+        "Rarity": 2,
+        "Value": "53"
+      },
+      {
+        "TypeId": 74,
+        "Rarity": 3,
+        "Value": "40"
+      },
+      {
+        "TypeId": 74,
+        "Rarity": 4,
+        "Value": "35"
+      }
+    ],
+    "火属性耐性貫通": [
+      {
+        "TypeId": 75,
+        "Rarity": 1,
+        "Value": "110"
+      },
+      {
+        "TypeId": 75,
+        "Rarity": 2,
+        "Value": "53"
+      },
+      {
+        "TypeId": 75,
+        "Rarity": 3,
+        "Value": "40"
+      },
+      {
+        "TypeId": 75,
+        "Rarity": 4,
+        "Value": "35"
+      }
+    ],
+    "闇属性耐性貫通": [
+      {
+        "TypeId": 79,
+        "Rarity": 1,
+        "Value": "110"
+      },
+      {
+        "TypeId": 79,
+        "Rarity": 2,
+        "Value": "53"
+      },
+      {
+        "TypeId": 79,
+        "Rarity": 3,
+        "Value": "40"
+      },
+      {
+        "TypeId": 79,
+        "Rarity": 4,
+        "Value": "35"
+      }
+    ],
+    "風属性耐性貫通": [
+      {
+        "TypeId": 77,
+        "Rarity": 1,
+        "Value": "110"
+      },
+      {
+        "TypeId": 77,
+        "Rarity": 2,
+        "Value": "53"
+      },
+      {
+        "TypeId": 77,
+        "Rarity": 3,
+        "Value": "40"
+      },
+      {
+        "TypeId": 77,
+        "Rarity": 4,
+        "Value": "35"
+      }
+    ]
+  }
+}

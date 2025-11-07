@@ -1,0 +1,138 @@
+{
+  "GroupId": 5,
+  "Weight": 3000,
+  "Names": {
+    "HP": [
+      {
+        "TypeId": 63,
+        "Rarity": 1,
+        "Value": "12%"
+      },
+      {
+        "TypeId": 63,
+        "Rarity": 2,
+        "Value": "6%"
+      },
+      {
+        "TypeId": 63,
+        "Rarity": 3,
+        "Value": "5%"
+      },
+      {
+        "TypeId": 63,
+        "Rarity": 4,
+        "Value": "4%"
+      }
+    ],
+    "基礎HP": [
+      {
+        "TypeId": 60,
+        "Rarity": 1,
+        "Value": "2040"
+      },
+      {
+        "TypeId": 60,
+        "Rarity": 2,
+        "Value": "1020"
+      },
+      {
+        "TypeId": 60,
+        "Rarity": 3,
+        "Value": "850"
+      },
+      {
+        "TypeId": 60,
+        "Rarity": 4,
+        "Value": "680"
+      }
+    ],
+    "基礎攻撃力": [
+      {
+        "TypeId": 61,
+        "Rarity": 1,
+        "Value": "210"
+      },
+      {
+        "TypeId": 61,
+        "Rarity": 2,
+        "Value": "105"
+      },
+      {
+        "TypeId": 61,
+        "Rarity": 3,
+        "Value": "88"
+      },
+      {
+        "TypeId": 61,
+        "Rarity": 4,
+        "Value": "70"
+      }
+    ],
+    "基礎防御力": [
+      {
+        "TypeId": 62,
+        "Rarity": 1,
+        "Value": "105"
+      },
+      {
+        "TypeId": 62,
+        "Rarity": 2,
+        "Value": "53"
+      },
+      {
+        "TypeId": 62,
+        "Rarity": 3,
+        "Value": "44"
+      },
+      {
+        "TypeId": 62,
+        "Rarity": 4,
+        "Value": "35"
+      }
+    ],
+    "攻撃力": [
+      {
+        "TypeId": 64,
+        "Rarity": 1,
+        "Value": "12%"
+      },
+      {
+        "TypeId": 64,
+        "Rarity": 2,
+        "Value": "6%"
+      },
+      {
+        "TypeId": 64,
+        "Rarity": 3,
+        "Value": "5%"
+      },
+      {
+        "TypeId": 64,
+        "Rarity": 4,
+        "Value": "4%"
+      }
+    ],
+    "防御力": [
+      {
+        "TypeId": 65,
+        "Rarity": 1,
+        "Value": "30%"
+      },
+      {
+        "TypeId": 65,
+        "Rarity": 2,
+        "Value": "15%"
+      },
+      {
+        "TypeId": 65,
+        "Rarity": 3,
+        "Value": "12.5%"
+      },
+      {
+        "TypeId": 65,
+        "Rarity": 4,
+        "Value": "10%"
+      }
+    ]
+  }
+}

@@ -1,0 +1,1022 @@
+{
+  "101": {
+    "Position": 1,
+    "AttrGroupIds": [
+      5,
+      6,
+      7,
+      8
+    ],
+    "UniqueAttrGroupId": 11,
+    "ParamTypes": [
+      {
+        "AttrTypeId": 35,
+        "AttrTypeName": "普通攻击等级提升"
+      },
+      {
+        "AttrTypeId": 36,
+        "AttrTypeName": "技能等级提升"
+      },
+      {
+        "AttrTypeId": 37,
+        "AttrTypeName": "支援技能等级提升"
+      },
+      {
+        "AttrTypeId": 38,
+        "AttrTypeName": "必杀等级提升"
+      },
+      {
+        "AttrTypeId": 60,
+        "AttrTypeName": "生命上限"
+      },
+      {
+        "AttrTypeId": 61,
+        "AttrTypeName": "攻击力"
+      },
+      {
+        "AttrTypeId": 62,
+        "AttrTypeName": "防御力"
+      },
+      {
+        "AttrTypeId": 63,
+        "AttrTypeName": "生命上限"
+      },
+      {
+        "AttrTypeId": 64,
+        "AttrTypeName": "攻击力"
+      },
+      {
+        "AttrTypeId": 65,
+        "AttrTypeName": "防御力"
+      },
+      {
+        "AttrTypeId": 66,
+        "AttrTypeName": "暴击伤害"
+      },
+      {
+        "AttrTypeId": 67,
+        "AttrTypeName": "暴击"
+      },
+      {
+        "AttrTypeId": 68,
+        "AttrTypeName": "水系伤害"
+      },
+      {
+        "AttrTypeId": 69,
+        "AttrTypeName": "火系伤害"
+      },
+      {
+        "AttrTypeId": 70,
+        "AttrTypeName": "地系伤害"
+      },
+      {
+        "AttrTypeId": 71,
+        "AttrTypeName": "风系伤害"
+      },
+      {
+        "AttrTypeId": 72,
+        "AttrTypeName": "光系伤害"
+      },
+      {
+        "AttrTypeId": 73,
+        "AttrTypeName": "暗系伤害"
+      },
+      {
+        "AttrTypeId": 74,
+        "AttrTypeName": "水系穿透"
+      },
+      {
+        "AttrTypeId": 75,
+        "AttrTypeName": "火系穿透"
+      },
+      {
+        "AttrTypeId": 76,
+        "AttrTypeName": "地系穿透"
+      },
+      {
+        "AttrTypeId": 77,
+        "AttrTypeName": "风系穿透"
+      },
+      {
+        "AttrTypeId": 78,
+        "AttrTypeName": "光系穿透"
+      },
+      {
+        "AttrTypeId": 79,
+        "AttrTypeName": "暗系穿透"
+      },
+      {
+        "AttrTypeId": 80,
+        "AttrTypeName": "普攻伤害"
+      },
+      {
+        "AttrTypeId": 81,
+        "AttrTypeName": "技能伤害"
+      },
+      {
+        "AttrTypeId": 82,
+        "AttrTypeName": "绝招伤害"
+      },
+      {
+        "AttrTypeId": 83,
+        "AttrTypeName": "印记伤害"
+      },
+      {
+        "AttrTypeId": 84,
+        "AttrTypeName": "仆从伤害"
+      },
+      {
+        "AttrTypeId": 85,
+        "AttrTypeName": "衍射物伤害"
+      },
+      {
+        "AttrTypeId": 86,
+        "AttrTypeName": "主控能量获取效率"
+      },
+      {
+        "AttrTypeId": 87,
+        "AttrTypeName": "支援能量获取效率"
+      },
+      {
+        "AttrTypeId": 88,
+        "AttrTypeName": "普攻暴击"
+      },
+      {
+        "AttrTypeId": 89,
+        "AttrTypeName": "技能暴击"
+      },
+      {
+        "AttrTypeId": 90,
+        "AttrTypeName": "绝招暴击"
+      },
+      {
+        "AttrTypeId": 91,
+        "AttrTypeName": "印记暴击"
+      },
+      {
+        "AttrTypeId": 92,
+        "AttrTypeName": "仆从暴击"
+      },
+      {
+        "AttrTypeId": 93,
+        "AttrTypeName": "衍生物暴击"
+      }
+    ]
+  },
+  "102": {
+    "Position": 1,
+    "AttrGroupIds": [
+      5,
+      6,
+      7,
+      8
+    ],
+    "UniqueAttrGroupId": 11,
+    "ParamTypes": [
+      {
+        "AttrTypeId": 35,
+        "AttrTypeName": "普通攻击等级提升"
+      },
+      {
+        "AttrTypeId": 36,
+        "AttrTypeName": "技能等级提升"
+      },
+      {
+        "AttrTypeId": 37,
+        "AttrTypeName": "支援技能等级提升"
+      },
+      {
+        "AttrTypeId": 38,
+        "AttrTypeName": "必杀等级提升"
+      },
+      {
+        "AttrTypeId": 60,
+        "AttrTypeName": "生命上限"
+      },
+      {
+        "AttrTypeId": 61,
+        "AttrTypeName": "攻击力"
+      },
+      {
+        "AttrTypeId": 62,
+        "AttrTypeName": "防御力"
+      },
+      {
+        "AttrTypeId": 63,
+        "AttrTypeName": "生命上限"
+      },
+      {
+        "AttrTypeId": 64,
+        "AttrTypeName": "攻击力"
+      },
+      {
+        "AttrTypeId": 65,
+        "AttrTypeName": "防御力"
+      },
+      {
+        "AttrTypeId": 66,
+        "AttrTypeName": "暴击伤害"
+      },
+      {
+        "AttrTypeId": 67,
+        "AttrTypeName": "暴击"
+      },
+      {
+        "AttrTypeId": 68,
+        "AttrTypeName": "水系伤害"
+      },
+      {
+        "AttrTypeId": 69,
+        "AttrTypeName": "火系伤害"
+      },
+      {
+        "AttrTypeId": 70,
+        "AttrTypeName": "地系伤害"
+      },
+      {
+        "AttrTypeId": 71,
+        "AttrTypeName": "风系伤害"
+      },
+      {
+        "AttrTypeId": 72,
+        "AttrTypeName": "光系伤害"
+      },
+      {
+        "AttrTypeId": 73,
+        "AttrTypeName": "暗系伤害"
+      },
+      {
+        "AttrTypeId": 74,
+        "AttrTypeName": "水系穿透"
+      },
+      {
+        "AttrTypeId": 75,
+        "AttrTypeName": "火系穿透"
+      },
+      {
+        "AttrTypeId": 76,
+        "AttrTypeName": "地系穿透"
+      },
+      {
+        "AttrTypeId": 77,
+        "AttrTypeName": "风系穿透"
+      },
+      {
+        "AttrTypeId": 78,
+        "AttrTypeName": "光系穿透"
+      },
+      {
+        "AttrTypeId": 79,
+        "AttrTypeName": "暗系穿透"
+      },
+      {
+        "AttrTypeId": 80,
+        "AttrTypeName": "普攻伤害"
+      },
+      {
+        "AttrTypeId": 81,
+        "AttrTypeName": "技能伤害"
+      },
+      {
+        "AttrTypeId": 82,
+        "AttrTypeName": "绝招伤害"
+      },
+      {
+        "AttrTypeId": 83,
+        "AttrTypeName": "印记伤害"
+      },
+      {
+        "AttrTypeId": 84,
+        "AttrTypeName": "仆从伤害"
+      },
+      {
+        "AttrTypeId": 85,
+        "AttrTypeName": "衍射物伤害"
+      },
+      {
+        "AttrTypeId": 86,
+        "AttrTypeName": "主控能量获取效率"
+      },
+      {
+        "AttrTypeId": 87,
+        "AttrTypeName": "支援能量获取效率"
+      },
+      {
+        "AttrTypeId": 88,
+        "AttrTypeName": "普攻暴击"
+      },
+      {
+        "AttrTypeId": 89,
+        "AttrTypeName": "技能暴击"
+      },
+      {
+        "AttrTypeId": 90,
+        "AttrTypeName": "绝招暴击"
+      },
+      {
+        "AttrTypeId": 91,
+        "AttrTypeName": "印记暴击"
+      },
+      {
+        "AttrTypeId": 92,
+        "AttrTypeName": "仆从暴击"
+      },
+      {
+        "AttrTypeId": 93,
+        "AttrTypeName": "衍生物暴击"
+      }
+    ]
+  },
+  "103": {
+    "Position": 1,
+    "AttrGroupIds": [
+      5,
+      6,
+      7,
+      8
+    ],
+    "UniqueAttrGroupId": 11,
+    "ParamTypes": [
+      {
+        "AttrTypeId": 35,
+        "AttrTypeName": "普通攻击等级提升"
+      },
+      {
+        "AttrTypeId": 36,
+        "AttrTypeName": "技能等级提升"
+      },
+      {
+        "AttrTypeId": 37,
+        "AttrTypeName": "支援技能等级提升"
+      },
+      {
+        "AttrTypeId": 38,
+        "AttrTypeName": "必杀等级提升"
+      },
+      {
+        "AttrTypeId": 60,
+        "AttrTypeName": "生命上限"
+      },
+      {
+        "AttrTypeId": 61,
+        "AttrTypeName": "攻击力"
+      },
+      {
+        "AttrTypeId": 62,
+        "AttrTypeName": "防御力"
+      },
+      {
+        "AttrTypeId": 63,
+        "AttrTypeName": "生命上限"
+      },
+      {
+        "AttrTypeId": 64,
+        "AttrTypeName": "攻击力"
+      },
+      {
+        "AttrTypeId": 65,
+        "AttrTypeName": "防御力"
+      },
+      {
+        "AttrTypeId": 66,
+        "AttrTypeName": "暴击伤害"
+      },
+      {
+        "AttrTypeId": 67,
+        "AttrTypeName": "暴击"
+      },
+      {
+        "AttrTypeId": 68,
+        "AttrTypeName": "水系伤害"
+      },
+      {
+        "AttrTypeId": 69,
+        "AttrTypeName": "火系伤害"
+      },
+      {
+        "AttrTypeId": 70,
+        "AttrTypeName": "地系伤害"
+      },
+      {
+        "AttrTypeId": 71,
+        "AttrTypeName": "风系伤害"
+      },
+      {
+        "AttrTypeId": 72,
+        "AttrTypeName": "光系伤害"
+      },
+      {
+        "AttrTypeId": 73,
+        "AttrTypeName": "暗系伤害"
+      },
+      {
+        "AttrTypeId": 74,
+        "AttrTypeName": "水系穿透"
+      },
+      {
+        "AttrTypeId": 75,
+        "AttrTypeName": "火系穿透"
+      },
+      {
+        "AttrTypeId": 76,
+        "AttrTypeName": "地系穿透"
+      },
+      {
+        "AttrTypeId": 77,
+        "AttrTypeName": "风系穿透"
+      },
+      {
+        "AttrTypeId": 78,
+        "AttrTypeName": "光系穿透"
+      },
+      {
+        "AttrTypeId": 79,
+        "AttrTypeName": "暗系穿透"
+      },
+      {
+        "AttrTypeId": 80,
+        "AttrTypeName": "普攻伤害"
+      },
+      {
+        "AttrTypeId": 81,
+        "AttrTypeName": "技能伤害"
+      },
+      {
+        "AttrTypeId": 82,
+        "AttrTypeName": "绝招伤害"
+      },
+      {
+        "AttrTypeId": 83,
+        "AttrTypeName": "印记伤害"
+      },
+      {
+        "AttrTypeId": 84,
+        "AttrTypeName": "仆从伤害"
+      },
+      {
+        "AttrTypeId": 85,
+        "AttrTypeName": "衍射物伤害"
+      },
+      {
+        "AttrTypeId": 86,
+        "AttrTypeName": "主控能量获取效率"
+      },
+      {
+        "AttrTypeId": 87,
+        "AttrTypeName": "支援能量获取效率"
+      },
+      {
+        "AttrTypeId": 88,
+        "AttrTypeName": "普攻暴击"
+      },
+      {
+        "AttrTypeId": 89,
+        "AttrTypeName": "技能暴击"
+      },
+      {
+        "AttrTypeId": 90,
+        "AttrTypeName": "绝招暴击"
+      },
+      {
+        "AttrTypeId": 91,
+        "AttrTypeName": "印记暴击"
+      },
+      {
+        "AttrTypeId": 92,
+        "AttrTypeName": "仆从暴击"
+      },
+      {
+        "AttrTypeId": 93,
+        "AttrTypeName": "衍生物暴击"
+      }
+    ]
+  },
+  "201": {
+    "Position": 2,
+    "AttrGroupIds": [
+      9,
+      10
+    ],
+    "UniqueAttrGroupId": 12,
+    "ParamTypes": [
+      {
+        "AttrTypeId": 39,
+        "AttrTypeName": "5号潜能提升"
+      },
+      {
+        "AttrTypeId": 40,
+        "AttrTypeName": "6号潜能提升"
+      },
+      {
+        "AttrTypeId": 41,
+        "AttrTypeName": "7号潜能提升"
+      },
+      {
+        "AttrTypeId": 42,
+        "AttrTypeName": "8号潜能提升"
+      },
+      {
+        "AttrTypeId": 43,
+        "AttrTypeName": "9号潜能提升"
+      },
+      {
+        "AttrTypeId": 44,
+        "AttrTypeName": "10号潜能提升"
+      },
+      {
+        "AttrTypeId": 45,
+        "AttrTypeName": "11号潜能提升"
+      },
+      {
+        "AttrTypeId": 46,
+        "AttrTypeName": "12号潜能提升"
+      },
+      {
+        "AttrTypeId": 47,
+        "AttrTypeName": "13号潜能提升"
+      },
+      {
+        "AttrTypeId": 48,
+        "AttrTypeName": "25号潜能提升"
+      },
+      {
+        "AttrTypeId": 49,
+        "AttrTypeName": "26号潜能提升"
+      },
+      {
+        "AttrTypeId": 50,
+        "AttrTypeName": "27号潜能提升"
+      },
+      {
+        "AttrTypeId": 51,
+        "AttrTypeName": "28号潜能提升"
+      },
+      {
+        "AttrTypeId": 52,
+        "AttrTypeName": "29号潜能提升"
+      },
+      {
+        "AttrTypeId": 53,
+        "AttrTypeName": "30号潜能提升"
+      },
+      {
+        "AttrTypeId": 54,
+        "AttrTypeName": "31号潜能提升"
+      },
+      {
+        "AttrTypeId": 55,
+        "AttrTypeName": "32号潜能提升"
+      },
+      {
+        "AttrTypeId": 56,
+        "AttrTypeName": "33号潜能提升"
+      },
+      {
+        "AttrTypeId": 57,
+        "AttrTypeName": "41号潜能提升"
+      },
+      {
+        "AttrTypeId": 58,
+        "AttrTypeName": "42号潜能提升"
+      },
+      {
+        "AttrTypeId": 59,
+        "AttrTypeName": "43号潜能提升"
+      },
+      {
+        "AttrTypeId": 94,
+        "AttrTypeName": "生命上限"
+      },
+      {
+        "AttrTypeId": 95,
+        "AttrTypeName": "攻击力"
+      },
+      {
+        "AttrTypeId": 96,
+        "AttrTypeName": "防御力"
+      },
+      {
+        "AttrTypeId": 97,
+        "AttrTypeName": "生命上限"
+      },
+      {
+        "AttrTypeId": 98,
+        "AttrTypeName": "攻击力"
+      },
+      {
+        "AttrTypeId": 99,
+        "AttrTypeName": "防御力"
+      },
+      {
+        "AttrTypeId": 100,
+        "AttrTypeName": "暴击伤害"
+      },
+      {
+        "AttrTypeId": 101,
+        "AttrTypeName": "水系伤害"
+      },
+      {
+        "AttrTypeId": 102,
+        "AttrTypeName": "火系伤害"
+      },
+      {
+        "AttrTypeId": 103,
+        "AttrTypeName": "地系伤害"
+      },
+      {
+        "AttrTypeId": 104,
+        "AttrTypeName": "风系伤害"
+      },
+      {
+        "AttrTypeId": 105,
+        "AttrTypeName": "光系伤害"
+      },
+      {
+        "AttrTypeId": 106,
+        "AttrTypeName": "暗系伤害"
+      },
+      {
+        "AttrTypeId": 107,
+        "AttrTypeName": "普攻伤害"
+      },
+      {
+        "AttrTypeId": 108,
+        "AttrTypeName": "技能伤害"
+      },
+      {
+        "AttrTypeId": 109,
+        "AttrTypeName": "绝招伤害"
+      },
+      {
+        "AttrTypeId": 110,
+        "AttrTypeName": "印记伤害"
+      },
+      {
+        "AttrTypeId": 111,
+        "AttrTypeName": "仆从伤害"
+      },
+      {
+        "AttrTypeId": 112,
+        "AttrTypeName": "衍射物伤害"
+      }
+    ]
+  },
+  "202": {
+    "Position": 2,
+    "AttrGroupIds": [
+      9,
+      10
+    ],
+    "UniqueAttrGroupId": 12,
+    "ParamTypes": [
+      {
+        "AttrTypeId": 39,
+        "AttrTypeName": "5号潜能提升"
+      },
+      {
+        "AttrTypeId": 40,
+        "AttrTypeName": "6号潜能提升"
+      },
+      {
+        "AttrTypeId": 41,
+        "AttrTypeName": "7号潜能提升"
+      },
+      {
+        "AttrTypeId": 42,
+        "AttrTypeName": "8号潜能提升"
+      },
+      {
+        "AttrTypeId": 43,
+        "AttrTypeName": "9号潜能提升"
+      },
+      {
+        "AttrTypeId": 44,
+        "AttrTypeName": "10号潜能提升"
+      },
+      {
+        "AttrTypeId": 45,
+        "AttrTypeName": "11号潜能提升"
+      },
+      {
+        "AttrTypeId": 46,
+        "AttrTypeName": "12号潜能提升"
+      },
+      {
+        "AttrTypeId": 47,
+        "AttrTypeName": "13号潜能提升"
+      },
+      {
+        "AttrTypeId": 48,
+        "AttrTypeName": "25号潜能提升"
+      },
+      {
+        "AttrTypeId": 49,
+        "AttrTypeName": "26号潜能提升"
+      },
+      {
+        "AttrTypeId": 50,
+        "AttrTypeName": "27号潜能提升"
+      },
+      {
+        "AttrTypeId": 51,
+        "AttrTypeName": "28号潜能提升"
+      },
+      {
+        "AttrTypeId": 52,
+        "AttrTypeName": "29号潜能提升"
+      },
+      {
+        "AttrTypeId": 53,
+        "AttrTypeName": "30号潜能提升"
+      },
+      {
+        "AttrTypeId": 54,
+        "AttrTypeName": "31号潜能提升"
+      },
+      {
+        "AttrTypeId": 55,
+        "AttrTypeName": "32号潜能提升"
+      },
+      {
+        "AttrTypeId": 56,
+        "AttrTypeName": "33号潜能提升"
+      },
+      {
+        "AttrTypeId": 57,
+        "AttrTypeName": "41号潜能提升"
+      },
+      {
+        "AttrTypeId": 58,
+        "AttrTypeName": "42号潜能提升"
+      },
+      {
+        "AttrTypeId": 59,
+        "AttrTypeName": "43号潜能提升"
+      },
+      {
+        "AttrTypeId": 94,
+        "AttrTypeName": "生命上限"
+      },
+      {
+        "AttrTypeId": 95,
+        "AttrTypeName": "攻击力"
+      },
+      {
+        "AttrTypeId": 96,
+        "AttrTypeName": "防御力"
+      },
+      {
+        "AttrTypeId": 97,
+        "AttrTypeName": "生命上限"
+      },
+      {
+        "AttrTypeId": 98,
+        "AttrTypeName": "攻击力"
+      },
+      {
+        "AttrTypeId": 99,
+        "AttrTypeName": "防御力"
+      },
+      {
+        "AttrTypeId": 100,
+        "AttrTypeName": "暴击伤害"
+      },
+      {
+        "AttrTypeId": 101,
+        "AttrTypeName": "水系伤害"
+      },
+      {
+        "AttrTypeId": 102,
+        "AttrTypeName": "火系伤害"
+      },
+      {
+        "AttrTypeId": 103,
+        "AttrTypeName": "地系伤害"
+      },
+      {
+        "AttrTypeId": 104,
+        "AttrTypeName": "风系伤害"
+      },
+      {
+        "AttrTypeId": 105,
+        "AttrTypeName": "光系伤害"
+      },
+      {
+        "AttrTypeId": 106,
+        "AttrTypeName": "暗系伤害"
+      },
+      {
+        "AttrTypeId": 107,
+        "AttrTypeName": "普攻伤害"
+      },
+      {
+        "AttrTypeId": 108,
+        "AttrTypeName": "技能伤害"
+      },
+      {
+        "AttrTypeId": 109,
+        "AttrTypeName": "绝招伤害"
+      },
+      {
+        "AttrTypeId": 110,
+        "AttrTypeName": "印记伤害"
+      },
+      {
+        "AttrTypeId": 111,
+        "AttrTypeName": "仆从伤害"
+      },
+      {
+        "AttrTypeId": 112,
+        "AttrTypeName": "衍射物伤害"
+      }
+    ]
+  },
+  "203": {
+    "Position": 2,
+    "AttrGroupIds": [
+      9,
+      10
+    ],
+    "UniqueAttrGroupId": 12,
+    "ParamTypes": [
+      {
+        "AttrTypeId": 39,
+        "AttrTypeName": "5号潜能提升"
+      },
+      {
+        "AttrTypeId": 40,
+        "AttrTypeName": "6号潜能提升"
+      },
+      {
+        "AttrTypeId": 41,
+        "AttrTypeName": "7号潜能提升"
+      },
+      {
+        "AttrTypeId": 42,
+        "AttrTypeName": "8号潜能提升"
+      },
+      {
+        "AttrTypeId": 43,
+        "AttrTypeName": "9号潜能提升"
+      },
+      {
+        "AttrTypeId": 44,
+        "AttrTypeName": "10号潜能提升"
+      },
+      {
+        "AttrTypeId": 45,
+        "AttrTypeName": "11号潜能提升"
+      },
+      {
+        "AttrTypeId": 46,
+        "AttrTypeName": "12号潜能提升"
+      },
+      {
+        "AttrTypeId": 47,
+        "AttrTypeName": "13号潜能提升"
+      },
+      {
+        "AttrTypeId": 48,
+        "AttrTypeName": "25号潜能提升"
+      },
+      {
+        "AttrTypeId": 49,
+        "AttrTypeName": "26号潜能提升"
+      },
+      {
+        "AttrTypeId": 50,
+        "AttrTypeName": "27号潜能提升"
+      },
+      {
+        "AttrTypeId": 51,
+        "AttrTypeName": "28号潜能提升"
+      },
+      {
+        "AttrTypeId": 52,
+        "AttrTypeName": "29号潜能提升"
+      },
+      {
+        "AttrTypeId": 53,
+        "AttrTypeName": "30号潜能提升"
+      },
+      {
+        "AttrTypeId": 54,
+        "AttrTypeName": "31号潜能提升"
+      },
+      {
+        "AttrTypeId": 55,
+        "AttrTypeName": "32号潜能提升"
+      },
+      {
+        "AttrTypeId": 56,
+        "AttrTypeName": "33号潜能提升"
+      },
+      {
+        "AttrTypeId": 57,
+        "AttrTypeName": "41号潜能提升"
+      },
+      {
+        "AttrTypeId": 58,
+        "AttrTypeName": "42号潜能提升"
+      },
+      {
+        "AttrTypeId": 59,
+        "AttrTypeName": "43号潜能提升"
+      },
+      {
+        "AttrTypeId": 94,
+        "AttrTypeName": "生命上限"
+      },
+      {
+        "AttrTypeId": 95,
+        "AttrTypeName": "攻击力"
+      },
+      {
+        "AttrTypeId": 96,
+        "AttrTypeName": "防御力"
+      },
+      {
+        "AttrTypeId": 97,
+        "AttrTypeName": "生命上限"
+      },
+      {
+        "AttrTypeId": 98,
+        "AttrTypeName": "攻击力"
+      },
+      {
+        "AttrTypeId": 99,
+        "AttrTypeName": "防御力"
+      },
+      {
+        "AttrTypeId": 100,
+        "AttrTypeName": "暴击伤害"
+      },
+      {
+        "AttrTypeId": 101,
+        "AttrTypeName": "水系伤害"
+      },
+      {
+        "AttrTypeId": 102,
+        "AttrTypeName": "火系伤害"
+      },
+      {
+        "AttrTypeId": 103,
+        "AttrTypeName": "地系伤害"
+      },
+      {
+        "AttrTypeId": 104,
+        "AttrTypeName": "风系伤害"
+      },
+      {
+        "AttrTypeId": 105,
+        "AttrTypeName": "光系伤害"
+      },
+      {
+        "AttrTypeId": 106,
+        "AttrTypeName": "暗系伤害"
+      },
+      {
+        "AttrTypeId": 107,
+        "AttrTypeName": "普攻伤害"
+      },
+      {
+        "AttrTypeId": 108,
+        "AttrTypeName": "技能伤害"
+      },
+      {
+        "AttrTypeId": 109,
+        "AttrTypeName": "绝招伤害"
+      },
+      {
+        "AttrTypeId": 110,
+        "AttrTypeName": "印记伤害"
+      },
+      {
+        "AttrTypeId": 111,
+        "AttrTypeName": "仆从伤害"
+      },
+      {
+        "AttrTypeId": 112,
+        "AttrTypeName": "衍射物伤害"
+      }
+    ]
+  },
+  "301": {
+    "Position": 3,
+    "AttrGroupIds": [],
+    "UniqueAttrGroupId": null,
+    "ParamTypes": []
+  },
+  "302": {
+    "Position": 3,
+    "AttrGroupIds": [],
+    "UniqueAttrGroupId": null,
+    "ParamTypes": []
+  },
+  "303": {
+    "Position": 3,
+    "AttrGroupIds": [],
+    "UniqueAttrGroupId": null,
+    "ParamTypes": []
+  }
+}

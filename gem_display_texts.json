@@ -1,0 +1,1628 @@
+{
+  "GemSlot:101": {
+    "Position": 1,
+    "AttrGroupIds": [
+      5,
+      6,
+      7,
+      8
+    ],
+    "UniqueAttrGroupId": 11,
+    "ParamDisplays": [
+      {
+        "AttrTypeId": 35,
+        "AttrTypeNameJa": "普通攻击等级提升",
+        "Template": null,
+        "Values": []
+      },
+      {
+        "AttrTypeId": 36,
+        "AttrTypeNameJa": "スキル等级提升",
+        "Template": null,
+        "Values": []
+      },
+      {
+        "AttrTypeId": 37,
+        "AttrTypeNameJa": "支援スキル等级提升",
+        "Template": null,
+        "Values": [
+          {
+            "ValueRaw": 0.1,
+            "Display": "支援スキル等级提升 +10.0%"
+          },
+          {
+            "ValueRaw": 0.125,
+            "Display": "支援スキル等级提升 +12.5%"
+          },
+          {
+            "ValueRaw": 0.135,
+            "Display": "支援スキル等级提升 +13.5%"
+          },
+          {
+            "ValueRaw": 0.15,
+            "Display": "支援スキル等级提升 +15.0%"
+          },
+          {
+            "ValueRaw": 0.17,
+            "Display": "支援スキル等级提升 +17.0%"
+          },
+          {
+            "ValueRaw": 0.203,
+            "Display": "支援スキル等级提升 +20.3%"
+          },
+          {
+            "ValueRaw": 0.3,
+            "Display": "支援スキル等级提升 +30.0%"
+          },
+          {
+            "ValueRaw": 0.4,
+            "Display": "支援スキル等级提升 +40.0%"
+          }
+        ]
+      },
+      {
+        "AttrTypeId": 38,
+        "AttrTypeNameJa": "必杀等级提升",
+        "Template": null,
+        "Values": []
+      },
+      {
+        "AttrTypeId": 60,
+        "AttrTypeNameJa": "HP上限",
+        "Template": null,
+        "Values": []
+      },
+      {
+        "AttrTypeId": 61,
+        "AttrTypeNameJa": "攻撃力",
+        "Template": "攻撃力",
+        "Values": []
+      },
+      {
+        "AttrTypeId": 62,
+        "AttrTypeNameJa": "防御力",
+        "Template": "防御力",
+        "Values": []
+      },
+      {
+        "AttrTypeId": 63,
+        "AttrTypeNameJa": "HP上限",
+        "Template": null,
+        "Values": []
+      },
+      {
+        "AttrTypeId": 64,
+        "AttrTypeNameJa": "攻撃力",
+        "Template": "攻撃力",
+        "Values": []
+      },
+      {
+        "AttrTypeId": 65,
+        "AttrTypeNameJa": "防御力",
+        "Template": "防御力",
+        "Values": []
+      },
+      {
+        "AttrTypeId": 66,
+        "AttrTypeNameJa": "会心ダメージ",
+        "Template": "会心ダメージ",
+        "Values": []
+      },
+      {
+        "AttrTypeId": 67,
+        "AttrTypeNameJa": "会心",
+        "Template": "会心率",
+        "Values": []
+      },
+      {
+        "AttrTypeId": 68,
+        "AttrTypeNameJa": "水属性ダメージ",
+        "Template": "水属性ダメージ",
+        "Values": []
+      },
+      {
+        "AttrTypeId": 69,
+        "AttrTypeNameJa": "火属性ダメージ",
+        "Template": "火属性ダメージ",
+        "Values": []
+      },
+      {
+        "AttrTypeId": 70,
+        "AttrTypeNameJa": "地属性ダメージ",
+        "Template": "地属性ダメージ",
+        "Values": []
+      },
+      {
+        "AttrTypeId": 71,
+        "AttrTypeNameJa": "風属性ダメージ",
+        "Template": "風属性ダメージ",
+        "Values": []
+      },
+      {
+        "AttrTypeId": 72,
+        "AttrTypeNameJa": "光属性ダメージ",
+        "Template": "光属性ダメージ",
+        "Values": []
+      },
+      {
+        "AttrTypeId": 73,
+        "AttrTypeNameJa": "闇属性ダメージ",
+        "Template": "闇属性ダメージ",
+        "Values": []
+      },
+      {
+        "AttrTypeId": 74,
+        "AttrTypeNameJa": "水系貫通",
+        "Template": null,
+        "Values": []
+      },
+      {
+        "AttrTypeId": 75,
+        "AttrTypeNameJa": "火系貫通",
+        "Template": null,
+        "Values": []
+      },
+      {
+        "AttrTypeId": 76,
+        "AttrTypeNameJa": "地系貫通",
+        "Template": null,
+        "Values": []
+      },
+      {
+        "AttrTypeId": 77,
+        "AttrTypeNameJa": "风系貫通",
+        "Template": null,
+        "Values": []
+      },
+      {
+        "AttrTypeId": 78,
+        "AttrTypeNameJa": "光系貫通",
+        "Template": null,
+        "Values": []
+      },
+      {
+        "AttrTypeId": 79,
+        "AttrTypeNameJa": "暗系貫通",
+        "Template": null,
+        "Values": []
+      },
+      {
+        "AttrTypeId": 80,
+        "AttrTypeNameJa": "普攻ダメージ",
+        "Template": null,
+        "Values": []
+      },
+      {
+        "AttrTypeId": 81,
+        "AttrTypeNameJa": "スキルダメージ",
+        "Template": "スキルダメージ",
+        "Values": []
+      },
+      {
+        "AttrTypeId": 82,
+        "AttrTypeNameJa": "必殺ダメージ",
+        "Template": null,
+        "Values": []
+      },
+      {
+        "AttrTypeId": 83,
+        "AttrTypeNameJa": "印記ダメージ",
+        "Template": null,
+        "Values": []
+      },
+      {
+        "AttrTypeId": 84,
+        "AttrTypeNameJa": "召喚ダメージ",
+        "Template": null,
+        "Values": []
+      },
+      {
+        "AttrTypeId": 85,
+        "AttrTypeNameJa": "衍射物ダメージ",
+        "Template": null,
+        "Values": []
+      },
+      {
+        "AttrTypeId": 86,
+        "AttrTypeNameJa": "主控エネルギー获取效率",
+        "Template": null,
+        "Values": []
+      },
+      {
+        "AttrTypeId": 87,
+        "AttrTypeNameJa": "支援エネルギー获取效率",
+        "Template": null,
+        "Values": []
+      },
+      {
+        "AttrTypeId": 88,
+        "AttrTypeNameJa": "普攻会心",
+        "Template": null,
+        "Values": []
+      },
+      {
+        "AttrTypeId": 89,
+        "AttrTypeNameJa": "スキル会心",
+        "Template": "スキル会心率",
+        "Values": []
+      },
+      {
+        "AttrTypeId": 90,
+        "AttrTypeNameJa": "必殺会心",
+        "Template": null,
+        "Values": []
+      },
+      {
+        "AttrTypeId": 91,
+        "AttrTypeNameJa": "印記会心",
+        "Template": null,
+        "Values": []
+      },
+      {
+        "AttrTypeId": 92,
+        "AttrTypeNameJa": "召喚会心",
+        "Template": null,
+        "Values": []
+      },
+      {
+        "AttrTypeId": 93,
+        "AttrTypeNameJa": "派生物会心",
+        "Template": "派生物会心率",
+        "Values": []
+      }
+    ]
+  },
+  "GemSlot:102": {
+    "Position": 1,
+    "AttrGroupIds": [
+      5,
+      6,
+      7,
+      8
+    ],
+    "UniqueAttrGroupId": 11,
+    "ParamDisplays": [
+      {
+        "AttrTypeId": 35,
+        "AttrTypeNameJa": "普通攻击等级提升",
+        "Template": null,
+        "Values": []
+      },
+      {
+        "AttrTypeId": 36,
+        "AttrTypeNameJa": "スキル等级提升",
+        "Template": null,
+        "Values": []
+      },
+      {
+        "AttrTypeId": 37,
+        "AttrTypeNameJa": "支援スキル等级提升",
+        "Template": null,
+        "Values": [
+          {
+            "ValueRaw": 0.1,
+            "Display": "支援スキル等级提升 +10.0%"
+          },
+          {
+            "ValueRaw": 0.125,
+            "Display": "支援スキル等级提升 +12.5%"
+          },
+          {
+            "ValueRaw": 0.135,
+            "Display": "支援スキル等级提升 +13.5%"
+          },
+          {
+            "ValueRaw": 0.15,
+            "Display": "支援スキル等级提升 +15.0%"
+          },
+          {
+            "ValueRaw": 0.17,
+            "Display": "支援スキル等级提升 +17.0%"
+          },
+          {
+            "ValueRaw": 0.203,
+            "Display": "支援スキル等级提升 +20.3%"
+          },
+          {
+            "ValueRaw": 0.3,
+            "Display": "支援スキル等级提升 +30.0%"
+          },
+          {
+            "ValueRaw": 0.4,
+            "Display": "支援スキル等级提升 +40.0%"
+          }
+        ]
+      },
+      {
+        "AttrTypeId": 38,
+        "AttrTypeNameJa": "必杀等级提升",
+        "Template": null,
+        "Values": []
+      },
+      {
+        "AttrTypeId": 60,
+        "AttrTypeNameJa": "HP上限",
+        "Template": null,
+        "Values": []
+      },
+      {
+        "AttrTypeId": 61,
+        "AttrTypeNameJa": "攻撃力",
+        "Template": "攻撃力",
+        "Values": []
+      },
+      {
+        "AttrTypeId": 62,
+        "AttrTypeNameJa": "防御力",
+        "Template": "防御力",
+        "Values": []
+      },
+      {
+        "AttrTypeId": 63,
+        "AttrTypeNameJa": "HP上限",
+        "Template": null,
+        "Values": []
+      },
+      {
+        "AttrTypeId": 64,
+        "AttrTypeNameJa": "攻撃力",
+        "Template": "攻撃力",
+        "Values": []
+      },
+      {
+        "AttrTypeId": 65,
+        "AttrTypeNameJa": "防御力",
+        "Template": "防御力",
+        "Values": []
+      },
+      {
+        "AttrTypeId": 66,
+        "AttrTypeNameJa": "会心ダメージ",
+        "Template": "会心ダメージ",
+        "Values": []
+      },
+      {
+        "AttrTypeId": 67,
+        "AttrTypeNameJa": "会心",
+        "Template": "会心率",
+        "Values": []
+      },
+      {
+        "AttrTypeId": 68,
+        "AttrTypeNameJa": "水属性ダメージ",
+        "Template": "水属性ダメージ",
+        "Values": []
+      },
+      {
+        "AttrTypeId": 69,
+        "AttrTypeNameJa": "火属性ダメージ",
+        "Template": "火属性ダメージ",
+        "Values": []
+      },
+      {
+        "AttrTypeId": 70,
+        "AttrTypeNameJa": "地属性ダメージ",
+        "Template": "地属性ダメージ",
+        "Values": []
+      },
+      {
+        "AttrTypeId": 71,
+        "AttrTypeNameJa": "風属性ダメージ",
+        "Template": "風属性ダメージ",
+        "Values": []
+      },
+      {
+        "AttrTypeId": 72,
+        "AttrTypeNameJa": "光属性ダメージ",
+        "Template": "光属性ダメージ",
+        "Values": []
+      },
+      {
+        "AttrTypeId": 73,
+        "AttrTypeNameJa": "闇属性ダメージ",
+        "Template": "闇属性ダメージ",
+        "Values": []
+      },
+      {
+        "AttrTypeId": 74,
+        "AttrTypeNameJa": "水系貫通",
+        "Template": null,
+        "Values": []
+      },
+      {
+        "AttrTypeId": 75,
+        "AttrTypeNameJa": "火系貫通",
+        "Template": null,
+        "Values": []
+      },
+      {
+        "AttrTypeId": 76,
+        "AttrTypeNameJa": "地系貫通",
+        "Template": null,
+        "Values": []
+      },
+      {
+        "AttrTypeId": 77,
+        "AttrTypeNameJa": "风系貫通",
+        "Template": null,
+        "Values": []
+      },
+      {
+        "AttrTypeId": 78,
+        "AttrTypeNameJa": "光系貫通",
+        "Template": null,
+        "Values": []
+      },
+      {
+        "AttrTypeId": 79,
+        "AttrTypeNameJa": "暗系貫通",
+        "Template": null,
+        "Values": []
+      },
+      {
+        "AttrTypeId": 80,
+        "AttrTypeNameJa": "普攻ダメージ",
+        "Template": null,
+        "Values": []
+      },
+      {
+        "AttrTypeId": 81,
+        "AttrTypeNameJa": "スキルダメージ",
+        "Template": "スキルダメージ",
+        "Values": []
+      },
+      {
+        "AttrTypeId": 82,
+        "AttrTypeNameJa": "必殺ダメージ",
+        "Template": null,
+        "Values": []
+      },
+      {
+        "AttrTypeId": 83,
+        "AttrTypeNameJa": "印記ダメージ",
+        "Template": null,
+        "Values": []
+      },
+      {
+        "AttrTypeId": 84,
+        "AttrTypeNameJa": "召喚ダメージ",
+        "Template": null,
+        "Values": []
+      },
+      {
+        "AttrTypeId": 85,
+        "AttrTypeNameJa": "衍射物ダメージ",
+        "Template": null,
+        "Values": []
+      },
+      {
+        "AttrTypeId": 86,
+        "AttrTypeNameJa": "主控エネルギー获取效率",
+        "Template": null,
+        "Values": []
+      },
+      {
+        "AttrTypeId": 87,
+        "AttrTypeNameJa": "支援エネルギー获取效率",
+        "Template": null,
+        "Values": []
+      },
+      {
+        "AttrTypeId": 88,
+        "AttrTypeNameJa": "普攻会心",
+        "Template": null,
+        "Values": []
+      },
+      {
+        "AttrTypeId": 89,
+        "AttrTypeNameJa": "スキル会心",
+        "Template": "スキル会心率",
+        "Values": []
+      },
+      {
+        "AttrTypeId": 90,
+        "AttrTypeNameJa": "必殺会心",
+        "Template": null,
+        "Values": []
+      },
+      {
+        "AttrTypeId": 91,
+        "AttrTypeNameJa": "印記会心",
+        "Template": null,
+        "Values": []
+      },
+      {
+        "AttrTypeId": 92,
+        "AttrTypeNameJa": "召喚会心",
+        "Template": null,
+        "Values": []
+      },
+      {
+        "AttrTypeId": 93,
+        "AttrTypeNameJa": "派生物会心",
+        "Template": "派生物会心率",
+        "Values": []
+      }
+    ]
+  },
+  "GemSlot:103": {
+    "Position": 1,
+    "AttrGroupIds": [
+      5,
+      6,
+      7,
+      8
+    ],
+    "UniqueAttrGroupId": 11,
+    "ParamDisplays": [
+      {
+        "AttrTypeId": 35,
+        "AttrTypeNameJa": "普通攻击等级提升",
+        "Template": null,
+        "Values": []
+      },
+      {
+        "AttrTypeId": 36,
+        "AttrTypeNameJa": "スキル等级提升",
+        "Template": null,
+        "Values": []
+      },
+      {
+        "AttrTypeId": 37,
+        "AttrTypeNameJa": "支援スキル等级提升",
+        "Template": null,
+        "Values": [
+          {
+            "ValueRaw": 0.1,
+            "Display": "支援スキル等级提升 +10.0%"
+          },
+          {
+            "ValueRaw": 0.125,
+            "Display": "支援スキル等级提升 +12.5%"
+          },
+          {
+            "ValueRaw": 0.135,
+            "Display": "支援スキル等级提升 +13.5%"
+          },
+          {
+            "ValueRaw": 0.15,
+            "Display": "支援スキル等级提升 +15.0%"
+          },
+          {
+            "ValueRaw": 0.17,
+            "Display": "支援スキル等级提升 +17.0%"
+          },
+          {
+            "ValueRaw": 0.203,
+            "Display": "支援スキル等级提升 +20.3%"
+          },
+          {
+            "ValueRaw": 0.3,
+            "Display": "支援スキル等级提升 +30.0%"
+          },
+          {
+            "ValueRaw": 0.4,
+            "Display": "支援スキル等级提升 +40.0%"
+          }
+        ]
+      },
+      {
+        "AttrTypeId": 38,
+        "AttrTypeNameJa": "必杀等级提升",
+        "Template": null,
+        "Values": []
+      },
+      {
+        "AttrTypeId": 60,
+        "AttrTypeNameJa": "HP上限",
+        "Template": null,
+        "Values": []
+      },
+      {
+        "AttrTypeId": 61,
+        "AttrTypeNameJa": "攻撃力",
+        "Template": "攻撃力",
+        "Values": []
+      },
+      {
+        "AttrTypeId": 62,
+        "AttrTypeNameJa": "防御力",
+        "Template": "防御力",
+        "Values": []
+      },
+      {
+        "AttrTypeId": 63,
+        "AttrTypeNameJa": "HP上限",
+        "Template": null,
+        "Values": []
+      },
+      {
+        "AttrTypeId": 64,
+        "AttrTypeNameJa": "攻撃力",
+        "Template": "攻撃力",
+        "Values": []
+      },
+      {
+        "AttrTypeId": 65,
+        "AttrTypeNameJa": "防御力",
+        "Template": "防御力",
+        "Values": []
+      },
+      {
+        "AttrTypeId": 66,
+        "AttrTypeNameJa": "会心ダメージ",
+        "Template": "会心ダメージ",
+        "Values": []
+      },
+      {
+        "AttrTypeId": 67,
+        "AttrTypeNameJa": "会心",
+        "Template": "会心率",
+        "Values": []
+      },
+      {
+        "AttrTypeId": 68,
+        "AttrTypeNameJa": "水属性ダメージ",
+        "Template": "水属性ダメージ",
+        "Values": []
+      },
+      {
+        "AttrTypeId": 69,
+        "AttrTypeNameJa": "火属性ダメージ",
+        "Template": "火属性ダメージ",
+        "Values": []
+      },
+      {
+        "AttrTypeId": 70,
+        "AttrTypeNameJa": "地属性ダメージ",
+        "Template": "地属性ダメージ",
+        "Values": []
+      },
+      {
+        "AttrTypeId": 71,
+        "AttrTypeNameJa": "風属性ダメージ",
+        "Template": "風属性ダメージ",
+        "Values": []
+      },
+      {
+        "AttrTypeId": 72,
+        "AttrTypeNameJa": "光属性ダメージ",
+        "Template": "光属性ダメージ",
+        "Values": []
+      },
+      {
+        "AttrTypeId": 73,
+        "AttrTypeNameJa": "闇属性ダメージ",
+        "Template": "闇属性ダメージ",
+        "Values": []
+      },
+      {
+        "AttrTypeId": 74,
+        "AttrTypeNameJa": "水系貫通",
+        "Template": null,
+        "Values": []
+      },
+      {
+        "AttrTypeId": 75,
+        "AttrTypeNameJa": "火系貫通",
+        "Template": null,
+        "Values": []
+      },
+      {
+        "AttrTypeId": 76,
+        "AttrTypeNameJa": "地系貫通",
+        "Template": null,
+        "Values": []
+      },
+      {
+        "AttrTypeId": 77,
+        "AttrTypeNameJa": "风系貫通",
+        "Template": null,
+        "Values": []
+      },
+      {
+        "AttrTypeId": 78,
+        "AttrTypeNameJa": "光系貫通",
+        "Template": null,
+        "Values": []
+      },
+      {
+        "AttrTypeId": 79,
+        "AttrTypeNameJa": "暗系貫通",
+        "Template": null,
+        "Values": []
+      },
+      {
+        "AttrTypeId": 80,
+        "AttrTypeNameJa": "普攻ダメージ",
+        "Template": null,
+        "Values": []
+      },
+      {
+        "AttrTypeId": 81,
+        "AttrTypeNameJa": "スキルダメージ",
+        "Template": "スキルダメージ",
+        "Values": []
+      },
+      {
+        "AttrTypeId": 82,
+        "AttrTypeNameJa": "必殺ダメージ",
+        "Template": null,
+        "Values": []
+      },
+      {
+        "AttrTypeId": 83,
+        "AttrTypeNameJa": "印記ダメージ",
+        "Template": null,
+        "Values": []
+      },
+      {
+        "AttrTypeId": 84,
+        "AttrTypeNameJa": "召喚ダメージ",
+        "Template": null,
+        "Values": []
+      },
+      {
+        "AttrTypeId": 85,
+        "AttrTypeNameJa": "衍射物ダメージ",
+        "Template": null,
+        "Values": []
+      },
+      {
+        "AttrTypeId": 86,
+        "AttrTypeNameJa": "主控エネルギー获取效率",
+        "Template": null,
+        "Values": []
+      },
+      {
+        "AttrTypeId": 87,
+        "AttrTypeNameJa": "支援エネルギー获取效率",
+        "Template": null,
+        "Values": []
+      },
+      {
+        "AttrTypeId": 88,
+        "AttrTypeNameJa": "普攻会心",
+        "Template": null,
+        "Values": []
+      },
+      {
+        "AttrTypeId": 89,
+        "AttrTypeNameJa": "スキル会心",
+        "Template": "スキル会心率",
+        "Values": []
+      },
+      {
+        "AttrTypeId": 90,
+        "AttrTypeNameJa": "必殺会心",
+        "Template": null,
+        "Values": []
+      },
+      {
+        "AttrTypeId": 91,
+        "AttrTypeNameJa": "印記会心",
+        "Template": null,
+        "Values": []
+      },
+      {
+        "AttrTypeId": 92,
+        "AttrTypeNameJa": "召喚会心",
+        "Template": null,
+        "Values": []
+      },
+      {
+        "AttrTypeId": 93,
+        "AttrTypeNameJa": "派生物会心",
+        "Template": "派生物会心率",
+        "Values": []
+      }
+    ]
+  },
+  "GemSlot:201": {
+    "Position": 2,
+    "AttrGroupIds": [
+      9,
+      10
+    ],
+    "UniqueAttrGroupId": 12,
+    "ParamDisplays": [
+      {
+        "AttrTypeId": 39,
+        "AttrTypeNameJa": "5号潜能提升",
+        "Template": null,
+        "Values": []
+      },
+      {
+        "AttrTypeId": 40,
+        "AttrTypeNameJa": "6号潜能提升",
+        "Template": null,
+        "Values": []
+      },
+      {
+        "AttrTypeId": 41,
+        "AttrTypeNameJa": "7号潜能提升",
+        "Template": null,
+        "Values": []
+      },
+      {
+        "AttrTypeId": 42,
+        "AttrTypeNameJa": "8号潜能提升",
+        "Template": null,
+        "Values": []
+      },
+      {
+        "AttrTypeId": 43,
+        "AttrTypeNameJa": "9号潜能提升",
+        "Template": null,
+        "Values": []
+      },
+      {
+        "AttrTypeId": 44,
+        "AttrTypeNameJa": "10号潜能提升",
+        "Template": null,
+        "Values": []
+      },
+      {
+        "AttrTypeId": 45,
+        "AttrTypeNameJa": "11号潜能提升",
+        "Template": null,
+        "Values": []
+      },
+      {
+        "AttrTypeId": 46,
+        "AttrTypeNameJa": "12号潜能提升",
+        "Template": null,
+        "Values": []
+      },
+      {
+        "AttrTypeId": 47,
+        "AttrTypeNameJa": "13号潜能提升",
+        "Template": null,
+        "Values": []
+      },
+      {
+        "AttrTypeId": 48,
+        "AttrTypeNameJa": "25号潜能提升",
+        "Template": null,
+        "Values": []
+      },
+      {
+        "AttrTypeId": 49,
+        "AttrTypeNameJa": "26号潜能提升",
+        "Template": null,
+        "Values": []
+      },
+      {
+        "AttrTypeId": 50,
+        "AttrTypeNameJa": "27号潜能提升",
+        "Template": null,
+        "Values": []
+      },
+      {
+        "AttrTypeId": 51,
+        "AttrTypeNameJa": "28号潜能提升",
+        "Template": null,
+        "Values": []
+      },
+      {
+        "AttrTypeId": 52,
+        "AttrTypeNameJa": "29号潜能提升",
+        "Template": null,
+        "Values": []
+      },
+      {
+        "AttrTypeId": 53,
+        "AttrTypeNameJa": "30号潜能提升",
+        "Template": null,
+        "Values": []
+      },
+      {
+        "AttrTypeId": 54,
+        "AttrTypeNameJa": "31号潜能提升",
+        "Template": null,
+        "Values": []
+      },
+      {
+        "AttrTypeId": 55,
+        "AttrTypeNameJa": "32号潜能提升",
+        "Template": null,
+        "Values": []
+      },
+      {
+        "AttrTypeId": 56,
+        "AttrTypeNameJa": "33号潜能提升",
+        "Template": null,
+        "Values": []
+      },
+      {
+        "AttrTypeId": 57,
+        "AttrTypeNameJa": "41号潜能提升",
+        "Template": null,
+        "Values": []
+      },
+      {
+        "AttrTypeId": 58,
+        "AttrTypeNameJa": "42号潜能提升",
+        "Template": null,
+        "Values": []
+      },
+      {
+        "AttrTypeId": 59,
+        "AttrTypeNameJa": "43号潜能提升",
+        "Template": null,
+        "Values": []
+      },
+      {
+        "AttrTypeId": 94,
+        "AttrTypeNameJa": "HP上限",
+        "Template": null,
+        "Values": []
+      },
+      {
+        "AttrTypeId": 95,
+        "AttrTypeNameJa": "攻撃力",
+        "Template": "攻撃力",
+        "Values": []
+      },
+      {
+        "AttrTypeId": 96,
+        "AttrTypeNameJa": "防御力",
+        "Template": "防御力",
+        "Values": []
+      },
+      {
+        "AttrTypeId": 97,
+        "AttrTypeNameJa": "HP上限",
+        "Template": null,
+        "Values": []
+      },
+      {
+        "AttrTypeId": 98,
+        "AttrTypeNameJa": "攻撃力",
+        "Template": "攻撃力",
+        "Values": []
+      },
+      {
+        "AttrTypeId": 99,
+        "AttrTypeNameJa": "防御力",
+        "Template": "防御力",
+        "Values": [
+          {
+            "ValueRaw": 1,
+            "Display": "防御力：1"
+          },
+          {
+            "ValueRaw": 2,
+            "Display": "防御力：2"
+          },
+          {
+            "ValueRaw": 3,
+            "Display": "防御力：3"
+          }
+        ]
+      },
+      {
+        "AttrTypeId": 100,
+        "AttrTypeNameJa": "会心ダメージ",
+        "Template": "会心ダメージ",
+        "Values": []
+      },
+      {
+        "AttrTypeId": 101,
+        "AttrTypeNameJa": "水属性ダメージ",
+        "Template": "水属性ダメージ",
+        "Values": []
+      },
+      {
+        "AttrTypeId": 102,
+        "AttrTypeNameJa": "火属性ダメージ",
+        "Template": "火属性ダメージ",
+        "Values": []
+      },
+      {
+        "AttrTypeId": 103,
+        "AttrTypeNameJa": "地属性ダメージ",
+        "Template": "地属性ダメージ",
+        "Values": []
+      },
+      {
+        "AttrTypeId": 104,
+        "AttrTypeNameJa": "風属性ダメージ",
+        "Template": "風属性ダメージ",
+        "Values": []
+      },
+      {
+        "AttrTypeId": 105,
+        "AttrTypeNameJa": "光属性ダメージ",
+        "Template": "光属性ダメージ",
+        "Values": []
+      },
+      {
+        "AttrTypeId": 106,
+        "AttrTypeNameJa": "闇属性ダメージ",
+        "Template": "闇属性ダメージ",
+        "Values": []
+      },
+      {
+        "AttrTypeId": 107,
+        "AttrTypeNameJa": "普攻ダメージ",
+        "Template": null,
+        "Values": []
+      },
+      {
+        "AttrTypeId": 108,
+        "AttrTypeNameJa": "スキルダメージ",
+        "Template": "スキルダメージ",
+        "Values": []
+      },
+      {
+        "AttrTypeId": 109,
+        "AttrTypeNameJa": "必殺ダメージ",
+        "Template": null,
+        "Values": []
+      },
+      {
+        "AttrTypeId": 110,
+        "AttrTypeNameJa": "印記ダメージ",
+        "Template": null,
+        "Values": []
+      },
+      {
+        "AttrTypeId": 111,
+        "AttrTypeNameJa": "召喚ダメージ",
+        "Template": null,
+        "Values": []
+      },
+      {
+        "AttrTypeId": 112,
+        "AttrTypeNameJa": "衍射物ダメージ",
+        "Template": null,
+        "Values": []
+      }
+    ]
+  },
+  "GemSlot:202": {
+    "Position": 2,
+    "AttrGroupIds": [
+      9,
+      10
+    ],
+    "UniqueAttrGroupId": 12,
+    "ParamDisplays": [
+      {
+        "AttrTypeId": 39,
+        "AttrTypeNameJa": "5号潜能提升",
+        "Template": null,
+        "Values": []
+      },
+      {
+        "AttrTypeId": 40,
+        "AttrTypeNameJa": "6号潜能提升",
+        "Template": null,
+        "Values": []
+      },
+      {
+        "AttrTypeId": 41,
+        "AttrTypeNameJa": "7号潜能提升",
+        "Template": null,
+        "Values": []
+      },
+      {
+        "AttrTypeId": 42,
+        "AttrTypeNameJa": "8号潜能提升",
+        "Template": null,
+        "Values": []
+      },
+      {
+        "AttrTypeId": 43,
+        "AttrTypeNameJa": "9号潜能提升",
+        "Template": null,
+        "Values": []
+      },
+      {
+        "AttrTypeId": 44,
+        "AttrTypeNameJa": "10号潜能提升",
+        "Template": null,
+        "Values": []
+      },
+      {
+        "AttrTypeId": 45,
+        "AttrTypeNameJa": "11号潜能提升",
+        "Template": null,
+        "Values": []
+      },
+      {
+        "AttrTypeId": 46,
+        "AttrTypeNameJa": "12号潜能提升",
+        "Template": null,
+        "Values": []
+      },
+      {
+        "AttrTypeId": 47,
+        "AttrTypeNameJa": "13号潜能提升",
+        "Template": null,
+        "Values": []
+      },
+      {
+        "AttrTypeId": 48,
+        "AttrTypeNameJa": "25号潜能提升",
+        "Template": null,
+        "Values": []
+      },
+      {
+        "AttrTypeId": 49,
+        "AttrTypeNameJa": "26号潜能提升",
+        "Template": null,
+        "Values": []
+      },
+      {
+        "AttrTypeId": 50,
+        "AttrTypeNameJa": "27号潜能提升",
+        "Template": null,
+        "Values": []
+      },
+      {
+        "AttrTypeId": 51,
+        "AttrTypeNameJa": "28号潜能提升",
+        "Template": null,
+        "Values": []
+      },
+      {
+        "AttrTypeId": 52,
+        "AttrTypeNameJa": "29号潜能提升",
+        "Template": null,
+        "Values": []
+      },
+      {
+        "AttrTypeId": 53,
+        "AttrTypeNameJa": "30号潜能提升",
+        "Template": null,
+        "Values": []
+      },
+      {
+        "AttrTypeId": 54,
+        "AttrTypeNameJa": "31号潜能提升",
+        "Template": null,
+        "Values": []
+      },
+      {
+        "AttrTypeId": 55,
+        "AttrTypeNameJa": "32号潜能提升",
+        "Template": null,
+        "Values": []
+      },
+      {
+        "AttrTypeId": 56,
+        "AttrTypeNameJa": "33号潜能提升",
+        "Template": null,
+        "Values": []
+      },
+      {
+        "AttrTypeId": 57,
+        "AttrTypeNameJa": "41号潜能提升",
+        "Template": null,
+        "Values": []
+      },
+      {
+        "AttrTypeId": 58,
+        "AttrTypeNameJa": "42号潜能提升",
+        "Template": null,
+        "Values": []
+      },
+      {
+        "AttrTypeId": 59,
+        "AttrTypeNameJa": "43号潜能提升",
+        "Template": null,
+        "Values": []
+      },
+      {
+        "AttrTypeId": 94,
+        "AttrTypeNameJa": "HP上限",
+        "Template": null,
+        "Values": []
+      },
+      {
+        "AttrTypeId": 95,
+        "AttrTypeNameJa": "攻撃力",
+        "Template": "攻撃力",
+        "Values": []
+      },
+      {
+        "AttrTypeId": 96,
+        "AttrTypeNameJa": "防御力",
+        "Template": "防御力",
+        "Values": []
+      },
+      {
+        "AttrTypeId": 97,
+        "AttrTypeNameJa": "HP上限",
+        "Template": null,
+        "Values": []
+      },
+      {
+        "AttrTypeId": 98,
+        "AttrTypeNameJa": "攻撃力",
+        "Template": "攻撃力",
+        "Values": []
+      },
+      {
+        "AttrTypeId": 99,
+        "AttrTypeNameJa": "防御力",
+        "Template": "防御力",
+        "Values": [
+          {
+            "ValueRaw": 1,
+            "Display": "防御力：1"
+          },
+          {
+            "ValueRaw": 2,
+            "Display": "防御力：2"
+          },
+          {
+            "ValueRaw": 3,
+            "Display": "防御力：3"
+          }
+        ]
+      },
+      {
+        "AttrTypeId": 100,
+        "AttrTypeNameJa": "会心ダメージ",
+        "Template": "会心ダメージ",
+        "Values": []
+      },
+      {
+        "AttrTypeId": 101,
+        "AttrTypeNameJa": "水属性ダメージ",
+        "Template": "水属性ダメージ",
+        "Values": []
+      },
+      {
+        "AttrTypeId": 102,
+        "AttrTypeNameJa": "火属性ダメージ",
+        "Template": "火属性ダメージ",
+        "Values": []
+      },
+      {
+        "AttrTypeId": 103,
+        "AttrTypeNameJa": "地属性ダメージ",
+        "Template": "地属性ダメージ",
+        "Values": []
+      },
+      {
+        "AttrTypeId": 104,
+        "AttrTypeNameJa": "風属性ダメージ",
+        "Template": "風属性ダメージ",
+        "Values": []
+      },
+      {
+        "AttrTypeId": 105,
+        "AttrTypeNameJa": "光属性ダメージ",
+        "Template": "光属性ダメージ",
+        "Values": []
+      },
+      {
+        "AttrTypeId": 106,
+        "AttrTypeNameJa": "闇属性ダメージ",
+        "Template": "闇属性ダメージ",
+        "Values": []
+      },
+      {
+        "AttrTypeId": 107,
+        "AttrTypeNameJa": "普攻ダメージ",
+        "Template": null,
+        "Values": []
+      },
+      {
+        "AttrTypeId": 108,
+        "AttrTypeNameJa": "スキルダメージ",
+        "Template": "スキルダメージ",
+        "Values": []
+      },
+      {
+        "AttrTypeId": 109,
+        "AttrTypeNameJa": "必殺ダメージ",
+        "Template": null,
+        "Values": []
+      },
+      {
+        "AttrTypeId": 110,
+        "AttrTypeNameJa": "印記ダメージ",
+        "Template": null,
+        "Values": []
+      },
+      {
+        "AttrTypeId": 111,
+        "AttrTypeNameJa": "召喚ダメージ",
+        "Template": null,
+        "Values": []
+      },
+      {
+        "AttrTypeId": 112,
+        "AttrTypeNameJa": "衍射物ダメージ",
+        "Template": null,
+        "Values": []
+      }
+    ]
+  },
+  "GemSlot:203": {
+    "Position": 2,
+    "AttrGroupIds": [
+      9,
+      10
+    ],
+    "UniqueAttrGroupId": 12,
+    "ParamDisplays": [
+      {
+        "AttrTypeId": 39,
+        "AttrTypeNameJa": "5号潜能提升",
+        "Template": null,
+        "Values": []
+      },
+      {
+        "AttrTypeId": 40,
+        "AttrTypeNameJa": "6号潜能提升",
+        "Template": null,
+        "Values": []
+      },
+      {
+        "AttrTypeId": 41,
+        "AttrTypeNameJa": "7号潜能提升",
+        "Template": null,
+        "Values": []
+      },
+      {
+        "AttrTypeId": 42,
+        "AttrTypeNameJa": "8号潜能提升",
+        "Template": null,
+        "Values": []
+      },
+      {
+        "AttrTypeId": 43,
+        "AttrTypeNameJa": "9号潜能提升",
+        "Template": null,
+        "Values": []
+      },
+      {
+        "AttrTypeId": 44,
+        "AttrTypeNameJa": "10号潜能提升",
+        "Template": null,
+        "Values": []
+      },
+      {
+        "AttrTypeId": 45,
+        "AttrTypeNameJa": "11号潜能提升",
+        "Template": null,
+        "Values": []
+      },
+      {
+        "AttrTypeId": 46,
+        "AttrTypeNameJa": "12号潜能提升",
+        "Template": null,
+        "Values": []
+      },
+      {
+        "AttrTypeId": 47,
+        "AttrTypeNameJa": "13号潜能提升",
+        "Template": null,
+        "Values": []
+      },
+      {
+        "AttrTypeId": 48,
+        "AttrTypeNameJa": "25号潜能提升",
+        "Template": null,
+        "Values": []
+      },
+      {
+        "AttrTypeId": 49,
+        "AttrTypeNameJa": "26号潜能提升",
+        "Template": null,
+        "Values": []
+      },
+      {
+        "AttrTypeId": 50,
+        "AttrTypeNameJa": "27号潜能提升",
+        "Template": null,
+        "Values": []
+      },
+      {
+        "AttrTypeId": 51,
+        "AttrTypeNameJa": "28号潜能提升",
+        "Template": null,
+        "Values": []
+      },
+      {
+        "AttrTypeId": 52,
+        "AttrTypeNameJa": "29号潜能提升",
+        "Template": null,
+        "Values": []
+      },
+      {
+        "AttrTypeId": 53,
+        "AttrTypeNameJa": "30号潜能提升",
+        "Template": null,
+        "Values": []
+      },
+      {
+        "AttrTypeId": 54,
+        "AttrTypeNameJa": "31号潜能提升",
+        "Template": null,
+        "Values": []
+      },
+      {
+        "AttrTypeId": 55,
+        "AttrTypeNameJa": "32号潜能提升",
+        "Template": null,
+        "Values": []
+      },
+      {
+        "AttrTypeId": 56,
+        "AttrTypeNameJa": "33号潜能提升",
+        "Template": null,
+        "Values": []
+      },
+      {
+        "AttrTypeId": 57,
+        "AttrTypeNameJa": "41号潜能提升",
+        "Template": null,
+        "Values": []
+      },
+      {
+        "AttrTypeId": 58,
+        "AttrTypeNameJa": "42号潜能提升",
+        "Template": null,
+        "Values": []
+      },
+      {
+        "AttrTypeId": 59,
+        "AttrTypeNameJa": "43号潜能提升",
+        "Template": null,
+        "Values": []
+      },
+      {
+        "AttrTypeId": 94,
+        "AttrTypeNameJa": "HP上限",
+        "Template": null,
+        "Values": []
+      },
+      {
+        "AttrTypeId": 95,
+        "AttrTypeNameJa": "攻撃力",
+        "Template": "攻撃力",
+        "Values": []
+      },
+      {
+        "AttrTypeId": 96,
+        "AttrTypeNameJa": "防御力",
+        "Template": "防御力",
+        "Values": []
+      },
+      {
+        "AttrTypeId": 97,
+        "AttrTypeNameJa": "HP上限",
+        "Template": null,
+        "Values": []
+      },
+      {
+        "AttrTypeId": 98,
+        "AttrTypeNameJa": "攻撃力",
+        "Template": "攻撃力",
+        "Values": []
+      },
+      {
+        "AttrTypeId": 99,
+        "AttrTypeNameJa": "防御力",
+        "Template": "防御力",
+        "Values": [
+          {
+            "ValueRaw": 1,
+            "Display": "防御力：1"
+          },
+          {
+            "ValueRaw": 2,
+            "Display": "防御力：2"
+          },
+          {
+            "ValueRaw": 3,
+            "Display": "防御力：3"
+          }
+        ]
+      },
+      {
+        "AttrTypeId": 100,
+        "AttrTypeNameJa": "会心ダメージ",
+        "Template": "会心ダメージ",
+        "Values": []
+      },
+      {
+        "AttrTypeId": 101,
+        "AttrTypeNameJa": "水属性ダメージ",
+        "Template": "水属性ダメージ",
+        "Values": []
+      },
+      {
+        "AttrTypeId": 102,
+        "AttrTypeNameJa": "火属性ダメージ",
+        "Template": "火属性ダメージ",
+        "Values": []
+      },
+      {
+        "AttrTypeId": 103,
+        "AttrTypeNameJa": "地属性ダメージ",
+        "Template": "地属性ダメージ",
+        "Values": []
+      },
+      {
+        "AttrTypeId": 104,
+        "AttrTypeNameJa": "風属性ダメージ",
+        "Template": "風属性ダメージ",
+        "Values": []
+      },
+      {
+        "AttrTypeId": 105,
+        "AttrTypeNameJa": "光属性ダメージ",
+        "Template": "光属性ダメージ",
+        "Values": []
+      },
+      {
+        "AttrTypeId": 106,
+        "AttrTypeNameJa": "闇属性ダメージ",
+        "Template": "闇属性ダメージ",
+        "Values": []
+      },
+      {
+        "AttrTypeId": 107,
+        "AttrTypeNameJa": "普攻ダメージ",
+        "Template": null,
+        "Values": []
+      },
+      {
+        "AttrTypeId": 108,
+        "AttrTypeNameJa": "スキルダメージ",
+        "Template": "スキルダメージ",
+        "Values": []
+      },
+      {
+        "AttrTypeId": 109,
+        "AttrTypeNameJa": "必殺ダメージ",
+        "Template": null,
+        "Values": []
+      },
+      {
+        "AttrTypeId": 110,
+        "AttrTypeNameJa": "印記ダメージ",
+        "Template": null,
+        "Values": []
+      },
+      {
+        "AttrTypeId": 111,
+        "AttrTypeNameJa": "召喚ダメージ",
+        "Template": null,
+        "Values": []
+      },
+      {
+        "AttrTypeId": 112,
+        "AttrTypeNameJa": "衍射物ダメージ",
+        "Template": null,
+        "Values": []
+      }
+    ]
+  },
+  "GemSlot:301": {
+    "Position": 3,
+    "AttrGroupIds": [],
+    "UniqueAttrGroupId": null,
+    "ParamDisplays": []
+  },
+  "GemSlot:302": {
+    "Position": 3,
+    "AttrGroupIds": [],
+    "UniqueAttrGroupId": null,
+    "ParamDisplays": []
+  },
+  "GemSlot:303": {
+    "Position": 3,
+    "AttrGroupIds": [],
+    "UniqueAttrGroupId": null,
+    "ParamDisplays": []
+  }
+}

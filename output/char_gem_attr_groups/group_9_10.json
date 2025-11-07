@@ -1,0 +1,438 @@
+{
+  "GroupIds": [
+    9,
+    10
+  ],
+  "Groups": {
+    "9": {
+      "GroupId": 9,
+      "Weight": 5117,
+      "Names": {
+        "HP": [
+          {
+            "TypeId": 97,
+            "Rarity": 1,
+            "Value": "12%"
+          },
+          {
+            "TypeId": 97,
+            "Rarity": 2,
+            "Value": "6%"
+          },
+          {
+            "TypeId": 97,
+            "Rarity": 3,
+            "Value": "5%"
+          },
+          {
+            "TypeId": 97,
+            "Rarity": 4,
+            "Value": "4%"
+          }
+        ],
+        "基礎HP": [
+          {
+            "TypeId": 94,
+            "Rarity": 1,
+            "Value": "2040"
+          },
+          {
+            "TypeId": 94,
+            "Rarity": 2,
+            "Value": "1020"
+          },
+          {
+            "TypeId": 94,
+            "Rarity": 3,
+            "Value": "850"
+          },
+          {
+            "TypeId": 94,
+            "Rarity": 4,
+            "Value": "680"
+          }
+        ],
+        "基礎攻撃力": [
+          {
+            "TypeId": 95,
+            "Rarity": 1,
+            "Value": "210"
+          },
+          {
+            "TypeId": 95,
+            "Rarity": 2,
+            "Value": "105"
+          },
+          {
+            "TypeId": 95,
+            "Rarity": 3,
+            "Value": "88"
+          },
+          {
+            "TypeId": 95,
+            "Rarity": 4,
+            "Value": "70"
+          }
+        ],
+        "基礎防御力": [
+          {
+            "TypeId": 96,
+            "Rarity": 1,
+            "Value": "105"
+          },
+          {
+            "TypeId": 96,
+            "Rarity": 2,
+            "Value": "53"
+          },
+          {
+            "TypeId": 96,
+            "Rarity": 3,
+            "Value": "44"
+          },
+          {
+            "TypeId": 96,
+            "Rarity": 4,
+            "Value": "35"
+          }
+        ],
+        "攻撃力": [
+          {
+            "TypeId": 98,
+            "Rarity": 1,
+            "Value": "12%"
+          },
+          {
+            "TypeId": 98,
+            "Rarity": 2,
+            "Value": "6%"
+          },
+          {
+            "TypeId": 98,
+            "Rarity": 3,
+            "Value": "5%"
+          },
+          {
+            "TypeId": 98,
+            "Rarity": 4,
+            "Value": "4%"
+          }
+        ],
+        "防御力": [
+          {
+            "TypeId": 99,
+            "Rarity": 1,
+            "Value": "30%"
+          },
+          {
+            "TypeId": 99,
+            "Rarity": 2,
+            "Value": "15%"
+          },
+          {
+            "TypeId": 99,
+            "Rarity": 3,
+            "Value": "12.5%"
+          },
+          {
+            "TypeId": 99,
+            "Rarity": 4,
+            "Value": "10%"
+          }
+        ]
+      }
+    },
+    "10": {
+      "GroupId": 10,
+      "Weight": 4883,
+      "Names": {
+        "スキルダメージ": [
+          {
+            "TypeId": 108,
+            "Rarity": 1,
+            "Value": "20%"
+          },
+          {
+            "TypeId": 108,
+            "Rarity": 2,
+            "Value": "10%"
+          },
+          {
+            "TypeId": 108,
+            "Rarity": 3,
+            "Value": "8%"
+          },
+          {
+            "TypeId": 108,
+            "Rarity": 4,
+            "Value": "7%"
+          }
+        ],
+        "会心ダメージ": [
+          {
+            "TypeId": 100,
+            "Rarity": 1,
+            "Value": "24%"
+          },
+          {
+            "TypeId": 100,
+            "Rarity": 2,
+            "Value": "12%"
+          },
+          {
+            "TypeId": 100,
+            "Rarity": 3,
+            "Value": "10%"
+          },
+          {
+            "TypeId": 100,
+            "Rarity": 4,
+            "Value": "8%"
+          }
+        ],
+        "光属性ダメージ": [
+          {
+            "TypeId": 105,
+            "Rarity": 1,
+            "Value": "12%"
+          },
+          {
+            "TypeId": 105,
+            "Rarity": 2,
+            "Value": "6%"
+          },
+          {
+            "TypeId": 105,
+            "Rarity": 3,
+            "Value": "5%"
+          },
+          {
+            "TypeId": 105,
+            "Rarity": 4,
+            "Value": "4%"
+          }
+        ],
+        "印ダメージ": [
+          {
+            "TypeId": 110,
+            "Rarity": 1,
+            "Value": "80%"
+          },
+          {
+            "TypeId": 110,
+            "Rarity": 2,
+            "Value": "40%"
+          },
+          {
+            "TypeId": 110,
+            "Rarity": 3,
+            "Value": "33%"
+          },
+          {
+            "TypeId": 110,
+            "Rarity": 4,
+            "Value": "27%"
+          }
+        ],
+        "地属性ダメージ": [
+          {
+            "TypeId": 103,
+            "Rarity": 1,
+            "Value": "12%"
+          },
+          {
+            "TypeId": 103,
+            "Rarity": 2,
+            "Value": "6%"
+          },
+          {
+            "TypeId": 103,
+            "Rarity": 3,
+            "Value": "5%"
+          },
+          {
+            "TypeId": 103,
+            "Rarity": 4,
+            "Value": "4%"
+          }
+        ],
+        "従者ダメージ": [
+          {
+            "TypeId": 111,
+            "Rarity": 1,
+            "Value": "20%"
+          },
+          {
+            "TypeId": 111,
+            "Rarity": 2,
+            "Value": "10%"
+          },
+          {
+            "TypeId": 111,
+            "Rarity": 3,
+            "Value": "8%"
+          },
+          {
+            "TypeId": 111,
+            "Rarity": 4,
+            "Value": "7%"
+          }
+        ],
+        "必殺技ダメージ": [
+          {
+            "TypeId": 109,
+            "Rarity": 1,
+            "Value": "30%"
+          },
+          {
+            "TypeId": 109,
+            "Rarity": 2,
+            "Value": "15%"
+          },
+          {
+            "TypeId": 109,
+            "Rarity": 3,
+            "Value": "13%"
+          },
+          {
+            "TypeId": 109,
+            "Rarity": 4,
+            "Value": "10%"
+          }
+        ],
+        "水属性ダメージ": [
+          {
+            "TypeId": 101,
+            "Rarity": 1,
+            "Value": "12%"
+          },
+          {
+            "TypeId": 101,
+            "Rarity": 2,
+            "Value": "6%"
+          },
+          {
+            "TypeId": 101,
+            "Rarity": 3,
+            "Value": "5%"
+          },
+          {
+            "TypeId": 101,
+            "Rarity": 4,
+            "Value": "4%"
+          }
+        ],
+        "派生物ダメージ": [
+          {
+            "TypeId": 112,
+            "Rarity": 1,
+            "Value": "20%"
+          },
+          {
+            "TypeId": 112,
+            "Rarity": 2,
+            "Value": "10%"
+          },
+          {
+            "TypeId": 112,
+            "Rarity": 3,
+            "Value": "8%"
+          },
+          {
+            "TypeId": 112,
+            "Rarity": 4,
+            "Value": "7%"
+          }
+        ],
+        "火属性ダメージ": [
+          {
+            "TypeId": 102,
+            "Rarity": 1,
+            "Value": "12%"
+          },
+          {
+            "TypeId": 102,
+            "Rarity": 2,
+            "Value": "6%"
+          },
+          {
+            "TypeId": 102,
+            "Rarity": 3,
+            "Value": "5%"
+          },
+          {
+            "TypeId": 102,
+            "Rarity": 4,
+            "Value": "4%"
+          }
+        ],
+        "通常攻撃ダメージ": [
+          {
+            "TypeId": 107,
+            "Rarity": 1,
+            "Value": "30%"
+          },
+          {
+            "TypeId": 107,
+            "Rarity": 2,
+            "Value": "15%"
+          },
+          {
+            "TypeId": 107,
+            "Rarity": 3,
+            "Value": "12.5%"
+          },
+          {
+            "TypeId": 107,
+            "Rarity": 4,
+            "Value": "10%"
+          }
+        ],
+        "闇属性ダメージ": [
+          {
+            "TypeId": 106,
+            "Rarity": 1,
+            "Value": "12%"
+          },
+          {
+            "TypeId": 106,
+            "Rarity": 2,
+            "Value": "6%"
+          },
+          {
+            "TypeId": 106,
+            "Rarity": 3,
+            "Value": "5%"
+          },
+          {
+            "TypeId": 106,
+            "Rarity": 4,
+            "Value": "4%"
+          }
+        ],
+        "風属性ダメージ": [
+          {
+            "TypeId": 104,
+            "Rarity": 1,
+            "Value": "12%"
+          },
+          {
+            "TypeId": 104,
+            "Rarity": 2,
+            "Value": "6%"
+          },
+          {
+            "TypeId": 104,
+            "Rarity": 3,
+            "Value": "5%"
+          },
+          {
+            "TypeId": 104,
+            "Rarity": 4,
+            "Value": "4%"
+          }
+        ]
+      }
+    }
+  }
+}

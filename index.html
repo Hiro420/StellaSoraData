@@ -14,7 +14,9 @@
     .slot{display:grid;gap:12px;background:#0f1728;border:1px solid #1b2740;border-radius:var(--radius);padding:12px}
     .controls{display:grid;gap:8px} .controls label{display:grid;gap:6px}
     select,input[type="file"]{background:#0a1120;border:1px solid #1c2a45;color:#e9eeff;border-radius:10px;padding:9px 10px}
-    .table-wrap{overflow:auto;border-radius:10px;border:1px solid #1e2a42;background:#0a1120;margin-top:6px}
+    .table-wrap{overflow:auto;max-height:420px;border-radius:10px;border:1px solid #1e2a42;background:#0a1120;margin-top:6px}
+    .table-wrap table{min-width:960px}
+    .table-wrap th, .table-wrap td{white-space:nowrap}
     table{width:100%;border-collapse:collapse} thead th{position:sticky;top:0;background:#101a30;z-index:1;color:#cfe2ff;text-align:left}
     th,td{padding:8px 10px;border-bottom:1px solid #1a2742;white-space:nowrap}
     .hidden{display:none!important}
@@ -336,40 +338,48 @@
         const unlockCount = Math.floor(prog*10 + 1e-8);
         const fullUnlocked = unlockCount >= (grp.NodeLimit||10);
 
-        const nodes = (grp.Nodes||[]).slice().sort((a,b)=>(a.Index||0)-(b.Index||0));
-        const normalNodes = nodes.filter(n=>(n.Index||0)<=10).slice(0,10);
-        const lastNode = nodes.find(n=>(n.Index||0)>10);
+        const limit = (grp.NodeLimit||10);
+const nodesSorted = (grp.Nodes||[]).slice().sort((a,b)=>(a.Index||0)-(b.Index||0));
+const normalNodes = nodesSorted.slice(0, limit);
+const lastNode = nodesSorted[nodesSorted.length-1];
 
-        /* 解放済み通常ノードを適用 */
-        normalNodes.slice(0, unlockCount).forEach(n=>{
-          const p = n?.Params||{};
-          for(const key of Object.keys(p)){
-            const res = p[key]?.Resolved; if(!res) continue;
-            if(Array.isArray(res.Fields) && res.Fields.length){
-              const f0 = res.Fields[0];
-              const v  = f0.Value;
-              const tf = v?.Transform || null;
-              let val = (typeof v?.Converted==='number') ? v.Converted : (Number(v?.Raw)||0);
-              const subtype = n?.Effects?.[0]?.Summary?.SubtypeText || '';
+        /* 解放済み通常ノードを適用（最後の効果を除外した通常10枠） */
+normalNodes.slice(0, unlockCount).forEach(n=>{
+  const p = n?.Params||{};
+  for(const key of Object.keys(p)){
+    const res = p[key]?.Resolved; if(!res) continue;
+    if(Array.isArray(res.Fields) && res.Fields.length){
+      const f0 = res.Fields[0];
+      const v  = f0.Value;
+      const tf = v?.Transform || null;
+      let val = (typeof v?.Converted==='number') ? v.Converted : (Number(v?.Raw)||0);
+      const subtype = n?.Effects?.[0]?.Summary?.SubtypeText || '';
 
-              const attrKey = mapToAttrKey[subtype] || null;
-              if (tf === 'Fixed' && attrKey){
-                adds[attrKey] = (adds[attrKey]||0) + Number(val||0);
-                continue;
-              }
-              if (tf === 'HdPct' || tf === '10KHdPct'){
-                percentAdds[subtype] = (percentAdds[subtype]||0) + Number(val||0);
-                continue;
-              }
+      // 固定加算（Atk/Def/Hp）: Transform が Fixed で、値が大きい（通常 1 以上）
+      const attrKey = mapToAttrKey[subtype] || null;
+      if (tf === 'Fixed' && attrKey && val > 1){
+        adds[attrKey] = (adds[attrKey]||0) + Number(val||0);
+        continue;
+      }
 
-              const label = n?.Texts?.Title || '';
-              const shown = (tf==='HdPct'||tf==='10KHdPct') ? `${fmtNum(val)}%` : fmtNum(val);
-              buffs.push(`${grp.GroupName||''} / ${label}: ${subtype||''} ${shown}`);
-            }
-          }
-        });
+      // ％系合算：
+      // ・Transform が HdPct / 10KHdPct → そのまま「％ポイント」加算（例 1.5 → 1.5%）
+      // ・Transform が Fixed でも 0 < val <= 1 → 比率とみなして *100 して％ポイントとして加算（例 0.015 → 1.5%）
+      let isPct = (tf==='HdPct' || tf==='10KHdPct');
+      if (!isPct && val>0 && val<=1) { isPct = true; val = val*100; }
+      if (isPct && subtype){
+        percentAdds[subtype] = (percentAdds[subtype]||0) + Number(val||0);
+        continue;
+      }
 
-        /* 10/10で最後の効果を Param 置換して追加 */
+      // それ以外は参考用（今回は UI では使わないが保持）
+      const label = n?.Texts?.Title || '';
+      const shown = isPct ? `${fmtNum(val)}%` : fmtNum(val);
+      buffs.push(`${grp.GroupName||''} / ${label}: ${subtype||''} ${shown}`);
+    }
+  }
+});
+/* 10/10で最後の効果を Param 置換して追加 */
         if(fullUnlocked && lastNode){
           const descHtml = renderDescWithParams(lastNode.Texts?.Desc||'', lastNode.Params||{}, /*charLv*/90, /*skillLv*/1, wordRefs);
           lastEffects.push({group: grp.GroupName||`Group ${grp.GroupId}`, title: lastNode.Texts?.Title||'最後の効果', desc: descHtml});
@@ -380,7 +390,7 @@
     }
 
     /* ステータス表描画（固定加算は「元 +加算」、％別枠は別テーブル、最後の効果表示） */
-    function renderStatsTable(slotKey,charName,level,stats, talentAgg, lastEffects){
+    function renderStatsTable(slotKey,charName,level,stats, talentAgg, lastEffects, wordRefs){
       const wrap=slots[slotKey].statsWrap; wrap.innerHTML='';
       const hdr=document.createElement('div'); hdr.className='muted';
       hdr.innerHTML=`選択:<b>${esc(charName)}</b> / レベル:<b>${level}</b>`;
@@ -432,6 +442,7 @@
         html+=`</tbody></table>`;
         lastWrap.innerHTML=html;
         lastWrap.classList.remove('hidden');
+        wireWordLinks(lastWrap, wordRefs);
       }else{
         lastWrap.classList.add('hidden'); lastWrap.innerHTML='';
       }
@@ -670,9 +681,10 @@
         const gProg = clamp(prog - gi, 0, 1);
         const unlockCount = Math.floor(gProg*10 + 1e-8);
         const fullUnlocked = unlockCount >= (grp.NodeLimit||10);
-        const nodes = (grp.Nodes||[]).slice().sort((a,b)=>(a.Index||0)-(b.Index||0));
-        const normal = nodes.filter(n=>(n.Index||0)<=10).slice(0,10);
-        const last = nodes.find(n=>(n.Index||0)>10);
+        const limit = (grp.NodeLimit||10);
+const nodesSorted = (grp.Nodes||[]).slice().sort((a,b)=>(a.Index||0)-(b.Index||0));
+const normal = nodesSorted.slice(0, limit);
+const last = nodesSorted[nodesSorted.length-1];
 
         const card=document.createElement('div'); card.className='talent-group';
         const title=document.createElement('div');
@@ -694,19 +706,29 @@
           const descHTML = renderDescWithParams(last.Texts?.Desc||'', last.Params||{}, 90, 1, wordRefs);
           lf.innerHTML=`<div><b>${esc(last.Texts?.Title||'最後の効果')}</b></div><div>${descHTML}</div>`;
           card.appendChild(lf);
+          wireWordLinks(lf, wordRefs);
         }
         wrap.appendChild(card);
+        wireWordLinks(card, wordRefs);
       });
+// 心相バフ合算（最後の効果を除外）
+const {adds, percentAdds} = collectTalentFixedAdds(data, prog);
+const order = ['攻撃力','防御力','最大HP','水属性ダメージ'];
+const rows = [];
+// ％系：固定順 → その他（名称順）
+order.forEach(k=>{ if(percentAdds[k]!=null){ rows.push([k, `${fmtNum(percentAdds[k])}%`]); delete percentAdds[k]; }});
+Object.keys(percentAdds).sort().forEach(k=>{ rows.push([k, `${fmtNum(percentAdds[k])}%`]); });
+// 固定加算（Atk/Def/Hp）
+const fixedName = {Atk:'攻撃力(固定)', Def:'防御力(固定)', Hp:'最大HP(固定)'};
+Object.entries(adds).forEach(([k,v])=>{ if(v){ rows.push([fixedName[k]||k, fmtNum(v)]); }});
 
-      // 参考：％系一覧（集計は別関数で）
-      const {buffs}=collectTalentFixedAdds(data, prog);
-      if(buffs.length){
-        let html=`<table><thead><tr><th>心相バフ一覧（％系など）</th></tr></thead><tbody>`;
-        buffs.forEach(b=>{html+=`<tr><td>${esc(b)}</td></tr>`;});
-        html+=`</tbody></table>`;
-        buffsWrap.innerHTML=html; buffsWrap.classList.remove('hidden');
-      }
-    }
+if(rows.length){
+  let html=`<table><thead><tr><th>心相バフ合算（最後の効果を除外）</th><th>合計</th></tr></thead><tbody>`;
+  rows.forEach(([name,sum])=>{ html+=`<tr><td>${esc(name)}</td><td>+${esc(sum)}</td></tr>`; });
+  html+=`</tbody></table>`;
+  buffsWrap.innerHTML=html; buffsWrap.classList.remove('hidden');
+} else { buffsWrap.classList.add('hidden'); buffsWrap.innerHTML=''; }
+}
 
     /* スロットのフル再描画 */
     function renderAllForSlot(k){
@@ -718,7 +740,8 @@
       const stats=getStatsAtLevel(data, lv);
       const talentAgg = collectTalentFixedAdds(data, slots[k].talentProg);
 
-      if(stats){ renderStatsTable(k, nm, lv, stats, talentAgg, talentAgg.lastEffects); }
+      if(stats){ renderStatsTable(k, nm, lv, stats, talentAgg, talentAgg.lastEffects, data?.WordRefs||[]);
+}
       else { slots[k].statsWrap.classList.add('hidden'); slots[k].statsWrap.innerHTML=''; }
 
       renderSkills(k, data, lv);
