@@ -1630,32 +1630,6 @@
     "SecondarySkillGroupId2": 40142,
     "SubNoteSkillGroupId": 4014
   },
-  "214015": {
-    "Id": 214015,
-    "EET": 4,
-    "DiscBg": "Disc/4015/4015",
-    "StrengthenGroupId": 41,
-    "AttrBaseGroupId": 21001,
-    "AttrExtraGroupId": 301,
-    "PromoteGroupId": 403,
-    "TransformItemId": 224015,
-    "MaxStarTransformItem": [
-      24,
-      200
-    ],
-    "ReadReward": [
-      2,
-      30
-    ],
-    "AVGReadReward": [
-      2,
-      30
-    ],
-    "MainSkillGroupId": 4015,
-    "SecondarySkillGroupId1": 40151,
-    "SecondarySkillGroupId2": 40152,
-    "SubNoteSkillGroupId": 4015
-  },
   "214016": {
     "Id": 214016,
     "EET": 4,
@@ -1861,28 +1835,6 @@
     "SecondarySkillGroupId2": 40232,
     "SubNoteSkillGroupId": 4023,
     "SkillScript": "AIScript.Disc.Disc_214023"
-  },
-  "214024": {
-    "Id": 214024,
-    "EET": 5,
-    "DiscBg": "Disc/4024/4024",
-    "StrengthenGroupId": 41,
-    "AttrBaseGroupId": 21001,
-    "AttrExtraGroupId": 301,
-    "PromoteGroupId": 402,
-    "TransformItemId": 224024,
-    "MaxStarTransformItem": [
-      24,
-      200
-    ],
-    "ReadReward": [
-      2,
-      30
-    ],
-    "MainSkillGroupId": 4024,
-    "SecondarySkillGroupId1": 40241,
-    "SecondarySkillGroupId2": 40242,
-    "SubNoteSkillGroupId": 4024
   },
   "214025": {
     "Id": 214025,
@@ -2389,5 +2341,69 @@
     "SecondarySkillGroupId2": 40402,
     "SubNoteSkillGroupId": 4040,
     "SkillScript": "AIScript.Disc.Disc_214040"
+  },
+  "214015": {
+    "Id": 214015,
+    "EET": 4,
+    "Tags": [
+      801,
+      807,
+      803
+    ],
+    "Visible": true,
+    "Available": true,
+    "DiscBg": "Disc/4015/4015",
+    "StrengthenGroupId": 41,
+    "AttrBaseGroupId": 21051,
+    "AttrExtraGroupId": 301,
+    "PromoteGroupId": 401,
+    "TransformItemId": 224015,
+    "MaxStarTransformItem": [
+      24,
+      200
+    ],
+    "ReadReward": [
+      2,
+      30
+    ],
+    "AVGReadReward": [
+      2,
+      30
+    ],
+    "MainSkillGroupId": 4015,
+    "SecondarySkillGroupId1": 40151,
+    "SecondarySkillGroupId2": 40152,
+    "SubNoteSkillGroupId": 4015,
+    "SkillScript": "AIScript.Disc.Disc_214015"
+  },
+  "214024": {
+    "Id": 214024,
+    "EET": 4,
+    "Tags": [
+      803,
+      804,
+      810
+    ],
+    "Visible": true,
+    "Available": true,
+    "DiscBg": "Disc/4024/4024",
+    "StrengthenGroupId": 41,
+    "AttrBaseGroupId": 21099,
+    "AttrExtraGroupId": 301,
+    "PromoteGroupId": 402,
+    "TransformItemId": 224024,
+    "MaxStarTransformItem": [
+      24,
+      200
+    ],
+    "ReadReward": [
+      2,
+      30
+    ],
+    "MainSkillGroupId": 4024,
+    "SecondarySkillGroupId1": 40241,
+    "SecondarySkillGroupId2": 40242,
+    "SubNoteSkillGroupId": 4024,
+    "SkillScript": "AIScript.Disc.Disc_214024"
   }
 }

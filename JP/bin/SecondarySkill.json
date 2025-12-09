@@ -4418,226 +4418,6 @@
     "IconBg": "Icon/DiscSkill/db_DiscSkill_4",
     "Desc": "SecondarySkill.4014405.2"
   },
-  "4015101": {
-    "Id": 4015101,
-    "GroupId": 40151,
-    "Level": 1,
-    "NeedSubNoteSkills": "{\"90011\":1,\"90012\":2}",
-    "Score": 120,
-    "Name": "SecondarySkill.4015101.1",
-    "Icon": "Icon/DiscSkill/DiscSkill_1",
-    "IconBg": "Icon/DiscSkill/db_DiscSkill_5",
-    "Desc": "SecondarySkill.4015101.2"
-  },
-  "4015102": {
-    "Id": 4015102,
-    "GroupId": 40151,
-    "Level": 2,
-    "NeedSubNoteSkills": "{\"90011\":2,\"90012\":4}",
-    "Score": 240,
-    "Name": "SecondarySkill.4015102.1",
-    "Icon": "Icon/DiscSkill/DiscSkill_1",
-    "IconBg": "Icon/DiscSkill/db_DiscSkill_5",
-    "Desc": "SecondarySkill.4015102.2"
-  },
-  "4015103": {
-    "Id": 4015103,
-    "GroupId": 40151,
-    "Level": 3,
-    "NeedSubNoteSkills": "{\"90011\":3,\"90012\":6}",
-    "Score": 360,
-    "Name": "SecondarySkill.4015103.1",
-    "Icon": "Icon/DiscSkill/DiscSkill_1",
-    "IconBg": "Icon/DiscSkill/db_DiscSkill_5",
-    "Desc": "SecondarySkill.4015103.2"
-  },
-  "4015104": {
-    "Id": 4015104,
-    "GroupId": 40151,
-    "Level": 4,
-    "NeedSubNoteSkills": "{\"90011\":4,\"90012\":8}",
-    "Score": 480,
-    "Name": "SecondarySkill.4015104.1",
-    "Icon": "Icon/DiscSkill/DiscSkill_1",
-    "IconBg": "Icon/DiscSkill/db_DiscSkill_5",
-    "Desc": "SecondarySkill.4015104.2"
-  },
-  "4015105": {
-    "Id": 4015105,
-    "GroupId": 40151,
-    "Level": 5,
-    "NeedSubNoteSkills": "{\"90011\":5,\"90012\":10}",
-    "Score": 600,
-    "Name": "SecondarySkill.4015105.1",
-    "Icon": "Icon/DiscSkill/DiscSkill_1",
-    "IconBg": "Icon/DiscSkill/db_DiscSkill_5",
-    "Desc": "SecondarySkill.4015105.2"
-  },
-  "4015201": {
-    "Id": 4015201,
-    "GroupId": 40152,
-    "Level": 1,
-    "NeedSubNoteSkills": "{\"90012\":1,\"90013\":2}",
-    "Score": 120,
-    "Name": "SecondarySkill.4015201.1",
-    "Icon": "Icon/DiscSkill/DiscSkill_2",
-    "IconBg": "Icon/DiscSkill/db_DiscSkill_6",
-    "Desc": "SecondarySkill.4015201.2"
-  },
-  "4015202": {
-    "Id": 4015202,
-    "GroupId": 40152,
-    "Level": 2,
-    "NeedSubNoteSkills": "{\"90012\":2,\"90013\":4}",
-    "Score": 240,
-    "Name": "SecondarySkill.4015202.1",
-    "Icon": "Icon/DiscSkill/DiscSkill_2",
-    "IconBg": "Icon/DiscSkill/db_DiscSkill_6",
-    "Desc": "SecondarySkill.4015202.2"
-  },
-  "4015203": {
-    "Id": 4015203,
-    "GroupId": 40152,
-    "Level": 3,
-    "NeedSubNoteSkills": "{\"90012\":3,\"90013\":6}",
-    "Score": 360,
-    "Name": "SecondarySkill.4015203.1",
-    "Icon": "Icon/DiscSkill/DiscSkill_2",
-    "IconBg": "Icon/DiscSkill/db_DiscSkill_6",
-    "Desc": "SecondarySkill.4015203.2"
-  },
-  "4015204": {
-    "Id": 4015204,
-    "GroupId": 40152,
-    "Level": 4,
-    "NeedSubNoteSkills": "{\"90012\":4,\"90013\":8}",
-    "Score": 480,
-    "Name": "SecondarySkill.4015204.1",
-    "Icon": "Icon/DiscSkill/DiscSkill_2",
-    "IconBg": "Icon/DiscSkill/db_DiscSkill_6",
-    "Desc": "SecondarySkill.4015204.2"
-  },
-  "4015205": {
-    "Id": 4015205,
-    "GroupId": 40152,
-    "Level": 5,
-    "NeedSubNoteSkills": "{\"90012\":5,\"90013\":10}",
-    "Score": 600,
-    "Name": "SecondarySkill.4015205.1",
-    "Icon": "Icon/DiscSkill/DiscSkill_2",
-    "IconBg": "Icon/DiscSkill/db_DiscSkill_6",
-    "Desc": "SecondarySkill.4015205.2"
-  },
-  "4015301": {
-    "Id": 4015301,
-    "GroupId": 40153,
-    "Level": 1,
-    "NeedSubNoteSkills": "{\"90013\":1,\"90014\":2}",
-    "Score": 120,
-    "Name": "SecondarySkill.4015301.1",
-    "Icon": "Icon/DiscSkill/DiscSkill_3",
-    "IconBg": "Icon/DiscSkill/db_DiscSkill_1",
-    "Desc": "SecondarySkill.4015301.2"
-  },
-  "4015302": {
-    "Id": 4015302,
-    "GroupId": 40153,
-    "Level": 2,
-    "NeedSubNoteSkills": "{\"90013\":2,\"90014\":4}",
-    "Score": 240,
-    "Name": "SecondarySkill.4015302.1",
-    "Icon": "Icon/DiscSkill/DiscSkill_3",
-    "IconBg": "Icon/DiscSkill/db_DiscSkill_1",
-    "Desc": "SecondarySkill.4015302.2"
-  },
-  "4015303": {
-    "Id": 4015303,
-    "GroupId": 40153,
-    "Level": 3,
-    "NeedSubNoteSkills": "{\"90013\":3,\"90014\":6}",
-    "Score": 360,
-    "Name": "SecondarySkill.4015303.1",
-    "Icon": "Icon/DiscSkill/DiscSkill_3",
-    "IconBg": "Icon/DiscSkill/db_DiscSkill_1",
-    "Desc": "SecondarySkill.4015303.2"
-  },
-  "4015304": {
-    "Id": 4015304,
-    "GroupId": 40153,
-    "Level": 4,
-    "NeedSubNoteSkills": "{\"90013\":4,\"90014\":8}",
-    "Score": 480,
-    "Name": "SecondarySkill.4015304.1",
-    "Icon": "Icon/DiscSkill/DiscSkill_3",
-    "IconBg": "Icon/DiscSkill/db_DiscSkill_1",
-    "Desc": "SecondarySkill.4015304.2"
-  },
-  "4015305": {
-    "Id": 4015305,
-    "GroupId": 40153,
-    "Level": 5,
-    "NeedSubNoteSkills": "{\"90013\":5,\"90014\":10}",
-    "Score": 600,
-    "Name": "SecondarySkill.4015305.1",
-    "Icon": "Icon/DiscSkill/DiscSkill_3",
-    "IconBg": "Icon/DiscSkill/db_DiscSkill_1",
-    "Desc": "SecondarySkill.4015305.2"
-  },
-  "4015401": {
-    "Id": 4015401,
-    "GroupId": 40154,
-    "Level": 1,
-    "NeedSubNoteSkills": "{\"90014\":1,\"90015\":2}",
-    "Score": 120,
-    "Name": "SecondarySkill.4015401.1",
-    "Icon": "Icon/DiscSkill/DiscSkill_5",
-    "IconBg": "Icon/DiscSkill/db_DiscSkill_2",
-    "Desc": "SecondarySkill.4015401.2"
-  },
-  "4015402": {
-    "Id": 4015402,
-    "GroupId": 40154,
-    "Level": 2,
-    "NeedSubNoteSkills": "{\"90014\":2,\"90015\":4}",
-    "Score": 240,
-    "Name": "SecondarySkill.4015402.1",
-    "Icon": "Icon/DiscSkill/DiscSkill_5",
-    "IconBg": "Icon/DiscSkill/db_DiscSkill_2",
-    "Desc": "SecondarySkill.4015402.2"
-  },
-  "4015403": {
-    "Id": 4015403,
-    "GroupId": 40154,
-    "Level": 3,
-    "NeedSubNoteSkills": "{\"90014\":3,\"90015\":6}",
-    "Score": 360,
-    "Name": "SecondarySkill.4015403.1",
-    "Icon": "Icon/DiscSkill/DiscSkill_5",
-    "IconBg": "Icon/DiscSkill/db_DiscSkill_2",
-    "Desc": "SecondarySkill.4015403.2"
-  },
-  "4015404": {
-    "Id": 4015404,
-    "GroupId": 40154,
-    "Level": 4,
-    "NeedSubNoteSkills": "{\"90014\":4,\"90015\":8}",
-    "Score": 480,
-    "Name": "SecondarySkill.4015404.1",
-    "Icon": "Icon/DiscSkill/DiscSkill_5",
-    "IconBg": "Icon/DiscSkill/db_DiscSkill_2",
-    "Desc": "SecondarySkill.4015404.2"
-  },
-  "4015405": {
-    "Id": 4015405,
-    "GroupId": 40154,
-    "Level": 5,
-    "NeedSubNoteSkills": "{\"90014\":5,\"90015\":10}",
-    "Score": 600,
-    "Name": "SecondarySkill.4015405.1",
-    "Icon": "Icon/DiscSkill/DiscSkill_5",
-    "IconBg": "Icon/DiscSkill/db_DiscSkill_2",
-    "Desc": "SecondarySkill.4015405.2"
-  },
   "4016101": {
     "Id": 4016101,
     "GroupId": 40161,
@@ -5867,116 +5647,6 @@
     "Param2": "10",
     "Param3": "1.8%",
     "Param4": "10"
-  },
-  "4024101": {
-    "Id": 4024101,
-    "GroupId": 40241,
-    "Level": 1,
-    "NeedSubNoteSkills": "{\"90014\":1,\"90015\":2}",
-    "Score": 120,
-    "Name": "SecondarySkill.4024101.1",
-    "Icon": "Icon/DiscSkill/DiscSkill_3",
-    "IconBg": "Icon/DiscSkill/db_DiscSkill_3",
-    "Desc": "SecondarySkill.4024101.2"
-  },
-  "4024102": {
-    "Id": 4024102,
-    "GroupId": 40241,
-    "Level": 2,
-    "NeedSubNoteSkills": "{\"90014\":2,\"90015\":4}",
-    "Score": 240,
-    "Name": "SecondarySkill.4024102.1",
-    "Icon": "Icon/DiscSkill/DiscSkill_3",
-    "IconBg": "Icon/DiscSkill/db_DiscSkill_3",
-    "Desc": "SecondarySkill.4024102.2"
-  },
-  "4024103": {
-    "Id": 4024103,
-    "GroupId": 40241,
-    "Level": 3,
-    "NeedSubNoteSkills": "{\"90014\":3,\"90015\":6}",
-    "Score": 360,
-    "Name": "SecondarySkill.4024103.1",
-    "Icon": "Icon/DiscSkill/DiscSkill_3",
-    "IconBg": "Icon/DiscSkill/db_DiscSkill_3",
-    "Desc": "SecondarySkill.4024103.2"
-  },
-  "4024104": {
-    "Id": 4024104,
-    "GroupId": 40241,
-    "Level": 4,
-    "NeedSubNoteSkills": "{\"90014\":4,\"90015\":8}",
-    "Score": 480,
-    "Name": "SecondarySkill.4024104.1",
-    "Icon": "Icon/DiscSkill/DiscSkill_3",
-    "IconBg": "Icon/DiscSkill/db_DiscSkill_3",
-    "Desc": "SecondarySkill.4024104.2"
-  },
-  "4024105": {
-    "Id": 4024105,
-    "GroupId": 40241,
-    "Level": 5,
-    "NeedSubNoteSkills": "{\"90014\":5,\"90015\":10}",
-    "Score": 600,
-    "Name": "SecondarySkill.4024105.1",
-    "Icon": "Icon/DiscSkill/DiscSkill_3",
-    "IconBg": "Icon/DiscSkill/db_DiscSkill_3",
-    "Desc": "SecondarySkill.4024105.2"
-  },
-  "4024201": {
-    "Id": 4024201,
-    "GroupId": 40242,
-    "Level": 1,
-    "NeedSubNoteSkills": "{\"90015\":1,\"90016\":2}",
-    "Score": 120,
-    "Name": "SecondarySkill.4024201.1",
-    "Icon": "Icon/DiscSkill/DiscSkill_4",
-    "IconBg": "Icon/DiscSkill/db_DiscSkill_4",
-    "Desc": "SecondarySkill.4024201.2"
-  },
-  "4024202": {
-    "Id": 4024202,
-    "GroupId": 40242,
-    "Level": 2,
-    "NeedSubNoteSkills": "{\"90015\":2,\"90016\":4}",
-    "Score": 240,
-    "Name": "SecondarySkill.4024202.1",
-    "Icon": "Icon/DiscSkill/DiscSkill_4",
-    "IconBg": "Icon/DiscSkill/db_DiscSkill_4",
-    "Desc": "SecondarySkill.4024202.2"
-  },
-  "4024203": {
-    "Id": 4024203,
-    "GroupId": 40242,
-    "Level": 3,
-    "NeedSubNoteSkills": "{\"90015\":3,\"90016\":6}",
-    "Score": 360,
-    "Name": "SecondarySkill.4024203.1",
-    "Icon": "Icon/DiscSkill/DiscSkill_4",
-    "IconBg": "Icon/DiscSkill/db_DiscSkill_4",
-    "Desc": "SecondarySkill.4024203.2"
-  },
-  "4024204": {
-    "Id": 4024204,
-    "GroupId": 40242,
-    "Level": 4,
-    "NeedSubNoteSkills": "{\"90015\":4,\"90016\":8}",
-    "Score": 480,
-    "Name": "SecondarySkill.4024204.1",
-    "Icon": "Icon/DiscSkill/DiscSkill_4",
-    "IconBg": "Icon/DiscSkill/db_DiscSkill_4",
-    "Desc": "SecondarySkill.4024204.2"
-  },
-  "4024205": {
-    "Id": 4024205,
-    "GroupId": 40242,
-    "Level": 5,
-    "NeedSubNoteSkills": "{\"90015\":5,\"90016\":10}",
-    "Score": 600,
-    "Name": "SecondarySkill.4024205.1",
-    "Icon": "Icon/DiscSkill/DiscSkill_4",
-    "IconBg": "Icon/DiscSkill/db_DiscSkill_4",
-    "Desc": "SecondarySkill.4024205.2"
   },
   "4025101": {
     "Id": 4025101,
@@ -8527,5 +8197,305 @@
     "Param1": "7.5%",
     "Param2": "6",
     "Param3": "27"
+  },
+  "4015101": {
+    "Id": 4015101,
+    "GroupId": 40151,
+    "Level": 1,
+    "NeedSubNoteSkills": "{\"90020\":10,\"90011\":10}",
+    "Score": 120,
+    "EffectId": [
+      4015101
+    ],
+    "Name": "SecondarySkill.4015101.1",
+    "Icon": "Icon/DiscSkill/DiscSkill_4",
+    "IconBg": "Icon/DiscSkill/db_DiscSkill_4",
+    "Desc": "SecondarySkill.4015101.2",
+    "Param1": "2.5%",
+    "Param2": "6.5%",
+    "Param3": "10"
+  },
+  "4015102": {
+    "Id": 4015102,
+    "GroupId": 40151,
+    "Level": 2,
+    "NeedSubNoteSkills": "{\"90020\":25,\"90011\":25}",
+    "Score": 240,
+    "EffectId": [
+      4015102
+    ],
+    "Name": "SecondarySkill.4015102.1",
+    "Icon": "Icon/DiscSkill/DiscSkill_4",
+    "IconBg": "Icon/DiscSkill/db_DiscSkill_4",
+    "Desc": "SecondarySkill.4015102.2",
+    "Param1": "5%",
+    "Param2": "13%",
+    "Param3": "10"
+  },
+  "4015103": {
+    "Id": 4015103,
+    "GroupId": 40151,
+    "Level": 3,
+    "NeedSubNoteSkills": "{\"90020\":40,\"90011\":40}",
+    "Score": 360,
+    "EffectId": [
+      4015103
+    ],
+    "Name": "SecondarySkill.4015103.1",
+    "Icon": "Icon/DiscSkill/DiscSkill_4",
+    "IconBg": "Icon/DiscSkill/db_DiscSkill_4",
+    "Desc": "SecondarySkill.4015103.2",
+    "Param1": "7.5%",
+    "Param2": "19.5%",
+    "Param3": "10"
+  },
+  "4015104": {
+    "Id": 4015104,
+    "GroupId": 40151,
+    "Level": 4,
+    "NeedSubNoteSkills": "{\"90020\":55,\"90011\":55}",
+    "Score": 480,
+    "EffectId": [
+      4015104
+    ],
+    "Name": "SecondarySkill.4015104.1",
+    "Icon": "Icon/DiscSkill/DiscSkill_4",
+    "IconBg": "Icon/DiscSkill/db_DiscSkill_4",
+    "Desc": "SecondarySkill.4015104.2",
+    "Param1": "10%",
+    "Param2": "26%",
+    "Param3": "10"
+  },
+  "4015105": {
+    "Id": 4015105,
+    "GroupId": 40151,
+    "Level": 5,
+    "NeedSubNoteSkills": "{\"90020\":70,\"90011\":70}",
+    "Score": 600,
+    "EffectId": [
+      4015105
+    ],
+    "Name": "SecondarySkill.4015105.1",
+    "Icon": "Icon/DiscSkill/DiscSkill_4",
+    "IconBg": "Icon/DiscSkill/db_DiscSkill_4",
+    "Desc": "SecondarySkill.4015105.2",
+    "Param1": "12.5%",
+    "Param2": "32.5%",
+    "Param3": "10"
+  },
+  "4015201": {
+    "Id": 4015201,
+    "GroupId": 40152,
+    "Level": 1,
+    "NeedSubNoteSkills": "{\"90020\":15,\"90011\":15,\"90012\":15}",
+    "Score": 120,
+    "Name": "SecondarySkill.4015201.1",
+    "Icon": "Icon/DiscSkill/DiscSkill_9",
+    "IconBg": "Icon/DiscSkill/db_DiscSkill_4",
+    "Desc": "SecondarySkill.4015201.2",
+    "Param1": "8%"
+  },
+  "4015202": {
+    "Id": 4015202,
+    "GroupId": 40152,
+    "Level": 2,
+    "NeedSubNoteSkills": "{\"90020\":30,\"90011\":30,\"90012\":30}",
+    "Score": 240,
+    "Name": "SecondarySkill.4015202.1",
+    "Icon": "Icon/DiscSkill/DiscSkill_9",
+    "IconBg": "Icon/DiscSkill/db_DiscSkill_4",
+    "Desc": "SecondarySkill.4015202.2",
+    "Param1": "16%"
+  },
+  "4015203": {
+    "Id": 4015203,
+    "GroupId": 40152,
+    "Level": 3,
+    "NeedSubNoteSkills": "{\"90020\":45,\"90011\":45,\"90012\":45}",
+    "Score": 360,
+    "Name": "SecondarySkill.4015203.1",
+    "Icon": "Icon/DiscSkill/DiscSkill_9",
+    "IconBg": "Icon/DiscSkill/db_DiscSkill_4",
+    "Desc": "SecondarySkill.4015203.2",
+    "Param1": "24%"
+  },
+  "4015204": {
+    "Id": 4015204,
+    "GroupId": 40152,
+    "Level": 4,
+    "NeedSubNoteSkills": "{\"90020\":60,\"90011\":60,\"90012\":60}",
+    "Score": 480,
+    "Name": "SecondarySkill.4015204.1",
+    "Icon": "Icon/DiscSkill/DiscSkill_9",
+    "IconBg": "Icon/DiscSkill/db_DiscSkill_4",
+    "Desc": "SecondarySkill.4015204.2",
+    "Param1": "32%"
+  },
+  "4015205": {
+    "Id": 4015205,
+    "GroupId": 40152,
+    "Level": 5,
+    "NeedSubNoteSkills": "{\"90020\":75,\"90011\":75,\"90012\":75}",
+    "Score": 600,
+    "Name": "SecondarySkill.4015205.1",
+    "Icon": "Icon/DiscSkill/DiscSkill_9",
+    "IconBg": "Icon/DiscSkill/db_DiscSkill_4",
+    "Desc": "SecondarySkill.4015205.2",
+    "Param1": "40%"
+  },
+  "4024101": {
+    "Id": 4024101,
+    "GroupId": 40241,
+    "Level": 1,
+    "NeedSubNoteSkills": "{\"90020\":10,\"90011\":10}",
+    "Score": 120,
+    "EffectId": [
+      4024101,
+      4024121
+    ],
+    "Name": "SecondarySkill.4024101.1",
+    "Icon": "Icon/DiscSkill/DiscSkill_4",
+    "IconBg": "Icon/DiscSkill/db_DiscSkill_4",
+    "Desc": "SecondarySkill.4024101.2",
+    "Param1": "6%",
+    "Param2": "2%",
+    "Param3": "3"
+  },
+  "4024102": {
+    "Id": 4024102,
+    "GroupId": 40241,
+    "Level": 2,
+    "NeedSubNoteSkills": "{\"90020\":25,\"90011\":25}",
+    "Score": 240,
+    "EffectId": [
+      4024102,
+      4024122
+    ],
+    "Name": "SecondarySkill.4024102.1",
+    "Icon": "Icon/DiscSkill/DiscSkill_4",
+    "IconBg": "Icon/DiscSkill/db_DiscSkill_4",
+    "Desc": "SecondarySkill.4024102.2",
+    "Param1": "12%",
+    "Param2": "4%",
+    "Param3": "3"
+  },
+  "4024103": {
+    "Id": 4024103,
+    "GroupId": 40241,
+    "Level": 3,
+    "NeedSubNoteSkills": "{\"90020\":40,\"90011\":40}",
+    "Score": 360,
+    "EffectId": [
+      4024103,
+      4024123
+    ],
+    "Name": "SecondarySkill.4024103.1",
+    "Icon": "Icon/DiscSkill/DiscSkill_4",
+    "IconBg": "Icon/DiscSkill/db_DiscSkill_4",
+    "Desc": "SecondarySkill.4024103.2",
+    "Param1": "18%",
+    "Param2": "6%",
+    "Param3": "3"
+  },
+  "4024104": {
+    "Id": 4024104,
+    "GroupId": 40241,
+    "Level": 4,
+    "NeedSubNoteSkills": "{\"90020\":55,\"90011\":55}",
+    "Score": 480,
+    "EffectId": [
+      4024104,
+      4024124
+    ],
+    "Name": "SecondarySkill.4024104.1",
+    "Icon": "Icon/DiscSkill/DiscSkill_4",
+    "IconBg": "Icon/DiscSkill/db_DiscSkill_4",
+    "Desc": "SecondarySkill.4024104.2",
+    "Param1": "24%",
+    "Param2": "8%",
+    "Param3": "3"
+  },
+  "4024105": {
+    "Id": 4024105,
+    "GroupId": 40241,
+    "Level": 5,
+    "NeedSubNoteSkills": "{\"90020\":70,\"90011\":70}",
+    "Score": 600,
+    "EffectId": [
+      4024105,
+      4024125
+    ],
+    "Name": "SecondarySkill.4024105.1",
+    "Icon": "Icon/DiscSkill/DiscSkill_4",
+    "IconBg": "Icon/DiscSkill/db_DiscSkill_4",
+    "Desc": "SecondarySkill.4024105.2",
+    "Param1": "30%",
+    "Param2": "10%",
+    "Param3": "3"
+  },
+  "4024201": {
+    "Id": 4024201,
+    "GroupId": 40242,
+    "Level": 1,
+    "NeedSubNoteSkills": "{\"90020\":15,\"90017\":15,\"90015\":15}",
+    "Score": 120,
+    "Name": "SecondarySkill.4024201.1",
+    "Icon": "Icon/DiscSkill/DiscSkill_4",
+    "IconBg": "Icon/DiscSkill/db_DiscSkill_4",
+    "Desc": "SecondarySkill.4024201.2",
+    "Param1": "7%",
+    "Param2": "3"
+  },
+  "4024202": {
+    "Id": 4024202,
+    "GroupId": 40242,
+    "Level": 2,
+    "NeedSubNoteSkills": "{\"90020\":30,\"90017\":30,\"90015\":30}",
+    "Score": 240,
+    "Name": "SecondarySkill.4024202.1",
+    "Icon": "Icon/DiscSkill/DiscSkill_4",
+    "IconBg": "Icon/DiscSkill/db_DiscSkill_4",
+    "Desc": "SecondarySkill.4024202.2",
+    "Param1": "14%",
+    "Param2": "3"
+  },
+  "4024203": {
+    "Id": 4024203,
+    "GroupId": 40242,
+    "Level": 3,
+    "NeedSubNoteSkills": "{\"90020\":45,\"90017\":45,\"90015\":45}",
+    "Score": 360,
+    "Name": "SecondarySkill.4024203.1",
+    "Icon": "Icon/DiscSkill/DiscSkill_4",
+    "IconBg": "Icon/DiscSkill/db_DiscSkill_4",
+    "Desc": "SecondarySkill.4024203.2",
+    "Param1": "21%",
+    "Param2": "3"
+  },
+  "4024204": {
+    "Id": 4024204,
+    "GroupId": 40242,
+    "Level": 4,
+    "NeedSubNoteSkills": "{\"90020\":60,\"90017\":60,\"90015\":60}",
+    "Score": 480,
+    "Name": "SecondarySkill.4024204.1",
+    "Icon": "Icon/DiscSkill/DiscSkill_4",
+    "IconBg": "Icon/DiscSkill/db_DiscSkill_4",
+    "Desc": "SecondarySkill.4024204.2",
+    "Param1": "28%",
+    "Param2": "3"
+  },
+  "4024205": {
+    "Id": 4024205,
+    "GroupId": 40242,
+    "Level": 5,
+    "NeedSubNoteSkills": "{\"90020\":75,\"90017\":75,\"90015\":75}",
+    "Score": 600,
+    "Name": "SecondarySkill.4024205.1",
+    "Icon": "Icon/DiscSkill/DiscSkill_4",
+    "IconBg": "Icon/DiscSkill/db_DiscSkill_4",
+    "Desc": "SecondarySkill.4024205.2",
+    "Param1": "35%",
+    "Param2": "3"
   }
 }

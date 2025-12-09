@@ -7,5 +7,14 @@
     "DigConsumeItemId": 120001,
     "ConfigMaxLayer": 20,
     "GridListPrefab": "Cell1"
+  },
+  "400002": {
+    "Id": 400002,
+    "UseType": 1,
+    "UIAssets": "ActivityMining_1",
+    "CtrlName": "ActivityMiningCtrl",
+    "DigConsumeItemId": 120002,
+    "ConfigMaxLayer": 20,
+    "GridListPrefab": "Cell1"
   }
 }

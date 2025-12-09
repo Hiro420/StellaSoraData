@@ -1566,5 +1566,61 @@
     "Action": "chat_a",
     "Words": "DatingCharResponse.13407.1",
     "BubbleEmoji": "avg_emoji_star"
+  },
+  "13301": {
+    "Id": 13301,
+    "CharId": 133,
+    "Type": "happy",
+    "Action": "presents_a",
+    "Words": "DatingCharResponse.13301.1",
+    "BubbleEmoji": "avg_emoji_flower"
+  },
+  "13302": {
+    "Id": 13302,
+    "CharId": 133,
+    "Type": "happy2",
+    "Action": "presents_b",
+    "Words": "DatingCharResponse.13302.1",
+    "BubbleEmoji": "avg_emoji_love"
+  },
+  "13303": {
+    "Id": 13303,
+    "CharId": 133,
+    "Type": "normal",
+    "Action": "chat_a",
+    "Words": "DatingCharResponse.13303.1",
+    "BubbleEmoji": "avg_emoji_happy"
+  },
+  "13304": {
+    "Id": 13304,
+    "CharId": 133,
+    "Type": "normal2",
+    "Action": "chat_b",
+    "Words": "DatingCharResponse.13304.1",
+    "BubbleEmoji": "avg_emoji_attention"
+  },
+  "13305": {
+    "Id": 13305,
+    "CharId": 133,
+    "Type": "think",
+    "Action": "think_a",
+    "Words": "DatingCharResponse.13305.1",
+    "BubbleEmoji": "avg_emoji_speechless"
+  },
+  "13306": {
+    "Id": 13306,
+    "CharId": 133,
+    "Type": "shy",
+    "Action": "shy_a",
+    "Words": "DatingCharResponse.13306.1",
+    "BubbleEmoji": "avg_emoji_shy"
+  },
+  "13307": {
+    "Id": 13307,
+    "CharId": 133,
+    "Type": "greet",
+    "Action": "chat_a",
+    "Words": "DatingCharResponse.13307.1",
+    "BubbleEmoji": "avg_emoji_star"
   }
 }

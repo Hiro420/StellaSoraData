@@ -5656,6 +5656,34 @@
     "BindEffect": "Actor/Character/13301/Buff/fx_13301_buff_T2",
     "NotRemove": true
   },
+  "13396111": {
+    "Id": 13396111,
+    "Name": "1命全队技能伤害提升<color=#0abec5>45%</color>",
+    "GroupId": 13396111,
+    "BuffTag1": 943565682,
+    "BuffTag2": -719983267
+  },
+  "13396211": {
+    "Id": 13396211,
+    "Name": "2命风系伤害提升<color=#0abec5>20%</color>，持续12秒",
+    "GroupId": 13396211,
+    "BuffTag1": 943565682,
+    "BuffTag2": -719983267
+  },
+  "13396311": {
+    "Id": 13396311,
+    "Name": "3命受到风系伤害提升<color=#0abec5>1.4%</color>，最多可以叠加10层。",
+    "GroupId": 13396311,
+    "BuffTag1": 943565682,
+    "BuffTag2": -719983267
+  },
+  "13396411": {
+    "Id": 13396411,
+    "Name": "4命夏花的技能伤害提升<color=#0abec5>28%</color>，持续6秒。",
+    "GroupId": 13396411,
+    "BuffTag1": 943565682,
+    "BuffTag2": -719983267
+  },
   "14301011": {
     "Id": 14301011,
     "Name": "潜能01普攻产生龙卷风标记buff",
@@ -12384,6 +12412,164 @@
     "Id": 4040225,
     "Name": "【脚本buff】每层「勇气」被清除时，火系主控角色获得{2}点防御力，持续{3}秒。",
     "GroupId": 4040225,
+    "BuffTag1": -719983267
+  },
+  "4015020": {
+    "Id": 4015020,
+    "Name": "【脚本buff】流芳",
+    "GroupId": 4015020,
+    "BuffTag1": -719983267,
+    "Icon": "Icon/Buff/Icon_DiscBuff_214015",
+    "IsShow": true
+  },
+  "4015021": {
+    "Id": 4015021,
+    "Name": "【脚本buff】受到风系技能伤害提升<color=#ec6d21>{3}</color>，持续{4}秒，可叠加{5}层。",
+    "GroupId": 4015021,
+    "BuffTag1": -2138561627,
+    "Icon": "Icon/Buff/Icon_CommonBuff_DefenseDown",
+    "IsShow": true
+  },
+  "4015022": {
+    "Id": 4015022,
+    "Name": "【脚本buff】受到风系技能伤害提升<color=#ec6d21>{3}</color>，持续{4}秒，可叠加{5}层。",
+    "GroupId": 4015022,
+    "BuffTag1": -2138561627,
+    "Icon": "Icon/Buff/Icon_CommonBuff_DefenseDown",
+    "IsShow": true
+  },
+  "4015023": {
+    "Id": 4015023,
+    "Name": "【脚本buff】受到风系技能伤害提升<color=#ec6d21>{3}</color>，持续{4}秒，可叠加{5}层。",
+    "GroupId": 4015023,
+    "BuffTag1": -2138561627,
+    "Icon": "Icon/Buff/Icon_CommonBuff_DefenseDown",
+    "IsShow": true
+  },
+  "4015024": {
+    "Id": 4015024,
+    "Name": "【脚本buff】受到风系技能伤害提升<color=#ec6d21>{3}</color>，持续{4}秒，可叠加{5}层。",
+    "GroupId": 4015024,
+    "BuffTag1": -2138561627,
+    "Icon": "Icon/Buff/Icon_CommonBuff_DefenseDown",
+    "IsShow": true
+  },
+  "4015025": {
+    "Id": 4015025,
+    "Name": "【脚本buff】受到风系技能伤害提升<color=#ec6d21>{3}</color>，持续{4}秒，可叠加{5}层。",
+    "GroupId": 4015025,
+    "BuffTag1": -2138561627,
+    "Icon": "Icon/Buff/Icon_CommonBuff_DefenseDown",
+    "IsShow": true
+  },
+  "4015026": {
+    "Id": 4015026,
+    "Name": "【脚本buff】受到风系技能伤害提升<color=#ec6d21>{3}</color>，持续{4}秒，可叠加{5}层。",
+    "GroupId": 4015026,
+    "BuffTag1": -2138561627,
+    "Icon": "Icon/Buff/Icon_CommonBuff_DefenseDown",
+    "IsShow": true
+  },
+  "4015126": {
+    "Id": 4015126,
+    "Name": "【buff效果】技能伤害提升<color=#ec6d21>{2}</color>，持续{3}秒。",
+    "GroupId": 4015126,
+    "BuffTag1": -719983267
+  },
+  "4015127": {
+    "Id": 4015127,
+    "Name": "【buff效果】技能伤害提升<color=#ec6d21>{2}</color>，持续{3}秒。",
+    "GroupId": 4015127,
+    "BuffTag1": -719983267
+  },
+  "4015128": {
+    "Id": 4015128,
+    "Name": "【buff效果】技能伤害提升<color=#ec6d21>{2}</color>，持续{3}秒。",
+    "GroupId": 4015128,
+    "BuffTag1": -719983267
+  },
+  "4015129": {
+    "Id": 4015129,
+    "Name": "【buff效果】技能伤害提升<color=#ec6d21>{2}</color>，持续{3}秒。",
+    "GroupId": 4015129,
+    "BuffTag1": -719983267
+  },
+  "4015130": {
+    "Id": 4015130,
+    "Name": "【buff效果】技能伤害提升<color=#ec6d21>{2}</color>，持续{3}秒。",
+    "GroupId": 4015130,
+    "BuffTag1": -719983267
+  },
+  "4024007": {
+    "Id": 4024007,
+    "Name": "【buff效果】技能伤害提升<color=#ec6d21>{1}</color>，持续{2}s。",
+    "GroupId": 4024007,
+    "BuffTag1": -719983267
+  },
+  "4024008": {
+    "Id": 4024008,
+    "Name": "【buff效果】技能伤害提升<color=#ec6d21>{1}</color>，持续{2}s。",
+    "GroupId": 4024008,
+    "BuffTag1": -719983267
+  },
+  "4024009": {
+    "Id": 4024009,
+    "Name": "【buff效果】技能伤害提升<color=#ec6d21>{1}</color>，持续{2}s。",
+    "GroupId": 4024009,
+    "BuffTag1": -719983267
+  },
+  "4024010": {
+    "Id": 4024010,
+    "Name": "【buff效果】技能伤害提升<color=#ec6d21>{1}</color>，持续{2}s。",
+    "GroupId": 4024010,
+    "BuffTag1": -719983267
+  },
+  "4024011": {
+    "Id": 4024011,
+    "Name": "【buff效果】技能伤害提升<color=#ec6d21>{1}</color>，持续{2}s。",
+    "GroupId": 4024011,
+    "BuffTag1": -719983267
+  },
+  "4024012": {
+    "Id": 4024012,
+    "Name": "【buff效果】技能伤害提升<color=#ec6d21>{1}</color>，持续{2}s。",
+    "GroupId": 4024012,
+    "BuffTag1": -719983267
+  },
+  "4024126": {
+    "Id": 4024126,
+    "Name": "【buff效果】攻击力提升<color=#ec6d21>{2}</color>，持续{3}秒。",
+    "GroupId": 4024126,
+    "BuffTag1": -719983267
+  },
+  "4024127": {
+    "Id": 4024127,
+    "Name": "【buff效果】攻击力提升<color=#ec6d21>{2}</color>，持续{3}秒。",
+    "GroupId": 4024127,
+    "BuffTag1": -719983267
+  },
+  "4024128": {
+    "Id": 4024128,
+    "Name": "【buff效果】攻击力提升<color=#ec6d21>{2}</color>，持续{3}秒。",
+    "GroupId": 4024128,
+    "BuffTag1": -719983267
+  },
+  "4024129": {
+    "Id": 4024129,
+    "Name": "【buff效果】攻击力提升<color=#ec6d21>{2}</color>，持续{3}秒。",
+    "GroupId": 4024129,
+    "BuffTag1": -719983267
+  },
+  "4024130": {
+    "Id": 4024130,
+    "Name": "【buff效果】攻击力提升<color=#ec6d21>{2}</color>，持续{3}秒。",
+    "GroupId": 4024130,
+    "BuffTag1": -719983267
+  },
+  "4024200": {
+    "Id": 4024200,
+    "Name": "【once标识buff】任意风系援护角色附加印记时，该角色造成的技能伤害提升<color=#ec6d21>{1}</color>，持续{2}s。",
+    "GroupId": 4024200,
     "BuffTag1": -719983267
   },
   "1": {

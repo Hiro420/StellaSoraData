@@ -13026,6 +13026,66 @@
     "ReplaceType": true,
     "ReplaceMode": true
   },
+  "13396111": {
+    "Id": 13396111,
+    "Name": "1命全队技能伤害提升<color=#0abec5>45%</color>",
+    "Sort": 1,
+    "Effects": [
+      13396111
+    ],
+    "Time": 120000,
+    "LaminatedNum": 1,
+    "Num": 1,
+    "TimeSuperposition": 2,
+    "Timing": 1,
+    "ReplaceType": true,
+    "ReplaceMode": true
+  },
+  "13396211": {
+    "Id": 13396211,
+    "Name": "2命风系伤害提升<color=#0abec5>20%</color>，持续12秒",
+    "Sort": 1,
+    "Effects": [
+      13396211
+    ],
+    "Time": 120000,
+    "LaminatedNum": 1,
+    "Num": 1,
+    "TimeSuperposition": 2,
+    "Timing": 1,
+    "ReplaceType": true,
+    "ReplaceMode": true
+  },
+  "13396311": {
+    "Id": 13396311,
+    "Name": "3命受到风系伤害提升<color=#0abec5>1.4%</color>，最多可以叠加10层。",
+    "Sort": 1,
+    "Effects": [
+      13396311
+    ],
+    "Time": 60000,
+    "LaminatedNum": 10,
+    "Num": 1,
+    "TimeSuperposition": 2,
+    "Timing": 1,
+    "ReplaceType": true,
+    "ReplaceMode": true
+  },
+  "13396411": {
+    "Id": 13396411,
+    "Name": "4命夏花的技能伤害提升<color=#0abec5>28%</color>，持续6秒。",
+    "Sort": 1,
+    "Effects": [
+      13396411
+    ],
+    "Time": 60000,
+    "LaminatedNum": 1,
+    "Num": 1,
+    "TimeSuperposition": 2,
+    "Timing": 1,
+    "ReplaceType": true,
+    "ReplaceMode": true
+  },
   "14301011": {
     "Id": 14301011,
     "Name": "潜能01普攻产生龙卷风标记buff",
@@ -29258,6 +29318,360 @@
     ],
     "Time": 270000,
     "LaminatedNum": 10,
+    "Num": 1,
+    "TimeSuperposition": 2,
+    "Timing": 1,
+    "ReplaceType": true,
+    "ReplaceMode": true
+  },
+  "4015020": {
+    "Id": 4015020,
+    "Name": "【脚本buff】流芳",
+    "Sort": 1,
+    "Time": -10000,
+    "LaminatedNum": 5,
+    "Num": 1,
+    "TimeSuperposition": 2,
+    "Timing": 1,
+    "ReplaceType": true,
+    "ReplaceMode": true
+  },
+  "4015021": {
+    "Id": 4015021,
+    "Name": "【脚本buff】受到风系技能伤害提升<color=#ec6d21>{3}</color>，持续{4}秒，可叠加{5}层。",
+    "Sort": 1,
+    "Effects": [
+      4015021
+    ],
+    "Time": 60000,
+    "LaminatedNum": 10,
+    "Num": 1,
+    "TimeSuperposition": 2,
+    "Timing": 1,
+    "ReplaceType": true,
+    "ReplaceMode": true
+  },
+  "4015022": {
+    "Id": 4015022,
+    "Name": "【脚本buff】受到风系技能伤害提升<color=#ec6d21>{3}</color>，持续{4}秒，可叠加{5}层。",
+    "Sort": 1,
+    "Effects": [
+      4015022
+    ],
+    "Time": 60000,
+    "LaminatedNum": 10,
+    "Num": 1,
+    "TimeSuperposition": 2,
+    "Timing": 1,
+    "ReplaceType": true,
+    "ReplaceMode": true
+  },
+  "4015023": {
+    "Id": 4015023,
+    "Name": "【脚本buff】受到风系技能伤害提升<color=#ec6d21>{3}</color>，持续{4}秒，可叠加{5}层。",
+    "Sort": 1,
+    "Effects": [
+      4015023
+    ],
+    "Time": 60000,
+    "LaminatedNum": 10,
+    "Num": 1,
+    "TimeSuperposition": 2,
+    "Timing": 1,
+    "ReplaceType": true,
+    "ReplaceMode": true
+  },
+  "4015024": {
+    "Id": 4015024,
+    "Name": "【脚本buff】受到风系技能伤害提升<color=#ec6d21>{3}</color>，持续{4}秒，可叠加{5}层。",
+    "Sort": 1,
+    "Effects": [
+      4015024
+    ],
+    "Time": 60000,
+    "LaminatedNum": 10,
+    "Num": 1,
+    "TimeSuperposition": 2,
+    "Timing": 1,
+    "ReplaceType": true,
+    "ReplaceMode": true
+  },
+  "4015025": {
+    "Id": 4015025,
+    "Name": "【脚本buff】受到风系技能伤害提升<color=#ec6d21>{3}</color>，持续{4}秒，可叠加{5}层。",
+    "Sort": 1,
+    "Effects": [
+      4015025
+    ],
+    "Time": 60000,
+    "LaminatedNum": 10,
+    "Num": 1,
+    "TimeSuperposition": 2,
+    "Timing": 1,
+    "ReplaceType": true,
+    "ReplaceMode": true
+  },
+  "4015026": {
+    "Id": 4015026,
+    "Name": "【脚本buff】受到风系技能伤害提升<color=#ec6d21>{3}</color>，持续{4}秒，可叠加{5}层。",
+    "Sort": 1,
+    "Effects": [
+      4015026
+    ],
+    "Time": 60000,
+    "LaminatedNum": 10,
+    "Num": 1,
+    "TimeSuperposition": 2,
+    "Timing": 1,
+    "ReplaceType": true,
+    "ReplaceMode": true
+  },
+  "4015126": {
+    "Id": 4015126,
+    "Name": "【buff效果】技能伤害提升<color=#ec6d21>{2}</color>，持续{3}秒。",
+    "Sort": 1,
+    "Effects": [
+      4015126
+    ],
+    "Time": 100000,
+    "LaminatedNum": 1,
+    "Num": 1,
+    "TimeSuperposition": 2,
+    "Timing": 1,
+    "ReplaceType": true,
+    "ReplaceMode": true
+  },
+  "4015127": {
+    "Id": 4015127,
+    "Name": "【buff效果】技能伤害提升<color=#ec6d21>{2}</color>，持续{3}秒。",
+    "Sort": 1,
+    "Effects": [
+      4015127
+    ],
+    "Time": 100000,
+    "LaminatedNum": 1,
+    "Num": 1,
+    "TimeSuperposition": 2,
+    "Timing": 1,
+    "ReplaceType": true,
+    "ReplaceMode": true
+  },
+  "4015128": {
+    "Id": 4015128,
+    "Name": "【buff效果】技能伤害提升<color=#ec6d21>{2}</color>，持续{3}秒。",
+    "Sort": 1,
+    "Effects": [
+      4015128
+    ],
+    "Time": 100000,
+    "LaminatedNum": 1,
+    "Num": 1,
+    "TimeSuperposition": 2,
+    "Timing": 1,
+    "ReplaceType": true,
+    "ReplaceMode": true
+  },
+  "4015129": {
+    "Id": 4015129,
+    "Name": "【buff效果】技能伤害提升<color=#ec6d21>{2}</color>，持续{3}秒。",
+    "Sort": 1,
+    "Effects": [
+      4015129
+    ],
+    "Time": 100000,
+    "LaminatedNum": 1,
+    "Num": 1,
+    "TimeSuperposition": 2,
+    "Timing": 1,
+    "ReplaceType": true,
+    "ReplaceMode": true
+  },
+  "4015130": {
+    "Id": 4015130,
+    "Name": "【buff效果】技能伤害提升<color=#ec6d21>{2}</color>，持续{3}秒。",
+    "Sort": 1,
+    "Effects": [
+      4015130
+    ],
+    "Time": 100000,
+    "LaminatedNum": 1,
+    "Num": 1,
+    "TimeSuperposition": 2,
+    "Timing": 1,
+    "ReplaceType": true,
+    "ReplaceMode": true
+  },
+  "4024007": {
+    "Id": 4024007,
+    "Name": "【buff效果】技能伤害提升<color=#ec6d21>{1}</color>，持续{2}s。",
+    "Sort": 1,
+    "Effects": [
+      4024007
+    ],
+    "Time": 30000,
+    "LaminatedNum": 1,
+    "Num": 1,
+    "TimeSuperposition": 2,
+    "Timing": 1,
+    "ReplaceType": true,
+    "ReplaceMode": true
+  },
+  "4024008": {
+    "Id": 4024008,
+    "Name": "【buff效果】技能伤害提升<color=#ec6d21>{1}</color>，持续{2}s。",
+    "Sort": 1,
+    "Effects": [
+      4024008
+    ],
+    "Time": 30000,
+    "LaminatedNum": 1,
+    "Num": 1,
+    "TimeSuperposition": 2,
+    "Timing": 1,
+    "ReplaceType": true,
+    "ReplaceMode": true
+  },
+  "4024009": {
+    "Id": 4024009,
+    "Name": "【buff效果】技能伤害提升<color=#ec6d21>{1}</color>，持续{2}s。",
+    "Sort": 1,
+    "Effects": [
+      4024009
+    ],
+    "Time": 30000,
+    "LaminatedNum": 1,
+    "Num": 1,
+    "TimeSuperposition": 2,
+    "Timing": 1,
+    "ReplaceType": true,
+    "ReplaceMode": true
+  },
+  "4024010": {
+    "Id": 4024010,
+    "Name": "【buff效果】技能伤害提升<color=#ec6d21>{1}</color>，持续{2}s。",
+    "Sort": 1,
+    "Effects": [
+      4024010
+    ],
+    "Time": 30000,
+    "LaminatedNum": 1,
+    "Num": 1,
+    "TimeSuperposition": 2,
+    "Timing": 1,
+    "ReplaceType": true,
+    "ReplaceMode": true
+  },
+  "4024011": {
+    "Id": 4024011,
+    "Name": "【buff效果】技能伤害提升<color=#ec6d21>{1}</color>，持续{2}s。",
+    "Sort": 1,
+    "Effects": [
+      4024011
+    ],
+    "Time": 30000,
+    "LaminatedNum": 1,
+    "Num": 1,
+    "TimeSuperposition": 2,
+    "Timing": 1,
+    "ReplaceType": true,
+    "ReplaceMode": true
+  },
+  "4024012": {
+    "Id": 4024012,
+    "Name": "【buff效果】技能伤害提升<color=#ec6d21>{1}</color>，持续{2}s。",
+    "Sort": 1,
+    "Effects": [
+      4024012
+    ],
+    "Time": 30000,
+    "LaminatedNum": 1,
+    "Num": 1,
+    "TimeSuperposition": 2,
+    "Timing": 1,
+    "ReplaceType": true,
+    "ReplaceMode": true
+  },
+  "4024126": {
+    "Id": 4024126,
+    "Name": "【buff效果】攻击力提升<color=#ec6d21>{2}</color>，持续{3}秒。",
+    "Sort": 1,
+    "Effects": [
+      4024126
+    ],
+    "Time": 30000,
+    "LaminatedNum": 1,
+    "Num": 1,
+    "TimeSuperposition": 2,
+    "Timing": 1,
+    "ReplaceType": true,
+    "ReplaceMode": true
+  },
+  "4024127": {
+    "Id": 4024127,
+    "Name": "【buff效果】攻击力提升<color=#ec6d21>{2}</color>，持续{3}秒。",
+    "Sort": 1,
+    "Effects": [
+      4024127
+    ],
+    "Time": 30000,
+    "LaminatedNum": 1,
+    "Num": 1,
+    "TimeSuperposition": 2,
+    "Timing": 1,
+    "ReplaceType": true,
+    "ReplaceMode": true
+  },
+  "4024128": {
+    "Id": 4024128,
+    "Name": "【buff效果】攻击力提升<color=#ec6d21>{2}</color>，持续{3}秒。",
+    "Sort": 1,
+    "Effects": [
+      4024128
+    ],
+    "Time": 30000,
+    "LaminatedNum": 1,
+    "Num": 1,
+    "TimeSuperposition": 2,
+    "Timing": 1,
+    "ReplaceType": true,
+    "ReplaceMode": true
+  },
+  "4024129": {
+    "Id": 4024129,
+    "Name": "【buff效果】攻击力提升<color=#ec6d21>{2}</color>，持续{3}秒。",
+    "Sort": 1,
+    "Effects": [
+      4024129
+    ],
+    "Time": 30000,
+    "LaminatedNum": 1,
+    "Num": 1,
+    "TimeSuperposition": 2,
+    "Timing": 1,
+    "ReplaceType": true,
+    "ReplaceMode": true
+  },
+  "4024130": {
+    "Id": 4024130,
+    "Name": "【buff效果】攻击力提升<color=#ec6d21>{2}</color>，持续{3}秒。",
+    "Sort": 1,
+    "Effects": [
+      4024130
+    ],
+    "Time": 30000,
+    "LaminatedNum": 1,
+    "Num": 1,
+    "TimeSuperposition": 2,
+    "Timing": 1,
+    "ReplaceType": true,
+    "ReplaceMode": true
+  },
+  "4024200": {
+    "Id": 4024200,
+    "Name": "【once标识buff】任意风系援护角色附加印记时，该角色造成的技能伤害提升<color=#ec6d21>{1}</color>，持续{2}s。",
+    "Sort": 1,
+    "Time": 30000,
+    "LaminatedNum": 1,
     "Num": 1,
     "TimeSuperposition": 2,
     "Timing": 1,

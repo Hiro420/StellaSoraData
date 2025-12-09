@@ -339,6 +339,36 @@
     "Desc": "MailTemplate.10103.3",
     "Type": 1
   },
+  "10201": {
+    "Id": 10201,
+    "Explanation": "梦的彼岸活动结束倒计时邮件",
+    "Icon": "Icon/Head/head_npc10201",
+    "Author": "MailTemplate.10201.1",
+    "LetterPaper": "background2",
+    "Subject": "MailTemplate.10201.2",
+    "Desc": "MailTemplate.10201.3",
+    "Type": 1
+  },
+  "10202": {
+    "Id": 10202,
+    "Explanation": "梦的彼岸活动结束货币转换邮件",
+    "Icon": "Icon/Head/head_npc10201",
+    "Author": "MailTemplate.10202.1",
+    "LetterPaper": "background2",
+    "Subject": "MailTemplate.10202.2",
+    "Desc": "MailTemplate.10202.3",
+    "Type": 1
+  },
+  "10203": {
+    "Id": 10203,
+    "Explanation": "梦的彼岸活动任务结束未领取邮件",
+    "Icon": "Icon/Head/head_npc10201",
+    "Author": "MailTemplate.10203.1",
+    "LetterPaper": "background2",
+    "Subject": "MailTemplate.10203.2",
+    "Desc": "MailTemplate.10203.3",
+    "Type": 1
+  },
   "9999": {
     "Id": 9999,
     "Explanation": "商品延迟到账提示",

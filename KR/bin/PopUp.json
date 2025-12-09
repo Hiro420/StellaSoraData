@@ -1,4 +1,42 @@
 {
+  "1": {
+    "Id": 1,
+    "SortId": 1,
+    "PopUpType": 3,
+    "PopUpRes": "MallPkgPopup/Popup_1",
+    "ScriptName": "MallPkgPopupCtrl",
+    "ScriptParams": "[\"pack.03_gift\", \"pack.03_disc\", \"pack.03_res\", \"pack.03_role\"]",
+    "PopRefreshType": 3,
+    "PopJumpType": 3,
+    "JumpToParams": 18,
+    "StartCondType": 71,
+    "StartCondParams": [
+      2
+    ],
+    "StartType": 2,
+    "StartTime": "2025-11-18T12:00:00+08:00",
+    "EndType": 2,
+    "EndTime": "2025-12-09T11:00:00+08:00"
+  },
+  "2": {
+    "Id": 2,
+    "SortId": 2,
+    "PopUpType": 3,
+    "PopUpRes": "MallPkgPopup/Popup_2",
+    "ScriptName": "MallPkgPopupCtrl",
+    "ScriptParams": "[\"pack.04_gift\", \"pack.04_disc\", \"pack.04_res\", \"pack.04_role\"]",
+    "PopRefreshType": 3,
+    "PopJumpType": 3,
+    "JumpToParams": 18,
+    "StartCondType": 71,
+    "StartCondParams": [
+      2
+    ],
+    "StartType": 2,
+    "StartTime": "2025-12-09T12:00:00+08:00",
+    "EndType": 2,
+    "EndTime": "2025-12-30T04:00:00+08:00"
+  },
   "1000": {
     "Id": 1000,
     "SortId": 1000,
@@ -9,6 +47,26 @@
     "PopRefreshType": 2,
     "PopJumpType": 2,
     "JumpToParams": 149
+  },
+  "1001": {
+    "Id": 1001,
+    "SortId": 1001,
+    "PopUpType": 2,
+    "ActivityId": 10101,
+    "PopUpRes": "10101/PopUp",
+    "ScriptName": "ActivityOurRegiment_10101PopUpCtrl",
+    "PopRefreshType": 2,
+    "PopJumpType": 2
+  },
+  "1002": {
+    "Id": 1002,
+    "SortId": 1002,
+    "PopUpType": 2,
+    "ActivityId": 10102,
+    "PopUpRes": "10102/PopUp",
+    "ScriptName": "ActivityDream_10102PopUpCtrl",
+    "PopRefreshType": 2,
+    "PopJumpType": 2
   },
   "2005": {
     "Id": 2005,
@@ -31,24 +89,6 @@
     "PopRefreshType": 1,
     "PopJumpType": 1
   },
-  "1": {
-    "Id": 1,
-    "SortId": 1,
-    "PopUpType": 3,
-    "PopUpRes": "MallPkgPopup/Popup_1",
-    "ScriptName": "MallPkgPopupCtrl",
-    "PopRefreshType": 3,
-    "PopJumpType": 3,
-    "JumpToParams": 18,
-    "StartCondType": 71,
-    "StartCondParams": [
-      2
-    ],
-    "StartType": 2,
-    "StartTime": "2025-11-18T12:00:00+08:00",
-    "EndType": 2,
-    "EndTime": "2025-12-09T11:00:00+08:00"
-  },
   "2007": {
     "Id": 2007,
     "SortId": 2008,
@@ -62,15 +102,5 @@
     "StartCondParams": [
       1
     ]
-  },
-  "1001": {
-    "Id": 1001,
-    "SortId": 1001,
-    "PopUpType": 2,
-    "ActivityId": 10101,
-    "PopUpRes": "10101/PopUp",
-    "ScriptName": "ActivityOurRegiment_10101PopUpCtrl",
-    "PopRefreshType": 2,
-    "PopJumpType": 2
   }
 }

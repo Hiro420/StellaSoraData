@@ -22465,10 +22465,13 @@
     "EffectGroupId": 13309,
     "IsEffective": true,
     "Corner": 2,
+    "EffectId1": 13350901,
     "BriefDesc": "Potential.513309.1",
     "Desc": "Potential.513309.2",
     "Param1": "OnceAdditionalAttribute,LevelUp,13350901,AttributeType1,Enum,EAT",
-    "Param2": "OnceAdditionalAttribute,LevelUp,13350901,Value1,10KHdPct"
+    "Param2": "OnceAdditionalAttribute,LevelUp,13350901,Value1,10KHdPct",
+    "Param3": "Effect,LevelUp,13350901,EffectTypeFirstSubtype,Enum,EAT",
+    "Param4": "Effect,LevelUp,13350901,EffectTypeParam1,HdPct"
   },
   "513310": {
     "Id": 513310,
@@ -22845,7 +22848,9 @@
     "Corner": 3,
     "BriefDesc": "Potential.513330.1",
     "Desc": "Potential.513330.2",
-    "Param1": "HitDamage,DamageNum,133530001"
+    "Param1": "HitDamage,DamageNum,133530001",
+    "Param2": "OnceAdditionalAttribute,LevelUp,13353001,AttributeType1,Enum,EAT",
+    "Param3": "OnceAdditionalAttribute,LevelUp,13353001,Value1,10KHdPct"
   },
   "513331": {
     "Id": 513331,
@@ -23006,10 +23011,11 @@
     "EffectGroupId": 13343,
     "IsEffective": true,
     "Corner": 3,
+    "EffectId1": 13354302,
     "BriefDesc": "Potential.513343.1",
     "Desc": "Potential.513343.2",
-    "Param1": "OnceAdditionalAttribute,LevelUp,13354301,AttributeType1,Enum,EAT",
-    "Param2": "OnceAdditionalAttribute,LevelUp,13354301,Value1,10KHdPct",
+    "Param1": "Effect,LevelUp,13354302,EffectTypeFirstSubtype,Enum,EAT",
+    "Param2": "Effect,LevelUp,13354302,EffectTypeParam1,HdPct",
     "Param3": "Effect,LevelUp,13354301,EffectTypeFirstSubtype,Enum,EAT",
     "Param4": "Effect,LevelUp,13354301,EffectTypeParam1,HdPct",
     "Param5": "BuffValue,NoLevel,13354311,Time,10K",

@@ -705,7 +705,9 @@
     "Id": 400000,
     "Type": 39,
     "Param": [
-      400000
+      400000,
+      171,
+      1
     ],
     "Desc": "JumpTo.400000.1",
     "Icon": "Icon/JumpTo/btn_icon_Activity_SwimMiningTask"
@@ -714,10 +716,12 @@
     "Id": 400002,
     "Type": 39,
     "Param": [
-      400002
+      400002,
+      193,
+      2
     ],
     "Desc": "JumpTo.400002.1",
-    "Icon": "Icon/JumpTo/btn_icon_system_Event"
+    "Icon": "Icon/JumpTo/btn_icon_Activity_DreamMiningTask"
   },
   "20072001": {
     "Id": 20072001,

@@ -362,60 +362,153 @@
       "STm02_02_c"
     ]
   },
-  "400": {
-    "Id": 400,
+  "401": {
+    "Id": 401,
     "ConditionId": "C04_01",
     "StoryId_a": [
       "STm04_01"
-    ],
-    "PlayerWorldLevel": 9
-  },
-  "401": {
-    "Id": 401,
-    "ConditionId": "C04_02",
-    "StoryId_a": [
-      "STm04_02"
-    ],
-    "PlayerWorldLevel": 9
+    ]
   },
   "402": {
     "Id": 402,
-    "ConditionId": "C04_03",
+    "ConditionId": "C04_02",
     "StoryId_a": [
-      "STm04_03"
-    ],
-    "PlayerWorldLevel": 9
+      "STm04_02"
+    ]
   },
   "403": {
     "Id": 403,
-    "ConditionId": "C04_04",
-    "StoryId_a": [
-      "STm04_04"
+    "ConditionId": "C04_03_a",
+    "EvIds_a": [
+      "E401"
     ],
-    "PlayerWorldLevel": 9
+    "StoryId_a": [
+      "STm04_02"
+    ]
   },
   "404": {
     "Id": 404,
-    "ConditionId": "C04_05",
-    "StoryId_a": [
-      "STm04_05"
+    "ConditionId": "C04_03_b",
+    "EvIds_a": [
+      "E402"
     ],
-    "PlayerWorldLevel": 9
+    "StoryId_a": [
+      "STm04_02"
+    ]
   },
   "405": {
     "Id": 405,
-    "ConditionId": "C04_06",
-    "StoryId_a": [
-      "STm04_06"
+    "ConditionId": "C04_03_c",
+    "EvIds_a": [
+      "E403"
     ],
-    "PlayerWorldLevel": 9
+    "StoryId_a": [
+      "STm04_02"
+    ]
   },
   "406": {
     "Id": 406,
+    "ConditionId": "C04_04_a",
+    "EvIds_a": [
+      "E404"
+    ],
+    "StoryId_b": [
+      "STm04_03_b",
+      "STm04_03_c"
+    ]
+  },
+  "407": {
+    "Id": 407,
+    "ConditionId": "C04_04_b",
+    "EvIds_a": [
+      "E405"
+    ],
+    "StoryId_b": [
+      "STm04_03_b",
+      "STm04_03_c"
+    ]
+  },
+  "408": {
+    "Id": 408,
+    "ConditionId": "C04_04_c",
+    "EvIds_a": [
+      "E406"
+    ],
+    "StoryId_b": [
+      "STm04_03_b",
+      "STm04_03_c"
+    ]
+  },
+  "409": {
+    "Id": 409,
+    "ConditionId": "C04_04",
+    "StoryId_b": [
+      "STm04_04_a",
+      "STm04_04_b",
+      "STm04_04_c"
+    ]
+  },
+  "410": {
+    "Id": 410,
+    "ConditionId": "C04_05",
+    "StoryId_a": [
+      "STm04_05"
+    ]
+  },
+  "411": {
+    "Id": 411,
+    "ConditionId": "C04_06",
+    "StoryId_a": [
+      "STm04_06"
+    ]
+  },
+  "412": {
+    "Id": 412,
     "ConditionId": "C04_07",
     "StoryId_a": [
-      "BAm04_01"
-    ],
-    "PlayerWorldLevel": 9
+      "STm04_07"
+    ]
+  },
+  "413": {
+    "Id": 413,
+    "ConditionId": "C04_08",
+    "StoryId_a": [
+      "STm04_08"
+    ]
+  },
+  "414": {
+    "Id": 414,
+    "ConditionId": "C04_09",
+    "StoryId_a": [
+      "STm04_09"
+    ]
+  },
+  "415": {
+    "Id": 415,
+    "ConditionId": "C04_10",
+    "StoryId_a": [
+      "STm04_10"
+    ]
+  },
+  "416": {
+    "Id": 416,
+    "ConditionId": "C04_11",
+    "StoryId_a": [
+      "STm04_11"
+    ]
+  },
+  "417": {
+    "Id": 417,
+    "ConditionId": "CBA04_04",
+    "StoryId_a": [
+      "BAm04_04"
+    ]
+  },
+  "418": {
+    "Id": 418,
+    "ConditionId": "CBA04_09",
+    "StoryId_a": [
+      "BAm04_09"
+    ]
   }
 }

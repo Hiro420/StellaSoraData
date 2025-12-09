@@ -180,6 +180,7 @@
     "MonsterLv": 8,
     "SceneName": "Levels/StoryActivity/StoryActivity_2/StoryActivity_2_016_A_01_Mir",
     "ConfigPrefabName": "StoryActivity_016_A_Mir_N8",
+    "Mir": true,
     "Theme": 406,
     "BGM": "mode_Dongxiang_combatNormal_setState",
     "LeaveTriggerEvent": "amb_forest_all_stop"
@@ -217,8 +218,120 @@
     "MonsterLv": 12,
     "SceneName": "Levels/StoryActivity/StoryActivity_2/StoryActivity_2_016_A_01_Mir",
     "ConfigPrefabName": "StoryActivity_016_A_Mir_H4",
+    "Mir": true,
     "Theme": 406,
     "BGM": "mode_Dongxiang_combatNormal_setState",
+    "LeaveTriggerEvent": "amb_forest_all_stop"
+  },
+  "300301": {
+    "Id": 300301,
+    "MonsterLv": 1,
+    "SceneName": "Levels/StoryActivity/StoryActivity_3/StoryActivity_3_013_A_01",
+    "ConfigPrefabName": "StoryActivity_013_A_N1",
+    "Theme": 411,
+    "BGM": "mode_Xiahua_combatNormal_setState",
+    "LeaveTriggerEvent": "amb_forest_all_stop"
+  },
+  "300302": {
+    "Id": 300302,
+    "MonsterLv": 2,
+    "SceneName": "Levels/StoryActivity/StoryActivity_3/StoryActivity_3_011_A_01",
+    "ConfigPrefabName": "StoryActivity_011_A_N2",
+    "Theme": 411,
+    "BGM": "mode_Xiahua_combatNormal_setState",
+    "LeaveTriggerEvent": "amb_forest_all_stop"
+  },
+  "300303": {
+    "Id": 300303,
+    "MonsterLv": 3,
+    "SceneName": "Levels/StoryActivity/StoryActivity_3/StoryActivity_3_014_A_01",
+    "ConfigPrefabName": "StoryActivity_014_A_N3",
+    "Theme": 411,
+    "BGM": "mode_Xiahua_combatNormal_setState",
+    "LeaveTriggerEvent": "amb_forest_all_stop"
+  },
+  "300304": {
+    "Id": 300304,
+    "MonsterLv": 4,
+    "SceneName": "Levels/StoryActivity/StoryActivity_3/StoryActivity_3_Boss_MaoDa_A_01",
+    "ConfigPrefabName": "StoryActivity_MaoDa_N4",
+    "Theme": 411,
+    "BGM": "mode_Xiahua_combatNormal_setState",
+    "LeaveTriggerEvent": "amb_forest_all_stop"
+  },
+  "300305": {
+    "Id": 300305,
+    "MonsterLv": 5,
+    "SceneName": "Levels/StoryActivity/StoryActivity_3/StoryActivity_3_011_A_01_Mir",
+    "ConfigPrefabName": "StoryActivity_011_A_N5_Mir",
+    "Mir": true,
+    "Theme": 411,
+    "BGM": "mode_Xiahua_combatNormal_setState",
+    "LeaveTriggerEvent": "amb_forest_all_stop"
+  },
+  "300306": {
+    "Id": 300306,
+    "MonsterLv": 6,
+    "SceneName": "Levels/StoryActivity/StoryActivity_3/StoryActivity_3_014_A_01_Mir",
+    "ConfigPrefabName": "StoryActivity_014_A_N6_Mir",
+    "Mir": true,
+    "Theme": 411,
+    "BGM": "mode_Xiahua_combatNormal_setState",
+    "LeaveTriggerEvent": "amb_forest_all_stop"
+  },
+  "300307": {
+    "Id": 300307,
+    "MonsterLv": 7,
+    "SceneName": "Levels/StoryActivity/StoryActivity_3/StoryActivity_3_013_A_01_Mir",
+    "ConfigPrefabName": "StoryActivity_013_A_N7_Mir",
+    "Mir": true,
+    "Theme": 411,
+    "BGM": "mode_Xiahua_combatNormal_setState",
+    "LeaveTriggerEvent": "amb_forest_all_stop"
+  },
+  "300308": {
+    "Id": 300308,
+    "MonsterLv": 8,
+    "SceneName": "Levels/StoryActivity/StoryActivity_3/StoryActivity_3_Boss_MaoDa_A_01",
+    "ConfigPrefabName": "StoryActivity_MaoDa_N8",
+    "Theme": 411,
+    "BGM": "mode_Xiahua_combatNormal_setState",
+    "LeaveTriggerEvent": "amb_forest_all_stop"
+  },
+  "300309": {
+    "Id": 300309,
+    "MonsterLv": 9,
+    "SceneName": "Levels/StoryActivity/StoryActivity_3/StoryActivity_3_014_A_01",
+    "ConfigPrefabName": "StoryActivity_014_A_H1",
+    "Theme": 411,
+    "BGM": "mode_Xiahua_combatNormal_setState",
+    "LeaveTriggerEvent": "amb_forest_all_stop"
+  },
+  "300310": {
+    "Id": 300310,
+    "MonsterLv": 10,
+    "SceneName": "Levels/StoryActivity/StoryActivity_3/StoryActivity_3_005_B_01",
+    "ConfigPrefabName": "StoryActivity_005_B_H2",
+    "Theme": 411,
+    "BGM": "mode_Xiahua_combatNormal_setState",
+    "LeaveTriggerEvent": "amb_forest_all_stop"
+  },
+  "300311": {
+    "Id": 300311,
+    "MonsterLv": 11,
+    "SceneName": "Levels/StoryActivity/StoryActivity_3/StoryActivity_3_013_A_01",
+    "ConfigPrefabName": "StoryActivity_013_A_H3",
+    "Theme": 411,
+    "BGM": "mode_Xiahua_combatNormal_setState",
+    "LeaveTriggerEvent": "amb_forest_all_stop"
+  },
+  "300312": {
+    "Id": 300312,
+    "MonsterLv": 12,
+    "SceneName": "Levels/StoryActivity/StoryActivity_3/StoryActivity_3_Boss_MaoDa_A_01",
+    "ConfigPrefabName": "StoryActivity_MaoDa_H4",
+    "Theme": 411,
+    "BGM": "mode_Xiahua_combatNormal_setState",
     "LeaveTriggerEvent": "amb_forest_all_stop"
   }
 }

@@ -36659,7 +36659,7 @@
     "EffectType": 12,
     "EffectTypeFirstSubtype": 2,
     "EffectTypeSecondSubtype": 1,
-    "EffectTypeParam1": "29"
+    "EffectTypeParam1": "50"
   },
   "13350621": {
     "Id": 13350621,
@@ -36669,7 +36669,7 @@
     "EffectType": 12,
     "EffectTypeFirstSubtype": 2,
     "EffectTypeSecondSubtype": 1,
-    "EffectTypeParam1": "38"
+    "EffectTypeParam1": "67"
   },
   "13350631": {
     "Id": 13350631,
@@ -36679,7 +36679,7 @@
     "EffectType": 12,
     "EffectTypeFirstSubtype": 2,
     "EffectTypeSecondSubtype": 1,
-    "EffectTypeParam1": "48"
+    "EffectTypeParam1": "84"
   },
   "13350641": {
     "Id": 13350641,
@@ -36689,7 +36689,7 @@
     "EffectType": 12,
     "EffectTypeFirstSubtype": 2,
     "EffectTypeSecondSubtype": 1,
-    "EffectTypeParam1": "58"
+    "EffectTypeParam1": "101"
   },
   "13350651": {
     "Id": 13350651,
@@ -36699,7 +36699,7 @@
     "EffectType": 12,
     "EffectTypeFirstSubtype": 2,
     "EffectTypeSecondSubtype": 1,
-    "EffectTypeParam1": "67"
+    "EffectTypeParam1": "118"
   },
   "13350661": {
     "Id": 13350661,
@@ -36709,7 +36709,7 @@
     "EffectType": 12,
     "EffectTypeFirstSubtype": 2,
     "EffectTypeSecondSubtype": 1,
-    "EffectTypeParam1": "77"
+    "EffectTypeParam1": "134"
   },
   "13350671": {
     "Id": 13350671,
@@ -36719,7 +36719,7 @@
     "EffectType": 12,
     "EffectTypeFirstSubtype": 2,
     "EffectTypeSecondSubtype": 1,
-    "EffectTypeParam1": "86"
+    "EffectTypeParam1": "151"
   },
   "13350681": {
     "Id": 13350681,
@@ -36729,7 +36729,7 @@
     "EffectType": 12,
     "EffectTypeFirstSubtype": 2,
     "EffectTypeSecondSubtype": 1,
-    "EffectTypeParam1": "96"
+    "EffectTypeParam1": "168"
   },
   "13350691": {
     "Id": 13350691,
@@ -36739,7 +36739,7 @@
     "EffectType": 12,
     "EffectTypeFirstSubtype": 2,
     "EffectTypeSecondSubtype": 1,
-    "EffectTypeParam1": "106"
+    "EffectTypeParam1": "185"
   },
   "13350811": {
     "Id": 13350811,
@@ -36749,7 +36749,7 @@
     "EffectType": 12,
     "EffectTypeFirstSubtype": 1,
     "EffectTypeSecondSubtype": 2,
-    "EffectTypeParam1": "3"
+    "EffectTypeParam1": "0.1"
   },
   "13350821": {
     "Id": 13350821,
@@ -36759,7 +36759,7 @@
     "EffectType": 12,
     "EffectTypeFirstSubtype": 1,
     "EffectTypeSecondSubtype": 2,
-    "EffectTypeParam1": "3"
+    "EffectTypeParam1": "0.16"
   },
   "13350831": {
     "Id": 13350831,
@@ -36769,7 +36769,7 @@
     "EffectType": 12,
     "EffectTypeFirstSubtype": 1,
     "EffectTypeSecondSubtype": 2,
-    "EffectTypeParam1": "3"
+    "EffectTypeParam1": "0.22"
   },
   "13350841": {
     "Id": 13350841,
@@ -36779,7 +36779,7 @@
     "EffectType": 12,
     "EffectTypeFirstSubtype": 1,
     "EffectTypeSecondSubtype": 2,
-    "EffectTypeParam1": "3"
+    "EffectTypeParam1": "0.28"
   },
   "13350851": {
     "Id": 13350851,
@@ -36789,7 +36789,7 @@
     "EffectType": 12,
     "EffectTypeFirstSubtype": 1,
     "EffectTypeSecondSubtype": 2,
-    "EffectTypeParam1": "3"
+    "EffectTypeParam1": "0.34"
   },
   "13350861": {
     "Id": 13350861,
@@ -36799,7 +36799,7 @@
     "EffectType": 12,
     "EffectTypeFirstSubtype": 1,
     "EffectTypeSecondSubtype": 2,
-    "EffectTypeParam1": "3"
+    "EffectTypeParam1": "0.4"
   },
   "13350871": {
     "Id": 13350871,
@@ -36809,7 +36809,7 @@
     "EffectType": 12,
     "EffectTypeFirstSubtype": 1,
     "EffectTypeSecondSubtype": 2,
-    "EffectTypeParam1": "3"
+    "EffectTypeParam1": "0.46"
   },
   "13350881": {
     "Id": 13350881,
@@ -36819,7 +36819,7 @@
     "EffectType": 12,
     "EffectTypeFirstSubtype": 1,
     "EffectTypeSecondSubtype": 2,
-    "EffectTypeParam1": "3"
+    "EffectTypeParam1": "0.52"
   },
   "13350891": {
     "Id": 13350891,
@@ -36829,7 +36829,97 @@
     "EffectType": 12,
     "EffectTypeFirstSubtype": 1,
     "EffectTypeSecondSubtype": 2,
-    "EffectTypeParam1": "3"
+    "EffectTypeParam1": "0.58"
+  },
+  "13350911": {
+    "Id": 13350911,
+    "Name": "潜能09 攻击力提升",
+    "Tag": "1",
+    "EffectRate": 100,
+    "EffectType": 12,
+    "EffectTypeFirstSubtype": 1,
+    "EffectTypeSecondSubtype": 2,
+    "EffectTypeParam1": "0.05"
+  },
+  "13350921": {
+    "Id": 13350921,
+    "Name": "潜能09 攻击力提升",
+    "Tag": "1",
+    "EffectRate": 100,
+    "EffectType": 12,
+    "EffectTypeFirstSubtype": 1,
+    "EffectTypeSecondSubtype": 2,
+    "EffectTypeParam1": "0.08"
+  },
+  "13350931": {
+    "Id": 13350931,
+    "Name": "潜能09 攻击力提升",
+    "Tag": "1",
+    "EffectRate": 100,
+    "EffectType": 12,
+    "EffectTypeFirstSubtype": 1,
+    "EffectTypeSecondSubtype": 2,
+    "EffectTypeParam1": "0.11"
+  },
+  "13350941": {
+    "Id": 13350941,
+    "Name": "潜能09 攻击力提升",
+    "Tag": "1",
+    "EffectRate": 100,
+    "EffectType": 12,
+    "EffectTypeFirstSubtype": 1,
+    "EffectTypeSecondSubtype": 2,
+    "EffectTypeParam1": "0.14"
+  },
+  "13350951": {
+    "Id": 13350951,
+    "Name": "潜能09 攻击力提升",
+    "Tag": "1",
+    "EffectRate": 100,
+    "EffectType": 12,
+    "EffectTypeFirstSubtype": 1,
+    "EffectTypeSecondSubtype": 2,
+    "EffectTypeParam1": "0.17"
+  },
+  "13350961": {
+    "Id": 13350961,
+    "Name": "潜能09 攻击力提升",
+    "Tag": "1",
+    "EffectRate": 100,
+    "EffectType": 12,
+    "EffectTypeFirstSubtype": 1,
+    "EffectTypeSecondSubtype": 2,
+    "EffectTypeParam1": "0.2"
+  },
+  "13350971": {
+    "Id": 13350971,
+    "Name": "潜能09 攻击力提升",
+    "Tag": "1",
+    "EffectRate": 100,
+    "EffectType": 12,
+    "EffectTypeFirstSubtype": 1,
+    "EffectTypeSecondSubtype": 2,
+    "EffectTypeParam1": "0.23"
+  },
+  "13350981": {
+    "Id": 13350981,
+    "Name": "潜能09 攻击力提升",
+    "Tag": "1",
+    "EffectRate": 100,
+    "EffectType": 12,
+    "EffectTypeFirstSubtype": 1,
+    "EffectTypeSecondSubtype": 2,
+    "EffectTypeParam1": "0.26"
+  },
+  "13350991": {
+    "Id": 13350991,
+    "Name": "潜能09 攻击力提升",
+    "Tag": "1",
+    "EffectRate": 100,
+    "EffectType": 12,
+    "EffectTypeFirstSubtype": 1,
+    "EffectTypeSecondSubtype": 2,
+    "EffectTypeParam1": "0.29"
   },
   "13351011": {
     "Id": 13351011,
@@ -36839,7 +36929,7 @@
     "EffectType": 12,
     "EffectTypeFirstSubtype": 1,
     "EffectTypeSecondSubtype": 2,
-    "EffectTypeParam1": "0.88"
+    "EffectTypeParam1": "0.6"
   },
   "13351021": {
     "Id": 13351021,
@@ -36849,7 +36939,7 @@
     "EffectType": 12,
     "EffectTypeFirstSubtype": 1,
     "EffectTypeSecondSubtype": 2,
-    "EffectTypeParam1": "1.41"
+    "EffectTypeParam1": "0.96"
   },
   "13351031": {
     "Id": 13351031,
@@ -36859,7 +36949,7 @@
     "EffectType": 12,
     "EffectTypeFirstSubtype": 1,
     "EffectTypeSecondSubtype": 2,
-    "EffectTypeParam1": "1.94"
+    "EffectTypeParam1": "1.32"
   },
   "13351041": {
     "Id": 13351041,
@@ -36869,7 +36959,7 @@
     "EffectType": 12,
     "EffectTypeFirstSubtype": 1,
     "EffectTypeSecondSubtype": 2,
-    "EffectTypeParam1": "2.47"
+    "EffectTypeParam1": "1.68"
   },
   "13351051": {
     "Id": 13351051,
@@ -36879,7 +36969,7 @@
     "EffectType": 12,
     "EffectTypeFirstSubtype": 1,
     "EffectTypeSecondSubtype": 2,
-    "EffectTypeParam1": "3"
+    "EffectTypeParam1": "2.04"
   },
   "13351061": {
     "Id": 13351061,
@@ -36889,7 +36979,7 @@
     "EffectType": 12,
     "EffectTypeFirstSubtype": 1,
     "EffectTypeSecondSubtype": 2,
-    "EffectTypeParam1": "3.53"
+    "EffectTypeParam1": "2.4"
   },
   "13351071": {
     "Id": 13351071,
@@ -36899,7 +36989,7 @@
     "EffectType": 12,
     "EffectTypeFirstSubtype": 1,
     "EffectTypeSecondSubtype": 2,
-    "EffectTypeParam1": "4.06"
+    "EffectTypeParam1": "2.76"
   },
   "13351081": {
     "Id": 13351081,
@@ -36909,7 +36999,7 @@
     "EffectType": 12,
     "EffectTypeFirstSubtype": 1,
     "EffectTypeSecondSubtype": 2,
-    "EffectTypeParam1": "4.59"
+    "EffectTypeParam1": "3.12"
   },
   "13351091": {
     "Id": 13351091,
@@ -36919,7 +37009,7 @@
     "EffectType": 12,
     "EffectTypeFirstSubtype": 1,
     "EffectTypeSecondSubtype": 2,
-    "EffectTypeParam1": "5.11"
+    "EffectTypeParam1": "3.48"
   },
   "13351111": {
     "Id": 13351111,
@@ -36927,8 +37017,8 @@
     "Tag": "1",
     "EffectRate": 100,
     "EffectType": 12,
-    "EffectTypeFirstSubtype": 1,
-    "EffectTypeSecondSubtype": 2,
+    "EffectTypeFirstSubtype": 20,
+    "EffectTypeSecondSubtype": 1,
     "EffectTypeParam1": "0.15"
   },
   "13351121": {
@@ -36937,8 +37027,8 @@
     "Tag": "1",
     "EffectRate": 100,
     "EffectType": 12,
-    "EffectTypeFirstSubtype": 1,
-    "EffectTypeSecondSubtype": 2,
+    "EffectTypeFirstSubtype": 20,
+    "EffectTypeSecondSubtype": 1,
     "EffectTypeParam1": "0.24"
   },
   "13351131": {
@@ -36947,8 +37037,8 @@
     "Tag": "1",
     "EffectRate": 100,
     "EffectType": 12,
-    "EffectTypeFirstSubtype": 1,
-    "EffectTypeSecondSubtype": 2,
+    "EffectTypeFirstSubtype": 20,
+    "EffectTypeSecondSubtype": 1,
     "EffectTypeParam1": "0.33"
   },
   "13351141": {
@@ -36957,8 +37047,8 @@
     "Tag": "1",
     "EffectRate": 100,
     "EffectType": 12,
-    "EffectTypeFirstSubtype": 1,
-    "EffectTypeSecondSubtype": 2,
+    "EffectTypeFirstSubtype": 20,
+    "EffectTypeSecondSubtype": 1,
     "EffectTypeParam1": "0.42"
   },
   "13351151": {
@@ -36967,8 +37057,8 @@
     "Tag": "1",
     "EffectRate": 100,
     "EffectType": 12,
-    "EffectTypeFirstSubtype": 1,
-    "EffectTypeSecondSubtype": 2,
+    "EffectTypeFirstSubtype": 20,
+    "EffectTypeSecondSubtype": 1,
     "EffectTypeParam1": "0.51"
   },
   "13351161": {
@@ -36977,8 +37067,8 @@
     "Tag": "1",
     "EffectRate": 100,
     "EffectType": 12,
-    "EffectTypeFirstSubtype": 1,
-    "EffectTypeSecondSubtype": 2,
+    "EffectTypeFirstSubtype": 20,
+    "EffectTypeSecondSubtype": 1,
     "EffectTypeParam1": "0.6"
   },
   "13351171": {
@@ -36987,8 +37077,8 @@
     "Tag": "1",
     "EffectRate": 100,
     "EffectType": 12,
-    "EffectTypeFirstSubtype": 1,
-    "EffectTypeSecondSubtype": 2,
+    "EffectTypeFirstSubtype": 20,
+    "EffectTypeSecondSubtype": 1,
     "EffectTypeParam1": "0.69"
   },
   "13351181": {
@@ -36997,8 +37087,8 @@
     "Tag": "1",
     "EffectRate": 100,
     "EffectType": 12,
-    "EffectTypeFirstSubtype": 1,
-    "EffectTypeSecondSubtype": 2,
+    "EffectTypeFirstSubtype": 20,
+    "EffectTypeSecondSubtype": 1,
     "EffectTypeParam1": "0.78"
   },
   "13351191": {
@@ -37007,8 +37097,8 @@
     "Tag": "1",
     "EffectRate": 100,
     "EffectType": 12,
-    "EffectTypeFirstSubtype": 1,
-    "EffectTypeSecondSubtype": 2,
+    "EffectTypeFirstSubtype": 20,
+    "EffectTypeSecondSubtype": 1,
     "EffectTypeParam1": "0.87"
   },
   "13351211": {
@@ -37019,7 +37109,7 @@
     "EffectType": 12,
     "EffectTypeFirstSubtype": 38,
     "EffectTypeSecondSubtype": 1,
-    "EffectTypeParam1": "0.06"
+    "EffectTypeParam1": "0.08"
   },
   "13351221": {
     "Id": 13351221,
@@ -37029,7 +37119,7 @@
     "EffectType": 12,
     "EffectTypeFirstSubtype": 38,
     "EffectTypeSecondSubtype": 1,
-    "EffectTypeParam1": "0.1"
+    "EffectTypeParam1": "0.13"
   },
   "13351231": {
     "Id": 13351231,
@@ -37039,7 +37129,7 @@
     "EffectType": 12,
     "EffectTypeFirstSubtype": 38,
     "EffectTypeSecondSubtype": 1,
-    "EffectTypeParam1": "0.14"
+    "EffectTypeParam1": "0.18"
   },
   "13351241": {
     "Id": 13351241,
@@ -37049,7 +37139,7 @@
     "EffectType": 12,
     "EffectTypeFirstSubtype": 38,
     "EffectTypeSecondSubtype": 1,
-    "EffectTypeParam1": "0.18"
+    "EffectTypeParam1": "0.23"
   },
   "13351251": {
     "Id": 13351251,
@@ -37059,7 +37149,7 @@
     "EffectType": 12,
     "EffectTypeFirstSubtype": 38,
     "EffectTypeSecondSubtype": 1,
-    "EffectTypeParam1": "0.22"
+    "EffectTypeParam1": "0.28"
   },
   "13351261": {
     "Id": 13351261,
@@ -37069,7 +37159,7 @@
     "EffectType": 12,
     "EffectTypeFirstSubtype": 38,
     "EffectTypeSecondSubtype": 1,
-    "EffectTypeParam1": "0.25"
+    "EffectTypeParam1": "0.33"
   },
   "13351271": {
     "Id": 13351271,
@@ -37079,7 +37169,7 @@
     "EffectType": 12,
     "EffectTypeFirstSubtype": 38,
     "EffectTypeSecondSubtype": 1,
-    "EffectTypeParam1": "0.29"
+    "EffectTypeParam1": "0.38"
   },
   "13351281": {
     "Id": 13351281,
@@ -37089,7 +37179,7 @@
     "EffectType": 12,
     "EffectTypeFirstSubtype": 38,
     "EffectTypeSecondSubtype": 1,
-    "EffectTypeParam1": "0.33"
+    "EffectTypeParam1": "0.43"
   },
   "13351291": {
     "Id": 13351291,
@@ -37099,7 +37189,7 @@
     "EffectType": 12,
     "EffectTypeFirstSubtype": 38,
     "EffectTypeSecondSubtype": 1,
-    "EffectTypeParam1": "0.37"
+    "EffectTypeParam1": "0.48"
   },
   "13351311": {
     "Id": 13351311,
@@ -37219,7 +37309,7 @@
     "EffectType": 12,
     "EffectTypeFirstSubtype": 38,
     "EffectTypeSecondSubtype": 1,
-    "EffectTypeParam1": "0.017"
+    "EffectTypeParam1": "0.01"
   },
   "13352521": {
     "Id": 13352521,
@@ -37229,7 +37319,7 @@
     "EffectType": 12,
     "EffectTypeFirstSubtype": 38,
     "EffectTypeSecondSubtype": 1,
-    "EffectTypeParam1": "0.027"
+    "EffectTypeParam1": "0.016"
   },
   "13352531": {
     "Id": 13352531,
@@ -37239,7 +37329,7 @@
     "EffectType": 12,
     "EffectTypeFirstSubtype": 38,
     "EffectTypeSecondSubtype": 1,
-    "EffectTypeParam1": "0.037"
+    "EffectTypeParam1": "0.022"
   },
   "13352541": {
     "Id": 13352541,
@@ -37249,7 +37339,7 @@
     "EffectType": 12,
     "EffectTypeFirstSubtype": 38,
     "EffectTypeSecondSubtype": 1,
-    "EffectTypeParam1": "0.047"
+    "EffectTypeParam1": "0.028"
   },
   "13352551": {
     "Id": 13352551,
@@ -37259,7 +37349,7 @@
     "EffectType": 12,
     "EffectTypeFirstSubtype": 38,
     "EffectTypeSecondSubtype": 1,
-    "EffectTypeParam1": "0.057"
+    "EffectTypeParam1": "0.034"
   },
   "13352561": {
     "Id": 13352561,
@@ -37269,7 +37359,7 @@
     "EffectType": 12,
     "EffectTypeFirstSubtype": 38,
     "EffectTypeSecondSubtype": 1,
-    "EffectTypeParam1": "0.067"
+    "EffectTypeParam1": "0.04"
   },
   "13352571": {
     "Id": 13352571,
@@ -37279,7 +37369,7 @@
     "EffectType": 12,
     "EffectTypeFirstSubtype": 38,
     "EffectTypeSecondSubtype": 1,
-    "EffectTypeParam1": "0.077"
+    "EffectTypeParam1": "0.046"
   },
   "13352581": {
     "Id": 13352581,
@@ -37289,7 +37379,7 @@
     "EffectType": 12,
     "EffectTypeFirstSubtype": 38,
     "EffectTypeSecondSubtype": 1,
-    "EffectTypeParam1": "0.087"
+    "EffectTypeParam1": "0.052"
   },
   "13352591": {
     "Id": 13352591,
@@ -37299,7 +37389,7 @@
     "EffectType": 12,
     "EffectTypeFirstSubtype": 38,
     "EffectTypeSecondSubtype": 1,
-    "EffectTypeParam1": "0.097"
+    "EffectTypeParam1": "0.058"
   },
   "13352711": {
     "Id": 13352711,
@@ -37307,9 +37397,9 @@
     "Tag": "1",
     "EffectRate": 100,
     "EffectType": 12,
-    "EffectTypeFirstSubtype": 1,
-    "EffectTypeSecondSubtype": 2,
-    "EffectTypeParam1": "0.019"
+    "EffectTypeFirstSubtype": 20,
+    "EffectTypeSecondSubtype": 1,
+    "EffectTypeParam1": "0.018"
   },
   "13352721": {
     "Id": 13352721,
@@ -37317,9 +37407,9 @@
     "Tag": "1",
     "EffectRate": 100,
     "EffectType": 12,
-    "EffectTypeFirstSubtype": 1,
-    "EffectTypeSecondSubtype": 2,
-    "EffectTypeParam1": "0.03"
+    "EffectTypeFirstSubtype": 20,
+    "EffectTypeSecondSubtype": 1,
+    "EffectTypeParam1": "0.029"
   },
   "13352731": {
     "Id": 13352731,
@@ -37327,9 +37417,9 @@
     "Tag": "1",
     "EffectRate": 100,
     "EffectType": 12,
-    "EffectTypeFirstSubtype": 1,
-    "EffectTypeSecondSubtype": 2,
-    "EffectTypeParam1": "0.041"
+    "EffectTypeFirstSubtype": 20,
+    "EffectTypeSecondSubtype": 1,
+    "EffectTypeParam1": "0.04"
   },
   "13352741": {
     "Id": 13352741,
@@ -37337,9 +37427,9 @@
     "Tag": "1",
     "EffectRate": 100,
     "EffectType": 12,
-    "EffectTypeFirstSubtype": 1,
-    "EffectTypeSecondSubtype": 2,
-    "EffectTypeParam1": "0.052"
+    "EffectTypeFirstSubtype": 20,
+    "EffectTypeSecondSubtype": 1,
+    "EffectTypeParam1": "0.051"
   },
   "13352751": {
     "Id": 13352751,
@@ -37347,9 +37437,9 @@
     "Tag": "1",
     "EffectRate": 100,
     "EffectType": 12,
-    "EffectTypeFirstSubtype": 1,
-    "EffectTypeSecondSubtype": 2,
-    "EffectTypeParam1": "0.063"
+    "EffectTypeFirstSubtype": 20,
+    "EffectTypeSecondSubtype": 1,
+    "EffectTypeParam1": "0.062"
   },
   "13352761": {
     "Id": 13352761,
@@ -37357,9 +37447,9 @@
     "Tag": "1",
     "EffectRate": 100,
     "EffectType": 12,
-    "EffectTypeFirstSubtype": 1,
-    "EffectTypeSecondSubtype": 2,
-    "EffectTypeParam1": "0.074"
+    "EffectTypeFirstSubtype": 20,
+    "EffectTypeSecondSubtype": 1,
+    "EffectTypeParam1": "0.073"
   },
   "13352771": {
     "Id": 13352771,
@@ -37367,9 +37457,9 @@
     "Tag": "1",
     "EffectRate": 100,
     "EffectType": 12,
-    "EffectTypeFirstSubtype": 1,
-    "EffectTypeSecondSubtype": 2,
-    "EffectTypeParam1": "0.085"
+    "EffectTypeFirstSubtype": 20,
+    "EffectTypeSecondSubtype": 1,
+    "EffectTypeParam1": "0.084"
   },
   "13352781": {
     "Id": 13352781,
@@ -37377,9 +37467,9 @@
     "Tag": "1",
     "EffectRate": 100,
     "EffectType": 12,
-    "EffectTypeFirstSubtype": 1,
-    "EffectTypeSecondSubtype": 2,
-    "EffectTypeParam1": "0.096"
+    "EffectTypeFirstSubtype": 20,
+    "EffectTypeSecondSubtype": 1,
+    "EffectTypeParam1": "0.095"
   },
   "13352791": {
     "Id": 13352791,
@@ -37387,99 +37477,9 @@
     "Tag": "1",
     "EffectRate": 100,
     "EffectType": 12,
-    "EffectTypeFirstSubtype": 1,
-    "EffectTypeSecondSubtype": 2,
-    "EffectTypeParam1": "0.107"
-  },
-  "13352811": {
-    "Id": 13352811,
-    "Name": "潜能28 花瓣区域中目标数量大于等于3主控风伤提升",
-    "Tag": "1",
-    "EffectRate": 100,
-    "EffectType": 12,
-    "EffectTypeFirstSubtype": 1,
-    "EffectTypeSecondSubtype": 2,
-    "EffectTypeParam1": "0.1"
-  },
-  "13352821": {
-    "Id": 13352821,
-    "Name": "潜能28 花瓣区域中目标数量大于等于3主控风伤提升",
-    "Tag": "1",
-    "EffectRate": 100,
-    "EffectType": 12,
-    "EffectTypeFirstSubtype": 1,
-    "EffectTypeSecondSubtype": 2,
-    "EffectTypeParam1": "0.15"
-  },
-  "13352831": {
-    "Id": 13352831,
-    "Name": "潜能28 花瓣区域中目标数量大于等于3主控风伤提升",
-    "Tag": "1",
-    "EffectRate": 100,
-    "EffectType": 12,
-    "EffectTypeFirstSubtype": 1,
-    "EffectTypeSecondSubtype": 2,
-    "EffectTypeParam1": "0.21"
-  },
-  "13352841": {
-    "Id": 13352841,
-    "Name": "潜能28 花瓣区域中目标数量大于等于3主控风伤提升",
-    "Tag": "1",
-    "EffectRate": 100,
-    "EffectType": 12,
-    "EffectTypeFirstSubtype": 1,
-    "EffectTypeSecondSubtype": 2,
-    "EffectTypeParam1": "0.27"
-  },
-  "13352851": {
-    "Id": 13352851,
-    "Name": "潜能28 花瓣区域中目标数量大于等于3主控风伤提升",
-    "Tag": "1",
-    "EffectRate": 100,
-    "EffectType": 12,
-    "EffectTypeFirstSubtype": 1,
-    "EffectTypeSecondSubtype": 2,
-    "EffectTypeParam1": "0.33"
-  },
-  "13352861": {
-    "Id": 13352861,
-    "Name": "潜能28 花瓣区域中目标数量大于等于3主控风伤提升",
-    "Tag": "1",
-    "EffectRate": 100,
-    "EffectType": 12,
-    "EffectTypeFirstSubtype": 1,
-    "EffectTypeSecondSubtype": 2,
-    "EffectTypeParam1": "0.39"
-  },
-  "13352871": {
-    "Id": 13352871,
-    "Name": "潜能28 花瓣区域中目标数量大于等于3主控风伤提升",
-    "Tag": "1",
-    "EffectRate": 100,
-    "EffectType": 12,
-    "EffectTypeFirstSubtype": 1,
-    "EffectTypeSecondSubtype": 2,
-    "EffectTypeParam1": "0.44"
-  },
-  "13352881": {
-    "Id": 13352881,
-    "Name": "潜能28 花瓣区域中目标数量大于等于3主控风伤提升",
-    "Tag": "1",
-    "EffectRate": 100,
-    "EffectType": 12,
-    "EffectTypeFirstSubtype": 1,
-    "EffectTypeSecondSubtype": 2,
-    "EffectTypeParam1": "0.5"
-  },
-  "13352891": {
-    "Id": 13352891,
-    "Name": "潜能28 花瓣区域中目标数量大于等于3主控风伤提升",
-    "Tag": "1",
-    "EffectRate": 100,
-    "EffectType": 12,
-    "EffectTypeFirstSubtype": 1,
-    "EffectTypeSecondSubtype": 2,
-    "EffectTypeParam1": "0.56"
+    "EffectTypeFirstSubtype": 20,
+    "EffectTypeSecondSubtype": 1,
+    "EffectTypeParam1": "0.106"
   },
   "13352911": {
     "Id": 13352911,
@@ -37489,7 +37489,7 @@
     "EffectType": 12,
     "EffectTypeFirstSubtype": 38,
     "EffectTypeSecondSubtype": 1,
-    "EffectTypeParam1": "0.08"
+    "EffectTypeParam1": "0.015"
   },
   "13352921": {
     "Id": 13352921,
@@ -37499,7 +37499,7 @@
     "EffectType": 12,
     "EffectTypeFirstSubtype": 38,
     "EffectTypeSecondSubtype": 1,
-    "EffectTypeParam1": "0.13"
+    "EffectTypeParam1": "0.024"
   },
   "13352931": {
     "Id": 13352931,
@@ -37509,7 +37509,7 @@
     "EffectType": 12,
     "EffectTypeFirstSubtype": 38,
     "EffectTypeSecondSubtype": 1,
-    "EffectTypeParam1": "0.18"
+    "EffectTypeParam1": "0.033"
   },
   "13352941": {
     "Id": 13352941,
@@ -37519,7 +37519,7 @@
     "EffectType": 12,
     "EffectTypeFirstSubtype": 38,
     "EffectTypeSecondSubtype": 1,
-    "EffectTypeParam1": "0.23"
+    "EffectTypeParam1": "0.042"
   },
   "13352951": {
     "Id": 13352951,
@@ -37529,7 +37529,7 @@
     "EffectType": 12,
     "EffectTypeFirstSubtype": 38,
     "EffectTypeSecondSubtype": 1,
-    "EffectTypeParam1": "0.28"
+    "EffectTypeParam1": "0.051"
   },
   "13352961": {
     "Id": 13352961,
@@ -37539,7 +37539,7 @@
     "EffectType": 12,
     "EffectTypeFirstSubtype": 38,
     "EffectTypeSecondSubtype": 1,
-    "EffectTypeParam1": "0.33"
+    "EffectTypeParam1": "0.06"
   },
   "13352971": {
     "Id": 13352971,
@@ -37549,7 +37549,7 @@
     "EffectType": 12,
     "EffectTypeFirstSubtype": 38,
     "EffectTypeSecondSubtype": 1,
-    "EffectTypeParam1": "0.38"
+    "EffectTypeParam1": "0.069"
   },
   "13352981": {
     "Id": 13352981,
@@ -37559,7 +37559,7 @@
     "EffectType": 12,
     "EffectTypeFirstSubtype": 38,
     "EffectTypeSecondSubtype": 1,
-    "EffectTypeParam1": "0.43"
+    "EffectTypeParam1": "0.078"
   },
   "13352991": {
     "Id": 13352991,
@@ -37569,7 +37569,7 @@
     "EffectType": 12,
     "EffectTypeFirstSubtype": 38,
     "EffectTypeSecondSubtype": 1,
-    "EffectTypeParam1": "0.48"
+    "EffectTypeParam1": "0.087"
   },
   "13353111": {
     "Id": 13353111,
@@ -37667,8 +37667,8 @@
     "Tag": "1",
     "EffectRate": 100,
     "EffectType": 12,
-    "EffectTypeFirstSubtype": 1,
-    "EffectTypeSecondSubtype": 2,
+    "EffectTypeFirstSubtype": 57,
+    "EffectTypeSecondSubtype": 1,
     "EffectTypeParam1": "0.24"
   },
   "13353221": {
@@ -37677,8 +37677,8 @@
     "Tag": "1",
     "EffectRate": 100,
     "EffectType": 12,
-    "EffectTypeFirstSubtype": 1,
-    "EffectTypeSecondSubtype": 2,
+    "EffectTypeFirstSubtype": 57,
+    "EffectTypeSecondSubtype": 1,
     "EffectTypeParam1": "0.38"
   },
   "13353231": {
@@ -37687,8 +37687,8 @@
     "Tag": "1",
     "EffectRate": 100,
     "EffectType": 12,
-    "EffectTypeFirstSubtype": 1,
-    "EffectTypeSecondSubtype": 2,
+    "EffectTypeFirstSubtype": 57,
+    "EffectTypeSecondSubtype": 1,
     "EffectTypeParam1": "0.53"
   },
   "13353241": {
@@ -37697,8 +37697,8 @@
     "Tag": "1",
     "EffectRate": 100,
     "EffectType": 12,
-    "EffectTypeFirstSubtype": 1,
-    "EffectTypeSecondSubtype": 2,
+    "EffectTypeFirstSubtype": 57,
+    "EffectTypeSecondSubtype": 1,
     "EffectTypeParam1": "0.67"
   },
   "13353251": {
@@ -37707,8 +37707,8 @@
     "Tag": "1",
     "EffectRate": 100,
     "EffectType": 12,
-    "EffectTypeFirstSubtype": 1,
-    "EffectTypeSecondSubtype": 2,
+    "EffectTypeFirstSubtype": 57,
+    "EffectTypeSecondSubtype": 1,
     "EffectTypeParam1": "0.82"
   },
   "13353261": {
@@ -37717,8 +37717,8 @@
     "Tag": "1",
     "EffectRate": 100,
     "EffectType": 12,
-    "EffectTypeFirstSubtype": 1,
-    "EffectTypeSecondSubtype": 2,
+    "EffectTypeFirstSubtype": 57,
+    "EffectTypeSecondSubtype": 1,
     "EffectTypeParam1": "0.96"
   },
   "13353271": {
@@ -37727,8 +37727,8 @@
     "Tag": "1",
     "EffectRate": 100,
     "EffectType": 12,
-    "EffectTypeFirstSubtype": 1,
-    "EffectTypeSecondSubtype": 2,
+    "EffectTypeFirstSubtype": 57,
+    "EffectTypeSecondSubtype": 1,
     "EffectTypeParam1": "1.1"
   },
   "13353281": {
@@ -37737,8 +37737,8 @@
     "Tag": "1",
     "EffectRate": 100,
     "EffectType": 12,
-    "EffectTypeFirstSubtype": 1,
-    "EffectTypeSecondSubtype": 2,
+    "EffectTypeFirstSubtype": 57,
+    "EffectTypeSecondSubtype": 1,
     "EffectTypeParam1": "1.25"
   },
   "13353291": {
@@ -37747,8 +37747,8 @@
     "Tag": "1",
     "EffectRate": 100,
     "EffectType": 12,
-    "EffectTypeFirstSubtype": 1,
-    "EffectTypeSecondSubtype": 2,
+    "EffectTypeFirstSubtype": 57,
+    "EffectTypeSecondSubtype": 1,
     "EffectTypeParam1": "1.39"
   },
   "13353311": {
@@ -37757,9 +37757,9 @@
     "Tag": "1",
     "EffectRate": 100,
     "EffectType": 12,
-    "EffectTypeFirstSubtype": 1,
-    "EffectTypeSecondSubtype": 2,
-    "EffectTypeParam1": "0.04"
+    "EffectTypeFirstSubtype": 20,
+    "EffectTypeSecondSubtype": 1,
+    "EffectTypeParam1": "0.16"
   },
   "13353321": {
     "Id": 13353321,
@@ -37767,9 +37767,9 @@
     "Tag": "1",
     "EffectRate": 100,
     "EffectType": 12,
-    "EffectTypeFirstSubtype": 1,
-    "EffectTypeSecondSubtype": 2,
-    "EffectTypeParam1": "0.06"
+    "EffectTypeFirstSubtype": 20,
+    "EffectTypeSecondSubtype": 1,
+    "EffectTypeParam1": "0.25"
   },
   "13353331": {
     "Id": 13353331,
@@ -37777,9 +37777,9 @@
     "Tag": "1",
     "EffectRate": 100,
     "EffectType": 12,
-    "EffectTypeFirstSubtype": 1,
-    "EffectTypeSecondSubtype": 2,
-    "EffectTypeParam1": "0.08"
+    "EffectTypeFirstSubtype": 20,
+    "EffectTypeSecondSubtype": 1,
+    "EffectTypeParam1": "0.35"
   },
   "13353341": {
     "Id": 13353341,
@@ -37787,9 +37787,9 @@
     "Tag": "1",
     "EffectRate": 100,
     "EffectType": 12,
-    "EffectTypeFirstSubtype": 1,
-    "EffectTypeSecondSubtype": 2,
-    "EffectTypeParam1": "0.1"
+    "EffectTypeFirstSubtype": 20,
+    "EffectTypeSecondSubtype": 1,
+    "EffectTypeParam1": "0.44"
   },
   "13353351": {
     "Id": 13353351,
@@ -37797,9 +37797,9 @@
     "Tag": "1",
     "EffectRate": 100,
     "EffectType": 12,
-    "EffectTypeFirstSubtype": 1,
-    "EffectTypeSecondSubtype": 2,
-    "EffectTypeParam1": "0.12"
+    "EffectTypeFirstSubtype": 20,
+    "EffectTypeSecondSubtype": 1,
+    "EffectTypeParam1": "0.54"
   },
   "13353361": {
     "Id": 13353361,
@@ -37807,9 +37807,9 @@
     "Tag": "1",
     "EffectRate": 100,
     "EffectType": 12,
-    "EffectTypeFirstSubtype": 1,
-    "EffectTypeSecondSubtype": 2,
-    "EffectTypeParam1": "0.14"
+    "EffectTypeFirstSubtype": 20,
+    "EffectTypeSecondSubtype": 1,
+    "EffectTypeParam1": "0.63"
   },
   "13353371": {
     "Id": 13353371,
@@ -37817,9 +37817,9 @@
     "Tag": "1",
     "EffectRate": 100,
     "EffectType": 12,
-    "EffectTypeFirstSubtype": 1,
-    "EffectTypeSecondSubtype": 2,
-    "EffectTypeParam1": "0.16"
+    "EffectTypeFirstSubtype": 20,
+    "EffectTypeSecondSubtype": 1,
+    "EffectTypeParam1": "0.73"
   },
   "13353381": {
     "Id": 13353381,
@@ -37827,9 +37827,9 @@
     "Tag": "1",
     "EffectRate": 100,
     "EffectType": 12,
-    "EffectTypeFirstSubtype": 1,
-    "EffectTypeSecondSubtype": 2,
-    "EffectTypeParam1": "0.18"
+    "EffectTypeFirstSubtype": 20,
+    "EffectTypeSecondSubtype": 1,
+    "EffectTypeParam1": "0.82"
   },
   "13353391": {
     "Id": 13353391,
@@ -37837,9 +37837,9 @@
     "Tag": "1",
     "EffectRate": 100,
     "EffectType": 12,
-    "EffectTypeFirstSubtype": 1,
-    "EffectTypeSecondSubtype": 2,
-    "EffectTypeParam1": "0.2"
+    "EffectTypeFirstSubtype": 20,
+    "EffectTypeSecondSubtype": 1,
+    "EffectTypeParam1": "0.92"
   },
   "13354111": {
     "Id": 13354111,
@@ -37847,9 +37847,9 @@
     "Tag": "1",
     "EffectRate": 100,
     "EffectType": 12,
-    "EffectTypeFirstSubtype": 1,
-    "EffectTypeSecondSubtype": 2,
-    "EffectTypeParam1": "0.09"
+    "EffectTypeFirstSubtype": 58,
+    "EffectTypeSecondSubtype": 1,
+    "EffectTypeParam1": "0.06"
   },
   "13354121": {
     "Id": 13354121,
@@ -37857,9 +37857,9 @@
     "Tag": "1",
     "EffectRate": 100,
     "EffectType": 12,
-    "EffectTypeFirstSubtype": 1,
-    "EffectTypeSecondSubtype": 2,
-    "EffectTypeParam1": "0.15"
+    "EffectTypeFirstSubtype": 58,
+    "EffectTypeSecondSubtype": 1,
+    "EffectTypeParam1": "0.1"
   },
   "13354131": {
     "Id": 13354131,
@@ -37867,9 +37867,9 @@
     "Tag": "1",
     "EffectRate": 100,
     "EffectType": 12,
-    "EffectTypeFirstSubtype": 1,
-    "EffectTypeSecondSubtype": 2,
-    "EffectTypeParam1": "0.21"
+    "EffectTypeFirstSubtype": 58,
+    "EffectTypeSecondSubtype": 1,
+    "EffectTypeParam1": "0.14"
   },
   "13354141": {
     "Id": 13354141,
@@ -37877,9 +37877,9 @@
     "Tag": "1",
     "EffectRate": 100,
     "EffectType": 12,
-    "EffectTypeFirstSubtype": 1,
-    "EffectTypeSecondSubtype": 2,
-    "EffectTypeParam1": "0.26"
+    "EffectTypeFirstSubtype": 58,
+    "EffectTypeSecondSubtype": 1,
+    "EffectTypeParam1": "0.17"
   },
   "13354151": {
     "Id": 13354151,
@@ -37887,9 +37887,9 @@
     "Tag": "1",
     "EffectRate": 100,
     "EffectType": 12,
-    "EffectTypeFirstSubtype": 1,
-    "EffectTypeSecondSubtype": 2,
-    "EffectTypeParam1": "0.32"
+    "EffectTypeFirstSubtype": 58,
+    "EffectTypeSecondSubtype": 1,
+    "EffectTypeParam1": "0.21"
   },
   "13354161": {
     "Id": 13354161,
@@ -37897,9 +37897,9 @@
     "Tag": "1",
     "EffectRate": 100,
     "EffectType": 12,
-    "EffectTypeFirstSubtype": 1,
-    "EffectTypeSecondSubtype": 2,
-    "EffectTypeParam1": "0.37"
+    "EffectTypeFirstSubtype": 58,
+    "EffectTypeSecondSubtype": 1,
+    "EffectTypeParam1": "0.25"
   },
   "13354171": {
     "Id": 13354171,
@@ -37907,9 +37907,9 @@
     "Tag": "1",
     "EffectRate": 100,
     "EffectType": 12,
-    "EffectTypeFirstSubtype": 1,
-    "EffectTypeSecondSubtype": 2,
-    "EffectTypeParam1": "0.43"
+    "EffectTypeFirstSubtype": 58,
+    "EffectTypeSecondSubtype": 1,
+    "EffectTypeParam1": "0.28"
   },
   "13354181": {
     "Id": 13354181,
@@ -37917,9 +37917,9 @@
     "Tag": "1",
     "EffectRate": 100,
     "EffectType": 12,
-    "EffectTypeFirstSubtype": 1,
-    "EffectTypeSecondSubtype": 2,
-    "EffectTypeParam1": "0.49"
+    "EffectTypeFirstSubtype": 58,
+    "EffectTypeSecondSubtype": 1,
+    "EffectTypeParam1": "0.32"
   },
   "13354191": {
     "Id": 13354191,
@@ -37927,9 +37927,9 @@
     "Tag": "1",
     "EffectRate": 100,
     "EffectType": 12,
-    "EffectTypeFirstSubtype": 1,
-    "EffectTypeSecondSubtype": 2,
-    "EffectTypeParam1": "0.54"
+    "EffectTypeFirstSubtype": 58,
+    "EffectTypeSecondSubtype": 1,
+    "EffectTypeParam1": "0.36"
   },
   "13354211": {
     "Id": 13354211,
@@ -37937,9 +37937,9 @@
     "Tag": "1",
     "EffectRate": 100,
     "EffectType": 12,
-    "EffectTypeFirstSubtype": 1,
-    "EffectTypeSecondSubtype": 2,
-    "EffectTypeParam1": "0.09"
+    "EffectTypeFirstSubtype": 20,
+    "EffectTypeSecondSubtype": 1,
+    "EffectTypeParam1": "0.22"
   },
   "13354221": {
     "Id": 13354221,
@@ -37947,9 +37947,9 @@
     "Tag": "1",
     "EffectRate": 100,
     "EffectType": 12,
-    "EffectTypeFirstSubtype": 1,
-    "EffectTypeSecondSubtype": 2,
-    "EffectTypeParam1": "0.14"
+    "EffectTypeFirstSubtype": 20,
+    "EffectTypeSecondSubtype": 1,
+    "EffectTypeParam1": "0.36"
   },
   "13354231": {
     "Id": 13354231,
@@ -37957,9 +37957,9 @@
     "Tag": "1",
     "EffectRate": 100,
     "EffectType": 12,
-    "EffectTypeFirstSubtype": 1,
-    "EffectTypeSecondSubtype": 2,
-    "EffectTypeParam1": "0.19"
+    "EffectTypeFirstSubtype": 20,
+    "EffectTypeSecondSubtype": 1,
+    "EffectTypeParam1": "0.49"
   },
   "13354241": {
     "Id": 13354241,
@@ -37967,9 +37967,9 @@
     "Tag": "1",
     "EffectRate": 100,
     "EffectType": 12,
-    "EffectTypeFirstSubtype": 1,
-    "EffectTypeSecondSubtype": 2,
-    "EffectTypeParam1": "0.24"
+    "EffectTypeFirstSubtype": 20,
+    "EffectTypeSecondSubtype": 1,
+    "EffectTypeParam1": "0.62"
   },
   "13354251": {
     "Id": 13354251,
@@ -37977,9 +37977,9 @@
     "Tag": "1",
     "EffectRate": 100,
     "EffectType": 12,
-    "EffectTypeFirstSubtype": 1,
-    "EffectTypeSecondSubtype": 2,
-    "EffectTypeParam1": "0.3"
+    "EffectTypeFirstSubtype": 20,
+    "EffectTypeSecondSubtype": 1,
+    "EffectTypeParam1": "0.75"
   },
   "13354261": {
     "Id": 13354261,
@@ -37987,9 +37987,9 @@
     "Tag": "1",
     "EffectRate": 100,
     "EffectType": 12,
-    "EffectTypeFirstSubtype": 1,
-    "EffectTypeSecondSubtype": 2,
-    "EffectTypeParam1": "0.35"
+    "EffectTypeFirstSubtype": 20,
+    "EffectTypeSecondSubtype": 1,
+    "EffectTypeParam1": "0.89"
   },
   "13354271": {
     "Id": 13354271,
@@ -37997,9 +37997,9 @@
     "Tag": "1",
     "EffectRate": 100,
     "EffectType": 12,
-    "EffectTypeFirstSubtype": 1,
-    "EffectTypeSecondSubtype": 2,
-    "EffectTypeParam1": "0.4"
+    "EffectTypeFirstSubtype": 20,
+    "EffectTypeSecondSubtype": 1,
+    "EffectTypeParam1": "1.02"
   },
   "13354281": {
     "Id": 13354281,
@@ -38007,9 +38007,9 @@
     "Tag": "1",
     "EffectRate": 100,
     "EffectType": 12,
-    "EffectTypeFirstSubtype": 1,
-    "EffectTypeSecondSubtype": 2,
-    "EffectTypeParam1": "0.45"
+    "EffectTypeFirstSubtype": 20,
+    "EffectTypeSecondSubtype": 1,
+    "EffectTypeParam1": "1.15"
   },
   "13354291": {
     "Id": 13354291,
@@ -38017,9 +38017,9 @@
     "Tag": "1",
     "EffectRate": 100,
     "EffectType": 12,
-    "EffectTypeFirstSubtype": 1,
-    "EffectTypeSecondSubtype": 2,
-    "EffectTypeParam1": "0.5"
+    "EffectTypeFirstSubtype": 20,
+    "EffectTypeSecondSubtype": 1,
+    "EffectTypeParam1": "1.29"
   },
   "13354311": {
     "Id": 13354311,
@@ -38029,7 +38029,7 @@
     "EffectType": 12,
     "EffectTypeFirstSubtype": 38,
     "EffectTypeSecondSubtype": 1,
-    "EffectTypeParam1": "0.017"
+    "EffectTypeParam1": "0.012"
   },
   "13354321": {
     "Id": 13354321,
@@ -38039,7 +38039,7 @@
     "EffectType": 12,
     "EffectTypeFirstSubtype": 38,
     "EffectTypeSecondSubtype": 1,
-    "EffectTypeParam1": "0.027"
+    "EffectTypeParam1": "0.019"
   },
   "13354331": {
     "Id": 13354331,
@@ -38049,7 +38049,7 @@
     "EffectType": 12,
     "EffectTypeFirstSubtype": 38,
     "EffectTypeSecondSubtype": 1,
-    "EffectTypeParam1": "0.037"
+    "EffectTypeParam1": "0.026"
   },
   "13354341": {
     "Id": 13354341,
@@ -38059,7 +38059,7 @@
     "EffectType": 12,
     "EffectTypeFirstSubtype": 38,
     "EffectTypeSecondSubtype": 1,
-    "EffectTypeParam1": "0.047"
+    "EffectTypeParam1": "0.033"
   },
   "13354351": {
     "Id": 13354351,
@@ -38069,7 +38069,7 @@
     "EffectType": 12,
     "EffectTypeFirstSubtype": 38,
     "EffectTypeSecondSubtype": 1,
-    "EffectTypeParam1": "0.057"
+    "EffectTypeParam1": "0.04"
   },
   "13354361": {
     "Id": 13354361,
@@ -38079,7 +38079,7 @@
     "EffectType": 12,
     "EffectTypeFirstSubtype": 38,
     "EffectTypeSecondSubtype": 1,
-    "EffectTypeParam1": "0.067"
+    "EffectTypeParam1": "0.047"
   },
   "13354371": {
     "Id": 13354371,
@@ -38089,7 +38089,7 @@
     "EffectType": 12,
     "EffectTypeFirstSubtype": 38,
     "EffectTypeSecondSubtype": 1,
-    "EffectTypeParam1": "0.077"
+    "EffectTypeParam1": "0.054"
   },
   "13354381": {
     "Id": 13354381,
@@ -38099,7 +38099,7 @@
     "EffectType": 12,
     "EffectTypeFirstSubtype": 38,
     "EffectTypeSecondSubtype": 1,
-    "EffectTypeParam1": "0.087"
+    "EffectTypeParam1": "0.061"
   },
   "13354391": {
     "Id": 13354391,
@@ -38109,7 +38109,137 @@
     "EffectType": 12,
     "EffectTypeFirstSubtype": 38,
     "EffectTypeSecondSubtype": 1,
-    "EffectTypeParam1": "0.097"
+    "EffectTypeParam1": "0.068"
+  },
+  "13354312": {
+    "Id": 13354312,
+    "Name": "潜能43 绝招伤害提升",
+    "Tag": "1",
+    "EffectRate": 100,
+    "EffectType": 12,
+    "EffectTypeFirstSubtype": 58,
+    "EffectTypeSecondSubtype": 1,
+    "EffectTypeParam1": "0.08"
+  },
+  "13354322": {
+    "Id": 13354322,
+    "Name": "潜能43 绝招伤害提升",
+    "Tag": "1",
+    "EffectRate": 100,
+    "EffectType": 12,
+    "EffectTypeFirstSubtype": 58,
+    "EffectTypeSecondSubtype": 1,
+    "EffectTypeParam1": "0.13"
+  },
+  "13354332": {
+    "Id": 13354332,
+    "Name": "潜能43 绝招伤害提升",
+    "Tag": "1",
+    "EffectRate": 100,
+    "EffectType": 12,
+    "EffectTypeFirstSubtype": 58,
+    "EffectTypeSecondSubtype": 1,
+    "EffectTypeParam1": "0.18"
+  },
+  "13354342": {
+    "Id": 13354342,
+    "Name": "潜能43 绝招伤害提升",
+    "Tag": "1",
+    "EffectRate": 100,
+    "EffectType": 12,
+    "EffectTypeFirstSubtype": 58,
+    "EffectTypeSecondSubtype": 1,
+    "EffectTypeParam1": "0.22"
+  },
+  "13354352": {
+    "Id": 13354352,
+    "Name": "潜能43 绝招伤害提升",
+    "Tag": "1",
+    "EffectRate": 100,
+    "EffectType": 12,
+    "EffectTypeFirstSubtype": 58,
+    "EffectTypeSecondSubtype": 1,
+    "EffectTypeParam1": "0.27"
+  },
+  "13354362": {
+    "Id": 13354362,
+    "Name": "潜能43 绝招伤害提升",
+    "Tag": "1",
+    "EffectRate": 100,
+    "EffectType": 12,
+    "EffectTypeFirstSubtype": 58,
+    "EffectTypeSecondSubtype": 1,
+    "EffectTypeParam1": "0.32"
+  },
+  "13354372": {
+    "Id": 13354372,
+    "Name": "潜能43 绝招伤害提升",
+    "Tag": "1",
+    "EffectRate": 100,
+    "EffectType": 12,
+    "EffectTypeFirstSubtype": 58,
+    "EffectTypeSecondSubtype": 1,
+    "EffectTypeParam1": "0.37"
+  },
+  "13354382": {
+    "Id": 13354382,
+    "Name": "潜能43 绝招伤害提升",
+    "Tag": "1",
+    "EffectRate": 100,
+    "EffectType": 12,
+    "EffectTypeFirstSubtype": 58,
+    "EffectTypeSecondSubtype": 1,
+    "EffectTypeParam1": "0.42"
+  },
+  "13354392": {
+    "Id": 13354392,
+    "Name": "潜能43 绝招伤害提升",
+    "Tag": "1",
+    "EffectRate": 100,
+    "EffectType": 12,
+    "EffectTypeFirstSubtype": 58,
+    "EffectTypeSecondSubtype": 1,
+    "EffectTypeParam1": "0.46"
+  },
+  "13396111": {
+    "Id": 13396111,
+    "Name": "1命全队技能伤害提升<color=#0abec5>45%</color>",
+    "Tag": "1",
+    "EffectRate": 100,
+    "EffectType": 12,
+    "EffectTypeFirstSubtype": 57,
+    "EffectTypeSecondSubtype": 1,
+    "EffectTypeParam1": "0.45"
+  },
+  "13396211": {
+    "Id": 13396211,
+    "Name": "2命风系伤害提升<color=#0abec5>20%</color>，持续12秒",
+    "Tag": "1",
+    "EffectRate": 100,
+    "EffectType": 12,
+    "EffectTypeFirstSubtype": 20,
+    "EffectTypeSecondSubtype": 1,
+    "EffectTypeParam1": "0.2"
+  },
+  "13396311": {
+    "Id": 13396311,
+    "Name": "3命受到风系伤害提升<color=#0abec5>1.4%</color>，最多可以叠加10层。",
+    "Tag": "1",
+    "EffectRate": 100,
+    "EffectType": 12,
+    "EffectTypeFirstSubtype": 38,
+    "EffectTypeSecondSubtype": 1,
+    "EffectTypeParam1": "0.014"
+  },
+  "13396411": {
+    "Id": 13396411,
+    "Name": "4命夏花的技能伤害提升<color=#0abec5>28%</color>，持续6秒。",
+    "Tag": "1",
+    "EffectRate": 100,
+    "EffectType": 12,
+    "EffectTypeFirstSubtype": 57,
+    "EffectTypeSecondSubtype": 1,
+    "EffectTypeParam1": "0.28"
   },
   "14301012": {
     "Id": 14301012,
@@ -54830,9 +54960,9 @@
     "Tag": "1",
     "EffectRate": 100,
     "EffectType": 12,
-    "EffectTypeFirstSubtype": 53,
+    "EffectTypeFirstSubtype": 61,
     "EffectTypeSecondSubtype": 1,
-    "EffectTypeParam1": "0.5"
+    "EffectTypeParam1": "0.65"
   },
   "631009901": {
     "Id": 631009901,
@@ -70212,6 +70342,506 @@
     "EffectTypeFirstSubtype": 8,
     "EffectTypeSecondSubtype": 1,
     "EffectTypeParam1": "0.03"
+  },
+  "13390010": {
+    "Id": 13390010,
+    "Name": "提升攻击力",
+    "Tag": "1",
+    "EffectRate": 100,
+    "EffectType": 12,
+    "EffectTypeFirstSubtype": 1,
+    "EffectTypeSecondSubtype": 1,
+    "EffectTypeParam1": "50"
+  },
+  "13390020": {
+    "Id": 13390020,
+    "Name": "提升防御力",
+    "Tag": "1",
+    "EffectRate": 100,
+    "EffectType": 12,
+    "EffectTypeFirstSubtype": 2,
+    "EffectTypeSecondSubtype": 1,
+    "EffectTypeParam1": "10"
+  },
+  "13390030": {
+    "Id": 13390030,
+    "Name": "提升生命上限",
+    "Tag": "1",
+    "EffectRate": 100,
+    "EffectType": 12,
+    "EffectTypeFirstSubtype": 3,
+    "EffectTypeSecondSubtype": 1,
+    "EffectTypeParam1": "575"
+  },
+  "13390040": {
+    "Id": 13390040,
+    "Name": "提升技能伤害",
+    "Tag": "1",
+    "EffectRate": 100,
+    "EffectType": 12,
+    "EffectTypeFirstSubtype": 57,
+    "EffectTypeSecondSubtype": 1,
+    "EffectTypeParam1": "0.021"
+  },
+  "13390050": {
+    "Id": 13390050,
+    "Name": "提升风系伤害",
+    "Tag": "1",
+    "EffectRate": 100,
+    "EffectType": 12,
+    "EffectTypeFirstSubtype": 20,
+    "EffectTypeSecondSubtype": 1,
+    "EffectTypeParam1": "0.015"
+  },
+  "13390060": {
+    "Id": 13390060,
+    "Name": "提升攻击力",
+    "Tag": "1",
+    "EffectRate": 100,
+    "EffectType": 12,
+    "EffectTypeFirstSubtype": 1,
+    "EffectTypeSecondSubtype": 1,
+    "EffectTypeParam1": "50"
+  },
+  "13390070": {
+    "Id": 13390070,
+    "Name": "提升防御力",
+    "Tag": "1",
+    "EffectRate": 100,
+    "EffectType": 12,
+    "EffectTypeFirstSubtype": 2,
+    "EffectTypeSecondSubtype": 1,
+    "EffectTypeParam1": "10"
+  },
+  "13390080": {
+    "Id": 13390080,
+    "Name": "提升生命上限",
+    "Tag": "1",
+    "EffectRate": 100,
+    "EffectType": 12,
+    "EffectTypeFirstSubtype": 3,
+    "EffectTypeSecondSubtype": 1,
+    "EffectTypeParam1": "575"
+  },
+  "13390090": {
+    "Id": 13390090,
+    "Name": "提升技能伤害",
+    "Tag": "1",
+    "EffectRate": 100,
+    "EffectType": 12,
+    "EffectTypeFirstSubtype": 57,
+    "EffectTypeSecondSubtype": 1,
+    "EffectTypeParam1": "0.021"
+  },
+  "13390100": {
+    "Id": 13390100,
+    "Name": "提升风系伤害",
+    "Tag": "1",
+    "EffectRate": 100,
+    "EffectType": 12,
+    "EffectTypeFirstSubtype": 20,
+    "EffectTypeSecondSubtype": 1,
+    "EffectTypeParam1": "0.015"
+  },
+  "13390110": {
+    "Id": 13390110,
+    "Name": "提升攻击力",
+    "Tag": "1",
+    "EffectRate": 100,
+    "EffectType": 12,
+    "EffectTypeFirstSubtype": 1,
+    "EffectTypeSecondSubtype": 1,
+    "EffectTypeParam1": "50"
+  },
+  "13390120": {
+    "Id": 13390120,
+    "Name": "提升防御力",
+    "Tag": "1",
+    "EffectRate": 100,
+    "EffectType": 12,
+    "EffectTypeFirstSubtype": 2,
+    "EffectTypeSecondSubtype": 1,
+    "EffectTypeParam1": "10"
+  },
+  "13390130": {
+    "Id": 13390130,
+    "Name": "提升生命上限",
+    "Tag": "1",
+    "EffectRate": 100,
+    "EffectType": 12,
+    "EffectTypeFirstSubtype": 3,
+    "EffectTypeSecondSubtype": 1,
+    "EffectTypeParam1": "575"
+  },
+  "13390140": {
+    "Id": 13390140,
+    "Name": "提升技能伤害",
+    "Tag": "1",
+    "EffectRate": 100,
+    "EffectType": 12,
+    "EffectTypeFirstSubtype": 57,
+    "EffectTypeSecondSubtype": 1,
+    "EffectTypeParam1": "0.021"
+  },
+  "13390150": {
+    "Id": 13390150,
+    "Name": "提升风系伤害",
+    "Tag": "1",
+    "EffectRate": 100,
+    "EffectType": 12,
+    "EffectTypeFirstSubtype": 20,
+    "EffectTypeSecondSubtype": 1,
+    "EffectTypeParam1": "0.015"
+  },
+  "13390160": {
+    "Id": 13390160,
+    "Name": "提升攻击力",
+    "Tag": "1",
+    "EffectRate": 100,
+    "EffectType": 12,
+    "EffectTypeFirstSubtype": 1,
+    "EffectTypeSecondSubtype": 1,
+    "EffectTypeParam1": "50"
+  },
+  "13390170": {
+    "Id": 13390170,
+    "Name": "提升防御力",
+    "Tag": "1",
+    "EffectRate": 100,
+    "EffectType": 12,
+    "EffectTypeFirstSubtype": 2,
+    "EffectTypeSecondSubtype": 1,
+    "EffectTypeParam1": "10"
+  },
+  "13390180": {
+    "Id": 13390180,
+    "Name": "提升生命上限",
+    "Tag": "1",
+    "EffectRate": 100,
+    "EffectType": 12,
+    "EffectTypeFirstSubtype": 3,
+    "EffectTypeSecondSubtype": 1,
+    "EffectTypeParam1": "575"
+  },
+  "13390190": {
+    "Id": 13390190,
+    "Name": "提升技能伤害",
+    "Tag": "1",
+    "EffectRate": 100,
+    "EffectType": 12,
+    "EffectTypeFirstSubtype": 57,
+    "EffectTypeSecondSubtype": 1,
+    "EffectTypeParam1": "0.021"
+  },
+  "13390200": {
+    "Id": 13390200,
+    "Name": "提升风系伤害",
+    "Tag": "1",
+    "EffectRate": 100,
+    "EffectType": 12,
+    "EffectTypeFirstSubtype": 20,
+    "EffectTypeSecondSubtype": 1,
+    "EffectTypeParam1": "0.015"
+  },
+  "13390210": {
+    "Id": 13390210,
+    "Name": "提升攻击力",
+    "Tag": "1",
+    "EffectRate": 100,
+    "EffectType": 12,
+    "EffectTypeFirstSubtype": 1,
+    "EffectTypeSecondSubtype": 1,
+    "EffectTypeParam1": "50"
+  },
+  "13390220": {
+    "Id": 13390220,
+    "Name": "提升防御力",
+    "Tag": "1",
+    "EffectRate": 100,
+    "EffectType": 12,
+    "EffectTypeFirstSubtype": 2,
+    "EffectTypeSecondSubtype": 1,
+    "EffectTypeParam1": "10"
+  },
+  "13390230": {
+    "Id": 13390230,
+    "Name": "提升生命上限",
+    "Tag": "1",
+    "EffectRate": 100,
+    "EffectType": 12,
+    "EffectTypeFirstSubtype": 3,
+    "EffectTypeSecondSubtype": 1,
+    "EffectTypeParam1": "575"
+  },
+  "13390240": {
+    "Id": 13390240,
+    "Name": "提升技能伤害",
+    "Tag": "1",
+    "EffectRate": 100,
+    "EffectType": 12,
+    "EffectTypeFirstSubtype": 57,
+    "EffectTypeSecondSubtype": 1,
+    "EffectTypeParam1": "0.021"
+  },
+  "13390250": {
+    "Id": 13390250,
+    "Name": "提升风系伤害",
+    "Tag": "1",
+    "EffectRate": 100,
+    "EffectType": 12,
+    "EffectTypeFirstSubtype": 20,
+    "EffectTypeSecondSubtype": 1,
+    "EffectTypeParam1": "0.015"
+  },
+  "13390260": {
+    "Id": 13390260,
+    "Name": "提升攻击力",
+    "Tag": "1",
+    "EffectRate": 100,
+    "EffectType": 12,
+    "EffectTypeFirstSubtype": 1,
+    "EffectTypeSecondSubtype": 1,
+    "EffectTypeParam1": "50"
+  },
+  "13390270": {
+    "Id": 13390270,
+    "Name": "提升防御力",
+    "Tag": "1",
+    "EffectRate": 100,
+    "EffectType": 12,
+    "EffectTypeFirstSubtype": 2,
+    "EffectTypeSecondSubtype": 1,
+    "EffectTypeParam1": "10"
+  },
+  "13390280": {
+    "Id": 13390280,
+    "Name": "提升生命上限",
+    "Tag": "1",
+    "EffectRate": 100,
+    "EffectType": 12,
+    "EffectTypeFirstSubtype": 3,
+    "EffectTypeSecondSubtype": 1,
+    "EffectTypeParam1": "575"
+  },
+  "13390290": {
+    "Id": 13390290,
+    "Name": "提升技能伤害",
+    "Tag": "1",
+    "EffectRate": 100,
+    "EffectType": 12,
+    "EffectTypeFirstSubtype": 57,
+    "EffectTypeSecondSubtype": 1,
+    "EffectTypeParam1": "0.021"
+  },
+  "13390300": {
+    "Id": 13390300,
+    "Name": "提升风系伤害",
+    "Tag": "1",
+    "EffectRate": 100,
+    "EffectType": 12,
+    "EffectTypeFirstSubtype": 20,
+    "EffectTypeSecondSubtype": 1,
+    "EffectTypeParam1": "0.015"
+  },
+  "13390310": {
+    "Id": 13390310,
+    "Name": "提升攻击力",
+    "Tag": "1",
+    "EffectRate": 100,
+    "EffectType": 12,
+    "EffectTypeFirstSubtype": 1,
+    "EffectTypeSecondSubtype": 1,
+    "EffectTypeParam1": "50"
+  },
+  "13390320": {
+    "Id": 13390320,
+    "Name": "提升防御力",
+    "Tag": "1",
+    "EffectRate": 100,
+    "EffectType": 12,
+    "EffectTypeFirstSubtype": 2,
+    "EffectTypeSecondSubtype": 1,
+    "EffectTypeParam1": "10"
+  },
+  "13390330": {
+    "Id": 13390330,
+    "Name": "提升生命上限",
+    "Tag": "1",
+    "EffectRate": 100,
+    "EffectType": 12,
+    "EffectTypeFirstSubtype": 3,
+    "EffectTypeSecondSubtype": 1,
+    "EffectTypeParam1": "575"
+  },
+  "13390340": {
+    "Id": 13390340,
+    "Name": "提升技能伤害",
+    "Tag": "1",
+    "EffectRate": 100,
+    "EffectType": 12,
+    "EffectTypeFirstSubtype": 57,
+    "EffectTypeSecondSubtype": 1,
+    "EffectTypeParam1": "0.021"
+  },
+  "13390350": {
+    "Id": 13390350,
+    "Name": "提升风系伤害",
+    "Tag": "1",
+    "EffectRate": 100,
+    "EffectType": 12,
+    "EffectTypeFirstSubtype": 20,
+    "EffectTypeSecondSubtype": 1,
+    "EffectTypeParam1": "0.015"
+  },
+  "13390360": {
+    "Id": 13390360,
+    "Name": "提升攻击力",
+    "Tag": "1",
+    "EffectRate": 100,
+    "EffectType": 12,
+    "EffectTypeFirstSubtype": 1,
+    "EffectTypeSecondSubtype": 1,
+    "EffectTypeParam1": "50"
+  },
+  "13390370": {
+    "Id": 13390370,
+    "Name": "提升防御力",
+    "Tag": "1",
+    "EffectRate": 100,
+    "EffectType": 12,
+    "EffectTypeFirstSubtype": 2,
+    "EffectTypeSecondSubtype": 1,
+    "EffectTypeParam1": "10"
+  },
+  "13390380": {
+    "Id": 13390380,
+    "Name": "提升生命上限",
+    "Tag": "1",
+    "EffectRate": 100,
+    "EffectType": 12,
+    "EffectTypeFirstSubtype": 3,
+    "EffectTypeSecondSubtype": 1,
+    "EffectTypeParam1": "575"
+  },
+  "13390390": {
+    "Id": 13390390,
+    "Name": "提升技能伤害",
+    "Tag": "1",
+    "EffectRate": 100,
+    "EffectType": 12,
+    "EffectTypeFirstSubtype": 57,
+    "EffectTypeSecondSubtype": 1,
+    "EffectTypeParam1": "0.021"
+  },
+  "13390400": {
+    "Id": 13390400,
+    "Name": "提升风系伤害",
+    "Tag": "1",
+    "EffectRate": 100,
+    "EffectType": 12,
+    "EffectTypeFirstSubtype": 20,
+    "EffectTypeSecondSubtype": 1,
+    "EffectTypeParam1": "0.015"
+  },
+  "13390410": {
+    "Id": 13390410,
+    "Name": "提升攻击力",
+    "Tag": "1",
+    "EffectRate": 100,
+    "EffectType": 12,
+    "EffectTypeFirstSubtype": 1,
+    "EffectTypeSecondSubtype": 1,
+    "EffectTypeParam1": "50"
+  },
+  "13390420": {
+    "Id": 13390420,
+    "Name": "提升防御力",
+    "Tag": "1",
+    "EffectRate": 100,
+    "EffectType": 12,
+    "EffectTypeFirstSubtype": 2,
+    "EffectTypeSecondSubtype": 1,
+    "EffectTypeParam1": "10"
+  },
+  "13390430": {
+    "Id": 13390430,
+    "Name": "提升生命上限",
+    "Tag": "1",
+    "EffectRate": 100,
+    "EffectType": 12,
+    "EffectTypeFirstSubtype": 3,
+    "EffectTypeSecondSubtype": 1,
+    "EffectTypeParam1": "575"
+  },
+  "13390440": {
+    "Id": 13390440,
+    "Name": "提升技能伤害",
+    "Tag": "1",
+    "EffectRate": 100,
+    "EffectType": 12,
+    "EffectTypeFirstSubtype": 57,
+    "EffectTypeSecondSubtype": 1,
+    "EffectTypeParam1": "0.021"
+  },
+  "13390450": {
+    "Id": 13390450,
+    "Name": "提升风系伤害",
+    "Tag": "1",
+    "EffectRate": 100,
+    "EffectType": 12,
+    "EffectTypeFirstSubtype": 20,
+    "EffectTypeSecondSubtype": 1,
+    "EffectTypeParam1": "0.015"
+  },
+  "13390460": {
+    "Id": 13390460,
+    "Name": "提升攻击力",
+    "Tag": "1",
+    "EffectRate": 100,
+    "EffectType": 12,
+    "EffectTypeFirstSubtype": 1,
+    "EffectTypeSecondSubtype": 1,
+    "EffectTypeParam1": "50"
+  },
+  "13390470": {
+    "Id": 13390470,
+    "Name": "提升防御力",
+    "Tag": "1",
+    "EffectRate": 100,
+    "EffectType": 12,
+    "EffectTypeFirstSubtype": 2,
+    "EffectTypeSecondSubtype": 1,
+    "EffectTypeParam1": "10"
+  },
+  "13390480": {
+    "Id": 13390480,
+    "Name": "提升生命上限",
+    "Tag": "1",
+    "EffectRate": 100,
+    "EffectType": 12,
+    "EffectTypeFirstSubtype": 3,
+    "EffectTypeSecondSubtype": 1,
+    "EffectTypeParam1": "575"
+  },
+  "13390490": {
+    "Id": 13390490,
+    "Name": "提升技能伤害",
+    "Tag": "1",
+    "EffectRate": 100,
+    "EffectType": 12,
+    "EffectTypeFirstSubtype": 57,
+    "EffectTypeSecondSubtype": 1,
+    "EffectTypeParam1": "0.021"
+  },
+  "13390500": {
+    "Id": 13390500,
+    "Name": "提升风系伤害",
+    "Tag": "1",
+    "EffectRate": 100,
+    "EffectType": 12,
+    "EffectTypeFirstSubtype": 20,
+    "EffectTypeSecondSubtype": 1,
+    "EffectTypeParam1": "0.015"
   },
   "90011011": {
     "Id": 90011011,
@@ -100162,6 +100792,514 @@
     "EffectTypeFirstSubtype": 2,
     "EffectTypeSecondSubtype": 1,
     "EffectTypeParam1": "6"
+  },
+  "4015001": {
+    "Id": 4015001,
+    "Name": "队伍中风系援护角色技能伤害提升<color=#ec6d21>{1}</color>。",
+    "Tag": "1",
+    "EffectRate": 100,
+    "EffectType": 12,
+    "EffectTypeFirstSubtype": 57,
+    "EffectTypeSecondSubtype": 1,
+    "EffectTypeParam1": "0.2"
+  },
+  "4015002": {
+    "Id": 4015002,
+    "Name": "队伍中风系援护角色技能伤害提升<color=#ec6d21>{1}</color>。",
+    "Tag": "1",
+    "EffectRate": 100,
+    "EffectType": 12,
+    "EffectTypeFirstSubtype": 57,
+    "EffectTypeSecondSubtype": 1,
+    "EffectTypeParam1": "0.24"
+  },
+  "4015003": {
+    "Id": 4015003,
+    "Name": "队伍中风系援护角色技能伤害提升<color=#ec6d21>{1}</color>。",
+    "Tag": "1",
+    "EffectRate": 100,
+    "EffectType": 12,
+    "EffectTypeFirstSubtype": 57,
+    "EffectTypeSecondSubtype": 1,
+    "EffectTypeParam1": "0.28"
+  },
+  "4015004": {
+    "Id": 4015004,
+    "Name": "队伍中风系援护角色技能伤害提升<color=#ec6d21>{1}</color>。",
+    "Tag": "1",
+    "EffectRate": 100,
+    "EffectType": 12,
+    "EffectTypeFirstSubtype": 57,
+    "EffectTypeSecondSubtype": 1,
+    "EffectTypeParam1": "0.32"
+  },
+  "4015005": {
+    "Id": 4015005,
+    "Name": "队伍中风系援护角色技能伤害提升<color=#ec6d21>{1}</color>。",
+    "Tag": "1",
+    "EffectRate": 100,
+    "EffectType": 12,
+    "EffectTypeFirstSubtype": 57,
+    "EffectTypeSecondSubtype": 1,
+    "EffectTypeParam1": "0.36"
+  },
+  "4015006": {
+    "Id": 4015006,
+    "Name": "队伍中风系援护角色技能伤害提升<color=#ec6d21>{1}</color>。",
+    "Tag": "1",
+    "EffectRate": 100,
+    "EffectType": 12,
+    "EffectTypeFirstSubtype": 57,
+    "EffectTypeSecondSubtype": 1,
+    "EffectTypeParam1": "0.4"
+  },
+  "4015021": {
+    "Id": 4015021,
+    "Name": "【脚本buff】受到风系技能伤害提升<color=#ec6d21>{3}</color>，持续{4}秒，可叠加{5}层。",
+    "Tag": "1",
+    "EffectRate": 100,
+    "EffectType": 12,
+    "EffectTypeFirstSubtype": 61,
+    "EffectTypeSecondSubtype": 1,
+    "EffectTypeParam1": "0.015"
+  },
+  "4015022": {
+    "Id": 4015022,
+    "Name": "【脚本buff】受到风系技能伤害提升<color=#ec6d21>{3}</color>，持续{4}秒，可叠加{5}层。",
+    "Tag": "1",
+    "EffectRate": 100,
+    "EffectType": 12,
+    "EffectTypeFirstSubtype": 61,
+    "EffectTypeSecondSubtype": 1,
+    "EffectTypeParam1": "0.018"
+  },
+  "4015023": {
+    "Id": 4015023,
+    "Name": "【脚本buff】受到风系技能伤害提升<color=#ec6d21>{3}</color>，持续{4}秒，可叠加{5}层。",
+    "Tag": "1",
+    "EffectRate": 100,
+    "EffectType": 12,
+    "EffectTypeFirstSubtype": 61,
+    "EffectTypeSecondSubtype": 1,
+    "EffectTypeParam1": "0.021"
+  },
+  "4015024": {
+    "Id": 4015024,
+    "Name": "【脚本buff】受到风系技能伤害提升<color=#ec6d21>{3}</color>，持续{4}秒，可叠加{5}层。",
+    "Tag": "1",
+    "EffectRate": 100,
+    "EffectType": 12,
+    "EffectTypeFirstSubtype": 61,
+    "EffectTypeSecondSubtype": 1,
+    "EffectTypeParam1": "0.024"
+  },
+  "4015025": {
+    "Id": 4015025,
+    "Name": "【脚本buff】受到风系技能伤害提升<color=#ec6d21>{3}</color>，持续{4}秒，可叠加{5}层。",
+    "Tag": "1",
+    "EffectRate": 100,
+    "EffectType": 12,
+    "EffectTypeFirstSubtype": 61,
+    "EffectTypeSecondSubtype": 1,
+    "EffectTypeParam1": "0.027"
+  },
+  "4015026": {
+    "Id": 4015026,
+    "Name": "【脚本buff】受到风系技能伤害提升<color=#ec6d21>{3}</color>，持续{4}秒，可叠加{5}层。",
+    "Tag": "1",
+    "EffectRate": 100,
+    "EffectType": 12,
+    "EffectTypeFirstSubtype": 61,
+    "EffectTypeSecondSubtype": 1,
+    "EffectTypeParam1": "0.03"
+  },
+  "4015101": {
+    "Id": 4015101,
+    "Name": "全队风系伤害提升<color=#ec6d21>{1}</color>。",
+    "Tag": "1",
+    "EffectRate": 100,
+    "EffectType": 12,
+    "EffectTypeFirstSubtype": 20,
+    "EffectTypeSecondSubtype": 1,
+    "EffectTypeParam1": "0.025"
+  },
+  "4015102": {
+    "Id": 4015102,
+    "Name": "全队风系伤害提升<color=#ec6d21>{1}</color>。",
+    "Tag": "1",
+    "EffectRate": 100,
+    "EffectType": 12,
+    "EffectTypeFirstSubtype": 20,
+    "EffectTypeSecondSubtype": 1,
+    "EffectTypeParam1": "0.05"
+  },
+  "4015103": {
+    "Id": 4015103,
+    "Name": "全队风系伤害提升<color=#ec6d21>{1}</color>。",
+    "Tag": "1",
+    "EffectRate": 100,
+    "EffectType": 12,
+    "EffectTypeFirstSubtype": 20,
+    "EffectTypeSecondSubtype": 1,
+    "EffectTypeParam1": "0.075"
+  },
+  "4015104": {
+    "Id": 4015104,
+    "Name": "全队风系伤害提升<color=#ec6d21>{1}</color>。",
+    "Tag": "1",
+    "EffectRate": 100,
+    "EffectType": 12,
+    "EffectTypeFirstSubtype": 20,
+    "EffectTypeSecondSubtype": 1,
+    "EffectTypeParam1": "0.1"
+  },
+  "4015105": {
+    "Id": 4015105,
+    "Name": "全队风系伤害提升<color=#ec6d21>{1}</color>。",
+    "Tag": "1",
+    "EffectRate": 100,
+    "EffectType": 12,
+    "EffectTypeFirstSubtype": 20,
+    "EffectTypeSecondSubtype": 1,
+    "EffectTypeParam1": "0.125"
+  },
+  "4015121": {
+    "Id": 4015121,
+    "Name": "【触发buff条件】\\u000b任意风系角色释放技能时，该角色",
+    "Tag": "1",
+    "EffectRate": 100,
+    "EffectType": 6,
+    "EffectTypeParam1": "4015126"
+  },
+  "4015122": {
+    "Id": 4015122,
+    "Name": "【触发buff条件】\\u000b任意风系角色释放技能时，该角色",
+    "Tag": "1",
+    "EffectRate": 100,
+    "EffectType": 6,
+    "EffectTypeParam1": "4015127"
+  },
+  "4015123": {
+    "Id": 4015123,
+    "Name": "【触发buff条件】\\u000b任意风系角色释放技能时，该角色",
+    "Tag": "1",
+    "EffectRate": 100,
+    "EffectType": 6,
+    "EffectTypeParam1": "4015128"
+  },
+  "4015124": {
+    "Id": 4015124,
+    "Name": "【触发buff条件】\\u000b任意风系角色释放技能时，该角色",
+    "Tag": "1",
+    "EffectRate": 100,
+    "EffectType": 6,
+    "EffectTypeParam1": "4015129"
+  },
+  "4015125": {
+    "Id": 4015125,
+    "Name": "【触发buff条件】\\u000b任意风系角色释放技能时，该角色",
+    "Tag": "1",
+    "EffectRate": 100,
+    "EffectType": 6,
+    "EffectTypeParam1": "4015130"
+  },
+  "4015126": {
+    "Id": 4015126,
+    "Name": "【buff效果】技能伤害提升<color=#ec6d21>{2}</color>，持续{3}秒。",
+    "Tag": "1",
+    "EffectRate": 100,
+    "EffectType": 12,
+    "EffectTypeFirstSubtype": 57,
+    "EffectTypeSecondSubtype": 1,
+    "EffectTypeParam1": "0.065"
+  },
+  "4015127": {
+    "Id": 4015127,
+    "Name": "【buff效果】技能伤害提升<color=#ec6d21>{2}</color>，持续{3}秒。",
+    "Tag": "1",
+    "EffectRate": 100,
+    "EffectType": 12,
+    "EffectTypeFirstSubtype": 57,
+    "EffectTypeSecondSubtype": 1,
+    "EffectTypeParam1": "0.13"
+  },
+  "4015128": {
+    "Id": 4015128,
+    "Name": "【buff效果】技能伤害提升<color=#ec6d21>{2}</color>，持续{3}秒。",
+    "Tag": "1",
+    "EffectRate": 100,
+    "EffectType": 12,
+    "EffectTypeFirstSubtype": 57,
+    "EffectTypeSecondSubtype": 1,
+    "EffectTypeParam1": "0.195"
+  },
+  "4015129": {
+    "Id": 4015129,
+    "Name": "【buff效果】技能伤害提升<color=#ec6d21>{2}</color>，持续{3}秒。",
+    "Tag": "1",
+    "EffectRate": 100,
+    "EffectType": 12,
+    "EffectTypeFirstSubtype": 57,
+    "EffectTypeSecondSubtype": 1,
+    "EffectTypeParam1": "0.26"
+  },
+  "4015130": {
+    "Id": 4015130,
+    "Name": "【buff效果】技能伤害提升<color=#ec6d21>{2}</color>，持续{3}秒。",
+    "Tag": "1",
+    "EffectRate": 100,
+    "EffectType": 12,
+    "EffectTypeFirstSubtype": 57,
+    "EffectTypeSecondSubtype": 1,
+    "EffectTypeParam1": "0.325"
+  },
+  "4024001": {
+    "Id": 4024001,
+    "Name": "【触发buff条件】任意风系角色造成绝招伤害时，队伍中风系角色",
+    "Tag": "1",
+    "EffectRate": 100,
+    "EffectType": 6,
+    "EffectTypeParam1": "4024007"
+  },
+  "4024002": {
+    "Id": 4024002,
+    "Name": "【触发buff条件】任意风系角色造成绝招伤害时，队伍中风系角色",
+    "Tag": "1",
+    "EffectRate": 100,
+    "EffectType": 6,
+    "EffectTypeParam1": "4024008"
+  },
+  "4024003": {
+    "Id": 4024003,
+    "Name": "【触发buff条件】任意风系角色造成绝招伤害时，队伍中风系角色",
+    "Tag": "1",
+    "EffectRate": 100,
+    "EffectType": 6,
+    "EffectTypeParam1": "4024009"
+  },
+  "4024004": {
+    "Id": 4024004,
+    "Name": "【触发buff条件】任意风系角色造成绝招伤害时，队伍中风系角色",
+    "Tag": "1",
+    "EffectRate": 100,
+    "EffectType": 6,
+    "EffectTypeParam1": "4024010"
+  },
+  "4024005": {
+    "Id": 4024005,
+    "Name": "【触发buff条件】任意风系角色造成绝招伤害时，队伍中风系角色",
+    "Tag": "1",
+    "EffectRate": 100,
+    "EffectType": 6,
+    "EffectTypeParam1": "4024011"
+  },
+  "4024006": {
+    "Id": 4024006,
+    "Name": "【触发buff条件】任意风系角色造成绝招伤害时，队伍中风系角色",
+    "Tag": "1",
+    "EffectRate": 100,
+    "EffectType": 6,
+    "EffectTypeParam1": "4024012"
+  },
+  "4024007": {
+    "Id": 4024007,
+    "Name": "【buff效果】技能伤害提升<color=#ec6d21>{1}</color>，持续{2}s。",
+    "Tag": "1",
+    "EffectRate": 100,
+    "EffectType": 12,
+    "EffectTypeFirstSubtype": 57,
+    "EffectTypeSecondSubtype": 1,
+    "EffectTypeParam1": "0.25"
+  },
+  "4024008": {
+    "Id": 4024008,
+    "Name": "【buff效果】技能伤害提升<color=#ec6d21>{1}</color>，持续{2}s。",
+    "Tag": "1",
+    "EffectRate": 100,
+    "EffectType": 12,
+    "EffectTypeFirstSubtype": 57,
+    "EffectTypeSecondSubtype": 1,
+    "EffectTypeParam1": "0.3"
+  },
+  "4024009": {
+    "Id": 4024009,
+    "Name": "【buff效果】技能伤害提升<color=#ec6d21>{1}</color>，持续{2}s。",
+    "Tag": "1",
+    "EffectRate": 100,
+    "EffectType": 12,
+    "EffectTypeFirstSubtype": 57,
+    "EffectTypeSecondSubtype": 1,
+    "EffectTypeParam1": "0.35"
+  },
+  "4024010": {
+    "Id": 4024010,
+    "Name": "【buff效果】技能伤害提升<color=#ec6d21>{1}</color>，持续{2}s。",
+    "Tag": "1",
+    "EffectRate": 100,
+    "EffectType": 12,
+    "EffectTypeFirstSubtype": 57,
+    "EffectTypeSecondSubtype": 1,
+    "EffectTypeParam1": "0.4"
+  },
+  "4024011": {
+    "Id": 4024011,
+    "Name": "【buff效果】技能伤害提升<color=#ec6d21>{1}</color>，持续{2}s。",
+    "Tag": "1",
+    "EffectRate": 100,
+    "EffectType": 12,
+    "EffectTypeFirstSubtype": 57,
+    "EffectTypeSecondSubtype": 1,
+    "EffectTypeParam1": "0.45"
+  },
+  "4024012": {
+    "Id": 4024012,
+    "Name": "【buff效果】技能伤害提升<color=#ec6d21>{1}</color>，持续{2}s。",
+    "Tag": "1",
+    "EffectRate": 100,
+    "EffectType": 12,
+    "EffectTypeFirstSubtype": 57,
+    "EffectTypeSecondSubtype": 1,
+    "EffectTypeParam1": "0.5"
+  },
+  "4024101": {
+    "Id": 4024101,
+    "Name": "队伍中风系角色绝招伤害提升<color=#ec6d21>{1}</color>。",
+    "Tag": "1",
+    "EffectRate": 100,
+    "EffectType": 12,
+    "EffectTypeFirstSubtype": 58,
+    "EffectTypeSecondSubtype": 1,
+    "EffectTypeParam1": "0.06"
+  },
+  "4024102": {
+    "Id": 4024102,
+    "Name": "队伍中风系角色绝招伤害提升<color=#ec6d21>{1}</color>。",
+    "Tag": "1",
+    "EffectRate": 100,
+    "EffectType": 12,
+    "EffectTypeFirstSubtype": 58,
+    "EffectTypeSecondSubtype": 1,
+    "EffectTypeParam1": "0.12"
+  },
+  "4024103": {
+    "Id": 4024103,
+    "Name": "队伍中风系角色绝招伤害提升<color=#ec6d21>{1}</color>。",
+    "Tag": "1",
+    "EffectRate": 100,
+    "EffectType": 12,
+    "EffectTypeFirstSubtype": 58,
+    "EffectTypeSecondSubtype": 1,
+    "EffectTypeParam1": "0.18"
+  },
+  "4024104": {
+    "Id": 4024104,
+    "Name": "队伍中风系角色绝招伤害提升<color=#ec6d21>{1}</color>。",
+    "Tag": "1",
+    "EffectRate": 100,
+    "EffectType": 12,
+    "EffectTypeFirstSubtype": 58,
+    "EffectTypeSecondSubtype": 1,
+    "EffectTypeParam1": "0.24"
+  },
+  "4024105": {
+    "Id": 4024105,
+    "Name": "队伍中风系角色绝招伤害提升<color=#ec6d21>{1}</color>。",
+    "Tag": "1",
+    "EffectRate": 100,
+    "EffectType": 12,
+    "EffectTypeFirstSubtype": 58,
+    "EffectTypeSecondSubtype": 1,
+    "EffectTypeParam1": "0.3"
+  },
+  "4024121": {
+    "Id": 4024121,
+    "Name": "【触发buff条件】\\u000b任意角色触发##风系印记#1017#时，队伍中风系角色",
+    "Tag": "1",
+    "EffectRate": 100,
+    "EffectType": 6,
+    "EffectTypeParam1": "4024126"
+  },
+  "4024122": {
+    "Id": 4024122,
+    "Name": "【触发buff条件】\\u000b任意角色触发##风系印记#1017#时，队伍中风系角色",
+    "Tag": "1",
+    "EffectRate": 100,
+    "EffectType": 6,
+    "EffectTypeParam1": "4024127"
+  },
+  "4024123": {
+    "Id": 4024123,
+    "Name": "【触发buff条件】\\u000b任意角色触发##风系印记#1017#时，队伍中风系角色",
+    "Tag": "1",
+    "EffectRate": 100,
+    "EffectType": 6,
+    "EffectTypeParam1": "4024128"
+  },
+  "4024124": {
+    "Id": 4024124,
+    "Name": "【触发buff条件】\\u000b任意角色触发##风系印记#1017#时，队伍中风系角色",
+    "Tag": "1",
+    "EffectRate": 100,
+    "EffectType": 6,
+    "EffectTypeParam1": "4024129"
+  },
+  "4024125": {
+    "Id": 4024125,
+    "Name": "【触发buff条件】\\u000b任意角色触发##风系印记#1017#时，队伍中风系角色",
+    "Tag": "1",
+    "EffectRate": 100,
+    "EffectType": 6,
+    "EffectTypeParam1": "4024130"
+  },
+  "4024126": {
+    "Id": 4024126,
+    "Name": "【buff效果】攻击力提升<color=#ec6d21>{2}</color>，持续{3}秒。",
+    "Tag": "1",
+    "EffectRate": 100,
+    "EffectType": 12,
+    "EffectTypeFirstSubtype": 1,
+    "EffectTypeSecondSubtype": 2,
+    "EffectTypeParam1": "0.02"
+  },
+  "4024127": {
+    "Id": 4024127,
+    "Name": "【buff效果】攻击力提升<color=#ec6d21>{2}</color>，持续{3}秒。",
+    "Tag": "1",
+    "EffectRate": 100,
+    "EffectType": 12,
+    "EffectTypeFirstSubtype": 1,
+    "EffectTypeSecondSubtype": 2,
+    "EffectTypeParam1": "0.04"
+  },
+  "4024128": {
+    "Id": 4024128,
+    "Name": "【buff效果】攻击力提升<color=#ec6d21>{2}</color>，持续{3}秒。",
+    "Tag": "1",
+    "EffectRate": 100,
+    "EffectType": 12,
+    "EffectTypeFirstSubtype": 1,
+    "EffectTypeSecondSubtype": 2,
+    "EffectTypeParam1": "0.06"
+  },
+  "4024129": {
+    "Id": 4024129,
+    "Name": "【buff效果】攻击力提升<color=#ec6d21>{2}</color>，持续{3}秒。",
+    "Tag": "1",
+    "EffectRate": 100,
+    "EffectType": 12,
+    "EffectTypeFirstSubtype": 1,
+    "EffectTypeSecondSubtype": 2,
+    "EffectTypeParam1": "0.08"
+  },
+  "4024130": {
+    "Id": 4024130,
+    "Name": "【buff效果】攻击力提升<color=#ec6d21>{2}</color>，持续{3}秒。",
+    "Tag": "1",
+    "EffectRate": 100,
+    "EffectType": 12,
+    "EffectTypeFirstSubtype": 1,
+    "EffectTypeSecondSubtype": 2,
+    "EffectTypeParam1": "0.1"
   },
   "1011": {
     "Id": 1011,

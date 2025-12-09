@@ -20,7 +20,8 @@
       1
     ],
     "DisplayMode": 1,
-    "Icon": "Icon/Head/head_11203_SPSK"
+    "Icon": "Icon/Head/head_11203_SPSK",
+    "SimpleName": "MallPackage.skin.98.01.3"
   },
   "skin.98.02": {
     "Id": "skin.98.02",
@@ -43,7 +44,8 @@
       1
     ],
     "DisplayMode": 1,
-    "Icon": "Icon/Head/head_11903_SPSK"
+    "Icon": "Icon/Head/head_11903_SPSK",
+    "SimpleName": "MallPackage.skin.98.02.3"
   },
   "pack.first": {
     "Id": "pack.first",
@@ -60,7 +62,8 @@
     "Stock": 1,
     "Items": "{\"86003\":1,\"2\":200,\"30003\":2,\"1\":20000}",
     "Icon": "Icon/ShopGoods/pack_first",
-    "IconBg": "UI/big_sprites/db_pack_3"
+    "IconBg": "UI/big_sprites/db_pack_3",
+    "SimpleName": "MallPackage.pack.first.3"
   },
   "pack.sr": {
     "Id": "pack.sr",
@@ -77,7 +80,8 @@
     "Stock": 1,
     "Items": "{\"86004\":1,\"2\":900}",
     "Icon": "Icon/ShopGoods/pack_sr",
-    "IconBg": "UI/big_sprites/db_pack_3"
+    "IconBg": "UI/big_sprites/db_pack_3",
+    "SimpleName": "MallPackage.pack.sr.3"
   },
   "pack.role": {
     "Id": "pack.role",
@@ -94,7 +98,8 @@
     "Stock": 1,
     "Items": "{\"502\":10}",
     "Icon": "Icon/ShopGoods/pack_role",
-    "IconBg": "UI/big_sprites/db_pack_4"
+    "IconBg": "UI/big_sprites/db_pack_4",
+    "SimpleName": "MallPackage.pack.role.3"
   },
   "pack.disc": {
     "Id": "pack.disc",
@@ -111,7 +116,8 @@
     "Stock": 1,
     "Items": "{\"602\":3000}",
     "Icon": "Icon/ShopGoods/pack_disc",
-    "IconBg": "UI/big_sprites/db_pack_4"
+    "IconBg": "UI/big_sprites/db_pack_4",
+    "SimpleName": "MallPackage.pack.disc.3"
   },
   "pack.role_common": {
     "Id": "pack.role_common",
@@ -128,7 +134,8 @@
     "Stock": 1,
     "Items": "{\"503\":10,\"1\":200000}",
     "Icon": "Icon/ShopGoods/pack_role_common",
-    "IconBg": "UI/big_sprites/db_pack_3"
+    "IconBg": "UI/big_sprites/db_pack_3",
+    "SimpleName": "MallPackage.pack.role_common.3"
   },
   "pack.op_role": {
     "Id": "pack.op_role",
@@ -148,7 +155,8 @@
     "DeListTime": "2025-11-18T04:00:00+08:00",
     "DisplayMode": 1,
     "Icon": "Icon/ShopGoods/pack_op_role",
-    "IconBg": "UI/big_sprites/db_pack_4"
+    "IconBg": "UI/big_sprites/db_pack_4",
+    "SimpleName": "MallPackage.pack.op_role.3"
   },
   "pack.op_disc": {
     "Id": "pack.op_disc",
@@ -168,7 +176,8 @@
     "DeListTime": "2025-11-18T04:00:00+08:00",
     "DisplayMode": 1,
     "Icon": "Icon/ShopGoods/pack_op_disc",
-    "IconBg": "UI/big_sprites/db_pack_4"
+    "IconBg": "UI/big_sprites/db_pack_4",
+    "SimpleName": "MallPackage.pack.op_disc.3"
   },
   "pack.01_gift": {
     "Id": "pack.01_gift",
@@ -188,7 +197,8 @@
     "DeListTime": "2025-11-11T04:00:00+08:00",
     "DisplayMode": 1,
     "Icon": "Icon/ShopGoods/pack_01_gift",
-    "IconBg": "UI/big_sprites/db_pack_4"
+    "IconBg": "UI/big_sprites/db_pack_4",
+    "SimpleName": "MallPackage.pack.01_gift.3"
   },
   "pack.01_res": {
     "Id": "pack.01_res",
@@ -207,7 +217,8 @@
     "DeListTime": "2025-11-11T04:00:00+08:00",
     "DisplayMode": 1,
     "Icon": "Icon/ShopGoods/pack_01_res",
-    "IconBg": "UI/big_sprites/db_pack_3"
+    "IconBg": "UI/big_sprites/db_pack_3",
+    "SimpleName": "MallPackage.pack.01_res.3"
   },
   "pack.01_role_m": {
     "Id": "pack.01_role_m",
@@ -226,7 +237,8 @@
     "Items": "{\"502\":10,\"4\":1200}",
     "DisplayMode": 1,
     "Icon": "Icon/ShopGoods/pack_01_role_m",
-    "IconBg": "UI/big_sprites/db_pack_4"
+    "IconBg": "UI/big_sprites/db_pack_4",
+    "SimpleName": "MallPackage.pack.01_role_m.3"
   },
   "pack.01_disc_m": {
     "Id": "pack.01_disc_m",
@@ -245,7 +257,8 @@
     "Items": "{\"602\":3000,\"4\":1200}",
     "DisplayMode": 1,
     "Icon": "Icon/ShopGoods/pack_01_disc_m",
-    "IconBg": "UI/big_sprites/db_pack_4"
+    "IconBg": "UI/big_sprites/db_pack_4",
+    "SimpleName": "MallPackage.pack.01_disc_m.3"
   },
   "pack.01_role_w": {
     "Id": "pack.01_role_w",
@@ -263,7 +276,8 @@
     "Items": "{\"82001\":45,\"82002\":35,\"82003\":12,\"30004\":20}",
     "DisplayMode": 1,
     "Icon": "Icon/ShopGoods/pack_01_role_w",
-    "IconBg": "UI/big_sprites/db_pack_3"
+    "IconBg": "UI/big_sprites/db_pack_3",
+    "SimpleName": "MallPackage.pack.01_role_w.3"
   },
   "pack.01_disc_w": {
     "Id": "pack.01_disc_w",
@@ -281,7 +295,8 @@
     "Items": "{\"82004\":45,\"82005\":35,\"82006\":12,\"50004\":20}",
     "DisplayMode": 1,
     "Icon": "Icon/ShopGoods/pack_01_disc_w",
-    "IconBg": "UI/big_sprites/db_pack_3"
+    "IconBg": "UI/big_sprites/db_pack_3",
+    "SimpleName": "MallPackage.pack.01_disc_w.3"
   },
   "pac.world5": {
     "Id": "pac.world5",
@@ -299,7 +314,8 @@
     "OrderCondType": 71,
     "OrderCondParams": "[5]",
     "Icon": "Icon/ShopGoods/pac_world5",
-    "IconBg": "UI/big_sprites/db_pack_1"
+    "IconBg": "UI/big_sprites/db_pack_1",
+    "SimpleName": "MallPackage.pac.world5.3"
   },
   "pac.world10": {
     "Id": "pac.world10",
@@ -319,7 +335,8 @@
     "OrderCondType": 71,
     "OrderCondParams": "[10]",
     "Icon": "Icon/ShopGoods/pac_world10",
-    "IconBg": "UI/big_sprites/db_pack_1"
+    "IconBg": "UI/big_sprites/db_pack_1",
+    "SimpleName": "MallPackage.pac.world10.3"
   },
   "pac.world15": {
     "Id": "pac.world15",
@@ -339,7 +356,8 @@
     "OrderCondType": 71,
     "OrderCondParams": "[15]",
     "Icon": "Icon/ShopGoods/pac_world15",
-    "IconBg": "UI/big_sprites/db_pack_2"
+    "IconBg": "UI/big_sprites/db_pack_2",
+    "SimpleName": "MallPackage.pac.world15.3"
   },
   "pac.world20": {
     "Id": "pac.world20",
@@ -359,7 +377,8 @@
     "OrderCondType": 71,
     "OrderCondParams": "[20]",
     "Icon": "Icon/ShopGoods/pac_world20",
-    "IconBg": "UI/big_sprites/db_pack_2"
+    "IconBg": "UI/big_sprites/db_pack_2",
+    "SimpleName": "MallPackage.pac.world20.3"
   },
   "pac.world25": {
     "Id": "pac.world25",
@@ -379,7 +398,8 @@
     "OrderCondType": 71,
     "OrderCondParams": "[25]",
     "Icon": "Icon/ShopGoods/pac_world25",
-    "IconBg": "UI/big_sprites/db_pack_3"
+    "IconBg": "UI/big_sprites/db_pack_3",
+    "SimpleName": "MallPackage.pac.world25.3"
   },
   "pac.world30": {
     "Id": "pac.world30",
@@ -399,7 +419,8 @@
     "OrderCondType": 71,
     "OrderCondParams": "[30]",
     "Icon": "Icon/ShopGoods/pac_world30",
-    "IconBg": "UI/big_sprites/db_pack_3"
+    "IconBg": "UI/big_sprites/db_pack_3",
+    "SimpleName": "MallPackage.pac.world30.3"
   },
   "pack.02_role": {
     "Id": "pack.02_role",
@@ -419,7 +440,8 @@
     "DeListTime": "2025-11-18T12:00:00+08:00",
     "DisplayMode": 1,
     "Icon": "Icon/ShopGoods/pack_02_role",
-    "IconBg": "UI/big_sprites/db_pack_4"
+    "IconBg": "UI/big_sprites/db_pack_4",
+    "SimpleName": "MallPackage.pack.02_role.3"
   },
   "pack.02_disc": {
     "Id": "pack.02_disc",
@@ -439,7 +461,8 @@
     "DeListTime": "2025-11-18T12:00:00+08:00",
     "DisplayMode": 1,
     "Icon": "Icon/ShopGoods/pack_02_disc",
-    "IconBg": "UI/big_sprites/db_pack_4"
+    "IconBg": "UI/big_sprites/db_pack_4",
+    "SimpleName": "MallPackage.pack.02_disc.3"
   },
   "pack.02_gift": {
     "Id": "pack.02_gift",
@@ -459,7 +482,8 @@
     "DeListTime": "2025-11-18T12:00:00+08:00",
     "DisplayMode": 1,
     "Icon": "Icon/ShopGoods/pack_02_gift",
-    "IconBg": "UI/big_sprites/db_pack_4"
+    "IconBg": "UI/big_sprites/db_pack_4",
+    "SimpleName": "MallPackage.pack.02_gift.3"
   },
   "pack.02_res": {
     "Id": "pack.02_res",
@@ -478,7 +502,8 @@
     "DeListTime": "2025-11-18T12:00:00+08:00",
     "DisplayMode": 1,
     "Icon": "Icon/ShopGoods/pack_02_res",
-    "IconBg": "UI/big_sprites/db_pack_3"
+    "IconBg": "UI/big_sprites/db_pack_3",
+    "SimpleName": "MallPackage.pack.02_res.3"
   },
   "pack.03_role": {
     "Id": "pack.03_role",
@@ -498,7 +523,8 @@
     "DeListTime": "2025-12-09T10:59:59+08:00",
     "DisplayMode": 1,
     "Icon": "Icon/ShopGoods/pack_03_role",
-    "IconBg": "UI/big_sprites/db_pack_4"
+    "IconBg": "UI/big_sprites/db_pack_4",
+    "SimpleName": "MallPackage.pack.03_role.3"
   },
   "pack.03_disc": {
     "Id": "pack.03_disc",
@@ -518,7 +544,8 @@
     "DeListTime": "2025-12-09T10:59:59+08:00",
     "DisplayMode": 1,
     "Icon": "Icon/ShopGoods/pack_03_disc",
-    "IconBg": "UI/big_sprites/db_pack_4"
+    "IconBg": "UI/big_sprites/db_pack_4",
+    "SimpleName": "MallPackage.pack.03_disc.3"
   },
   "pack.03_gift": {
     "Id": "pack.03_gift",
@@ -538,7 +565,8 @@
     "DeListTime": "2025-12-09T10:59:59+08:00",
     "DisplayMode": 1,
     "Icon": "Icon/ShopGoods/pack_03_gift",
-    "IconBg": "UI/big_sprites/db_pack_4"
+    "IconBg": "UI/big_sprites/db_pack_4",
+    "SimpleName": "MallPackage.pack.03_gift.3"
   },
   "pack.03_res": {
     "Id": "pack.03_res",
@@ -557,6 +585,90 @@
     "DeListTime": "2025-12-09T10:59:59+08:00",
     "DisplayMode": 1,
     "Icon": "Icon/ShopGoods/pack_03_res",
-    "IconBg": "UI/big_sprites/db_pack_3"
+    "IconBg": "UI/big_sprites/db_pack_3",
+    "SimpleName": "MallPackage.pack.03_res.3"
+  },
+  "pack.04_role": {
+    "Id": "pack.04_role",
+    "Name": "MallPackage.pack.04_role.1",
+    "DetailName": "MallPackage.pack.04_role.2",
+    "GroupId": 2,
+    "StatisticalGroup": "pack_role",
+    "SaleRate": 140,
+    "Tag": 1,
+    "Sort": 1,
+    "CurrencyType": 1,
+    "CurrencyItemQty": 19000,
+    "CurrencyShowPrice": "₩ 19,000",
+    "Stock": 3,
+    "Items": "{\"502\":10}",
+    "ListTime": "2025-12-09T12:00:00+08:00",
+    "DeListTime": "2025-12-30T03:59:59+08:00",
+    "DisplayMode": 1,
+    "Icon": "Icon/ShopGoods/pack_04_role",
+    "IconBg": "UI/big_sprites/db_pack_4",
+    "SimpleName": "MallPackage.pack.04_role.3"
+  },
+  "pack.04_disc": {
+    "Id": "pack.04_disc",
+    "Name": "MallPackage.pack.04_disc.1",
+    "DetailName": "MallPackage.pack.04_disc.2",
+    "GroupId": 2,
+    "StatisticalGroup": "pack_disc",
+    "SaleRate": 140,
+    "Tag": 1,
+    "Sort": 2,
+    "CurrencyType": 1,
+    "CurrencyItemQty": 19000,
+    "CurrencyShowPrice": "₩ 19,000",
+    "Stock": 3,
+    "Items": "{\"602\":3000}",
+    "ListTime": "2025-12-09T12:00:00+08:00",
+    "DeListTime": "2025-12-30T03:59:59+08:00",
+    "DisplayMode": 1,
+    "Icon": "Icon/ShopGoods/pack_04_disc",
+    "IconBg": "UI/big_sprites/db_pack_4",
+    "SimpleName": "MallPackage.pack.04_disc.3"
+  },
+  "pack.04_gift": {
+    "Id": "pack.04_gift",
+    "Name": "MallPackage.pack.04_gift.1",
+    "DetailName": "MallPackage.pack.04_gift.2",
+    "GroupId": 2,
+    "StatisticalGroup": "pack_gift",
+    "SaleRate": 140,
+    "Tag": 1,
+    "Sort": 3,
+    "CurrencyType": 1,
+    "CurrencyItemQty": 11000,
+    "CurrencyShowPrice": "₩ 11,000",
+    "Stock": 1,
+    "Items": "{\"502\":5,\"33082\":2}",
+    "ListTime": "2025-12-09T12:00:00+08:00",
+    "DeListTime": "2025-12-30T03:59:59+08:00",
+    "DisplayMode": 1,
+    "Icon": "Icon/ShopGoods/pack_04_gift",
+    "IconBg": "UI/big_sprites/db_pack_4",
+    "SimpleName": "MallPackage.pack.04_gift.3"
+  },
+  "pack.04_res": {
+    "Id": "pack.04_res",
+    "Name": "MallPackage.pack.04_res.1",
+    "DetailName": "MallPackage.pack.04_res.2",
+    "GroupId": 2,
+    "StatisticalGroup": "pack_res",
+    "Tag": 1,
+    "Sort": 4,
+    "CurrencyType": 1,
+    "CurrencyItemQty": 15400,
+    "CurrencyShowPrice": "₩ 15,400",
+    "Stock": 1,
+    "Items": "{\"20091\":80,\"20092\":65,\"20093\":20,\"30004\":40}",
+    "ListTime": "2025-12-09T12:00:00+08:00",
+    "DeListTime": "2025-12-30T03:59:59+08:00",
+    "DisplayMode": 1,
+    "Icon": "Icon/ShopGoods/pack_04_res",
+    "IconBg": "UI/big_sprites/db_pack_3",
+    "SimpleName": "MallPackage.pack.04_res.3"
   }
 }

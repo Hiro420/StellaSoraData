@@ -158,6 +158,31 @@
     "Tag": "db_gacha_tips",
     "Voice": "ui_recuit_cover13"
   },
+  "10133": {
+    "Id": 10133,
+    "Name": "Gacha.10133.1",
+    "StorageId": 1,
+    "GachaType": 1,
+    "LimitTimes": 100000,
+    "ATypePkg": 1013301,
+    "BTypePkg": 1013303,
+    "CTypePkg": 100,
+    "ATypeUpPkg": 1013311,
+    "BTypeUpPkg": 1013312,
+    "BGuaranteePkg": 1013302,
+    "GuaranteeTimes": 120,
+    "GuaranteeTid": 133,
+    "GuaranteeQty": 1,
+    "FirstTenShow": 3,
+    "StartTime": "2025-12-09T12:00:00+08:00",
+    "EndTime": "2025-12-30T03:59:59+08:00",
+    "Sort": 995,
+    "Icon": "Icon/Gacha/tab_gacha_10133",
+    "BannerRes": "banner_gacha_10133",
+    "Image": "Cover_10133",
+    "Tag": "db_gacha_tips",
+    "Voice": "ui_recuit_cover11"
+  },
   "2": {
     "Id": 2,
     "Name": "Gacha.2.1",
@@ -268,5 +293,24 @@
     "Image": "Cover_20149",
     "Tag": "db_gacha_tips",
     "Voice": "ui_recuit_cover14"
+  },
+  "20133": {
+    "Id": 20133,
+    "Name": "Gacha.20133.1",
+    "StorageId": 3,
+    "GachaType": 3,
+    "LimitTimes": 100000,
+    "ATypePkg": 2013301,
+    "CTypePkg": 100,
+    "ATypeUpPkg": 2013311,
+    "BTypeUpPkg": 2013312,
+    "BGuaranteePkg": 2013302,
+    "StartTime": "2025-12-09T12:00:00+08:00",
+    "EndTime": "2025-12-30T03:59:59+08:00",
+    "Sort": 1995,
+    "Icon": "Icon/Gacha/tab_gacha_20133",
+    "Image": "Cover_20133",
+    "Tag": "db_gacha_tips",
+    "Voice": "ui_recuit_cover12"
   }
 }

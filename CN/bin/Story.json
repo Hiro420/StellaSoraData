@@ -821,5 +821,305 @@
     "Aim": "Story.318.3",
     "IsLast": true,
     "AvgMotion": "style_19"
+  },
+  "401": {
+    "Id": 401,
+    "StoryId": "BAm04_04",
+    "Chapter": 4,
+    "Index": "Story.401.4",
+    "Title": "Story.401.1",
+    "Desc": "Story.401.2",
+    "TrialBuild": 401,
+    "ConditionId": "C04_04",
+    "IsBattle": true,
+    "Reward": 102,
+    "RewardDisplay": "[{\"Tid\":2,\"Qty\":30}]",
+    "ParentStoryId": [
+      "STm04_04_a",
+      "STm04_04_b",
+      "STm04_04_c"
+    ],
+    "FloorId": [
+      1040101
+    ],
+    "PreviewMonsterGroupId": 10401,
+    "Aim": "Story.401.3"
+  },
+  "402": {
+    "Id": 402,
+    "StoryId": "BAm04_09",
+    "Chapter": 4,
+    "Index": "Story.402.4",
+    "Title": "Story.402.1",
+    "Desc": "Story.402.2",
+    "TrialBuild": 402,
+    "ConditionId": "C04_09",
+    "IsBattle": true,
+    "Reward": 102,
+    "RewardDisplay": "[{\"Tid\":2,\"Qty\":30}]",
+    "ParentStoryId": [
+      "STm04_09"
+    ],
+    "FloorId": [
+      1040201
+    ],
+    "PreviewMonsterGroupId": 10402,
+    "Aim": "Story.402.3"
+  },
+  "403": {
+    "Id": 403,
+    "StoryId": "STm04_01",
+    "Chapter": 4,
+    "Index": "Story.403.4",
+    "Title": "Story.403.1",
+    "Desc": "Story.403.2",
+    "Reward": 102,
+    "RewardDisplay": "[{\"Tid\":2,\"Qty\":30}]",
+    "AvgLuaName": "STm04_01",
+    "Aim": "Story.403.3",
+    "AvgMotion": "style_19"
+  },
+  "404": {
+    "Id": 404,
+    "StoryId": "STm04_02",
+    "Chapter": 4,
+    "Index": "Story.404.4",
+    "Title": "Story.404.1",
+    "Desc": "Story.404.2",
+    "ConditionId": "C04_01",
+    "Reward": 102,
+    "RewardDisplay": "[{\"Tid\":2,\"Qty\":30}]",
+    "ParentStoryId": [
+      "STm04_01"
+    ],
+    "AvgLuaName": "STm04_02",
+    "Aim": "Story.404.3",
+    "AvgMotion": "style_19"
+  },
+  "405": {
+    "Id": 405,
+    "StoryId": "STm04_03_a",
+    "Chapter": 4,
+    "Index": "Story.405.4",
+    "Title": "Story.405.1",
+    "Desc": "Story.405.2",
+    "ConditionId": "C04_03_a",
+    "IsBranch": true,
+    "Reward": 112,
+    "RewardDisplay": "[{\"Tid\":1,\"Qty\":666}]",
+    "ParentStoryId": [
+      "STm04_02"
+    ],
+    "AvgLuaName": "STm04_03_a",
+    "Aim": "Story.405.3",
+    "AvgMotion": "style_19"
+  },
+  "406": {
+    "Id": 406,
+    "StoryId": "STm04_03_b",
+    "Chapter": 4,
+    "Index": "Story.406.4",
+    "Title": "Story.406.1",
+    "Desc": "Story.406.2",
+    "ConditionId": "C04_03_b",
+    "Reward": 102,
+    "RewardDisplay": "[{\"Tid\":2,\"Qty\":30}]",
+    "ParentStoryId": [
+      "STm04_02"
+    ],
+    "AvgLuaName": "STm04_03_b",
+    "Aim": "Story.406.3",
+    "AvgMotion": "style_19"
+  },
+  "407": {
+    "Id": 407,
+    "StoryId": "STm04_03_c",
+    "Chapter": 4,
+    "Index": "Story.407.4",
+    "Title": "Story.407.1",
+    "Desc": "Story.407.2",
+    "ConditionId": "C04_03_c",
+    "Reward": 102,
+    "RewardDisplay": "[{\"Tid\":2,\"Qty\":30}]",
+    "ParentStoryId": [
+      "STm04_02"
+    ],
+    "AvgLuaName": "STm04_03_c",
+    "Aim": "Story.407.3",
+    "AvgMotion": "style_19"
+  },
+  "408": {
+    "Id": 408,
+    "StoryId": "STm04_04_a",
+    "Chapter": 4,
+    "Index": "Story.408.4",
+    "Title": "Story.408.1",
+    "Desc": "Story.408.2",
+    "ConditionId": "C04_04_a",
+    "Reward": 102,
+    "RewardDisplay": "[{\"Tid\":2,\"Qty\":30}]",
+    "ParentStoryId": [
+      "STm04_03_b",
+      "STm04_03_c"
+    ],
+    "AvgLuaName": "STm04_04_a",
+    "Aim": "Story.408.3",
+    "AvgMotion": "style_19"
+  },
+  "409": {
+    "Id": 409,
+    "StoryId": "STm04_04_b",
+    "Chapter": 4,
+    "Index": "Story.409.4",
+    "Title": "Story.409.1",
+    "Desc": "Story.409.2",
+    "ConditionId": "C04_04_b",
+    "Reward": 102,
+    "RewardDisplay": "[{\"Tid\":2,\"Qty\":30}]",
+    "ParentStoryId": [
+      "STm04_03_b",
+      "STm04_03_c"
+    ],
+    "AvgLuaName": "STm04_04_b",
+    "Aim": "Story.409.3",
+    "AvgMotion": "style_19"
+  },
+  "410": {
+    "Id": 410,
+    "StoryId": "STm04_04_c",
+    "Chapter": 4,
+    "Index": "Story.410.4",
+    "Title": "Story.410.1",
+    "Desc": "Story.410.2",
+    "ConditionId": "C04_04_c",
+    "Reward": 102,
+    "RewardDisplay": "[{\"Tid\":2,\"Qty\":30}]",
+    "ParentStoryId": [
+      "STm04_03_b",
+      "STm04_03_c"
+    ],
+    "AvgLuaName": "STm04_04_c",
+    "Aim": "Story.410.3",
+    "AvgMotion": "style_19"
+  },
+  "411": {
+    "Id": 411,
+    "StoryId": "STm04_05",
+    "Chapter": 4,
+    "Index": "Story.411.4",
+    "Title": "Story.411.1",
+    "Desc": "Story.411.2",
+    "ConditionId": "CBA04_04",
+    "Reward": 102,
+    "RewardDisplay": "[{\"Tid\":2,\"Qty\":30}]",
+    "ParentStoryId": [
+      "BAm04_04"
+    ],
+    "AvgLuaName": "STm04_05",
+    "Aim": "Story.411.3",
+    "AvgMotion": "style_19"
+  },
+  "412": {
+    "Id": 412,
+    "StoryId": "STm04_06",
+    "Chapter": 4,
+    "Index": "Story.412.4",
+    "Title": "Story.412.1",
+    "Desc": "Story.412.2",
+    "ConditionId": "C04_05",
+    "Reward": 102,
+    "RewardDisplay": "[{\"Tid\":2,\"Qty\":30}]",
+    "ParentStoryId": [
+      "STm04_05"
+    ],
+    "AvgLuaName": "STm04_06",
+    "Aim": "Story.412.3",
+    "AvgMotion": "style_19"
+  },
+  "413": {
+    "Id": 413,
+    "StoryId": "STm04_07",
+    "Chapter": 4,
+    "Index": "Story.413.4",
+    "Title": "Story.413.1",
+    "Desc": "Story.413.2",
+    "ConditionId": "C04_06",
+    "Reward": 102,
+    "RewardDisplay": "[{\"Tid\":2,\"Qty\":30}]",
+    "ParentStoryId": [
+      "STm04_06"
+    ],
+    "AvgLuaName": "STm04_07",
+    "Aim": "Story.413.3",
+    "AvgMotion": "style_19"
+  },
+  "414": {
+    "Id": 414,
+    "StoryId": "STm04_08",
+    "Chapter": 4,
+    "Index": "Story.414.4",
+    "Title": "Story.414.1",
+    "Desc": "Story.414.2",
+    "ConditionId": "C04_07",
+    "Reward": 102,
+    "RewardDisplay": "[{\"Tid\":2,\"Qty\":30}]",
+    "ParentStoryId": [
+      "STm04_07"
+    ],
+    "AvgLuaName": "STm04_08",
+    "Aim": "Story.414.3",
+    "AvgMotion": "style_19"
+  },
+  "415": {
+    "Id": 415,
+    "StoryId": "STm04_09",
+    "Chapter": 4,
+    "Index": "Story.415.4",
+    "Title": "Story.415.1",
+    "Desc": "Story.415.2",
+    "ConditionId": "C04_08",
+    "Reward": 102,
+    "RewardDisplay": "[{\"Tid\":2,\"Qty\":30}]",
+    "ParentStoryId": [
+      "STm04_08"
+    ],
+    "AvgLuaName": "STm04_09",
+    "Aim": "Story.415.3",
+    "AvgMotion": "style_19"
+  },
+  "416": {
+    "Id": 416,
+    "StoryId": "STm04_10",
+    "Chapter": 4,
+    "Index": "Story.416.4",
+    "Title": "Story.416.1",
+    "Desc": "Story.416.2",
+    "ConditionId": "CBA04_09",
+    "Reward": 102,
+    "RewardDisplay": "[{\"Tid\":2,\"Qty\":30}]",
+    "ParentStoryId": [
+      "BAm04_09"
+    ],
+    "AvgLuaName": "STm04_10",
+    "Aim": "Story.416.3",
+    "AvgMotion": "style_19"
+  },
+  "417": {
+    "Id": 417,
+    "StoryId": "STm04_11",
+    "Chapter": 4,
+    "Index": "Story.417.4",
+    "Title": "Story.417.1",
+    "Desc": "Story.417.2",
+    "ConditionId": "C04_10",
+    "Reward": 104,
+    "RewardDisplay": "[{\"Tid\":2,\"Qty\":50}]",
+    "ParentStoryId": [
+      "STm04_10"
+    ],
+    "AvgLuaName": "STm04_11",
+    "Aim": "Story.417.3",
+    "IsLast": true,
+    "AvgMotion": "style_21"
   }
 }

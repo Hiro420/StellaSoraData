@@ -141,6 +141,18 @@
     "EndTime": "2025-12-02T04:00:00+08:00",
     "TabBgRes": "Icon/Banner/tab_activity_cookie"
   },
+  "400002": {
+    "Id": 400002,
+    "MidGroupId": 10102,
+    "SortId": 4,
+    "ActivityType": 3,
+    "Name": "幸运寻宝铲",
+    "ActivityThemeType": 3,
+    "StartType": 2,
+    "StartTime": "2025-12-09T12:00:00+08:00",
+    "EndType": 2,
+    "EndTime": "2025-12-23T04:00:00+08:00"
+  },
   "500001": {
     "Id": 500001,
     "SortId": 6,
@@ -226,6 +238,17 @@
     "EndTime": "2025-12-23T10:59:59+08:00",
     "TabBgRes": "Icon/Banner/tab_activity_trial_149"
   },
+  "700108": {
+    "Id": 700108,
+    "SortId": 7,
+    "ActivityType": 6,
+    "Name": "浅试身手-夏花",
+    "StartType": 2,
+    "StartTime": "2025-12-09T12:00:00+08:00",
+    "EndType": 2,
+    "EndTime": "2025-12-30T04:00:00+08:00",
+    "TabBgRes": "Icon/Banner/tab_activity_trial_133"
+  },
   "1010001": {
     "Id": 1010001,
     "MidGroupId": 10100,
@@ -309,5 +332,41 @@
     "StartTime": "2025-11-18T12:00:00+08:00",
     "EndType": 2,
     "EndTime": "2025-12-09T11:00:00+08:00"
+  },
+  "1010201": {
+    "Id": 1010201,
+    "MidGroupId": 10102,
+    "SortId": 8,
+    "ActivityType": 9,
+    "Name": "夏花战斗关卡",
+    "ActivityThemeType": 3,
+    "StartType": 2,
+    "StartTime": "2025-12-09T12:00:00+08:00",
+    "EndType": 2,
+    "EndTime": "2025-12-23T04:00:00+08:00"
+  },
+  "1010203": {
+    "Id": 1010203,
+    "MidGroupId": 10102,
+    "SortId": 11,
+    "ActivityType": 11,
+    "Name": "夏花活动任务",
+    "ActivityThemeType": 3,
+    "StartType": 2,
+    "StartTime": "2025-12-09T12:00:00+08:00",
+    "EndType": 2,
+    "EndTime": "2025-12-30T04:00:00+08:00"
+  },
+  "1010204": {
+    "Id": 1010204,
+    "MidGroupId": 10102,
+    "SortId": 12,
+    "ActivityType": 12,
+    "Name": "夏花活动商店",
+    "ActivityThemeType": 3,
+    "StartType": 2,
+    "StartTime": "2025-12-09T12:00:00+08:00",
+    "EndType": 2,
+    "EndTime": "2025-12-30T04:00:00+08:00"
   }
 }

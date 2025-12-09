@@ -79,5 +79,45 @@
     ],
     "DesText": "ActivityGroup.10101.1",
     "TabBgRes": "Icon/Banner/tab_activity_chap3activity"
+  },
+  "10102": {
+    "Id": 10102,
+    "ActivityGroupType": 1,
+    "ActivityThemeType": 3,
+    "StartTime": "2025-12-09T12:00:00+08:00",
+    "EndTime": "2025-12-23T04:00:00+08:00",
+    "EnterEndTime": "2025-12-30T04:00:00+08:00",
+    "EnterRes": "Icon/Banner/banner_dream_m",
+    "PanelId": 194,
+    "PreLimit": 1,
+    "LimitParam": "3",
+    "StartCondType": 71,
+    "StartCondParams": [
+      5
+    ],
+    "Enter": "{\"MiniGame\":[400002,1,352],\"Task\":[1010203,2,193],\"Store\":[1010204,4,191],\"Level\":[1010201,5,188]}",
+    "UIAssetsPrefab": "10102",
+    "CtrlName": "ActivityDreamCtrl",
+    "RewardsShow": [
+      2,
+      214024,
+      116003,
+      502,
+      503,
+      21043,
+      35000,
+      32003,
+      20093,
+      21083,
+      30004,
+      50004,
+      30,
+      33082,
+      33042,
+      33072,
+      1
+    ],
+    "DesText": "ActivityGroup.10102.1",
+    "TabBgRes": "Icon/Banner/tab_activity_dream"
   }
 }

@@ -6,12 +6,6 @@
     "LockableNum": 2,
     "MaxAlterNum": 4,
     "UnlockLevel": 70,
-    "AttrGroupId": [
-      1,
-      2,
-      3,
-      4
-    ],
     "LockItemTid": 35000,
     "LockItemQty": 1
   },
@@ -23,15 +17,6 @@
     "LockableNum": 2,
     "MaxAlterNum": 4,
     "UnlockLevel": 80,
-    "UniqueAttrGroupProb": 4000,
-    "UniqueAttrGroupId": 11,
-    "GuaranteeCount": 40,
-    "AttrGroupId": [
-      5,
-      6,
-      7,
-      8
-    ],
     "LockItemTid": 35000,
     "LockItemQty": 1
   },
@@ -43,13 +28,6 @@
     "LockableNum": 2,
     "MaxAlterNum": 4,
     "UnlockLevel": 90,
-    "UniqueAttrGroupProb": 3330,
-    "UniqueAttrGroupId": 12,
-    "GuaranteeCount": 48,
-    "AttrGroupId": [
-      9,
-      10
-    ],
     "LockItemTid": 35000,
     "LockItemQty": 1
   }

@@ -7267,7 +7267,9 @@
       505310207,
       505310208
     ],
-    "ThinkInterval": 2000
+    "ThinkInterval": 2000,
+    "ParallelAIPath": "AIScript.Monster._50531DaGuanZi.Parallel",
+    "CheckAchievement": true
   },
   "5053103": {
     "Id": 5053103,
@@ -7285,7 +7287,9 @@
       505310308,
       505310309
     ],
-    "ThinkInterval": 2000
+    "ThinkInterval": 2000,
+    "ParallelAIPath": "AIScript.Monster._50531DaGuanZi.Parallel",
+    "CheckAchievement": true
   },
   "5055101": {
     "Id": 5055101,

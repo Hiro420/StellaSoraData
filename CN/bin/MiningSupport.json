@@ -54,5 +54,61 @@
     "SkillDes": "MiningSupport.7.2",
     "SupportEffect": 9,
     "SupportParams": "[3,1]"
+  },
+  "201": {
+    "Id": 201,
+    "CharIcon": "Icon/Head/head_13401",
+    "SkillName": "MiningSupport.201.1",
+    "SkillDes": "MiningSupport.201.2",
+    "SupportEffect": 10,
+    "SupportParams": "[1,1]"
+  },
+  "202": {
+    "Id": 202,
+    "CharIcon": "Icon/Head/head_15601",
+    "SkillName": "MiningSupport.202.1",
+    "SkillDes": "MiningSupport.202.2",
+    "SupportEffect": 11,
+    "SupportParams": "[77,1,2,1]"
+  },
+  "203": {
+    "Id": 203,
+    "CharIcon": "Icon/Head/head_13501",
+    "SkillName": "MiningSupport.203.1",
+    "SkillDes": "MiningSupport.203.2",
+    "SupportEffect": 5,
+    "SupportParams": "[3,2,1]"
+  },
+  "204": {
+    "Id": 204,
+    "CharIcon": "Icon/Head/head_13611",
+    "SkillName": "MiningSupport.204.1",
+    "SkillDes": "MiningSupport.204.2",
+    "SupportEffect": 6,
+    "SupportParams": "[2,2,1]"
+  },
+  "205": {
+    "Id": 205,
+    "CharIcon": "Icon/Head/head_13701",
+    "SkillName": "MiningSupport.205.1",
+    "SkillDes": "MiningSupport.205.2",
+    "SupportEffect": 7,
+    "SupportParams": "[3,1,2,1]"
+  },
+  "206": {
+    "Id": 206,
+    "CharIcon": "Icon/Head/head_npc13201",
+    "SkillName": "MiningSupport.206.1",
+    "SkillDes": "MiningSupport.206.2",
+    "SupportEffect": 12,
+    "SupportParams": "[2,1]"
+  },
+  "207": {
+    "Id": 207,
+    "CharIcon": "Icon/Head/head_13301",
+    "SkillName": "MiningSupport.207.1",
+    "SkillDes": "MiningSupport.207.2",
+    "SupportEffect": 9,
+    "SupportParams": "[3,1]"
   }
 }

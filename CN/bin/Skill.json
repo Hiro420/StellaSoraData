@@ -4042,7 +4042,7 @@
     "Desc": "Skill.13310000.2",
     "Icon": "Icon/Skill/13301_Normal",
     "MaxLevel": 10,
-    "GetEnergyLimit": 153600,
+    "GetEnergyLimit": 201400,
     "Param1": "HitDamage,DamageNum,133100001",
     "Param2": "HitDamage,DamageNum,133100002",
     "Param3": "HitDamage,DamageNum,133100003"
@@ -4069,7 +4069,7 @@
     "Icon": "Icon/Skill/13301_Skill_Main",
     "SkillCD": 80000,
     "MaxLevel": 10,
-    "GetEnergyLimit": 438600,
+    "GetEnergyLimit": 614000,
     "Param1": "HitDamage,DamageNum,133310001",
     "Param2": "HitDamage,DamageNum,133000001",
     "CheckSkillInterval": true
