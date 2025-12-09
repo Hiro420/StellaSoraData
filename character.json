@@ -4230,43 +4230,43 @@
     "element": "Ventus",
     "class": "Versatile",
     "attackType": "Ranged",
-    "tag": ["Versatile", "Steady", "Petal Bloom Guild"],
+    "tag": ["Versatile", "Steady", "Petal Bloom"],
     "potential": [
       {
-        "name": "???",
-        "briefDesc": "???",
+        "name": "Blooming Gale",
+        "briefDesc": "While the Main Skill is active, increases Nazuka's Movement SPD and Attack Range. Reduces the Main Skill's Attack Interval.",
         "type": "main",
         "rarity": 0,
         "imgId": "13301_Potential_01",
         "id": 513301
       },
       {
-        "name": "???",
-        "briefDesc": "???",
+        "name": "Everlasting Elegance",
+        "briefDesc": "Increases the duration of the Main Skill. If the Skill is interrupted, its cooldown is partially reduced.",
         "type": "main",
         "rarity": 0,
         "imgId": "13301_Potential_02",
         "id": 513302
       },
       {
-        "name": "???",
-        "briefDesc": "???",
+        "name": "Fierce Arrow",
+        "briefDesc": "When the pinwheel stops, unleashes a burst of piercing gale, dealing DMG.",
         "type": "main",
         "rarity": 0,
         "imgId": "13301_Potential_03",
         "id": 513303
       },
       {
-        "name": "???",
-        "briefDesc": "???",
+        "name": "Spiral Vortex",
+        "briefDesc": "The Main Skill deals additional DMG and increases the target's Ventus DMG Taken. Also, the wind of the pinwheel can pull in weak targets.",
         "type": "main",
         "rarity": 0,
         "imgId": "13301_Potential_04",
         "id": 513304
       },
       {
-        "name": "???",
-        "briefDesc": "???",
+        "name": "Wind Erosion Impact",
+        "briefDesc": "Increases the Ventus DMG of the Main Skill and increases the targets' Ventus DMG Taken.",
         "type": "main",
         "rarity": 2,
         "imgId": "13301_Potential_02",
@@ -4274,8 +4274,8 @@
         "subIcon": "Diamond"
       },
       {
-        "name": "???",
-        "briefDesc": "???",
+        "name": "Gale Shield",
+        "briefDesc": "While the Main Skill is active, increases Nazuka's DEF. When hit, deals DMG to the attacker.",
         "type": "main",
         "rarity": 2,
         "imgId": "13301_Potential_01",
@@ -4283,8 +4283,8 @@
         "subIcon": "Triangle"
       },
       {
-        "name": "???",
-        "briefDesc": "???",
+        "name": "Unyielding Leaves",
+        "briefDesc": "When the Main Skill is active, Skill DMG increases over time.",
         "type": "main",
         "rarity": 1,
         "imgId": "13301_Potential_01",
@@ -4292,8 +4292,8 @@
         "subIcon": "Round"
       },
       {
-        "name": "???",
-        "briefDesc": "???",
+        "name": "Gale's Might",
+        "briefDesc": "When casting the Main Skill, increases ATK.",
         "type": "main",
         "rarity": 2,
         "imgId": "13301_Potential_03",
@@ -4301,8 +4301,8 @@
         "subIcon": "Diamond"
       },
       {
-        "name": "???",
-        "briefDesc": "???",
+        "name": "Storm Overturned",
+        "briefDesc": "Increases Nazuka's ATK. When there are more than 1 target within the Main Skill's Attack Range, increases Skill DMG.",
         "type": "main",
         "rarity": 2,
         "imgId": "13301_Potential_03",
@@ -4310,8 +4310,8 @@
         "subIcon": "Triangle"
       },
       {
-        "name": "???",
-        "briefDesc": "???",
+        "name": "Precision Control",
+        "briefDesc": "Increases Nazuka's Ventus DMG. The Ultimate can trigger Ventus Mark.",
         "type": "main",
         "rarity": 1,
         "imgId": "Common_Potential_Wind_1",
@@ -4319,8 +4319,8 @@
         "subIcon": "Diamond"
       },
       {
-        "name": "???",
-        "briefDesc": "???",
+        "name": "Willowy Grace",
+        "briefDesc": "Nazuka can dodge one more time. Increases her ATK after dodging.",
         "type": "main",
         "rarity": 2,
         "imgId": "Common_Potential_13",
@@ -4328,8 +4328,8 @@
         "subIcon": "Round"
       },
       {
-        "name": "???",
-        "briefDesc": "???",
+        "name": "Whisper of Wind",
+        "briefDesc": "After the Main Skill ends, increases ATK for a short period of time.",
         "type": "main",
         "rarity": 1,
         "imgId": "13301_Potential_04",
@@ -4337,8 +4337,8 @@
         "subIcon": "Round"
       },
       {
-        "name": "???",
-        "briefDesc": "???",
+        "name": "Gale Fading",
+        "briefDesc": "When Auto Attacks deal DMG, there is a chance to increase the target's Ventus DMG Taken.",
         "type": "main",
         "rarity": 2,
         "imgId": "Common_Potential_24",
@@ -4346,8 +4346,8 @@
         "subIcon": "Triangle"
       },
       {
-        "name": "???",
-        "briefDesc": "???",
+        "name": "Multi-Hurricane",
+        "briefDesc": "Increases the Ultimate DMG and the number of tornados.",
         "type": "common",
         "rarity": 2,
         "imgId": "13301_Potential_41",
@@ -4355,8 +4355,8 @@
         "subIcon": "Diamond"
       },
       {
-        "name": "???",
-        "briefDesc": "???",
+        "name": "Aeolus's Blessing",
+        "briefDesc": "When casting the Ultimate, increases Nazuka's Ventus DMG and the tornado's duration.",
         "type": "common",
         "rarity": 2,
         "imgId": "13301_Potential_41",
@@ -4364,8 +4364,8 @@
         "subIcon": "Triangle"
       },
       {
-        "name": "???",
-        "briefDesc": "???",
+        "name": "Maelstrom",
+        "briefDesc": "Increases Ultimate's DMG. When the Ultimate deals DMG, increases the target's Ventus DMG Taken.",
         "type": "common",
         "rarity": 2,
         "imgId": "13301_Potential_41",
@@ -4373,40 +4373,40 @@
         "subIcon": "Round"
       },
       {
-        "name": "???",
-        "briefDesc": "???",
+        "name": "Youth: Dazzling",
+        "briefDesc": "When casting the Support Skill, continuously creates a dozen Flower Petals at the Ventus Main Trekker's location, each dealing DMG and inflicting Ventus Mark: Breeze.",
         "type": "support",
         "rarity": 0,
         "imgId": "13301_Potential_21",
         "id": 513321
       },
       {
-        "name": "???",
-        "briefDesc": "???",
+        "name": "Youth: Hunting",
+        "briefDesc": "Increases the Ventus DMG of Flower Petals, and they can follow targets.",
         "type": "support",
         "rarity": 0,
         "imgId": "13301_Potential_22",
         "id": 513322
       },
       {
-        "name": "???",
-        "briefDesc": "???",
+        "name": "Flower Formation: Waves",
+        "briefDesc": "Increases the duration of Flower Formation. After casting the skill, when another friendly Ventus unit deals DMG to a target outside Flower Formation, creates another Flower Formation.",
         "type": "support",
         "rarity": 0,
         "imgId": "13301_Potential_23",
         "id": 513323
       },
       {
-        "name": "???",
-        "briefDesc": "???",
+        "name": "Flower Formation: Turbulent",
+        "briefDesc": "When another friendly Ventus unit deals DMG to targets caught in Flower Formation, Flower Formation deals additional DMG.",
         "type": "support",
         "rarity": 0,
         "imgId": "13301_Potential_24",
         "id": 513324
       },
       {
-        "name": "???",
-        "briefDesc": "???",
+        "name": "Youth: Weakness",
+        "briefDesc": "When Flower Petals deal DMG, increases the targets' Ventus DMG Taken.",
         "type": "support",
         "rarity": 2,
         "imgId": "13301_Potential_22",
@@ -4414,8 +4414,8 @@
         "subIcon": "Diamond"
       },
       {
-        "name": "???",
-        "briefDesc": "???",
+        "name": "Youth: Annihilation",
+        "briefDesc": "The Flower Petal has a chance to kill a normal target immediately and its DMG is increased.",
         "type": "support",
         "rarity": 2,
         "imgId": "13301_Potential_21",
@@ -4423,8 +4423,8 @@
         "subIcon": "Triangle"
       },
       {
-        "name": "???",
-        "briefDesc": "???",
+        "name": "Youth: Blooming",
+        "briefDesc": "Increases Flower Petal's DMG.  For each Flower Petal created, increases Nazuka's Ventus DMG.",
         "type": "support",
         "rarity": 1,
         "imgId": "13301_Potential_21",
@@ -4432,8 +4432,8 @@
         "subIcon": "Round"
       },
       {
-        "name": "???",
-        "briefDesc": "???",
+        "name": "Flower Formation: Convergence",
+        "briefDesc": "Increases Flower Formation's DMG. When there are 2 or more targets caught in Flower Formation, increases its DMG.",
         "type": "support",
         "rarity": 2,
         "imgId": "13301_Potential_23",
@@ -4441,8 +4441,8 @@
         "subIcon": "Diamond"
       },
       {
-        "name": "???",
-        "briefDesc": "???",
+        "name": "Flower Formation: Blast",
+        "briefDesc": "Increases the Flower Formation's Ventus DMG. When the Flower Formation dissipates, deals DMG and inflicts Ventus Mark: Breeze.",
         "type": "support",
         "rarity": 1,
         "imgId": "13301_Potential_24",
@@ -4450,8 +4450,8 @@
         "subIcon": "Round"
       },
       {
-        "name": "???",
-        "briefDesc": "???",
+        "name": "Wind Demon Seed",
+        "briefDesc": "Increases Nazuka's ATK. The Ultimate can inflict Ventus Mark: Breeze.",
         "type": "support",
         "rarity": 2,
         "imgId": "Common_Potential_Wind_1",
@@ -4459,8 +4459,8 @@
         "subIcon": "Diamond"
       },
       {
-        "name": "???",
-        "briefDesc": "???",
+        "name": "Self-Improvement",
+        "briefDesc": "When there is a Flower Formation on the battlefield, increases Nazuka's Skill DMG.",
         "type": "support",
         "rarity": 2,
         "imgId": "Common_Potential_11",
@@ -4468,8 +4468,8 @@
         "subIcon": "Triangle"
       },
       {
-        "name": "???",
-        "briefDesc": "???",
+        "name": "Flower Formation: Erosion",
+        "briefDesc": "When Flower Formation deals DMG, increases the target's Ventus DMG Taken.",
         "type": "support",
         "rarity": 2,
         "imgId": "13301_Potential_23",
@@ -4477,8 +4477,8 @@
         "subIcon": "Triangle"
       },
       {
-        "name": "???",
-        "briefDesc": "???",
+        "name": "Almighty Leader",
+        "briefDesc": "Increases all Vanguard and Versatile Ventus Trekkers' Ventus DMG in the squad.",
         "type": "support",
         "rarity": 1,
         "imgId": "Common_Potential_15",
@@ -4494,7 +4494,7 @@
     "element": "Ignis",
     "class": "Vanguard",
     "attackType": "Melee",
-    "tag": ["Vanguard", "Inquisitive", "Petal Bloom Guild"],
+    "tag": ["Vanguard", "Inquisitive", "Petal Bloom"],
     "potential": [
       {
         "name": "Reload",
@@ -4565,7 +4565,7 @@
         "subIcon": "Diamond"
       },
       {
-        "name": "Blast Pursuit",
+        "name": "Blast Chase",
         "briefDesc": "Fuyuka's fourth attack on the same target deals additional DMG.",
         "type": "main",
         "rarity": 1,
@@ -4628,7 +4628,7 @@
         "subIcon": "Triangle"
       },
       {
-        "name": "Peak Condition",
+        "name": "Peak Performance",
         "briefDesc": "When casting the Ultimate, increases Fuyuka's Ultimate DMG. This buff decays over time.",
         "type": "common",
         "rarity": 2,
@@ -4687,7 +4687,7 @@
         "subIcon": "Triangle"
       },
       {
-        "name": "Gaining Momentum",
+        "name": "Momentum Primed",
         "briefDesc": "When Fuyuka is not present, for every few seconds, increases the Skill DMG of the next Support Skill.",
         "type": "support",
         "rarity": 2,
@@ -4741,7 +4741,7 @@
         "subIcon": "Triangle"
       },
       {
-        "name": "Companion's Power",
+        "name": "Companions' Power",
         "briefDesc": "Increases Ignis Trekkers' Crit DMG.",
         "type": "support",
         "rarity": 1,
@@ -4769,7 +4769,7 @@
         "id": 513501
       },
       {
-        "name": "Rapid Fire",
+        "name": "Burst Shooting",
         "briefDesc": "The Main Skill deals additional DMG. When casting, removes all Pumpka Phantoms from the battlefield and summons them again.",
         "type": "main",
         "rarity": 0,
@@ -4777,7 +4777,7 @@
         "id": 513502
       },
       {
-        "name": "Super Long Exposure",
+        "name": "Extended Exposure",
         "briefDesc": "While in Exposure status, if the maximum number of Pumpka Phantoms are on the battlefield, increases their duration and Minion DMG.",
         "type": "main",
         "rarity": 0,
@@ -4901,7 +4901,7 @@
         "subIcon": "Round"
       },
       {
-        "name": "Stay Happy",
+        "name": "Happy Face",
         "briefDesc": "Increases the duration of the magic circle. Also increases the Minion DMG of Lanterna Phantoms.",
         "type": "support",
         "rarity": 0,
@@ -5298,7 +5298,7 @@
       },
       {
         "name": "Nightscar Trace",
-        "briefDesc": "When a squadmate lands a Crit Hit, reduces the Main Skill's Cooldown, leaves claw marks and inflicts Umbra Mark: Gloom.",
+        "briefDesc": "When any other friendly unit lands a Crit Hit, reduces the Main Skill's Cooldown, leaves claw marks and inflicts Umbra Mark: Gloom.",
         "type": "main",
         "rarity": 0,
         "imgId": "14201_Potential_02",
@@ -6870,7 +6870,7 @@
     "element": "Terra",
     "class": "Support",
     "attackType": "Ranged",
-    "tag": ["Support", "Collector", "Petal Bloom Guild"],
+    "tag": ["Support", "Collector", "Petal Bloom"],
     "potential": [
       {
         "name": "Small Force",
