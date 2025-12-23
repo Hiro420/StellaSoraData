@@ -1,0 +1,33 @@
+{
+  "1": {
+    "Id": 1,
+    "Lower": 10000,
+    "Upper": 100000000
+  },
+  "2": {
+    "Id": 2,
+    "Lower": 2000,
+    "Upper": 100000000,
+    "IsLimited": true,
+    "IsPlayer": true
+  },
+  "3": {
+    "Id": 3,
+    "Upper": 10000,
+    "IsLimited": true
+  },
+  "4": {
+    "Id": 4,
+    "Upper": 10000
+  },
+  "5": {
+    "Id": 5,
+    "Upper": 100000
+  },
+  "6": {
+    "Id": 6,
+    "Upper": 6000000,
+    "IsLimited": true,
+    "IsPlayer": true
+  }
+}

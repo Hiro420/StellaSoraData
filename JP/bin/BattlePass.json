@@ -19,6 +19,7 @@
     "ComplementaryTid": 101003,
     "ComplementaryQty": 1,
     "OriginShowPrice": "￥ 2,260",
+    "CoverColor": "#264278",
     "Cover": 13203,
     "PremiumShowItems": [
       199000,
@@ -54,6 +55,7 @@
     "ComplementaryTid": 101008,
     "ComplementaryQty": 1,
     "OriginShowPrice": "￥ 2,260",
+    "CoverColor": "#264279",
     "Cover": 10703,
     "PremiumShowItems": [
       199000,
@@ -65,6 +67,42 @@
     "LuxuryShowItems": [
       199008,
       199009,
+      199006
+    ],
+    "OutfitPackageShowItem": 86005
+  },
+  "2": {
+    "ID": 3,
+    "Name": "S3",
+    "StartTime": "2026-01-01T04:00:00+08:00",
+    "EndTime": "2026-01-31T03:59:59+08:00",
+    "LuxuryProductId": "battlepass.98",
+    "LuxuryPrice": 1980,
+    "LuxuryShowPrice": "￥ 1,980",
+    "LuxuryBonusLevel": 10,
+    "LuxuryTid": 101009,
+    "LuxuryQty": 1,
+    "PremiumProductId": "battlepass.58",
+    "PremiumPrice": 1280,
+    "PremiumShowPrice": "￥ 1,280",
+    "ComplementaryProductId": "battlepass.50",
+    "ComplementaryPrice": 980,
+    "ComplementaryShowPrice": "￥ 980",
+    "ComplementaryTid": 101010,
+    "ComplementaryQty": 1,
+    "OriginShowPrice": "￥ 2,260",
+    "CoverColor": "#843b4f",
+    "Cover": 11103,
+    "PremiumShowItems": [
+      199000,
+      199001,
+      199002,
+      199003,
+      199007
+    ],
+    "LuxuryShowItems": [
+      199010,
+      199011,
       199006
     ],
     "OutfitPackageShowItem": 86005

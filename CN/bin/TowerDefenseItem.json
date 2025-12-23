@@ -7,5 +7,15 @@
     "Script": "AIScript.TowerDefenseItem_AreaEffect_IceArea",
     "CardIcon": "UI/Play_TowerDefence/SpriteAtlas/Item/icon_tower_defense_Item_1",
     "Head": "Icon/Item/item_tf_1"
+  },
+  "1011": {
+    "Id": 1011,
+    "Name": "TowerDefenseItem.1011.1",
+    "Des": "TowerDefenseItem.1011.2",
+    "Amount": 8,
+    "Cd": 8,
+    "Script": "AIScript.TowerDefenseItem_EnergyCapsule",
+    "CardIcon": "UI/Play_TowerDefence/SpriteAtlas/Item/icon_tower_defense_Item_2",
+    "Head": "Icon/Item/item_tf_2"
   }
 }

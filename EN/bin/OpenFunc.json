@@ -50,11 +50,11 @@
   "7": {
     "Id": 7,
     "Name": "OpenFunc.TravelerDuel.1",
-    "NeedWorldClass": 999,
+    "NeedWorldClass": 10,
     "Desc": "OpenFunc.TravelerDuel.2",
     "Icon": "Icon/ZZZOther/zs_openfunc_TravelerDuel",
     "Tips": "OpenFunc.TravelerDuel.3",
-    "Param1": "999"
+    "Param1": "10"
   },
   "8": {
     "Id": 8,
@@ -109,13 +109,6 @@
     "Desc": "OpenFunc.RegionBossChallenge.2",
     "Tips": "OpenFunc.RegionBossChallenge.3",
     "Param1": "999"
-  },
-  "14": {
-    "Id": 14,
-    "Name": "OpenFunc.TravelerDuelChallenge.1",
-    "NeedWorldClass": 999,
-    "Desc": "OpenFunc.TravelerDuelChallenge.2",
-    "Tips": "OpenFunc.TravelerDuelChallenge.3"
   },
   "15": {
     "Id": 15,
@@ -244,5 +237,21 @@
     "Desc": "OpenFunc.NickNameReset.2",
     "Tips": "OpenFunc.NickNameReset.3",
     "Param1": "7"
+  },
+  "30": {
+    "Id": 30,
+    "Name": "OpenFunc.WeeklyQuest.1",
+    "NeedWorldClass": 3,
+    "Desc": "OpenFunc.WeeklyQuest.2",
+    "Tips": "OpenFunc.WeeklyQuest.3",
+    "Param1": "3"
+  },
+  "31": {
+    "Id": 31,
+    "Name": "OpenFunc.QuestNewbie.1",
+    "NeedWorldClass": 4,
+    "Desc": "OpenFunc.QuestNewbie.2",
+    "Tips": "OpenFunc.QuestNewbie.3",
+    "Param1": "4"
   }
 }

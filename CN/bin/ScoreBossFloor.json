@@ -37,5 +37,21 @@
     "Theme": 105,
     "BGM": "roguelike_combatShasha_setState",
     "LeaveTriggerEvent": "amb_roguelike_all_stop"
+  },
+  "1001006": {
+    "Id": 1001006,
+    "SceneName": "Levels/Roguelike/Roguelike_4/Roguelike_4_Boss_001",
+    "ConfigPrefabName": "Bossrush_FengShanJi",
+    "Theme": 109,
+    "BGM": "roguelike_combatFan_setState",
+    "LeaveTriggerEvent": "amb_roguelike_all_stop"
+  },
+  "1001010": {
+    "Id": 1001010,
+    "SceneName": "Levels/Roguelike/Roguelike_4/Roguelike_4_Boss_002",
+    "ConfigPrefabName": "Roguelike_4_Boss_TaiDeng_BossRush",
+    "Theme": 110,
+    "BGM": "roguelike_combatLamp_setState",
+    "LeaveTriggerEvent": "amb_roguelike_all_stop"
   }
 }

@@ -39,5 +39,23 @@
     "JumpTo": [
       71
     ]
+  },
+  "201006": {
+    "Id": 201006,
+    "UIAssets": "_201006/storyCollection_act_04",
+    "CtrlName": "StoryCollectionActCtrl",
+    "StartTime": "2025-12-30T12:00:00+08:00",
+    "JumpTo": [
+      71
+    ]
+  },
+  "201007": {
+    "Id": 201007,
+    "UIAssets": "_201007/mainLineStory_act_01",
+    "CtrlName": "MainLineStoryActCtrl",
+    "StartTime": "2026-01-06T12:00:00+08:00",
+    "JumpTo": [
+      5005
+    ]
   }
 }

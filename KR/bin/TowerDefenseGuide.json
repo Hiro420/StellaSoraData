@@ -3,42 +3,149 @@
     "Id": 1,
     "ActivityId": 102001,
     "GuideType": 1,
-    "ObjectId": 8010301
+    "ObjectId": 8010301,
+    "IsShow": true
   },
   "2": {
     "Id": 2,
     "ActivityId": 102001,
     "GuideType": 1,
-    "ObjectId": 8011101
+    "ObjectId": 8011101,
+    "IsShow": true
   },
   "3": {
     "Id": 3,
     "ActivityId": 102001,
     "GuideType": 1,
-    "ObjectId": 8011201
+    "ObjectId": 8011201,
+    "IsShow": true
   },
   "4": {
     "Id": 4,
     "ActivityId": 102001,
     "GuideType": 2,
-    "ObjectId": 1001
+    "ObjectId": 1001,
+    "IsShow": true
   },
   "5": {
     "Id": 5,
     "ActivityId": 102001,
     "GuideType": 1,
-    "ObjectId": 8012701
+    "ObjectId": 8012701,
+    "IsShow": true
   },
   "6": {
     "Id": 6,
     "ActivityId": 102001,
     "GuideType": 1,
-    "ObjectId": 8013401
+    "ObjectId": 8013401,
+    "IsShow": true
   },
   "7": {
     "Id": 7,
     "ActivityId": 102001,
     "GuideType": 1,
-    "ObjectId": 8015601
+    "ObjectId": 8015601,
+    "IsShow": true
+  },
+  "8": {
+    "Id": 8,
+    "ActivityId": 102002,
+    "GuideType": 1,
+    "ObjectId": 8010301,
+    "IsShow": true
+  },
+  "9": {
+    "Id": 9,
+    "ActivityId": 102002,
+    "GuideType": 1,
+    "ObjectId": 8011101,
+    "IsShow": true
+  },
+  "10": {
+    "Id": 10,
+    "ActivityId": 102002,
+    "GuideType": 1,
+    "ObjectId": 8011201,
+    "IsShow": true
+  },
+  "11": {
+    "Id": 11,
+    "ActivityId": 102002,
+    "GuideType": 1,
+    "ObjectId": 8012701,
+    "IsShow": true
+  },
+  "12": {
+    "Id": 12,
+    "ActivityId": 102002,
+    "GuideType": 1,
+    "ObjectId": 8013401,
+    "IsShow": true
+  },
+  "13": {
+    "Id": 13,
+    "ActivityId": 102002,
+    "GuideType": 1,
+    "ObjectId": 8015601,
+    "IsShow": true
+  },
+  "14": {
+    "Id": 14,
+    "ActivityId": 102002,
+    "GuideType": 1,
+    "ObjectId": 8013301,
+    "iconPath": "zs_towerdef_s2",
+    "IsShow": true
+  },
+  "15": {
+    "Id": 15,
+    "ActivityId": 102002,
+    "GuideType": 1,
+    "ObjectId": 8011801,
+    "iconPath": "zs_towerdef_s2",
+    "IsShow": true
+  },
+  "16": {
+    "Id": 16,
+    "ActivityId": 102002,
+    "GuideType": 1,
+    "ObjectId": 8011001,
+    "iconPath": "zs_towerdef_s2",
+    "IsShow": true
+  },
+  "17": {
+    "Id": 17,
+    "ActivityId": 102002,
+    "GuideType": 1,
+    "ObjectId": 8012301,
+    "iconPath": "zs_towerdef_s2",
+    "IsShow": true
+  },
+  "18": {
+    "Id": 18,
+    "ActivityId": 102002,
+    "GuideType": 2,
+    "ObjectId": 1011,
+    "iconPath": "zs_towerdef_s2",
+    "IsShow": true
+  },
+  "19": {
+    "Id": 19,
+    "ActivityId": 102002,
+    "GuideType": 1,
+    "ObjectId": 8011899
+  },
+  "20": {
+    "Id": 20,
+    "ActivityId": 102002,
+    "GuideType": 1,
+    "ObjectId": 8013399
+  },
+  "21": {
+    "Id": 21,
+    "ActivityId": 102002,
+    "GuideType": 1,
+    "ObjectId": 8012399
   }
 }

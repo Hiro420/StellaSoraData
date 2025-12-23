@@ -48,11 +48,25 @@
     "AmountReduce": 1,
     "Brief": "TowerDefenseMonster.8089901.1"
   },
-  "8070020": {
-    "Id": 8070020,
-    "ExpGive": 1000000,
+  "8079903": {
+    "Id": 8079903,
+    "ExpGive": 4000000,
     "HpReduce": 1,
     "AmountReduce": 1,
-    "Brief": "TowerDefenseMonster.8070020.1"
+    "Brief": "TowerDefenseMonster.8079903.1"
+  },
+  "8089902": {
+    "Id": 8089902,
+    "ExpGive": 20000000,
+    "HpReduce": 2,
+    "AmountReduce": 1,
+    "Brief": "TowerDefenseMonster.8089902.1"
+  },
+  "8070201": {
+    "Id": 8070201,
+    "ExpGive": 4000000,
+    "HpReduce": 1,
+    "AmountReduce": 1,
+    "Brief": "TowerDefenseMonster.8070201.1"
   }
 }

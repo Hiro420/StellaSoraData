@@ -122,6 +122,7 @@
     "SkinId": 8012701,
     "SearchTargetType": 1,
     "SearchRadius": 45000,
+    "SkillRadius": 75000,
     "AIId": 8012701,
     "NewPotential2": [
       1270105
@@ -207,8 +208,8 @@
       1560106
     ],
     "NewPotential4": [
-      1560101,
-      1560102
+      1340101,
+      1340102
     ],
     "NewPotential5": [
       1560107
@@ -231,5 +232,280 @@
     "CdStartTime": true,
     "Templete": 8015601,
     "Icon": "Icon/Head/head_15601"
+  },
+  "8013301": {
+    "Id": 8013301,
+    "Name": "TowerDefenseCharacter.8013301.1",
+    "SkinId": 8013301,
+    "SearchTargetType": 1,
+    "SearchRadius": 75000,
+    "AIId": 8013301,
+    "NewPotential2": [
+      1330105
+    ],
+    "NewPotential3": [
+      1330106
+    ],
+    "NewPotential4": [
+      1330101,
+      1330102
+    ],
+    "NewPotential5": [
+      1330107
+    ],
+    "NewPotential6": [
+      1330103,
+      1330104
+    ],
+    "PointNeeded": [
+      1,
+      1,
+      2,
+      1,
+      2
+    ],
+    "Faction": 1,
+    "NormalAtkId": 8013301,
+    "SkillId": 8013302,
+    "SkillCd": 80000,
+    "Templete": 8013301,
+    "Icon": "Icon/Head/head_13301"
+  },
+  "8011801": {
+    "Id": 8011801,
+    "Name": "TowerDefenseCharacter.8011801.1",
+    "SkinId": 8011801,
+    "SearchTargetType": 1,
+    "SearchRadius": 45000,
+    "SkillRadius": 65000,
+    "AIId": 8011801,
+    "NewPotential2": [
+      1180105
+    ],
+    "NewPotential3": [
+      1180106
+    ],
+    "NewPotential4": [
+      1180101,
+      1180102
+    ],
+    "NewPotential5": [
+      1180107
+    ],
+    "NewPotential6": [
+      1180103,
+      1180104
+    ],
+    "PointNeeded": [
+      1,
+      1,
+      2,
+      1,
+      2
+    ],
+    "Faction": 1,
+    "NormalAtkId": 8011801,
+    "SkillId": 8011802,
+    "SkillCd": 100000,
+    "CdStartTime": true,
+    "Templete": 8011801,
+    "Icon": "Icon/Head/head_11801"
+  },
+  "8011001": {
+    "Id": 8011001,
+    "Name": "TowerDefenseCharacter.8011001.1",
+    "SkinId": 8011001,
+    "SearchTargetType": 1,
+    "SearchRadius": 45000,
+    "AIId": 8011001,
+    "NewPotential2": [
+      1100105
+    ],
+    "NewPotential3": [
+      1100106
+    ],
+    "NewPotential4": [
+      1100101,
+      1100102
+    ],
+    "NewPotential5": [
+      1100107
+    ],
+    "NewPotential6": [
+      1100103,
+      1100104
+    ],
+    "PointNeeded": [
+      1,
+      1,
+      2,
+      1,
+      2
+    ],
+    "Faction": 1,
+    "NormalAtkId": 8011001,
+    "SkillId": 8011002,
+    "SkillCd": 120000,
+    "CdStartTime": true,
+    "Templete": 8011001,
+    "Icon": "Icon/Head/head_11001"
+  },
+  "8012301": {
+    "Id": 8012301,
+    "Name": "TowerDefenseCharacter.8012301.1",
+    "SkinId": 8012301,
+    "SearchTargetType": 1,
+    "SearchRadius": 45000,
+    "SkillRadius": 75000,
+    "AIId": 8012301,
+    "NewPotential2": [
+      1230105
+    ],
+    "NewPotential3": [
+      1230106
+    ],
+    "NewPotential4": [
+      1230101,
+      1230102
+    ],
+    "NewPotential5": [
+      1230107
+    ],
+    "NewPotential6": [
+      1230103,
+      1230104
+    ],
+    "PointNeeded": [
+      1,
+      1,
+      2,
+      1,
+      2
+    ],
+    "Faction": 1,
+    "NormalAtkId": 8012301,
+    "SkillId": 8012302,
+    "SkillCd": 150000,
+    "CdStartTime": true,
+    "Templete": 8012301,
+    "Icon": "Icon/Head/head_12301"
+  },
+  "8011899": {
+    "Id": 8011899,
+    "Name": "TowerDefenseCharacter.8011899.1",
+    "SkinId": 8011801,
+    "SearchTargetType": 1,
+    "SearchRadius": 45000,
+    "SkillRadius": 65000,
+    "AIId": 8011801,
+    "NewPotential2": [
+      1180105
+    ],
+    "NewPotential3": [
+      1180106
+    ],
+    "NewPotential4": [
+      1180101,
+      1180102
+    ],
+    "NewPotential5": [
+      1180107
+    ],
+    "NewPotential6": [
+      1180103,
+      1180104
+    ],
+    "PointNeeded": [
+      1,
+      1,
+      2,
+      1,
+      2
+    ],
+    "Faction": 1,
+    "NormalAtkId": 8011801,
+    "SkillId": 8011802,
+    "SkillCd": 50000,
+    "CdStartTime": true,
+    "Templete": 8011801,
+    "Icon": "Icon/Head/head_11801"
+  },
+  "8013399": {
+    "Id": 8013399,
+    "Name": "TowerDefenseCharacter.8013399.1",
+    "SkinId": 8013301,
+    "SearchTargetType": 1,
+    "SearchRadius": 75000,
+    "AIId": 8013301,
+    "NewPotential2": [
+      1330105
+    ],
+    "NewPotential3": [
+      1330106
+    ],
+    "NewPotential4": [
+      1330101,
+      1330102
+    ],
+    "NewPotential5": [
+      1330107
+    ],
+    "NewPotential6": [
+      1330103,
+      1330104
+    ],
+    "PointNeeded": [
+      1,
+      1,
+      2,
+      1,
+      2
+    ],
+    "Faction": 1,
+    "NormalAtkId": 8013301,
+    "SkillId": 8013302,
+    "SkillCd": 30000,
+    "Templete": 8013301,
+    "Icon": "Icon/Head/head_13301"
+  },
+  "8012399": {
+    "Id": 8012399,
+    "Name": "TowerDefenseCharacter.8012399.1",
+    "SkinId": 8012301,
+    "SearchTargetType": 1,
+    "SearchRadius": 45000,
+    "SkillRadius": 75000,
+    "AIId": 8012301,
+    "NewPotential2": [
+      1230105
+    ],
+    "NewPotential3": [
+      1230106
+    ],
+    "NewPotential4": [
+      1230101,
+      1230102
+    ],
+    "NewPotential5": [
+      1230107
+    ],
+    "NewPotential6": [
+      1230103,
+      1230104
+    ],
+    "PointNeeded": [
+      1,
+      1,
+      2,
+      1,
+      2
+    ],
+    "Faction": 1,
+    "NormalAtkId": 8012301,
+    "SkillId": 8012302,
+    "SkillCd": 40000,
+    "CdStartTime": true,
+    "Templete": 8012301,
+    "Icon": "Icon/Head/head_12301"
   }
 }

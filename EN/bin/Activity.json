@@ -40,6 +40,21 @@
     "EndTime": "2025-12-09T11:00:00+08:00",
     "TabBgRes": "Icon/Banner/tab_activity_towerdef"
   },
+  "102002": {
+    "Id": 102002,
+    "SortId": 5,
+    "ActivityType": 5,
+    "Name": "塔防",
+    "PreLimit": 1,
+    "LimitParam": "5",
+    "PlayCond": 1,
+    "PlayCondParams": "5",
+    "StartType": 2,
+    "StartTime": "2026-01-27T12:00:00+08:00",
+    "EndType": 2,
+    "EndTime": "2026-02-03T11:00:00+08:00",
+    "TabBgRes": "Icon/Banner/tab_activity_towerdef"
+  },
   "301001": {
     "Id": 301001,
     "SortId": 3,
@@ -57,6 +72,51 @@
     "EndType": 3,
     "EndDuration": 14,
     "TabBgRes": "Icon/Banner/tab_activity_02"
+  },
+  "301011": {
+    "Id": 301011,
+    "SortId": 4,
+    "ActivityType": 2,
+    "Name": "圣诞菈露版本特殊签到",
+    "PreLimit": 1,
+    "LimitParam": "2",
+    "PlayCond": 1,
+    "PlayCondParams": "2",
+    "StartType": 2,
+    "StartTime": "2025-12-23T12:00:00+08:00",
+    "EndType": 2,
+    "EndTime": "2026-01-06T11:00:00+08:00",
+    "TabBgRes": "Icon/Banner/tab_activity_301011"
+  },
+  "301012": {
+    "Id": 301012,
+    "SortId": 3,
+    "ActivityType": 2,
+    "Name": "限定版本特殊签到",
+    "PreLimit": 1,
+    "LimitParam": "2",
+    "PlayCond": 1,
+    "PlayCondParams": "2",
+    "StartType": 2,
+    "StartTime": "2025-12-23T12:00:00+08:00",
+    "EndType": 2,
+    "EndTime": "2026-01-13T11:00:00+08:00",
+    "TabBgRes": "Icon/Banner/tab_activity_301012"
+  },
+  "301013": {
+    "Id": 301013,
+    "SortId": 5,
+    "ActivityType": 2,
+    "Name": "元旦菈露版本特殊签到",
+    "PreLimit": 1,
+    "LimitParam": "2",
+    "PlayCond": 1,
+    "PlayCondParams": "2",
+    "StartType": 2,
+    "StartTime": "2025-12-30T12:00:00+08:00",
+    "EndType": 2,
+    "EndTime": "2026-01-13T11:00:00+08:00",
+    "TabBgRes": "Icon/Banner/tab_activity_301013"
   },
   "201001": {
     "Id": 201001,
@@ -115,6 +175,28 @@
     "EndTime": "2025-12-09T10:59:59+08:00",
     "TabBgRes": "Icon/Banner/tab_activity_sidestory"
   },
+  "201006": {
+    "Id": 201006,
+    "SortId": 14,
+    "ActivityType": 13,
+    "Name": "诺瓦异闻-苍蓝",
+    "StartType": 2,
+    "StartTime": "2025-12-27T12:00:00+08:00",
+    "EndType": 2,
+    "EndTime": "2026-01-06T10:59:59+08:00",
+    "TabBgRes": "Icon/Banner/tab_activity_sidestory"
+  },
+  "201007": {
+    "Id": 201007,
+    "SortId": 14,
+    "ActivityType": 13,
+    "Name": "第五章主线",
+    "StartType": 2,
+    "StartTime": "2026-01-03T12:00:00+08:00",
+    "EndType": 2,
+    "EndTime": "2026-01-13T10:59:59+08:00",
+    "TabBgRes": "Icon/Banner/tab_activity_mainstory"
+  },
   "400000": {
     "Id": 400000,
     "MidGroupId": 10100,
@@ -153,6 +235,19 @@
     "EndType": 2,
     "EndTime": "2025-12-23T04:00:00+08:00"
   },
+  "400004": {
+    "Id": 400004,
+    "MidGroupId": 20101,
+    "SortId": 4,
+    "ActivityType": 4,
+    "Name": "曲奇工坊二期",
+    "ActivityThemeType": 5,
+    "StartType": 2,
+    "StartTime": "2025-12-23T12:00:00+08:00",
+    "EndType": 2,
+    "EndTime": "2026-01-06T04:00:00+08:00",
+    "TabBgRes": "Icon/Banner/tab_activity_cookie"
+  },
   "500001": {
     "Id": 500001,
     "SortId": 6,
@@ -183,6 +278,36 @@
     "EndType": 2,
     "EndTime": "2025-11-18T03:59:59+08:00",
     "TabBgRes": "Icon/Banner/tab_activity_jointdrill"
+  },
+  "510002": {
+    "Id": 510002,
+    "SortId": 4,
+    "ActivityType": 7,
+    "Name": "总力战正式II期",
+    "PreLimit": 1,
+    "LimitParam": "6",
+    "PlayCond": 1,
+    "PlayCondParams": "10",
+    "StartType": 2,
+    "StartTime": "2026-01-05T12:00:00+08:00",
+    "EndType": 2,
+    "EndTime": "2026-01-14T03:59:59+08:00",
+    "TabBgRes": "Icon/Banner/tab_activity_jointdrill"
+  },
+  "600001": {
+    "Id": 600001,
+    "SortId": 8,
+    "ActivityType": 16,
+    "Name": "巅峰秀场",
+    "PreLimit": 1,
+    "LimitParam": "10",
+    "PlayCond": 1,
+    "PlayCondParams": "10",
+    "StartType": 2,
+    "StartTime": "2025-12-23T12:00:00+08:00",
+    "EndType": 2,
+    "EndTime": "2026-01-13T10:59:59+08:00",
+    "HideFromActivityList": true
   },
   "700101": {
     "Id": 700101,
@@ -226,6 +351,28 @@
     "EndType": 2,
     "EndTime": "2025-11-18T04:00:00+08:00",
     "TabBgRes": "Icon/Banner/tab_activity_trial_155"
+  },
+  "700105": {
+    "Id": 700105,
+    "SortId": 7,
+    "ActivityType": 6,
+    "Name": "浅试身手-苍兰",
+    "StartType": 2,
+    "StartTime": "2025-12-30T12:00:00+08:00",
+    "EndType": 2,
+    "EndTime": "2026-01-20T04:00:00+08:00",
+    "TabBgRes": "Icon/Banner/tab_activity_trial_125"
+  },
+  "700106": {
+    "Id": 700106,
+    "SortId": 7,
+    "ActivityType": 6,
+    "Name": "浅试身手-圣诞菈露",
+    "StartType": 2,
+    "StartTime": "2025-12-23T12:00:00+08:00",
+    "EndType": 2,
+    "EndTime": "2026-01-13T10:59:59+08:00",
+    "TabBgRes": "Icon/Banner/tab_activity_trial_158"
   },
   "700107": {
     "Id": 700107,
@@ -368,5 +515,53 @@
     "StartTime": "2025-12-09T12:00:00+08:00",
     "EndType": 2,
     "EndTime": "2025-12-30T04:00:00+08:00"
+  },
+  "2010101": {
+    "Id": 2010101,
+    "MidGroupId": 20101,
+    "SortId": 8,
+    "ActivityType": 9,
+    "Name": "圣诞战斗关卡",
+    "ActivityThemeType": 5,
+    "StartType": 2,
+    "StartTime": "2025-12-23T12:00:00+08:00",
+    "EndType": 2,
+    "EndTime": "2026-01-06T04:00:00+08:00"
+  },
+  "2010102": {
+    "Id": 2010102,
+    "MidGroupId": 20101,
+    "SortId": 8,
+    "ActivityType": 17,
+    "Name": "圣诞剧情故事",
+    "ActivityThemeType": 5,
+    "StartType": 2,
+    "StartTime": "2025-12-23T12:00:00+08:00",
+    "EndType": 2,
+    "EndTime": "2026-01-06T04:00:00+08:00"
+  },
+  "2010103": {
+    "Id": 2010103,
+    "MidGroupId": 20101,
+    "SortId": 11,
+    "ActivityType": 11,
+    "Name": "圣诞活动任务",
+    "ActivityThemeType": 5,
+    "StartType": 2,
+    "StartTime": "2025-12-23T12:00:00+08:00",
+    "EndType": 2,
+    "EndTime": "2026-01-13T10:59:59+08:00"
+  },
+  "2010104": {
+    "Id": 2010104,
+    "MidGroupId": 20101,
+    "SortId": 12,
+    "ActivityType": 12,
+    "Name": "圣诞活动商店",
+    "ActivityThemeType": 5,
+    "StartType": 2,
+    "StartTime": "2025-12-23T12:00:00+08:00",
+    "EndType": 2,
+    "EndTime": "2026-01-13T10:59:59+08:00"
   }
 }

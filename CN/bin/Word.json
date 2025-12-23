@@ -687,7 +687,8 @@
     "Desc": "Word.2021.2",
     "Color": "6A90EB",
     "Icon": "0",
-    "Param1": "EffectValue,NoLevel,12632012,EffectTypeFirstSubtype,Enum,EAT"
+    "Param1": "EffectValue,NoLevel,12632012,EffectTypeFirstSubtype,Enum,EAT",
+    "Param2": "EffectValue,NoLevel,12632012,EffectTypeParam1,HdPct"
   },
   "2027": {
     "Id": 2027,
@@ -794,6 +795,14 @@
     "Title": "Word.6001.1",
     "Type": 1,
     "Desc": "Word.6001.2",
+    "Color": "6A90EB",
+    "Icon": "0"
+  },
+  "6002": {
+    "Id": 6002,
+    "Title": "Word.6002.1",
+    "Type": 1,
+    "Desc": "Word.6002.2",
     "Color": "6A90EB",
     "Icon": "0"
   },

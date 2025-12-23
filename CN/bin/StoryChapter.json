@@ -51,5 +51,20 @@
     "ChapterIcon": "Icon/MapChapter/chapter_stage_04",
     "ChapterYear": "StoryChapter.4.3",
     "UnlockShowStoryId": 403
+  },
+  "5": {
+    "Id": 5,
+    "Type": 1,
+    "WorldClass": 14,
+    "PrevStories": [
+      "STm04_11"
+    ],
+    "Index": "05",
+    "Name": "StoryChapter.5.1",
+    "Desc": "StoryChapter.5.2",
+    "ChapterIcon": "Icon/MapChapter/chapter_stage_05",
+    "ChapterYear": "StoryChapter.5.3",
+    "UnlockShowStoryId": 504,
+    "OpenTime": "2026-01-06T12:00:00+08:00"
   }
 }

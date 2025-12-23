@@ -182,12 +182,18 @@
     "Id": "CookieUp",
     "XboxIcon": "Icon/Gamepad/XboxOne_Y",
     "PlayStationIcon": "Icon/Gamepad/PS4_Triangle",
-    "KeyboardIcon": "Icon/Gamepad/S"
+    "KeyboardIcon": "Icon/Gamepad/F"
   },
   "CookieRight": {
     "Id": "CookieRight",
     "XboxIcon": "Icon/Gamepad/XboxOne_B",
     "PlayStationIcon": "Icon/Gamepad/PS4_Circle",
     "KeyboardIcon": "Icon/Gamepad/D"
+  },
+  "CookieDown": {
+    "Id": "CookieDown",
+    "XboxIcon": "Icon/Gamepad/XboxOne_A",
+    "PlayStationIcon": "Icon/Gamepad/PS4_Cross",
+    "KeyboardIcon": "Icon/Gamepad/S"
   }
 }

@@ -333,5 +333,154 @@
     "Theme": 411,
     "BGM": "mode_Xiahua_combatNormal_setState",
     "LeaveTriggerEvent": "amb_forest_all_stop"
+  },
+  "300401": {
+    "Id": 300401,
+    "MonsterLv": 1,
+    "SceneName": "Levels/StoryActivity/StoryActivity_4/StoryActivity_4_014_A_01",
+    "ConfigPrefabName": "StoryActivity_4_014_A_N1",
+    "Theme": 416,
+    "BGM": "mode_christmas_combatNormal_setState",
+    "LeaveTriggerEvent": "amb_christmas_all_stop"
+  },
+  "300402": {
+    "Id": 300402,
+    "MonsterLv": 2,
+    "SceneName": "Levels/StoryActivity/StoryActivity_4/StoryActivity_4_007_A_01",
+    "ConfigPrefabName": "StoryActivity_4_007_A_N2",
+    "Theme": 416,
+    "BGM": "mode_christmas_combatNormal_setState",
+    "LeaveTriggerEvent": "amb_christmas_all_stop"
+  },
+  "300403": {
+    "Id": 300403,
+    "MonsterLv": 3,
+    "SceneName": "Levels/StoryActivity/StoryActivity_4/StoryActivity_4_003_A_01",
+    "ConfigPrefabName": "StoryActivity_4_003_A_N3",
+    "Theme": 416,
+    "BGM": "mode_christmas_combatNormal_setState",
+    "LeaveTriggerEvent": "amb_christmas_all_stop"
+  },
+  "300404": {
+    "Id": 300404,
+    "MonsterLv": 4,
+    "SceneName": "Levels/StoryActivity/StoryActivity_4/StoryActivity_4_Boss_QiE",
+    "ConfigPrefabName": "MiniBoss_30271ShengDanQieChe_Lv1",
+    "Theme": 418,
+    "BGM": "mode_christmas_combatQie_setState",
+    "LeaveTriggerEvent": "amb_christmas_all_stop"
+  },
+  "300405": {
+    "Id": 300405,
+    "MonsterLv": 5,
+    "SceneName": "Levels/StoryActivity/StoryActivity_4/StoryActivity_4_015_A_01",
+    "ConfigPrefabName": "StoryActivity_4_015_A_N5",
+    "Theme": 416,
+    "BGM": "mode_christmas_combatNormal_setState",
+    "LeaveTriggerEvent": "amb_christmas_all_stop"
+  },
+  "300406": {
+    "Id": 300406,
+    "MonsterLv": 6,
+    "SceneName": "Levels/StoryActivity/StoryActivity_4/StoryActivity_4_010_B_01",
+    "ConfigPrefabName": "StoryActivity_4_010_B_N6",
+    "Theme": 416,
+    "BGM": "mode_christmas_combatNormal_setState",
+    "LeaveTriggerEvent": "amb_christmas_all_stop"
+  },
+  "300407": {
+    "Id": 300407,
+    "MonsterLv": 7,
+    "SceneName": "Levels/StoryActivity/StoryActivity_4/StoryActivity_4_007_A_01_Mir",
+    "ConfigPrefabName": "StoryActivity_4_007_A_Mir_N7",
+    "Mir": true,
+    "Theme": 416,
+    "BGM": "mode_christmas_combatNormal_setState",
+    "LeaveTriggerEvent": "amb_christmas_all_stop"
+  },
+  "300408": {
+    "Id": 300408,
+    "MonsterLv": 8,
+    "SceneName": "Levels/StoryActivity/StoryActivity_4/StoryActivity_4_Boss_TaLou",
+    "ConfigPrefabName": "StoryActivity_TaLou_Lv1",
+    "Theme": 417,
+    "BGM": "mode_christmas_combatTalou_setState",
+    "LeaveTriggerEvent": "amb_christmas_all_stop"
+  },
+  "300409": {
+    "Id": 300409,
+    "MonsterLv": 9,
+    "SceneName": "Levels/StoryActivity/StoryActivity_4/StoryActivity_4_014_A_01_Mir",
+    "ConfigPrefabName": "StoryActivity_4_014_A_Mir_H1",
+    "Mir": true,
+    "Theme": 416,
+    "BGM": "mode_christmas_combatNormal_setState",
+    "LeaveTriggerEvent": "amb_christmas_all_stop"
+  },
+  "300410": {
+    "Id": 300410,
+    "MonsterLv": 10,
+    "SceneName": "Levels/StoryActivity/StoryActivity_4/StoryActivity_4_Boss_QiE",
+    "ConfigPrefabName": "MiniBoss_30271ShengDanQieChe_Lv1",
+    "Theme": 418,
+    "BGM": "mode_christmas_combatQie_setState",
+    "LeaveTriggerEvent": "amb_christmas_all_stop"
+  },
+  "300411": {
+    "Id": 300411,
+    "MonsterLv": 11,
+    "SceneName": "Levels/StoryActivity/StoryActivity_4/StoryActivity_4_003_A_01_Mir",
+    "ConfigPrefabName": "StoryActivity_4_003_A_Mir_H3",
+    "Mir": true,
+    "Theme": 416,
+    "BGM": "mode_christmas_combatNormal_setState",
+    "LeaveTriggerEvent": "amb_christmas_all_stop"
+  },
+  "300412": {
+    "Id": 300412,
+    "MonsterLv": 12,
+    "SceneName": "Levels/StoryActivity/StoryActivity_4/StoryActivity_4_Boss_TaLou",
+    "ConfigPrefabName": "StoryActivity_TaLou_Lv2",
+    "Theme": 417,
+    "BGM": "mode_christmas_combatTalou_setState",
+    "LeaveTriggerEvent": "amb_christmas_all_stop"
+  },
+  "300413": {
+    "Id": 300413,
+    "MonsterLv": 13,
+    "SceneName": "Levels/StoryActivity/StoryActivity_4/StoryActivity_4_015_A_01_Mir",
+    "ConfigPrefabName": "StoryActivity_4_015_A_Mir_C1",
+    "Mir": true,
+    "Theme": 416,
+    "BGM": "mode_christmas_combatNormal_setState",
+    "LeaveTriggerEvent": "amb_christmas_all_stop"
+  },
+  "300414": {
+    "Id": 300414,
+    "MonsterLv": 14,
+    "SceneName": "Levels/StoryActivity/StoryActivity_4/StoryActivity_4_010_B_01_Mir",
+    "ConfigPrefabName": "StoryActivity_4_010_B_Mir_C2",
+    "Mir": true,
+    "Theme": 416,
+    "BGM": "mode_christmas_combatNormal_setState",
+    "LeaveTriggerEvent": "amb_christmas_all_stop"
+  },
+  "300415": {
+    "Id": 300415,
+    "MonsterLv": 15,
+    "SceneName": "Levels/StoryActivity/StoryActivity_4/StoryActivity_4_Boss_QiE",
+    "ConfigPrefabName": "MiniBoss_30271ShengDanQieChe_Lv2",
+    "Theme": 418,
+    "BGM": "mode_christmas_combatQie_setState",
+    "LeaveTriggerEvent": "amb_christmas_all_stop"
+  },
+  "300416": {
+    "Id": 300416,
+    "MonsterLv": 16,
+    "SceneName": "Levels/StoryActivity/StoryActivity_4/StoryActivity_4_Boss_TaLou",
+    "ConfigPrefabName": "StoryActivity_TaLou_Lv3",
+    "Theme": 417,
+    "BGM": "mode_christmas_combatTalou_setState",
+    "LeaveTriggerEvent": "amb_christmas_all_stop"
   }
 }

@@ -1,0 +1,251 @@
+{
+  "201010201": {
+    "Id": 201010201,
+    "ChapterId": 20101,
+    "Index": "ActivityStory.201010201.4",
+    "Title": "ActivityStory.201010201.1",
+    "Desc": "ActivityStory.201010201.2",
+    "Type": 3,
+    "StoryId": "STev_02_01",
+    "ConditionId": 201010201,
+    "Aim": "ActivityStory.201010201.3",
+    "AvgLuaName": "STev_02_01",
+    "AvgMotion": "style_20",
+    "FirstCompleteReward": "{\"2\":30}"
+  },
+  "201010202": {
+    "Id": 201010202,
+    "ChapterId": 20101,
+    "Index": "ActivityStory.201010202.4",
+    "Title": "ActivityStory.201010202.1",
+    "Desc": "ActivityStory.201010202.2",
+    "Type": 3,
+    "StoryId": "STev_02_02",
+    "ConditionId": 201010202,
+    "ParentStoryId": [
+      "STev_02_01"
+    ],
+    "Aim": "ActivityStory.201010202.3",
+    "AvgLuaName": "STev_02_02",
+    "AvgMotion": "style_20",
+    "FirstCompleteReward": "{\"2\":30}"
+  },
+  "201010203": {
+    "Id": 201010203,
+    "ChapterId": 20101,
+    "Index": "ActivityStory.201010203.4",
+    "Title": "ActivityStory.201010203.1",
+    "Desc": "ActivityStory.201010203.2",
+    "Type": 3,
+    "StoryId": "STev_02_03",
+    "ConditionId": 201010203,
+    "ParentStoryId": [
+      "STev_02_02"
+    ],
+    "Aim": "ActivityStory.201010203.3",
+    "AvgLuaName": "STev_02_03",
+    "AvgMotion": "style_20",
+    "FirstCompleteReward": "{\"2\":30}"
+  },
+  "201010204": {
+    "Id": 201010204,
+    "ChapterId": 20101,
+    "Index": "ActivityStory.201010204.4",
+    "Title": "ActivityStory.201010204.1",
+    "Desc": "ActivityStory.201010204.2",
+    "Type": 3,
+    "StoryId": "STev_02_04_a",
+    "ConditionId": 201010204,
+    "ParentStoryId": [
+      "STev_02_03"
+    ],
+    "Aim": "ActivityStory.201010204.3",
+    "AvgLuaName": "STev_02_04_a",
+    "AvgMotion": "style_20",
+    "FirstCompleteReward": "{\"2\":30}"
+  },
+  "201010205": {
+    "Id": 201010205,
+    "ChapterId": 20101,
+    "Index": "ActivityStory.201010205.4",
+    "Title": "ActivityStory.201010205.1",
+    "Desc": "ActivityStory.201010205.2",
+    "Type": 3,
+    "StoryId": "STev_02_04_b",
+    "ConditionId": 201010205,
+    "ParentStoryId": [
+      "STev_02_03"
+    ],
+    "Aim": "ActivityStory.201010205.3",
+    "AvgLuaName": "STev_02_04_b",
+    "AvgMotion": "style_20",
+    "FirstCompleteReward": "{\"2\":30}"
+  },
+  "201010206": {
+    "Id": 201010206,
+    "ChapterId": 20101,
+    "Index": "ActivityStory.201010206.4",
+    "Title": "ActivityStory.201010206.1",
+    "Desc": "ActivityStory.201010206.2",
+    "Type": 3,
+    "StoryId": "STev_02_04_c",
+    "ConditionId": 201010206,
+    "ParentStoryId": [
+      "STev_02_03"
+    ],
+    "Aim": "ActivityStory.201010206.3",
+    "AvgLuaName": "STev_02_04_c",
+    "AvgMotion": "style_20",
+    "FirstCompleteReward": "{\"2\":30}"
+  },
+  "201010207": {
+    "Id": 201010207,
+    "ChapterId": 20101,
+    "Index": "ActivityStory.201010207.4",
+    "Title": "ActivityStory.201010207.1",
+    "Desc": "ActivityStory.201010207.2",
+    "Type": 3,
+    "StoryId": "STev_02_05",
+    "ConditionId": 201010207,
+    "ParentStoryId": [
+      "STev_02_04_a",
+      "STev_02_04_b",
+      "STev_02_04_c"
+    ],
+    "Aim": "ActivityStory.201010207.3",
+    "AvgLuaName": "STev_02_05",
+    "AvgMotion": "style_20",
+    "FirstCompleteReward": "{\"2\":30}"
+  },
+  "201010208": {
+    "Id": 201010208,
+    "ChapterId": 20101,
+    "Index": "ActivityStory.201010208.4",
+    "Title": "ActivityStory.201010208.1",
+    "Desc": "ActivityStory.201010208.2",
+    "Type": 3,
+    "StoryId": "STev_02_06",
+    "ConditionId": 201010208,
+    "ParentStoryId": [
+      "STev_02_05"
+    ],
+    "Aim": "ActivityStory.201010208.3",
+    "AvgLuaName": "STev_02_06",
+    "AvgMotion": "style_20",
+    "FirstCompleteReward": "{\"2\":30}"
+  },
+  "201010209": {
+    "Id": 201010209,
+    "ChapterId": 20101,
+    "DayOpen": 1,
+    "Index": "ActivityStory.201010209.4",
+    "Title": "ActivityStory.201010209.1",
+    "Desc": "ActivityStory.201010209.2",
+    "Type": 3,
+    "StoryId": "STev_02_07",
+    "ConditionId": 201010209,
+    "ParentStoryId": [
+      "STev_02_06"
+    ],
+    "Aim": "ActivityStory.201010209.3",
+    "AvgLuaName": "STev_02_07",
+    "AvgMotion": "style_20",
+    "FirstCompleteReward": "{\"2\":30}"
+  },
+  "201010210": {
+    "Id": 201010210,
+    "ChapterId": 20101,
+    "DayOpen": 1,
+    "Index": "ActivityStory.201010210.4",
+    "Title": "ActivityStory.201010210.1",
+    "Desc": "ActivityStory.201010210.2",
+    "Type": 3,
+    "StoryId": "STev_02_08",
+    "ConditionId": 201010210,
+    "ParentStoryId": [
+      "STev_02_07"
+    ],
+    "Aim": "ActivityStory.201010210.3",
+    "AvgLuaName": "STev_02_08",
+    "AvgMotion": "style_20",
+    "FirstCompleteReward": "{\"2\":30}"
+  },
+  "201010211": {
+    "Id": 201010211,
+    "ChapterId": 20101,
+    "DayOpen": 1,
+    "Index": "ActivityStory.201010211.4",
+    "Title": "ActivityStory.201010211.1",
+    "Desc": "ActivityStory.201010211.2",
+    "Type": 3,
+    "StoryId": "STev_02_09",
+    "ConditionId": 201010211,
+    "ParentStoryId": [
+      "STev_02_08"
+    ],
+    "Aim": "ActivityStory.201010211.3",
+    "AvgLuaName": "STev_02_09",
+    "AvgMotion": "style_20",
+    "FirstCompleteReward": "{\"2\":30}"
+  },
+  "201010212": {
+    "Id": 201010212,
+    "ChapterId": 20101,
+    "DayOpen": 1,
+    "Index": "ActivityStory.201010212.4",
+    "Title": "ActivityStory.201010212.1",
+    "Desc": "ActivityStory.201010212.2",
+    "Type": 3,
+    "StoryId": "STev_02_10",
+    "ConditionId": 201010212,
+    "ParentStoryId": [
+      "STev_02_09"
+    ],
+    "Aim": "ActivityStory.201010212.3",
+    "AvgLuaName": "STev_02_10",
+    "AvgMotion": "style_20",
+    "FirstCompleteReward": "{\"2\":30}"
+  },
+  "201010213": {
+    "Id": 201010213,
+    "ChapterId": 20101,
+    "DayOpen": 1,
+    "Index": "ActivityStory.201010213.4",
+    "Title": "ActivityStory.201010213.1",
+    "Desc": "ActivityStory.201010213.2",
+    "Type": 3,
+    "IsBattle": true,
+    "StoryId": "BAev02_01",
+    "FloorId": [
+      1060401
+    ],
+    "TrialBuild": 200010,
+    "PreviewMonsterGroupId": 300408,
+    "Recommend": "5",
+    "ConditionId": 201010213,
+    "ParentStoryId": [
+      "STev_02_10"
+    ],
+    "Aim": "ActivityStory.201010213.3",
+    "FirstCompleteReward": "{\"2\":30}"
+  },
+  "201010214": {
+    "Id": 201010214,
+    "ChapterId": 20101,
+    "DayOpen": 1,
+    "Index": "ActivityStory.201010214.4",
+    "Title": "ActivityStory.201010214.1",
+    "Desc": "ActivityStory.201010214.2",
+    "Type": 3,
+    "StoryId": "STev_02_11",
+    "ConditionId": 201010214,
+    "ParentStoryId": [
+      "BAev02_01"
+    ],
+    "Aim": "ActivityStory.201010214.3",
+    "AvgLuaName": "STev_02_11",
+    "AvgMotion": "style_20",
+    "IsLast": true,
+    "FirstCompleteReward": "{\"2\":50}"
+  }
+}

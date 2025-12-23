@@ -904,14 +904,14 @@
       3
     ],
     "SuggestedPower": 70,
-    "RecommendBuildRank": 25,
+    "RecommendBuildRank": 26,
     "Mode": 2,
     "Type": 3,
     "PreLevelId": 201,
     "NeedWorldClass": 12,
-    "FirstQuestGroupId": 302,
+    "FirstQuestGroupId": 304,
     "LevelGroupId": 1,
-    "FloorId": 83002,
+    "FloorId": 83004,
     "NormalScore1": 10,
     "EliteScore1": 40,
     "BossScore1": 6000,
@@ -930,8 +930,8 @@
       2,
       1
     ],
-    "FHPreviewMonsterGroupId": 830131,
-    "SHPreviewMonsterGroupId": 830152,
+    "FHPreviewMonsterGroupId": 830081,
+    "SHPreviewMonsterGroupId": 830202,
     "CoverEpisode": "Icon/MapChallenge/zs_survivor_entrancepic_302",
     "Episode": "Icon/MapChallenge/zs_survivor_entrancepic_302_L1",
     "Episode2": "Icon/MapChallenge/zs_survivor_entrancepic_302_L2",
@@ -943,63 +943,6 @@
       204
     ],
     "SpeciaFateCard": "[[],[98610,98611,98612],[98616,98617,98618],[98622,98623,98624],[98604,98605,98606]]",
-    "SpeciaFateCardParam": "[[],[3,6,6],[3,6,6],[3,6,6],[3,6,6]]"
-  },
-  "305": {
-    "Id": 305,
-    "Name": "VampireSurvivor.305.1",
-    "Name1": "VampireSurvivor.305.2",
-    "Name2": "VampireSurvivor.305.3",
-    "EET": [
-      6,
-      2,
-      3
-    ],
-    "NotEET": [
-      5,
-      4,
-      1
-    ],
-    "SuggestedPower": 70,
-    "RecommendBuildRank": 25,
-    "Mode": 2,
-    "Type": 3,
-    "PreLevelId": 201,
-    "NeedWorldClass": 12,
-    "FirstQuestGroupId": 303,
-    "LevelGroupId": 1,
-    "FloorId": 83003,
-    "NormalScore1": 10,
-    "EliteScore1": 40,
-    "BossScore1": 6000,
-    "TimeScore1": 6000,
-    "TimeLimit1": 800,
-    "NormalScore2": 10,
-    "EliteScore2": 40,
-    "BossScore2": 6000,
-    "TimeScore2": 6000,
-    "TimeLimit2": 800,
-    "EETScore1": [
-      6,
-      2
-    ],
-    "EETScore2": [
-      6,
-      3
-    ],
-    "FHPreviewMonsterGroupId": 830171,
-    "SHPreviewMonsterGroupId": 830182,
-    "CoverEpisode": "Icon/MapChallenge/zs_survivor_entrancepic_301",
-    "Episode": "Icon/MapChallenge/zs_survivor_entrancepic_301_L1",
-    "Episode2": "Icon/MapChallenge/zs_survivor_entrancepic_301_L2",
-    "FateCardBundle": [
-      101,
-      205,
-      206,
-      201,
-      305
-    ],
-    "SpeciaFateCard": "[[],[98649,98650,98651],[98640,98641,98642],[98613,98614,98615],[98658,98659,98660]]",
     "SpeciaFateCardParam": "[[],[3,6,6],[3,6,6],[3,6,6],[3,6,6]]"
   }
 }

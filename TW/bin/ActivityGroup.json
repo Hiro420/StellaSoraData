@@ -119,5 +119,45 @@
     ],
     "DesText": "ActivityGroup.10102.1",
     "TabBgRes": "Icon/Banner/tab_activity_dream"
+  },
+  "20101": {
+    "Id": 20101,
+    "ActivityGroupType": 2,
+    "ActivityThemeType": 5,
+    "StartTime": "2025-12-23T12:00:00+08:00",
+    "EndTime": "2026-01-06T04:00:00+08:00",
+    "EnterEndTime": "2026-01-13T10:59:59+08:00",
+    "EnterRes": "Icon/Banner/banner_christmas_m",
+    "PanelId": 371,
+    "PreLimit": 1,
+    "LimitParam": "3",
+    "StartCondType": 71,
+    "StartCondParams": [
+      5
+    ],
+    "Enter": "{\"MiniGame\":[400004,1,384],\"Task\":[2010103,2,381],\"AVG\":[2010102,3,382],\"Store\":[2010104,4,379],\"Level\":[2010101,5,369],\"OtherEnter1\":[600001,6,68]}",
+    "UIAssetsPrefab": "20101",
+    "CtrlName": "ActivityChristmasCtrl",
+    "RewardsShow": [
+      2,
+      214041,
+      116004,
+      502,
+      503,
+      21023,
+      35000,
+      32003,
+      20073,
+      21093,
+      30004,
+      50004,
+      30,
+      33032,
+      33052,
+      33072,
+      1
+    ],
+    "DesText": "ActivityGroup.20101.1",
+    "TabBgRes": "Icon/Banner/tab_activity_christmas"
   }
 }

@@ -7,11 +7,26 @@
     "DrillQuestGroupId": 1001,
     "PlotTitle": "JointDrillControl.510001.4",
     "PlotDesc": "JointDrillControl.510001.5",
-    "BG": "bg_jointdrill",
+    "BG": "UI_Activity/_510001/SpriteAtlas/bg_jointdrill",
     "DrillPrefab": "_510001/jointDrill_act_01",
     "CtrlName": "_510001/JointDrillActCtrl_01",
     "DescText": "JointDrillControl.510001.2",
     "DetailDesc": "JointDrillControl.510001.3",
+    "FastEntranceIcon": "Icon/Banner/banner_avtivity_m"
+  },
+  "510002": {
+    "Id": 510002,
+    "DrillStartTime": 86400,
+    "DrillDurationTime": 572400,
+    "DrillLevelGroupId": 51002,
+    "DrillQuestGroupId": 1002,
+    "PlotTitle": "JointDrillControl.510002.4",
+    "PlotDesc": "JointDrillControl.510002.5",
+    "BG": "UI_Activity/_510001/SpriteAtlas/bg_jointdrill",
+    "DrillPrefab": "_510001/jointDrill_act_01",
+    "CtrlName": "_510001/JointDrillActCtrl_01",
+    "DescText": "JointDrillControl.510002.2",
+    "DetailDesc": "JointDrillControl.510002.3",
     "FastEntranceIcon": "Icon/Banner/banner_avtivity_m"
   }
 }

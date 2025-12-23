@@ -151,7 +151,7 @@
   },
   "400801": {
     "Id": 400801,
-    "Name": "???",
+    "Name": "???专属星盘护盾1",
     "ReferenceTarget": 2,
     "ReferenceAttrib": 4,
     "ReferenceScale": 1000,
@@ -161,7 +161,7 @@
   },
   "400802": {
     "Id": 400802,
-    "Name": "???",
+    "Name": "???专属星盘护盾2",
     "ReferenceTarget": 2,
     "ReferenceAttrib": 4,
     "ReferenceScale": 500,
@@ -171,7 +171,7 @@
   },
   "400803": {
     "Id": 400803,
-    "Name": "???",
+    "Name": "???专属星盘护盾3",
     "ReferenceTarget": 2,
     "ReferenceAttrib": 4,
     "ReferenceScale": 1000,
@@ -221,6 +221,36 @@
     "ShieldLaminatedNum": 1,
     "TimeSuperposition": 2,
     "NotRemove": true
+  },
+  "29020301": {
+    "Id": 29020301,
+    "Name": "旅人对决词条用护盾10%",
+    "ReferenceTarget": 2,
+    "ReferenceAttrib": 1,
+    "ReferenceScale": 500,
+    "Time": 9990000,
+    "ShieldLaminatedNum": 1,
+    "TimeSuperposition": 2
+  },
+  "29020302": {
+    "Id": 29020302,
+    "Name": "旅人对决词条用护盾20%",
+    "ReferenceTarget": 2,
+    "ReferenceAttrib": 1,
+    "ReferenceScale": 2000,
+    "Time": 9990000,
+    "ShieldLaminatedNum": 1,
+    "TimeSuperposition": 2
+  },
+  "29020303": {
+    "Id": 29020303,
+    "Name": "旅人对决词条用护盾30%",
+    "ReferenceTarget": 2,
+    "ReferenceAttrib": 1,
+    "ReferenceScale": 5000,
+    "Time": 9990000,
+    "ShieldLaminatedNum": 1,
+    "TimeSuperposition": 2
   },
   "10742011": {
     "Id": 10742011,
@@ -1557,7 +1587,7 @@
   },
   "13010011": {
     "Id": 13010011,
-    "Name": "???",
+    "Name": "???潜能10宠物护盾",
     "ReferenceTarget": 2,
     "ReferenceAttrib": 4,
     "ReferenceScale": 10000,
@@ -1567,7 +1597,7 @@
   },
   "13010021": {
     "Id": 13010021,
-    "Name": "???",
+    "Name": "???潜能10宠物护盾",
     "ReferenceTarget": 2,
     "ReferenceAttrib": 4,
     "ReferenceScale": 1000,
@@ -1577,7 +1607,7 @@
   },
   "13010031": {
     "Id": 13010031,
-    "Name": "???",
+    "Name": "???潜能10宠物护盾",
     "ReferenceTarget": 2,
     "ReferenceAttrib": 4,
     "ReferenceScale": 1200,
@@ -1587,7 +1617,7 @@
   },
   "13010041": {
     "Id": 13010041,
-    "Name": "???",
+    "Name": "???潜能10宠物护盾",
     "ReferenceTarget": 2,
     "ReferenceAttrib": 4,
     "ReferenceScale": 1400,
@@ -1597,7 +1627,7 @@
   },
   "13010051": {
     "Id": 13010051,
-    "Name": "???",
+    "Name": "???潜能10宠物护盾",
     "ReferenceTarget": 2,
     "ReferenceAttrib": 4,
     "ReferenceScale": 1700,
@@ -1607,7 +1637,7 @@
   },
   "13010061": {
     "Id": 13010061,
-    "Name": "???",
+    "Name": "???潜能10宠物护盾",
     "ReferenceTarget": 2,
     "ReferenceAttrib": 4,
     "ReferenceScale": 1900,
@@ -1617,7 +1647,7 @@
   },
   "13010071": {
     "Id": 13010071,
-    "Name": "???",
+    "Name": "???潜能10宠物护盾",
     "ReferenceTarget": 2,
     "ReferenceAttrib": 4,
     "ReferenceScale": 2200,
@@ -1627,7 +1657,7 @@
   },
   "13010081": {
     "Id": 13010081,
-    "Name": "???",
+    "Name": "???潜能10宠物护盾",
     "ReferenceTarget": 2,
     "ReferenceAttrib": 4,
     "ReferenceScale": 2400,
@@ -1637,7 +1667,7 @@
   },
   "13010091": {
     "Id": 13010091,
-    "Name": "???",
+    "Name": "???潜能10宠物护盾",
     "ReferenceTarget": 2,
     "ReferenceAttrib": 4,
     "ReferenceScale": 2600,
@@ -1647,7 +1677,7 @@
   },
   "14502011": {
     "Id": 14502011,
-    "Name": "???",
+    "Name": "???潜能2护盾",
     "ReferenceTarget": 1,
     "ReferenceAttrib": 4,
     "ReferenceScale": 1000,
@@ -1658,7 +1688,7 @@
   },
   "14502021": {
     "Id": 14502021,
-    "Name": "???",
+    "Name": "???潜能2护盾",
     "ReferenceTarget": 1,
     "ReferenceAttrib": 4,
     "ReferenceScale": 1300,
@@ -1669,7 +1699,7 @@
   },
   "14502031": {
     "Id": 14502031,
-    "Name": "???",
+    "Name": "???潜能2护盾",
     "ReferenceTarget": 1,
     "ReferenceAttrib": 4,
     "ReferenceScale": 1700,
@@ -1680,7 +1710,7 @@
   },
   "14502041": {
     "Id": 14502041,
-    "Name": "???",
+    "Name": "???潜能2护盾",
     "ReferenceTarget": 1,
     "ReferenceAttrib": 4,
     "ReferenceScale": 2000,
@@ -1691,7 +1721,7 @@
   },
   "14502051": {
     "Id": 14502051,
-    "Name": "???",
+    "Name": "???潜能2护盾",
     "ReferenceTarget": 1,
     "ReferenceAttrib": 4,
     "ReferenceScale": 2300,
@@ -1702,7 +1732,7 @@
   },
   "14502061": {
     "Id": 14502061,
-    "Name": "???",
+    "Name": "???潜能2护盾",
     "ReferenceTarget": 1,
     "ReferenceAttrib": 4,
     "ReferenceScale": 2700,
@@ -1713,7 +1743,7 @@
   },
   "14502071": {
     "Id": 14502071,
-    "Name": "???",
+    "Name": "???潜能2护盾",
     "ReferenceTarget": 1,
     "ReferenceAttrib": 4,
     "ReferenceScale": 3000,
@@ -1724,7 +1754,7 @@
   },
   "14502081": {
     "Id": 14502081,
-    "Name": "???",
+    "Name": "???潜能2护盾",
     "ReferenceTarget": 1,
     "ReferenceAttrib": 4,
     "ReferenceScale": 3300,
@@ -1735,7 +1765,7 @@
   },
   "14502091": {
     "Id": 14502091,
-    "Name": "???",
+    "Name": "???潜能2护盾",
     "ReferenceTarget": 1,
     "ReferenceAttrib": 4,
     "ReferenceScale": 3600,
@@ -1746,7 +1776,7 @@
   },
   "14502101": {
     "Id": 14502101,
-    "Name": "???",
+    "Name": "???潜能2护盾",
     "ReferenceTarget": 1,
     "ReferenceAttrib": 4,
     "ReferenceScale": 3000,
@@ -1757,7 +1787,7 @@
   },
   "14502111": {
     "Id": 14502111,
-    "Name": "???",
+    "Name": "???潜能2护盾",
     "ReferenceTarget": 1,
     "ReferenceAttrib": 4,
     "ReferenceScale": 3300,
@@ -1768,7 +1798,7 @@
   },
   "14502121": {
     "Id": 14502121,
-    "Name": "???",
+    "Name": "???潜能2护盾",
     "ReferenceTarget": 1,
     "ReferenceAttrib": 4,
     "ReferenceScale": 3600,
@@ -1779,7 +1809,7 @@
   },
   "14502131": {
     "Id": 14502131,
-    "Name": "???",
+    "Name": "???潜能2护盾",
     "ReferenceTarget": 1,
     "ReferenceAttrib": 4,
     "ReferenceScale": 3600,
@@ -1790,142 +1820,10 @@
   },
   "15840011": {
     "Id": 15840011,
-    "Name": "???",
+    "Name": "圣诞菈露绝招护盾",
     "ReferenceTarget": 1,
-    "ReferenceAttrib": 3,
-    "ReferenceScale": 3800,
-    "Time": -10000,
-    "ShieldLaminatedNum": 1,
-    "TimeSuperposition": 2,
-    "NotRemove": true
-  },
-  "15840021": {
-    "Id": 15840021,
-    "Name": "???",
-    "ReferenceTarget": 1,
-    "ReferenceAttrib": 3,
-    "ReferenceScale": 4450,
-    "Time": -10000,
-    "ShieldLaminatedNum": 1,
-    "TimeSuperposition": 2,
-    "NotRemove": true
-  },
-  "15840031": {
-    "Id": 15840031,
-    "Name": "???",
-    "ReferenceTarget": 1,
-    "ReferenceAttrib": 3,
-    "ReferenceScale": 5150,
-    "Time": -10000,
-    "ShieldLaminatedNum": 1,
-    "TimeSuperposition": 2,
-    "NotRemove": true
-  },
-  "15840041": {
-    "Id": 15840041,
-    "Name": "???",
-    "ReferenceTarget": 1,
-    "ReferenceAttrib": 3,
-    "ReferenceScale": 5900,
-    "Time": -10000,
-    "ShieldLaminatedNum": 1,
-    "TimeSuperposition": 2,
-    "NotRemove": true
-  },
-  "15840051": {
-    "Id": 15840051,
-    "Name": "???",
-    "ReferenceTarget": 1,
-    "ReferenceAttrib": 3,
-    "ReferenceScale": 6700,
-    "Time": -10000,
-    "ShieldLaminatedNum": 1,
-    "TimeSuperposition": 2,
-    "NotRemove": true
-  },
-  "15840061": {
-    "Id": 15840061,
-    "Name": "???",
-    "ReferenceTarget": 1,
-    "ReferenceAttrib": 3,
-    "ReferenceScale": 7550,
-    "Time": -10000,
-    "ShieldLaminatedNum": 1,
-    "TimeSuperposition": 2,
-    "NotRemove": true
-  },
-  "15840071": {
-    "Id": 15840071,
-    "Name": "???",
-    "ReferenceTarget": 1,
-    "ReferenceAttrib": 3,
-    "ReferenceScale": 8240,
-    "Time": -10000,
-    "ShieldLaminatedNum": 1,
-    "TimeSuperposition": 2,
-    "NotRemove": true
-  },
-  "15840081": {
-    "Id": 15840081,
-    "Name": "???",
-    "ReferenceTarget": 1,
-    "ReferenceAttrib": 3,
-    "ReferenceScale": 8930,
-    "Time": -10000,
-    "ShieldLaminatedNum": 1,
-    "TimeSuperposition": 2,
-    "NotRemove": true
-  },
-  "15840091": {
-    "Id": 15840091,
-    "Name": "???",
-    "ReferenceTarget": 1,
-    "ReferenceAttrib": 3,
-    "ReferenceScale": 9620,
-    "Time": -10000,
-    "ShieldLaminatedNum": 1,
-    "TimeSuperposition": 2,
-    "NotRemove": true
-  },
-  "15840101": {
-    "Id": 15840101,
-    "Name": "???",
-    "ReferenceTarget": 1,
-    "ReferenceAttrib": 3,
-    "ReferenceScale": 10320,
-    "Time": -10000,
-    "ShieldLaminatedNum": 1,
-    "TimeSuperposition": 2,
-    "NotRemove": true
-  },
-  "15840111": {
-    "Id": 15840111,
-    "Name": "???",
-    "ReferenceTarget": 1,
-    "ReferenceAttrib": 3,
-    "ReferenceScale": 11080,
-    "Time": -10000,
-    "ShieldLaminatedNum": 1,
-    "TimeSuperposition": 2,
-    "NotRemove": true
-  },
-  "15840121": {
-    "Id": 15840121,
-    "Name": "???",
-    "ReferenceTarget": 1,
-    "ReferenceAttrib": 3,
-    "ReferenceScale": 11850,
-    "Time": -10000,
-    "ShieldLaminatedNum": 1,
-    "TimeSuperposition": 2,
-    "NotRemove": true
-  },
-  "15840131": {
-    "Id": 15840131,
-    "Name": "???",
-    "ReferenceTarget": 1,
-    "ReferenceAttrib": 3,
-    "ReferenceScale": 12620,
+    "ReferenceAttrib": 4,
+    "ReferenceScale": 3500,
     "Time": -10000,
     "ShieldLaminatedNum": 1,
     "TimeSuperposition": 2,

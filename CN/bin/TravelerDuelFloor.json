@@ -45,7 +45,7 @@
     "ConfigPrefabName": "TravelerDuel_01_MaoYan",
     "Theme": 201,
     "BGM": "travelerDuel_maoYan_combatBoss_setState",
-    "LeaveTriggerEvent": "amb_duel_defeat",
+    "LeaveTriggerEvent": "amb_travelerDuel_maoYan_all_stop",
     "MonsterLv": 1,
     "IntroCutscene": "fx_70021_base_Born"
   },
@@ -55,7 +55,7 @@
     "ConfigPrefabName": "TravelerDuel_01_MaoYan",
     "Theme": 201,
     "BGM": "travelerDuel_maoYan_combatBoss_setState",
-    "LeaveTriggerEvent": "amb_duel_defeat",
+    "LeaveTriggerEvent": "amb_travelerDuel_maoYan_all_stop",
     "MonsterLv": 2,
     "IntroCutscene": "fx_70021_base_Born"
   },
@@ -65,7 +65,7 @@
     "ConfigPrefabName": "TravelerDuel_01_MaoYan",
     "Theme": 201,
     "BGM": "travelerDuel_maoYan_combatBoss_setState",
-    "LeaveTriggerEvent": "amb_duel_defeat",
+    "LeaveTriggerEvent": "amb_travelerDuel_maoYan_all_stop",
     "MonsterLv": 3,
     "IntroCutscene": "fx_70021_base_Born"
   },
@@ -75,7 +75,7 @@
     "ConfigPrefabName": "TravelerDuel_01_MaoYan",
     "Theme": 201,
     "BGM": "travelerDuel_maoYan_combatBoss_setState",
-    "LeaveTriggerEvent": "amb_duel_defeat",
+    "LeaveTriggerEvent": "amb_travelerDuel_maoYan_all_stop",
     "MonsterLv": 1,
     "IntroCutscene": "fx_70021_base_Born"
   },
@@ -85,7 +85,7 @@
     "ConfigPrefabName": "TravelerDuel_03_HuaYuan",
     "Theme": 202,
     "BGM": "travelerDuel_huaYuan_combatBoss_setState",
-    "LeaveTriggerEvent": "amb_duel_defeat",
+    "LeaveTriggerEvent": "amb_travelerDuel_huaYuan_all_stop",
     "MonsterLv": 1,
     "IntroCutscene": "fx_70022HuaYuan_base_Born"
   },
@@ -95,7 +95,7 @@
     "ConfigPrefabName": "TravelerDuel_03_HuaYuan",
     "Theme": 202,
     "BGM": "travelerDuel_huaYuan_combatBoss_setState",
-    "LeaveTriggerEvent": "amb_duel_defeat",
+    "LeaveTriggerEvent": "amb_travelerDuel_huaYuan_all_stop",
     "MonsterLv": 2,
     "IntroCutscene": "fx_70022HuaYuan_base_Born"
   },
@@ -105,7 +105,7 @@
     "ConfigPrefabName": "TravelerDuel_03_HuaYuan",
     "Theme": 202,
     "BGM": "travelerDuel_huaYuan_combatBoss_setState",
-    "LeaveTriggerEvent": "amb_duel_defeat",
+    "LeaveTriggerEvent": "amb_travelerDuel_huaYuan_all_stop",
     "MonsterLv": 3,
     "IntroCutscene": "fx_70022HuaYuan_base_Born"
   },
@@ -115,7 +115,7 @@
     "ConfigPrefabName": "TravelerDuel_03_HuaYuan",
     "Theme": 202,
     "BGM": "travelerDuel_huaYuan_combatBoss_setState",
-    "LeaveTriggerEvent": "amb_duel_defeat",
+    "LeaveTriggerEvent": "amb_travelerDuel_huaYuan_all_stop",
     "MonsterLv": 1,
     "IntroCutscene": "fx_70022HuaYuan_base_Born"
   },
@@ -124,7 +124,7 @@
     "SceneName": "Levels/TravelerDuel/TravelerDuel_04/TravelerDuel_04_Huochui",
     "ConfigPrefabName": "TravelerDuel_04_Huochui",
     "Theme": 203,
-    "BGM": "city_combatBoss_setState",
-    "LeaveTriggerEvent": "amb_city_all_stop"
+    "BGM": "travelerDuel_huoChui_combatBoss_setState",
+    "LeaveTriggerEvent": "amb_travelerDuel_huoChui_all_stop"
   }
 }

@@ -382,17 +382,44 @@
   },
   "1050101": {
     "Id": 1050101,
-    "SceneName": "Levels/Main/Company/Company_Main_5_1",
-    "ConfigPrefabName": "Company_Main_5_1",
-    "Theme": 11,
-    "BGM": "garden_explore_setState",
-    "LeaveTriggerEvent": "amb_company_all_stop",
+    "SceneName": "Levels/Roguelike/Roguelike_Common/Roguelike_Battle_004_A_07_5_1",
+    "ConfigPrefabName": "Company_Main_5_1_1",
+    "Theme": 18,
+    "BGM": "roguelike_combatNomal_setState",
+    "LeaveTriggerEvent": "amb_roguelike_all_stop",
+    "MonsterLv": 5
+  },
+  "1050102": {
+    "Id": 1050102,
+    "SceneName": "Levels/Roguelike/Roguelike_Common/Roguelike_Battle_020_B_07_5_2",
+    "ConfigPrefabName": "Company_Main_5_1_2",
+    "Theme": 18,
+    "BGM": "roguelike_combatNomal_setState",
+    "LeaveTriggerEvent": "amb_roguelike_all_stop",
+    "MonsterLv": 5
+  },
+  "1050103": {
+    "Id": 1050103,
+    "SceneName": "Levels/Roguelike/Roguelike_3/Roguelike_3_Reward_001",
+    "ConfigPrefabName": "Company_Main_5_1_3",
+    "Theme": 18,
+    "BGM": "roguelike_combatNomal_setState",
+    "LeaveTriggerEvent": "amb_roguelike_all_stop",
     "MonsterLv": 5
   },
   "1050201": {
     "Id": 1050201,
-    "SceneName": "Levels/Main/Company/Company_Main_5_2",
+    "SceneName": "Levels/Main/Company/Company_Main_6_1",
     "ConfigPrefabName": "Company_Main_5_2",
+    "Theme": 13,
+    "BGM": "company_explore_setState",
+    "LeaveTriggerEvent": "amb_company_all_stop",
+    "MonsterLv": 5
+  },
+  "1050301": {
+    "Id": 1050301,
+    "SceneName": "Levels/Main/Company/Company_Main_5_2",
+    "ConfigPrefabName": "Company_Main_5_3",
     "Theme": 12,
     "BGM": "fengNiao_explore_setState",
     "LeaveTriggerEvent": "amb_company_all_stop",
@@ -400,21 +427,39 @@
   },
   "1060101": {
     "Id": 1060101,
-    "SceneName": "Levels/Main/Company/Company_Main_6_1",
+    "SceneName": "Levels/Main/Company/Company_Main_5_1",
     "ConfigPrefabName": "Company_Main_6_1",
-    "Theme": 13,
-    "BGM": "company_explore_setState",
+    "Theme": 11,
+    "BGM": "garden_explore_setState",
     "LeaveTriggerEvent": "amb_company_all_stop",
     "MonsterLv": 6
   },
   "1060201": {
     "Id": 1060201,
+    "SceneName": "Levels/Main/Forest_New/Forest_Main_2_5_2",
+    "ConfigPrefabName": "Forest_Main_6_2",
+    "Theme": 19,
+    "BGM": "forest_explore_setState",
+    "LeaveTriggerEvent": "amb_forest_all_stop",
+    "MonsterLv": 6
+  },
+  "1060301": {
+    "Id": 1060301,
     "SceneName": "Levels/Main/Company/Company_Main_6_2",
     "ConfigPrefabName": "Company_Main_6_2",
     "Theme": 14,
     "BGM": "fengCao_explore_setState",
     "LeaveTriggerEvent": "amb_company_all_stop",
     "MonsterLv": 6
+  },
+  "1060401": {
+    "Id": 1060401,
+    "SceneName": "Levels/StoryActivity/StoryActivity_4/StoryActivity_4_Boss_TaLou",
+    "ConfigPrefabName": "StoryActivity_TaLou_Lv1",
+    "Theme": 417,
+    "BGM": "mode_christmas_combatTalou_setState",
+    "LeaveTriggerEvent": "amb_christmas_all_stop",
+    "MonsterLv": 8
   },
   "1100101": {
     "Id": 1100101,
@@ -649,24 +694,6 @@
     "LeaveTriggerEvent": "amb_city_all_stop",
     "MonsterLv": 2
   },
-  "1500101": {
-    "Id": 1500101,
-    "SceneName": "Levels/Main/Company/Company_Main_5_1",
-    "ConfigPrefabName": "Company_Main_5_1",
-    "Theme": 7,
-    "BGM": "city_explore_setState",
-    "LeaveTriggerEvent": "amb_city_all_stop",
-    "MonsterLv": 2
-  },
-  "1050102": {
-    "Id": 1050102,
-    "SceneName": "Levels/Main/Company/Company_Main_5_1_Prototype",
-    "ConfigPrefabName": "Company_Main_5_1_Prototype",
-    "Theme": 11,
-    "BGM": "DarkForest_explore_setState",
-    "LeaveTriggerEvent": "amb_forest_all_stop",
-    "MonsterLv": 1
-  },
   "1060102": {
     "Id": 1060102,
     "SceneName": "Levels/Main/Company/Company_Main_6_1_Prototype",
@@ -675,6 +702,24 @@
     "BGM": "DarkForest_explore_setState",
     "LeaveTriggerEvent": "amb_forest_all_stop",
     "MonsterLv": 1
+  },
+  "1070102": {
+    "Id": 1070102,
+    "SceneName": "Levels/Main/Coast/Coast_Main_7_2_Prototype",
+    "ConfigPrefabName": "Coast_Main_7_2",
+    "Theme": 5,
+    "BGM": "waterBridge_explore_setState",
+    "LeaveTriggerEvent": "amb_city_all_stop",
+    "MonsterLv": 2
+  },
+  "1070202": {
+    "Id": 1070202,
+    "SceneName": "Levels/Main/Coast/Coast_Main_7_3_Prototype",
+    "ConfigPrefabName": "Coast_Main_7_3",
+    "Theme": 13,
+    "BGM": "company_explore_setState",
+    "LeaveTriggerEvent": "amb_company_all_stop",
+    "MonsterLv": 2
   },
   "6001101": {
     "Id": 6001101,
@@ -1998,6 +2043,192 @@
     "Id": 9920140,
     "SceneName": "Levels/Roguelike/Roguelike_2/Roguelike_2_MiniBoss_005",
     "ConfigPrefabName": "MiniBoss_ChunJieLieQuan_Test2",
+    "MonsterLv": 1
+  },
+  "9920141": {
+    "Id": 9920141,
+    "SceneName": "Levels/StoryActivity/StoryActivity_4/StoryActivity_4_014_A_01",
+    "ConfigPrefabName": "StoryActivity_4_014_A_N1",
+    "MonsterLv": 1
+  },
+  "9920142": {
+    "Id": 9920142,
+    "SceneName": "Levels/StoryActivity/StoryActivity_4/StoryActivity_4_007_A_01",
+    "ConfigPrefabName": "StoryActivity_4_007_A_N2",
+    "MonsterLv": 1
+  },
+  "9920143": {
+    "Id": 9920143,
+    "SceneName": "Levels/StoryActivity/StoryActivity_4/StoryActivity_4_003_A_01",
+    "ConfigPrefabName": "StoryActivity_4_003_A_N3",
+    "MonsterLv": 1
+  },
+  "9920144": {
+    "Id": 9920144,
+    "SceneName": "Levels/StoryActivity/StoryActivity_4/StoryActivity_4_Boss_QiE",
+    "ConfigPrefabName": "MiniBoss_30271ShengDanQieChe_Lv1",
+    "MonsterLv": 1
+  },
+  "9920145": {
+    "Id": 9920145,
+    "SceneName": "Levels/StoryActivity/StoryActivity_4/StoryActivity_4_015_A_01",
+    "ConfigPrefabName": "StoryActivity_4_015_A_N5",
+    "MonsterLv": 1
+  },
+  "9920146": {
+    "Id": 9920146,
+    "SceneName": "Levels/StoryActivity/StoryActivity_4/StoryActivity_4_010_B_01",
+    "ConfigPrefabName": "StoryActivity_4_010_B_N6",
+    "MonsterLv": 1
+  },
+  "9920147": {
+    "Id": 9920147,
+    "SceneName": "Levels/StoryActivity/StoryActivity_4/StoryActivity_4_007_A_01_Mir",
+    "ConfigPrefabName": "StoryActivity_4_007_A_Mir_N7",
+    "MonsterLv": 1
+  },
+  "9920148": {
+    "Id": 9920148,
+    "SceneName": "Levels/StoryActivity/StoryActivity_4/StoryActivity_4_Boss_TaLou",
+    "ConfigPrefabName": "StoryActivity_TaLou_Lv1",
+    "MonsterLv": 1
+  },
+  "9920149": {
+    "Id": 9920149,
+    "SceneName": "Levels/StoryActivity/StoryActivity_4/StoryActivity_4_014_A_01_Mir",
+    "ConfigPrefabName": "StoryActivity_4_014_A_Mir_H1",
+    "MonsterLv": 1
+  },
+  "9920150": {
+    "Id": 9920150,
+    "SceneName": "Levels/StoryActivity/StoryActivity_4/StoryActivity_4_Boss_QiE",
+    "ConfigPrefabName": "MiniBoss_30271ShengDanQieChe_Lv1",
+    "MonsterLv": 1
+  },
+  "9920151": {
+    "Id": 9920151,
+    "SceneName": "Levels/StoryActivity/StoryActivity_4/StoryActivity_4_003_A_01_Mir",
+    "ConfigPrefabName": "StoryActivity_4_003_A_Mir_H3",
+    "MonsterLv": 1
+  },
+  "9920152": {
+    "Id": 9920152,
+    "SceneName": "Levels/StoryActivity/StoryActivity_4/StoryActivity_4_Boss_TaLou",
+    "ConfigPrefabName": "StoryActivity_TaLou_Lv2",
+    "MonsterLv": 1
+  },
+  "9920153": {
+    "Id": 9920153,
+    "SceneName": "Levels/StoryActivity/StoryActivity_4/StoryActivity_4_015_A_01_Mir",
+    "ConfigPrefabName": "StoryActivity_4_015_A_Mir_C1",
+    "MonsterLv": 1
+  },
+  "9920154": {
+    "Id": 9920154,
+    "SceneName": "Levels/StoryActivity/StoryActivity_4/StoryActivity_4_010_B_01_Mir",
+    "ConfigPrefabName": "StoryActivity_4_010_B_Mir_C2",
+    "MonsterLv": 1
+  },
+  "9920155": {
+    "Id": 9920155,
+    "SceneName": "Levels/StoryActivity/StoryActivity_4/StoryActivity_4_Boss_QiE",
+    "ConfigPrefabName": "MiniBoss_30271ShengDanQieChe_Lv2",
+    "MonsterLv": 1
+  },
+  "9920156": {
+    "Id": 9920156,
+    "SceneName": "Levels/StoryActivity/StoryActivity_4/StoryActivity_4_Boss_TaLou",
+    "ConfigPrefabName": "StoryActivity_TaLou_Lv3",
+    "MonsterLv": 1
+  },
+  "9920157": {
+    "Id": 9920157,
+    "SceneName": "Levels/StoryActivity/StoryActivity_4/StoryActivity_4_Boss_QiE",
+    "ConfigPrefabName": "MiniBoss_30271ShengDanQieChe_Test1",
+    "MonsterLv": 1
+  },
+  "9920158": {
+    "Id": 9920158,
+    "SceneName": "Levels/StoryActivity/StoryActivity_4/StoryActivity_4_Boss_QiE",
+    "ConfigPrefabName": "MiniBoss_30271ShengDanQieChe_Test2",
+    "MonsterLv": 1
+  },
+  "9920159": {
+    "Id": 9920159,
+    "SceneName": "Levels/StoryActivity/StoryActivity_5/StoryActivity_5_015_A_02",
+    "ConfigPrefabName": "StoryActivity_015_A_N1",
+    "MonsterLv": 1
+  },
+  "9920160": {
+    "Id": 9920160,
+    "SceneName": "Levels/StoryActivity/StoryActivity_5/StoryActivity_5_008_A_02",
+    "ConfigPrefabName": "StoryActivity_008_A_N2",
+    "MonsterLv": 1
+  },
+  "9920161": {
+    "Id": 9920161,
+    "SceneName": "Levels/StoryActivity/StoryActivity_5/StoryActivity_5_006_B_02",
+    "ConfigPrefabName": "StoryActivity_006_B_N3",
+    "MonsterLv": 1
+  },
+  "9920162": {
+    "Id": 9920162,
+    "SceneName": "Levels/StoryActivity/StoryActivity_5/StoryActivity_5_011_B_01",
+    "ConfigPrefabName": "StoryActivity_011_B_N4",
+    "MonsterLv": 1
+  },
+  "9920163": {
+    "Id": 9920163,
+    "SceneName": "Levels/StoryActivity/StoryActivity_5/StoryActivity_5_008_A_01_Mir",
+    "ConfigPrefabName": "StoryActivity_008_A_N5_Mir",
+    "MonsterLv": 1
+  },
+  "9920164": {
+    "Id": 9920164,
+    "SceneName": "Levels/StoryActivity/StoryActivity_5/StoryActivity_5_006_B_01_Mir",
+    "ConfigPrefabName": "StoryActivity_006_B_N6_Mir",
+    "MonsterLv": 1
+  },
+  "9920165": {
+    "Id": 9920165,
+    "SceneName": "Levels/StoryActivity/StoryActivity_5/StoryActivity_5_015_A_01_Mir",
+    "ConfigPrefabName": "StoryActivity_015_A_N7_Mir",
+    "MonsterLv": 1
+  },
+  "9920166": {
+    "Id": 9920166,
+    "SceneName": "Levels/Main/Company/Company_Main_6_2",
+    "ConfigPrefabName": "StoryActivity_Chuansong_N8",
+    "MonsterLv": 1
+  },
+  "9920167": {
+    "Id": 9920167,
+    "SceneName": "Levels/StoryActivity/StoryActivity_5/StoryActivity_5_015_A_02_Mir",
+    "ConfigPrefabName": "StoryActivity_015_A_H1",
+    "MonsterLv": 1
+  },
+  "9920168": {
+    "Id": 9920168,
+    "SceneName": "Levels/StoryActivity/StoryActivity_5/StoryActivity_5_011_B_01_Mir",
+    "ConfigPrefabName": "StoryActivity_011_B_H2",
+    "MonsterLv": 1
+  },
+  "9920169": {
+    "Id": 9920169,
+    "SceneName": "Levels/StoryActivity/StoryActivity_5/StoryActivity_5_008_A_01",
+    "ConfigPrefabName": "StoryActivity_008_A_H3",
+    "MonsterLv": 1
+  },
+  "9920170": {
+    "Id": 9920170,
+    "SceneName": "Levels/Main/Company/Company_Main_6_2",
+    "ConfigPrefabName": "StoryActivity_Chuansong_H4",
+    "MonsterLv": 1
+  },
+  "9920171": {
+    "Id": 9920171,
+    "SceneName": "Levels/Roguelike/Roguelike_2/Roguelike_2_MiniBoss_005",
+    "ConfigPrefabName": "SpringFestival_Monster_Test",
     "MonsterLv": 1
   }
 }

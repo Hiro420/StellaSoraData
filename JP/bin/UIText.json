@@ -731,6 +731,10 @@
     "Id": "GachaCover_OneRewardTip",
     "Text": "UIText.GachaCover_OneRewardTip.1"
   },
+  "Gacha_FesGacha": {
+    "Id": "Gacha_FesGacha",
+    "Text": "UIText.Gacha_FesGacha.1"
+  },
   "Guide_Jump": {
     "Id": "Guide_Jump",
     "Text": "UIText.Guide_Jump.1"
@@ -1278,6 +1282,26 @@
   "Guide_51_4": {
     "Id": "Guide_51_4",
     "Text": "UIText.Guide_51_4.1"
+  },
+  "Guide_52_1": {
+    "Id": "Guide_52_1",
+    "Text": "UIText.Guide_52_1.1"
+  },
+  "Guide_52_2": {
+    "Id": "Guide_52_2",
+    "Text": "UIText.Guide_52_2.1"
+  },
+  "Guide_52_3": {
+    "Id": "Guide_52_3",
+    "Text": "UIText.Guide_52_3.1"
+  },
+  "Guide_52_4": {
+    "Id": "Guide_52_4",
+    "Text": "UIText.Guide_52_4.1"
+  },
+  "Guide_52_5": {
+    "Id": "Guide_52_5",
+    "Text": "UIText.Guide_52_5.1"
   },
   "Guide_101_2": {
     "Id": "Guide_101_2",
@@ -2271,6 +2295,10 @@
     "Id": "JointDrill_Give_Up_Tip",
     "Text": "UIText.JointDrill_Give_Up_Tip.1"
   },
+  "JointDrill_Give_Up_Tip_2": {
+    "Id": "JointDrill_Give_Up_Tip_2",
+    "Text": "UIText.JointDrill_Give_Up_Tip_2.1"
+  },
   "JointDrill_Receive_Quest_Reward_Tip": {
     "Id": "JointDrill_Receive_Quest_Reward_Tip",
     "Text": "UIText.JointDrill_Receive_Quest_Reward_Tip.1"
@@ -2402,6 +2430,18 @@
   "BdConvert_CheckTips": {
     "Id": "BdConvert_CheckTips",
     "Text": "UIText.BdConvert_CheckTips.1"
+  },
+  "TowerDef_SkipTips": {
+    "Id": "TowerDef_SkipTips",
+    "Text": "UIText.TowerDef_SkipTips.1"
+  },
+  "TowerDef_SkipSubTips": {
+    "Id": "TowerDef_SkipSubTips",
+    "Text": "UIText.TowerDef_SkipSubTips.1"
+  },
+  "Gacha_sync_ack": {
+    "Id": "Gacha_sync_ack",
+    "Text": "UIText.Gacha_sync_ack.1"
   },
   "Level_2_5_1": {
     "Id": "Level_2_5_1",
@@ -2982,6 +3022,10 @@
   "TowerDefense_Tutorial_Tips_1_1": {
     "Id": "TowerDefense_Tutorial_Tips_1_1",
     "Text": "UIText.TowerDefense_Tutorial_Tips_1_1.1"
+  },
+  "TowerDefense_Tutorial_Tips_2_1": {
+    "Id": "TowerDefense_Tutorial_Tips_2_1",
+    "Text": "UIText.TowerDefense_Tutorial_Tips_2_1.1"
   },
   "Lv": {
     "Id": "Lv",
@@ -4679,6 +4723,14 @@
     "Id": "ItemStype_46",
     "Text": "UIText.ItemStype_46.1"
   },
+  "ItemStype_47": {
+    "Id": "ItemStype_47",
+    "Text": "UIText.ItemStype_47.1"
+  },
+  "ItemStype_48": {
+    "Id": "ItemStype_48",
+    "Text": "UIText.ItemStype_48.1"
+  },
   "ItemTip_DepotCount": {
     "Id": "ItemTip_DepotCount",
     "Text": "UIText.ItemTip_DepotCount.1"
@@ -5643,6 +5695,10 @@
     "Id": "Recruit_info",
     "Text": "UIText.Recruit_info.1"
   },
+  "Recruit_ComboDrawTicket": {
+    "Id": "Recruit_ComboDrawTicket",
+    "Text": "UIText.Recruit_ComboDrawTicket.1"
+  },
   "Recruit_Exchange": {
     "Id": "Recruit_Exchange",
     "Text": "UIText.Recruit_Exchange.1"
@@ -5650,6 +5706,10 @@
   "Recruit_ExchangeGem": {
     "Id": "Recruit_ExchangeGem",
     "Text": "UIText.Recruit_ExchangeGem.1"
+  },
+  "Recruit_ExchangeGem2": {
+    "Id": "Recruit_ExchangeGem2",
+    "Text": "UIText.Recruit_ExchangeGem2.1"
   },
   "Recruit_ExchangeGemZero": {
     "Id": "Recruit_ExchangeGemZero",
@@ -6215,6 +6275,22 @@
     "Id": "TD_ScoreTitle",
     "Text": "UIText.TD_ScoreTitle.1"
   },
+  "TD_AffixCondTips1": {
+    "Id": "TD_AffixCondTips1",
+    "Text": "UIText.TD_AffixCondTips1.1"
+  },
+  "TD_AffixCondTips2": {
+    "Id": "TD_AffixCondTips2",
+    "Text": "UIText.TD_AffixCondTips2.1"
+  },
+  "TD_AffixCondTips3": {
+    "Id": "TD_AffixCondTips3",
+    "Text": "UIText.TD_AffixCondTips3.1"
+  },
+  "TD_AffixCondTips4": {
+    "Id": "TD_AffixCondTips4",
+    "Text": "UIText.TD_AffixCondTips4.1"
+  },
   "TD_AffixCond1": {
     "Id": "TD_AffixCond1",
     "Text": "UIText.TD_AffixCond1.1"
@@ -6227,6 +6303,10 @@
     "Id": "TD_AffixCond3",
     "Text": "UIText.TD_AffixCond3.1"
   },
+  "TD_AffixCond4": {
+    "Id": "TD_AffixCond4",
+    "Text": "UIText.TD_AffixCond4.1"
+  },
   "TD_BattleResultDifficulty": {
     "Id": "TD_BattleResultDifficulty",
     "Text": "UIText.TD_BattleResultDifficulty.1"
@@ -6238,6 +6318,10 @@
   "TD_SeasonQuestHint": {
     "Id": "TD_SeasonQuestHint",
     "Text": "UIText.TD_SeasonQuestHint.1"
+  },
+  "TD_Pause_GiveUpTips_Simple": {
+    "Id": "TD_Pause_GiveUpTips_Simple",
+    "Text": "UIText.TD_Pause_GiveUpTips_Simple.1"
   },
   "Board_Change_Order": {
     "Id": "Board_Change_Order",
@@ -6854,6 +6938,10 @@
   "Activity_Remain_Time_Sec": {
     "Id": "Activity_Remain_Time_Sec",
     "Text": "UIText.Activity_Remain_Time_Sec.1"
+  },
+  "Activity_Remain_Time_LessThenHour": {
+    "Id": "Activity_Remain_Time_LessThenHour",
+    "Text": "UIText.Activity_Remain_Time_LessThenHour.1"
   },
   "Activity_PopUp_Goto": {
     "Id": "Activity_PopUp_Goto",
@@ -8811,6 +8899,10 @@
     "Id": "StarTower_Click_Suf",
     "Text": "UIText.StarTower_Click_Suf.1"
   },
+  "TDQuest_LessThenDay": {
+    "Id": "TDQuest_LessThenDay",
+    "Text": "UIText.TDQuest_LessThenDay.1"
+  },
   "TDQuest_Day": {
     "Id": "TDQuest_Day",
     "Text": "UIText.TDQuest_Day.1"
@@ -10503,6 +10595,10 @@
     "Id": "TravelerDuel_NPC3",
     "Text": "UIText.TravelerDuel_NPC3.1"
   },
+  "TravelerDuel_AffixDescFormat": {
+    "Id": "TravelerDuel_AffixDescFormat",
+    "Text": "UIText.TravelerDuel_AffixDescFormat.1"
+  },
   "TravelerDuel_LevelRewardTitle": {
     "Id": "TravelerDuel_LevelRewardTitle",
     "Text": "UIText.TravelerDuel_LevelRewardTitle.1"
@@ -11679,6 +11775,10 @@
     "Id": "JointDrill_Btn_Reward",
     "Text": "UIText.JointDrill_Btn_Reward.1"
   },
+  "JointDrill_Btn_Shop": {
+    "Id": "JointDrill_Btn_Shop",
+    "Text": "UIText.JointDrill_Btn_Shop.1"
+  },
   "JointDrill_Self_Rank": {
     "Id": "JointDrill_Self_Rank",
     "Text": "UIText.JointDrill_Self_Rank.1"
@@ -12107,6 +12207,18 @@
     "Id": "TowerDef_SkillInfo",
     "Text": "UIText.TowerDef_SkillInfo.1"
   },
+  "TowerDef_SkipTitle": {
+    "Id": "TowerDef_SkipTitle",
+    "Text": "UIText.TowerDef_SkipTitle.1"
+  },
+  "TowerDef_Skip": {
+    "Id": "TowerDef_Skip",
+    "Text": "UIText.TowerDef_Skip.1"
+  },
+  "TowerDef_Skip_Go": {
+    "Id": "TowerDef_Skip_Go",
+    "Text": "UIText.TowerDef_Skip_Go.1"
+  },
   "StartowerBook_NPCAffinityTitle": {
     "Id": "StartowerBook_NPCAffinityTitle",
     "Text": "UIText.StartowerBook_NPCAffinityTitle.1"
@@ -12231,13 +12343,29 @@
     "Id": "ActivityLevels_Adventure",
     "Text": "UIText.ActivityLevels_Adventure.1"
   },
+  "ActivityLevels_Hard": {
+    "Id": "ActivityLevels_Hard",
+    "Text": "UIText.ActivityLevels_Hard.1"
+  },
+  "ActivityLevels_HardCommon": {
+    "Id": "ActivityLevels_HardCommon",
+    "Text": "UIText.ActivityLevels_HardCommon.1"
+  },
   "ActivityLevels_Lock_PreLevel": {
     "Id": "ActivityLevels_Lock_PreLevel",
     "Text": "UIText.ActivityLevels_Lock_PreLevel.1"
   },
+  "ActivityLevels_Lock_Avg": {
+    "Id": "ActivityLevels_Lock_Avg",
+    "Text": "UIText.ActivityLevels_Lock_Avg.1"
+  },
   "ActivityLevels_Lock_Day": {
     "Id": "ActivityLevels_Lock_Day",
     "Text": "UIText.ActivityLevels_Lock_Day.1"
+  },
+  "ActivityLevels_Lock_DayHourOpen": {
+    "Id": "ActivityLevels_Lock_DayHourOpen",
+    "Text": "UIText.ActivityLevels_Lock_DayHourOpen.1"
   },
   "ActivityLevels_Lock_DayOpen": {
     "Id": "ActivityLevels_Lock_DayOpen",
@@ -12254,6 +12382,22 @@
   "ActivityLevels_Lock_Sec": {
     "Id": "ActivityLevels_Lock_Sec",
     "Text": "UIText.ActivityLevels_Lock_Sec.1"
+  },
+  "ActivityLevels_Lock_DayOpen_NoneUnLock": {
+    "Id": "ActivityLevels_Lock_DayOpen_NoneUnLock",
+    "Text": "UIText.ActivityLevels_Lock_DayOpen_NoneUnLock.1"
+  },
+  "ActivityLevels_Lock_Hour_NoneUnLock": {
+    "Id": "ActivityLevels_Lock_Hour_NoneUnLock",
+    "Text": "UIText.ActivityLevels_Lock_Hour_NoneUnLock.1"
+  },
+  "ActivityLevels_Lock_Min_NoneUnLock": {
+    "Id": "ActivityLevels_Lock_Min_NoneUnLock",
+    "Text": "UIText.ActivityLevels_Lock_Min_NoneUnLock.1"
+  },
+  "ActivityLevels_Lock_Sec_NoneUnLock": {
+    "Id": "ActivityLevels_Lock_Sec_NoneUnLock",
+    "Text": "UIText.ActivityLevels_Lock_Sec_NoneUnLock.1"
   },
   "ActivityLevels_Lock_Day_Color": {
     "Id": "ActivityLevels_Lock_Day_Color",
@@ -12286,6 +12430,22 @@
   "ActivityLevels_Lock_Sec_Color_10101": {
     "Id": "ActivityLevels_Lock_Sec_Color_10101",
     "Text": "UIText.ActivityLevels_Lock_Sec_Color_10101.1"
+  },
+  "ActivityLevels_Lock_Day_Color_Common": {
+    "Id": "ActivityLevels_Lock_Day_Color_Common",
+    "Text": "UIText.ActivityLevels_Lock_Day_Color_Common.1"
+  },
+  "ActivityLevels_Lock_Hour_Color_Common": {
+    "Id": "ActivityLevels_Lock_Hour_Color_Common",
+    "Text": "UIText.ActivityLevels_Lock_Hour_Color_Common.1"
+  },
+  "ActivityLevels_Lock_Min_Color_Common": {
+    "Id": "ActivityLevels_Lock_Min_Color_Common",
+    "Text": "UIText.ActivityLevels_Lock_Min_Color_Common.1"
+  },
+  "ActivityLevels_Lock_Sec_Color_Common": {
+    "Id": "ActivityLevels_Lock_Sec_Color_Common",
+    "Text": "UIText.ActivityLevels_Lock_Sec_Color_Common.1"
   },
   "VampireEventTips_1": {
     "Id": "VampireEventTips_1",
@@ -13103,8 +13263,224 @@
     "Id": "Activity_Shop_10101",
     "Text": "UIText.Activity_Shop_10101.1"
   },
+  "Entry": {
+    "Id": "Entry",
+    "Text": "UIText.Entry.1"
+  },
+  "Newbie": {
+    "Id": "Newbie",
+    "Text": "UIText.Newbie.1"
+  },
+  "Advanced": {
+    "Id": "Advanced",
+    "Text": "UIText.Advanced.1"
+  },
+  "Expert": {
+    "Id": "Expert",
+    "Text": "UIText.Expert.1"
+  },
+  "DifficultyType": {
+    "Id": "DifficultyType",
+    "Text": "UIText.DifficultyType.1"
+  },
+  "OpenAfterClearingLevel": {
+    "Id": "OpenAfterClearingLevel",
+    "Text": "UIText.OpenAfterClearingLevel.1"
+  },
+  "Weekly_Quest_Reward_Tip": {
+    "Id": "Weekly_Quest_Reward_Tip",
+    "Text": "UIText.Weekly_Quest_Reward_Tip.1"
+  },
+  "Weekly_Quest_Remain": {
+    "Id": "Weekly_Quest_Remain",
+    "Text": "UIText.Weekly_Quest_Remain.1"
+  },
+  "MainView_QuestNewbie": {
+    "Id": "MainView_QuestNewbie",
+    "Text": "UIText.MainView_QuestNewbie.1"
+  },
+  "Quest_Back_To_Team_Select": {
+    "Id": "Quest_Back_To_Team_Select",
+    "Text": "UIText.Quest_Back_To_Team_Select.1"
+  },
+  "ChallengingGoals": {
+    "Id": "ChallengingGoals",
+    "Text": "UIText.ChallengingGoals.1"
+  },
+  "GoToChallenge": {
+    "Id": "GoToChallenge",
+    "Text": "UIText.GoToChallenge.1"
+  },
+  "ExchangeShop": {
+    "Id": "ExchangeShop",
+    "Text": "UIText.ExchangeShop.1"
+  },
+  "TeamFormation_Quest_Desc": {
+    "Id": "TeamFormation_Quest_Desc",
+    "Text": "UIText.TeamFormation_Quest_Desc.1"
+  },
+  "QuestNewbiePanel_Tab_1": {
+    "Id": "QuestNewbiePanel_Tab_1",
+    "Text": "UIText.QuestNewbiePanel_Tab_1.1"
+  },
+  "QuestNewbiePanel_Tab_2": {
+    "Id": "QuestNewbiePanel_Tab_2",
+    "Text": "UIText.QuestNewbiePanel_Tab_2.1"
+  },
+  "Activity_MainLine_Story_Open": {
+    "Id": "Activity_MainLine_Story_Open",
+    "Text": "UIText.Activity_MainLine_Story_Open.1"
+  },
+  "Activity_MainLine_Goto": {
+    "Id": "Activity_MainLine_Goto",
+    "Text": "UIText.Activity_MainLine_Goto.1"
+  },
   "Gacha_History_UPMark": {
     "Id": "Gacha_History_UPMark",
     "Text": "UIText.Gacha_History_UPMark.1"
+  },
+  "BreakOut_Act_Reward": {
+    "Id": "BreakOut_Act_Reward",
+    "Text": "UIText.BreakOut_Act_Reward.1"
+  },
+  "BreakOut_Act_BattleCount": {
+    "Id": "BreakOut_Act_BattleCount",
+    "Text": "UIText.BreakOut_Act_BattleCount.1"
+  },
+  "BreakOut_Act_DefaultDesc": {
+    "Id": "BreakOut_Act_DefaultDesc",
+    "Text": "UIText.BreakOut_Act_DefaultDesc.1"
+  },
+  "BreakOut_Act_Name_Skill": {
+    "Id": "BreakOut_Act_Name_Skill",
+    "Text": "UIText.BreakOut_Act_Name_Skill.1"
+  },
+  "BreakOut_Act_DefaultName_Skill": {
+    "Id": "BreakOut_Act_DefaultName_Skill",
+    "Text": "UIText.BreakOut_Act_DefaultName_Skill.1"
+  },
+  "BreakOut_Act_DefaultBattleCount": {
+    "Id": "BreakOut_Act_DefaultBattleCount",
+    "Text": "UIText.BreakOut_Act_DefaultBattleCount.1"
+  },
+  "NewTutorialsAct_Tutorial": {
+    "Id": "NewTutorialsAct_Tutorial",
+    "Text": "UIText.NewTutorialsAct_Tutorial.1"
+  },
+  "CharacterInfo_NotHave": {
+    "Id": "CharacterInfo_NotHave",
+    "Text": "UIText.CharacterInfo_NotHave.1"
+  },
+  "BreakOut_Act_Target": {
+    "Id": "BreakOut_Act_Target",
+    "Text": "UIText.BreakOut_Act_Target.1"
+  },
+  "BreakOut_Act_CharacterUnOpen": {
+    "Id": "BreakOut_Act_CharacterUnOpen",
+    "Text": "UIText.BreakOut_Act_CharacterUnOpen.1"
+  },
+  "TravelerDuel_ChallengeBtn": {
+    "Id": "TravelerDuel_ChallengeBtn",
+    "Text": "UIText.TravelerDuel_ChallengeBtn.1"
+  },
+  "TravelerDuel_RecordTitle": {
+    "Id": "TravelerDuel_RecordTitle",
+    "Text": "UIText.TravelerDuel_RecordTitle.1"
+  },
+  "TravelerDuel_RecordEmptySubTitle": {
+    "Id": "TravelerDuel_RecordEmptySubTitle",
+    "Text": "UIText.TravelerDuel_RecordEmptySubTitle.1"
+  },
+  "TravelerDuel_RecordEmptyTitle": {
+    "Id": "TravelerDuel_RecordEmptyTitle",
+    "Text": "UIText.TravelerDuel_RecordEmptyTitle.1"
+  },
+  "TravelerDuel_JumptoAffixUnlock": {
+    "Id": "TravelerDuel_JumptoAffixUnlock",
+    "Text": "UIText.TravelerDuel_JumptoAffixUnlock.1"
+  },
+  "BreakOut_Text_Pause": {
+    "Id": "BreakOut_Text_Pause",
+    "Text": "UIText.BreakOut_Text_Pause.1"
+  },
+  "BreakOut_Button_Leave": {
+    "Id": "BreakOut_Button_Leave",
+    "Text": "UIText.BreakOut_Button_Leave.1"
+  },
+  "BreakOut_Button_Re": {
+    "Id": "BreakOut_Button_Re",
+    "Text": "UIText.BreakOut_Button_Re.1"
+  },
+  "BreakOut_Button_Back": {
+    "Id": "BreakOut_Button_Back",
+    "Text": "UIText.BreakOut_Button_Back.1"
+  },
+  "Note_Count": {
+    "Id": "Note_Count",
+    "Text": "UIText.Note_Count.1"
+  },
+  "ActivityStory_Lock_Day_Color": {
+    "Id": "ActivityStory_Lock_Day_Color",
+    "Text": "UIText.ActivityStory_Lock_Day_Color.1"
+  },
+  "ActivityStory_Lock_Hour_Color": {
+    "Id": "ActivityStory_Lock_Hour_Color",
+    "Text": "UIText.ActivityStory_Lock_Hour_Color.1"
+  },
+  "ActivityStory_Lock_Min_Color": {
+    "Id": "ActivityStory_Lock_Min_Color",
+    "Text": "UIText.ActivityStory_Lock_Min_Color.1"
+  },
+  "ActivityStory_Lock_Sec_Color": {
+    "Id": "ActivityStory_Lock_Sec_Color",
+    "Text": "UIText.ActivityStory_Lock_Sec_Color.1"
+  },
+  "ActivityStory_UnlockActivityLevel": {
+    "Id": "ActivityStory_UnlockActivityLevel",
+    "Text": "UIText.ActivityStory_UnlockActivityLevel.1"
+  },
+  "StoryEntrance_Activity_Lock": {
+    "Id": "StoryEntrance_Activity_Lock",
+    "Text": "UIText.StoryEntrance_Activity_Lock.1"
+  },
+  "ActivityEnter_Lock": {
+    "Id": "ActivityEnter_Lock",
+    "Text": "UIText.ActivityEnter_Lock.1"
+  },
+  "Activity_Mini_Game_Cookie": {
+    "Id": "Activity_Mini_Game_Cookie",
+    "Text": "UIText.Activity_Mini_Game_Cookie.1"
+  },
+  "Activity_StoryChapter_10103": {
+    "Id": "Activity_StoryChapter_10103",
+    "Text": "UIText.Activity_StoryChapter_10103.1"
+  },
+  "Activity_Open_Time_Min_10103": {
+    "Id": "Activity_Open_Time_Min_10103",
+    "Text": "UIText.Activity_Open_Time_Min_10103.1"
+  },
+  "Activity_Open_Time_Sec_10103": {
+    "Id": "Activity_Open_Time_Sec_10103",
+    "Text": "UIText.Activity_Open_Time_Sec_10103.1"
+  },
+  "Activity_Open_Time_Day_10103": {
+    "Id": "Activity_Open_Time_Day_10103",
+    "Text": "UIText.Activity_Open_Time_Day_10103.1"
+  },
+  "Activity_Open_Time_10103": {
+    "Id": "Activity_Open_Time_10103",
+    "Text": "UIText.Activity_Open_Time_10103.1"
+  },
+  "TravelerDuel_RecommendLevelTitle": {
+    "Id": "TravelerDuel_RecommendLevelTitle",
+    "Text": "UIText.TravelerDuel_RecommendLevelTitle.1"
+  },
+  "TravelerDuel_Result_Difficulty": {
+    "Id": "TravelerDuel_Result_Difficulty",
+    "Text": "UIText.TravelerDuel_Result_Difficulty.1"
+  },
+  "TravelerDuel_Affixes_Title": {
+    "Id": "TravelerDuel_Affixes_Title",
+    "Text": "UIText.TravelerDuel_Affixes_Title.1"
   }
 }

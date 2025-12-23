@@ -1,4 +1,6 @@
 {
+  "ScoreBossAbility.100000.1": "测试用",
+  "ScoreBossAbility.100000.2": "无",
   "ScoreBossAbility.100001.1": "星脉狂暴",
   "ScoreBossAbility.100001.2": "首领敌人初始拥有1层「狂暴」，且每10秒获得1层「狂暴」，每层「狂暴」使首领敌人造成伤害提升<color=#ec6d21>&Param1&</color>，最多叠加5层。\n当己方在2秒内对首领敌人累计造成10次伤害后，可移除首领敌人全部「狂暴」层数；同时主控角色获得10层「增幅」，最多叠加10层，主控角色每次造成伤害时移除1层「增幅」使该次伤害提升<color=#ec6d21>&Param2&</color>",
   "ScoreBossAbility.100002.1": "灾厄火环",
@@ -6,5 +8,9 @@
   "ScoreBossAbility.100003.1": "淋漓酣战",
   "ScoreBossAbility.100003.2": "首领每5秒获得1层「酣战」,使自身造成的伤害提升<color=#ec6d21>&Param1&</color>，最多叠加5层。\n主控角色触发「印记」时，移除1层「酣战」。成功移除「酣战」时，全队获得20点能量，并使首领受到绝招伤害提升<color=#ec6d21>&Param2&</color>，持续10秒，每次触发重置时间。",
   "ScoreBossAbility.100004.1": "噬心暗环",
-  "ScoreBossAbility.100004.2": "首领拥有「暗环」时自身造成伤害提升<color=#ec6d21>&Param1&</color>，且每5秒额外造成一次范围伤害。\n当己方在3秒内对首领累计造成20次伤害后，使「暗环」失效15秒，期间首领受到援护角色造成的技能伤害提升<color=#ec6d21>&Param2&</color>"
+  "ScoreBossAbility.100004.2": "首领拥有「暗环」时自身造成伤害提升<color=#ec6d21>&Param1&</color>，且每5秒额外造成一次范围伤害。\n当己方在3秒内对首领累计造成20次伤害后，使「暗环」失效15秒，期间首领受到援护角色造成的技能伤害提升<color=#ec6d21>&Param2&</color>",
+  "ScoreBossAbility.100005.1": "虚实转换",
+  "ScoreBossAbility.100005.2": "首领敌人会在【真影状态】和【幻灭状态】状态以<color=#ec6d21>15秒</color>为时间间隔切换。\n【幻灭状态】中，首领受到的仆从伤害提升<color=#ec6d21>&Param1&</color>。每造成1次印记触发都会使当前状态的持续时间延长<color=#ec6d21>&Param2&</color>秒，每秒最多触发1次。\n【真影状态】中，首领受到的技能伤害提升<color=#ec6d21>&Param3&</color>。每造成1次仆从伤害都会使当前状态的持续时间延长<color=#ec6d21>&Param4&</color>秒，每秒最多触发1次。",
+  "ScoreBossAbility.100006.1": "引雷入室",
+  "ScoreBossAbility.100006.2": "首领拥有「落雷」时自身造成伤害提升<color=#ec6d21>&Param4&</color>，且每3秒额外造成4次小范围伤害；\n当己方<color=#ec6d21>&Param1&</color>秒内对首领累计造成<color=#ec6d21>&Param2&</color>次援护角色技能伤害，使「落雷」失效15秒，期间首领受到援护角色造成的技能伤害提升<color=#ec6d21>&Param3&</color>"
 }

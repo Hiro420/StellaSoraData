@@ -1,4 +1,12 @@
 {
+  "100000": {
+    "Id": 100000,
+    "Name": "ScoreBossAbility.100000.1",
+    "Desc": "ScoreBossAbility.100000.2",
+    "IconSource": "Icon/MonsterSkill/Bossrush/Icon_Bossrush_Teshujizhi_001",
+    "Value1": "0",
+    "Value2": "0"
+  },
   "100001": {
     "Id": 100001,
     "Name": "ScoreBossAbility.100001.1",
@@ -50,5 +58,37 @@
     "Param2": "ScoreBossAbility,NoLevel,100004,Value2,Pct",
     "Value1": "30",
     "Value2": "65"
+  },
+  "100005": {
+    "Id": 100005,
+    "Name": "ScoreBossAbility.100005.1",
+    "Desc": "ScoreBossAbility.100005.2",
+    "IconSource": "Icon/MonsterSkill/Bossrush/Icon_Bossrush_Teshujizhi_007",
+    "ScriptID": [
+      "100005"
+    ],
+    "Param1": "ScoreBossAbility,NoLevel,100005,Value1,Pct",
+    "Param2": "ScoreBossAbility,NoLevel,100005,Value2,Fixed",
+    "Param3": "ScoreBossAbility,NoLevel,100005,Value3,Pct",
+    "Param4": "ScoreBossAbility,NoLevel,100005,Value4,Fixed",
+    "Value1": "50",
+    "Value2": "0.6",
+    "Value3": "50",
+    "Value4": "0.6"
+  },
+  "100006": {
+    "Id": 100006,
+    "Name": "ScoreBossAbility.100006.1",
+    "Desc": "ScoreBossAbility.100006.2",
+    "IconSource": "Icon/MonsterSkill/Bossrush/Icon_Bossrush_Teshujizhi_008",
+    "ScriptID": [
+      "100006"
+    ],
+    "Param1": "ScoreBossAbility,NoLevel,100006,Value1,Fixed",
+    "Param2": "ScoreBossAbility,NoLevel,100006,Value2,Fixed",
+    "Param3": "EffectValue,NoLevel,631007002,EffectTypeParam1,HdPct",
+    "Param4": "EffectValue,NoLevel,631007001,EffectTypeParam1,HdPct",
+    "Value1": "5",
+    "Value2": "20"
   }
 }

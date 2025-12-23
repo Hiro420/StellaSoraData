@@ -1159,7 +1159,7 @@
     "Desc1": "DatingCharacterEvent.133301.1",
     "Desc2": "DatingCharacterEvent.133301.2",
     "Desc3": "DatingCharacterEvent.133301.3",
-    "Response": "think",
+    "Response": "happy2",
     "CG": "DatingSPCG_133301",
     "Name": "DatingCharacterEvent.133301.5",
     "Clue": "DatingCharacterEvent.133301.6",
@@ -1181,11 +1181,55 @@
     "Desc1": "DatingCharacterEvent.133302.1",
     "Desc2": "DatingCharacterEvent.133302.2",
     "Desc3": "DatingCharacterEvent.133302.3",
-    "Response": "happy2",
+    "Response": "shy",
     "CG": "DatingSPCG_133302",
     "Name": "DatingCharacterEvent.133302.5",
     "Clue": "DatingCharacterEvent.133302.6",
     "Memory": "DatingCharacterEvent.133302.7"
+  },
+  "158301": {
+    "Id": 158301,
+    "DatingEventType": 5,
+    "DatingEventParams": [
+      158,
+      7
+    ],
+    "BranchTag": 4,
+    "Affinity": 25,
+    "Reward": [
+      2,
+      10
+    ],
+    "Desc1": "DatingCharacterEvent.158301.1",
+    "Desc2": "DatingCharacterEvent.158301.2",
+    "Desc3": "DatingCharacterEvent.158301.3",
+    "Response": "happy",
+    "CG": "DatingSPCG_158301",
+    "Name": "DatingCharacterEvent.158301.5",
+    "Clue": "DatingCharacterEvent.158301.6",
+    "Memory": "DatingCharacterEvent.158301.7"
+  },
+  "158302": {
+    "Id": 158302,
+    "DatingEventType": 5,
+    "DatingEventParams": [
+      158,
+      8
+    ],
+    "BranchTag": 1,
+    "Affinity": 25,
+    "Reward": [
+      2,
+      10
+    ],
+    "Desc1": "DatingCharacterEvent.158302.1",
+    "Desc2": "DatingCharacterEvent.158302.2",
+    "Desc3": "DatingCharacterEvent.158302.3",
+    "Response": "think",
+    "CG": "DatingSPCG_158302",
+    "Name": "DatingCharacterEvent.158302.5",
+    "Clue": "DatingCharacterEvent.158302.6",
+    "Memory": "DatingCharacterEvent.158302.7"
   },
   "515": {
     "Id": 515,
@@ -1531,6 +1575,22 @@
     "Name": "DatingCharacterEvent.817.5",
     "Clue": "DatingCharacterEvent.817.6",
     "Memory": "DatingCharacterEvent.817.7"
+  },
+  "818": {
+    "Id": 818,
+    "DatingEventType": 4,
+    "DatingEventParams": [
+      8
+    ],
+    "BranchTag": 1,
+    "Affinity": 15,
+    "Desc1": "DatingCharacterEvent.818.1",
+    "Desc2": "DatingCharacterEvent.818.2",
+    "Desc3": "DatingCharacterEvent.818.3",
+    "Response": "happy",
+    "Name": "DatingCharacterEvent.818.5",
+    "Clue": "DatingCharacterEvent.818.6",
+    "Memory": "DatingCharacterEvent.818.7"
   },
   "1414": {
     "Id": 1414,

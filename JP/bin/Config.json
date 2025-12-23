@@ -521,7 +521,7 @@
   },
   "QuestWeeklyRefreshCount": {
     "Id": "QuestWeeklyRefreshCount",
-    "Value": "8"
+    "Value": "13"
   },
   "BattlePassWeeklyExpLimit": {
     "Id": "BattlePassWeeklyExpLimit",
@@ -554,14 +554,6 @@
   "SeasonEndThreshold": {
     "Id": "SeasonEndThreshold",
     "Value": "82800"
-  },
-  "TravelerDuelRankUploadTimesLimit": {
-    "Id": "TravelerDuelRankUploadTimesLimit",
-    "Value": "5"
-  },
-  "TravelerDuelWeeklyAwardLimit": {
-    "Id": "TravelerDuelWeeklyAwardLimit",
-    "Value": "1"
   },
   "HFCtimer": {
     "Id": "HFCtimer",
@@ -770,6 +762,16 @@
   "InfinityOpenDayActivityId": {
     "Id": "InfinityOpenDayActivityId",
     "Value": "201002"
+  },
+  "TouchEffect_Main": {
+    "Id": "TouchEffect_Main"
+  },
+  "TouchEffect_Slide": {
+    "Id": "TouchEffect_Slide"
+  },
+  "RedDot": {
+    "Id": "RedDot",
+    "Value": "zs_common_new_4_xmas"
   },
   "TravelerDuel_BottomBanner": {
     "Id": "TravelerDuel_BottomBanner",

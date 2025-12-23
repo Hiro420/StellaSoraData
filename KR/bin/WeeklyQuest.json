@@ -1,0 +1,187 @@
+{
+  "1001": {
+    "Id": 1001,
+    "Title": "WeeklyQuest.1001.1",
+    "Desc": "WeeklyQuest.1001.2",
+    "Active": 100,
+    "Order": 1,
+    "Apear": true,
+    "CompleteCond": 51,
+    "CompleteCondParams": "[1]",
+    "ItemTid": 1,
+    "ItemQty": 20000
+  },
+  "1002": {
+    "Id": 1002,
+    "Title": "WeeklyQuest.1002.1",
+    "Desc": "WeeklyQuest.1002.2",
+    "Active": 200,
+    "Order": 2,
+    "Prerequisites": [
+      1001
+    ],
+    "Apear": true,
+    "CompleteCond": 51,
+    "CompleteCondParams": "[5]",
+    "ItemTid": 1,
+    "ItemQty": 50000
+  },
+  "1003": {
+    "Id": 1003,
+    "Title": "WeeklyQuest.1003.1",
+    "Desc": "WeeklyQuest.1003.2",
+    "JumpTo": 27,
+    "Active": 100,
+    "Order": 3,
+    "Apear": true,
+    "CompleteCond": 508,
+    "CompleteCondParams": "[3]",
+    "ItemTid": 1,
+    "ItemQty": 20000
+  },
+  "1004": {
+    "Id": 1004,
+    "Title": "WeeklyQuest.1004.1",
+    "Desc": "WeeklyQuest.1004.2",
+    "JumpTo": 27,
+    "Active": 200,
+    "Order": 4,
+    "Prerequisites": [
+      1003
+    ],
+    "Apear": true,
+    "CompleteCond": 508,
+    "CompleteCondParams": "[5]",
+    "ItemTid": 1,
+    "ItemQty": 50000
+  },
+  "1005": {
+    "Id": 1005,
+    "Title": "WeeklyQuest.1005.1",
+    "Desc": "WeeklyQuest.1005.2",
+    "JumpTo": 32,
+    "Active": 100,
+    "Order": 5,
+    "Apear": true,
+    "CompleteCond": 3,
+    "CompleteCondParams": "[10]",
+    "ItemTid": 50002,
+    "ItemQty": 2
+  },
+  "1006": {
+    "Id": 1006,
+    "Title": "WeeklyQuest.1006.1",
+    "Desc": "WeeklyQuest.1006.2",
+    "JumpTo": 32,
+    "Active": 200,
+    "Order": 6,
+    "Prerequisites": [
+      1005
+    ],
+    "Apear": true,
+    "CompleteCond": 3,
+    "CompleteCondParams": "[20]",
+    "ItemTid": 50003,
+    "ItemQty": 2
+  },
+  "1007": {
+    "Id": 1007,
+    "Title": "WeeklyQuest.1007.1",
+    "Desc": "WeeklyQuest.1007.2",
+    "JumpTo": 32,
+    "Active": 200,
+    "Order": 7,
+    "Prerequisites": [
+      1006
+    ],
+    "Apear": true,
+    "CompleteCond": 3,
+    "CompleteCondParams": "[40]",
+    "ItemTid": 50003,
+    "ItemQty": 2
+  },
+  "1008": {
+    "Id": 1008,
+    "Title": "WeeklyQuest.1008.1",
+    "Desc": "WeeklyQuest.1008.2",
+    "JumpTo": 32,
+    "Active": 100,
+    "Order": 8,
+    "Apear": true,
+    "CompleteCond": 39,
+    "CompleteCondParams": "[500]",
+    "ItemTid": 30003,
+    "ItemQty": 2
+  },
+  "1009": {
+    "Id": 1009,
+    "Title": "WeeklyQuest.1009.1",
+    "Desc": "WeeklyQuest.1009.2",
+    "JumpTo": 32,
+    "Active": 200,
+    "Order": 9,
+    "Prerequisites": [
+      1008
+    ],
+    "Apear": true,
+    "CompleteCond": 39,
+    "CompleteCondParams": "[1000]",
+    "ItemTid": 30003,
+    "ItemQty": 3
+  },
+  "1010": {
+    "Id": 1010,
+    "Title": "WeeklyQuest.1010.1",
+    "Desc": "WeeklyQuest.1010.2",
+    "JumpTo": 59,
+    "Active": 200,
+    "Order": 10,
+    "Apear": true,
+    "CompleteCond": 74,
+    "CompleteCondParams": "[5]",
+    "ItemTid": 1,
+    "ItemQty": 50000
+  },
+  "1011": {
+    "Id": 1011,
+    "Title": "WeeklyQuest.1011.1",
+    "Desc": "WeeklyQuest.1011.2",
+    "JumpTo": 57,
+    "Active": 100,
+    "Order": 11,
+    "Apear": true,
+    "CompleteCond": 83,
+    "CompleteCondParams": "[5]",
+    "ItemTid": 1,
+    "ItemQty": 20000
+  },
+  "1012": {
+    "Id": 1012,
+    "Title": "WeeklyQuest.1012.1",
+    "Desc": "WeeklyQuest.1012.2",
+    "JumpTo": 57,
+    "Active": 200,
+    "Order": 12,
+    "Prerequisites": [
+      1011
+    ],
+    "Apear": true,
+    "CompleteCond": 83,
+    "CompleteCondParams": "[10]",
+    "ItemTid": 1,
+    "ItemQty": 50000
+  },
+  "1013": {
+    "Id": 1013,
+    "Title": "WeeklyQuest.1013.1",
+    "Desc": "WeeklyQuest.1013.2",
+    "JumpTo": 62001,
+    "Active": 300,
+    "Order": 13,
+    "Apear": true,
+    "CompleteCond": 123,
+    "CompleteCondParams": "[3]",
+    "ItemTid": 1,
+    "ItemQty": 80000
+  }
+}

@@ -776,7 +776,7 @@
   },
   "greet_npc": {
     "Id": "greet_npc",
-    "probability": 90,
+    "probability": 100,
     "resType": 4,
     "worldLevelTypes": [
       11
@@ -787,7 +787,7 @@
   },
   "greetmorn_npc": {
     "Id": "greetmorn_npc",
-    "probability": 40,
+    "probability": 100,
     "resType": 4,
     "worldLevelTypes": [
       11
@@ -798,7 +798,7 @@
   },
   "greetnoon_npc": {
     "Id": "greetnoon_npc",
-    "probability": 40,
+    "probability": 100,
     "resType": 4,
     "worldLevelTypes": [
       11
@@ -809,7 +809,7 @@
   },
   "greetnight_npc": {
     "Id": "greetnight_npc",
-    "probability": 40,
+    "probability": 100,
     "resType": 4,
     "worldLevelTypes": [
       11
@@ -837,6 +837,7 @@
       11
     ],
     "bubble": true,
+    "cd": 5.0,
     "voPlayer": 3,
     "priority": 3
   },
@@ -848,8 +849,9 @@
       11
     ],
     "bubble": true,
+    "cd": 10.0,
     "voPlayer": 3,
-    "priority": 2
+    "priority": 3
   },
   "exhang_npc": {
     "Id": "exhang_npc",
@@ -859,8 +861,9 @@
       11
     ],
     "bubble": true,
+    "cd": 10.0,
     "voPlayer": 3,
-    "priority": 2
+    "priority": 3
   },
   "thank_npc": {
     "Id": "thank_npc",
@@ -1007,6 +1010,308 @@
   },
   "twin_effect": {
     "Id": "twin_effect",
+    "probability": 100,
+    "resType": 4,
+    "worldLevelTypes": [
+      11
+    ],
+    "bubble": true,
+    "voPlayer": 3,
+    "priority": 2
+  },
+  "heal": {
+    "Id": "heal",
+    "probability": 100,
+    "resType": 4,
+    "worldLevelTypes": [
+      11
+    ],
+    "bubble": true,
+    "voPlayer": 3,
+    "priority": 2
+  },
+  "login_npc_day01": {
+    "Id": "login_npc_day01",
+    "probability": 100,
+    "resType": 4,
+    "worldLevelTypes": [
+      11
+    ],
+    "bubble": true,
+    "voPlayer": 3,
+    "priority": 2
+  },
+  "login_npc_day02": {
+    "Id": "login_npc_day02",
+    "probability": 100,
+    "resType": 4,
+    "worldLevelTypes": [
+      11
+    ],
+    "bubble": true,
+    "voPlayer": 3,
+    "priority": 2
+  },
+  "login_npc_day03": {
+    "Id": "login_npc_day03",
+    "probability": 100,
+    "resType": 4,
+    "worldLevelTypes": [
+      11
+    ],
+    "bubble": true,
+    "voPlayer": 3,
+    "priority": 2
+  },
+  "login_npc_day04": {
+    "Id": "login_npc_day04",
+    "probability": 100,
+    "resType": 4,
+    "worldLevelTypes": [
+      11
+    ],
+    "bubble": true,
+    "voPlayer": 3,
+    "priority": 2
+  },
+  "login_npc_day05": {
+    "Id": "login_npc_day05",
+    "probability": 100,
+    "resType": 4,
+    "worldLevelTypes": [
+      11
+    ],
+    "bubble": true,
+    "voPlayer": 3,
+    "priority": 2
+  },
+  "login_npc_day06": {
+    "Id": "login_npc_day06",
+    "probability": 100,
+    "resType": 4,
+    "worldLevelTypes": [
+      11
+    ],
+    "bubble": true,
+    "voPlayer": 3,
+    "priority": 2
+  },
+  "login_npc_day07": {
+    "Id": "login_npc_day07",
+    "probability": 100,
+    "resType": 4,
+    "worldLevelTypes": [
+      11
+    ],
+    "bubble": true,
+    "voPlayer": 3,
+    "priority": 2
+  },
+  "login_npc_day08": {
+    "Id": "login_npc_day08",
+    "probability": 100,
+    "resType": 4,
+    "worldLevelTypes": [
+      11
+    ],
+    "bubble": true,
+    "voPlayer": 3,
+    "priority": 2
+  },
+  "login_npc_day09": {
+    "Id": "login_npc_day09",
+    "probability": 100,
+    "resType": 4,
+    "worldLevelTypes": [
+      11
+    ],
+    "bubble": true,
+    "voPlayer": 3,
+    "priority": 2
+  },
+  "login_npc_day10": {
+    "Id": "login_npc_day10",
+    "probability": 100,
+    "resType": 4,
+    "worldLevelTypes": [
+      11
+    ],
+    "bubble": true,
+    "voPlayer": 3,
+    "priority": 2
+  },
+  "TrekkerVersus_victory": {
+    "Id": "TrekkerVersus_victory",
+    "probability": 100,
+    "resType": 4,
+    "worldLevelTypes": [
+      11
+    ],
+    "bubble": true,
+    "voPlayer": 3,
+    "priority": 2
+  },
+  "TrekkerVersus_fail": {
+    "Id": "TrekkerVersus_fail",
+    "probability": 100,
+    "resType": 4,
+    "worldLevelTypes": [
+      11
+    ],
+    "bubble": true,
+    "voPlayer": 3,
+    "priority": 2
+  },
+  "TrekkerVersus_difficulty1": {
+    "Id": "TrekkerVersus_difficulty1",
+    "probability": 100,
+    "resType": 4,
+    "worldLevelTypes": [
+      11
+    ],
+    "bubble": true,
+    "cd": 10.0,
+    "voPlayer": 3,
+    "priority": 2
+  },
+  "TrekkerVersus_difficulty2": {
+    "Id": "TrekkerVersus_difficulty2",
+    "probability": 100,
+    "resType": 4,
+    "worldLevelTypes": [
+      11
+    ],
+    "bubble": true,
+    "cd": 10.0,
+    "voPlayer": 3,
+    "priority": 3
+  },
+  "TrekkerVersus_difficulty3": {
+    "Id": "TrekkerVersus_difficulty3",
+    "probability": 100,
+    "resType": 4,
+    "worldLevelTypes": [
+      11
+    ],
+    "bubble": true,
+    "cd": 10.0,
+    "voPlayer": 3,
+    "priority": 4
+  },
+  "TrekkerVersus_difficulty4": {
+    "Id": "TrekkerVersus_difficulty4",
+    "probability": 100,
+    "resType": 4,
+    "worldLevelTypes": [
+      11
+    ],
+    "bubble": true,
+    "cd": 10.0,
+    "voPlayer": 3,
+    "priority": 5
+  },
+  "TrekkerVersus_difficulty5": {
+    "Id": "TrekkerVersus_difficulty5",
+    "probability": 100,
+    "resType": 4,
+    "worldLevelTypes": [
+      11
+    ],
+    "bubble": true,
+    "cd": 10.0,
+    "voPlayer": 3,
+    "priority": 6
+  },
+  "TrekkerVersus_clear1": {
+    "Id": "TrekkerVersus_clear1",
+    "probability": 100,
+    "resType": 4,
+    "worldLevelTypes": [
+      11
+    ],
+    "bubble": true,
+    "voPlayer": 3,
+    "priority": 2
+  },
+  "TrekkerVersus_clear2": {
+    "Id": "TrekkerVersus_clear2",
+    "probability": 100,
+    "resType": 4,
+    "worldLevelTypes": [
+      11
+    ],
+    "bubble": true,
+    "voPlayer": 3,
+    "priority": 2
+  },
+  "TrekkerVersus_clear3": {
+    "Id": "TrekkerVersus_clear3",
+    "probability": 100,
+    "resType": 4,
+    "worldLevelTypes": [
+      11
+    ],
+    "bubble": true,
+    "voPlayer": 3,
+    "priority": 2
+  },
+  "TrekkerVersus_clear4": {
+    "Id": "TrekkerVersus_clear4",
+    "probability": 100,
+    "resType": 4,
+    "worldLevelTypes": [
+      11
+    ],
+    "bubble": true,
+    "voPlayer": 3,
+    "priority": 2
+  },
+  "TrekkerVersus_clear5": {
+    "Id": "TrekkerVersus_clear5",
+    "probability": 100,
+    "resType": 4,
+    "worldLevelTypes": [
+      11
+    ],
+    "bubble": true,
+    "voPlayer": 3,
+    "priority": 2
+  },
+  "TrekkerVersus_smallG": {
+    "Id": "TrekkerVersus_smallG",
+    "probability": 100,
+    "resType": 4,
+    "worldLevelTypes": [
+      11
+    ],
+    "bubble": true,
+    "voPlayer": 3,
+    "priority": 2
+  },
+  "TrekkerVersus_normalG": {
+    "Id": "TrekkerVersus_normalG",
+    "probability": 100,
+    "resType": 4,
+    "worldLevelTypes": [
+      11
+    ],
+    "bubble": true,
+    "voPlayer": 3,
+    "priority": 2
+  },
+  "TrekkerVersus_largeG": {
+    "Id": "TrekkerVersus_largeG",
+    "probability": 100,
+    "resType": 4,
+    "worldLevelTypes": [
+      11
+    ],
+    "bubble": true,
+    "voPlayer": 3,
+    "priority": 2
+  },
+  "TrekkerVersus_defeat": {
+    "Id": "TrekkerVersus_defeat",
     "probability": 100,
     "resType": 4,
     "worldLevelTypes": [

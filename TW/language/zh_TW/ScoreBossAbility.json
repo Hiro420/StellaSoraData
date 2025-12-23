@@ -1,4 +1,6 @@
 {
+  "ScoreBossAbility.100000.1": "!NONEED!",
+  "ScoreBossAbility.100000.2": "無",
   "ScoreBossAbility.100001.1": "星脈狂暴",
   "ScoreBossAbility.100001.2": "首領敵人初始擁有1層「狂暴」，且每10秒獲得1層「狂暴」，每層「狂暴」使首領敵人造成的傷害提升<color=#ec6d21>&Param1&</color>，最多疊加5層。\n當己方在2秒內對首領敵人累計造成10次傷害後，可移除首領敵人全部的「狂暴」層數；同時主控角色獲得10層「增幅」，最多疊加10層，主控角色每次造成傷害時，移除1層「增幅」，並使該次傷害提升<color=#ec6d21>&Param2&</color>",
   "ScoreBossAbility.100002.1": "災厄火環",
@@ -6,5 +8,9 @@
   "ScoreBossAbility.100003.1": "淋漓酣戰",
   "ScoreBossAbility.100003.2": "首領每5秒獲得1層「酣戰」,使自身造成的傷害提升<color=#ec6d21>&Param1&</color>，最多疊加5層。\n主控角色觸發「印記」時,移除1層「酣戰」。成功移除「酣戰」時，全隊獲得20點能量，並使首領受到絕招傷害提升<color=#ec6d21>&Param2&</color>，持續10秒，重複觸發重置時間。",
   "ScoreBossAbility.100004.1": "噬心暗環",
-  "ScoreBossAbility.100004.2": "首領擁有「暗環」時，使首領敵人造成的傷害提升<color=#ec6d21>&Param1&</color>，且每5秒產生一道造成傷害的擴散暗環\n己方在3秒內對首領敵人累計造成20次傷害後，可使首領敵人的「暗環」失效15秒，且期間受到援護位角色造成的技能傷害提升<color=#ec6d21>&Param2&</color>"
+  "ScoreBossAbility.100004.2": "首領擁有「暗環」時，使首領敵人造成的傷害提升<color=#ec6d21>&Param1&</color>，且每5秒產生一道造成傷害的擴散暗環\n己方在3秒內對首領敵人累計造成20次傷害後，可使首領敵人的「暗環」失效15秒，且期間受到援護位角色造成的技能傷害提升<color=#ec6d21>&Param2&</color>",
+  "ScoreBossAbility.100005.1": "虛實轉換",
+  "ScoreBossAbility.100005.2": "首領敵人會在【真影狀態】和【幻滅狀態】以<color=#ec6d21>15秒</color>為間隔切換。\n【幻滅狀態】中，首領受到的僕從傷害提升<color=#ec6d21>&Param1&</color>。每造成1次印記觸發都會使目前狀態的持續時間延長<color=#ec6d21>&Param2&</color>秒，每秒最多觸發1次。\n【真影狀態】中，首領受到的技能傷害提升<color=#ec6d21>&Param3&</color>。每造成1次僕從傷害都會使目前狀態的持續時間延長<color=#ec6d21>&Param4&</color>秒，每秒最多觸發1次。",
+  "ScoreBossAbility.100006.1": "引雷入室",
+  "ScoreBossAbility.100006.2": "首領擁有「落雷」時，自身造成的傷害提升<color=#ec6d21>&Param4&</color>，且每3秒額外造成4次小範圍傷害；\n當己方在<color=#ec6d21>&Param1&</color>秒內對首領累計造成<color=#ec6d21>&Param2&</color>次援護角色技能傷害，可使「落雷」失效15秒，期間首領受到援護角色造成的技能傷害提升<color=#ec6d21>&Param3&</color>"
 }

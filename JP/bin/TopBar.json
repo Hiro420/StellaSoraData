@@ -22,7 +22,8 @@
     "Id": "ShopPopupPanel",
     "Title": "TopBar.ShopPopupPanel.1",
     "HideBack": true,
-    "Coin": true
+    "Coin": true,
+    "DelayShow": true
   },
   "DepotPanel": {
     "Id": "DepotPanel",
@@ -130,15 +131,16 @@
     "Id": "MallPopup",
     "Title": "TopBar.MallPopup.1",
     "HideBack": true,
-    "Coin": true
+    "Coin": true,
+    "DelayShow": true
   },
   "CharacterSkinPanel": {
     "Id": "CharacterSkinPanel",
     "Title": "TopBar.CharacterSkinPanel.1"
   },
-  "TravelerDuelLevelSelect": {
-    "Id": "TravelerDuelLevelSelect",
-    "Title": "TopBar.TravelerDuelLevelSelect.1",
+  "TrekkerVersus": {
+    "Id": "TrekkerVersus",
+    "Title": "TopBar.TrekkerVersus.1",
     "EntryId": 200801
   },
   "DailyInstanceLevelSelect": {
@@ -167,7 +169,8 @@
       2,
       3
     ],
-    "HideCoinAdd": true
+    "HideCoinAdd": true,
+    "DelayShow": true
   },
   "GachaPreview": {
     "Id": "GachaPreview",
@@ -177,7 +180,8 @@
     "Id": "Raid",
     "Title": "TopBar.Raid.1",
     "HideBack": true,
-    "Energy": true
+    "Energy": true,
+    "DelayShow": true
   },
   "EnergyBuy": {
     "Id": "EnergyBuy",
@@ -189,7 +193,8 @@
       2,
       3
     ],
-    "HideCoinAdd": true
+    "HideCoinAdd": true,
+    "DelayShow": true
   },
   "Dictionary": {
     "Id": "Dictionary",
@@ -197,7 +202,8 @@
   },
   "DictionaryFR": {
     "Id": "DictionaryFR",
-    "Title": "TopBar.DictionaryFR.1"
+    "Title": "TopBar.DictionaryFR.1",
+    "HideHome": true
   },
   "Crafting": {
     "Id": "Crafting",
@@ -242,7 +248,8 @@
   },
   "DiscSample": {
     "Id": "DiscSample",
-    "Title": "TopBar.DiscSample.1"
+    "Title": "TopBar.DiscSample.1",
+    "HideHome": true
   },
   "Equipment": {
     "Id": "Equipment",
@@ -370,7 +377,8 @@
   },
   "TowerDefenseCharacterDetailPanel": {
     "Id": "TowerDefenseCharacterDetailPanel",
-    "Title": "TopBar.TowerDefenseCharacterDetailPanel.1"
+    "Title": "TopBar.TowerDefenseCharacterDetailPanel.1",
+    "HideHome": true
   },
   "TowerDefenseSelectPanel": {
     "Id": "TowerDefenseSelectPanel",
@@ -386,7 +394,8 @@
   },
   "TrialDepot": {
     "Id": "TrialDepot",
-    "Title": "TopBar.TrialDepot.1"
+    "Title": "TopBar.TrialDepot.1",
+    "HideHome": true
   },
   "ScoreBossRankingPanel": {
     "Id": "ScoreBossRankingPanel",
@@ -425,21 +434,25 @@
   "CharInfoTrial": {
     "Id": "CharInfoTrial",
     "Title": "TopBar.CharInfoTrial.1",
-    "EntryId": 100101
+    "EntryId": 100101,
+    "HideHome": true
   },
   "CharSkillTrial": {
     "Id": "CharSkillTrial",
     "Title": "TopBar.CharSkillTrial.1",
-    "EntryId": 100301
+    "EntryId": 100301,
+    "HideHome": true
   },
   "CharPotentialTrial": {
     "Id": "CharPotentialTrial",
-    "Title": "TopBar.CharPotentialTrial.1"
+    "Title": "TopBar.CharPotentialTrial.1",
+    "HideHome": true
   },
   "CharTalentTrial": {
     "Id": "CharTalentTrial",
     "Title": "TopBar.CharTalentTrial.1",
-    "EntryId": 100601
+    "EntryId": 100601,
+    "HideHome": true
   },
   "SwimShop": {
     "Id": "SwimShop",
@@ -453,7 +466,8 @@
     "Id": "SwimShopPopup",
     "Title": "TopBar.SwimShopPopup.1",
     "HideBack": true,
-    "Coin": true
+    "Coin": true,
+    "DelayShow": true
   },
   "SwimTask": {
     "Id": "SwimTask",
@@ -517,7 +531,8 @@
     "Id": "ShopPopup_10101",
     "Title": "TopBar.ShopPopup_10101.1",
     "HideBack": true,
-    "Coin": true
+    "Coin": true,
+    "DelayShow": true
   },
   "Shop_10102": {
     "Id": "Shop_10102",
@@ -528,7 +543,8 @@
     "Id": "ShopPopup_10102",
     "Title": "TopBar.ShopPopup_10102.1",
     "HideBack": true,
-    "Coin": true
+    "Coin": true,
+    "DelayShow": true
   },
   "ActivityLevelsSelectPanel_10101": {
     "Id": "ActivityLevelsSelectPanel_10101",
@@ -564,10 +580,6 @@
     "Id": "BdConvertBuildDetail",
     "Title": "TopBar.BdConvertBuildDetail.1"
   },
-  "BdConvertBuildPanel": {
-    "Id": "BdConvertBuildPanel",
-    "Title": "TopBar.BdConvertBuildPanel.1"
-  },
   "MiningGame_400002": {
     "Id": "MiningGame_400002",
     "Title": "TopBar.MiningGame_400002.1",
@@ -576,5 +588,117 @@
   "MiningGameGuidePanel_400002": {
     "Id": "MiningGameGuidePanel_400002",
     "Title": "TopBar.MiningGameGuidePanel_400002.1"
+  },
+  "Shop_30101": {
+    "Id": "Shop_30101",
+    "Title": "TopBar.Shop_30101.1",
+    "Coin": true
+  },
+  "ShopPopup_30101": {
+    "Id": "ShopPopup_30101",
+    "Title": "TopBar.ShopPopup_30101.1",
+    "HideBack": true,
+    "Coin": true,
+    "DelayShow": true
+  },
+  "BreakOutThemePanel": {
+    "Id": "BreakOutThemePanel",
+    "Title": "TopBar.BreakOutThemePanel.1",
+    "Coin": true
+  },
+  "Task_30101": {
+    "Id": "Task_30101",
+    "Title": "TopBar.Task_30101.1",
+    "Coin": true,
+    "CoinIds": [
+      73103
+    ]
+  },
+  "QuestNewbie": {
+    "Id": "QuestNewbie",
+    "Title": "TopBar.QuestNewbie.1"
+  },
+  "BreakOutLevelDetailPanel": {
+    "Id": "BreakOutLevelDetailPanel",
+    "Title": "TopBar.BreakOutLevelDetailPanel.1"
+  },
+  "StarTowerBuildDetailPreview": {
+    "Id": "StarTowerBuildDetailPreview",
+    "Title": "TopBar.StarTowerBuildDetailPreview.1"
+  },
+  "Shop_10103": {
+    "Id": "Shop_10103",
+    "Title": "TopBar.Shop_10103.1",
+    "Coin": true
+  },
+  "ShopPopup_10103": {
+    "Id": "ShopPopup_10103",
+    "Title": "TopBar.ShopPopup_10103.1",
+    "HideBack": true,
+    "Coin": true,
+    "DelayShow": true
+  },
+  "Task_10103": {
+    "Id": "Task_10103",
+    "Title": "TopBar.Task_10103.1",
+    "Coin": true,
+    "CoinIds": [
+      73105
+    ]
+  },
+  "Shop_20101": {
+    "Id": "Shop_20101",
+    "Title": "TopBar.Shop_20101.1",
+    "Coin": true
+  },
+  "ShopPopup_20101": {
+    "Id": "ShopPopup_20101",
+    "Title": "TopBar.ShopPopup_20101.1",
+    "HideBack": true,
+    "Coin": true,
+    "DelayShow": true
+  },
+  "Task_20101": {
+    "Id": "Task_20101",
+    "Title": "TopBar.Task_20101.1",
+    "Coin": true,
+    "CoinIds": [
+      73104
+    ]
+  },
+  "ChristmasThemePanel": {
+    "Id": "ChristmasThemePanel",
+    "Title": "TopBar.ChristmasThemePanel.1",
+    "Coin": true,
+    "CoinIds": [
+      73104
+    ]
+  },
+  "ActivityStory_20101": {
+    "Id": "ActivityStory_20101",
+    "Title": "TopBar.ActivityStory_20101.1"
+  },
+  "CookieBoardPanel_400004": {
+    "Id": "CookieBoardPanel_400004",
+    "Title": "TopBar.CookieBoardPanel_400004.1"
+  },
+  "CookieGamePanel_400004": {
+    "Id": "CookieGamePanel_400004",
+    "Title": "TopBar.CookieGamePanel_400004.1",
+    "EntryId": 400301,
+    "Coin": true,
+    "CoinIds": [
+      73104
+    ]
+  },
+  "ActivityLevelsSelectPanel_10103": {
+    "Id": "ActivityLevelsSelectPanel_10103",
+    "Title": "TopBar.ActivityLevelsSelectPanel_10103.1",
+    "Energy": true
+  },
+  "ActivityLevelsSelectPanel_20101": {
+    "Id": "ActivityLevelsSelectPanel_20101",
+    "Title": "TopBar.ActivityLevelsSelectPanel_20101.1",
+    "Energy": true
   }
 }

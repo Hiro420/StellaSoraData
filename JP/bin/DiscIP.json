@@ -1187,5 +1187,43 @@
     "VoName2": "DiscIP.214040.2",
     "StoryName": "DiscIP.214040.3",
     "StoryDesc": "DiscIP.214040.4"
+  },
+  "214041": {
+    "Id": 214041,
+    "VoFile": "outfit_4041",
+    "VoLoop1": 111.91,
+    "VoName1": "DiscIP.214041.1",
+    "VoBegin2": 25.25,
+    "VoLoop2": 24.5,
+    "VoName2": "DiscIP.214041.2",
+    "StoryName": "DiscIP.214041.3",
+    "StoryDesc": "DiscIP.214041.4"
+  },
+  "214043": {
+    "Id": 214043,
+    "VoFile": "outfit_4043",
+    "VoBegin1": 15.0,
+    "VoLoop1": 75.0,
+    "VoName1": "DiscIP.214043.1",
+    "VoBegin2": 15.0,
+    "VoLoop2": 21.0,
+    "VoName2": "DiscIP.214043.2",
+    "StoryName": "DiscIP.214043.3",
+    "StoryDesc": "DiscIP.214043.4",
+    "CharId": [
+      110
+    ]
+  },
+  "214048": {
+    "Id": 214048,
+    "VoFile": "outfit_4048",
+    "VoLoop1": 151.158,
+    "VoName1": "DiscIP.214048.1",
+    "VoBegin2": 13.0,
+    "VoLoop2": 10.0,
+    "VoName2": "DiscIP.214048.2",
+    "AvgId": "CG_disc4048",
+    "StoryName": "DiscIP.214048.3",
+    "StoryDesc": "DiscIP.214048.4"
   }
 }

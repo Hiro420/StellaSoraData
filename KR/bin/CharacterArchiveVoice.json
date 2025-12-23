@@ -19492,5 +19492,727 @@
     "Source": "catchphrase_5",
     "ArchVoiceType": 1,
     "Sort": 89
+  },
+  "158001": {
+    "Id": 158001,
+    "CharacterId": 158,
+    "Title": "CharacterArchiveVoice.158001.1",
+    "Source": "ultskill_1",
+    "ArchVoiceType": 2,
+    "Sort": 1
+  },
+  "158002": {
+    "Id": 158002,
+    "CharacterId": 158,
+    "Title": "CharacterArchiveVoice.158002.1",
+    "Source": "ultskill_2",
+    "ArchVoiceType": 2,
+    "Sort": 2
+  },
+  "158003": {
+    "Id": 158003,
+    "CharacterId": 158,
+    "Title": "CharacterArchiveVoice.158003.1",
+    "Source": "dead_1",
+    "ArchVoiceType": 2,
+    "Sort": 3
+  },
+  "158004": {
+    "Id": 158004,
+    "CharacterId": 158,
+    "Title": "CharacterArchiveVoice.158004.1",
+    "Source": "dead_2",
+    "ArchVoiceType": 2,
+    "Sort": 4
+  },
+  "158005": {
+    "Id": 158005,
+    "CharacterId": 158,
+    "Title": "CharacterArchiveVoice.158005.1",
+    "Source": "perk_1",
+    "ArchVoiceType": 2,
+    "Sort": 5
+  },
+  "158006": {
+    "Id": 158006,
+    "CharacterId": 158,
+    "Title": "CharacterArchiveVoice.158006.1",
+    "Source": "perk_2",
+    "ArchVoiceType": 2,
+    "Sort": 6
+  },
+  "158007": {
+    "Id": 158007,
+    "CharacterId": 158,
+    "Title": "CharacterArchiveVoice.158007.1",
+    "Source": "perk_3",
+    "ArchVoiceType": 2,
+    "Sort": 7
+  },
+  "158008": {
+    "Id": 158008,
+    "CharacterId": 158,
+    "Title": "CharacterArchiveVoice.158008.1",
+    "Source": "subPerk_1",
+    "ArchVoiceType": 2,
+    "Sort": 8
+  },
+  "158009": {
+    "Id": 158009,
+    "CharacterId": 158,
+    "Title": "CharacterArchiveVoice.158009.1",
+    "Source": "subPerk_2",
+    "ArchVoiceType": 2,
+    "Sort": 9
+  },
+  "158010": {
+    "Id": 158010,
+    "CharacterId": 158,
+    "Title": "CharacterArchiveVoice.158010.1",
+    "Source": "chat_1",
+    "ArchVoiceType": 2,
+    "Sort": 10
+  },
+  "158011": {
+    "Id": 158011,
+    "CharacterId": 158,
+    "Title": "CharacterArchiveVoice.158011.1",
+    "Source": "chat_2",
+    "ArchVoiceType": 2,
+    "Sort": 11
+  },
+  "158012": {
+    "Id": 158012,
+    "CharacterId": 158,
+    "Title": "CharacterArchiveVoice.158012.1",
+    "Source": "chat_3",
+    "ArchVoiceType": 2,
+    "Sort": 12
+  },
+  "158013": {
+    "Id": 158013,
+    "CharacterId": 158,
+    "Title": "CharacterArchiveVoice.158013.1",
+    "Source": "chat_4",
+    "ArchVoiceType": 2,
+    "Sort": 13
+  },
+  "158014": {
+    "Id": 158014,
+    "CharacterId": 158,
+    "Title": "CharacterArchiveVoice.158014.1",
+    "Source": "chat_5",
+    "ArchVoiceType": 2,
+    "Sort": 14
+  },
+  "158015": {
+    "Id": 158015,
+    "CharacterId": 158,
+    "Title": "CharacterArchiveVoice.158015.1",
+    "Source": "chatLvUp_1",
+    "ArchVoiceType": 2,
+    "Sort": 15
+  },
+  "158016": {
+    "Id": 158016,
+    "CharacterId": 158,
+    "Title": "CharacterArchiveVoice.158016.1",
+    "Source": "chatNext_1",
+    "ArchVoiceType": 2,
+    "Sort": 16
+  },
+  "158017": {
+    "Id": 158017,
+    "CharacterId": 158,
+    "Title": "CharacterArchiveVoice.158017.1",
+    "Source": "shopRoom_1",
+    "ArchVoiceType": 2,
+    "Sort": 17
+  },
+  "158018": {
+    "Id": 158018,
+    "CharacterId": 158,
+    "Title": "CharacterArchiveVoice.158018.1",
+    "Source": "restRoom_1",
+    "ArchVoiceType": 2,
+    "Sort": 18
+  },
+  "158019": {
+    "Id": 158019,
+    "CharacterId": 158,
+    "Title": "CharacterArchiveVoice.158019.1",
+    "Source": "eventRoom_1",
+    "ArchVoiceType": 2,
+    "Sort": 19
+  },
+  "158020": {
+    "Id": 158020,
+    "CharacterId": 158,
+    "Title": "CharacterArchiveVoice.158020.1",
+    "Source": "battleClear_1",
+    "ArchVoiceType": 2,
+    "Sort": 20
+  },
+  "158021": {
+    "Id": 158021,
+    "CharacterId": 158,
+    "Title": "CharacterArchiveVoice.158021.1",
+    "Source": "battleClear_2",
+    "ArchVoiceType": 2,
+    "Sort": 21
+  },
+  "158022": {
+    "Id": 158022,
+    "CharacterId": 158,
+    "Title": "CharacterArchiveVoice.158022.1",
+    "Source": "battleClear_3",
+    "ArchVoiceType": 2,
+    "Sort": 22
+  },
+  "158023": {
+    "Id": 158023,
+    "CharacterId": 158,
+    "Title": "CharacterArchiveVoice.158023.1",
+    "Source": "greet_1",
+    "ArchVoiceType": 1,
+    "Sort": 23
+  },
+  "158024": {
+    "Id": 158024,
+    "CharacterId": 158,
+    "Title": "CharacterArchiveVoice.158024.1",
+    "Source": "greet_2",
+    "ArchVoiceType": 1,
+    "Sort": 24
+  },
+  "158025": {
+    "Id": 158025,
+    "CharacterId": 158,
+    "Title": "CharacterArchiveVoice.158025.1",
+    "Source": "greetmorn_1",
+    "ArchVoiceType": 1,
+    "Sort": 25
+  },
+  "158026": {
+    "Id": 158026,
+    "CharacterId": 158,
+    "Title": "CharacterArchiveVoice.158026.1",
+    "Source": "greetnoon_1",
+    "ArchVoiceType": 1,
+    "Sort": 26
+  },
+  "158027": {
+    "Id": 158027,
+    "CharacterId": 158,
+    "Title": "CharacterArchiveVoice.158027.1",
+    "Source": "greetnight_1",
+    "ArchVoiceType": 1,
+    "Sort": 27
+  },
+  "158028": {
+    "Id": 158028,
+    "CharacterId": 158,
+    "Title": "CharacterArchiveVoice.158028.1",
+    "Source": "standee_1",
+    "ArchVoiceType": 1,
+    "Sort": 28
+  },
+  "158029": {
+    "Id": 158029,
+    "CharacterId": 158,
+    "Title": "CharacterArchiveVoice.158029.1",
+    "Source": "standee_2",
+    "ArchVoiceType": 1,
+    "Sort": 29
+  },
+  "158030": {
+    "Id": 158030,
+    "CharacterId": 158,
+    "Title": "CharacterArchiveVoice.158030.1",
+    "Source": "fullscreen_1",
+    "ArchVoiceType": 1,
+    "Sort": 30
+  },
+  "158031": {
+    "Id": 158031,
+    "CharacterId": 158,
+    "Title": "CharacterArchiveVoice.158031.1",
+    "Source": "fullscreen_2",
+    "ArchVoiceType": 1,
+    "Sort": 31
+  },
+  "158032": {
+    "Id": 158032,
+    "CharacterId": 158,
+    "Title": "CharacterArchiveVoice.158032.1",
+    "Source": "posterchat_1",
+    "ArchVoiceType": 1,
+    "Sort": 32
+  },
+  "158033": {
+    "Id": 158033,
+    "CharacterId": 158,
+    "Title": "CharacterArchiveVoice.158033.1",
+    "Source": "posterchat_2",
+    "ArchVoiceType": 1,
+    "Sort": 33
+  },
+  "158034": {
+    "Id": 158034,
+    "CharacterId": 158,
+    "Title": "CharacterArchiveVoice.158034.1",
+    "Source": "posterchat_3",
+    "ArchVoiceType": 1,
+    "Sort": 34
+  },
+  "158035": {
+    "Id": 158035,
+    "CharacterId": 158,
+    "Title": "CharacterArchiveVoice.158035.1",
+    "Source": "posterchat_4",
+    "ArchVoiceType": 1,
+    "Sort": 35
+  },
+  "158036": {
+    "Id": 158036,
+    "CharacterId": 158,
+    "Title": "CharacterArchiveVoice.158036.1",
+    "Source": "posterchat_5",
+    "ArchVoiceType": 1,
+    "Sort": 36
+  },
+  "158037": {
+    "Id": 158037,
+    "CharacterId": 158,
+    "Title": "CharacterArchiveVoice.158037.1",
+    "Source": "posterchat_6",
+    "ArchVoiceType": 1,
+    "Sort": 37
+  },
+  "158038": {
+    "Id": 158038,
+    "CharacterId": 158,
+    "UnlockAffinityLevel": 10,
+    "Title": "CharacterArchiveVoice.158038.1",
+    "Source": "affchat1_1",
+    "ArchVoiceType": 1,
+    "Sort": 38
+  },
+  "158039": {
+    "Id": 158039,
+    "CharacterId": 158,
+    "UnlockAffinityLevel": 15,
+    "Title": "CharacterArchiveVoice.158039.1",
+    "Source": "affchat2_1",
+    "ArchVoiceType": 1,
+    "Sort": 39
+  },
+  "158040": {
+    "Id": 158040,
+    "CharacterId": 158,
+    "UnlockAffinityLevel": 20,
+    "Title": "CharacterArchiveVoice.158040.1",
+    "Source": "affchat3_1",
+    "ArchVoiceType": 1,
+    "Sort": 40
+  },
+  "158041": {
+    "Id": 158041,
+    "CharacterId": 158,
+    "UnlockAffinityLevel": 25,
+    "Title": "CharacterArchiveVoice.158041.1",
+    "Source": "affchat4_1",
+    "ArchVoiceType": 1,
+    "Sort": 41
+  },
+  "158042": {
+    "Id": 158042,
+    "CharacterId": 158,
+    "UnlockAffinityLevel": 30,
+    "Title": "CharacterArchiveVoice.158042.1",
+    "Source": "affchat5_1",
+    "ArchVoiceType": 1,
+    "Sort": 42
+  },
+  "158043": {
+    "Id": 158043,
+    "CharacterId": 158,
+    "Title": "CharacterArchiveVoice.158043.1",
+    "Source": "posterchat_7",
+    "ArchVoiceType": 1,
+    "Sort": 43
+  },
+  "158044": {
+    "Id": 158044,
+    "CharacterId": 158,
+    "Title": "CharacterArchiveVoice.158044.1",
+    "Source": "posterchat_8",
+    "ArchVoiceType": 1,
+    "Sort": 44
+  },
+  "158045": {
+    "Id": 158045,
+    "CharacterId": 158,
+    "Title": "CharacterArchiveVoice.158045.1",
+    "Source": "posterchat_9",
+    "ArchVoiceType": 1,
+    "Sort": 45
+  },
+  "158046": {
+    "Id": 158046,
+    "CharacterId": 158,
+    "Title": "CharacterArchiveVoice.158046.1",
+    "Source": "posterchat_10",
+    "ArchVoiceType": 1,
+    "Sort": 46
+  },
+  "158047": {
+    "Id": 158047,
+    "CharacterId": 158,
+    "Title": "CharacterArchiveVoice.158047.1",
+    "Source": "posterchat_11",
+    "ArchVoiceType": 1,
+    "Sort": 47
+  },
+  "158048": {
+    "Id": 158048,
+    "CharacterId": 158,
+    "Title": "CharacterArchiveVoice.158048.1",
+    "Source": "hfc_1",
+    "ArchVoiceType": 1,
+    "Sort": 48
+  },
+  "158049": {
+    "Id": 158049,
+    "CharacterId": 158,
+    "Title": "CharacterArchiveVoice.158049.1",
+    "Source": "hfc_2",
+    "ArchVoiceType": 1,
+    "Sort": 49
+  },
+  "158050": {
+    "Id": 158050,
+    "CharacterId": 158,
+    "Title": "CharacterArchiveVoice.158050.1",
+    "Source": "hang_1",
+    "ArchVoiceType": 1,
+    "Sort": 50
+  },
+  "158051": {
+    "Id": 158051,
+    "CharacterId": 158,
+    "Title": "CharacterArchiveVoice.158051.1",
+    "Source": "hang_2",
+    "ArchVoiceType": 1,
+    "Sort": 51
+  },
+  "158052": {
+    "Id": 158052,
+    "CharacterId": 158,
+    "Title": "CharacterArchiveVoice.158052.1",
+    "Source": "exhang_1",
+    "ArchVoiceType": 1,
+    "Sort": 52
+  },
+  "158053": {
+    "Id": 158053,
+    "CharacterId": 158,
+    "Title": "CharacterArchiveVoice.158053.1",
+    "Source": "gachaNew_1",
+    "ArchVoiceType": 1,
+    "Sort": 53
+  },
+  "158054": {
+    "Id": 158054,
+    "CharacterId": 158,
+    "Title": "CharacterArchiveVoice.158054.1",
+    "Source": "gacha_1",
+    "ArchVoiceType": 1,
+    "Sort": 54
+  },
+  "158055": {
+    "Id": 158055,
+    "CharacterId": 158,
+    "Title": "CharacterArchiveVoice.158055.1",
+    "Source": "win_1",
+    "ArchVoiceType": 2,
+    "Sort": 55
+  },
+  "158056": {
+    "Id": 158056,
+    "CharacterId": 158,
+    "Title": "CharacterArchiveVoice.158056.1",
+    "Source": "win_2",
+    "ArchVoiceType": 2,
+    "Sort": 56
+  },
+  "158057": {
+    "Id": 158057,
+    "CharacterId": 158,
+    "Title": "CharacterArchiveVoice.158057.1",
+    "Source": "lose_1",
+    "ArchVoiceType": 2,
+    "Sort": 57
+  },
+  "158058": {
+    "Id": 158058,
+    "CharacterId": 158,
+    "Title": "CharacterArchiveVoice.158058.1",
+    "Source": "lose_2",
+    "ArchVoiceType": 2,
+    "Sort": 58
+  },
+  "158059": {
+    "Id": 158059,
+    "CharacterId": 158,
+    "Title": "CharacterArchiveVoice.158059.1",
+    "Source": "charUp_1",
+    "ArchVoiceType": 1,
+    "Sort": 59
+  },
+  "158060": {
+    "Id": 158060,
+    "CharacterId": 158,
+    "Title": "CharacterArchiveVoice.158060.1",
+    "Source": "exCharUp_1",
+    "ArchVoiceType": 1,
+    "Sort": 60
+  },
+  "158061": {
+    "Id": 158061,
+    "CharacterId": 158,
+    "Title": "CharacterArchiveVoice.158061.1",
+    "Source": "music_1",
+    "ArchVoiceType": 1,
+    "Sort": 61
+  },
+  "158062": {
+    "Id": 158062,
+    "CharacterId": 158,
+    "Title": "CharacterArchiveVoice.158062.1",
+    "Source": "uniMusic_1",
+    "ArchVoiceType": 1,
+    "Sort": 62
+  },
+  "158063": {
+    "Id": 158063,
+    "CharacterId": 158,
+    "Title": "CharacterArchiveVoice.158063.1",
+    "Source": "unlockLook_1",
+    "ArchVoiceType": 1,
+    "Sort": 63
+  },
+  "158064": {
+    "Id": 158064,
+    "CharacterId": 158,
+    "UnlockPlot": 15803,
+    "Title": "CharacterArchiveVoice.158064.1",
+    "Source": "unlockCG_1",
+    "ArchVoiceType": 1,
+    "Sort": 64
+  },
+  "158065": {
+    "Id": 158065,
+    "CharacterId": 158,
+    "Title": "CharacterArchiveVoice.158065.1",
+    "Source": "swap_1",
+    "ArchVoiceType": 2,
+    "Sort": 65
+  },
+  "158066": {
+    "Id": 158066,
+    "CharacterId": 158,
+    "Title": "CharacterArchiveVoice.158066.1",
+    "Source": "swap_2",
+    "ArchVoiceType": 2,
+    "Sort": 66
+  },
+  "158067": {
+    "Id": 158067,
+    "CharacterId": 158,
+    "Title": "CharacterArchiveVoice.158067.1",
+    "Source": "swap_3",
+    "ArchVoiceType": 2,
+    "Sort": 67
+  },
+  "158068": {
+    "Id": 158068,
+    "CharacterId": 158,
+    "Title": "CharacterArchiveVoice.158068.1",
+    "Source": "swap_4",
+    "ArchVoiceType": 2,
+    "Sort": 68
+  },
+  "158069": {
+    "Id": 158069,
+    "CharacterId": 158,
+    "UnlockAffinityLevel": 10,
+    "Title": "CharacterArchiveVoice.158069.1",
+    "Source": "afflv1_1",
+    "ArchVoiceType": 1,
+    "Sort": 69
+  },
+  "158070": {
+    "Id": 158070,
+    "CharacterId": 158,
+    "UnlockAffinityLevel": 15,
+    "Title": "CharacterArchiveVoice.158070.1",
+    "Source": "afflv2_1",
+    "ArchVoiceType": 1,
+    "Sort": 70
+  },
+  "158071": {
+    "Id": 158071,
+    "CharacterId": 158,
+    "UnlockAffinityLevel": 25,
+    "Title": "CharacterArchiveVoice.158071.1",
+    "Source": "afflv3_1",
+    "ArchVoiceType": 1,
+    "Sort": 71
+  },
+  "158072": {
+    "Id": 158072,
+    "CharacterId": 158,
+    "UnlockAffinityLevel": 30,
+    "Title": "CharacterArchiveVoice.158072.1",
+    "Source": "afflv4_1",
+    "ArchVoiceType": 1,
+    "Sort": 72
+  },
+  "158073": {
+    "Id": 158073,
+    "CharacterId": 158,
+    "Title": "CharacterArchiveVoice.158073.1",
+    "Source": "thankSmall_1",
+    "ArchVoiceType": 1,
+    "Sort": 73
+  },
+  "158074": {
+    "Id": 158074,
+    "CharacterId": 158,
+    "Title": "CharacterArchiveVoice.158074.1",
+    "Source": "thank_1",
+    "ArchVoiceType": 1,
+    "Sort": 74
+  },
+  "158075": {
+    "Id": 158075,
+    "CharacterId": 158,
+    "Title": "CharacterArchiveVoice.158075.1",
+    "Source": "thankEx_1",
+    "ArchVoiceType": 1,
+    "Sort": 75
+  },
+  "158076": {
+    "Id": 158076,
+    "CharacterId": 158,
+    "Title": "CharacterArchiveVoice.158076.1",
+    "Source": "confirm_1",
+    "ArchVoiceType": 1,
+    "Sort": 76
+  },
+  "158077": {
+    "Id": 158077,
+    "CharacterId": 158,
+    "Title": "CharacterArchiveVoice.158077.1",
+    "Source": "deny_1",
+    "ArchVoiceType": 1,
+    "Sort": 77
+  },
+  "158078": {
+    "Id": 158078,
+    "CharacterId": 158,
+    "Title": "CharacterArchiveVoice.158078.1",
+    "Source": "question_1",
+    "ArchVoiceType": 1,
+    "Sort": 78
+  },
+  "158079": {
+    "Id": 158079,
+    "CharacterId": 158,
+    "Title": "CharacterArchiveVoice.158079.1",
+    "Source": "confuse_1",
+    "ArchVoiceType": 1,
+    "Sort": 79
+  },
+  "158080": {
+    "Id": 158080,
+    "CharacterId": 158,
+    "Title": "CharacterArchiveVoice.158080.1",
+    "Source": "sad_1",
+    "ArchVoiceType": 1,
+    "Sort": 80
+  },
+  "158081": {
+    "Id": 158081,
+    "CharacterId": 158,
+    "Title": "CharacterArchiveVoice.158081.1",
+    "Source": "excit_1",
+    "ArchVoiceType": 1,
+    "Sort": 81
+  },
+  "158082": {
+    "Id": 158082,
+    "CharacterId": 158,
+    "Title": "CharacterArchiveVoice.158082.1",
+    "Source": "angry_1",
+    "ArchVoiceType": 1,
+    "Sort": 82
+  },
+  "158083": {
+    "Id": 158083,
+    "CharacterId": 158,
+    "Title": "CharacterArchiveVoice.158083.1",
+    "Source": "happy_1",
+    "ArchVoiceType": 1,
+    "Sort": 83
+  },
+  "158084": {
+    "Id": 158084,
+    "CharacterId": 158,
+    "Title": "CharacterArchiveVoice.158084.1",
+    "Source": "sigh_1",
+    "ArchVoiceType": 1,
+    "Sort": 84
+  },
+  "158085": {
+    "Id": 158085,
+    "CharacterId": 158,
+    "Title": "CharacterArchiveVoice.158085.1",
+    "Source": "catchphrase_1",
+    "ArchVoiceType": 1,
+    "Sort": 85
+  },
+  "158086": {
+    "Id": 158086,
+    "CharacterId": 158,
+    "Title": "CharacterArchiveVoice.158086.1",
+    "Source": "catchphrase_2",
+    "ArchVoiceType": 1,
+    "Sort": 86
+  },
+  "158087": {
+    "Id": 158087,
+    "CharacterId": 158,
+    "Title": "CharacterArchiveVoice.158087.1",
+    "Source": "catchphrase_3",
+    "ArchVoiceType": 1,
+    "Sort": 87
+  },
+  "158088": {
+    "Id": 158088,
+    "CharacterId": 158,
+    "Title": "CharacterArchiveVoice.158088.1",
+    "Source": "catchphrase_4",
+    "ArchVoiceType": 1,
+    "Sort": 88
+  },
+  "158089": {
+    "Id": 158089,
+    "CharacterId": 158,
+    "Title": "CharacterArchiveVoice.158089.1",
+    "Source": "catchphrase_5",
+    "ArchVoiceType": 1,
+    "Sort": 89
   }
 }

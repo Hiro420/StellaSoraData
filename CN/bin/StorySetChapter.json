@@ -48,7 +48,6 @@
     "Name": "StorySetChapter.1005.2",
     "LockText": "StorySetChapter.1005.3",
     "IsShow": true,
-    "IsHighLight": true,
     "Icon": "ep_sidestory05_icon",
     "Image": "ep_sidestory05_image",
     "Bg": "ep_sidestory05_bg"
@@ -60,9 +59,20 @@
     "Name": "StorySetChapter.1006.2",
     "LockText": "StorySetChapter.1006.3",
     "IsShow": true,
-    "IsHighLight": true,
     "Icon": "ep_sidestory06_icon",
     "Image": "ep_sidestory06_image",
     "Bg": "ep_sidestory06_bg"
+  },
+  "1007": {
+    "Id": 1007,
+    "OpenTime": "2025-12-30T12:00:00+08:00",
+    "Title": "StorySetChapter.1007.1",
+    "Name": "StorySetChapter.1007.2",
+    "LockText": "StorySetChapter.1007.3",
+    "IsShow": true,
+    "IsHighLight": true,
+    "Icon": "ep_sidestory07_icon",
+    "Image": "ep_sidestory07_image",
+    "Bg": "ep_sidestory07_bg"
   }
 }

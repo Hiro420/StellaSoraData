@@ -510,5 +510,264 @@
     "StoryId_a": [
       "BAm04_09"
     ]
+  },
+  "501": {
+    "Id": 501,
+    "ConditionId": "C05_00",
+    "StoryId_a": [
+      "STm05_00"
+    ]
+  },
+  "502": {
+    "Id": 502,
+    "ConditionId": "C05_01",
+    "StoryId_a": [
+      "STm05_01"
+    ]
+  },
+  "503": {
+    "Id": 503,
+    "ConditionId": "C05_02",
+    "StoryId_a": [
+      "STm05_02"
+    ]
+  },
+  "504": {
+    "Id": 504,
+    "ConditionId": "C05_02_a",
+    "EvIds_a": [
+      "E501"
+    ],
+    "StoryId_a": [
+      "STm05_02"
+    ]
+  },
+  "505": {
+    "Id": 505,
+    "ConditionId": "C05_02_b",
+    "EvIds_a": [
+      "E502"
+    ],
+    "StoryId_a": [
+      "STm05_02"
+    ]
+  },
+  "506": {
+    "Id": 506,
+    "ConditionId": "C05_02_c",
+    "EvIds_a": [
+      "E503"
+    ],
+    "StoryId_a": [
+      "STm05_02"
+    ]
+  },
+  "507": {
+    "Id": 507,
+    "ConditionId": "C05_03",
+    "StoryId_b": [
+      "STm05_03_a",
+      "STm05_03_b",
+      "STm05_03_c"
+    ]
+  },
+  "508": {
+    "Id": 508,
+    "ConditionId": "C05_03_a_1",
+    "EvIds_a": [
+      "E501"
+    ],
+    "StoryId_a": [
+      "STm05_03_a"
+    ]
+  },
+  "509": {
+    "Id": 509,
+    "ConditionId": "C05_03_b_1",
+    "EvIds_a": [
+      "E502"
+    ],
+    "StoryId_a": [
+      "STm05_03_a"
+    ]
+  },
+  "510": {
+    "Id": 510,
+    "ConditionId": "C05_03_c_1",
+    "EvIds_a": [
+      "E503"
+    ],
+    "StoryId_a": [
+      "STm05_03_a"
+    ]
+  },
+  "511": {
+    "Id": 511,
+    "ConditionId": "C05_03_a_2",
+    "EvIds_a": [
+      "E501"
+    ],
+    "StoryId_a": [
+      "STm05_03_b"
+    ]
+  },
+  "512": {
+    "Id": 512,
+    "ConditionId": "C05_03_b_2",
+    "EvIds_a": [
+      "E502"
+    ],
+    "StoryId_a": [
+      "STm05_03_b"
+    ]
+  },
+  "513": {
+    "Id": 513,
+    "ConditionId": "C05_03_c_2",
+    "EvIds_a": [
+      "E503"
+    ],
+    "StoryId_a": [
+      "STm05_03_b"
+    ]
+  },
+  "514": {
+    "Id": 514,
+    "ConditionId": "C05_03_a_3",
+    "EvIds_a": [
+      "E501"
+    ],
+    "StoryId_a": [
+      "STm05_03_c"
+    ]
+  },
+  "515": {
+    "Id": 515,
+    "ConditionId": "C05_03_b_3",
+    "EvIds_a": [
+      "E502"
+    ],
+    "StoryId_a": [
+      "STm05_03_c"
+    ]
+  },
+  "516": {
+    "Id": 516,
+    "ConditionId": "C05_03_c_3",
+    "EvIds_a": [
+      "E503"
+    ],
+    "StoryId_a": [
+      "STm05_03_c"
+    ]
+  },
+  "517": {
+    "Id": 517,
+    "ConditionId": "C05_04",
+    "StoryId_a": [
+      "STm05_04"
+    ]
+  },
+  "518": {
+    "Id": 518,
+    "ConditionId": "C05_05",
+    "StoryId_a": [
+      "STm05_05"
+    ]
+  },
+  "519": {
+    "Id": 519,
+    "ConditionId": "C05_06",
+    "StoryId_a": [
+      "STm05_06"
+    ]
+  },
+  "520": {
+    "Id": 520,
+    "ConditionId": "C05_07",
+    "StoryId_a": [
+      "STm05_07"
+    ]
+  },
+  "521": {
+    "Id": 521,
+    "ConditionId": "C05_08",
+    "StoryId_a": [
+      "STm05_08"
+    ]
+  },
+  "522": {
+    "Id": 522,
+    "ConditionId": "C05_08_a",
+    "EvIds_a": [
+      "E504"
+    ],
+    "StoryId_a": [
+      "STm05_08"
+    ]
+  },
+  "523": {
+    "Id": 523,
+    "ConditionId": "C05_08_b",
+    "EvIds_a": [
+      "E505"
+    ],
+    "StoryId_a": [
+      "STm05_08"
+    ]
+  },
+  "524": {
+    "Id": 524,
+    "ConditionId": "C05_08_c",
+    "EvIds_a": [
+      "E506"
+    ],
+    "StoryId_a": [
+      "STm05_08"
+    ]
+  },
+  "525": {
+    "Id": 525,
+    "ConditionId": "C05_09",
+    "StoryId_b": [
+      "STm05_09_a",
+      "STm05_09_b",
+      "STm05_09_c"
+    ]
+  },
+  "526": {
+    "Id": 526,
+    "ConditionId": "C05_10",
+    "StoryId_a": [
+      "STm05_10"
+    ]
+  },
+  "527": {
+    "Id": 527,
+    "ConditionId": "C05_11",
+    "StoryId_a": [
+      "STm05_11"
+    ]
+  },
+  "528": {
+    "Id": 528,
+    "ConditionId": "CBA05_05",
+    "StoryId_a": [
+      "BAm05_05"
+    ]
+  },
+  "529": {
+    "Id": 529,
+    "ConditionId": "CBA05_08",
+    "StoryId_a": [
+      "BAm05_08"
+    ]
+  },
+  "530": {
+    "Id": 530,
+    "ConditionId": "CBA05_10",
+    "StoryId_a": [
+      "BAm05_10"
+    ]
   }
 }

@@ -345,7 +345,7 @@
     "Id": 43,
     "GuideDetectionType": 1,
     "GuidePrepose": 1,
-    "PreposeParams": "[44]",
+    "PreposeParams": "[52]",
     "GuidePrepose2": 2,
     "PreposeParams2": "[5]",
     "GuideTrigger": 3,
@@ -426,6 +426,18 @@
     "GuidePrepose2": 2,
     "PreposeParams2": "[3]",
     "ScriptPath": "GuideGroup_51",
+    "IsActive": true
+  },
+  "52": {
+    "Id": 52,
+    "GuideDetectionType": 1,
+    "GuidePrepose": 1,
+    "PreposeParams": "[44]",
+    "GuidePrepose2": 2,
+    "PreposeParams2": "[4]",
+    "GuideTrigger": 3,
+    "TriggerParams": "[10]",
+    "ScriptPath": "GuideGroup_52",
     "IsActive": true
   },
   "101": {

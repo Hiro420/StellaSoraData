@@ -999,12 +999,11 @@
     "Rate": 10000,
     "CD": 120000,
     "InitialCDPool": [
+      0,
       20000,
       30000,
-      40000,
-      50000
+      40000
     ],
-    "StartCDTime": 15000,
     "ReleaseDistance": 120000,
     "ReleaseAngle": 300000,
     "TraceDuration": 50000,
@@ -1019,14 +1018,32 @@
     "Rate": 10000,
     "CD": 120000,
     "InitialCDPool": [
+      0,
+      20000,
+      30000,
+      40000
+    ],
+    "ReleaseDistance": 150000,
+    "ReleaseAngle": 1200000,
+    "TraceDuration": 50000,
+    "Activate": true
+  },
+  "110075301": {
+    "Id": 110075301,
+    "GroupId": 1,
+    "SkillId": 5004191,
+    "Priority": 1,
+    "Weight": 1,
+    "Rate": 10000,
+    "CD": 60000,
+    "InitialCDPool": [
       20000,
       30000,
       40000,
       50000
     ],
-    "StartCDTime": 15000,
-    "ReleaseDistance": 150000,
-    "ReleaseAngle": 1200000,
+    "ReleaseDistance": 90000,
+    "ReleaseAngle": 3600000,
     "TraceDuration": 50000,
     "Activate": true
   },
@@ -5006,6 +5023,25 @@
     "TraceDuration": 50000,
     "Activate": true
   },
+  "500513601": {
+    "Id": 500513601,
+    "GroupId": 1,
+    "SkillId": 5005136,
+    "Priority": 5,
+    "Weight": 1,
+    "Rate": 10000,
+    "CD": 80000,
+    "InitialCDPool": [
+      0,
+      30000,
+      50000
+    ],
+    "FixedCD": true,
+    "ReleaseDistance": 250000,
+    "ReleaseAngle": 1500000,
+    "TraceDuration": 50000,
+    "Activate": true
+  },
   "500910101": {
     "Id": 500910101,
     "GroupId": 1,
@@ -6069,6 +6105,44 @@
     "Id": 501115201,
     "GroupId": 1,
     "SkillId": 5011152,
+    "Priority": 5,
+    "Weight": 1,
+    "Rate": 10000,
+    "CD": 5000,
+    "InitialCDPool": [
+      0
+    ],
+    "FixedCD": true,
+    "ReleaseDistance": 200000,
+    "ReleaseAngle": 3600000,
+    "TraceDuration": 50000,
+    "Activate": true,
+    "ActiveConditionType1": 2,
+    "ActiveParam1": "50"
+  },
+  "501117101": {
+    "Id": 501117101,
+    "GroupId": 1,
+    "SkillId": 5011171,
+    "Priority": 4,
+    "Weight": 1,
+    "Rate": 10000,
+    "CD": 990000,
+    "InitialCDPool": [
+      0,
+      10000,
+      20000
+    ],
+    "FixedCD": true,
+    "ReleaseDistance": 80000,
+    "ReleaseAngle": 3600000,
+    "TraceDuration": 50000,
+    "Activate": true
+  },
+  "501117201": {
+    "Id": 501117201,
+    "GroupId": 1,
+    "SkillId": 5011172,
     "Priority": 5,
     "Weight": 1,
     "Rate": 10000,
@@ -14517,12 +14591,11 @@
     "Priority": 15,
     "Weight": 1,
     "Rate": 10000,
-    "CD": 200000,
+    "CD": 100000,
     "InitialCDPool": [
+      30000,
       50000,
-      100000,
-      150000,
-      200000
+      100000
     ],
     "ReleaseDistance": 150000,
     "ReleaseAngle": 1200000,
@@ -14572,9 +14645,9 @@
     "InitialCDPool": [
       0
     ],
-    "ReleaseDistance": 400000,
+    "ReleaseDistance": 120000,
     "ReleaseAngle": 3600000,
-    "TraceDuration": 10000,
+    "TraceDuration": 30000,
     "Activate": true
   },
   "160110101": {
@@ -14684,7 +14757,7 @@
     "Priority": 99,
     "Weight": 1,
     "Rate": 10000,
-    "CD": 300000,
+    "CD": 250000,
     "InitialCDPool": [
       100000,
       150000

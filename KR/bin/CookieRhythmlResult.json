@@ -10,7 +10,7 @@
     "Id": 2,
     "ResultType": 2,
     "ResultName": "Perfect",
-    "Range": 0.05,
+    "Range": 0.08,
     "OtherCondition": "&",
     "AddScoreType": 1,
     "AddScore": 10
@@ -19,14 +19,14 @@
     "Id": 3,
     "ResultType": 3,
     "ResultName": "Good",
-    "Range": 0.15,
+    "Range": 0.2,
     "OtherCondition": "&"
   },
   "4": {
     "Id": 4,
     "ResultType": 4,
     "ResultName": "Miss",
-    "Range": 0.2,
+    "Range": 0.25,
     "OtherCondition": "&"
   }
 }

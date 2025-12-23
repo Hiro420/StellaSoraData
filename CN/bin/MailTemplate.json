@@ -262,6 +262,46 @@
     "Desc": "MailTemplate.4004.3",
     "Type": 1
   },
+  "4005": {
+    "Id": 4005,
+    "Explanation": "活动结束补偿邮件",
+    "Icon": "Icon/Head/head_12501",
+    "Author": "MailTemplate.4005.1",
+    "LetterPaper": "background2",
+    "Subject": "MailTemplate.4005.2",
+    "Desc": "MailTemplate.4005.3",
+    "Type": 1
+  },
+  "4006": {
+    "Id": 4006,
+    "Explanation": "活动结束补偿邮件",
+    "Icon": "Icon/Head/head_12501",
+    "Author": "MailTemplate.4006.1",
+    "LetterPaper": "background2",
+    "Subject": "MailTemplate.4006.2",
+    "Desc": "MailTemplate.4006.3",
+    "Type": 1
+  },
+  "4007": {
+    "Id": 4007,
+    "Explanation": "活动结束补偿邮件",
+    "Icon": "Icon/Head/head_12501",
+    "Author": "MailTemplate.4007.1",
+    "LetterPaper": "background2",
+    "Subject": "MailTemplate.4007.2",
+    "Desc": "MailTemplate.4007.3",
+    "Type": 1
+  },
+  "4008": {
+    "Id": 4008,
+    "Explanation": "活动结束补偿邮件",
+    "Icon": "Icon/Head/head_12501",
+    "Author": "MailTemplate.4008.1",
+    "LetterPaper": "background2",
+    "Subject": "MailTemplate.4008.2",
+    "Desc": "MailTemplate.4008.3",
+    "Type": 1
+  },
   "5001": {
     "Id": 5001,
     "Explanation": "问卷调查奖励邮件",
@@ -285,7 +325,7 @@
   "10001": {
     "Id": 10001,
     "Explanation": "泳装活动结束倒计时邮件",
-    "Icon": "Icon/Head/head_npc10201",
+    "Icon": "Icon/Head/head_12501",
     "Author": "MailTemplate.10001.1",
     "LetterPaper": "background2",
     "Subject": "MailTemplate.10001.2",
@@ -295,7 +335,7 @@
   "10002": {
     "Id": 10002,
     "Explanation": "泳装活动结束货币转换邮件",
-    "Icon": "Icon/Head/head_npc10201",
+    "Icon": "Icon/Head/head_12501",
     "Author": "MailTemplate.10002.1",
     "LetterPaper": "background2",
     "Subject": "MailTemplate.10002.2",
@@ -305,7 +345,7 @@
   "10003": {
     "Id": 10003,
     "Explanation": "泳装活动任务结束未领取邮件",
-    "Icon": "Icon/Head/head_npc10201",
+    "Icon": "Icon/Head/head_12501",
     "Author": "MailTemplate.10003.1",
     "LetterPaper": "background2",
     "Subject": "MailTemplate.10003.2",
@@ -315,7 +355,7 @@
   "10101": {
     "Id": 10101,
     "Explanation": "第三章剧情活动结束倒计时邮件",
-    "Icon": "Icon/Head/head_npc10201",
+    "Icon": "Icon/Head/head_12501",
     "Author": "MailTemplate.10101.1",
     "LetterPaper": "background2",
     "Subject": "MailTemplate.10101.2",
@@ -325,7 +365,7 @@
   "10102": {
     "Id": 10102,
     "Explanation": "第三章剧情活动结束货币转换邮件",
-    "Icon": "Icon/Head/head_npc10201",
+    "Icon": "Icon/Head/head_12501",
     "Author": "MailTemplate.10102.1",
     "LetterPaper": "background2",
     "Subject": "MailTemplate.10102.2",
@@ -335,7 +375,7 @@
   "10103": {
     "Id": 10103,
     "Explanation": "第三章剧情活动任务结束未领取邮件",
-    "Icon": "Icon/Head/head_npc10201",
+    "Icon": "Icon/Head/head_12501",
     "Author": "MailTemplate.10103.1",
     "LetterPaper": "background2",
     "Subject": "MailTemplate.10103.2",
@@ -345,7 +385,7 @@
   "10201": {
     "Id": 10201,
     "Explanation": "梦的彼岸活动结束倒计时邮件",
-    "Icon": "Icon/Head/head_npc10201",
+    "Icon": "Icon/Head/head_12501",
     "Author": "MailTemplate.10201.1",
     "LetterPaper": "background2",
     "Subject": "MailTemplate.10201.2",
@@ -355,7 +395,7 @@
   "10202": {
     "Id": 10202,
     "Explanation": "梦的彼岸活动结束货币转换邮件",
-    "Icon": "Icon/Head/head_npc10201",
+    "Icon": "Icon/Head/head_12501",
     "Author": "MailTemplate.10202.1",
     "LetterPaper": "background2",
     "Subject": "MailTemplate.10202.2",
@@ -365,11 +405,71 @@
   "10203": {
     "Id": 10203,
     "Explanation": "梦的彼岸活动任务结束未领取邮件",
-    "Icon": "Icon/Head/head_npc10201",
+    "Icon": "Icon/Head/head_12501",
     "Author": "MailTemplate.10203.1",
     "LetterPaper": "background2",
     "Subject": "MailTemplate.10203.2",
     "Desc": "MailTemplate.10203.3",
+    "Type": 1
+  },
+  "10301": {
+    "Id": 10301,
+    "Explanation": "微火的奇迹活动结束倒计时邮件",
+    "Icon": "Icon/Head/head_12501",
+    "Author": "MailTemplate.10301.1",
+    "LetterPaper": "background2",
+    "Subject": "MailTemplate.10301.2",
+    "Desc": "MailTemplate.10301.3",
+    "Type": 1
+  },
+  "10302": {
+    "Id": 10302,
+    "Explanation": "微火的奇迹活动结束货币转换邮件",
+    "Icon": "Icon/Head/head_12501",
+    "Author": "MailTemplate.10302.1",
+    "LetterPaper": "background2",
+    "Subject": "MailTemplate.10302.2",
+    "Desc": "MailTemplate.10302.3",
+    "Type": 1
+  },
+  "10303": {
+    "Id": 10303,
+    "Explanation": "微火的奇迹活动任务结束未领取邮件",
+    "Icon": "Icon/Head/head_12501",
+    "Author": "MailTemplate.10303.1",
+    "LetterPaper": "background2",
+    "Subject": "MailTemplate.10303.2",
+    "Desc": "MailTemplate.10303.3",
+    "Type": 1
+  },
+  "20101": {
+    "Id": 20101,
+    "Explanation": "圣诞活动结束倒计时邮件",
+    "Icon": "Icon/Head/head_12501",
+    "Author": "MailTemplate.20101.1",
+    "LetterPaper": "background2",
+    "Subject": "MailTemplate.20101.2",
+    "Desc": "MailTemplate.20101.3",
+    "Type": 1
+  },
+  "20102": {
+    "Id": 20102,
+    "Explanation": "圣诞活动结束货币转换邮件",
+    "Icon": "Icon/Head/head_12501",
+    "Author": "MailTemplate.20102.1",
+    "LetterPaper": "background2",
+    "Subject": "MailTemplate.20102.2",
+    "Desc": "MailTemplate.20102.3",
+    "Type": 1
+  },
+  "20103": {
+    "Id": 20103,
+    "Explanation": "圣诞活动任务结束未领取邮件",
+    "Icon": "Icon/Head/head_12501",
+    "Author": "MailTemplate.20103.1",
+    "LetterPaper": "background2",
+    "Subject": "MailTemplate.20103.2",
+    "Desc": "MailTemplate.20103.3",
     "Type": 1
   },
   "9999": {
@@ -380,6 +480,16 @@
     "LetterPaper": "background2",
     "Subject": "MailTemplate.9999.2",
     "Desc": "MailTemplate.9999.3",
+    "Type": 1
+  },
+  "910158": {
+    "Id": 910158,
+    "Explanation": "圣夜送礼大作战！卡池关闭提示",
+    "Icon": "Icon/Head/head_12501",
+    "Author": "MailTemplate.910158.1",
+    "LetterPaper": "background2",
+    "Subject": "MailTemplate.910158.2",
+    "Desc": "MailTemplate.910158.3",
     "Type": 1
   }
 }

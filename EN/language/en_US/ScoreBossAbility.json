@@ -1,4 +1,6 @@
 {
+  "ScoreBossAbility.100000.1": "!NONEED!",
+  "ScoreBossAbility.100000.2": "None",
   "ScoreBossAbility.100001.1": "Stellnanite Berserk",
   "ScoreBossAbility.100001.2": "The boss starts with 1 stack of Berserk and gains 1 stack every 10s (up to 5 stacks). Each stack increases the boss' DMG by <color=#ec6d21>&Param1&</color>.\nDealing 10 hits to the boss within 2s removes all Berserk stacks. The main Trekker then gains 10 stacks of Amplify (up to 10 stacks). Each hit dealt consumes 1 Amplify stack to increase that hit's DMG by <color=#ec6d21>&Param2&</color>.",
   "ScoreBossAbility.100002.1": "Pyro Blight",
@@ -6,5 +8,9 @@
   "ScoreBossAbility.100003.1": "Fervent Combat",
   "ScoreBossAbility.100003.2": "The boss gains 1 stack of Battle Frenzy every 5 seconds, increasing the DMG it deals by <color=#ec6d21>&Param1&</color> (up to 5 stacks).\nWhen the Main Trekker triggers a Mark, removes 1 stack of Battle Frenzy from the boss. Successfully removing a stack of Battle Frenzy restores 20 Energy for the squad, and increases the boss's Ultimate DMG Taken by <color=#ec6d21>&Param2&</color>, lasting for 10s and resets when triggered again.",
   "ScoreBossAbility.100004.1": "Devouring Dark Ring",
-  "ScoreBossAbility.100004.2": "When the boss possesses Dark Ring, its DMG increases by <color=#ec6d21>&Param1&</color>, and it deals an additional AoE DMG every 5s.\nDealing 20 hits to the boss within 3s disables the boss's Dark Ring for 15s. The boss also takes <color=#ec6d21>&Param2&</color> more Skill DMG dealt by Support Trekkers during this period."
+  "ScoreBossAbility.100004.2": "When the boss possesses Dark Ring, its DMG increases by <color=#ec6d21>&Param1&</color>, and it deals an additional AoE DMG every 5s.\nDealing 20 hits to the boss within 3s disables the boss's Dark Ring for 15s. The boss also takes <color=#ec6d21>&Param2&</color> more Skill DMG dealt by Support Trekkers during this period.",
+  "ScoreBossAbility.100005.1": "Reality Shift",
+  "ScoreBossAbility.100005.2": "The boss shifts between Illusion Form and Reality Form every <color=#ec6d21>15s</color>.\nIn Reality Form, the boss takes <color=#ec6d21>&Param1&</color> more Minion DMG. Triggering a mark increases the current form's duration by <color=#ec6d21>&Param2&</color>s. It can only be triggered once per sec.\nIn Illusion Form, the boss takes <color=#ec6d21>&Param3&</color> increased Skill DMG. Dealing Minion DMG each time increases the current form's duration by <color=#ec6d21>&Param4&</color>s. It can only be triggered once per sec.",
+  "ScoreBossAbility.100006.1": "Call Down the Thunder",
+  "ScoreBossAbility.100006.2": "When the boss has Thunderbolt, its DMG is increased by <color=#ec6d21>&Param4&</color> and deals additional DMG in a small area 4 times every 3s.\nDealing Support Skill DMG <color=#ec6d21>&Param2&</color> times to the boss within <color=#ec6d21>&Param1&</color>s disables Thunderbolt for 15s, and increases the Skill DMG the boss takes from Support Trekkers by <color=#ec6d21>&Param3&</color> for the duration."
 }

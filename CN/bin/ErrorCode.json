@@ -59,6 +59,18 @@
     "Template": "ErrorCode.100110.1",
     "ShowType": 1
   },
+  "100111": {
+    "Id": 100111,
+    "Title": "ErrResVersion",
+    "Template": "ErrorCode.100111.1",
+    "ShowType": 3
+  },
+  "100112": {
+    "Id": 100112,
+    "Title": "ErrClientVersion",
+    "Template": "ErrorCode.100112.1",
+    "ShowType": 3
+  },
   "110101": {
     "Id": 110101,
     "Title": "ErrMask",

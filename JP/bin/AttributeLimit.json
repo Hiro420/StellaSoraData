@@ -2,333 +2,406 @@
   "1": {
     "Id": 1,
     "Lower": 10000,
-    "Upper": 300000000
+    "Upper": 2000000000,
+    "LowerPre": -8000,
+    "UpperPre": 1000000,
+    "IsLimitedPre": true
   },
   "2": {
     "Id": 2,
-    "Upper": 10000000
+    "Upper": 2000000000,
+    "IsLimited": true,
+    "IsPlayer": true,
+    "UpperPre": 1000000
   },
   "3": {
     "Id": 3,
     "Lower": 10000,
-    "Upper": 1000000000
+    "Upper": 2000000000,
+    "UpperPre": 1000000
   },
   "4": {
     "Id": 4,
     "Upper": 10000,
-    "IsLimited": true
+    "IsLimited": true,
+    "UpperPre": 1000000
   },
   "5": {
     "Id": 5,
     "Upper": 10000,
-    "IsLimited": true
+    "IsLimited": true,
+    "UpperPre": 1000000
   },
   "6": {
     "Id": 6,
     "Upper": 10000,
-    "IsLimited": true
+    "IsLimited": true,
+    "UpperPre": 1000000
   },
   "7": {
     "Id": 7,
-    "Lower": -9900,
-    "Upper": 10000
+    "Upper": 10000,
+    "IsLimited": true,
+    "UpperPre": 1000000
   },
   "8": {
     "Id": 8,
-    "Lower": 10000,
-    "Upper": 100000000
+    "Upper": 100000000,
+    "UpperPre": 1000000
   },
   "9": {
     "Id": 9,
-    "Lower": 10000,
-    "Upper": 100000000
+    "Upper": 100000000,
+    "UpperPre": 1000000
   },
   "10": {
     "Id": 10,
-    "Lower": 10000,
-    "Upper": 100000000
+    "Upper": 100000000,
+    "UpperPre": 1000000
   },
   "11": {
     "Id": 11,
-    "Lower": 10000,
-    "Upper": 100000000
+    "Lower": -5000000,
+    "Upper": 100000000,
+    "IsLimited": true,
+    "UpperPre": 1000000
   },
   "12": {
     "Id": 12,
-    "Lower": 10000,
-    "Upper": 100000000
+    "Lower": -5000000,
+    "Upper": 100000000,
+    "IsLimited": true,
+    "UpperPre": 1000000
   },
   "13": {
     "Id": 13,
-    "Lower": 10000,
-    "Upper": 100000000
+    "Lower": -5000000,
+    "Upper": 100000000,
+    "IsLimited": true,
+    "UpperPre": 1000000
   },
   "14": {
     "Id": 14,
-    "Lower": 10000,
-    "Upper": 100000000
+    "Lower": -5000000,
+    "Upper": 100000000,
+    "IsLimited": true,
+    "UpperPre": 1000000
   },
   "15": {
     "Id": 15,
-    "Lower": 10000,
-    "Upper": 100000000
+    "Lower": -5000000,
+    "Upper": 100000000,
+    "IsLimited": true,
+    "UpperPre": 1000000
   },
   "16": {
     "Id": 16,
-    "Lower": 10000,
-    "Upper": 100000000
+    "Lower": -5000000,
+    "Upper": 100000000,
+    "IsLimited": true,
+    "UpperPre": 1000000
   },
   "17": {
     "Id": 17,
     "Lower": 10000,
-    "Upper": 100000000
+    "Upper": 100000000,
+    "UpperPre": 1000000
   },
   "18": {
     "Id": 18,
     "Lower": 10000,
-    "Upper": 100000000
+    "Upper": 100000000,
+    "UpperPre": 1000000
   },
   "19": {
     "Id": 19,
     "Lower": 10000,
-    "Upper": 100000000
+    "Upper": 100000000,
+    "UpperPre": 1000000
   },
   "20": {
     "Id": 20,
     "Lower": 10000,
-    "Upper": 100000000
+    "Upper": 100000000,
+    "UpperPre": 1000000
   },
   "21": {
     "Id": 21,
     "Lower": 10000,
-    "Upper": 100000000
+    "Upper": 100000000,
+    "UpperPre": 1000000
   },
   "22": {
     "Id": 22,
     "Lower": 10000,
-    "Upper": 100000000
+    "Upper": 100000000,
+    "UpperPre": 1000000
   },
   "23": {
     "Id": 23,
-    "Lower": 10000,
-    "Upper": 100000000
+    "Upper": 6000000,
+    "IsLimited": true,
+    "UpperPre": 1000000
   },
   "24": {
     "Id": 24,
-    "Lower": 10000,
-    "Upper": 100000000
+    "Upper": 6000000,
+    "IsLimited": true,
+    "UpperPre": 1000000
   },
   "25": {
     "Id": 25,
-    "Lower": 10000,
-    "Upper": 100000000
+    "Upper": 6000000,
+    "IsLimited": true,
+    "UpperPre": 1000000
   },
   "26": {
     "Id": 26,
-    "Lower": 10000,
-    "Upper": 100000000
+    "Upper": 6000000,
+    "IsLimited": true,
+    "UpperPre": 1000000
   },
   "27": {
     "Id": 27,
-    "Lower": 10000,
-    "Upper": 100000000
+    "Upper": 6000000,
+    "IsLimited": true,
+    "UpperPre": 1000000
   },
   "28": {
     "Id": 28,
-    "Lower": 10000,
-    "Upper": 100000000
+    "Upper": 6000000,
+    "IsLimited": true,
+    "UpperPre": 1000000
   },
   "29": {
     "Id": 29,
-    "Lower": 10000,
-    "Upper": 100000000
+    "Upper": 100000000,
+    "UpperPre": 1000000
   },
   "30": {
     "Id": 30,
-    "Lower": 10000,
-    "Upper": 100000000
+    "Upper": 100000000,
+    "UpperPre": 1000000
   },
   "31": {
     "Id": 31,
-    "Lower": 10000,
-    "Upper": 100000000
+    "Upper": 100000000,
+    "UpperPre": 1000000
   },
   "32": {
     "Id": 32,
-    "Lower": 10000,
-    "Upper": 100000000
+    "Upper": 100000000,
+    "UpperPre": 1000000
   },
   "33": {
     "Id": 33,
-    "Lower": 10000,
-    "Upper": 100000000
+    "Upper": 100000000,
+    "UpperPre": 1000000
   },
   "34": {
     "Id": 34,
-    "Lower": 10000,
-    "Upper": 100000000
+    "Upper": 100000000,
+    "UpperPre": 1000000
   },
   "35": {
     "Id": 35,
-    "Lower": -8000,
+    "Lower": 2000,
     "Upper": 100000000,
-    "IsLimited": true
+    "IsLimited": true,
+    "IsPlayer": true,
+    "UpperPre": 1000000
   },
   "36": {
     "Id": 36,
-    "Lower": -8000,
+    "Lower": 2000,
     "Upper": 100000000,
-    "IsLimited": true
+    "IsLimited": true,
+    "IsPlayer": true,
+    "UpperPre": 1000000
   },
   "37": {
     "Id": 37,
-    "Lower": -8000,
+    "Lower": 2000,
     "Upper": 100000000,
-    "IsLimited": true
+    "IsLimited": true,
+    "IsPlayer": true,
+    "UpperPre": 1000000
   },
   "38": {
     "Id": 38,
-    "Lower": -8000,
+    "Lower": 2000,
     "Upper": 100000000,
-    "IsLimited": true
+    "IsLimited": true,
+    "IsPlayer": true,
+    "UpperPre": 1000000
   },
   "39": {
     "Id": 39,
-    "Lower": -8000,
+    "Lower": 2000,
     "Upper": 100000000,
-    "IsLimited": true
+    "IsLimited": true,
+    "IsPlayer": true,
+    "UpperPre": 1000000
   },
   "40": {
     "Id": 40,
-    "Lower": -8000,
+    "Lower": 2000,
     "Upper": 100000000,
-    "IsLimited": true
+    "IsLimited": true,
+    "IsPlayer": true,
+    "UpperPre": 1000000
   },
   "41": {
     "Id": 41,
     "Lower": 10000,
-    "Upper": 100000000
+    "Upper": 100000000,
+    "UpperPre": 1000000
   },
   "42": {
     "Id": 42,
     "Lower": 10000,
-    "Upper": 100000000
+    "Upper": 100000000,
+    "UpperPre": 1000000
   },
   "43": {
     "Id": 43,
     "Lower": 10000,
-    "Upper": 100000000
+    "Upper": 100000000,
+    "UpperPre": 1000000
   },
   "44": {
     "Id": 44,
     "Lower": 10000,
-    "Upper": 100000000
+    "Upper": 100000000,
+    "UpperPre": 1000000
   },
   "46": {
     "Id": 46,
     "Lower": 10000,
-    "Upper": 100000000
+    "Upper": 100000000,
+    "UpperPre": 1000000
   },
   "47": {
     "Id": 47,
     "Lower": 10000,
-    "Upper": 100000000
+    "Upper": 100000000,
+    "UpperPre": 1000000
   },
   "48": {
     "Id": 48,
     "Lower": 10000,
-    "Upper": 100000000
+    "Upper": 100000000,
+    "UpperPre": 1000000
   },
   "56": {
     "Id": 56,
     "Lower": 10000,
-    "Upper": 100000000
+    "Upper": 100000000,
+    "UpperPre": 1000000
   },
   "57": {
     "Id": 57,
     "Lower": 10000,
-    "Upper": 100000000
+    "Upper": 100000000,
+    "UpperPre": 1000000
   },
   "58": {
     "Id": 58,
     "Lower": 10000,
-    "Upper": 100000000
+    "Upper": 100000000,
+    "UpperPre": 1000000
   },
   "59": {
     "Id": 59,
     "Lower": 10000,
-    "Upper": 100000000
+    "Upper": 100000000,
+    "UpperPre": 1000000
   },
   "60": {
     "Id": 60,
-    "Lower": -8000,
+    "Lower": 2000,
     "Upper": 100000000,
-    "IsLimited": true
+    "IsLimited": true,
+    "IsPlayer": true,
+    "UpperPre": 1000000
   },
   "61": {
     "Id": 61,
-    "Lower": -8000,
+    "Lower": 2000,
     "Upper": 100000000,
-    "IsLimited": true
+    "IsLimited": true,
+    "IsPlayer": true,
+    "UpperPre": 1000000
   },
   "62": {
     "Id": 62,
-    "Lower": -8000,
+    "Lower": 2000,
     "Upper": 100000000,
-    "IsLimited": true
+    "IsLimited": true,
+    "IsPlayer": true,
+    "UpperPre": 1000000
   },
   "63": {
     "Id": 63,
-    "Lower": -8000,
+    "Lower": 2000,
     "Upper": 100000000,
-    "IsLimited": true
+    "IsLimited": true,
+    "IsPlayer": true,
+    "UpperPre": 1000000
   },
   "49": {
     "Id": 49,
     "Lower": 10000,
-    "Upper": 100000000
+    "Upper": 100000000,
+    "UpperPre": 1000000
   },
   "50": {
     "Id": 50,
     "Lower": 10000,
-    "Upper": 100000000
+    "Upper": 100000000,
+    "UpperPre": 1000000
   },
   "51": {
     "Id": 51,
     "Lower": 10000,
-    "Upper": 100000000
+    "Upper": 100000000,
+    "UpperPre": 1000000
   },
   "52": {
     "Id": 52,
     "Lower": 10000,
-    "Upper": 100000000
+    "Upper": 100000000,
+    "UpperPre": 1000000
   },
   "53": {
     "Id": 53,
-    "Lower": -8000,
+    "Lower": 2000,
     "Upper": 100000000,
-    "IsLimited": true
+    "IsLimited": true,
+    "IsPlayer": true,
+    "UpperPre": 1000000
   },
   "54": {
     "Id": 54,
-    "Lower": -8000,
     "Upper": 100000000,
-    "IsLimited": true
+    "UpperPre": 1000000
   },
   "55": {
     "Id": 55,
-    "Lower": 10000,
-    "Upper": 100000000
+    "Upper": 100000000,
+    "UpperPre": 1000000
   },
   "64": {
     "Id": 64,
-    "Lower": 10000,
-    "Upper": 100000000
+    "Upper": 100000000,
+    "UpperPre": 1000000
   },
   "65": {
     "Id": 65,
-    "Lower": -8000,
+    "Lower": 2000,
     "Upper": 100000000,
-    "IsLimited": true
+    "IsLimited": true,
+    "IsPlayer": true,
+    "UpperPre": 1000000
   }
 }

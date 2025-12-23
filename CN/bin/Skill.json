@@ -442,7 +442,6 @@
     "Desc": "Skill.12610001.2",
     "Icon": "Icon/Skill/12601_Normal",
     "MaxLevel": 10,
-    "GetEnergyLimit": 23000,
     "CheckSkillInterval": true
   },
   "12610002": {
@@ -454,7 +453,6 @@
     "Desc": "Skill.12610002.2",
     "Icon": "Icon/Skill/12601_Normal",
     "MaxLevel": 10,
-    "GetEnergyLimit": 23000,
     "CheckSkillInterval": true
   },
   "12610003": {
@@ -466,7 +464,6 @@
     "Desc": "Skill.12610003.2",
     "Icon": "Icon/Skill/12601_Normal",
     "MaxLevel": 10,
-    "GetEnergyLimit": 23000,
     "CheckSkillInterval": true
   },
   "13410000": {
@@ -478,7 +475,7 @@
     "Desc": "Skill.13410000.2",
     "Icon": "Icon/Skill/13401_Normal",
     "MaxLevel": 10,
-    "GetEnergyLimit": 158000,
+    "GetEnergyLimit": 236500,
     "Param1": "HitDamage,DamageNum,134100001",
     "Param2": "HitDamage,DamageNum,134100002",
     "Param3": "HitDamage,DamageNum,134100003",
@@ -806,14 +803,17 @@
     "Type": 1,
     "BriefDesc": "Skill.15810000.13",
     "Desc": "Skill.15810000.2",
-    "Icon": "Icon/Skill/14101_Normal",
+    "Icon": "Icon/Skill/15801_Normal",
     "MaxLevel": 10,
-    "GetEnergyLimit": 188000,
+    "GetEnergyLimit": 149500,
     "Param1": "HitDamage,DamageNum,158100001",
     "Param2": "HitDamage,DamageNum,158100002",
     "Param3": "HitDamage,DamageNum,158100003",
     "Param4": "HitDamage,DamageNum,158100004",
-    "Param5": "HitDamage,DamageNum,158100009",
+    "Param5": "HitDamage,DamageNum,158100005",
+    "Param6": "HitDamage,DamageNum,158100006",
+    "Param7": "BuffValue,NoLevel,15800001,LaminatedNum,Fixed",
+    "Param8": "HitDamage,DamageNum,158100007",
     "CheckSkillInterval": true
   },
   "15820000": {
@@ -837,13 +837,15 @@
     "Type": 3,
     "BriefDesc": "Skill.15831000.13",
     "Desc": "Skill.15831000.2",
-    "Icon": "Icon/Skill/14101_Skill_Main",
-    "SkillCD": 70000,
+    "Icon": "Icon/Skill/15801_Skill_Main",
+    "SkillCD": 80000,
     "MaxLevel": 10,
-    "GetEnergyLimit": 317000,
+    "GetEnergyLimit": 154700,
     "Param1": "HitDamage,DamageNum,158310001",
     "Param2": "Skill,NoLevel,15831000,Title,Text",
-    "Param3": "HitDamage,DamageNum,158000001",
+    "Param3": "HitDamage,DamageNum,158310002",
+    "Param4": "HitDamage,DamageNum,158310003",
+    "Param5": "HitDamage,DamageNum,158000001",
     "CheckSkillInterval": true
   },
   "15832000": {
@@ -853,11 +855,12 @@
     "Type": 4,
     "BriefDesc": "Skill.15832000.13",
     "Desc": "Skill.15832000.2",
-    "Icon": "Icon/Skill/14101_Skill_Support",
+    "Icon": "Icon/Skill/15801_Skill_Support",
     "SkillCD": 180000,
     "MaxLevel": 10,
     "Param1": "HitDamage,DamageNum,158320001",
     "Param2": "HitDamage,DamageNum,158320002",
+    "Param3": "HitDamage,DamageNum,158320003",
     "CheckSkillInterval": true
   },
   "15840000": {
@@ -867,15 +870,17 @@
     "Type": 5,
     "BriefDesc": "Skill.15840000.13",
     "Desc": "Skill.15840000.2",
-    "Icon": "Icon/Skill/14101_Ultra",
-    "SkillCD": 300000,
+    "Icon": "Icon/Skill/15801_Ultra",
+    "SkillCD": 400000,
     "MaxLevel": 10,
-    "UltraEnergy": 2850000,
+    "UltraEnergy": 2400000,
     "Param1": "HitDamage,DamageNum,158400001",
     "Param2": "HitDamage,DamageNum,158400002",
     "Param3": "HitDamage,DamageNum,158400003",
     "Param4": "Skill,NoLevel,15840000,Title,Text",
     "Param5": "HitDamage,DamageNum,158000001",
+    "Param6": "ScriptParameterValue,NoLevel,15840001,CommonData,10K",
+    "Param7": "ShieldValue,NoLevel,15840011,ReferenceScale,10KHdPct",
     "CheckSkillInterval": true
   },
   "15870000": {
@@ -885,7 +890,7 @@
     "Type": 7,
     "BriefDesc": "Skill.15870000.13",
     "Desc": "Skill.15870000.2",
-    "Icon": "Icon/Skill/11101_Skill_Support",
+    "Icon": "Icon/Skill/15801_Ultra",
     "MaxLevel": 10,
     "CheckSkillInterval": true
   },
@@ -896,9 +901,9 @@
     "Type": 1,
     "BriefDesc": "Skill.15810001.13",
     "Desc": "Skill.15810001.2",
-    "Icon": "Icon/Skill/14101_Normal",
+    "Icon": "Icon/Skill/15801_Ultra",
     "MaxLevel": 10,
-    "GetEnergyLimit": 188000,
+    "GetEnergyLimit": 563500,
     "Param1": "HitDamage,DamageNum,158100001",
     "Param2": "HitDamage,DamageNum,158100002",
     "Param3": "HitDamage,DamageNum,158100003",
@@ -913,9 +918,10 @@
     "Type": 2,
     "BriefDesc": "Skill.15834001.13",
     "Desc": "Skill.15834001.2",
-    "Icon": "Icon/Skill/14101_Normal",
+    "Icon": "Icon/Skill/15801_Ultra_Skill",
+    "SkillCD": 40000,
     "MaxLevel": 10,
-    "GetEnergyLimit": 188000,
+    "GetEnergyLimit": 270725,
     "Param1": "HitDamage,DamageNum,158100001",
     "Param2": "HitDamage,DamageNum,158100002",
     "Param3": "HitDamage,DamageNum,158100003",
@@ -932,7 +938,6 @@
     "Desc": "Skill.15834002.2",
     "Icon": "Icon/Skill/14101_Normal",
     "MaxLevel": 10,
-    "GetEnergyLimit": 188000,
     "Param1": "HitDamage,DamageNum,158100001",
     "Param2": "HitDamage,DamageNum,158100002",
     "Param3": "HitDamage,DamageNum,158100003",
@@ -949,7 +954,6 @@
     "Desc": "Skill.15891001.2",
     "Icon": "Icon/Skill/14101_Normal",
     "MaxLevel": 10,
-    "GetEnergyLimit": 188000,
     "Param1": "HitDamage,DamageNum,158100001",
     "Param2": "HitDamage,DamageNum,158100002",
     "Param3": "HitDamage,DamageNum,158100003",
@@ -966,7 +970,6 @@
     "Desc": "Skill.15891002.2",
     "Icon": "Icon/Skill/14101_Normal",
     "MaxLevel": 10,
-    "GetEnergyLimit": 188000,
     "Param1": "HitDamage,DamageNum,158100001",
     "Param2": "HitDamage,DamageNum,158100002",
     "Param3": "HitDamage,DamageNum,158100003",
@@ -983,7 +986,6 @@
     "Desc": "Skill.15891003.2",
     "Icon": "Icon/Skill/14101_Normal",
     "MaxLevel": 10,
-    "GetEnergyLimit": 188000,
     "Param1": "HitDamage,DamageNum,158100001",
     "Param2": "HitDamage,DamageNum,158100002",
     "Param3": "HitDamage,DamageNum,158100003",
@@ -1000,7 +1002,6 @@
     "Desc": "Skill.15891004.2",
     "Icon": "Icon/Skill/14101_Normal",
     "MaxLevel": 10,
-    "GetEnergyLimit": 188000,
     "Param1": "HitDamage,DamageNum,158100001",
     "Param2": "HitDamage,DamageNum,158100002",
     "Param3": "HitDamage,DamageNum,158100003",
@@ -1017,7 +1018,6 @@
     "Desc": "Skill.15892001.2",
     "Icon": "Icon/Skill/14101_Normal",
     "MaxLevel": 10,
-    "GetEnergyLimit": 188000,
     "Param1": "HitDamage,DamageNum,158100001",
     "Param2": "HitDamage,DamageNum,158100002",
     "Param3": "HitDamage,DamageNum,158100003",
@@ -1034,7 +1034,6 @@
     "Desc": "Skill.15892002.2",
     "Icon": "Icon/Skill/14101_Normal",
     "MaxLevel": 10,
-    "GetEnergyLimit": 188000,
     "Param1": "HitDamage,DamageNum,158100001",
     "Param2": "HitDamage,DamageNum,158100002",
     "Param3": "HitDamage,DamageNum,158100003",
@@ -1051,7 +1050,6 @@
     "Desc": "Skill.15892003.2",
     "Icon": "Icon/Skill/14101_Normal",
     "MaxLevel": 10,
-    "GetEnergyLimit": 188000,
     "Param1": "HitDamage,DamageNum,158100001",
     "Param2": "HitDamage,DamageNum,158100002",
     "Param3": "HitDamage,DamageNum,158100003",
@@ -1068,7 +1066,6 @@
     "Desc": "Skill.15892004.2",
     "Icon": "Icon/Skill/14101_Normal",
     "MaxLevel": 10,
-    "GetEnergyLimit": 188000,
     "Param1": "HitDamage,DamageNum,158100001",
     "Param2": "HitDamage,DamageNum,158100002",
     "Param3": "HitDamage,DamageNum,158100003",
@@ -1085,7 +1082,6 @@
     "Desc": "Skill.15893001.2",
     "Icon": "Icon/Skill/14101_Normal",
     "MaxLevel": 10,
-    "GetEnergyLimit": 188000,
     "Param1": "HitDamage,DamageNum,158100001",
     "Param2": "HitDamage,DamageNum,158100002",
     "Param3": "HitDamage,DamageNum,158100003",
@@ -1102,7 +1098,6 @@
     "Desc": "Skill.15893002.2",
     "Icon": "Icon/Skill/14101_Normal",
     "MaxLevel": 10,
-    "GetEnergyLimit": 188000,
     "Param1": "HitDamage,DamageNum,158100001",
     "Param2": "HitDamage,DamageNum,158100002",
     "Param3": "HitDamage,DamageNum,158100003",
@@ -1119,7 +1114,6 @@
     "Desc": "Skill.15893003.2",
     "Icon": "Icon/Skill/14101_Normal",
     "MaxLevel": 10,
-    "GetEnergyLimit": 188000,
     "Param1": "HitDamage,DamageNum,158100001",
     "Param2": "HitDamage,DamageNum,158100002",
     "Param3": "HitDamage,DamageNum,158100003",
@@ -1136,7 +1130,6 @@
     "Desc": "Skill.15894001.2",
     "Icon": "Icon/Skill/14101_Normal",
     "MaxLevel": 10,
-    "GetEnergyLimit": 188000,
     "Param1": "HitDamage,DamageNum,158100001",
     "Param2": "HitDamage,DamageNum,158100002",
     "Param3": "HitDamage,DamageNum,158100003",
@@ -1153,7 +1146,6 @@
     "Desc": "Skill.15894002.2",
     "Icon": "Icon/Skill/14101_Normal",
     "MaxLevel": 10,
-    "GetEnergyLimit": 188000,
     "Param1": "HitDamage,DamageNum,158100001",
     "Param2": "HitDamage,DamageNum,158100002",
     "Param3": "HitDamage,DamageNum,158100003",
@@ -1170,7 +1162,6 @@
     "Desc": "Skill.15894003.2",
     "Icon": "Icon/Skill/14101_Normal",
     "MaxLevel": 10,
-    "GetEnergyLimit": 188000,
     "Param1": "HitDamage,DamageNum,158100001",
     "Param2": "HitDamage,DamageNum,158100002",
     "Param3": "HitDamage,DamageNum,158100003",
@@ -1187,7 +1178,6 @@
     "Desc": "Skill.15895001.2",
     "Icon": "Icon/Skill/14101_Normal",
     "MaxLevel": 10,
-    "GetEnergyLimit": 188000,
     "Param1": "HitDamage,DamageNum,158100001",
     "Param2": "HitDamage,DamageNum,158100002",
     "Param3": "HitDamage,DamageNum,158100003",
@@ -1204,7 +1194,6 @@
     "Desc": "Skill.15895002.2",
     "Icon": "Icon/Skill/14101_Normal",
     "MaxLevel": 10,
-    "GetEnergyLimit": 188000,
     "Param1": "HitDamage,DamageNum,158100001",
     "Param2": "HitDamage,DamageNum,158100002",
     "Param3": "HitDamage,DamageNum,158100003",
@@ -1221,7 +1210,6 @@
     "Desc": "Skill.15895003.2",
     "Icon": "Icon/Skill/14101_Normal",
     "MaxLevel": 10,
-    "GetEnergyLimit": 188000,
     "Param1": "HitDamage,DamageNum,158100001",
     "Param2": "HitDamage,DamageNum,158100002",
     "Param3": "HitDamage,DamageNum,158100003",
@@ -1238,7 +1226,6 @@
     "Desc": "Skill.15895004.2",
     "Icon": "Icon/Skill/14101_Normal",
     "MaxLevel": 10,
-    "GetEnergyLimit": 188000,
     "Param1": "HitDamage,DamageNum,158100001",
     "Param2": "HitDamage,DamageNum,158100002",
     "Param3": "HitDamage,DamageNum,158100003",
@@ -1255,7 +1242,6 @@
     "Desc": "Skill.15896001.2",
     "Icon": "Icon/Skill/14101_Normal",
     "MaxLevel": 10,
-    "GetEnergyLimit": 188000,
     "Param1": "HitDamage,DamageNum,158100001",
     "Param2": "HitDamage,DamageNum,158100002",
     "Param3": "HitDamage,DamageNum,158100003",
@@ -1272,7 +1258,6 @@
     "Desc": "Skill.15896002.2",
     "Icon": "Icon/Skill/14101_Normal",
     "MaxLevel": 10,
-    "GetEnergyLimit": 188000,
     "Param1": "HitDamage,DamageNum,158100001",
     "Param2": "HitDamage,DamageNum,158100002",
     "Param3": "HitDamage,DamageNum,158100003",
@@ -1289,7 +1274,6 @@
     "Desc": "Skill.15896003.2",
     "Icon": "Icon/Skill/14101_Normal",
     "MaxLevel": 10,
-    "GetEnergyLimit": 188000,
     "Param1": "HitDamage,DamageNum,158100001",
     "Param2": "HitDamage,DamageNum,158100002",
     "Param3": "HitDamage,DamageNum,158100003",
@@ -1306,7 +1290,6 @@
     "Desc": "Skill.15896004.2",
     "Icon": "Icon/Skill/14101_Normal",
     "MaxLevel": 10,
-    "GetEnergyLimit": 188000,
     "Param1": "HitDamage,DamageNum,158100001",
     "Param2": "HitDamage,DamageNum,158100002",
     "Param3": "HitDamage,DamageNum,158100003",
@@ -1323,7 +1306,6 @@
     "Desc": "Skill.15897001.2",
     "Icon": "Icon/Skill/14101_Normal",
     "MaxLevel": 10,
-    "GetEnergyLimit": 188000,
     "Param1": "HitDamage,DamageNum,158100001",
     "Param2": "HitDamage,DamageNum,158100002",
     "Param3": "HitDamage,DamageNum,158100003",
@@ -1340,7 +1322,6 @@
     "Desc": "Skill.15897002.2",
     "Icon": "Icon/Skill/14101_Normal",
     "MaxLevel": 10,
-    "GetEnergyLimit": 188000,
     "Param1": "HitDamage,DamageNum,158100001",
     "Param2": "HitDamage,DamageNum,158100002",
     "Param3": "HitDamage,DamageNum,158100003",
@@ -1357,7 +1338,6 @@
     "Desc": "Skill.15897003.2",
     "Icon": "Icon/Skill/14101_Normal",
     "MaxLevel": 10,
-    "GetEnergyLimit": 188000,
     "Param1": "HitDamage,DamageNum,158100001",
     "Param2": "HitDamage,DamageNum,158100002",
     "Param3": "HitDamage,DamageNum,158100003",
@@ -2952,7 +2932,7 @@
     "Desc": "Skill.11010000.2",
     "Icon": "Icon/Skill/11001_Normal",
     "MaxLevel": 10,
-    "GetEnergyLimit": 147500,
+    "GetEnergyLimit": 125500,
     "Param1": "HitDamage,DamageNum,110100001",
     "Param2": "HitDamage,DamageNum,110100002",
     "Param3": "HitDamage,DamageNum,110100003",
@@ -2985,7 +2965,7 @@
     "MaxLevel": 10,
     "SectionAmount": 2,
     "UseInterval": 10000,
-    "GetEnergyLimit": 150000,
+    "GetEnergyLimit": 105000,
     "Param1": "HitDamage,DamageNum,110300001",
     "Param2": "HitDamage,DamageNum,110900002",
     "Param3": "HitDamage,DamageNum,110000000",
@@ -3064,9 +3044,9 @@
     "BriefDesc": "Skill.11040000.13",
     "Desc": "Skill.11040000.2",
     "Icon": "Icon/Skill/11001_Ultra",
-    "SkillCD": 400000,
+    "SkillCD": 250000,
     "MaxLevel": 10,
-    "UltraEnergy": 3250000,
+    "UltraEnergy": 2180000,
     "Param1": "HitDamage,DamageNum,110400001",
     "Param2": "HitDamage,DamageNum,110400002",
     "Param3": "HitDamage,DamageNum,110000000",
@@ -5090,6 +5070,27 @@
     "BriefDesc": "Skill.8211201.13",
     "Desc": "Skill.8211201.2",
     "Icon": "Icon/Skill/11201_Skill_Main",
+    "SkillCD": 80000,
+    "MaxLevel": 1
+  },
+  "8210301": {
+    "Id": 8210301,
+    "Title": "Skill.8210301.1",
+    "Type": 2,
+    "BriefDesc": "Skill.8210301.13",
+    "Desc": "Skill.8210301.2",
+    "Icon": "Icon/Skill/10301_Ultra",
+    "SkillCD": 100000,
+    "MaxLevel": 1
+  },
+  "8211101": {
+    "Id": 8211101,
+    "Title": "Skill.8211101.1",
+    "Type": 2,
+    "BriefDesc": "Skill.8211101.13",
+    "Desc": "Skill.8211101.2",
+    "Icon": "Icon/Skill/11101_Skill_Main",
+    "SkillCD": 100000,
     "MaxLevel": 1
   },
   "9999988": {
@@ -6170,7 +6171,7 @@
     "Id": 1102101,
     "Title": "Skill.1102101.1",
     "FCPath": "AIScript.Monster._11021XunHuiQuan.Skill_Attack01",
-    "Type": 1,
+    "Type": 2,
     "BriefDesc": "Skill.1102101.13",
     "Desc": "Skill.1102101.2",
     "MaxLevel": 1
@@ -6179,7 +6180,7 @@
     "Id": 1102102,
     "Title": "Skill.1102102.1",
     "FCPath": "AIScript.Monster._11021XunHuiQuan.Skill_Attack02",
-    "Type": 1,
+    "Type": 2,
     "BriefDesc": "Skill.1102102.13",
     "Desc": "Skill.1102102.2",
     "MaxLevel": 1
@@ -6188,7 +6189,7 @@
     "Id": 1102103,
     "Title": "Skill.1102103.1",
     "FCPath": "AIScript.Monster._11021XunHuiQuan.Skill_Spawn",
-    "Type": 1,
+    "Type": 2,
     "BriefDesc": "Skill.1102103.13",
     "Desc": "Skill.1102103.2",
     "MaxLevel": 1
@@ -6197,7 +6198,7 @@
     "Id": 1103101,
     "Title": "Skill.1103101.1",
     "FCPath": "AIScript.Monster._11031FaMuXie.Skill_01",
-    "Type": 1,
+    "Type": 2,
     "BriefDesc": "Skill.1103101.13",
     "Desc": "Skill.1103101.2",
     "MaxLevel": 1
@@ -6206,7 +6207,7 @@
     "Id": 1103102,
     "Title": "Skill.1103102.1",
     "FCPath": "AIScript.Monster._11031FaMuXie.Skill_02",
-    "Type": 1,
+    "Type": 2,
     "BriefDesc": "Skill.1103102.13",
     "Desc": "Skill.1103102.2",
     "MaxLevel": 1
@@ -6215,7 +6216,7 @@
     "Id": 1103103,
     "Title": "Skill.1103103.1",
     "FCPath": "AIScript.Monster._11031FaMuXie.Skill_03",
-    "Type": 1,
+    "Type": 2,
     "BriefDesc": "Skill.1103103.13",
     "Desc": "Skill.1103103.2",
     "MaxLevel": 1
@@ -6224,7 +6225,7 @@
     "Id": 1103104,
     "Title": "Skill.1103104.1",
     "FCPath": "AIScript.Monster._11031FaMuXie.Skill_04",
-    "Type": 1,
+    "Type": 2,
     "BriefDesc": "Skill.1103104.13",
     "Desc": "Skill.1103104.2",
     "MaxLevel": 1
@@ -6233,7 +6234,7 @@
     "Id": 1103105,
     "Title": "Skill.1103105.1",
     "FCPath": "AIScript.Monster._11031FaMuXie.Skill_05",
-    "Type": 1,
+    "Type": 2,
     "BriefDesc": "Skill.1103105.13",
     "Desc": "Skill.1103105.2",
     "MaxLevel": 1
@@ -6242,7 +6243,7 @@
     "Id": 1103106,
     "Title": "Skill.1103106.1",
     "FCPath": "AIScript.Monster._11031FaMuXie.Skill_06",
-    "Type": 1,
+    "Type": 2,
     "BriefDesc": "Skill.1103106.13",
     "Desc": "Skill.1103106.2",
     "MaxLevel": 1
@@ -6251,7 +6252,7 @@
     "Id": 1103107,
     "Title": "Skill.1103107.1",
     "FCPath": "AIScript.Monster._11031FaMuXie.Skill_07",
-    "Type": 1,
+    "Type": 2,
     "BriefDesc": "Skill.1103107.13",
     "Desc": "Skill.1103107.2",
     "MaxLevel": 1
@@ -6260,7 +6261,7 @@
     "Id": 1103108,
     "Title": "Skill.1103108.1",
     "FCPath": "AIScript.Monster._11031FaMuXie.Skill_Linger",
-    "Type": 1,
+    "Type": 2,
     "BriefDesc": "Skill.1103108.13",
     "Desc": "Skill.1103108.2",
     "MaxLevel": 1
@@ -6269,18 +6270,143 @@
     "Id": 1103109,
     "Title": "Skill.1103109.1",
     "FCPath": "AIScript.Monster._11031FaMuXie.Skill_Spawn",
-    "Type": 1,
+    "Type": 2,
     "BriefDesc": "Skill.1103109.13",
     "Desc": "Skill.1103109.2",
     "MaxLevel": 1
+  },
+  "3028101": {
+    "Id": 3028101,
+    "Title": "Skill.3028101.1",
+    "FCPath": "AIScript.Monster._30281ShengDanTaLou.Skill_01",
+    "Type": 2,
+    "BriefDesc": "Skill.3028101.13",
+    "Desc": "Skill.3028101.2",
+    "MaxLevel": 1
+  },
+  "3028102": {
+    "Id": 3028102,
+    "Title": "Skill.3028102.1",
+    "FCPath": "AIScript.Monster._30281ShengDanTaLou.Skill_02",
+    "Type": 2,
+    "BriefDesc": "Skill.3028102.13",
+    "Desc": "Skill.3028102.2",
+    "SkillCD": 10000,
+    "MaxLevel": 2
+  },
+  "3028103": {
+    "Id": 3028103,
+    "Title": "Skill.3028103.1",
+    "FCPath": "AIScript.Monster._30281ShengDanTaLou.Skill_03",
+    "Type": 2,
+    "BriefDesc": "Skill.3028103.13",
+    "Desc": "Skill.3028103.2",
+    "SkillCD": 20000,
+    "MaxLevel": 3
+  },
+  "3028104": {
+    "Id": 3028104,
+    "Title": "Skill.3028104.1",
+    "FCPath": "AIScript.Monster._30281ShengDanTaLou.Skill_04",
+    "Type": 2,
+    "BriefDesc": "Skill.3028104.13",
+    "Desc": "Skill.3028104.2",
+    "SkillCD": 30000,
+    "MaxLevel": 4
+  },
+  "3028105": {
+    "Id": 3028105,
+    "Title": "Skill.3028105.1",
+    "FCPath": "AIScript.Monster._30281ShengDanTaLou.Skill_05",
+    "Type": 2,
+    "BriefDesc": "Skill.3028105.13",
+    "Desc": "Skill.3028105.2",
+    "SkillCD": 40000,
+    "MaxLevel": 5
+  },
+  "3028106": {
+    "Id": 3028106,
+    "Title": "Skill.3028106.1",
+    "FCPath": "AIScript.Monster._30281ShengDanTaLou.Skill_06",
+    "Type": 2,
+    "BriefDesc": "Skill.3028106.13",
+    "Desc": "Skill.3028106.2",
+    "SkillCD": 50000,
+    "MaxLevel": 6
+  },
+  "3028107": {
+    "Id": 3028107,
+    "Title": "Skill.3028107.1",
+    "FCPath": "AIScript.Monster._30281ShengDanTaLou.Skill_07",
+    "Type": 2,
+    "BriefDesc": "Skill.3028107.13",
+    "Desc": "Skill.3028107.2",
+    "SkillCD": 60000,
+    "MaxLevel": 7
+  },
+  "3028108": {
+    "Id": 3028108,
+    "Title": "Skill.3028108.1",
+    "FCPath": "AIScript.Monster._30281ShengDanTaLou.Skill_08",
+    "Type": 2,
+    "BriefDesc": "Skill.3028108.13",
+    "Desc": "Skill.3028108.2",
+    "SkillCD": 70000,
+    "MaxLevel": 8
+  },
+  "3028109": {
+    "Id": 3028109,
+    "Title": "Skill.3028109.1",
+    "FCPath": "AIScript.Monster._30281ShengDanTaLou.Skill_09",
+    "Type": 2,
+    "BriefDesc": "Skill.3028109.13",
+    "Desc": "Skill.3028109.2",
+    "SkillCD": 80000,
+    "MaxLevel": 9
   },
   "3028201": {
     "Id": 3028201,
     "Title": "Skill.3028201.1",
     "FCPath": "AIScript.Monster._30282ShengDanLiWuJi.Skill_Spawn",
-    "Type": 1,
+    "Type": 2,
     "BriefDesc": "Skill.3028201.13",
     "Desc": "Skill.3028201.2",
+    "MaxLevel": 1
+  },
+  "3028202": {
+    "Id": 3028202,
+    "Title": "Skill.3028202.1",
+    "FCPath": "AIScript.Monster._30282ShengDanLiWuJi.Skill_Gift",
+    "Type": 2,
+    "BriefDesc": "Skill.3028202.13",
+    "Desc": "Skill.3028202.2",
+    "MaxLevel": 1
+  },
+  "3028203": {
+    "Id": 3028203,
+    "Title": "Skill.3028203.1",
+    "FCPath": "AIScript.Monster._30282ShengDanLiWuJi.Skill_Area",
+    "Type": 2,
+    "BriefDesc": "Skill.3028203.13",
+    "Desc": "Skill.3028203.2",
+    "MaxLevel": 1
+  },
+  "3028204": {
+    "Id": 3028204,
+    "Title": "Skill.3028204.1",
+    "FCPath": "AIScript.Monster._30282ShengDanLiWuJi.Skill_Kill",
+    "Type": 2,
+    "BriefDesc": "Skill.3028204.13",
+    "Desc": "Skill.3028204.2",
+    "MaxLevel": 1
+  },
+  "3028205": {
+    "Id": 3028205,
+    "Title": "Skill.3028205.1",
+    "FCPath": "AIScript.Monster._30282ShengDanLiWuJi.Skill_Activate",
+    "Type": 2,
+    "BriefDesc": "Skill.3028205.13",
+    "Desc": "Skill.3028205.2",
     "MaxLevel": 1
   },
   "1001501": {
@@ -7639,6 +7765,15 @@
     "Desc": "Skill.5005135.2",
     "MaxLevel": 1
   },
+  "5005136": {
+    "Id": 5005136,
+    "Title": "Skill.5005136.1",
+    "FCPath": "AIScript.Monster._50051DanZhuTouShou.Christmas_1_Skill01",
+    "Type": 2,
+    "BriefDesc": "Skill.5005136.13",
+    "Desc": "Skill.5005136.2",
+    "MaxLevel": 1
+  },
   "5006101": {
     "Id": 5006101,
     "Title": "Skill.5006101.1",
@@ -7979,6 +8114,24 @@
     "Type": 2,
     "BriefDesc": "Skill.5011162.13",
     "Desc": "Skill.5011162.2",
+    "MaxLevel": 1
+  },
+  "5011171": {
+    "Id": 5011171,
+    "Title": "Skill.5011171.1",
+    "FCPath": "AIScript.Monster._XinChun._50111buffjingling.Skill_AddBuff",
+    "Type": 2,
+    "BriefDesc": "Skill.5011171.13",
+    "Desc": "Skill.5011171.2",
+    "MaxLevel": 1
+  },
+  "5011172": {
+    "Id": 5011172,
+    "Title": "Skill.5011172.1",
+    "FCPath": "AIScript.Monster._XinChun._50111buffjingling.Death",
+    "Type": 2,
+    "BriefDesc": "Skill.5011172.13",
+    "Desc": "Skill.5011172.2",
     "MaxLevel": 1
   },
   "5011197": {
@@ -9359,6 +9512,69 @@
     "Desc": "Skill.5018111.2",
     "MaxLevel": 1
   },
+  "5018151": {
+    "Id": 5018151,
+    "Title": "Skill.5018151.1",
+    "FCPath": "AIScript.Monster._None._50181ShunYiGuai.None_Attack01",
+    "Type": 2,
+    "BriefDesc": "Skill.5018151.13",
+    "Desc": "Skill.5018151.2",
+    "MaxLevel": 1
+  },
+  "5018152": {
+    "Id": 5018152,
+    "Title": "Skill.5018152.1",
+    "FCPath": "AIScript.Monster._None._50181ShunYiGuai.None_Attack02",
+    "Type": 2,
+    "BriefDesc": "Skill.5018152.13",
+    "Desc": "Skill.5018152.2",
+    "MaxLevel": 1
+  },
+  "5018154": {
+    "Id": 5018154,
+    "Title": "Skill.5018154.1",
+    "FCPath": "AIScript.Monster._None._50181ShunYiGuai.None_Attack03",
+    "Type": 2,
+    "BriefDesc": "Skill.5018154.13",
+    "Desc": "Skill.5018154.2",
+    "MaxLevel": 1
+  },
+  "5018155": {
+    "Id": 5018155,
+    "Title": "Skill.5018155.1",
+    "FCPath": "AIScript.Monster._None._50181ShunYiGuai.None_Attack03_Bullet",
+    "Type": 2,
+    "BriefDesc": "Skill.5018155.13",
+    "Desc": "Skill.5018155.2",
+    "MaxLevel": 1
+  },
+  "5018156": {
+    "Id": 5018156,
+    "Title": "Skill.5018156.1",
+    "FCPath": "AIScript.Monster._None._50181ShunYiGuai.None_Attack05",
+    "Type": 2,
+    "BriefDesc": "Skill.5018156.13",
+    "Desc": "Skill.5018156.2",
+    "MaxLevel": 1
+  },
+  "5018157": {
+    "Id": 5018157,
+    "Title": "Skill.5018157.1",
+    "FCPath": "AIScript.Monster._None._50181ShunYiGuai.None_Attack05_Bullet",
+    "Type": 2,
+    "BriefDesc": "Skill.5018157.13",
+    "Desc": "Skill.5018157.2",
+    "MaxLevel": 1
+  },
+  "5018159": {
+    "Id": 5018159,
+    "Title": "Skill.5018159.1",
+    "FCPath": "AIScript.Monster._None._50181ShunYiGuai.None_Attack05_Real",
+    "Type": 2,
+    "BriefDesc": "Skill.5018159.13",
+    "Desc": "Skill.5018159.2",
+    "MaxLevel": 1
+  },
   "5020101": {
     "Id": 5020101,
     "Title": "Skill.5020101.1",
@@ -10174,6 +10390,213 @@
     "Type": 2,
     "BriefDesc": "Skill.5080108.13",
     "Desc": "Skill.5080108.2",
+    "MaxLevel": 1
+  },
+  "3027101": {
+    "Id": 3027101,
+    "Title": "Skill.3027101.1",
+    "FCPath": "AIScript.Monster._30271ShengDanQieChe.Skill01_DriftAttackLv1",
+    "Type": 2,
+    "BriefDesc": "Skill.3027101.13",
+    "Desc": "Skill.3027101.2",
+    "MaxLevel": 1
+  },
+  "3027102": {
+    "Id": 3027102,
+    "Title": "Skill.3027102.1",
+    "FCPath": "AIScript.Monster._30271ShengDanQieChe.Skill01_DriftAttackLv2",
+    "Type": 2,
+    "BriefDesc": "Skill.3027102.13",
+    "Desc": "Skill.3027102.2",
+    "MaxLevel": 1
+  },
+  "3027103": {
+    "Id": 3027103,
+    "Title": "Skill.3027103.1",
+    "FCPath": "AIScript.Monster._30271ShengDanQieChe.Skill02_ThrowGiftLv1",
+    "Type": 2,
+    "BriefDesc": "Skill.3027103.13",
+    "Desc": "Skill.3027103.2",
+    "MaxLevel": 1
+  },
+  "3027104": {
+    "Id": 3027104,
+    "Title": "Skill.3027104.1",
+    "FCPath": "AIScript.Monster._30271ShengDanQieChe.Skill02_ThrowGiftLv2",
+    "Type": 2,
+    "BriefDesc": "Skill.3027104.13",
+    "Desc": "Skill.3027104.2",
+    "MaxLevel": 1
+  },
+  "3027105": {
+    "Id": 3027105,
+    "Title": "Skill.3027105.1",
+    "FCPath": "AIScript.Monster._30271ShengDanQieChe.Skill03_Dash",
+    "Type": 2,
+    "BriefDesc": "Skill.3027105.13",
+    "Desc": "Skill.3027105.2",
+    "MaxLevel": 1
+  },
+  "3027106": {
+    "Id": 3027106,
+    "Title": "Skill.3027106.1",
+    "FCPath": "AIScript.Monster._30271ShengDanQieChe.Skill03_DashThrowLv1",
+    "Type": 2,
+    "BriefDesc": "Skill.3027106.13",
+    "Desc": "Skill.3027106.2",
+    "MaxLevel": 1
+  },
+  "3027107": {
+    "Id": 3027107,
+    "Title": "Skill.3027107.1",
+    "FCPath": "AIScript.Monster._30271ShengDanQieChe.Skill03_DashThrowLv2",
+    "Type": 2,
+    "BriefDesc": "Skill.3027107.13",
+    "Desc": "Skill.3027107.2",
+    "MaxLevel": 1
+  },
+  "3027108": {
+    "Id": 3027108,
+    "Title": "Skill.3027108.1",
+    "FCPath": "AIScript.Monster._30271ShengDanQieChe.Skill04_CallGiftMachine",
+    "Type": 2,
+    "BriefDesc": "Skill.3027108.13",
+    "Desc": "Skill.3027108.2",
+    "MaxLevel": 1
+  },
+  "3027109": {
+    "Id": 3027109,
+    "Title": "Skill.3027109.1",
+    "FCPath": "AIScript.Monster._30271ShengDanQieChe.Skill05_CallMinions",
+    "Type": 2,
+    "BriefDesc": "Skill.3027109.13",
+    "Desc": "Skill.3027109.2",
+    "MaxLevel": 1
+  },
+  "3027110": {
+    "Id": 3027110,
+    "Title": "Skill.3027110.1",
+    "FCPath": "AIScript.Monster._30271ShengDanQieChe.Skill06_CrazyRotation",
+    "Type": 2,
+    "BriefDesc": "Skill.3027110.13",
+    "Desc": "Skill.3027110.2",
+    "MaxLevel": 1
+  },
+  "3027111": {
+    "Id": 3027111,
+    "Title": "Skill.3027111.1",
+    "FCPath": "AIScript.Monster._30271ShengDanQieChe.Skill11_Spawn",
+    "Type": 2,
+    "BriefDesc": "Skill.3027111.13",
+    "Desc": "Skill.3027111.2",
+    "MaxLevel": 1
+  },
+  "3027112": {
+    "Id": 3027112,
+    "Title": "Skill.3027112.1",
+    "FCPath": "AIScript.Monster._30271ShengDanQieChe.Skill12_Escaping",
+    "Type": 2,
+    "BriefDesc": "Skill.3027112.13",
+    "Desc": "Skill.3027112.2",
+    "MaxLevel": 1
+  },
+  "3027113": {
+    "Id": 3027113,
+    "Title": "Skill.3027113.1",
+    "FCPath": "AIScript.Monster._30271ShengDanQieChe.Skill13_RunningAway",
+    "Type": 2,
+    "BriefDesc": "Skill.3027113.13",
+    "Desc": "Skill.3027113.2",
+    "MaxLevel": 1
+  },
+  "3027114": {
+    "Id": 3027114,
+    "Title": "Skill.3027114.1",
+    "FCPath": "AIScript.Monster._30271ShengDanQieChe.EmptyMonster_AttackWaveLeft",
+    "Type": 2,
+    "BriefDesc": "Skill.3027114.13",
+    "Desc": "Skill.3027114.2",
+    "MaxLevel": 1
+  },
+  "3027115": {
+    "Id": 3027115,
+    "Title": "Skill.3027115.1",
+    "FCPath": "AIScript.Monster._30271ShengDanQieChe.EmptyMonster_AttackWaveRight",
+    "Type": 2,
+    "BriefDesc": "Skill.3027115.13",
+    "Desc": "Skill.3027115.2",
+    "MaxLevel": 1
+  },
+  "3027116": {
+    "Id": 3027116,
+    "Title": "Skill.3027116.1",
+    "FCPath": "AIScript.Monster._30271ShengDanQieChe.Skill02_ThrowGiftLv1_1",
+    "Type": 2,
+    "BriefDesc": "Skill.3027116.13",
+    "Desc": "Skill.3027116.2",
+    "MaxLevel": 1
+  },
+  "3027117": {
+    "Id": 3027117,
+    "Title": "Skill.3027117.1",
+    "FCPath": "AIScript.Monster._30271ShengDanQieChe.EmptyMonster_Spawn",
+    "Type": 2,
+    "BriefDesc": "Skill.3027117.13",
+    "Desc": "Skill.3027117.2",
+    "MaxLevel": 1
+  },
+  "3027120": {
+    "Id": 3027120,
+    "Title": "Skill.3027120.1",
+    "FCPath": "AIScript.Monster._30271ShengDanQieChe.Skill_SpecialSpawn",
+    "Type": 2,
+    "BriefDesc": "Skill.3027120.13",
+    "Desc": "Skill.3027120.2",
+    "MaxLevel": 1
+  },
+  "3027121": {
+    "Id": 3027121,
+    "Title": "Skill.3027121.1",
+    "FCPath": "AIScript.Monster._30271ShengDanQieChe.Skill_SpecialDeath",
+    "Type": 2,
+    "BriefDesc": "Skill.3027121.13",
+    "Desc": "Skill.3027121.2",
+    "MaxLevel": 1
+  },
+  "3027122": {
+    "Id": 3027122,
+    "Title": "Skill.3027122.1",
+    "FCPath": "AIScript.Monster._30271ShengDanQieChe.Skill_SpecialDash",
+    "Type": 2,
+    "BriefDesc": "Skill.3027122.13",
+    "Desc": "Skill.3027122.2",
+    "MaxLevel": 1
+  },
+  "3027123": {
+    "Id": 3027123,
+    "Title": "Skill.3027123.1",
+    "FCPath": "AIScript.Monster._30271ShengDanQieChe.Skill_SpecialRound",
+    "Type": 2,
+    "BriefDesc": "Skill.3027123.13",
+    "Desc": "Skill.3027123.2",
+    "MaxLevel": 1
+  },
+  "3027124": {
+    "Id": 3027124,
+    "Title": "Skill.3027124.1",
+    "FCPath": "AIScript.Monster._30271ShengDanQieChe.Skill_SpecialSpawnIdle",
+    "Type": 2,
+    "BriefDesc": "Skill.3027124.13",
+    "Desc": "Skill.3027124.2",
+    "MaxLevel": 1
+  },
+  "3027125": {
+    "Id": 3027125,
+    "Title": "Skill.3027125.1",
+    "FCPath": "AIScript.Monster._30271ShengDanQieChe.Skill_SpecialDeathIdle",
+    "Type": 2,
+    "BriefDesc": "Skill.3027125.13",
+    "Desc": "Skill.3027125.2",
     "MaxLevel": 1
   },
   "1000911": {
@@ -15526,6 +15949,60 @@
     "Desc": "Skill.5057113.2",
     "MaxLevel": 1
   },
+  "5057114": {
+    "Id": 5057114,
+    "Title": "Skill.5057114.1",
+    "FCPath": "AIScript.Monster._50571FengShanJi.Skill_BalloonSummon_BossRush",
+    "Type": 2,
+    "BriefDesc": "Skill.5057114.13",
+    "Desc": "Skill.5057114.2",
+    "MaxLevel": 1
+  },
+  "5057115": {
+    "Id": 5057115,
+    "Title": "Skill.5057115.1",
+    "FCPath": "AIScript.Monster._50571FengShanJi.Skill_Crush_BossRush",
+    "Type": 2,
+    "BriefDesc": "Skill.5057115.13",
+    "Desc": "Skill.5057115.2",
+    "MaxLevel": 1
+  },
+  "5057116": {
+    "Id": 5057116,
+    "Title": "Skill.5057116.1",
+    "FCPath": "AIScript.Monster._50571FengShanJi.Skill_WindBlast_BossRush",
+    "Type": 2,
+    "BriefDesc": "Skill.5057116.13",
+    "Desc": "Skill.5057116.2",
+    "MaxLevel": 1
+  },
+  "5057117": {
+    "Id": 5057117,
+    "Title": "Skill.5057117.1",
+    "FCPath": "AIScript.Monster._50571FengShanJi.Skill_WindBlade_BossRush",
+    "Type": 2,
+    "BriefDesc": "Skill.5057117.13",
+    "Desc": "Skill.5057117.2",
+    "MaxLevel": 1
+  },
+  "5057118": {
+    "Id": 5057118,
+    "Title": "Skill.5057118.1",
+    "FCPath": "AIScript.Monster._50571FengShanJi.Skill_SpinShoot_BossRush",
+    "Type": 2,
+    "BriefDesc": "Skill.5057118.13",
+    "Desc": "Skill.5057118.2",
+    "MaxLevel": 1
+  },
+  "5057119": {
+    "Id": 5057119,
+    "Title": "Skill.5057119.1",
+    "FCPath": "AIScript.Monster._50571FengShanJi.Skill_ShootTwice_BossRush",
+    "Type": 2,
+    "BriefDesc": "Skill.5057119.13",
+    "Desc": "Skill.5057119.2",
+    "MaxLevel": 1
+  },
   "5057199": {
     "Id": 5057199,
     "Title": "Skill.5057199.1",
@@ -16303,7 +16780,7 @@
   "7000101": {
     "Id": 7000101,
     "Title": "Skill.7000101.1",
-    "FCPath": "AIScript.Monster._70001JuYuanMeiYing.Skill_Born",
+    "FCPath": "AIScript.Monster._70001JuYuanMeiYing.Skill_Born_Phase_1",
     "Type": 2,
     "BriefDesc": "Skill.7000101.13",
     "Desc": "Skill.7000101.2",
@@ -16312,7 +16789,7 @@
   "7000102": {
     "Id": 7000102,
     "Title": "Skill.7000102.1",
-    "FCPath": "AIScript.Monster._70001JuYuanMeiYing.Skill_Smash",
+    "FCPath": "AIScript.Monster._70001JuYuanMeiYing.Skill_Smash_Phase_1",
     "Type": 2,
     "BriefDesc": "Skill.7000102.13",
     "Desc": "Skill.7000102.2",
@@ -16321,7 +16798,7 @@
   "7000103": {
     "Id": 7000103,
     "Title": "Skill.7000103.1",
-    "FCPath": "AIScript.Monster._70001JuYuanMeiYing.Skill_LightShoot",
+    "FCPath": "AIScript.Monster._70001JuYuanMeiYing.Skill_LightShoot_Phase_1",
     "Type": 2,
     "BriefDesc": "Skill.7000103.13",
     "Desc": "Skill.7000103.2",
@@ -16330,7 +16807,7 @@
   "7000104": {
     "Id": 7000104,
     "Title": "Skill.7000104.1",
-    "FCPath": "AIScript.Monster._70001JuYuanMeiYing.Skill_Boom",
+    "FCPath": "AIScript.Monster._70001JuYuanMeiYing.Skill_Boom_Phase_1",
     "Type": 2,
     "BriefDesc": "Skill.7000104.13",
     "Desc": "Skill.7000104.2",
@@ -16339,7 +16816,7 @@
   "7000105": {
     "Id": 7000105,
     "Title": "Skill.7000105.1",
-    "FCPath": "AIScript.Monster._70001JuYuanMeiYing.Skill_Danmu",
+    "FCPath": "AIScript.Monster._70001JuYuanMeiYing.Skill_Danmu_Phase_1",
     "Type": 2,
     "BriefDesc": "Skill.7000105.13",
     "Desc": "Skill.7000105.2",
@@ -16348,7 +16825,7 @@
   "7000106": {
     "Id": 7000106,
     "Title": "Skill.7000106.1",
-    "FCPath": "AIScript.Monster._70001JuYuanMeiYing.Skill_Laser",
+    "FCPath": "AIScript.Monster._70001JuYuanMeiYing.Skill_Laser_Phase_1",
     "Type": 2,
     "BriefDesc": "Skill.7000106.13",
     "Desc": "Skill.7000106.2",
@@ -16357,7 +16834,7 @@
   "7000107": {
     "Id": 7000107,
     "Title": "Skill.7000107.1",
-    "FCPath": "AIScript.Monster._70001JuYuanMeiYing.Skill_GravityField",
+    "FCPath": "AIScript.Monster._70001JuYuanMeiYing.Skill_GravityField_Phase_1",
     "Type": 2,
     "BriefDesc": "Skill.7000107.13",
     "Desc": "Skill.7000107.2",
@@ -16366,7 +16843,7 @@
   "7000108": {
     "Id": 7000108,
     "Title": "Skill.7000108.1",
-    "FCPath": "AIScript.Monster._70001JuYuanMeiYing.Skill_Smash2",
+    "FCPath": "AIScript.Monster._70001JuYuanMeiYing.Skill_Smash2_Phase_1",
     "Type": 2,
     "BriefDesc": "Skill.7000108.13",
     "Desc": "Skill.7000108.2",
@@ -16375,7 +16852,7 @@
   "7000109": {
     "Id": 7000109,
     "Title": "Skill.7000109.1",
-    "FCPath": "AIScript.Monster._70001JuYuanMeiYing.Skill_LightShoot2",
+    "FCPath": "AIScript.Monster._70001JuYuanMeiYing.Skill_LightShoot2_Phase_1",
     "Type": 2,
     "BriefDesc": "Skill.7000109.13",
     "Desc": "Skill.7000109.2",
@@ -16384,7 +16861,7 @@
   "7000110": {
     "Id": 7000110,
     "Title": "Skill.7000110.1",
-    "FCPath": "AIScript.Monster._70001JuYuanMeiYing.Skill_Boom2",
+    "FCPath": "AIScript.Monster._70001JuYuanMeiYing.Skill_Boom2_Phase_1",
     "Type": 2,
     "BriefDesc": "Skill.7000110.13",
     "Desc": "Skill.7000110.2",
@@ -16393,7 +16870,7 @@
   "7000111": {
     "Id": 7000111,
     "Title": "Skill.7000111.1",
-    "FCPath": "AIScript.Monster._70001JuYuanMeiYing.Skill_Danmu2",
+    "FCPath": "AIScript.Monster._70001JuYuanMeiYing.Skill_Danmu2_Phase_1",
     "Type": 2,
     "BriefDesc": "Skill.7000111.13",
     "Desc": "Skill.7000111.2",
@@ -16402,7 +16879,7 @@
   "7000112": {
     "Id": 7000112,
     "Title": "Skill.7000112.1",
-    "FCPath": "AIScript.Monster._70001JuYuanMeiYing.Skill_Laser2",
+    "FCPath": "AIScript.Monster._70001JuYuanMeiYing.Skill_Laser2_Phase_1",
     "Type": 2,
     "BriefDesc": "Skill.7000112.13",
     "Desc": "Skill.7000112.2",
@@ -16411,7 +16888,7 @@
   "7000113": {
     "Id": 7000113,
     "Title": "Skill.7000113.1",
-    "FCPath": "AIScript.Monster._70001JuYuanMeiYing.Skill_EnergyRay",
+    "FCPath": "AIScript.Monster._70001JuYuanMeiYing.Skill_EnergyRay_Phase_1",
     "Type": 2,
     "BriefDesc": "Skill.7000113.13",
     "Desc": "Skill.7000113.2",
@@ -16420,7 +16897,7 @@
   "7000114": {
     "Id": 7000114,
     "Title": "Skill.7000114.1",
-    "FCPath": "AIScript.Monster._70001JuYuanMeiYing.Skill_Ultra",
+    "FCPath": "AIScript.Monster._70001JuYuanMeiYing.Skill_Ultra_Phase_1",
     "Type": 2,
     "BriefDesc": "Skill.7000114.13",
     "Desc": "Skill.7000114.2",
@@ -16438,7 +16915,7 @@
   "7000120": {
     "Id": 7000120,
     "Title": "Skill.7000120.1",
-    "FCPath": "AIScript.Monster._70001JuYuanMeiYing.Skill_Summon_Born",
+    "FCPath": "AIScript.Monster._70001JuYuanMeiYing.Skill_Summon_Born_Phase_1",
     "Type": 2,
     "BriefDesc": "Skill.7000120.13",
     "Desc": "Skill.7000120.2",
@@ -16447,7 +16924,7 @@
   "7000121": {
     "Id": 7000121,
     "Title": "Skill.7000121.1",
-    "FCPath": "AIScript.Monster._70001JuYuanMeiYing.Skill_Summon_Laser",
+    "FCPath": "AIScript.Monster._70001JuYuanMeiYing.Skill_Summon_Laser_Phase_1",
     "Type": 2,
     "BriefDesc": "Skill.7000121.13",
     "Desc": "Skill.7000121.2",
@@ -16456,7 +16933,7 @@
   "7000122": {
     "Id": 7000122,
     "Title": "Skill.7000122.1",
-    "FCPath": "AIScript.Monster._70001JuYuanMeiYing.Skill_Summon_Laser2",
+    "FCPath": "AIScript.Monster._70001JuYuanMeiYing.Skill_Summon_Laser2_Phase_1",
     "Type": 2,
     "BriefDesc": "Skill.7000122.13",
     "Desc": "Skill.7000122.2",
@@ -16465,7 +16942,7 @@
   "7000123": {
     "Id": 7000123,
     "Title": "Skill.7000123.1",
-    "FCPath": "AIScript.Monster._70001JuYuanMeiYing.Skill_Summon_Boom",
+    "FCPath": "AIScript.Monster._70001JuYuanMeiYing.Skill_Summon_Boom_Phase_1",
     "Type": 2,
     "BriefDesc": "Skill.7000123.13",
     "Desc": "Skill.7000123.2",
@@ -16474,7 +16951,7 @@
   "7000124": {
     "Id": 7000124,
     "Title": "Skill.7000124.1",
-    "FCPath": "AIScript.Monster._70001JuYuanMeiYing.Skill_Summon_Boom2",
+    "FCPath": "AIScript.Monster._70001JuYuanMeiYing.Skill_Summon_Boom2_Phase_1",
     "Type": 2,
     "BriefDesc": "Skill.7000124.13",
     "Desc": "Skill.7000124.2",
@@ -16483,7 +16960,7 @@
   "7000125": {
     "Id": 7000125,
     "Title": "Skill.7000125.1",
-    "FCPath": "AIScript.Monster._70001JuYuanMeiYing.Skill_Summon_Danmu",
+    "FCPath": "AIScript.Monster._70001JuYuanMeiYing.Skill_Summon_Danmu_Phase_1",
     "Type": 2,
     "BriefDesc": "Skill.7000125.13",
     "Desc": "Skill.7000125.2",
@@ -16492,7 +16969,7 @@
   "7000126": {
     "Id": 7000126,
     "Title": "Skill.7000126.1",
-    "FCPath": "AIScript.Monster._70001JuYuanMeiYing.Skill_Summon_Danmu2",
+    "FCPath": "AIScript.Monster._70001JuYuanMeiYing.Skill_Summon_Danmu2_Phase_1",
     "Type": 2,
     "BriefDesc": "Skill.7000126.13",
     "Desc": "Skill.7000126.2",
@@ -16501,7 +16978,7 @@
   "7000127": {
     "Id": 7000127,
     "Title": "Skill.7000127.1",
-    "FCPath": "AIScript.Monster._70001JuYuanMeiYing.Skill_Summon_LightShoot2",
+    "FCPath": "AIScript.Monster._70001JuYuanMeiYing.Skill_Summon_LightShoot2_Phase_1",
     "Type": 2,
     "BriefDesc": "Skill.7000127.13",
     "Desc": "Skill.7000127.2",
@@ -16510,7 +16987,7 @@
   "7000128": {
     "Id": 7000128,
     "Title": "Skill.7000128.1",
-    "FCPath": "AIScript.Monster._70001JuYuanMeiYing.Skill_Summon_Smash2",
+    "FCPath": "AIScript.Monster._70001JuYuanMeiYing.Skill_Summon_Smash2_Phase_1",
     "Type": 2,
     "BriefDesc": "Skill.7000128.13",
     "Desc": "Skill.7000128.2",
@@ -16519,7 +16996,7 @@
   "7000129": {
     "Id": 7000129,
     "Title": "Skill.7000129.1",
-    "FCPath": "AIScript.Monster._70001JuYuanMeiYing.Skill_Summon_Ultra",
+    "FCPath": "AIScript.Monster._70001JuYuanMeiYing.Skill_Summon_Ultra_Phase_1",
     "Type": 2,
     "BriefDesc": "Skill.7000129.13",
     "Desc": "Skill.7000129.2",
@@ -16528,19 +17005,64 @@
   "7000130": {
     "Id": 7000130,
     "Title": "Skill.7000130.1",
-    "FCPath": "AIScript.Monster._70001JuYuanMeiYing.Skill_Summon_Dead",
+    "FCPath": "AIScript.Monster._70001JuYuanMeiYing.Skill_Summon_Dead_Phase_1",
     "Type": 2,
     "BriefDesc": "Skill.7000130.13",
     "Desc": "Skill.7000130.2",
     "MaxLevel": 1
   },
-  "7000199": {
-    "Id": 7000199,
-    "Title": "Skill.7000199.1",
-    "FCPath": "AIScript.Monster._70001JuYuanMeiYing.Skill_Summon_StopMove",
+  "7000131": {
+    "Id": 7000131,
+    "Title": "Skill.7000131.1",
+    "FCPath": "AIScript.Monster._70001JuYuanMeiYing.Skill_Summon_StopMove_Phase_1",
     "Type": 2,
-    "BriefDesc": "Skill.7000199.13",
-    "Desc": "Skill.7000199.2",
+    "BriefDesc": "Skill.7000131.13",
+    "Desc": "Skill.7000131.2",
+    "MaxLevel": 1
+  },
+  "7000140": {
+    "Id": 7000140,
+    "Title": "Skill.7000140.1",
+    "FCPath": "AIScript.Monster._70001JuYuanMeiYing.Skill_Born_Phase_2",
+    "Type": 2,
+    "BriefDesc": "Skill.7000140.13",
+    "Desc": "Skill.7000140.2",
+    "MaxLevel": 1
+  },
+  "7000141": {
+    "Id": 7000141,
+    "Title": "Skill.7000141.1",
+    "FCPath": "AIScript.Monster._70001JuYuanMeiYing.Skill_GravityField_Phase_2",
+    "Type": 2,
+    "BriefDesc": "Skill.7000141.13",
+    "Desc": "Skill.7000141.2",
+    "MaxLevel": 1
+  },
+  "7000142": {
+    "Id": 7000142,
+    "Title": "Skill.7000142.1",
+    "FCPath": "AIScript.Monster._70001JuYuanMeiYing.Skill_Ultra_Phase_2",
+    "Type": 2,
+    "BriefDesc": "Skill.7000142.13",
+    "Desc": "Skill.7000142.2",
+    "MaxLevel": 1
+  },
+  "7000143": {
+    "Id": 7000143,
+    "Title": "Skill.7000143.1",
+    "FCPath": "AIScript.Monster._70001JuYuanMeiYing.Skill_Summon_Born_Phase_2",
+    "Type": 2,
+    "BriefDesc": "Skill.7000143.13",
+    "Desc": "Skill.7000143.2",
+    "MaxLevel": 1
+  },
+  "7000144": {
+    "Id": 7000144,
+    "Title": "Skill.7000144.1",
+    "FCPath": "AIScript.Monster._70001JuYuanMeiYing.Skill_Summon_Dead_Phase_2",
+    "Type": 2,
+    "BriefDesc": "Skill.7000144.13",
+    "Desc": "Skill.7000144.2",
     "MaxLevel": 1
   },
   "9912101": {
@@ -17019,6 +17541,156 @@
     "Desc": "Skill.8015605.2",
     "MaxLevel": 1
   },
+  "8013301": {
+    "Id": 8013301,
+    "Title": "Skill.8013301.1",
+    "FCPath": "AIScript.Monster.TowerDefense._13301.SkillScript_NormalAttack",
+    "Type": 1,
+    "BriefDesc": "Skill.8013301.13",
+    "Desc": "Skill.8013301.2",
+    "Icon": "Icon/Skill/13301_Normal",
+    "MaxLevel": 1
+  },
+  "8013302": {
+    "Id": 8013302,
+    "Title": "Skill.8013302.1",
+    "FCPath": "AIScript.Monster.TowerDefense._13301.SkillScript_Skill",
+    "Type": 2,
+    "BriefDesc": "Skill.8013302.13",
+    "Desc": "Skill.8013302.2",
+    "Icon": "Icon/Skill/13301_Skill_Main",
+    "MaxLevel": 1
+  },
+  "8011801": {
+    "Id": 8011801,
+    "Title": "Skill.8011801.1",
+    "FCPath": "AIScript.Monster.TowerDefense._11801.SkillScript_NormalAttack",
+    "Type": 1,
+    "BriefDesc": "Skill.8011801.13",
+    "Desc": "Skill.8011801.2",
+    "Icon": "Icon/Skill/11801_Normal",
+    "MaxLevel": 1
+  },
+  "8011802": {
+    "Id": 8011802,
+    "Title": "Skill.8011802.1",
+    "FCPath": "AIScript.Monster.TowerDefense._11801.SkillScript_Skill",
+    "Type": 2,
+    "BriefDesc": "Skill.8011802.13",
+    "Desc": "Skill.8011802.2",
+    "Icon": "Icon/Skill/11801_Skill_Support",
+    "MaxLevel": 1
+  },
+  "8011001": {
+    "Id": 8011001,
+    "Title": "Skill.8011001.1",
+    "FCPath": "AIScript.Monster.TowerDefense._11001.SkillScript_NormalAttack",
+    "Type": 1,
+    "BriefDesc": "Skill.8011001.13",
+    "Desc": "Skill.8011001.2",
+    "Icon": "Icon/Skill/11001_Normal",
+    "MaxLevel": 1
+  },
+  "8011002": {
+    "Id": 8011002,
+    "Title": "Skill.8011002.1",
+    "FCPath": "AIScript.Monster.TowerDefense._11001.SkillScript_Skill",
+    "Type": 2,
+    "BriefDesc": "Skill.8011002.13",
+    "Desc": "Skill.8011002.2",
+    "Icon": "Icon/Skill/11001_Skill_Main",
+    "MaxLevel": 1
+  },
+  "8011003": {
+    "Id": 8011003,
+    "Title": "Skill.8011003.1",
+    "FCPath": "AIScript.Monster.TowerDefense._11001.Skill_Spawn",
+    "Type": 2,
+    "BriefDesc": "Skill.8011003.13",
+    "Desc": "Skill.8011003.2",
+    "Icon": "Icon/Skill/11001_Skill_Main",
+    "MaxLevel": 1
+  },
+  "8011004": {
+    "Id": 8011004,
+    "Title": "Skill.8011004.1",
+    "FCPath": "AIScript.Monster.TowerDefense._11001.SkillScript_Death",
+    "Type": 2,
+    "BriefDesc": "Skill.8011004.13",
+    "Desc": "Skill.8011004.2",
+    "Icon": "Icon/Skill/11001_Skill_Main",
+    "MaxLevel": 1
+  },
+  "8011005": {
+    "Id": 8011005,
+    "Title": "Skill.8011005.1",
+    "FCPath": "AIScript.Monster.TowerDefense._11001.SkillScript_SummonNormalAttack",
+    "Type": 2,
+    "BriefDesc": "Skill.8011005.13",
+    "Desc": "Skill.8011005.2",
+    "Icon": "Icon/Skill/11001_Skill_Main",
+    "MaxLevel": 1
+  },
+  "8011006": {
+    "Id": 8011006,
+    "Title": "Skill.8011006.1",
+    "FCPath": "AIScript.Monster.TowerDefense._11001.SkillScript_SummonSkill",
+    "Type": 2,
+    "BriefDesc": "Skill.8011006.13",
+    "Desc": "Skill.8011006.2",
+    "Icon": "Icon/Skill/11001_Skill_Main",
+    "MaxLevel": 1
+  },
+  "8012301": {
+    "Id": 8012301,
+    "Title": "Skill.8012301.1",
+    "FCPath": "AIScript.Monster.TowerDefense._12301.SkillScript_NormalAttack",
+    "Type": 1,
+    "BriefDesc": "Skill.8012301.13",
+    "Desc": "Skill.8012301.2",
+    "Icon": "Icon/Skill/12301_Normal",
+    "MaxLevel": 1
+  },
+  "8012302": {
+    "Id": 8012302,
+    "Title": "Skill.8012302.1",
+    "FCPath": "AIScript.Monster.TowerDefense._12301.SkillScript_Skill",
+    "Type": 2,
+    "BriefDesc": "Skill.8012302.13",
+    "Desc": "Skill.8012302.2",
+    "Icon": "Icon/Skill/12301_Skill_Main",
+    "MaxLevel": 1
+  },
+  "8012303": {
+    "Id": 8012303,
+    "Title": "Skill.8012303.1",
+    "FCPath": "AIScript.Monster.TowerDefense._12301.Skill_Spawn",
+    "Type": 2,
+    "BriefDesc": "Skill.8012303.13",
+    "Desc": "Skill.8012303.2",
+    "Icon": "Icon/Skill/11001_Skill_Main",
+    "MaxLevel": 1
+  },
+  "8012304": {
+    "Id": 8012304,
+    "Title": "Skill.8012304.1",
+    "FCPath": "AIScript.Monster.TowerDefense._12301.SkillScript_Death",
+    "Type": 2,
+    "BriefDesc": "Skill.8012304.13",
+    "Desc": "Skill.8012304.2",
+    "Icon": "Icon/Skill/11001_Skill_Main",
+    "MaxLevel": 1
+  },
+  "8012305": {
+    "Id": 8012305,
+    "Title": "Skill.8012305.1",
+    "FCPath": "AIScript.Monster.TowerDefense._12301.SkillScript_SummonNormalAttack",
+    "Type": 2,
+    "BriefDesc": "Skill.8012305.13",
+    "Desc": "Skill.8012305.2",
+    "Icon": "Icon/Skill/11001_Skill_Main",
+    "MaxLevel": 1
+  },
   "8000001": {
     "Id": 8000001,
     "Title": "Skill.8000001.1",
@@ -17045,6 +17717,15 @@
     "Desc": "Skill.8070101.2",
     "MaxLevel": 1
   },
+  "8070201": {
+    "Id": 8070201,
+    "Title": "Skill.8070201.1",
+    "FCPath": "AIScript.Monster.TowerDefense.Skill.Skill_YinYing_WeightUp",
+    "Type": 2,
+    "BriefDesc": "Skill.8070201.13",
+    "Desc": "Skill.8070201.2",
+    "MaxLevel": 1
+  },
   "8080101": {
     "Id": 8080101,
     "Title": "Skill.8080101.1",
@@ -17052,6 +17733,15 @@
     "Type": 2,
     "BriefDesc": "Skill.8080101.13",
     "Desc": "Skill.8080101.2",
+    "MaxLevel": 1
+  },
+  "8080201": {
+    "Id": 8080201,
+    "Title": "Skill.8080201.1",
+    "FCPath": "AIScript.Monster.TowerDefense.Skill.Skill_ChuanSongGuai_WeightUp",
+    "Type": 2,
+    "BriefDesc": "Skill.8080201.13",
+    "Desc": "Skill.8080201.2",
     "MaxLevel": 1
   }
 }

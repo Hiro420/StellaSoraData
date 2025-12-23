@@ -1706,7 +1706,7 @@
   "114000001": {
     "Id": 114000001,
     "levelTypeData": 4,
-    "HitdamageInfo": "火系印记触发伤害",
+    "HitdamageInfo": "???",
     "DistanceType": 2,
     "SourceType": 1,
     "DamageType": 5,
@@ -1760,7 +1760,7 @@
     "Id": 114100001,
     "levelTypeData": 3,
     "LevelData": 5,
-    "HitdamageInfo": "普攻伤害",
+    "HitdamageInfo": "???",
     "DistanceType": 2,
     "SourceType": 1,
     "DamageType": 1,
@@ -1823,7 +1823,7 @@
     "levelTypeData": 3,
     "LevelData": 2,
     "MainOrSupport": 1,
-    "HitdamageInfo": "主控技能狙击蓄力1级子弹",
+    "HitdamageInfo": "???",
     "DistanceType": 2,
     "SourceType": 1,
     "DamageType": 2,
@@ -1888,7 +1888,7 @@
     "levelTypeData": 3,
     "LevelData": 2,
     "MainOrSupport": 1,
-    "HitdamageInfo": "主控技能狙击蓄力2级子弹",
+    "HitdamageInfo": "???",
     "DistanceType": 2,
     "SourceType": 1,
     "DamageType": 2,
@@ -1954,7 +1954,7 @@
     "levelTypeData": 3,
     "LevelData": 2,
     "MainOrSupport": 1,
-    "HitdamageInfo": "主控技能潜能01狙击蓄力3级子弹",
+    "HitdamageInfo": "???",
     "DistanceType": 2,
     "SourceType": 1,
     "DamageType": 2,
@@ -2019,7 +2019,7 @@
     "levelTypeData": 3,
     "LevelData": 2,
     "MainOrSupport": 1,
-    "HitdamageInfo": "主控技能潜能02狙击蓄力2级QTE子弹",
+    "HitdamageInfo": "???",
     "DistanceType": 2,
     "SourceType": 1,
     "DamageType": 2,
@@ -2085,7 +2085,7 @@
     "levelTypeData": 3,
     "LevelData": 2,
     "MainOrSupport": 1,
-    "HitdamageInfo": "主控技能潜能02狙击蓄力3级QTE子弹",
+    "HitdamageInfo": "???",
     "DistanceType": 2,
     "SourceType": 1,
     "DamageType": 2,
@@ -2152,7 +2152,7 @@
     "levelTypeData": 3,
     "LevelData": 2,
     "MainOrSupport": 1,
-    "HitdamageInfo": "主控技能潜能031级射线子弹",
+    "HitdamageInfo": "???",
     "DistanceType": 2,
     "SourceType": 1,
     "DamageType": 2,
@@ -2217,7 +2217,7 @@
     "Id": 114506001,
     "levelTypeData": 1,
     "LevelData": 511406,
-    "HitdamageInfo": "主控技能潜能06射击路径残留AOE",
+    "HitdamageInfo": "???",
     "DistanceType": 2,
     "SourceType": 1,
     "DamageType": 2,
@@ -2276,7 +2276,7 @@
     "levelTypeData": 3,
     "LevelData": 2,
     "MainOrSupport": 2,
-    "HitdamageInfo": "支援技能三连射击子弹",
+    "HitdamageInfo": "???",
     "DistanceType": 2,
     "SourceType": 1,
     "DamageType": 2,
@@ -2341,7 +2341,7 @@
     "levelTypeData": 3,
     "LevelData": 2,
     "MainOrSupport": 2,
-    "HitdamageInfo": "支援技能潜能23扇形扩散伤害",
+    "HitdamageInfo": "???",
     "DistanceType": 2,
     "SourceType": 1,
     "DamageType": 2,
@@ -2404,7 +2404,7 @@
     "levelTypeData": 3,
     "LevelData": 2,
     "MainOrSupport": 2,
-    "HitdamageInfo": "支援技能潜能24杀敌爆炸伤害",
+    "HitdamageInfo": "???",
     "DistanceType": 2,
     "SourceType": 1,
     "DamageType": 2,
@@ -2466,7 +2466,7 @@
     "Id": 114400001,
     "levelTypeData": 3,
     "LevelData": 4,
-    "HitdamageInfo": "大招伤害",
+    "HitdamageInfo": "???",
     "DistanceType": 2,
     "SourceType": 1,
     "DamageType": 3,
@@ -2526,7 +2526,7 @@
   "114409061": {
     "Id": 114409061,
     "levelTypeData": 4,
-    "HitdamageInfo": "大招6命追加激光伤害",
+    "HitdamageInfo": "???",
     "DistanceType": 2,
     "SourceType": 1,
     "DamageType": 3,
@@ -2748,6 +2748,189 @@
       0
     ],
     "EnergyCharge": 29400,
+    "TalentPercentAmend": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "TalentAbsAmend": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "SkillId": 12610000,
+    "SkillSlotType": 5
+  },
+  "126100004": {
+    "Id": 126100004,
+    "levelTypeData": 3,
+    "LevelData": 5,
+    "HitdamageInfo": "紫槿分身火鸟普攻伤害一段/跟随紫槿普攻成长",
+    "DistanceType": 2,
+    "SourceType": 1,
+    "DamageType": 1,
+    "EffectType": 1,
+    "ElementType": 2,
+    "DamageTag": [
+      -1357304125
+    ],
+    "DamageBonusType": 1,
+    "SkillPercentAmend": [
+      125000,
+      137000,
+      150000,
+      187000,
+      200000,
+      212000,
+      237000,
+      250000,
+      262000,
+      287000,
+      300000,
+      312000,
+      325000
+    ],
+    "SkillAbsAmend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "TalentPercentAmend": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "TalentAbsAmend": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "SkillId": 12610000,
+    "SkillSlotType": 5
+  },
+  "126100005": {
+    "Id": 126100005,
+    "levelTypeData": 3,
+    "LevelData": 5,
+    "HitdamageInfo": "紫槿分身火鸟普攻伤害二段/跟随紫槿普攻成长",
+    "DistanceType": 2,
+    "SourceType": 1,
+    "DamageType": 1,
+    "EffectType": 1,
+    "ElementType": 2,
+    "DamageTag": [
+      -1357304125
+    ],
+    "DamageBonusType": 1,
+    "SkillPercentAmend": [
+      142000,
+      157000,
+      171000,
+      214000,
+      228000,
+      242000,
+      270000,
+      285000,
+      299000,
+      327000,
+      342000,
+      356000,
+      370000
+    ],
+    "SkillAbsAmend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "TalentPercentAmend": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "TalentAbsAmend": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "SkillId": 12610000,
+    "SkillSlotType": 5
+  },
+  "126100006": {
+    "Id": 126100006,
+    "levelTypeData": 3,
+    "LevelData": 5,
+    "HitdamageInfo": "紫槿分身火鸟普攻伤害三段/跟随紫槿普攻成长",
+    "DistanceType": 2,
+    "SourceType": 1,
+    "DamageType": 1,
+    "EffectType": 1,
+    "ElementType": 2,
+    "DamageTag": [
+      -1357304125
+    ],
+    "DamageBonusType": 1,
+    "SkillPercentAmend": [
+      249000,
+      274000,
+      299000,
+      374000,
+      399000,
+      424000,
+      474000,
+      499000,
+      523000,
+      573000,
+      598000,
+      623000,
+      648000
+    ],
+    "SkillAbsAmend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
     "TalentPercentAmend": [
       0,
       0,
@@ -3522,7 +3705,7 @@
       0,
       0
     ],
-    "EnergyCharge": 15800,
+    "EnergyCharge": 23700,
     "TalentPercentAmend": [
       0,
       0,
@@ -3586,7 +3769,7 @@
       0,
       0
     ],
-    "EnergyCharge": 31600,
+    "EnergyCharge": 47300,
     "TalentPercentAmend": [
       0,
       0,
@@ -3649,7 +3832,7 @@
       0,
       0
     ],
-    "EnergyCharge": 15800,
+    "EnergyCharge": 23700,
     "TalentPercentAmend": [
       0,
       0,
@@ -3713,7 +3896,7 @@
       0,
       0
     ],
-    "EnergyCharge": 6300,
+    "EnergyCharge": 9500,
     "TalentPercentAmend": [
       0,
       0,
@@ -3777,7 +3960,7 @@
       0,
       0
     ],
-    "EnergyCharge": 15800,
+    "EnergyCharge": 23700,
     "TalentPercentAmend": [
       0,
       0,
@@ -3843,7 +4026,7 @@
       0,
       0
     ],
-    "EnergyCharge": 11100,
+    "EnergyCharge": 18900,
     "TalentPercentAmend": [
       0,
       0,
@@ -3909,7 +4092,7 @@
       0,
       0
     ],
-    "EnergyCharge": 11100,
+    "EnergyCharge": 18900,
     "TalentPercentAmend": [
       0,
       0,
@@ -3974,7 +4157,7 @@
       0,
       0
     ],
-    "EnergyCharge": 11100,
+    "EnergyCharge": 18900,
     "TalentPercentAmend": [
       0,
       0,
@@ -4554,7 +4737,7 @@
       0,
       0
     ],
-    "EnergyCharge": 119400,
+    "EnergyCharge": 68100,
     "TalentPercentAmend": [
       0,
       0,
@@ -4620,7 +4803,7 @@
       0,
       0
     ],
-    "EnergyCharge": 119400,
+    "EnergyCharge": 102200,
     "TalentPercentAmend": [
       0,
       0,
@@ -4680,7 +4863,7 @@
       0,
       0
     ],
-    "EnergyCharge": 16600,
+    "EnergyCharge": 28400,
     "TalentPercentAmend": [
       0,
       0,
@@ -7138,26 +7321,27 @@
   "158000001": {
     "Id": 158000001,
     "levelTypeData": 4,
-    "HitdamageInfo": "火系印记 触发伤害",
+    "HitdamageInfo": "圣诞菈露 火系印记 触发伤害",
     "DistanceType": 1,
     "SourceType": 1,
     "DamageType": 5,
     "EffectType": 1,
     "ElementType": 2,
     "DamageTag": [
-      -453567044
+      -453567044,
+      1053762061
     ],
     "DamageBonusType": 1,
     "SkillPercentAmend": [
-      280000,
-      360000,
-      450000,
-      530000,
-      610000,
-      700000,
-      780000,
-      860000,
-      950000
+      400000,
+      520000,
+      640000,
+      760000,
+      880000,
+      1000000,
+      1120000,
+      1240000,
+      1360000
     ],
     "SkillAbsAmend": [
       0,
@@ -7193,7 +7377,7 @@
     "Id": 158100001,
     "levelTypeData": 3,
     "LevelData": 5,
-    "HitdamageInfo": "普攻 第1段 伤害",
+    "HitdamageInfo": "圣诞菈露 普攻 第1段 伤害",
     "DistanceType": 1,
     "SourceType": 1,
     "DamageType": 1,
@@ -7205,19 +7389,19 @@
     ],
     "DamageBonusType": 1,
     "SkillPercentAmend": [
-      122000,
-      140000,
-      158000,
-      213000,
-      230000,
-      247000,
-      281000,
-      296000,
-      310000,
-      340000,
-      364000,
-      388000,
-      413000
+      85000,
+      98000,
+      110000,
+      149000,
+      160000,
+      172000,
+      196000,
+      206000,
+      217000,
+      237000,
+      254000,
+      271000,
+      288000
     ],
     "SkillAbsAmend": [
       0,
@@ -7234,7 +7418,7 @@
       0,
       0
     ],
-    "EnergyCharge": 37600,
+    "EnergyCharge": 29900,
     "TalentPercentAmend": [
       0,
       0,
@@ -7256,7 +7440,7 @@
     "Id": 158100002,
     "levelTypeData": 3,
     "LevelData": 5,
-    "HitdamageInfo": "普攻 第2段 伤害",
+    "HitdamageInfo": "圣诞菈露 普攻 第2段 伤害",
     "DistanceType": 1,
     "SourceType": 1,
     "DamageType": 1,
@@ -7268,19 +7452,19 @@
     ],
     "DamageBonusType": 1,
     "SkillPercentAmend": [
-      147000,
-      169000,
-      192000,
-      258000,
-      278000,
-      299000,
-      340000,
-      358000,
-      376000,
-      411000,
-      441000,
-      470000,
-      500000
+      116000,
+      134000,
+      151000,
+      203000,
+      220000,
+      236000,
+      269000,
+      283000,
+      297000,
+      325000,
+      348000,
+      371000,
+      394000
     ],
     "SkillAbsAmend": [
       0,
@@ -7297,7 +7481,7 @@
       0,
       0
     ],
-    "EnergyCharge": 37600,
+    "EnergyCharge": 29900,
     "TalentPercentAmend": [
       0,
       0,
@@ -7319,7 +7503,7 @@
     "Id": 158100003,
     "levelTypeData": 3,
     "LevelData": 5,
-    "HitdamageInfo": "普攻 第3段 伤害",
+    "HitdamageInfo": "圣诞菈露 普攻 第3段 伤害",
     "DistanceType": 1,
     "SourceType": 1,
     "DamageType": 1,
@@ -7331,19 +7515,19 @@
     ],
     "DamageBonusType": 1,
     "SkillPercentAmend": [
-      72000,
-      83000,
-      94000,
-      126000,
-      136000,
-      146000,
-      166000,
-      175000,
-      184000,
-      201000,
-      215000,
-      230000,
-      244000
+      116000,
+      134000,
+      151000,
+      203000,
+      220000,
+      236000,
+      269000,
+      283000,
+      297000,
+      325000,
+      348000,
+      371000,
+      394000
     ],
     "SkillAbsAmend": [
       0,
@@ -7360,7 +7544,7 @@
       0,
       0
     ],
-    "EnergyCharge": 9400,
+    "EnergyCharge": 29900,
     "TalentPercentAmend": [
       0,
       0,
@@ -7382,7 +7566,7 @@
     "Id": 158100004,
     "levelTypeData": 3,
     "LevelData": 5,
-    "HitdamageInfo": "普攻 第4段 伤害",
+    "HitdamageInfo": "圣诞菈露 普攻 第4段 伤害",
     "DistanceType": 1,
     "SourceType": 1,
     "DamageType": 1,
@@ -7394,19 +7578,19 @@
     ],
     "DamageBonusType": 1,
     "SkillPercentAmend": [
-      67000,
-      77000,
-      87000,
-      118000,
-      127000,
-      136000,
-      155000,
-      163000,
-      171000,
-      188000,
-      201000,
-      214000,
-      228000
+      31000,
+      35000,
+      40000,
+      54000,
+      58000,
+      62000,
+      71000,
+      75000,
+      78000,
+      86000,
+      92000,
+      98000,
+      104000
     ],
     "SkillAbsAmend": [
       0,
@@ -7423,7 +7607,7 @@
       0,
       0
     ],
-    "EnergyCharge": 12500,
+    "EnergyCharge": 6000,
     "TalentPercentAmend": [
       0,
       0,
@@ -7445,7 +7629,7 @@
     "Id": 158100005,
     "levelTypeData": 3,
     "LevelData": 5,
-    "HitdamageInfo": "普攻 第5段 伤害",
+    "HitdamageInfo": "圣诞菈露 普攻 第5段 伤害",
     "DistanceType": 1,
     "SourceType": 1,
     "DamageType": 1,
@@ -7457,19 +7641,19 @@
     ],
     "DamageBonusType": 1,
     "SkillPercentAmend": [
-      680000,
-      780000,
-      880000,
-      1190000,
-      1280000,
-      1380000,
-      1570000,
-      1650000,
-      1730000,
-      1890000,
-      2030000,
-      2160000,
-      2300000
+      43000,
+      50000,
+      56000,
+      76000,
+      82000,
+      88000,
+      100000,
+      105000,
+      110000,
+      120000,
+      129000,
+      138000,
+      146000
     ],
     "SkillAbsAmend": [
       0,
@@ -7486,6 +7670,7 @@
       0,
       0
     ],
+    "EnergyCharge": 10000,
     "TalentPercentAmend": [
       0,
       0,
@@ -7507,7 +7692,7 @@
     "Id": 158100006,
     "levelTypeData": 3,
     "LevelData": 5,
-    "HitdamageInfo": "普攻 召唤物 士兵普攻",
+    "HitdamageInfo": "圣诞菈露 普攻 召唤物 士兵普攻",
     "DistanceType": 1,
     "SourceType": 1,
     "DamageType": 7,
@@ -7515,23 +7700,24 @@
     "ElementType": 2,
     "DamageTag": [
       1472156713,
-      -826820999
+      -826820999,
+      1472128963
     ],
     "DamageBonusType": 1,
     "SkillPercentAmend": [
-      122000,
-      140000,
-      158000,
-      213000,
-      230000,
-      247000,
-      281000,
-      296000,
-      310000,
-      340000,
-      364000,
-      388000,
-      413000
+      416000,
+      479000,
+      541000,
+      728000,
+      787000,
+      845000,
+      961000,
+      1011000,
+      1061000,
+      1161000,
+      1244000,
+      1328000,
+      1411000
     ],
     "SkillAbsAmend": [
       0,
@@ -7548,7 +7734,6 @@
       0,
       0
     ],
-    "EnergyCharge": 37600,
     "TalentPercentAmend": [
       0,
       0,
@@ -7570,7 +7755,7 @@
     "Id": 158100007,
     "levelTypeData": 3,
     "LevelData": 5,
-    "HitdamageInfo": "普攻 召唤物 勇士普攻",
+    "HitdamageInfo": "圣诞菈露 普攻 召唤物 勇士普攻",
     "DistanceType": 1,
     "SourceType": 1,
     "DamageType": 7,
@@ -7578,23 +7763,24 @@
     "ElementType": 2,
     "DamageTag": [
       1472156713,
-      -826820999
+      -826820999,
+      1472128963
     ],
     "DamageBonusType": 1,
     "SkillPercentAmend": [
-      390000,
-      450000,
-      510000,
-      690000,
-      740000,
-      800000,
-      910000,
-      950000,
-      1000000,
-      1090000,
-      1170000,
-      388000,
-      413000
+      1550000,
+      1780000,
+      2010000,
+      2710000,
+      2920000,
+      3140000,
+      3570000,
+      3760000,
+      3940000,
+      4310000,
+      4620000,
+      4930000,
+      5240000
     ],
     "SkillAbsAmend": [
       0,
@@ -7611,7 +7797,6 @@
       0,
       0
     ],
-    "EnergyCharge": 37600,
     "TalentPercentAmend": [
       0,
       0,
@@ -7634,7 +7819,7 @@
     "levelTypeData": 3,
     "LevelData": 2,
     "MainOrSupport": 1,
-    "HitdamageInfo": "主控 基础     抽鞭子伤害",
+    "HitdamageInfo": "圣诞菈露 主控 基础     抽鞭子伤害",
     "DistanceType": 2,
     "SourceType": 1,
     "DamageType": 2,
@@ -7643,23 +7828,24 @@
     "DamageTag": [
       -1672617280,
       -9857490,
-      1053762061
+      1053762061,
+      688888702
     ],
     "DamageBonusType": 1,
     "SkillPercentAmend": [
-      122000,
-      140000,
-      730000,
-      990000,
-      1070000,
-      1150000,
-      1310000,
-      1370000,
-      1440000,
-      1580000,
-      1690000,
-      388000,
-      413000
+      850000,
+      980000,
+      1110000,
+      1500000,
+      1620000,
+      1740000,
+      1970000,
+      2080000,
+      2180000,
+      2390000,
+      2560000,
+      2730000,
+      2900000
     ],
     "SkillAbsAmend": [
       0,
@@ -7676,7 +7862,7 @@
       0,
       0
     ],
-    "EnergyCharge": 10600,
+    "EnergyCharge": 154700,
     "TalentPercentAmend": [
       0,
       0,
@@ -7699,30 +7885,32 @@
     "levelTypeData": 3,
     "LevelData": 2,
     "MainOrSupport": 1,
-    "HitdamageInfo": "主控 基础     士兵协同攻击伤害",
+    "HitdamageInfo": "圣诞菈露 主控 基础     士兵协同攻击伤害",
     "DistanceType": 1,
     "SourceType": 1,
     "DamageType": 7,
     "EffectType": 1,
     "ElementType": 2,
     "DamageTag": [
-      -826820999
+      -826820999,
+      1472128963,
+      1472156713
     ],
     "DamageBonusType": 1,
     "SkillPercentAmend": [
-      390000,
-      450000,
-      510000,
-      690000,
-      740000,
-      800000,
-      910000,
-      950000,
-      1000000,
-      1090000,
-      364000,
-      388000,
-      413000
+      1150000,
+      1320000,
+      1490000,
+      2010000,
+      2170000,
+      2330000,
+      2650000,
+      2790000,
+      2930000,
+      3210000,
+      3440000,
+      3670000,
+      3900000
     ],
     "SkillAbsAmend": [
       0,
@@ -7739,7 +7927,6 @@
       0,
       0
     ],
-    "EnergyCharge": 10600,
     "TalentPercentAmend": [
       0,
       0,
@@ -7762,30 +7949,31 @@
     "levelTypeData": 3,
     "LevelData": 2,
     "MainOrSupport": 1,
-    "HitdamageInfo": "主控 基础     勇士协同攻击伤害",
+    "HitdamageInfo": "圣诞菈露 主控 基础     勇士协同攻击伤害",
     "DistanceType": 1,
     "SourceType": 1,
     "DamageType": 7,
     "EffectType": 1,
     "ElementType": 2,
     "DamageTag": [
-      -826820999
+      -826820999,
+      1472128963
     ],
     "DamageBonusType": 1,
     "SkillPercentAmend": [
-      1250000,
-      1440000,
-      1630000,
-      2190000,
-      2370000,
-      2540000,
-      2890000,
-      3040000,
-      3190000,
-      3490000,
-      364000,
-      388000,
-      413000
+      2410000,
+      2780000,
+      3140000,
+      4220000,
+      4560000,
+      4900000,
+      5580000,
+      5870000,
+      6150000,
+      6730000,
+      7220000,
+      7700000,
+      8180000
     ],
     "SkillAbsAmend": [
       0,
@@ -7802,7 +7990,6 @@
       0,
       0
     ],
-    "EnergyCharge": 10600,
     "TalentPercentAmend": [
       0,
       0,
@@ -7825,30 +8012,32 @@
     "levelTypeData": 3,
     "LevelData": 2,
     "MainOrSupport": 1,
-    "HitdamageInfo": "主控 潜能01 士兵强化协同攻击伤害",
+    "HitdamageInfo": "圣诞菈露 主控 潜能01 士兵强化协同攻击伤害",
     "DistanceType": 1,
     "SourceType": 1,
     "DamageType": 7,
     "EffectType": 1,
     "ElementType": 2,
     "DamageTag": [
-      -826820999
+      -826820999,
+      1472128963,
+      1472156713
     ],
     "DamageBonusType": 1,
     "SkillPercentAmend": [
-      780000,
-      900000,
-      1020000,
-      1380000,
-      1480000,
-      1600000,
-      1820000,
-      1900000,
-      2000000,
-      2180000,
-      728000,
-      776000,
-      4240000
+      2460000,
+      2830000,
+      3200000,
+      4300000,
+      4650000,
+      4990000,
+      5680000,
+      5980000,
+      6270000,
+      6860000,
+      7360000,
+      7850000,
+      8340000
     ],
     "SkillAbsAmend": [
       0,
@@ -7887,30 +8076,31 @@
     "levelTypeData": 3,
     "LevelData": 2,
     "MainOrSupport": 1,
-    "HitdamageInfo": "主控 潜能01 勇士强化协同攻击伤害",
+    "HitdamageInfo": "圣诞菈露 主控 潜能01 勇士强化协同攻击伤害",
     "DistanceType": 1,
     "SourceType": 1,
     "DamageType": 7,
     "EffectType": 1,
     "ElementType": 2,
     "DamageTag": [
-      -826820999
+      -826820999,
+      1472128963
     ],
     "DamageBonusType": 1,
     "SkillPercentAmend": [
-      2500000,
-      2880000,
-      3260000,
-      4380000,
-      4740000,
-      5080000,
-      5780000,
-      6080000,
-      3190000,
-      3490000,
-      3740000,
-      3990000,
-      4240000
+      1000000,
+      1150000,
+      1300000,
+      1750000,
+      1890000,
+      2030000,
+      2310000,
+      2430000,
+      2550000,
+      2780000,
+      2980000,
+      3180000,
+      3380000
     ],
     "SkillAbsAmend": [
       0,
@@ -7949,7 +8139,7 @@
     "levelTypeData": 3,
     "LevelData": 2,
     "MainOrSupport": 1,
-    "HitdamageInfo": "主控 潜能01 女王强化普攻伤害",
+    "HitdamageInfo": "圣诞菈露 主控 潜能01 女王强化普攻命中伤害",
     "DistanceType": 2,
     "SourceType": 1,
     "DamageType": 7,
@@ -7960,19 +8150,81 @@
     ],
     "DamageBonusType": 1,
     "SkillPercentAmend": [
-      870000,
-      1010000,
-      1140000,
-      1530000,
-      1650000,
-      1770000,
-      2020000,
-      2120000,
-      2230000,
-      3490000,
-      3740000,
-      3990000,
-      4240000
+      850000,
+      970000,
+      1100000,
+      1480000,
+      1600000,
+      1720000,
+      1950000,
+      2050000,
+      2160000,
+      2360000,
+      2530000,
+      2700000,
+      2870000
+    ],
+    "SkillAbsAmend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "TalentPercentAmend": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "TalentAbsAmend": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "SkillId": 15810000,
+    "SkillSlotType": 2
+  },
+  "158501004": {
+    "Id": 158501004,
+    "levelTypeData": 3,
+    "LevelData": 2,
+    "MainOrSupport": 1,
+    "HitdamageInfo": "圣诞菈露 主控 潜能01 女王强化普攻爆炸伤害",
+    "DistanceType": 2,
+    "SourceType": 1,
+    "DamageType": 7,
+    "EffectType": 1,
+    "ElementType": 2,
+    "DamageTag": [
+      -826820999
+    ],
+    "DamageBonusType": 1,
+    "SkillPercentAmend": [
+      900000,
+      1030000,
+      1170000,
+      1570000,
+      1700000,
+      1820000,
+      2080000,
+      2180000,
+      2290000,
+      2510000,
+      2690000,
+      2870000,
+      3050000
     ],
     "SkillAbsAmend": [
       0,
@@ -8011,7 +8263,7 @@
     "levelTypeData": 3,
     "LevelData": 2,
     "MainOrSupport": 1,
-    "HitdamageInfo": "主控 潜能02 女王基础普攻伤害",
+    "HitdamageInfo": "圣诞菈露 主控 潜能02 女王基础普攻伤害",
     "DistanceType": 1,
     "SourceType": 1,
     "DamageType": 7,
@@ -8022,19 +8274,19 @@
     ],
     "DamageBonusType": 1,
     "SkillPercentAmend": [
-      1740000,
-      2020000,
-      2280000,
-      3060000,
-      3300000,
-      3540000,
-      4040000,
-      4240000,
-      4460000,
-      3490000,
-      3740000,
-      3990000,
-      4240000
+      850000,
+      970000,
+      1100000,
+      1480000,
+      1600000,
+      1720000,
+      1950000,
+      2050000,
+      2160000,
+      2360000,
+      2530000,
+      2700000,
+      2870000
     ],
     "SkillAbsAmend": [
       0,
@@ -8073,7 +8325,7 @@
     "levelTypeData": 3,
     "LevelData": 2,
     "MainOrSupport": 1,
-    "HitdamageInfo": "主控 潜能03 强化抽鞭子伤害",
+    "HitdamageInfo": "圣诞菈露 主控 潜能03 强化抽鞭子伤害",
     "DistanceType": 1,
     "SourceType": 1,
     "DamageType": 2,
@@ -8082,23 +8334,24 @@
     "DamageTag": [
       -1672617280,
       -9857490,
-      1053762061
+      1053762061,
+      688888702
     ],
     "DamageBonusType": 1,
     "SkillPercentAmend": [
-      244000,
-      280000,
-      1460000,
-      1980000,
-      2140000,
-      2300000,
-      2620000,
-      2740000,
-      2880000,
-      3490000,
-      3740000,
-      3990000,
-      4240000
+      920000,
+      1060000,
+      1200000,
+      1610000,
+      1740000,
+      1870000,
+      2120000,
+      2240000,
+      2350000,
+      2570000,
+      2750000,
+      2930000,
+      3120000
     ],
     "SkillAbsAmend": [
       0,
@@ -8115,6 +8368,7 @@
       0,
       0
     ],
+    "EnergyCharge": 30900,
     "TalentPercentAmend": [
       0,
       0,
@@ -8137,27 +8391,30 @@
     "levelTypeData": 3,
     "LevelData": 2,
     "MainOrSupport": 1,
-    "HitdamageInfo": "主控 潜能04 标记爆炸伤害",
+    "HitdamageInfo": "圣诞菈露 主控 潜能04 标记爆炸伤害",
     "DistanceType": 1,
     "SourceType": 1,
     "DamageType": 2,
     "EffectType": 1,
     "ElementType": 2,
+    "DamageTag": [
+      1053762061
+    ],
     "DamageBonusType": 1,
     "SkillPercentAmend": [
-      1250000,
-      1440000,
-      1630000,
-      2190000,
-      2370000,
-      2540000,
-      2890000,
-      3040000,
-      3190000,
-      3490000,
-      3740000,
-      3990000,
-      4240000
+      1970000,
+      2270000,
+      2570000,
+      3450000,
+      3730000,
+      4010000,
+      4560000,
+      4790000,
+      5030000,
+      5510000,
+      5900000,
+      6290000,
+      6690000
     ],
     "SkillAbsAmend": [
       0,
@@ -8195,26 +8452,27 @@
     "Id": 158506001,
     "levelTypeData": 1,
     "LevelData": 515806,
-    "HitdamageInfo": "主控 潜能06 勇士献祭AOE",
+    "HitdamageInfo": "圣诞菈露 主控 潜能06 勇士献祭AOE",
     "DistanceType": 1,
     "SourceType": 1,
     "DamageType": 7,
     "EffectType": 1,
     "ElementType": 2,
     "DamageTag": [
-      -826820999
+      -826820999,
+      1472128963
     ],
     "DamageBonusType": 1,
     "SkillPercentAmend": [
-      310000,
-      500000,
-      680000,
-      870000,
-      1060000,
-      1240000,
-      1430000,
-      1620000,
-      1800000
+      900000,
+      1450000,
+      1990000,
+      2530000,
+      3070000,
+      3610000,
+      4160000,
+      4700000,
+      5240000
     ],
     "SkillAbsAmend": [
       0,
@@ -8252,23 +8510,26 @@
     "Id": 158511001,
     "levelTypeData": 1,
     "LevelData": 515811,
-    "HitdamageInfo": "主控 潜能11 炮台炮弹命中伤害",
+    "HitdamageInfo": "圣诞菈露 主控 潜能11 炮台炮弹命中伤害",
     "DistanceType": 2,
     "SourceType": 1,
-    "DamageType": 2,
+    "DamageType": 7,
     "EffectType": 1,
     "ElementType": 2,
+    "DamageTag": [
+      -723319934
+    ],
     "DamageBonusType": 1,
     "SkillPercentAmend": [
-      570000,
-      650000,
-      730000,
-      990000,
-      1070000,
-      1150000,
-      1310000,
-      1370000,
-      1440000
+      1290000,
+      2060000,
+      2830000,
+      3610000,
+      4380000,
+      5150000,
+      5920000,
+      6700000,
+      7470000
     ],
     "SkillAbsAmend": [
       0,
@@ -8306,21 +8567,24 @@
     "Id": 158511002,
     "levelTypeData": 1,
     "LevelData": 515811,
-    "HitdamageInfo": "主控 潜能11 炮台炮弹爆炸伤害",
+    "HitdamageInfo": "圣诞菈露 主控 潜能11 炮台炮弹爆炸伤害",
     "DistanceType": 2,
     "SourceType": 1,
-    "DamageType": 2,
+    "DamageType": 7,
     "EffectType": 1,
     "ElementType": 2,
+    "DamageTag": [
+      -723319934
+    ],
     "DamageBonusType": 1,
     "SkillPercentAmend": [
       910000,
       1460000,
-      2000000,
+      2010000,
       2550000,
       3100000,
       3650000,
-      4190000,
+      4200000,
       4740000,
       5290000
     ],
@@ -8361,7 +8625,7 @@
     "levelTypeData": 3,
     "LevelData": 2,
     "MainOrSupport": 2,
-    "HitdamageInfo": "支援 基础     炮台炮弹命中伤害",
+    "HitdamageInfo": "圣诞菈露 支援 基础     炮台炮弹命中伤害",
     "DistanceType": 2,
     "SourceType": 1,
     "DamageType": 2,
@@ -8370,23 +8634,24 @@
     "DamageTag": [
       -1930747788,
       311408087,
-      1566988357
+      1566988357,
+      -487120477
     ],
     "DamageBonusType": 1,
     "SkillPercentAmend": [
-      390000,
-      450000,
-      510000,
-      690000,
-      740000,
-      800000,
-      910000,
-      950000,
-      1000000,
-      1090000,
-      1170000,
-      1250000,
-      1330000
+      1680000,
+      1930000,
+      2180000,
+      2930000,
+      3170000,
+      3400000,
+      3870000,
+      4080000,
+      4280000,
+      4680000,
+      4850000,
+      5010000,
+      5180000
     ],
     "SkillAbsAmend": [
       0,
@@ -8425,7 +8690,7 @@
     "levelTypeData": 3,
     "LevelData": 2,
     "MainOrSupport": 2,
-    "HitdamageInfo": "支援 基础     炮台炮弹爆炸伤害",
+    "HitdamageInfo": "圣诞菈露 支援 基础     炮台炮弹爆炸伤害",
     "DistanceType": 2,
     "SourceType": 1,
     "DamageType": 2,
@@ -8434,23 +8699,24 @@
     "DamageTag": [
       -1930747788,
       311408087,
-      1566988357
+      1566988357,
+      -487120477
     ],
     "DamageBonusType": 1,
     "SkillPercentAmend": [
-      570000,
-      650000,
-      730000,
-      990000,
-      1070000,
-      1150000,
-      1310000,
+      1190000,
       1370000,
-      1440000,
-      1580000,
-      1690000,
-      1800000,
-      1920000
+      1540000,
+      2080000,
+      2250000,
+      2410000,
+      2740000,
+      2890000,
+      3030000,
+      3310000,
+      3430000,
+      3550000,
+      3670000
     ],
     "SkillAbsAmend": [
       0,
@@ -8489,7 +8755,7 @@
     "levelTypeData": 3,
     "LevelData": 2,
     "MainOrSupport": 2,
-    "HitdamageInfo": "支援 基础     士兵普攻伤害",
+    "HitdamageInfo": "圣诞菈露 支援 基础     士兵普攻伤害",
     "DistanceType": 1,
     "SourceType": 1,
     "DamageType": 7,
@@ -8497,19 +8763,19 @@
     "ElementType": 2,
     "DamageBonusType": 1,
     "SkillPercentAmend": [
-      570000,
-      650000,
-      730000,
-      990000,
-      1070000,
-      1150000,
-      1310000,
-      1370000,
-      1440000,
-      1580000,
-      1690000,
-      1800000,
-      1920000
+      171000,
+      197000,
+      223000,
+      300000,
+      324000,
+      348000,
+      395000,
+      416000,
+      436000,
+      478000,
+      495000,
+      512000,
+      529000
     ],
     "SkillAbsAmend": [
       0,
@@ -8548,7 +8814,7 @@
     "levelTypeData": 3,
     "LevelData": 2,
     "MainOrSupport": 2,
-    "HitdamageInfo": "支援 潜能21 炮弹爆炸后火池伤害",
+    "HitdamageInfo": "圣诞菈露 支援 潜能21 炮弹爆炸后火池伤害",
     "DistanceType": 1,
     "SourceType": 1,
     "DamageType": 2,
@@ -8556,23 +8822,220 @@
     "ElementType": 2,
     "DamageTag": [
       311408087,
-      1566988357
+      1566988357,
+      -1930747788,
+      -487120477
     ],
     "DamageBonusType": 1,
     "SkillPercentAmend": [
+      370000,
       420000,
       480000,
-      550000,
-      740000,
-      800000,
-      860000,
-      970000,
-      1020000,
-      1070000,
-      1180000,
-      1260000,
-      1340000,
-      1430000
+      640000,
+      690000,
+      750000,
+      850000,
+      890000,
+      940000,
+      1030000,
+      1060000,
+      1100000,
+      1140000
+    ],
+    "SkillAbsAmend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "TalentPercentAmend": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "TalentAbsAmend": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "SkillId": 15832000,
+    "SkillSlotType": 2
+  },
+  "158322001": {
+    "Id": 158322001,
+    "levelTypeData": 3,
+    "LevelData": 2,
+    "MainOrSupport": 2,
+    "HitdamageInfo": "圣诞菈露 支援 22炮弹命中伤害【等于基础】",
+    "DistanceType": 2,
+    "SourceType": 1,
+    "DamageType": 2,
+    "EffectType": 1,
+    "ElementType": 2,
+    "DamageTag": [
+      -1930747788,
+      311408087,
+      1566988357,
+      -487120477
+    ],
+    "DamageBonusType": 1,
+    "SkillPercentAmend": [
+      1680000,
+      1930000,
+      2180000,
+      2930000,
+      3170000,
+      3400000,
+      3870000,
+      4080000,
+      4280000,
+      4680000,
+      4850000,
+      5010000,
+      5180000
+    ],
+    "SkillAbsAmend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "TalentPercentAmend": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "TalentAbsAmend": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "SkillId": 15832000,
+    "SkillSlotType": 2
+  },
+  "158322002": {
+    "Id": 158322002,
+    "levelTypeData": 3,
+    "LevelData": 2,
+    "MainOrSupport": 2,
+    "HitdamageInfo": "圣诞菈露 支援 22炮弹爆炸伤害【等于基础】",
+    "DistanceType": 1,
+    "SourceType": 1,
+    "DamageType": 2,
+    "EffectType": 1,
+    "ElementType": 2,
+    "DamageTag": [
+      -1930747788,
+      311408087,
+      1566988357,
+      -487120477
+    ],
+    "DamageBonusType": 1,
+    "SkillPercentAmend": [
+      1190000,
+      1370000,
+      1540000,
+      2080000,
+      2250000,
+      2410000,
+      2740000,
+      2890000,
+      3030000,
+      3310000,
+      3430000,
+      3550000,
+      3670000
+    ],
+    "SkillAbsAmend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "TalentPercentAmend": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "TalentAbsAmend": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "SkillId": 15832000,
+    "SkillSlotType": 2
+  },
+  "158322003": {
+    "Id": 158322003,
+    "levelTypeData": 3,
+    "LevelData": 2,
+    "MainOrSupport": 2,
+    "HitdamageInfo": "圣诞菈露 支援 22组合21的火池伤害【等于基础】",
+    "DistanceType": 1,
+    "SourceType": 1,
+    "DamageType": 2,
+    "EffectType": 1,
+    "ElementType": 2,
+    "DamageTag": [
+      311408087,
+      1566988357,
+      -1930747788,
+      -487120477
+    ],
+    "DamageBonusType": 1,
+    "SkillPercentAmend": [
+      370000,
+      420000,
+      480000,
+      640000,
+      690000,
+      750000,
+      850000,
+      890000,
+      940000,
+      1030000,
+      1060000,
+      1100000,
+      1140000
     ],
     "SkillAbsAmend": [
       0,
@@ -8611,7 +9074,7 @@
     "levelTypeData": 3,
     "LevelData": 2,
     "MainOrSupport": 2,
-    "HitdamageInfo": "支援 潜能23 勇士普攻伤害",
+    "HitdamageInfo": "圣诞菈露 支援 潜能23 勇士普攻伤害",
     "DistanceType": 1,
     "SourceType": 1,
     "DamageType": 7,
@@ -8622,19 +9085,19 @@
     ],
     "DamageBonusType": 1,
     "SkillPercentAmend": [
-      1140000,
-      1300000,
-      1460000,
-      1980000,
-      2140000,
-      2300000,
-      2620000,
-      2740000,
-      2880000,
-      1180000,
-      1260000,
-      1340000,
-      1430000
+      530000,
+      610000,
+      690000,
+      920000,
+      1000000,
+      1070000,
+      1220000,
+      1280000,
+      1350000,
+      1470000,
+      1530000,
+      1580000,
+      1630000
     ],
     "SkillAbsAmend": [
       0,
@@ -8673,7 +9136,7 @@
     "levelTypeData": 3,
     "LevelData": 2,
     "MainOrSupport": 2,
-    "HitdamageInfo": "支援 潜能24 士兵技能伤害",
+    "HitdamageInfo": "圣诞菈露 支援 潜能24 士兵技能伤害",
     "DistanceType": 1,
     "SourceType": 1,
     "DamageType": 7,
@@ -8681,19 +9144,19 @@
     "ElementType": 2,
     "DamageBonusType": 1,
     "SkillPercentAmend": [
-      1710000,
-      1950000,
-      2190000,
-      2970000,
-      3210000,
-      3450000,
-      3930000,
-      4110000,
-      4320000,
-      4740000,
-      5070000,
-      5400000,
-      813000
+      196000,
+      226000,
+      255000,
+      343000,
+      371000,
+      398000,
+      453000,
+      477000,
+      501000,
+      548000,
+      567000,
+      587000,
+      607000
     ],
     "SkillAbsAmend": [
       0,
@@ -8732,7 +9195,7 @@
     "levelTypeData": 3,
     "LevelData": 2,
     "MainOrSupport": 2,
-    "HitdamageInfo": "支援 潜能24 勇士技能伤害",
+    "HitdamageInfo": "圣诞菈露 支援 潜能24 勇士技能伤害",
     "DistanceType": 1,
     "SourceType": 1,
     "DamageType": 7,
@@ -8743,19 +9206,19 @@
     ],
     "DamageBonusType": 1,
     "SkillPercentAmend": [
-      53000,
-      61000,
-      2920000,
-      3960000,
-      4280000,
-      4600000,
-      5240000,
-      5480000,
-      5760000,
-      2360000,
-      2520000,
-      169000,
-      179000
+      430000,
+      490000,
+      550000,
+      750000,
+      810000,
+      870000,
+      980000,
+      1040000,
+      1090000,
+      1190000,
+      1230000,
+      1270000,
+      1320000
     ],
     "SkillAbsAmend": [
       0,
@@ -8789,31 +9252,27 @@
     "SkillId": 15832000,
     "SkillSlotType": 2
   },
-  "158400001": {
-    "Id": 158400001,
-    "levelTypeData": 3,
-    "LevelData": 4,
-    "HitdamageInfo": "绝招 基础    变身伤害",
-    "DistanceType": 2,
+  "158528001": {
+    "Id": 158528001,
+    "levelTypeData": 1,
+    "LevelData": 515828,
+    "HitdamageInfo": "圣诞菈露 支援 潜能28 士兵献祭伤害",
+    "DistanceType": 1,
     "SourceType": 1,
-    "DamageType": 3,
+    "DamageType": 7,
     "EffectType": 1,
     "ElementType": 2,
     "DamageBonusType": 1,
     "SkillPercentAmend": [
-      870000,
-      1010000,
-      1140000,
-      1530000,
-      1650000,
-      1770000,
-      2020000,
-      2120000,
-      2230000,
-      2440000,
-      2610000,
-      2790000,
-      2960000
+      21000,
+      33000,
+      45000,
+      58000,
+      70000,
+      83000,
+      95000,
+      107000,
+      120000
     ],
     "SkillAbsAmend": [
       0,
@@ -8844,36 +9303,33 @@
       0,
       0
     ],
-    "SkillId": 15840000,
-    "SkillSlotType": 4
+    "SkillId": 15832000,
+    "SkillSlotType": 2
   },
-  "158400002": {
-    "Id": 158400002,
+  "158528002": {
+    "Id": 158528002,
     "levelTypeData": 1,
-    "LevelData": 4,
-    "HitdamageInfo": "绝招 基础    变身后普攻伤害",
-    "DistanceType": 2,
+    "LevelData": 515828,
+    "HitdamageInfo": "圣诞菈露 支援 潜能28 勇士献祭伤害",
+    "DistanceType": 1,
     "SourceType": 1,
-    "DamageType": 3,
+    "DamageType": 7,
     "EffectType": 1,
     "ElementType": 2,
     "DamageTag": [
-      487419708,
-      1237848731,
-      -1480166473,
-      -1779429067
+      1566988357
     ],
     "DamageBonusType": 1,
     "SkillPercentAmend": [
-      360000,
-      580000,
-      800000,
-      1020000,
-      1240000,
-      1460000,
-      1670000,
-      1890000,
-      2110000
+      106000,
+      170000,
+      234000,
+      297000,
+      361000,
+      425000,
+      488000,
+      552000,
+      616000
     ],
     "SkillAbsAmend": [
       0,
@@ -8890,6 +9346,72 @@
       0,
       0
     ],
+    "TalentPercentAmend": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "TalentAbsAmend": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "SkillId": 15832000,
+    "SkillSlotType": 2
+  },
+  "158400002": {
+    "Id": 158400002,
+    "levelTypeData": 3,
+    "LevelData": 4,
+    "HitdamageInfo": "圣诞菈露 绝招 基础    变身后主控普攻伤害",
+    "DistanceType": 2,
+    "SourceType": 1,
+    "DamageType": 3,
+    "EffectType": 1,
+    "ElementType": 2,
+    "DamageTag": [
+      487419708,
+      1237848731,
+      -1480166473,
+      -1779429067,
+      1053762061
+    ],
+    "DamageBonusType": 1,
+    "SkillPercentAmend": [
+      450000,
+      520000,
+      590000,
+      800000,
+      860000,
+      920000,
+      1050000,
+      1110000,
+      1160000,
+      1270000,
+      1310000,
+      1360000,
+      1410000
+    ],
+    "SkillAbsAmend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "EnergyCharge": 62600,
     "TalentPercentAmend": [
       0,
       0,
@@ -8909,9 +9431,9 @@
   },
   "158400003": {
     "Id": 158400003,
-    "levelTypeData": 1,
+    "levelTypeData": 3,
     "LevelData": 4,
-    "HitdamageInfo": "绝招 基础    变身后技能伤害",
+    "HitdamageInfo": "圣诞菈露 绝招 基础    变身后主控技能伤害",
     "DistanceType": 2,
     "SourceType": 1,
     "DamageType": 3,
@@ -8919,19 +9441,159 @@
     "ElementType": 2,
     "DamageTag": [
       -1480166473,
-      -1779429067
+      -1779429067,
+      -9857490,
+      688888702,
+      1053762061,
+      -625899534
     ],
     "DamageBonusType": 1,
     "SkillPercentAmend": [
+      180000,
+      210000,
+      230000,
+      310000,
+      340000,
+      360000,
+      410000,
+      440000,
+      460000,
+      500000,
+      520000,
+      540000,
+      550000
+    ],
+    "SkillAbsAmend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "EnergyCharge": 13500,
+    "TalentPercentAmend": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "TalentAbsAmend": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "SkillId": 15840000,
+    "SkillSlotType": 4
+  },
+  "158400004": {
+    "Id": 158400004,
+    "levelTypeData": 3,
+    "LevelData": 4,
+    "HitdamageInfo": "圣诞菈露 绝招 基础    变身后援护普攻伤害",
+    "DistanceType": 2,
+    "SourceType": 1,
+    "DamageType": 3,
+    "EffectType": 1,
+    "ElementType": 2,
+    "DamageTag": [
+      487419708,
+      1237848731,
+      -1480166473,
+      -1779429067,
+      1053762061
+    ],
+    "DamageBonusType": 1,
+    "SkillPercentAmend": [
+      450000,
+      520000,
+      590000,
+      800000,
+      860000,
       920000,
-      1480000,
-      2030000,
-      2580000,
-      3130000,
-      3690000,
-      4240000,
-      4790000,
-      5350000
+      1050000,
+      1110000,
+      1160000,
+      1270000,
+      1310000,
+      1360000,
+      1410000
+    ],
+    "SkillAbsAmend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "TalentPercentAmend": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "TalentAbsAmend": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "SkillId": 15840000,
+    "SkillSlotType": 4
+  },
+  "158400005": {
+    "Id": 158400005,
+    "levelTypeData": 3,
+    "LevelData": 4,
+    "HitdamageInfo": "圣诞菈露 绝招 基础    变身后援护技能伤害",
+    "DistanceType": 2,
+    "SourceType": 1,
+    "DamageType": 3,
+    "EffectType": 1,
+    "ElementType": 2,
+    "DamageTag": [
+      -1480166473,
+      -1779429067,
+      -9857490,
+      688888702,
+      1053762061,
+      -625899534
+    ],
+    "DamageBonusType": 1,
+    "SkillPercentAmend": [
+      180000,
+      210000,
+      230000,
+      310000,
+      340000,
+      360000,
+      410000,
+      440000,
+      460000,
+      500000,
+      520000,
+      540000,
+      550000
     ],
     "SkillAbsAmend": [
       0,
@@ -14254,7 +14916,7 @@
   "130000001": {
     "Id": 130000001,
     "levelTypeData": 4,
-    "HitdamageInfo": "触发印记造成范围伤害",
+    "HitdamageInfo": "???",
     "DistanceType": 2,
     "SourceType": 1,
     "DamageType": 5,
@@ -14305,7 +14967,7 @@
     "Id": 130100001,
     "levelTypeData": 3,
     "LevelData": 5,
-    "HitdamageInfo": "普攻 穿透箭伤害",
+    "HitdamageInfo": "???",
     "DistanceType": 2,
     "SourceType": 1,
     "DamageType": 1,
@@ -14368,7 +15030,7 @@
     "levelTypeData": 3,
     "LevelData": 2,
     "MainOrSupport": 1,
-    "HitdamageInfo": "主控技能 召唤物出现伤害",
+    "HitdamageInfo": "???",
     "DistanceType": 2,
     "SourceType": 1,
     "DamageType": 7,
@@ -14429,7 +15091,7 @@
     "levelTypeData": 3,
     "LevelData": 2,
     "MainOrSupport": 1,
-    "HitdamageInfo": "主控技能 召唤物嘲讽伤害",
+    "HitdamageInfo": "???",
     "DistanceType": 2,
     "SourceType": 1,
     "DamageType": 7,
@@ -14490,7 +15152,7 @@
     "levelTypeData": 3,
     "LevelData": 5,
     "MainOrSupport": 1,
-    "HitdamageInfo": "主控技能 强化普攻穿透箭伤害",
+    "HitdamageInfo": "???",
     "DistanceType": 2,
     "SourceType": 1,
     "DamageType": 1,
@@ -14558,7 +15220,7 @@
     "levelTypeData": 3,
     "LevelData": 5,
     "MainOrSupport": 1,
-    "HitdamageInfo": "主控技能 潜能02 强化普攻贝塞尔辅助箭",
+    "HitdamageInfo": "???",
     "DistanceType": 2,
     "SourceType": 1,
     "DamageType": 1,
@@ -14623,7 +15285,7 @@
     "levelTypeData": 3,
     "LevelData": 2,
     "MainOrSupport": 1,
-    "HitdamageInfo": "主控技能 潜能03 召唤物群攻伤害",
+    "HitdamageInfo": "???",
     "DistanceType": 2,
     "SourceType": 1,
     "DamageType": 7,
@@ -14684,7 +15346,7 @@
     "levelTypeData": 3,
     "LevelData": 2,
     "MainOrSupport": 1,
-    "HitdamageInfo": "主控技能 潜能04 召唤物消失伤害",
+    "HitdamageInfo": "???",
     "DistanceType": 1,
     "SourceType": 1,
     "DamageType": 7,
@@ -14746,7 +15408,7 @@
     "levelTypeData": 1,
     "LevelData": 513005,
     "MainOrSupport": 1,
-    "HitdamageInfo": "主控技能 潜能05 计数箭伤害",
+    "HitdamageInfo": "???",
     "DistanceType": 2,
     "SourceType": 1,
     "DamageType": 1,
@@ -14814,7 +15476,7 @@
     "levelTypeData": 1,
     "LevelData": 513010,
     "MainOrSupport": 1,
-    "HitdamageInfo": "主控技能 潜能10 爆盾伤害",
+    "HitdamageInfo": "???",
     "DistanceType": 2,
     "SourceType": 1,
     "DamageType": 7,
@@ -14877,7 +15539,7 @@
     "levelTypeData": 3,
     "LevelData": 2,
     "MainOrSupport": 2,
-    "HitdamageInfo": "支援技能 穿透箭前3箭伤害",
+    "HitdamageInfo": "???",
     "DistanceType": 2,
     "SourceType": 1,
     "DamageType": 2,
@@ -14943,7 +15605,7 @@
     "levelTypeData": 3,
     "LevelData": 2,
     "MainOrSupport": 2,
-    "HitdamageInfo": "支援技能 穿透箭第4-5箭伤害",
+    "HitdamageInfo": "???",
     "DistanceType": 2,
     "SourceType": 1,
     "DamageType": 2,
@@ -15009,7 +15671,7 @@
     "levelTypeData": 3,
     "LevelData": 2,
     "MainOrSupport": 2,
-    "HitdamageInfo": "支援技能 穿透箭第6箭伤害",
+    "HitdamageInfo": "???",
     "DistanceType": 2,
     "SourceType": 1,
     "DamageType": 2,
@@ -15075,7 +15737,7 @@
     "levelTypeData": 3,
     "LevelData": 2,
     "MainOrSupport": 2,
-    "HitdamageInfo": "支援技能 技能结束箭雨",
+    "HitdamageInfo": "???",
     "DistanceType": 2,
     "SourceType": 1,
     "DamageType": 2,
@@ -15141,7 +15803,7 @@
     "levelTypeData": 3,
     "LevelData": 2,
     "MainOrSupport": 2,
-    "HitdamageInfo": "支援技能 潜能21 辅助箭伤害",
+    "HitdamageInfo": "???",
     "DistanceType": 2,
     "SourceType": 1,
     "DamageType": 2,
@@ -15207,7 +15869,7 @@
     "levelTypeData": 3,
     "LevelData": 2,
     "MainOrSupport": 2,
-    "HitdamageInfo": "支援技能 潜能22 拔箭伤害",
+    "HitdamageInfo": "???",
     "DistanceType": 2,
     "SourceType": 1,
     "DamageType": 2,
@@ -15272,7 +15934,7 @@
     "levelTypeData": 3,
     "LevelData": 2,
     "MainOrSupport": 2,
-    "HitdamageInfo": "支援技能 潜能23 扇形散射箭伤害",
+    "HitdamageInfo": "???",
     "DistanceType": 2,
     "SourceType": 1,
     "DamageType": 2,
@@ -15338,7 +16000,7 @@
     "levelTypeData": 3,
     "LevelData": 2,
     "MainOrSupport": 2,
-    "HitdamageInfo": "支援技能 潜能24 贝塞尔曲线箭伤害",
+    "HitdamageInfo": "???",
     "DistanceType": 2,
     "SourceType": 1,
     "DamageType": 2,
@@ -15403,7 +16065,7 @@
     "Id": 130525001,
     "levelTypeData": 1,
     "LevelData": 513025,
-    "HitdamageInfo": "支援技能 潜能25 打三环额外伤害",
+    "HitdamageInfo": "???",
     "DistanceType": 2,
     "SourceType": 1,
     "DamageType": 2,
@@ -15460,7 +16122,7 @@
     "Id": 130529001,
     "levelTypeData": 1,
     "LevelData": 513029,
-    "HitdamageInfo": "支援技能 潜能29 拔箭伤害",
+    "HitdamageInfo": "???",
     "DistanceType": 2,
     "SourceType": 1,
     "DamageType": 2,
@@ -15519,7 +16181,7 @@
     "Id": 130400001,
     "levelTypeData": 3,
     "LevelData": 4,
-    "HitdamageInfo": "绝招 基础箭雨伤害",
+    "HitdamageInfo": "???",
     "DistanceType": 2,
     "SourceType": 1,
     "DamageType": 3,
@@ -15578,7 +16240,7 @@
   "130400002": {
     "Id": 130400002,
     "levelTypeData": 4,
-    "HitdamageInfo": "绝招 命座6 收尾爆炸伤害",
+    "HitdamageInfo": "???",
     "DistanceType": 2,
     "SourceType": 1,
     "DamageType": 3,
@@ -19680,7 +20342,7 @@
   "115000001": {
     "Id": 115000001,
     "levelTypeData": 4,
-    "HitdamageInfo": "触发光系印记伤害",
+    "HitdamageInfo": "???",
     "DistanceType": 2,
     "SourceType": 1,
     "DamageType": 5,
@@ -19733,7 +20395,7 @@
   "115000002": {
     "Id": 115000002,
     "levelTypeData": 4,
-    "HitdamageInfo": "命座强化:触发光系印记强化伤害",
+    "HitdamageInfo": "???",
     "DistanceType": 2,
     "SourceType": 1,
     "DamageType": 5,
@@ -19787,7 +20449,7 @@
     "Id": 115100001,
     "levelTypeData": 3,
     "LevelData": 5,
-    "HitdamageInfo": "基础普攻1",
+    "HitdamageInfo": "???",
     "DistanceType": 2,
     "SourceType": 1,
     "DamageType": 1,
@@ -19849,7 +20511,7 @@
     "Id": 115100002,
     "levelTypeData": 3,
     "LevelData": 5,
-    "HitdamageInfo": "基础普攻2",
+    "HitdamageInfo": "???",
     "DistanceType": 2,
     "SourceType": 1,
     "DamageType": 1,
@@ -19911,7 +20573,7 @@
     "Id": 115100003,
     "levelTypeData": 3,
     "LevelData": 5,
-    "HitdamageInfo": "基础普攻3",
+    "HitdamageInfo": "???",
     "DistanceType": 2,
     "SourceType": 1,
     "DamageType": 1,
@@ -19973,7 +20635,7 @@
     "Id": 115400001,
     "levelTypeData": 3,
     "LevelData": 4,
-    "HitdamageInfo": "大招阶段1开炮伤害",
+    "HitdamageInfo": "???",
     "DistanceType": 2,
     "SourceType": 1,
     "DamageType": 3,
@@ -20034,7 +20696,7 @@
     "Id": 115400002,
     "levelTypeData": 3,
     "LevelData": 4,
-    "HitdamageInfo": "大招阶段2巨剑劈砍伤害",
+    "HitdamageInfo": "???",
     "DistanceType": 2,
     "SourceType": 1,
     "DamageType": 3,
@@ -20095,7 +20757,7 @@
     "Id": 115400003,
     "levelTypeData": 3,
     "LevelData": 4,
-    "HitdamageInfo": "大招阶段2巨剑劈砍反冲伤害",
+    "HitdamageInfo": "???",
     "DistanceType": 2,
     "SourceType": 1,
     "DamageType": 3,
@@ -20156,7 +20818,7 @@
     "Id": 115120001,
     "levelTypeData": 3,
     "LevelData": 5,
-    "HitdamageInfo": "支援 刃形态 基础普攻伤害",
+    "HitdamageInfo": "???",
     "DistanceType": 2,
     "SourceType": 1,
     "DamageType": 1,
@@ -20221,7 +20883,7 @@
     "Id": 115122101,
     "levelTypeData": 3,
     "LevelData": 5,
-    "HitdamageInfo": "支援 刃形态 潜能21 强化浮游刃伤害",
+    "HitdamageInfo": "???",
     "DistanceType": 2,
     "SourceType": 1,
     "DamageType": 1,
@@ -20287,7 +20949,7 @@
     "levelTypeData": 3,
     "LevelData": 2,
     "MainOrSupport": 2,
-    "HitdamageInfo": "支援 刃形态 潜能23 飞回伤害",
+    "HitdamageInfo": "???",
     "DistanceType": 2,
     "SourceType": 1,
     "DamageType": 2,
@@ -20352,7 +21014,7 @@
     "levelTypeData": 3,
     "LevelData": 2,
     "MainOrSupport": 2,
-    "HitdamageInfo": "支援 刃形态 潜能24 附加伤害",
+    "HitdamageInfo": "???",
     "DistanceType": 2,
     "SourceType": 1,
     "DamageType": 2,
@@ -20410,7 +21072,7 @@
     "levelTypeData": 1,
     "LevelData": 511527,
     "MainOrSupport": 2,
-    "HitdamageInfo": "支援 刃形态 潜能27 冲击波伤害",
+    "HitdamageInfo": "???",
     "DistanceType": 2,
     "SourceType": 1,
     "DamageType": 2,
@@ -20472,7 +21134,7 @@
     "levelTypeData": 1,
     "LevelData": 511527,
     "MainOrSupport": 2,
-    "HitdamageInfo": "支援 刃形态 潜能27&21 强化冲击波伤害",
+    "HitdamageInfo": "???",
     "DistanceType": 2,
     "SourceType": 1,
     "DamageType": 2,
@@ -20533,7 +21195,7 @@
     "Id": 115323001,
     "levelTypeData": 1,
     "LevelData": 511530,
-    "HitdamageInfo": "支援 刃形态 潜能30 特殊结束冲锋伤害",
+    "HitdamageInfo": "???",
     "DistanceType": 2,
     "SourceType": 1,
     "DamageType": 2,
@@ -20590,7 +21252,7 @@
     "Id": 115323002,
     "levelTypeData": 1,
     "LevelData": 511530,
-    "HitdamageInfo": "支援 刃形态 潜能30 特殊结束AOE伤害",
+    "HitdamageInfo": "???",
     "DistanceType": 2,
     "SourceType": 1,
     "DamageType": 2,
@@ -20647,7 +21309,7 @@
     "Id": 115110001,
     "levelTypeData": 3,
     "LevelData": 5,
-    "HitdamageInfo": "主控 炮形态 基础普攻伤害1",
+    "HitdamageInfo": "???",
     "DistanceType": 2,
     "SourceType": 1,
     "DamageType": 1,
@@ -20715,7 +21377,7 @@
     "Id": 115110002,
     "levelTypeData": 3,
     "LevelData": 5,
-    "HitdamageInfo": "主控 炮形态 基础普攻伤害2",
+    "HitdamageInfo": "???",
     "DistanceType": 2,
     "SourceType": 1,
     "DamageType": 1,
@@ -20783,7 +21445,7 @@
     "Id": 115110003,
     "levelTypeData": 3,
     "LevelData": 5,
-    "HitdamageInfo": "主控 炮形态 基础普攻伤害3",
+    "HitdamageInfo": "???",
     "DistanceType": 2,
     "SourceType": 1,
     "DamageType": 1,
@@ -20851,7 +21513,7 @@
     "Id": 115110004,
     "levelTypeData": 3,
     "LevelData": 5,
-    "HitdamageInfo": "主控 炮形态 基础普攻伤害4",
+    "HitdamageInfo": "???",
     "DistanceType": 2,
     "SourceType": 1,
     "DamageType": 1,
@@ -20919,7 +21581,7 @@
     "Id": 115110101,
     "levelTypeData": 3,
     "LevelData": 5,
-    "HitdamageInfo": "主控 炮形态 潜能01 照射伤害1",
+    "HitdamageInfo": "???",
     "DistanceType": 2,
     "SourceType": 1,
     "DamageType": 1,
@@ -20987,7 +21649,7 @@
     "Id": 115110102,
     "levelTypeData": 3,
     "LevelData": 5,
-    "HitdamageInfo": "主控 炮形态 潜能01 照射伤害2",
+    "HitdamageInfo": "???",
     "DistanceType": 2,
     "SourceType": 1,
     "DamageType": 1,
@@ -21055,7 +21717,7 @@
     "Id": 115110103,
     "levelTypeData": 3,
     "LevelData": 5,
-    "HitdamageInfo": "主控 炮形态 潜能01 照射伤害3",
+    "HitdamageInfo": "???",
     "DistanceType": 2,
     "SourceType": 1,
     "DamageType": 1,
@@ -21123,7 +21785,7 @@
     "Id": 115110104,
     "levelTypeData": 3,
     "LevelData": 5,
-    "HitdamageInfo": "主控 炮形态 潜能01 照射伤害4",
+    "HitdamageInfo": "???",
     "DistanceType": 2,
     "SourceType": 1,
     "DamageType": 1,
@@ -21192,7 +21854,7 @@
     "levelTypeData": 3,
     "LevelData": 2,
     "MainOrSupport": 1,
-    "HitdamageInfo": "主控 炮形态 潜能03 齐射爆炸伤害",
+    "HitdamageInfo": "???",
     "DistanceType": 2,
     "SourceType": 1,
     "DamageType": 2,
@@ -21257,7 +21919,7 @@
     "levelTypeData": 3,
     "LevelData": 2,
     "MainOrSupport": 1,
-    "HitdamageInfo": "主控 炮形态 潜能03 齐射单体伤害",
+    "HitdamageInfo": "???",
     "DistanceType": 2,
     "SourceType": 1,
     "DamageType": 2,
@@ -21322,7 +21984,7 @@
     "levelTypeData": 3,
     "LevelData": 2,
     "MainOrSupport": 1,
-    "HitdamageInfo": "主控 炮形态 潜能04 折射伤害1",
+    "HitdamageInfo": "???",
     "DistanceType": 2,
     "SourceType": 1,
     "DamageType": 2,
@@ -21387,7 +22049,7 @@
     "levelTypeData": 3,
     "LevelData": 2,
     "MainOrSupport": 1,
-    "HitdamageInfo": "主控 炮形态 潜能04 折射伤害2",
+    "HitdamageInfo": "???",
     "DistanceType": 2,
     "SourceType": 1,
     "DamageType": 2,
@@ -21452,7 +22114,7 @@
     "levelTypeData": 3,
     "LevelData": 2,
     "MainOrSupport": 1,
-    "HitdamageInfo": "主控 炮形态 潜能04 折射伤害3",
+    "HitdamageInfo": "???",
     "DistanceType": 2,
     "SourceType": 1,
     "DamageType": 2,
@@ -21517,7 +22179,7 @@
     "levelTypeData": 3,
     "LevelData": 2,
     "MainOrSupport": 1,
-    "HitdamageInfo": "主控 炮形态 潜能04 折射伤害4",
+    "HitdamageInfo": "???",
     "DistanceType": 2,
     "SourceType": 1,
     "DamageType": 2,
@@ -21581,7 +22243,7 @@
     "Id": 115506001,
     "levelTypeData": 1,
     "LevelData": 511506,
-    "HitdamageInfo": "主控 炮形态 潜能06 追踪激光",
+    "HitdamageInfo": "???",
     "DistanceType": 2,
     "SourceType": 1,
     "DamageType": 2,
@@ -21642,7 +22304,7 @@
     "Id": 115308001,
     "levelTypeData": 1,
     "LevelData": 511508,
-    "HitdamageInfo": "主控 炮形态 潜能08 强化变形子弹伤害",
+    "HitdamageInfo": "???",
     "DistanceType": 2,
     "SourceType": 1,
     "DamageType": 2,
@@ -21705,7 +22367,7 @@
     "Id": 115308002,
     "levelTypeData": 1,
     "LevelData": 511508,
-    "HitdamageInfo": "主控 炮形态 潜能08 强化变形爆炸伤害",
+    "HitdamageInfo": "???",
     "DistanceType": 2,
     "SourceType": 1,
     "DamageType": 2,
@@ -21764,7 +22426,7 @@
     "Id": 115211301,
     "levelTypeData": 1,
     "LevelData": 511513,
-    "HitdamageInfo": "主控 炮形态 潜能13 极限闪避伤害",
+    "HitdamageInfo": "???",
     "DistanceType": 2,
     "SourceType": 1,
     "DamageType": 2,
@@ -27762,7 +28424,7 @@
   "110000001": {
     "Id": 110000001,
     "levelTypeData": 4,
-    "HitdamageInfo": "暗灼伤害",
+    "HitdamageInfo": "???",
     "DistanceType": 2,
     "SourceType": 1,
     "DamageType": 5,
@@ -27770,15 +28432,15 @@
     "ElementType": 6,
     "DamageBonusType": 1,
     "SkillPercentAmend": [
-      14000,
-      17000,
-      21000,
-      24000,
-      27000,
-      31000,
-      34000,
-      37000,
-      41000
+      41000,
+      53000,
+      66000,
+      78000,
+      90000,
+      103000,
+      115000,
+      127000,
+      140000
     ],
     "SkillAbsAmend": [
       0,
@@ -27813,7 +28475,7 @@
   "110000000": {
     "Id": 110000000,
     "levelTypeData": 4,
-    "HitdamageInfo": "暗印记",
+    "HitdamageInfo": "???",
     "DistanceType": 2,
     "SourceType": 1,
     "DamageType": 5,
@@ -27821,15 +28483,15 @@
     "ElementType": 6,
     "DamageBonusType": 1,
     "SkillPercentAmend": [
-      256000,
-      316000,
-      377000,
-      438000,
-      498000,
-      559000,
-      619000,
-      680000,
-      741000
+      370000,
+      480000,
+      590000,
+      700000,
+      810000,
+      920000,
+      1030000,
+      1140000,
+      1250000
     ],
     "SkillAbsAmend": [
       0,
@@ -27865,30 +28527,31 @@
     "Id": 110100001,
     "levelTypeData": 3,
     "LevelData": 5,
-    "HitdamageInfo": "普攻1",
+    "HitdamageInfo": "???",
     "DistanceType": 1,
     "SourceType": 1,
     "DamageType": 1,
     "EffectType": 1,
     "ElementType": 6,
     "DamageTag": [
-      -1904549577
+      -1904549577,
+      967180620
     ],
     "DamageBonusType": 1,
     "SkillPercentAmend": [
-      147000,
-      166000,
-      185000,
-      204000,
-      223000,
-      242000,
-      268000,
-      294000,
-      320000,
-      347000,
-      373000,
-      399000,
-      425000
+      315000,
+      362000,
+      410000,
+      552000,
+      596000,
+      640000,
+      728000,
+      766000,
+      804000,
+      879000,
+      942000,
+      1005000,
+      1068000
     ],
     "SkillAbsAmend": [
       0,
@@ -27905,7 +28568,7 @@
       0,
       0
     ],
-    "EnergyCharge": 29500,
+    "EnergyCharge": 25100,
     "TalentPercentAmend": [
       0,
       0,
@@ -27927,30 +28590,31 @@
     "Id": 110100002,
     "levelTypeData": 3,
     "LevelData": 5,
-    "HitdamageInfo": "普攻2",
+    "HitdamageInfo": "???",
     "DistanceType": 1,
     "SourceType": 1,
     "DamageType": 1,
     "EffectType": 1,
     "ElementType": 6,
     "DamageTag": [
-      -1904549577
+      -1904549577,
+      967180620
     ],
     "DamageBonusType": 1,
     "SkillPercentAmend": [
-      161000,
-      182000,
-      203000,
-      224000,
-      245000,
-      266000,
-      295000,
-      324000,
-      352000,
-      381000,
-      410000,
-      438000,
-      467000
+      166000,
+      191000,
+      216000,
+      291000,
+      314000,
+      338000,
+      384000,
+      404000,
+      424000,
+      464000,
+      497000,
+      531000,
+      564000
     ],
     "SkillAbsAmend": [
       0,
@@ -27967,7 +28631,7 @@
       0,
       0
     ],
-    "EnergyCharge": 29500,
+    "EnergyCharge": 12600,
     "TalentPercentAmend": [
       0,
       0,
@@ -27989,30 +28653,31 @@
     "Id": 110100003,
     "levelTypeData": 3,
     "LevelData": 5,
-    "HitdamageInfo": "普攻3",
+    "HitdamageInfo": "???",
     "DistanceType": 1,
     "SourceType": 1,
     "DamageType": 1,
     "EffectType": 1,
     "ElementType": 6,
     "DamageTag": [
-      -1904549577
+      -1904549577,
+      967180620
     ],
     "DamageBonusType": 1,
     "SkillPercentAmend": [
-      183000,
-      207000,
-      231000,
-      255000,
-      278000,
-      302000,
-      335000,
-      367000,
-      400000,
-      433000,
-      465000,
-      498000,
-      530000
+      70000,
+      81000,
+      91000,
+      123000,
+      132000,
+      142000,
+      162000,
+      170000,
+      179000,
+      195000,
+      209000,
+      223000,
+      237000
     ],
     "SkillAbsAmend": [
       0,
@@ -28029,7 +28694,7 @@
       0,
       0
     ],
-    "EnergyCharge": 29500,
+    "EnergyCharge": 5000,
     "TalentPercentAmend": [
       0,
       0,
@@ -28051,30 +28716,31 @@
     "Id": 110100004,
     "levelTypeData": 3,
     "LevelData": 5,
-    "HitdamageInfo": "普攻4",
+    "HitdamageInfo": "???",
     "DistanceType": 1,
     "SourceType": 1,
     "DamageType": 1,
     "EffectType": 1,
     "ElementType": 6,
     "DamageTag": [
-      -1904549577
+      -1904549577,
+      967180620
     ],
     "DamageBonusType": 1,
     "SkillPercentAmend": [
-      110000,
-      124000,
-      139000,
-      153000,
-      167000,
-      181000,
-      201000,
-      221000,
-      240000,
-      260000,
-      279000,
-      299000,
-      319000
+      368000,
+      423000,
+      478000,
+      643000,
+      695000,
+      746000,
+      849000,
+      893000,
+      937000,
+      1026000,
+      1099000,
+      1173000,
+      1246000
     ],
     "SkillAbsAmend": [
       0,
@@ -28091,7 +28757,7 @@
       0,
       0
     ],
-    "EnergyCharge": 29500,
+    "EnergyCharge": 25100,
     "TalentPercentAmend": [
       0,
       0,
@@ -28113,7 +28779,7 @@
     "Id": 110100005,
     "levelTypeData": 3,
     "LevelData": 5,
-    "HitdamageInfo": "普攻5",
+    "HitdamageInfo": "???",
     "DistanceType": 1,
     "SourceType": 1,
     "DamageType": 1,
@@ -28121,23 +28787,24 @@
     "ElementType": 6,
     "DamageTag": [
       -1904549577,
-      1015215168
+      1015215168,
+      967180620
     ],
     "DamageBonusType": 1,
     "SkillPercentAmend": [
-      132000,
-      149000,
-      166000,
-      183000,
-      200000,
-      217000,
-      241000,
-      264000,
-      288000,
-      311000,
-      335000,
-      358000,
-      382000
+      385000,
+      443000,
+      501000,
+      674000,
+      728000,
+      782000,
+      890000,
+      936000,
+      982000,
+      1074000,
+      1151000,
+      1228000,
+      1305000
     ],
     "SkillAbsAmend": [
       0,
@@ -28154,7 +28821,7 @@
       0,
       0
     ],
-    "EnergyCharge": 29500,
+    "EnergyCharge": 25000,
     "TalentPercentAmend": [
       0,
       0,
@@ -28177,7 +28844,7 @@
     "levelTypeData": 3,
     "LevelData": 2,
     "MainOrSupport": 1,
-    "HitdamageInfo": "主控技",
+    "HitdamageInfo": "???",
     "DistanceType": 1,
     "SourceType": 1,
     "DamageType": 2,
@@ -28185,23 +28852,24 @@
     "ElementType": 6,
     "DamageTag": [
       -1105969130,
-      324884188
+      324884188,
+      967180620
     ],
     "DamageBonusType": 1,
     "SkillPercentAmend": [
-      335000,
-      379000,
-      422000,
-      466000,
-      509000,
-      553000,
-      613000,
-      672000,
-      732000,
-      791000,
-      851000,
-      911000,
-      970000
+      1090000,
+      1250000,
+      1420000,
+      1910000,
+      2060000,
+      2210000,
+      2520000,
+      2650000,
+      2780000,
+      3040000,
+      3260000,
+      3480000,
+      3700000
     ],
     "SkillAbsAmend": [
       0,
@@ -28218,7 +28886,7 @@
       0,
       0
     ],
-    "EnergyCharge": 25000,
+    "EnergyCharge": 35000,
     "TalentPercentAmend": [
       0,
       0,
@@ -28241,31 +28909,30 @@
     "levelTypeData": 3,
     "LevelData": 2,
     "MainOrSupport": 1,
-    "HitdamageInfo": "主控技",
+    "HitdamageInfo": "???",
     "DistanceType": 1,
     "SourceType": 1,
     "DamageType": 2,
     "EffectType": 1,
     "ElementType": 6,
     "DamageTag": [
-      -1105969130,
-      324884188
+      -1105969130
     ],
     "DamageBonusType": 1,
     "SkillPercentAmend": [
-      168000,
-      189000,
-      211000,
-      233000,
-      255000,
-      277000,
-      306000,
-      336000,
-      366000,
-      396000,
-      426000,
-      455000,
-      485000
+      450000,
+      520000,
+      590000,
+      800000,
+      860000,
+      920000,
+      1050000,
+      1100000,
+      1160000,
+      1270000,
+      1360000,
+      1450000,
+      1540000
     ],
     "SkillAbsAmend": [
       0,
@@ -28282,7 +28949,6 @@
       0,
       0
     ],
-    "EnergyCharge": 25000,
     "TalentPercentAmend": [
       0,
       0,
@@ -28304,7 +28970,7 @@
     "Id": 110300003,
     "levelTypeData": 1,
     "LevelData": 511005,
-    "HitdamageInfo": "主控技",
+    "HitdamageInfo": "???",
     "DistanceType": 1,
     "SourceType": 1,
     "DamageType": 2,
@@ -28315,15 +28981,15 @@
     ],
     "DamageBonusType": 1,
     "SkillPercentAmend": [
-      270000,
-      360000,
-      450000,
-      530000,
-      620000,
-      710000,
-      790000,
-      880000,
-      960000
+      590000,
+      940000,
+      1290000,
+      1640000,
+      1990000,
+      2350000,
+      2700000,
+      3050000,
+      3400000
     ],
     "SkillAbsAmend": [
       0,
@@ -28362,7 +29028,7 @@
     "levelTypeData": 3,
     "LevelData": 2,
     "MainOrSupport": 2,
-    "HitdamageInfo": "支援技",
+    "HitdamageInfo": "???",
     "DistanceType": 1,
     "SourceType": 1,
     "DamageType": 2,
@@ -28374,19 +29040,19 @@
     ],
     "DamageBonusType": 1,
     "SkillPercentAmend": [
-      900000,
-      1020000,
-      1130000,
-      1250000,
-      1370000,
-      1480000,
-      1640000,
-      1800000,
-      1960000,
-      2120000,
-      2280000,
-      2440000,
-      2600000
+      1080000,
+      1240000,
+      1410000,
+      1890000,
+      2040000,
+      2200000,
+      2500000,
+      2630000,
+      2760000,
+      3020000,
+      3230000,
+      3450000,
+      3670000
     ],
     "SkillAbsAmend": [
       0,
@@ -28425,7 +29091,7 @@
     "levelTypeData": 3,
     "LevelData": 2,
     "MainOrSupport": 2,
-    "HitdamageInfo": "支援技",
+    "HitdamageInfo": "???",
     "DistanceType": 1,
     "SourceType": 1,
     "DamageType": 2,
@@ -28438,19 +29104,19 @@
     ],
     "DamageBonusType": 1,
     "SkillPercentAmend": [
-      75000,
-      84000,
-      94000,
-      104000,
-      114000,
-      123000,
-      137000,
-      150000,
-      163000,
-      176000,
-      190000,
-      203000,
-      216000
+      350000,
+      400000,
+      450000,
+      610000,
+      650000,
+      700000,
+      800000,
+      840000,
+      880000,
+      960000,
+      1030000,
+      1100000,
+      1170000
     ],
     "SkillAbsAmend": [
       0,
@@ -28488,7 +29154,7 @@
     "Id": 110900001,
     "levelTypeData": 3,
     "LevelData": 5,
-    "HitdamageInfo": "暗影分身-主控",
+    "HitdamageInfo": "???",
     "DistanceType": 1,
     "SourceType": 1,
     "DamageType": 7,
@@ -28499,19 +29165,19 @@
     ],
     "DamageBonusType": 1,
     "SkillPercentAmend": [
-      83000,
-      93000,
-      104000,
-      115000,
-      125000,
-      136000,
-      151000,
-      165000,
-      180000,
-      195000,
-      210000,
-      224000,
-      239000
+      900000,
+      1040000,
+      1170000,
+      1580000,
+      1710000,
+      1830000,
+      2090000,
+      2190000,
+      2300000,
+      2520000,
+      2700000,
+      2880000,
+      3060000
     ],
     "SkillAbsAmend": [
       0,
@@ -28549,7 +29215,7 @@
     "levelTypeData": 3,
     "LevelData": 2,
     "MainOrSupport": 1,
-    "HitdamageInfo": "暗影分身-主控",
+    "HitdamageInfo": "???",
     "DistanceType": 1,
     "SourceType": 1,
     "DamageType": 7,
@@ -28560,80 +29226,19 @@
     ],
     "DamageBonusType": 1,
     "SkillPercentAmend": [
-      49000,
-      55000,
-      61000,
-      68000,
-      74000,
-      80000,
-      89000,
-      98000,
-      106000,
-      115000,
-      124000,
-      132000,
-      141000
-    ],
-    "SkillAbsAmend": [
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0
-    ],
-    "TalentPercentAmend": [
-      0,
-      0,
-      0,
-      0,
-      0
-    ],
-    "TalentAbsAmend": [
-      0,
-      0,
-      0,
-      0,
-      0
-    ],
-    "SkillSlotType": 2
-  },
-  "110900003": {
-    "Id": 110900003,
-    "levelTypeData": 3,
-    "LevelData": 2,
-    "MainOrSupport": 1,
-    "HitdamageInfo": "暗影分身-主控",
-    "DistanceType": 1,
-    "SourceType": 1,
-    "DamageType": 7,
-    "EffectType": 1,
-    "ElementType": 6,
-    "DamageTag": [
-      -1105969130
-    ],
-    "DamageBonusType": 1,
-    "SkillPercentAmend": [
-      61000,
-      69000,
-      77000,
-      85000,
-      93000,
-      100000,
-      111000,
-      122000,
-      133000,
-      144000,
-      154000,
-      165000,
-      176000
+      246000,
+      283000,
+      320000,
+      430000,
+      465000,
+      499000,
+      568000,
+      597000,
+      627000,
+      686000,
+      735000,
+      784000,
+      833000
     ],
     "SkillAbsAmend": [
       0,
@@ -28670,7 +29275,7 @@
     "Id": 110900004,
     "levelTypeData": 1,
     "LevelData": 511008,
-    "HitdamageInfo": "暗影分身-主控",
+    "HitdamageInfo": "???",
     "DistanceType": 1,
     "SourceType": 1,
     "DamageType": 7,
@@ -28681,15 +29286,15 @@
     ],
     "DamageBonusType": 1,
     "SkillPercentAmend": [
-      120000,
-      160000,
-      200000,
-      230000,
-      270000,
-      310000,
-      350000,
-      390000,
-      420000
+      1330000,
+      2130000,
+      2920000,
+      3720000,
+      4520000,
+      5310000,
+      6110000,
+      6910000,
+      7700000
     ],
     "SkillAbsAmend": [
       0,
@@ -28727,7 +29332,7 @@
     "levelTypeData": 3,
     "LevelData": 2,
     "MainOrSupport": 2,
-    "HitdamageInfo": "暗影分身-支援",
+    "HitdamageInfo": "???",
     "DistanceType": 1,
     "SourceType": 1,
     "DamageType": 7,
@@ -28739,19 +29344,19 @@
     ],
     "DamageBonusType": 1,
     "SkillPercentAmend": [
-      290000,
-      330000,
+      320000,
       370000,
-      400000,
-      440000,
-      480000,
-      530000,
-      580000,
-      630000,
-      690000,
-      740000,
-      790000,
-      840000
+      410000,
+      560000,
+      600000,
+      650000,
+      730000,
+      770000,
+      810000,
+      890000,
+      950000,
+      1010000,
+      1080000
     ],
     "SkillAbsAmend": [
       0,
@@ -28789,7 +29394,7 @@
     "levelTypeData": 1,
     "LevelData": 511029,
     "MainOrSupport": 2,
-    "HitdamageInfo": "暗影分身-支援",
+    "HitdamageInfo": "???",
     "DistanceType": 1,
     "SourceType": 1,
     "DamageType": 7,
@@ -28801,15 +29406,15 @@
     ],
     "DamageBonusType": 1,
     "SkillPercentAmend": [
-      100000,
-      140000,
-      170000,
-      200000,
-      230000,
-      270000,
-      300000,
-      330000,
-      360000
+      350000,
+      550000,
+      760000,
+      970000,
+      1180000,
+      1380000,
+      1590000,
+      1800000,
+      2010000
     ],
     "SkillAbsAmend": [
       0,
@@ -28846,7 +29451,7 @@
     "Id": 110400001,
     "levelTypeData": 3,
     "LevelData": 4,
-    "HitdamageInfo": "绝招",
+    "HitdamageInfo": "???",
     "DistanceType": 1,
     "SourceType": 1,
     "DamageType": 3,
@@ -28858,19 +29463,19 @@
     ],
     "DamageBonusType": 1,
     "SkillPercentAmend": [
-      880000,
-      990000,
-      1110000,
-      1220000,
-      1340000,
-      1450000,
-      1610000,
-      1770000,
-      1920000,
-      2080000,
-      2240000,
-      2390000,
-      2550000
+      1760000,
+      2030000,
+      2290000,
+      3090000,
+      3330000,
+      3580000,
+      4080000,
+      4290000,
+      4500000,
+      4920000,
+      5280000,
+      5630000,
+      5980000
     ],
     "SkillAbsAmend": [
       0,
@@ -28908,7 +29513,7 @@
     "Id": 110400002,
     "levelTypeData": 3,
     "LevelData": 4,
-    "HitdamageInfo": "绝招",
+    "HitdamageInfo": "???",
     "DistanceType": 1,
     "SourceType": 1,
     "DamageType": 3,
@@ -28920,81 +29525,19 @@
     ],
     "DamageBonusType": 1,
     "SkillPercentAmend": [
-      4400000,
-      4970000,
-      5540000,
-      6120000,
-      6690000,
-      7260000,
+      3960000,
+      4550000,
+      5150000,
+      6930000,
+      7480000,
       8040000,
-      8830000,
-      9610000,
-      10390000,
-      11180000,
-      11960000,
-      12740000
-    ],
-    "SkillAbsAmend": [
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0
-    ],
-    "TalentPercentAmend": [
-      0,
-      0,
-      0,
-      0,
-      0
-    ],
-    "TalentAbsAmend": [
-      0,
-      0,
-      0,
-      0,
-      0
-    ],
-    "SkillId": 11040000,
-    "SkillSlotType": 4
-  },
-  "110400003": {
-    "Id": 110400003,
-    "levelTypeData": 3,
-    "LevelData": 4,
-    "HitdamageInfo": "绝招",
-    "DistanceType": 1,
-    "SourceType": 1,
-    "DamageType": 3,
-    "EffectType": 1,
-    "ElementType": 6,
-    "DamageTag": [
-      182671388,
-      -1105969130
-    ],
-    "DamageBonusType": 1,
-    "SkillPercentAmend": [
-      760000,
-      860000,
-      960000,
-      1060000,
-      1160000,
-      1260000,
-      1390000,
-      1530000,
-      1660000,
-      1800000,
-      1930000,
-      2070000,
-      2200000
+      9140000,
+      9620000,
+      10090000,
+      11040000,
+      11840000,
+      12630000,
+      13420000
     ],
     "SkillAbsAmend": [
       0,
@@ -31733,7 +32276,7 @@
   "145000001": {
     "Id": 145000001,
     "levelTypeData": 4,
-    "HitdamageInfo": "印记暗锁反应",
+    "HitdamageInfo": "???",
     "DistanceType": 2,
     "SourceType": 1,
     "DamageType": 5,
@@ -31785,7 +32328,7 @@
     "Id": 145100001,
     "levelTypeData": 3,
     "LevelData": 5,
-    "HitdamageInfo": "普攻1",
+    "HitdamageInfo": "???",
     "DistanceType": 2,
     "SourceType": 1,
     "DamageType": 1,
@@ -31847,7 +32390,7 @@
     "Id": 145100002,
     "levelTypeData": 3,
     "LevelData": 5,
-    "HitdamageInfo": "普攻2",
+    "HitdamageInfo": "???",
     "DistanceType": 2,
     "SourceType": 1,
     "DamageType": 1,
@@ -31909,7 +32452,7 @@
     "Id": 145100003,
     "levelTypeData": 3,
     "LevelData": 5,
-    "HitdamageInfo": "普攻3",
+    "HitdamageInfo": "???",
     "DistanceType": 2,
     "SourceType": 1,
     "DamageType": 1,
@@ -31972,7 +32515,7 @@
     "levelTypeData": 3,
     "LevelData": 2,
     "MainOrSupport": 1,
-    "HitdamageInfo": "主控技",
+    "HitdamageInfo": "???",
     "DistanceType": 2,
     "SourceType": 1,
     "DamageType": 2,
@@ -32036,7 +32579,7 @@
     "levelTypeData": 3,
     "LevelData": 2,
     "MainOrSupport": 1,
-    "HitdamageInfo": "潜能1",
+    "HitdamageInfo": "???",
     "DistanceType": 2,
     "SourceType": 1,
     "DamageType": 2,
@@ -32098,7 +32641,7 @@
     "levelTypeData": 3,
     "LevelData": 2,
     "MainOrSupport": 1,
-    "HitdamageInfo": "主控技",
+    "HitdamageInfo": "???",
     "DistanceType": 2,
     "SourceType": 1,
     "DamageType": 2,
@@ -32161,7 +32704,7 @@
     "levelTypeData": 3,
     "LevelData": 2,
     "MainOrSupport": 1,
-    "HitdamageInfo": "潜能4",
+    "HitdamageInfo": "???",
     "DistanceType": 2,
     "SourceType": 1,
     "DamageType": 2,
@@ -32224,7 +32767,7 @@
     "levelTypeData": 1,
     "LevelData": 514705,
     "MainOrSupport": 1,
-    "HitdamageInfo": "潜能5",
+    "HitdamageInfo": "???",
     "DistanceType": 2,
     "SourceType": 1,
     "DamageType": 2,
@@ -32286,15 +32829,16 @@
     "levelTypeData": 3,
     "LevelData": 2,
     "MainOrSupport": 2,
-    "HitdamageInfo": "支援技",
+    "HitdamageInfo": "???",
     "DistanceType": 2,
     "SourceType": 1,
     "DamageType": 2,
     "EffectType": 1,
     "ElementType": 6,
     "DamageTag": [
-      1872604223,
-      -1127966687
+      83050127,
+      -1127966687,
+      1872604223
     ],
     "DamageBonusType": 1,
     "SkillPercentAmend": [
@@ -32349,7 +32893,7 @@
     "levelTypeData": 3,
     "LevelData": 2,
     "MainOrSupport": 2,
-    "HitdamageInfo": "支援技",
+    "HitdamageInfo": "???",
     "DistanceType": 2,
     "SourceType": 1,
     "DamageType": 2,
@@ -32357,23 +32901,24 @@
     "ElementType": 6,
     "DamageTag": [
       -208210704,
-      -1127966687
+      -1127966687,
+      1872604223
     ],
     "DamageBonusType": 1,
     "SkillPercentAmend": [
-      232000,
-      255000,
-      278000,
-      302000,
-      325000,
-      348000,
-      371000,
-      394000,
-      418000,
-      441000,
-      464000,
-      487000,
-      510000
+      93000,
+      102000,
+      112000,
+      140000,
+      149000,
+      158000,
+      177000,
+      186000,
+      195000,
+      214000,
+      223000,
+      233000,
+      242000
     ],
     "SkillAbsAmend": [
       0,
@@ -32412,7 +32957,7 @@
     "levelTypeData": 3,
     "LevelData": 2,
     "MainOrSupport": 2,
-    "HitdamageInfo": "潜能21",
+    "HitdamageInfo": "???",
     "DistanceType": 2,
     "SourceType": 1,
     "DamageType": 2,
@@ -32474,7 +33019,7 @@
     "levelTypeData": 1,
     "LevelData": 514725,
     "MainOrSupport": 2,
-    "HitdamageInfo": "潜能25",
+    "HitdamageInfo": "???",
     "DistanceType": 2,
     "SourceType": 1,
     "DamageType": 2,
@@ -32536,7 +33081,7 @@
     "levelTypeData": 3,
     "LevelData": 2,
     "MainOrSupport": 2,
-    "HitdamageInfo": "潜能22",
+    "HitdamageInfo": "???",
     "DistanceType": 2,
     "SourceType": 1,
     "DamageType": 2,
@@ -32598,7 +33143,7 @@
     "levelTypeData": 3,
     "LevelData": 2,
     "MainOrSupport": 2,
-    "HitdamageInfo": "潜能23",
+    "HitdamageInfo": "???",
     "DistanceType": 2,
     "SourceType": 1,
     "DamageType": 2,
@@ -32659,7 +33204,7 @@
     "Id": 145400001,
     "levelTypeData": 3,
     "LevelData": 4,
-    "HitdamageInfo": "绝招",
+    "HitdamageInfo": "???",
     "DistanceType": 2,
     "SourceType": 1,
     "DamageType": 3,
@@ -32720,7 +33265,7 @@
     "Id": 145400002,
     "levelTypeData": 3,
     "LevelData": 4,
-    "HitdamageInfo": "绝招",
+    "HitdamageInfo": "???",
     "DistanceType": 2,
     "SourceType": 1,
     "DamageType": 3,
@@ -32781,7 +33326,7 @@
     "Id": 145400003,
     "levelTypeData": 3,
     "LevelData": 4,
-    "HitdamageInfo": "绝招",
+    "HitdamageInfo": "???",
     "DistanceType": 2,
     "SourceType": 1,
     "DamageType": 3,
@@ -32842,7 +33387,7 @@
     "Id": 145400004,
     "levelTypeData": 3,
     "LevelData": 4,
-    "HitdamageInfo": "绝招",
+    "HitdamageInfo": "???",
     "DistanceType": 2,
     "SourceType": 1,
     "DamageType": 3,
@@ -38712,7 +39257,7 @@
   "143000001": {
     "Id": 143000001,
     "levelTypeData": 4,
-    "HitdamageInfo": "风印记触发/气旋多段伤害",
+    "HitdamageInfo": "???",
     "DistanceType": 2,
     "SourceType": 1,
     "DamageType": 5,
@@ -38768,7 +39313,7 @@
     "Id": 143100001,
     "levelTypeData": 3,
     "LevelData": 5,
-    "HitdamageInfo": "远程普攻/子弹",
+    "HitdamageInfo": "???",
     "DistanceType": 2,
     "SourceType": 1,
     "DamageType": 1,
@@ -38832,7 +39377,7 @@
     "Id": 143100002,
     "levelTypeData": 3,
     "LevelData": 5,
-    "HitdamageInfo": "远程普攻/激光",
+    "HitdamageInfo": "???",
     "DistanceType": 2,
     "SourceType": 1,
     "DamageType": 1,
@@ -38898,7 +39443,7 @@
     "Id": 143100003,
     "levelTypeData": 3,
     "LevelData": 5,
-    "HitdamageInfo": "近战普攻1",
+    "HitdamageInfo": "???",
     "DistanceType": 1,
     "SourceType": 1,
     "DamageType": 1,
@@ -38961,7 +39506,7 @@
     "Id": 143100004,
     "levelTypeData": 3,
     "LevelData": 5,
-    "HitdamageInfo": "近战普攻2",
+    "HitdamageInfo": "???",
     "DistanceType": 1,
     "SourceType": 1,
     "DamageType": 1,
@@ -39024,7 +39569,7 @@
     "Id": 143100005,
     "levelTypeData": 3,
     "LevelData": 5,
-    "HitdamageInfo": "近战普攻3/3连击",
+    "HitdamageInfo": "???",
     "DistanceType": 1,
     "SourceType": 1,
     "DamageType": 1,
@@ -39087,7 +39632,7 @@
     "Id": 143100006,
     "levelTypeData": 3,
     "LevelData": 5,
-    "HitdamageInfo": "近战普攻4/4连击",
+    "HitdamageInfo": "???",
     "DistanceType": 1,
     "SourceType": 1,
     "DamageType": 1,
@@ -39150,7 +39695,7 @@
     "Id": 143100007,
     "levelTypeData": 3,
     "LevelData": 5,
-    "HitdamageInfo": "近战普攻5/3连击",
+    "HitdamageInfo": "???",
     "DistanceType": 1,
     "SourceType": 1,
     "DamageType": 1,
@@ -39213,7 +39758,7 @@
     "Id": 143100008,
     "levelTypeData": 3,
     "LevelData": 5,
-    "HitdamageInfo": "近战普攻6/远程剑气",
+    "HitdamageInfo": "???",
     "DistanceType": 1,
     "SourceType": 1,
     "DamageType": 1,
@@ -39278,7 +39823,7 @@
     "levelTypeData": 3,
     "LevelData": 2,
     "MainOrSupport": 1,
-    "HitdamageInfo": "主控技/近战斩击",
+    "HitdamageInfo": "???",
     "DistanceType": 1,
     "SourceType": 1,
     "DamageType": 2,
@@ -39342,7 +39887,7 @@
     "levelTypeData": 3,
     "LevelData": 2,
     "MainOrSupport": 1,
-    "HitdamageInfo": "主控技/远程子弹攻击",
+    "HitdamageInfo": "???",
     "DistanceType": 2,
     "SourceType": 1,
     "DamageType": 2,
@@ -39407,7 +39952,7 @@
     "levelTypeData": 3,
     "LevelData": 2,
     "MainOrSupport": 1,
-    "HitdamageInfo": "主控技/潜能1/潜能2小旋风伤害",
+    "HitdamageInfo": "???",
     "DistanceType": 2,
     "SourceType": 1,
     "DamageType": 6,
@@ -39467,7 +40012,7 @@
     "levelTypeData": 3,
     "LevelData": 2,
     "MainOrSupport": 2,
-    "HitdamageInfo": "支援技/翻滚斩击",
+    "HitdamageInfo": "???",
     "DistanceType": 2,
     "SourceType": 1,
     "DamageType": 2,
@@ -39533,7 +40078,7 @@
     "levelTypeData": 3,
     "LevelData": 2,
     "MainOrSupport": 2,
-    "HitdamageInfo": "支援技/射击爆炸",
+    "HitdamageInfo": "???",
     "DistanceType": 2,
     "SourceType": 1,
     "DamageType": 2,
@@ -39599,7 +40144,7 @@
     "levelTypeData": 3,
     "LevelData": 2,
     "MainOrSupport": 2,
-    "HitdamageInfo": "支援技/潜能21旋风伤害",
+    "HitdamageInfo": "???",
     "DistanceType": 2,
     "SourceType": 1,
     "DamageType": 2,
@@ -39663,7 +40208,7 @@
     "levelTypeData": 3,
     "LevelData": 2,
     "MainOrSupport": 2,
-    "HitdamageInfo": "支援技/潜能22地裂伤害",
+    "HitdamageInfo": "???",
     "DistanceType": 2,
     "SourceType": 1,
     "DamageType": 2,
@@ -39727,7 +40272,7 @@
     "levelTypeData": 3,
     "LevelData": 2,
     "MainOrSupport": 2,
-    "HitdamageInfo": "支援技/潜能23额外挥斩",
+    "HitdamageInfo": "???",
     "DistanceType": 2,
     "SourceType": 1,
     "DamageType": 2,
@@ -39792,7 +40337,7 @@
     "Id": 143310007,
     "levelTypeData": 1,
     "LevelData": 514332,
-    "HitdamageInfo": "支援技/潜能32队友产生龙卷风",
+    "HitdamageInfo": "???",
     "DistanceType": 2,
     "SourceType": 1,
     "DamageType": 6,
@@ -39851,7 +40396,7 @@
     "Id": 143310008,
     "levelTypeData": 1,
     "LevelData": 514325,
-    "HitdamageInfo": "支援技/潜能25额外伤害",
+    "HitdamageInfo": "???",
     "DistanceType": 2,
     "SourceType": 1,
     "DamageType": 2,
@@ -39913,7 +40458,7 @@
     "Id": 143400001,
     "levelTypeData": 3,
     "LevelData": 4,
-    "HitdamageInfo": "绝招/高速闪身攻击",
+    "HitdamageInfo": "???",
     "DistanceType": 2,
     "SourceType": 1,
     "DamageType": 3,
@@ -39975,7 +40520,7 @@
     "Id": 143400002,
     "levelTypeData": 3,
     "LevelData": 4,
-    "HitdamageInfo": "绝招/领域消散攻击",
+    "HitdamageInfo": "???",
     "DistanceType": 2,
     "SourceType": 1,
     "DamageType": 3,
@@ -40779,11 +41324,7 @@
       920000,
       1030000,
       1140000,
-      1250000,
-      0,
-      0,
-      0,
-      0
+      1250000
     ],
     "SkillAbsAmend": [
       0,
@@ -41863,11 +42404,7 @@
       1320000,
       1520000,
       1710000,
-      1910000,
-      0,
-      0,
-      0,
-      0
+      1910000
     ],
     "SkillAbsAmend": [
       0,
@@ -41928,11 +42465,7 @@
       305000,
       350000,
       396000,
-      442000,
-      0,
-      0,
-      0,
-      0
+      442000
     ],
     "SkillAbsAmend": [
       0,
@@ -42053,11 +42586,7 @@
       4650000,
       5350000,
       6050000,
-      6750000,
-      0,
-      0,
-      0,
-      0
+      6750000
     ],
     "SkillAbsAmend": [
       0,
@@ -43267,14 +43796,74 @@
     "SkillId": 14932000,
     "SkillSlotType": 2
   },
+  "159310301": {
+    "Id": 159310301,
+    "levelTypeData": 3,
+    "LevelData": 5,
+    "DistanceType": 2,
+    "SourceType": 1,
+    "DamageType": 1,
+    "EffectType": 1,
+    "ElementType": 3,
+    "DamageTag": [
+      -1478043145,
+      691308563
+    ],
+    "DamageBonusType": 1,
+    "SkillPercentAmend": [
+      1050000,
+      1200000,
+      1360000,
+      1830000,
+      1980000,
+      2130000,
+      2420000,
+      2550000,
+      2670000,
+      2920000,
+      3130000,
+      3340000,
+      3550000
+    ],
+    "SkillAbsAmend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "TalentPercentAmend": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "TalentAbsAmend": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "SkillId": 14932000,
+    "SkillSlotType": 5
+  },
   "159310401": {
     "Id": 159310401,
     "levelTypeData": 3,
-    "LevelData": 2,
-    "MainOrSupport": 1,
+    "LevelData": 5,
     "DistanceType": 2,
     "SourceType": 1,
-    "DamageType": 2,
+    "DamageType": 1,
     "EffectType": 5,
     "ElementType": 3,
     "DamageTag": [
@@ -43326,20 +43915,20 @@
       0
     ],
     "SkillId": 14932000,
-    "SkillSlotType": 2
+    "SkillSlotType": 5
   },
   "159310402": {
     "Id": 159310402,
     "levelTypeData": 3,
-    "LevelData": 2,
-    "MainOrSupport": 1,
+    "LevelData": 5,
     "DistanceType": 2,
     "SourceType": 1,
-    "DamageType": 2,
+    "DamageType": 1,
     "EffectType": 1,
     "ElementType": 3,
     "DamageTag": [
-      691308563
+      691308563,
+      1059509238
     ],
     "DamageBonusType": 1,
     "SkillPercentAmend": [
@@ -43387,7 +43976,7 @@
       0
     ],
     "SkillId": 14932000,
-    "SkillSlotType": 2
+    "SkillSlotType": 5
   },
   "159320001": {
     "Id": 159320001,
@@ -43828,9 +44417,8 @@
   },
   "159327101": {
     "Id": 159327101,
-    "levelTypeData": 3,
-    "LevelData": 2,
-    "MainOrSupport": 2,
+    "levelTypeData": 1,
+    "LevelData": 515927,
     "DistanceType": 2,
     "SourceType": 1,
     "DamageType": 2,
@@ -43889,9 +44477,8 @@
   },
   "159330101": {
     "Id": 159330101,
-    "levelTypeData": 3,
-    "LevelData": 2,
-    "MainOrSupport": 2,
+    "levelTypeData": 1,
+    "LevelData": 515930,
     "DistanceType": 2,
     "SourceType": 1,
     "DamageType": 2,
@@ -43960,7 +44547,129 @@
     "EffectType": 1,
     "ElementType": 3,
     "DamageTag": [
-      862287147
+      654984627,
+      -1808382063
+    ],
+    "DamageBonusType": 1,
+    "SkillPercentAmend": [
+      3000000,
+      620000,
+      700000,
+      940000,
+      1010000,
+      1090000,
+      1240000,
+      1300000,
+      1360000,
+      1490000,
+      1600000,
+      1710000,
+      1810000
+    ],
+    "SkillAbsAmend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "TalentPercentAmend": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "TalentAbsAmend": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "SkillId": 15640000,
+    "SkillSlotType": 4
+  },
+  "159400002": {
+    "Id": 159400002,
+    "levelTypeData": 3,
+    "LevelData": 4,
+    "DistanceType": 2,
+    "SourceType": 1,
+    "DamageType": 3,
+    "EffectType": 1,
+    "ElementType": 3,
+    "DamageTag": [
+      654984627,
+      -1808382063
+    ],
+    "DamageBonusType": 1,
+    "SkillPercentAmend": [
+      540000,
+      620000,
+      700000,
+      940000,
+      1010000,
+      1090000,
+      1240000,
+      1300000,
+      1360000,
+      1490000,
+      1600000,
+      1710000,
+      1810000
+    ],
+    "SkillAbsAmend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "TalentPercentAmend": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "TalentAbsAmend": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "SkillId": 15640000,
+    "SkillSlotType": 4
+  },
+  "159400003": {
+    "Id": 159400003,
+    "levelTypeData": 1,
+    "LevelData": 515941,
+    "DistanceType": 2,
+    "SourceType": 1,
+    "DamageType": 3,
+    "EffectType": 1,
+    "ElementType": 3,
+    "DamageTag": [
+      654984627
     ],
     "DamageBonusType": 1,
     "SkillPercentAmend": [
@@ -44210,7 +44919,7 @@
   },
   "1040101": {
     "Id": 1040101,
-    "HitdamageInfo": "鸢尾普攻12",
+    "HitdamageInfo": "普攻12",
     "DistanceType": 2,
     "SourceType": 1,
     "DamageType": 1,
@@ -44249,7 +44958,7 @@
   },
   "1040102": {
     "Id": 1040102,
-    "HitdamageInfo": "鸢尾普攻3",
+    "HitdamageInfo": "普攻3",
     "DistanceType": 2,
     "SourceType": 1,
     "DamageType": 1,
@@ -44288,7 +44997,7 @@
   },
   "1040201": {
     "Id": 1040201,
-    "HitdamageInfo": "鸢尾1技能爆炸",
+    "HitdamageInfo": "1技能爆炸",
     "DistanceType": 2,
     "SourceType": 1,
     "DamageType": 2,
@@ -44328,7 +45037,7 @@
   },
   "1040202": {
     "Id": 1040202,
-    "HitdamageInfo": "鸢尾1技能ex持续",
+    "HitdamageInfo": "1技能ex持续",
     "DistanceType": 2,
     "SourceType": 1,
     "DamageType": 2,
@@ -44368,7 +45077,7 @@
   },
   "1040301": {
     "Id": 1040301,
-    "HitdamageInfo": "鸢尾2技能",
+    "HitdamageInfo": "2技能",
     "DistanceType": 2,
     "SourceType": 1,
     "DamageType": 2,
@@ -44408,7 +45117,7 @@
   },
   "1040401": {
     "Id": 1040401,
-    "HitdamageInfo": "鸢尾大招持续",
+    "HitdamageInfo": "大招持续",
     "DistanceType": 2,
     "SourceType": 1,
     "DamageType": 3,
@@ -44447,7 +45156,7 @@
   },
   "1040402": {
     "Id": 1040402,
-    "HitdamageInfo": "鸢尾大招爆炸",
+    "HitdamageInfo": "大招爆炸",
     "DistanceType": 2,
     "SourceType": 1,
     "DamageType": 3,
@@ -44486,7 +45195,7 @@
   },
   "1050101": {
     "Id": 1050101,
-    "HitdamageInfo": "尘砂普攻1",
+    "HitdamageInfo": "普攻1",
     "DistanceType": 1,
     "SourceType": 1,
     "DamageType": 1,
@@ -44517,7 +45226,7 @@
   },
   "1050102": {
     "Id": 1050102,
-    "HitdamageInfo": "尘砂普攻2",
+    "HitdamageInfo": "普攻2",
     "DistanceType": 1,
     "SourceType": 1,
     "DamageType": 1,
@@ -44548,7 +45257,7 @@
   },
   "1050103": {
     "Id": 1050103,
-    "HitdamageInfo": "尘砂普攻3",
+    "HitdamageInfo": "普攻3",
     "DistanceType": 1,
     "SourceType": 1,
     "DamageType": 1,
@@ -44579,7 +45288,7 @@
   },
   "1050104": {
     "Id": 1050104,
-    "HitdamageInfo": "尘砂普攻4",
+    "HitdamageInfo": "普攻4",
     "DistanceType": 1,
     "SourceType": 1,
     "DamageType": 1,
@@ -44610,7 +45319,7 @@
   },
   "1050201": {
     "Id": 1050201,
-    "HitdamageInfo": "尘砂技能1劈砍",
+    "HitdamageInfo": "技能1劈砍",
     "DistanceType": 1,
     "SourceType": 1,
     "DamageType": 2,
@@ -44649,7 +45358,7 @@
   },
   "1050202": {
     "Id": 1050202,
-    "HitdamageInfo": "尘砂技能1连斩1",
+    "HitdamageInfo": "技能1连斩1",
     "DistanceType": 1,
     "SourceType": 1,
     "DamageType": 2,
@@ -44681,7 +45390,7 @@
   },
   "1050203": {
     "Id": 1050203,
-    "HitdamageInfo": "尘砂技能1连斩2",
+    "HitdamageInfo": "技能1连斩2",
     "DistanceType": 1,
     "SourceType": 1,
     "DamageType": 2,
@@ -44713,7 +45422,7 @@
   },
   "1050204": {
     "Id": 1050204,
-    "HitdamageInfo": "尘砂技能1连斩3",
+    "HitdamageInfo": "技能1连斩3",
     "DistanceType": 1,
     "SourceType": 1,
     "DamageType": 2,
@@ -44745,7 +45454,7 @@
   },
   "1050205": {
     "Id": 1050205,
-    "HitdamageInfo": "尘砂技能1连斩4",
+    "HitdamageInfo": "技能1连斩4",
     "DistanceType": 1,
     "SourceType": 1,
     "DamageType": 2,
@@ -44777,7 +45486,7 @@
   },
   "1050206": {
     "Id": 1050206,
-    "HitdamageInfo": "尘砂技能1终结",
+    "HitdamageInfo": "技能1终结",
     "DistanceType": 1,
     "SourceType": 1,
     "DamageType": 2,
@@ -44809,7 +45518,7 @@
   },
   "1050301": {
     "Id": 1050301,
-    "HitdamageInfo": "尘砂技能2震地",
+    "HitdamageInfo": "技能2震地",
     "DistanceType": 1,
     "SourceType": 1,
     "DamageType": 2,
@@ -44841,7 +45550,7 @@
   },
   "1050302": {
     "Id": 1050302,
-    "HitdamageInfo": "尘砂技能2升天1",
+    "HitdamageInfo": "技能2升天1",
     "DistanceType": 1,
     "SourceType": 1,
     "DamageType": 2,
@@ -44873,7 +45582,7 @@
   },
   "1050303": {
     "Id": 1050303,
-    "HitdamageInfo": "尘砂技能2升天2",
+    "HitdamageInfo": "技能2升天2",
     "DistanceType": 1,
     "SourceType": 1,
     "DamageType": 2,
@@ -44905,7 +45614,7 @@
   },
   "1050304": {
     "Id": 1050304,
-    "HitdamageInfo": "尘砂技能2升天3",
+    "HitdamageInfo": "技能2升天3",
     "DistanceType": 1,
     "SourceType": 1,
     "DamageType": 2,
@@ -44937,7 +45646,7 @@
   },
   "1050305": {
     "Id": 1050305,
-    "HitdamageInfo": "尘砂技能2下落",
+    "HitdamageInfo": "技能2下落",
     "DistanceType": 1,
     "SourceType": 1,
     "DamageType": 2,
@@ -44969,7 +45678,7 @@
   },
   "1050401": {
     "Id": 1050401,
-    "HitdamageInfo": "尘砂大招1",
+    "HitdamageInfo": "大招1",
     "DistanceType": 1,
     "SourceType": 1,
     "DamageType": 3,
@@ -45000,7 +45709,7 @@
   },
   "1050402": {
     "Id": 1050402,
-    "HitdamageInfo": "尘砂大招2",
+    "HitdamageInfo": "大招2",
     "DistanceType": 1,
     "SourceType": 1,
     "DamageType": 3,
@@ -45031,7 +45740,7 @@
   },
   "1050501": {
     "Id": 1050501,
-    "HitdamageInfo": "尘砂闪避斩",
+    "HitdamageInfo": "闪避斩",
     "DistanceType": 1,
     "SourceType": 1,
     "DamageType": 2,
@@ -45062,7 +45771,7 @@
   },
   "1050602": {
     "Id": 1050602,
-    "HitdamageInfo": "尘砂分支连斩剑气",
+    "HitdamageInfo": "分支连斩剑气",
     "DistanceType": 1,
     "SourceType": 1,
     "DamageType": 2,
@@ -45093,7 +45802,7 @@
   },
   "1050603": {
     "Id": 1050603,
-    "HitdamageInfo": "尘砂分支下劈剑气",
+    "HitdamageInfo": "分支下劈剑气",
     "DistanceType": 1,
     "SourceType": 1,
     "DamageType": 2,
@@ -45124,7 +45833,7 @@
   },
   "1050601": {
     "Id": 1050601,
-    "HitdamageInfo": "尘砂空间斩",
+    "HitdamageInfo": "空间斩",
     "DistanceType": 1,
     "SourceType": 1,
     "DamageType": 2,
@@ -45155,7 +45864,7 @@
   },
   "9970101": {
     "Id": 9970101,
-    "HitdamageInfo": "菲登普攻1、2",
+    "HitdamageInfo": "普攻1、2",
     "DistanceType": 1,
     "SourceType": 1,
     "DamageType": 1,
@@ -45195,7 +45904,7 @@
   },
   "9970102": {
     "Id": 9970102,
-    "HitdamageInfo": "菲登普攻3、4",
+    "HitdamageInfo": "普攻3、4",
     "DistanceType": 1,
     "SourceType": 1,
     "DamageType": 1,
@@ -45235,7 +45944,7 @@
   },
   "9970201": {
     "Id": 9970201,
-    "HitdamageInfo": "菲登技能0下砸",
+    "HitdamageInfo": "技能0下砸",
     "DistanceType": 1,
     "SourceType": 1,
     "DamageType": 2,
@@ -45275,7 +45984,7 @@
   },
   "9970202": {
     "Id": 9970202,
-    "HitdamageInfo": "菲登技能1上升",
+    "HitdamageInfo": "技能1上升",
     "DistanceType": 1,
     "SourceType": 1,
     "DamageType": 2,
@@ -45315,7 +46024,7 @@
   },
   "9970203": {
     "Id": 9970203,
-    "HitdamageInfo": "菲登技能1下砸plus",
+    "HitdamageInfo": "技能1下砸plus",
     "DistanceType": 1,
     "SourceType": 1,
     "DamageType": 2,
@@ -45355,7 +46064,7 @@
   },
   "9970301": {
     "Id": 9970301,
-    "HitdamageInfo": "菲登技能2突进斩",
+    "HitdamageInfo": "技能2突进斩",
     "DistanceType": 1,
     "SourceType": 1,
     "DamageType": 2,
@@ -45395,7 +46104,7 @@
   },
   "1010101": {
     "Id": 1010101,
-    "HitdamageInfo": "雪女普攻123",
+    "HitdamageInfo": "普攻123",
     "DistanceType": 2,
     "SourceType": 1,
     "DamageType": 1,
@@ -45435,7 +46144,7 @@
   },
   "1010102": {
     "Id": 1010102,
-    "HitdamageInfo": "雪女普攻4",
+    "HitdamageInfo": "普攻4",
     "DistanceType": 2,
     "SourceType": 1,
     "DamageType": 1,
@@ -45475,7 +46184,7 @@
   },
   "1010201": {
     "Id": 1010201,
-    "HitdamageInfo": "雪女技能0滚动",
+    "HitdamageInfo": "技能0滚动",
     "DistanceType": 2,
     "SourceType": 1,
     "DamageType": 2,
@@ -45515,7 +46224,7 @@
   },
   "1010202": {
     "Id": 1010202,
-    "HitdamageInfo": "雪女技能1滚动",
+    "HitdamageInfo": "技能1滚动",
     "DistanceType": 2,
     "SourceType": 1,
     "DamageType": 2,
@@ -45555,7 +46264,7 @@
   },
   "1010203": {
     "Id": 1010203,
-    "HitdamageInfo": "雪女技能1爆炸",
+    "HitdamageInfo": "技能1爆炸",
     "DistanceType": 2,
     "SourceType": 1,
     "DamageType": 2,
@@ -45595,7 +46304,7 @@
   },
   "1010301": {
     "Id": 1010301,
-    "HitdamageInfo": "雪女技能2扫射",
+    "HitdamageInfo": "技能2扫射",
     "DistanceType": 2,
     "SourceType": 1,
     "DamageType": 2,
@@ -45635,7 +46344,7 @@
   },
   "1010401": {
     "Id": 1010401,
-    "HitdamageInfo": "雪女大招雪人",
+    "HitdamageInfo": "大招雪人",
     "DistanceType": 1,
     "SourceType": 1,
     "DamageType": 2,
@@ -56904,6 +57613,278 @@
     ],
     "SkillId": 5051115
   },
+  "30281011": {
+    "Id": 30281011,
+    "DistanceType": 1,
+    "SourceType": 2,
+    "DamageType": 1,
+    "EffectType": 1,
+    "DamageBonusType": 1,
+    "SkillPercentAmend": [
+      900000,
+      0
+    ],
+    "SkillAbsAmend": [
+      0,
+      0
+    ],
+    "SkillId": 3028101
+  },
+  "30281012": {
+    "Id": 30281012,
+    "DistanceType": 1,
+    "SourceType": 2,
+    "DamageType": 1,
+    "EffectType": 1,
+    "DamageBonusType": 1,
+    "SkillPercentAmend": [
+      1100000,
+      0
+    ],
+    "SkillAbsAmend": [
+      0,
+      0
+    ],
+    "SkillId": 3028101
+  },
+  "30281021": {
+    "Id": 30281021,
+    "DistanceType": 1,
+    "SourceType": 2,
+    "DamageType": 1,
+    "EffectType": 1,
+    "DamageBonusType": 1,
+    "SkillPercentAmend": [
+      900000,
+      0
+    ],
+    "SkillAbsAmend": [
+      0,
+      0
+    ],
+    "SkillId": 3028102
+  },
+  "30281022": {
+    "Id": 30281022,
+    "DistanceType": 1,
+    "SourceType": 2,
+    "DamageType": 1,
+    "EffectType": 1,
+    "DamageBonusType": 1,
+    "SkillPercentAmend": [
+      1100000,
+      0
+    ],
+    "SkillAbsAmend": [
+      0,
+      0
+    ],
+    "SkillId": 3028102
+  },
+  "30281031": {
+    "Id": 30281031,
+    "DistanceType": 1,
+    "SourceType": 2,
+    "DamageType": 1,
+    "EffectType": 1,
+    "DamageBonusType": 1,
+    "SkillPercentAmend": [
+      1500000,
+      0
+    ],
+    "SkillAbsAmend": [
+      0,
+      0
+    ],
+    "SkillId": 3028103
+  },
+  "30281032": {
+    "Id": 30281032,
+    "DistanceType": 1,
+    "SourceType": 2,
+    "DamageType": 1,
+    "EffectType": 1,
+    "DamageBonusType": 1,
+    "SkillPercentAmend": [
+      150000,
+      0
+    ],
+    "SkillAbsAmend": [
+      0,
+      0
+    ],
+    "SkillId": 3028103
+  },
+  "30281041": {
+    "Id": 30281041,
+    "DistanceType": 1,
+    "SourceType": 2,
+    "DamageType": 1,
+    "EffectType": 1,
+    "DamageBonusType": 1,
+    "SkillPercentAmend": [
+      2000000,
+      0
+    ],
+    "SkillAbsAmend": [
+      0,
+      0
+    ],
+    "SkillId": 3028104
+  },
+  "30281042": {
+    "Id": 30281042,
+    "DistanceType": 1,
+    "SourceType": 2,
+    "DamageType": 1,
+    "EffectType": 1,
+    "DamageBonusType": 1,
+    "SkillPercentAmend": [
+      150000,
+      0
+    ],
+    "SkillAbsAmend": [
+      0,
+      0
+    ],
+    "SkillId": 3028104
+  },
+  "30281061": {
+    "Id": 30281061,
+    "DistanceType": 1,
+    "SourceType": 2,
+    "DamageType": 1,
+    "EffectType": 1,
+    "DamageBonusType": 1,
+    "SkillPercentAmend": [
+      750000,
+      0
+    ],
+    "SkillAbsAmend": [
+      0,
+      0
+    ],
+    "SkillId": 3028106
+  },
+  "30281062": {
+    "Id": 30281062,
+    "DistanceType": 1,
+    "SourceType": 2,
+    "DamageType": 1,
+    "EffectType": 1,
+    "DamageBonusType": 1,
+    "SkillPercentAmend": [
+      1250000,
+      0
+    ],
+    "SkillAbsAmend": [
+      0,
+      0
+    ],
+    "SkillId": 3028106
+  },
+  "30281063": {
+    "Id": 30281063,
+    "DistanceType": 1,
+    "SourceType": 2,
+    "DamageType": 1,
+    "EffectType": 6,
+    "DamageBonusType": 1,
+    "SkillPercentAmend": [
+      0,
+      0
+    ],
+    "SkillAbsAmend": [
+      0,
+      0
+    ],
+    "SkillId": 3028106
+  },
+  "30281071": {
+    "Id": 30281071,
+    "DistanceType": 1,
+    "SourceType": 2,
+    "DamageType": 1,
+    "EffectType": 1,
+    "DamageBonusType": 1,
+    "SkillPercentAmend": [
+      750000,
+      0
+    ],
+    "SkillAbsAmend": [
+      0,
+      0
+    ],
+    "SkillId": 3028107
+  },
+  "30281072": {
+    "Id": 30281072,
+    "DistanceType": 1,
+    "SourceType": 2,
+    "DamageType": 1,
+    "EffectType": 1,
+    "DamageBonusType": 1,
+    "SkillPercentAmend": [
+      150000,
+      0
+    ],
+    "SkillAbsAmend": [
+      0,
+      0
+    ],
+    "SkillId": 3028107
+  },
+  "30281081": {
+    "Id": 30281081,
+    "DistanceType": 1,
+    "SourceType": 2,
+    "DamageType": 1,
+    "EffectType": 1,
+    "DamageBonusType": 1,
+    "SkillPercentAmend": [
+      1200000,
+      0
+    ],
+    "SkillAbsAmend": [
+      0,
+      0
+    ],
+    "SkillId": 3028108
+  },
+  "30281091": {
+    "Id": 30281091,
+    "DistanceType": 1,
+    "SourceType": 2,
+    "DamageType": 1,
+    "EffectType": 1,
+    "DamageBonusType": 1,
+    "SkillPercentAmend": [
+      200000,
+      0
+    ],
+    "SkillAbsAmend": [
+      0,
+      0
+    ],
+    "SkillId": 3028109
+  },
+  "30281092": {
+    "Id": 30281092,
+    "DistanceType": 1,
+    "SourceType": 2,
+    "DamageType": 1,
+    "EffectType": 1,
+    "DamageBonusType": 1,
+    "SkillPercentAmend": [
+      2000000,
+      0
+    ],
+    "SkillAbsAmend": [
+      0,
+      0
+    ],
+    "SkillId": 3028109
+  },
   "50541011": {
     "Id": 50541011,
     "DistanceType": 1,
@@ -58076,6 +59057,176 @@
     ],
     "SkillId": 5080104
   },
+  "30271011": {
+    "Id": 30271011,
+    "DistanceType": 1,
+    "SourceType": 2,
+    "DamageType": 1,
+    "EffectType": 1,
+    "DamageBonusType": 1,
+    "SkillPercentAmend": [
+      900000,
+      0
+    ],
+    "SkillAbsAmend": [
+      0,
+      0
+    ],
+    "SkillId": 3027101
+  },
+  "30271021": {
+    "Id": 30271021,
+    "DistanceType": 1,
+    "SourceType": 2,
+    "DamageType": 1,
+    "EffectType": 1,
+    "DamageBonusType": 1,
+    "SkillPercentAmend": [
+      900000,
+      0
+    ],
+    "SkillAbsAmend": [
+      0,
+      0
+    ],
+    "SkillId": 3027102
+  },
+  "30271022": {
+    "Id": 30271022,
+    "DistanceType": 1,
+    "SourceType": 2,
+    "DamageType": 1,
+    "EffectType": 1,
+    "DamageBonusType": 1,
+    "SkillPercentAmend": [
+      1200000,
+      0
+    ],
+    "SkillAbsAmend": [
+      0,
+      0
+    ],
+    "SkillId": 3027102
+  },
+  "30271031": {
+    "Id": 30271031,
+    "DistanceType": 2,
+    "SourceType": 2,
+    "DamageType": 1,
+    "EffectType": 1,
+    "DamageBonusType": 1,
+    "SkillPercentAmend": [
+      400000,
+      0
+    ],
+    "SkillAbsAmend": [
+      0,
+      0
+    ],
+    "SkillId": 3027103
+  },
+  "30271032": {
+    "Id": 30271032,
+    "DistanceType": 2,
+    "SourceType": 2,
+    "DamageType": 1,
+    "EffectType": 1,
+    "DamageBonusType": 1,
+    "SkillPercentAmend": [
+      1000000,
+      0
+    ],
+    "SkillAbsAmend": [
+      0,
+      0
+    ],
+    "SkillId": 3027103
+  },
+  "30271033": {
+    "Id": 30271033,
+    "DistanceType": 2,
+    "SourceType": 2,
+    "DamageType": 1,
+    "EffectType": 1,
+    "DamageBonusType": 1,
+    "SkillPercentAmend": [
+      1000000,
+      0
+    ],
+    "SkillAbsAmend": [
+      0,
+      0
+    ],
+    "SkillId": 3027103
+  },
+  "30271051": {
+    "Id": 30271051,
+    "DistanceType": 1,
+    "SourceType": 2,
+    "DamageType": 1,
+    "EffectType": 1,
+    "DamageBonusType": 1,
+    "SkillPercentAmend": [
+      1500000,
+      0
+    ],
+    "SkillAbsAmend": [
+      0,
+      0
+    ],
+    "SkillId": 3027105
+  },
+  "30271081": {
+    "Id": 30271081,
+    "DistanceType": 2,
+    "SourceType": 2,
+    "DamageType": 1,
+    "EffectType": 1,
+    "DamageBonusType": 1,
+    "SkillPercentAmend": [
+      1200000,
+      0
+    ],
+    "SkillAbsAmend": [
+      0,
+      0
+    ],
+    "SkillId": 3027108
+  },
+  "30271091": {
+    "Id": 30271091,
+    "DistanceType": 2,
+    "SourceType": 2,
+    "DamageType": 1,
+    "EffectType": 1,
+    "DamageBonusType": 1,
+    "SkillPercentAmend": [
+      300000,
+      0
+    ],
+    "SkillAbsAmend": [
+      0,
+      0
+    ],
+    "SkillId": 3027109
+  },
+  "30271101": {
+    "Id": 30271101,
+    "DistanceType": 1,
+    "SourceType": 2,
+    "DamageType": 1,
+    "EffectType": 1,
+    "DamageBonusType": 1,
+    "SkillPercentAmend": [
+      1500000,
+      0
+    ],
+    "SkillAbsAmend": [
+      0,
+      0
+    ],
+    "SkillId": 3027110
+  },
   "50261011": {
     "Id": 50261011,
     "DistanceType": 1,
@@ -58892,6 +60043,9 @@
     "SourceType": 2,
     "DamageType": 1,
     "EffectType": 1,
+    "DamageTag": [
+      -1006450403
+    ],
     "DamageBonusType": 1,
     "SkillPercentAmend": [
       650000,
@@ -58901,7 +60055,8 @@
       0,
       0
     ],
-    "SkillId": 5057103
+    "SkillId": 5057103,
+    "HitImmunityTime": 5000
   },
   "50571032": {
     "Id": 50571032,
@@ -59003,7 +60158,8 @@
       0,
       0
     ],
-    "SkillId": 5057204
+    "SkillId": 5057204,
+    "HitImmunityTime": 5000
   },
   "50601081": {
     "Id": 50601081,
@@ -59471,6 +60627,9 @@
     "SourceType": 2,
     "DamageType": 1,
     "EffectType": 1,
+    "DamageTag": [
+      -12967504
+    ],
     "DamageBonusType": 1,
     "SkillPercentAmend": [
       300000,
@@ -63484,6 +64643,609 @@
       0
     ],
     "SkillId": 8015602
+  },
+  "80133011": {
+    "Id": 80133011,
+    "DistanceType": 2,
+    "SourceType": 2,
+    "DamageType": 1,
+    "EffectType": 1,
+    "ElementType": 7,
+    "DamageBonusType": 1,
+    "SkillPercentAmend": [
+      500000,
+      0
+    ],
+    "SkillAbsAmend": [
+      0,
+      0
+    ],
+    "SkillId": 8013301
+  },
+  "80133012": {
+    "Id": 80133012,
+    "DistanceType": 2,
+    "SourceType": 2,
+    "DamageType": 1,
+    "EffectType": 1,
+    "ElementType": 7,
+    "DamageBonusType": 1,
+    "SkillPercentAmend": [
+      600000,
+      0
+    ],
+    "SkillAbsAmend": [
+      0,
+      0
+    ],
+    "SkillId": 8013301
+  },
+  "80133013": {
+    "Id": 80133013,
+    "DistanceType": 2,
+    "SourceType": 2,
+    "DamageType": 1,
+    "EffectType": 1,
+    "ElementType": 7,
+    "DamageBonusType": 1,
+    "SkillPercentAmend": [
+      300000,
+      0
+    ],
+    "SkillAbsAmend": [
+      0,
+      0
+    ],
+    "SkillId": 8013301
+  },
+  "80133021": {
+    "Id": 80133021,
+    "DistanceType": 2,
+    "SourceType": 2,
+    "DamageType": 1,
+    "EffectType": 1,
+    "ElementType": 7,
+    "DamageTag": [
+      -1610822797
+    ],
+    "DamageBonusType": 1,
+    "SkillPercentAmend": [
+      200000,
+      0
+    ],
+    "SkillAbsAmend": [
+      0,
+      0
+    ],
+    "SkillId": 8013302
+  },
+  "80133022": {
+    "Id": 80133022,
+    "DistanceType": 2,
+    "SourceType": 2,
+    "DamageType": 1,
+    "EffectType": 1,
+    "ElementType": 7,
+    "DamageTag": [
+      -1610822797
+    ],
+    "DamageBonusType": 1,
+    "SkillPercentAmend": [
+      240000,
+      0
+    ],
+    "SkillAbsAmend": [
+      0,
+      0
+    ],
+    "SkillId": 8013302
+  },
+  "80118011": {
+    "Id": 80118011,
+    "DistanceType": 1,
+    "SourceType": 2,
+    "DamageType": 1,
+    "EffectType": 1,
+    "ElementType": 7,
+    "DamageBonusType": 1,
+    "SkillPercentAmend": [
+      200000,
+      0
+    ],
+    "SkillAbsAmend": [
+      0,
+      0
+    ],
+    "SkillId": 8011801
+  },
+  "80118012": {
+    "Id": 80118012,
+    "DistanceType": 1,
+    "SourceType": 2,
+    "DamageType": 1,
+    "EffectType": 1,
+    "ElementType": 7,
+    "DamageBonusType": 1,
+    "SkillPercentAmend": [
+      230000,
+      0
+    ],
+    "SkillAbsAmend": [
+      0,
+      0
+    ],
+    "SkillId": 8011801
+  },
+  "80118013": {
+    "Id": 80118013,
+    "DistanceType": 1,
+    "SourceType": 2,
+    "DamageType": 1,
+    "EffectType": 1,
+    "ElementType": 7,
+    "DamageBonusType": 1,
+    "SkillPercentAmend": [
+      250000,
+      0
+    ],
+    "SkillAbsAmend": [
+      0,
+      0
+    ],
+    "SkillId": 8011801
+  },
+  "80118014": {
+    "Id": 80118014,
+    "DistanceType": 1,
+    "SourceType": 2,
+    "DamageType": 1,
+    "EffectType": 1,
+    "ElementType": 7,
+    "DamageBonusType": 1,
+    "SkillPercentAmend": [
+      320000,
+      0
+    ],
+    "SkillAbsAmend": [
+      0,
+      0
+    ],
+    "SkillId": 8011801
+  },
+  "80118021": {
+    "Id": 80118021,
+    "DistanceType": 1,
+    "SourceType": 2,
+    "DamageType": 2,
+    "EffectType": 1,
+    "ElementType": 7,
+    "DamageTag": [
+      629210543
+    ],
+    "DamageBonusType": 1,
+    "SkillPercentAmend": [
+      500000,
+      0
+    ],
+    "SkillAbsAmend": [
+      0,
+      0
+    ],
+    "SkillId": 8011802
+  },
+  "80118022": {
+    "Id": 80118022,
+    "DistanceType": 1,
+    "SourceType": 2,
+    "DamageType": 2,
+    "EffectType": 1,
+    "ElementType": 7,
+    "DamageTag": [
+      -1131828203
+    ],
+    "DamageBonusType": 1,
+    "SkillPercentAmend": [
+      820000,
+      0
+    ],
+    "SkillAbsAmend": [
+      0,
+      0
+    ],
+    "SkillId": 8011802
+  },
+  "80118023": {
+    "Id": 80118023,
+    "DistanceType": 1,
+    "SourceType": 2,
+    "DamageType": 2,
+    "EffectType": 1,
+    "ElementType": 7,
+    "DamageTag": [
+      -879846269
+    ],
+    "DamageBonusType": 1,
+    "SkillPercentAmend": [
+      600000,
+      0
+    ],
+    "SkillAbsAmend": [
+      0,
+      0
+    ],
+    "SkillId": 8011802
+  },
+  "80118024": {
+    "Id": 80118024,
+    "DistanceType": 2,
+    "SourceType": 2,
+    "DamageType": 2,
+    "EffectType": 1,
+    "ElementType": 7,
+    "DamageTag": [
+      1441401120
+    ],
+    "DamageBonusType": 1,
+    "SkillPercentAmend": [
+      200000,
+      0
+    ],
+    "SkillAbsAmend": [
+      0,
+      0
+    ],
+    "SkillId": 8011802
+  },
+  "80118025": {
+    "Id": 80118025,
+    "DistanceType": 1,
+    "SourceType": 2,
+    "DamageType": 2,
+    "EffectType": 1,
+    "ElementType": 7,
+    "DamageTag": [
+      -1131828203
+    ],
+    "DamageBonusType": 1,
+    "SkillPercentAmend": [
+      1420000,
+      0
+    ],
+    "SkillAbsAmend": [
+      0,
+      0
+    ],
+    "SkillId": 8011802
+  },
+  "80110011": {
+    "Id": 80110011,
+    "DistanceType": 1,
+    "SourceType": 2,
+    "DamageType": 1,
+    "EffectType": 1,
+    "ElementType": 7,
+    "DamageBonusType": 1,
+    "SkillPercentAmend": [
+      80000,
+      0
+    ],
+    "SkillAbsAmend": [
+      0,
+      0
+    ],
+    "SkillId": 8011001
+  },
+  "80110012": {
+    "Id": 80110012,
+    "DistanceType": 1,
+    "SourceType": 2,
+    "DamageType": 1,
+    "EffectType": 1,
+    "ElementType": 7,
+    "DamageBonusType": 1,
+    "SkillPercentAmend": [
+      100000,
+      0
+    ],
+    "SkillAbsAmend": [
+      0,
+      0
+    ],
+    "SkillId": 8011001
+  },
+  "80110013": {
+    "Id": 80110013,
+    "DistanceType": 1,
+    "SourceType": 2,
+    "DamageType": 1,
+    "EffectType": 1,
+    "ElementType": 7,
+    "DamageBonusType": 1,
+    "SkillPercentAmend": [
+      40000,
+      0
+    ],
+    "SkillAbsAmend": [
+      0,
+      0
+    ],
+    "SkillId": 8011001
+  },
+  "80110014": {
+    "Id": 80110014,
+    "DistanceType": 1,
+    "SourceType": 2,
+    "DamageType": 1,
+    "EffectType": 1,
+    "ElementType": 7,
+    "DamageBonusType": 1,
+    "SkillPercentAmend": [
+      140000,
+      0
+    ],
+    "SkillAbsAmend": [
+      0,
+      0
+    ],
+    "SkillId": 8011001
+  },
+  "80110021": {
+    "Id": 80110021,
+    "DistanceType": 1,
+    "SourceType": 2,
+    "DamageType": 2,
+    "EffectType": 1,
+    "ElementType": 7,
+    "DamageBonusType": 1,
+    "SkillPercentAmend": [
+      800000,
+      0
+    ],
+    "SkillAbsAmend": [
+      0,
+      0
+    ],
+    "SkillId": 8011002
+  },
+  "80110041": {
+    "Id": 80110041,
+    "DistanceType": 1,
+    "SourceType": 2,
+    "DamageType": 2,
+    "EffectType": 1,
+    "ElementType": 7,
+    "DamageBonusType": 1,
+    "SkillPercentAmend": [
+      4500000,
+      0
+    ],
+    "SkillAbsAmend": [
+      0,
+      0
+    ],
+    "SkillId": 8011004
+  },
+  "80110051": {
+    "Id": 80110051,
+    "DistanceType": 1,
+    "SourceType": 2,
+    "DamageType": 1,
+    "EffectType": 1,
+    "ElementType": 7,
+    "DamageBonusType": 1,
+    "SkillPercentAmend": [
+      56000,
+      0
+    ],
+    "SkillAbsAmend": [
+      0,
+      0
+    ],
+    "SkillId": 8011005
+  },
+  "80110052": {
+    "Id": 80110052,
+    "DistanceType": 1,
+    "SourceType": 2,
+    "DamageType": 1,
+    "EffectType": 1,
+    "ElementType": 7,
+    "DamageBonusType": 1,
+    "SkillPercentAmend": [
+      70000,
+      0
+    ],
+    "SkillAbsAmend": [
+      0,
+      0
+    ],
+    "SkillId": 8011005
+  },
+  "80110053": {
+    "Id": 80110053,
+    "DistanceType": 1,
+    "SourceType": 2,
+    "DamageType": 1,
+    "EffectType": 1,
+    "ElementType": 7,
+    "DamageBonusType": 1,
+    "SkillPercentAmend": [
+      28000,
+      0
+    ],
+    "SkillAbsAmend": [
+      0,
+      0
+    ],
+    "SkillId": 8011005
+  },
+  "80110054": {
+    "Id": 80110054,
+    "DistanceType": 1,
+    "SourceType": 2,
+    "DamageType": 1,
+    "EffectType": 1,
+    "ElementType": 7,
+    "DamageBonusType": 1,
+    "SkillPercentAmend": [
+      98000,
+      0
+    ],
+    "SkillAbsAmend": [
+      0,
+      0
+    ],
+    "SkillId": 8011005
+  },
+  "80110061": {
+    "Id": 80110061,
+    "DistanceType": 1,
+    "SourceType": 2,
+    "DamageType": 2,
+    "EffectType": 1,
+    "ElementType": 7,
+    "DamageBonusType": 1,
+    "SkillPercentAmend": [
+      560000,
+      0
+    ],
+    "SkillAbsAmend": [
+      0,
+      0
+    ],
+    "SkillId": 8011005
+  },
+  "80123011": {
+    "Id": 80123011,
+    "DistanceType": 1,
+    "SourceType": 2,
+    "DamageType": 1,
+    "EffectType": 1,
+    "ElementType": 7,
+    "DamageBonusType": 1,
+    "SkillPercentAmend": [
+      200000,
+      0
+    ],
+    "SkillAbsAmend": [
+      0,
+      0
+    ],
+    "SkillId": 8012301
+  },
+  "80123012": {
+    "Id": 80123012,
+    "DistanceType": 1,
+    "SourceType": 2,
+    "DamageType": 1,
+    "EffectType": 1,
+    "ElementType": 7,
+    "DamageBonusType": 1,
+    "SkillPercentAmend": [
+      220000,
+      0
+    ],
+    "SkillAbsAmend": [
+      0,
+      0
+    ],
+    "SkillId": 8012301
+  },
+  "80123013": {
+    "Id": 80123013,
+    "DistanceType": 1,
+    "SourceType": 2,
+    "DamageType": 1,
+    "EffectType": 1,
+    "ElementType": 7,
+    "DamageBonusType": 1,
+    "SkillPercentAmend": [
+      430000,
+      0
+    ],
+    "SkillAbsAmend": [
+      0,
+      0
+    ],
+    "SkillId": 8012301
+  },
+  "80123014": {
+    "Id": 80123014,
+    "DistanceType": 2,
+    "SourceType": 2,
+    "DamageType": 1,
+    "EffectType": 1,
+    "ElementType": 7,
+    "DamageTag": [
+      2114479928
+    ],
+    "DamageBonusType": 1,
+    "SkillPercentAmend": [
+      350000,
+      0
+    ],
+    "SkillAbsAmend": [
+      0,
+      0
+    ],
+    "SkillId": 8012301
+  },
+  "80123021": {
+    "Id": 80123021,
+    "DistanceType": 2,
+    "SourceType": 2,
+    "DamageType": 1,
+    "EffectType": 1,
+    "ElementType": 7,
+    "DamageTag": [
+      1918730307
+    ],
+    "DamageBonusType": 1,
+    "SkillPercentAmend": [
+      200000,
+      0
+    ],
+    "SkillAbsAmend": [
+      0,
+      0
+    ],
+    "SkillId": 8012302
+  },
+  "80123022": {
+    "Id": 80123022,
+    "DistanceType": 2,
+    "SourceType": 2,
+    "DamageType": 1,
+    "EffectType": 1,
+    "ElementType": 7,
+    "DamageBonusType": 1,
+    "SkillPercentAmend": [
+      620000,
+      0
+    ],
+    "SkillAbsAmend": [
+      0,
+      0
+    ],
+    "SkillId": 8012302
+  },
+  "80123023": {
+    "Id": 80123023,
+    "DistanceType": 2,
+    "SourceType": 2,
+    "DamageType": 1,
+    "EffectType": 1,
+    "ElementType": 7,
+    "DamageBonusType": 1,
+    "SkillPercentAmend": [
+      200000,
+      0
+    ],
+    "SkillAbsAmend": [
+      0,
+      0
+    ],
+    "SkillId": 8012302
   },
   "3007101": {
     "Id": 3007101,
