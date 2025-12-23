@@ -2674,7 +2674,7 @@
       },
       {
         "name": "Positive Score",
-        "briefDesc": "When Canace casts the Main Skill or when squadmate casts a Support Skill, Canace gains <color=#0abec5>Vortex Energy</color> and Auto Attack Damage is increased.",
+        "briefDesc": "When Canace casts the Main Skill or when squadmate casts a Support Skill, Canace gains Vortex Energy and Auto Attack Damage is increased.",
         "type": "main",
         "rarity": 0,
         "imgId": "12001_Potential_04",
@@ -4374,7 +4374,7 @@
       },
       {
         "name": "Youth: Dazzling",
-        "briefDesc": "When casting the Support Skill, continuously creates a dozen Flower Petals at the Ventus Main Trekker's location, each dealing DMG and inflicting Ventus Mark: Breeze.",
+        "briefDesc": "When casting the Support Skill, continuously creates a dozen Flower Petals at the main Ventus Trekker's location, each dealing DMG and inflicting Ventus Mark: Breeze.",
         "type": "support",
         "rarity": 0,
         "imgId": "13301_Potential_21",
@@ -4530,7 +4530,7 @@
       },
       {
         "name": "Pyro Mark",
-        "briefDesc": "Increases the Auto ATK DMG dealt by Fiery Punches and Magma Burst, and allows them to trigger Ignis Mark.",
+        "briefDesc": "Fiery Punches and Magma Burst deals increased Auto Attack Damage and can trigger Ignis Mark.",
         "type": "main",
         "rarity": 2,
         "imgId": "13401_Potential_01",
@@ -4611,7 +4611,7 @@
       },
       {
         "name": "Blazing Heart",
-        "briefDesc": "When the Ultimate triggers an Ignis Mark, increases this Ultimate DMG.",
+        "briefDesc": "Each time the Ultimate triggers an Ignis Mark, increases Fuyuka's ATK during this Ultimate.",
         "type": "common",
         "rarity": 2,
         "imgId": "13401_Potential_41",
@@ -7123,6 +7123,270 @@
         "rarity": 2,
         "imgId": "Common_Potential_15",
         "id": 515633,
+        "subIcon": "Round"
+      }
+    ]
+  },
+  "158": {
+    "id": 158,
+    "name": "Snowish Laru",
+    "star": 5,
+    "element": "Ignis",
+    "class": "Versatile",
+    "attackType": "Melee",
+    "tag": ["Versatile", "Creative", "Grace Imperium"],
+    "potential": [
+      {
+        "name": "Solemn Look",
+        "briefDesc": "Enhances the Synergy Skills of Colonel Walnut and General Curly. Enhances Clockwork Queen's shots.",
+        "type": "main",
+        "rarity": 0,
+        "imgId": "15801_Potential_01",
+        "id": 515801
+      },
+      {
+        "name": "Here Comes the Queen",
+        "briefDesc": "Casting Whip Assault or Candy Barrage (Main Skill) summons Clockwork Queen and boosts Morale for Colonel Walnut and General Curly.",
+        "type": "main",
+        "rarity": 0,
+        "imgId": "15801_Potential_02",
+        "id": 515802
+      },
+      {
+        "name": "Whipping Gale",
+        "briefDesc": "Whip Assault (Main Skill) becomes a multi-hit attack.",
+        "type": "main",
+        "rarity": 0,
+        "imgId": "15801_Potential_03",
+        "id": 515803
+      },
+      {
+        "name": "Crossing Welts",
+        "briefDesc": "When Colonel Walnut and General Curly deal DMG, they inflict the Gift Box mark. Snowish Laru's skills deal additional AoE DMG against marked targets.",
+        "type": "main",
+        "rarity": 0,
+        "imgId": "15801_Potential_04",
+        "id": 515804
+      },
+      {
+        "name": "Burning Whip",
+        "briefDesc": "When Colonel Walnut and General Curly deal DMG to targets with Ignis Mark, they have a chance to gain Morale and increase their Minion DMG.",
+        "type": "main",
+        "rarity": 2,
+        "imgId": "15801_Potential_01",
+        "id": 515805,
+        "subIcon": "Diamond"
+      },
+      {
+        "name": "Starchain Blade",
+        "briefDesc": "General Curly deals DMG to nearby targets every second.",
+        "type": "main",
+        "rarity": 1,
+        "imgId": "15801_Potential_06",
+        "id": 515806,
+        "subIcon": "Triangle"
+      },
+      {
+        "name": "Fiery Rainbow",
+        "briefDesc": "Each toy present increases the Ignis DMG of all Snowish Laru's minions.",
+        "type": "main",
+        "rarity": 2,
+        "imgId": "15801_Potential_02",
+        "id": 515807,
+        "subIcon": "Round"
+      },
+      {
+        "name": "All-Out Whiplash",
+        "briefDesc": "When Whip Assault or Candy Barrage (Main Skill) lands a Crit Hit, increases Snowish Laru's ATK.",
+        "type": "main",
+        "rarity": 2,
+        "imgId": "15801_Potential_03",
+        "id": 515808,
+        "subIcon": "Diamond"
+      },
+      {
+        "name": "Wild Whip Waltz",
+        "briefDesc": "Increases the Attack Range of Whip Assault (Main Skill). Increases the Ignis DMG of Whip Assault and Candy Barrage.",
+        "type": "main",
+        "rarity": 1,
+        "imgId": "15801_Potential_03",
+        "id": 515809,
+        "subIcon": "Triangle"
+      },
+      {
+        "name": "Cannon Ensemble",
+        "briefDesc": "When Snowish Laru deals DMG, she summons a Sled Turret to attack the target. When the Sled Turret lands a Crit Hit, increases the Ignis DMG of Snowish Laru and all toys on the battlefield.",
+        "type": "main",
+        "rarity": 1,
+        "imgId": "15801_Potential_11",
+        "id": 515811,
+        "subIcon": "Diamond"
+      },
+      {
+        "name": "Elegant Moves",
+        "briefDesc": "Snowish Laru can dodge one more time. Also, increases her DEF. Periodically, Snowish Laru becomes immune to direct DMG taken once.",
+        "type": "main",
+        "rarity": 2,
+        "imgId": "Common_Potential_21",
+        "id": 515813,
+        "subIcon": "Round"
+      },
+      {
+        "name": "Non-Stop Victory",
+        "briefDesc": "When Snowish Laru's Auto Attack lands a Crit Hit, increases her ATK.",
+        "type": "main",
+        "rarity": 2,
+        "imgId": "15801_Potential_04",
+        "id": 515810,
+        "subIcon": "Round"
+      },
+      {
+        "name": "Jazz of Rage",
+        "briefDesc": "While transformed into Dame Laru, Snowish Laru's shots and Candy Barrage can trigger Ignis Mark. Increases Snowish Laru's ATK.",
+        "type": "main",
+        "rarity": 2,
+        "imgId": "Common_Potential_Fire_1",
+        "id": 515812,
+        "subIcon": "Triangle"
+      },
+      {
+        "name": "Silver Bullet",
+        "briefDesc": "While transformed into Dame Laru, casting Candy Barrage increases her Ultimate DMG.",
+        "type": "common",
+        "rarity": 2,
+        "imgId": "15801_Potential_41",
+        "id": 515841,
+        "subIcon": "Diamond"
+      },
+      {
+        "name": "Untouched King",
+        "briefDesc": "While transformed into Dame Laru, increases her Ultimate DMG each time Candy Barrage deals DMG.",
+        "type": "common",
+        "rarity": 2,
+        "imgId": "15801_Potential_41",
+        "id": 515842,
+        "subIcon": "Triangle"
+      },
+      {
+        "name": "Toy Army",
+        "briefDesc": "While transformed into Dame Laru, increases the ATK of Ignis Trekkers in the squad over time.",
+        "type": "common",
+        "rarity": 2,
+        "imgId": "15801_Potential_41",
+        "id": 515843,
+        "subIcon": "Round"
+      },
+      {
+        "name": "Fire Downpour",
+        "briefDesc": "After a Gift Box Shell explodes, it deals DMG to targets within range over time.",
+        "type": "support",
+        "rarity": 0,
+        "imgId": "15801_Potential_21",
+        "id": 515821
+      },
+      {
+        "name": "Special Ammo",
+        "briefDesc": "Increases the Skill DMG and Attack Range of Gift Box Shells. If the squad is Ignis-Trekker only, when Gift Box Shells deal DMG to the target, increases the Skill DMG Taken of the target.",
+        "type": "support",
+        "rarity": 0,
+        "imgId": "15801_Potential_22",
+        "id": 515822
+      },
+      {
+        "name": "Promotion Time",
+        "briefDesc": "Combines Colonel Walnuts into General Curly. If the squad is Ignis-Trekker only, increases General Curly's Minion DMG over time.",
+        "type": "support",
+        "rarity": 0,
+        "imgId": "15801_Potential_23",
+        "id": 515823
+      },
+      {
+        "name": "Investiture Ceremony",
+        "briefDesc": "Colonel Walnut and General Curly learn skills, which they automatically cast to attack targets. General Curly's skill also increases its Minion Crit Rate.",
+        "type": "support",
+        "rarity": 0,
+        "imgId": "15801_Potential_24",
+        "id": 515824
+      },
+      {
+        "name": "Two-Gun Salute",
+        "briefDesc": "Increases the Skill DMG and number of shots of Courtesy Before Aggression (Support Skill).",
+        "type": "support",
+        "rarity": 1,
+        "imgId": "15801_Potential_25",
+        "id": 515825,
+        "subIcon": "Diamond"
+      },
+      {
+        "name": "Uplifting Shot",
+        "briefDesc": "When a Gift Box Shell deals DMG, increases the ATK of Snowish Laru.",
+        "type": "support",
+        "rarity": 2,
+        "imgId": "15801_Potential_22",
+        "id": 515826,
+        "subIcon": "Triangle"
+      },
+      {
+        "name": "First Taste of Sweetness",
+        "briefDesc": "Increases the Ignis DMG dealt by Gift Box Shells to targets with Ignis Mark.",
+        "type": "support",
+        "rarity": 2,
+        "imgId": "15801_Potential_22",
+        "id": 515827,
+        "subIcon": "Round"
+      },
+      {
+        "name": "Heart's Benediction",
+        "briefDesc": "Colonel Walnut and General Curly deal Minion DMG to nearby targets over time.",
+        "type": "support",
+        "rarity": 2,
+        "imgId": "15801_Potential_28",
+        "id": 515828,
+        "subIcon": "Diamond"
+      },
+      {
+        "name": "Heart's Trumpet",
+        "briefDesc": "Increases the ATK SPD of Colonel Walnut and General Curly. Each time they deal DMG, increases their Minion DMG; each time they land a Crit Hit, increases the ATK of Ignis Trekkers in the squad.",
+        "type": "support",
+        "rarity": 2,
+        "imgId": "15801_Potential_23",
+        "id": 515830,
+        "subIcon": "Round"
+      },
+      {
+        "name": "Celebration Resumed",
+        "briefDesc": "Each time Snowish Laru enters combat, increases the main Ignis Trekker's ATK.",
+        "type": "support",
+        "rarity": 2,
+        "imgId": "Common_Potential_11",
+        "id": 515831,
+        "subIcon": "Diamond"
+      },
+      {
+        "name": "Ammo Rain",
+        "briefDesc": "While Snowish Laru transforms into Dame Laru, increases her ATK. Her shots and skill can inflict Ignis Mark: Sacred Flame.",
+        "type": "support",
+        "rarity": 2,
+        "imgId": "Common_Potential_Fire_1",
+        "id": 515832,
+        "subIcon": "Triangle"
+      },
+      {
+        "name": "Heart's Edict",
+        "briefDesc": "Increases the combat duration and Crit DMG of Colonel Walnut and General Curly.",
+        "type": "support",
+        "rarity": 1,
+        "imgId": "15801_Potential_23",
+        "id": 515829,
+        "subIcon": "Triangle"
+      },
+      {
+        "name": "Fairy Tale Rule",
+        "briefDesc": "When the squad contains only Ignis Trekkers, Gift Box Shell increases the target's Ignis DMG Taken upon dealing DMG to the target.",
+        "type": "support",
+        "rarity": 1,
+        "imgId": "Common_Potential_15",
+        "id": 515833,
         "subIcon": "Round"
       }
     ]
