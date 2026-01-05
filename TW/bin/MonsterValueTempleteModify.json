@@ -3192,5 +3192,1410 @@
     "GroupId": 1005,
     "Lv": 100,
     "LvUpEffect": "FX/ActorCommon/fx_common_base_BossRushLevelUp_l"
+  },
+  "1006001": {
+    "Id": 1006001,
+    "GroupId": 1006,
+    "Lv": 1
+  },
+  "1006002": {
+    "Id": 1006002,
+    "GroupId": 1006,
+    "Lv": 2,
+    "HpFix": 127293,
+    "AtkFix": 48.0
+  },
+  "1006003": {
+    "Id": 1006003,
+    "GroupId": 1006,
+    "Lv": 3,
+    "HpFix": 127293,
+    "AtkFix": 48.0
+  },
+  "1006004": {
+    "Id": 1006004,
+    "GroupId": 1006,
+    "Lv": 4,
+    "HpFix": 127293,
+    "AtkFix": 48.0
+  },
+  "1006005": {
+    "Id": 1006005,
+    "GroupId": 1006,
+    "Lv": 5,
+    "HpFix": 636464,
+    "AtkFix": 144.0,
+    "LvUpEffect": "FX/ActorCommon/fx_common_base_BossRushLevelUp_l"
+  },
+  "1006006": {
+    "Id": 1006006,
+    "GroupId": 1006,
+    "Lv": 6,
+    "HpFix": 254586,
+    "AtkFix": 96.0
+  },
+  "1006007": {
+    "Id": 1006007,
+    "GroupId": 1006,
+    "Lv": 7,
+    "HpFix": 254586,
+    "AtkFix": 96.0
+  },
+  "1006008": {
+    "Id": 1006008,
+    "GroupId": 1006,
+    "Lv": 8,
+    "HpFix": 254586,
+    "AtkFix": 96.0
+  },
+  "1006009": {
+    "Id": 1006009,
+    "GroupId": 1006,
+    "Lv": 9,
+    "HpFix": 254586,
+    "AtkFix": 96.0
+  },
+  "1006010": {
+    "Id": 1006010,
+    "GroupId": 1006,
+    "Lv": 10,
+    "HpFix": 1272928,
+    "AtkFix": 240.0,
+    "LvUpEffect": "FX/ActorCommon/fx_common_base_BossRushLevelUp_l"
+  },
+  "1006011": {
+    "Id": 1006011,
+    "GroupId": 1006,
+    "Lv": 11,
+    "HpFix": 381878,
+    "AtkFix": 144.0
+  },
+  "1006012": {
+    "Id": 1006012,
+    "GroupId": 1006,
+    "Lv": 12,
+    "HpFix": 381878,
+    "AtkFix": 144.0
+  },
+  "1006013": {
+    "Id": 1006013,
+    "GroupId": 1006,
+    "Lv": 13,
+    "HpFix": 381878,
+    "AtkFix": 144.0
+  },
+  "1006014": {
+    "Id": 1006014,
+    "GroupId": 1006,
+    "Lv": 14,
+    "HpFix": 381878,
+    "AtkFix": 144.0
+  },
+  "1006015": {
+    "Id": 1006015,
+    "GroupId": 1006,
+    "Lv": 15,
+    "HpFix": 1527513,
+    "AtkFix": 480.0,
+    "LvUpEffect": "FX/ActorCommon/fx_common_base_BossRushLevelUp_l"
+  },
+  "1006016": {
+    "Id": 1006016,
+    "GroupId": 1006,
+    "Lv": 16,
+    "HpFix": 509171,
+    "AtkFix": 192.0
+  },
+  "1006017": {
+    "Id": 1006017,
+    "GroupId": 1006,
+    "Lv": 17,
+    "HpFix": 509171,
+    "AtkFix": 192.0
+  },
+  "1006018": {
+    "Id": 1006018,
+    "GroupId": 1006,
+    "Lv": 18,
+    "HpFix": 509171,
+    "AtkFix": 192.0
+  },
+  "1006019": {
+    "Id": 1006019,
+    "GroupId": 1006,
+    "Lv": 19,
+    "HpFix": 509171,
+    "AtkFix": 192.0
+  },
+  "1006020": {
+    "Id": 1006020,
+    "GroupId": 1006,
+    "Lv": 20,
+    "HpFix": 1909391,
+    "AtkFix": 720.0,
+    "LvUpEffect": "FX/ActorCommon/fx_common_base_BossRushLevelUp_l"
+  },
+  "1006021": {
+    "Id": 1006021,
+    "GroupId": 1006,
+    "Lv": 21,
+    "HpFix": 636464,
+    "AtkFix": 240.0
+  },
+  "1006022": {
+    "Id": 1006022,
+    "GroupId": 1006,
+    "Lv": 22,
+    "HpFix": 763757,
+    "AtkFix": 240.0
+  },
+  "1006023": {
+    "Id": 1006023,
+    "GroupId": 1006,
+    "Lv": 23,
+    "HpFix": 763757,
+    "AtkFix": 240.0
+  },
+  "1006024": {
+    "Id": 1006024,
+    "GroupId": 1006,
+    "Lv": 24,
+    "HpFix": 763757,
+    "AtkFix": 240.0
+  },
+  "1006025": {
+    "Id": 1006025,
+    "GroupId": 1006,
+    "Lv": 25,
+    "HpFix": 3309612,
+    "AtkFix": 960.0,
+    "LvUpEffect": "FX/ActorCommon/fx_common_base_BossRushLevelUp_l"
+  },
+  "1006026": {
+    "Id": 1006026,
+    "GroupId": 1006,
+    "Lv": 26,
+    "HpFix": 1272928,
+    "AtkFix": 288.0
+  },
+  "1006027": {
+    "Id": 1006027,
+    "GroupId": 1006,
+    "Lv": 27,
+    "HpFix": 1272928,
+    "AtkFix": 288.0
+  },
+  "1006028": {
+    "Id": 1006028,
+    "GroupId": 1006,
+    "Lv": 28,
+    "HpFix": 1272928,
+    "AtkFix": 288.0
+  },
+  "1006029": {
+    "Id": 1006029,
+    "GroupId": 1006,
+    "Lv": 29,
+    "HpFix": 1272928,
+    "AtkFix": 288.0
+  },
+  "1006030": {
+    "Id": 1006030,
+    "GroupId": 1006,
+    "Lv": 30,
+    "HpFix": 38187825,
+    "AtkFix": 2400.0,
+    "ToughnessFix": 146500000.0,
+    "LvUpEffect": "FX/ActorCommon/fx_common_base_BossRushLevelUp_l"
+  },
+  "1006031": {
+    "Id": 1006031,
+    "GroupId": 1006,
+    "Lv": 31,
+    "HpFix": 12729275,
+    "AtkFix": 384.0
+  },
+  "1006032": {
+    "Id": 1006032,
+    "GroupId": 1006,
+    "Lv": 32,
+    "HpFix": 12729275,
+    "AtkFix": 384.0
+  },
+  "1006033": {
+    "Id": 1006033,
+    "GroupId": 1006,
+    "Lv": 33,
+    "HpFix": 12729275,
+    "AtkFix": 384.0
+  },
+  "1006034": {
+    "Id": 1006034,
+    "GroupId": 1006,
+    "Lv": 34,
+    "HpFix": 12729275,
+    "AtkFix": 384.0
+  },
+  "1006035": {
+    "Id": 1006035,
+    "GroupId": 1006,
+    "Lv": 35,
+    "HpFix": 63646376,
+    "AtkFix": 3840.0,
+    "ToughnessFix": 223611100.0,
+    "LvUpEffect": "FX/ActorCommon/fx_common_base_BossRushLevelUp_l"
+  },
+  "1006036": {
+    "Id": 1006036,
+    "GroupId": 1006,
+    "Lv": 36,
+    "HpFix": 15275130,
+    "AtkFix": 480.0
+  },
+  "1006037": {
+    "Id": 1006037,
+    "GroupId": 1006,
+    "Lv": 37,
+    "HpFix": 15275130,
+    "AtkFix": 480.0
+  },
+  "1006038": {
+    "Id": 1006038,
+    "GroupId": 1006,
+    "Lv": 38,
+    "HpFix": 15275130,
+    "AtkFix": 480.0
+  },
+  "1006039": {
+    "Id": 1006039,
+    "GroupId": 1006,
+    "Lv": 39,
+    "HpFix": 15275130,
+    "AtkFix": 480.0
+  },
+  "1006040": {
+    "Id": 1006040,
+    "GroupId": 1006,
+    "Lv": 40,
+    "HpFix": 70011013,
+    "AtkFix": 4800.0,
+    "ToughnessFix": 738888900.0,
+    "DefFix": 28.0,
+    "LvUpEffect": "FX/ActorCommon/fx_common_base_BossRushLevelUp_l"
+  },
+  "1006041": {
+    "Id": 1006041,
+    "GroupId": 1006,
+    "Lv": 41,
+    "HpFix": 25458550,
+    "AtkFix": 960.0,
+    "DefFix": 28.0
+  },
+  "1006042": {
+    "Id": 1006042,
+    "GroupId": 1006,
+    "Lv": 42,
+    "HpFix": 25458550,
+    "AtkFix": 960.0,
+    "DefFix": 30.0
+  },
+  "1006043": {
+    "Id": 1006043,
+    "GroupId": 1006,
+    "Lv": 43,
+    "HpFix": 25458550,
+    "AtkFix": 960.0,
+    "DefFix": 31.0
+  },
+  "1006044": {
+    "Id": 1006044,
+    "GroupId": 1006,
+    "Lv": 44,
+    "HpFix": 25458550,
+    "AtkFix": 1056.0,
+    "DefFix": 32.0
+  },
+  "1006045": {
+    "Id": 1006045,
+    "GroupId": 1006,
+    "Lv": 45,
+    "HpFix": 76375651,
+    "AtkFix": 5760.0,
+    "ToughnessFix": -58333332.0,
+    "DefFix": 64.0,
+    "LvUpEffect": "FX/ActorCommon/fx_common_base_BossRushLevelUp_l"
+  },
+  "1006046": {
+    "Id": 1006046,
+    "GroupId": 1006,
+    "Lv": 46,
+    "DefFix": 71.0
+  },
+  "1006047": {
+    "Id": 1006047,
+    "GroupId": 1006,
+    "Lv": 47,
+    "DefFix": 77.0
+  },
+  "1006048": {
+    "Id": 1006048,
+    "GroupId": 1006,
+    "Lv": 48,
+    "DefFix": 86.0
+  },
+  "1006049": {
+    "Id": 1006049,
+    "GroupId": 1006,
+    "Lv": 49,
+    "DefFix": 96.0
+  },
+  "1006050": {
+    "Id": 1006050,
+    "GroupId": 1006,
+    "Lv": 50,
+    "HpFix": 89104926,
+    "DefFix": 106.0,
+    "LvUpEffect": "FX/ActorCommon/fx_common_base_BossRushLevelUp_l"
+  },
+  "1006051": {
+    "Id": 1006051,
+    "GroupId": 1006,
+    "Lv": 51,
+    "DefFix": 121.0
+  },
+  "1006052": {
+    "Id": 1006052,
+    "GroupId": 1006,
+    "Lv": 52,
+    "DefFix": 136.0
+  },
+  "1006053": {
+    "Id": 1006053,
+    "GroupId": 1006,
+    "Lv": 53,
+    "DefFix": 157.0
+  },
+  "1006054": {
+    "Id": 1006054,
+    "GroupId": 1006,
+    "Lv": 54,
+    "DefFix": 180.0
+  },
+  "1006055": {
+    "Id": 1006055,
+    "GroupId": 1006,
+    "Lv": 55,
+    "HpFix": 190939127,
+    "ToughnessFix": 1.2693334E+09,
+    "DefFix": 360.0,
+    "LvUpEffect": "FX/ActorCommon/fx_common_base_BossRushLevelUp_l"
+  },
+  "1006056": {
+    "Id": 1006056,
+    "GroupId": 1006,
+    "Lv": 56,
+    "DefFix": 480.0
+  },
+  "1006057": {
+    "Id": 1006057,
+    "GroupId": 1006,
+    "Lv": 57,
+    "DefFix": 97.0
+  },
+  "1006058": {
+    "Id": 1006058,
+    "GroupId": 1006,
+    "Lv": 58,
+    "DefFix": 103.0
+  },
+  "1006059": {
+    "Id": 1006059,
+    "GroupId": 1006,
+    "Lv": 59,
+    "DefFix": 110.0
+  },
+  "1006060": {
+    "Id": 1006060,
+    "GroupId": 1006,
+    "Lv": 60,
+    "HpFix": 381878254,
+    "ToughnessFix": 2.9E+09,
+    "DefFix": 72.0,
+    "LvUpEffect": "FX/ActorCommon/fx_common_base_BossRushLevelUp_l"
+  },
+  "1006061": {
+    "Id": 1006061,
+    "GroupId": 1006,
+    "Lv": 61
+  },
+  "1006062": {
+    "Id": 1006062,
+    "GroupId": 1006,
+    "Lv": 62
+  },
+  "1006063": {
+    "Id": 1006063,
+    "GroupId": 1006,
+    "Lv": 63
+  },
+  "1006064": {
+    "Id": 1006064,
+    "GroupId": 1006,
+    "Lv": 64
+  },
+  "1006065": {
+    "Id": 1006065,
+    "GroupId": 1006,
+    "Lv": 65,
+    "HpFix": 763756508,
+    "ToughnessFix": 3.48E+09,
+    "LvUpEffect": "FX/ActorCommon/fx_common_base_BossRushLevelUp_l"
+  },
+  "1006066": {
+    "Id": 1006066,
+    "GroupId": 1006,
+    "Lv": 66
+  },
+  "1006067": {
+    "Id": 1006067,
+    "GroupId": 1006,
+    "Lv": 67
+  },
+  "1006068": {
+    "Id": 1006068,
+    "GroupId": 1006,
+    "Lv": 68
+  },
+  "1006069": {
+    "Id": 1006069,
+    "GroupId": 1006,
+    "Lv": 69
+  },
+  "1006070": {
+    "Id": 1006070,
+    "GroupId": 1006,
+    "Lv": 70,
+    "HpFix": 1145634762,
+    "ToughnessFix": 580000000.0,
+    "LvUpEffect": "FX/ActorCommon/fx_common_base_BossRushLevelUp_l"
+  },
+  "1006071": {
+    "Id": 1006071,
+    "GroupId": 1006,
+    "Lv": 71,
+    "ToughnessFix": 1.16E+09
+  },
+  "1006072": {
+    "Id": 1006072,
+    "GroupId": 1006,
+    "Lv": 72,
+    "ToughnessFix": 1.16E+09
+  },
+  "1006073": {
+    "Id": 1006073,
+    "GroupId": 1006,
+    "Lv": 73,
+    "ToughnessFix": 1.16E+09
+  },
+  "1006074": {
+    "Id": 1006074,
+    "GroupId": 1006,
+    "Lv": 74,
+    "ToughnessFix": 1.16E+09
+  },
+  "1006075": {
+    "Id": 1006075,
+    "GroupId": 1006,
+    "Lv": 75,
+    "HpFix": 2036684021,
+    "ToughnessFix": 1.16E+09,
+    "LvUpEffect": "FX/ActorCommon/fx_common_base_BossRushLevelUp_l"
+  },
+  "1006076": {
+    "Id": 1006076,
+    "GroupId": 1006,
+    "Lv": 76,
+    "ToughnessFix": 1.16E+09
+  },
+  "1006077": {
+    "Id": 1006077,
+    "GroupId": 1006,
+    "Lv": 77,
+    "ToughnessFix": 1.16E+09
+  },
+  "1006078": {
+    "Id": 1006078,
+    "GroupId": 1006,
+    "Lv": 78,
+    "ToughnessFix": 1.16E+09
+  },
+  "1006079": {
+    "Id": 1006079,
+    "GroupId": 1006,
+    "Lv": 79,
+    "ToughnessFix": 1.16E+09
+  },
+  "1006080": {
+    "Id": 1006080,
+    "GroupId": 1006,
+    "Lv": 80,
+    "HpFix": 3182318783,
+    "ToughnessFix": 3.48E+09,
+    "LvUpEffect": "FX/ActorCommon/fx_common_base_BossRushLevelUp_l"
+  },
+  "1006081": {
+    "Id": 1006081,
+    "GroupId": 1006,
+    "Lv": 81,
+    "ToughnessFix": 3.48E+09
+  },
+  "1006082": {
+    "Id": 1006082,
+    "GroupId": 1006,
+    "Lv": 82,
+    "ToughnessFix": 3.48E+09
+  },
+  "1006083": {
+    "Id": 1006083,
+    "GroupId": 1006,
+    "Lv": 83,
+    "ToughnessFix": 3.48E+09
+  },
+  "1006084": {
+    "Id": 1006084,
+    "GroupId": 1006,
+    "Lv": 84,
+    "ToughnessFix": 3.48E+09
+  },
+  "1006085": {
+    "Id": 1006085,
+    "GroupId": 1006,
+    "Lv": 85,
+    "HpFix": 4455246296,
+    "ToughnessFix": 3.48E+09,
+    "LvUpEffect": "FX/ActorCommon/fx_common_base_BossRushLevelUp_l"
+  },
+  "1006086": {
+    "Id": 1006086,
+    "GroupId": 1006,
+    "Lv": 86,
+    "ToughnessFix": 3.48E+09
+  },
+  "1006087": {
+    "Id": 1006087,
+    "GroupId": 1006,
+    "Lv": 87,
+    "ToughnessFix": 3.48E+09
+  },
+  "1006088": {
+    "Id": 1006088,
+    "GroupId": 1006,
+    "Lv": 88,
+    "ToughnessFix": 3.48E+09
+  },
+  "1006089": {
+    "Id": 1006089,
+    "GroupId": 1006,
+    "Lv": 89,
+    "ToughnessFix": 3.48E+09
+  },
+  "1006090": {
+    "Id": 1006090,
+    "GroupId": 1006,
+    "Lv": 90,
+    "ToughnessFix": 3.48E+09,
+    "LvUpEffect": "FX/ActorCommon/fx_common_base_BossRushLevelUp_l"
+  },
+  "1006091": {
+    "Id": 1006091,
+    "GroupId": 1006,
+    "Lv": 91,
+    "ToughnessFix": 3.48E+09
+  },
+  "1006092": {
+    "Id": 1006092,
+    "GroupId": 1006,
+    "Lv": 92,
+    "ToughnessFix": 3.48E+09
+  },
+  "1006093": {
+    "Id": 1006093,
+    "GroupId": 1006,
+    "Lv": 93,
+    "ToughnessFix": 3.48E+09
+  },
+  "1006094": {
+    "Id": 1006094,
+    "GroupId": 1006,
+    "Lv": 94,
+    "ToughnessFix": 3.48E+09
+  },
+  "1006095": {
+    "Id": 1006095,
+    "GroupId": 1006,
+    "Lv": 95,
+    "ToughnessFix": 3.48E+09,
+    "LvUpEffect": "FX/ActorCommon/fx_common_base_BossRushLevelUp_l"
+  },
+  "1006096": {
+    "Id": 1006096,
+    "GroupId": 1006,
+    "Lv": 96,
+    "ToughnessFix": 3.48E+09
+  },
+  "1006097": {
+    "Id": 1006097,
+    "GroupId": 1006,
+    "Lv": 97,
+    "ToughnessFix": 3.48E+09
+  },
+  "1006098": {
+    "Id": 1006098,
+    "GroupId": 1006,
+    "Lv": 98,
+    "ToughnessFix": 3.48E+09
+  },
+  "1006099": {
+    "Id": 1006099,
+    "GroupId": 1006,
+    "Lv": 99,
+    "ToughnessFix": 3.48E+09
+  },
+  "1006100": {
+    "Id": 1006100,
+    "GroupId": 1006,
+    "Lv": 100,
+    "ToughnessFix": 3.48E+09,
+    "LvUpEffect": "FX/ActorCommon/fx_common_base_BossRushLevelUp_l"
+  },
+  "1007001": {
+    "Id": 1007001,
+    "GroupId": 1007,
+    "Lv": 1
+  },
+  "1007002": {
+    "Id": 1007002,
+    "GroupId": 1007,
+    "Lv": 2,
+    "HpFix": 127293,
+    "AtkFix": 48.0
+  },
+  "1007003": {
+    "Id": 1007003,
+    "GroupId": 1007,
+    "Lv": 3,
+    "HpFix": 127293,
+    "AtkFix": 48.0
+  },
+  "1007004": {
+    "Id": 1007004,
+    "GroupId": 1007,
+    "Lv": 4,
+    "HpFix": 127293,
+    "AtkFix": 48.0
+  },
+  "1007005": {
+    "Id": 1007005,
+    "GroupId": 1007,
+    "Lv": 5,
+    "HpFix": 636464,
+    "AtkFix": 144.0,
+    "LvUpEffect": "FX/ActorCommon/fx_common_base_BossRushLevelUp_l"
+  },
+  "1007006": {
+    "Id": 1007006,
+    "GroupId": 1007,
+    "Lv": 6,
+    "HpFix": 254586,
+    "AtkFix": 96.0
+  },
+  "1007007": {
+    "Id": 1007007,
+    "GroupId": 1007,
+    "Lv": 7,
+    "HpFix": 254586,
+    "AtkFix": 96.0
+  },
+  "1007008": {
+    "Id": 1007008,
+    "GroupId": 1007,
+    "Lv": 8,
+    "HpFix": 254586,
+    "AtkFix": 96.0
+  },
+  "1007009": {
+    "Id": 1007009,
+    "GroupId": 1007,
+    "Lv": 9,
+    "HpFix": 254586,
+    "AtkFix": 96.0
+  },
+  "1007010": {
+    "Id": 1007010,
+    "GroupId": 1007,
+    "Lv": 10,
+    "HpFix": 1272928,
+    "AtkFix": 240.0,
+    "LvUpEffect": "FX/ActorCommon/fx_common_base_BossRushLevelUp_l"
+  },
+  "1007011": {
+    "Id": 1007011,
+    "GroupId": 1007,
+    "Lv": 11,
+    "HpFix": 381878,
+    "AtkFix": 144.0
+  },
+  "1007012": {
+    "Id": 1007012,
+    "GroupId": 1007,
+    "Lv": 12,
+    "HpFix": 381878,
+    "AtkFix": 144.0
+  },
+  "1007013": {
+    "Id": 1007013,
+    "GroupId": 1007,
+    "Lv": 13,
+    "HpFix": 381878,
+    "AtkFix": 144.0
+  },
+  "1007014": {
+    "Id": 1007014,
+    "GroupId": 1007,
+    "Lv": 14,
+    "HpFix": 381878,
+    "AtkFix": 144.0
+  },
+  "1007015": {
+    "Id": 1007015,
+    "GroupId": 1007,
+    "Lv": 15,
+    "HpFix": 1527513,
+    "AtkFix": 480.0,
+    "LvUpEffect": "FX/ActorCommon/fx_common_base_BossRushLevelUp_l"
+  },
+  "1007016": {
+    "Id": 1007016,
+    "GroupId": 1007,
+    "Lv": 16,
+    "HpFix": 509171,
+    "AtkFix": 192.0
+  },
+  "1007017": {
+    "Id": 1007017,
+    "GroupId": 1007,
+    "Lv": 17,
+    "HpFix": 509171,
+    "AtkFix": 192.0
+  },
+  "1007018": {
+    "Id": 1007018,
+    "GroupId": 1007,
+    "Lv": 18,
+    "HpFix": 509171,
+    "AtkFix": 192.0
+  },
+  "1007019": {
+    "Id": 1007019,
+    "GroupId": 1007,
+    "Lv": 19,
+    "HpFix": 509171,
+    "AtkFix": 192.0
+  },
+  "1007020": {
+    "Id": 1007020,
+    "GroupId": 1007,
+    "Lv": 20,
+    "HpFix": 1909391,
+    "AtkFix": 720.0,
+    "LvUpEffect": "FX/ActorCommon/fx_common_base_BossRushLevelUp_l"
+  },
+  "1007021": {
+    "Id": 1007021,
+    "GroupId": 1007,
+    "Lv": 21,
+    "HpFix": 636464,
+    "AtkFix": 240.0
+  },
+  "1007022": {
+    "Id": 1007022,
+    "GroupId": 1007,
+    "Lv": 22,
+    "HpFix": 763757,
+    "AtkFix": 240.0
+  },
+  "1007023": {
+    "Id": 1007023,
+    "GroupId": 1007,
+    "Lv": 23,
+    "HpFix": 763757,
+    "AtkFix": 240.0
+  },
+  "1007024": {
+    "Id": 1007024,
+    "GroupId": 1007,
+    "Lv": 24,
+    "HpFix": 763757,
+    "AtkFix": 240.0
+  },
+  "1007025": {
+    "Id": 1007025,
+    "GroupId": 1007,
+    "Lv": 25,
+    "HpFix": 3309612,
+    "AtkFix": 960.0,
+    "LvUpEffect": "FX/ActorCommon/fx_common_base_BossRushLevelUp_l"
+  },
+  "1007026": {
+    "Id": 1007026,
+    "GroupId": 1007,
+    "Lv": 26,
+    "HpFix": 1272928,
+    "AtkFix": 288.0
+  },
+  "1007027": {
+    "Id": 1007027,
+    "GroupId": 1007,
+    "Lv": 27,
+    "HpFix": 1272928,
+    "AtkFix": 288.0
+  },
+  "1007028": {
+    "Id": 1007028,
+    "GroupId": 1007,
+    "Lv": 28,
+    "HpFix": 1272928,
+    "AtkFix": 288.0
+  },
+  "1007029": {
+    "Id": 1007029,
+    "GroupId": 1007,
+    "Lv": 29,
+    "HpFix": 1272928,
+    "AtkFix": 288.0
+  },
+  "1007030": {
+    "Id": 1007030,
+    "GroupId": 1007,
+    "Lv": 30,
+    "HpFix": 38187825,
+    "AtkFix": 2400.0,
+    "ToughnessFix": 146500000.0,
+    "LvUpEffect": "FX/ActorCommon/fx_common_base_BossRushLevelUp_l"
+  },
+  "1007031": {
+    "Id": 1007031,
+    "GroupId": 1007,
+    "Lv": 31,
+    "HpFix": 12729275,
+    "AtkFix": 384.0
+  },
+  "1007032": {
+    "Id": 1007032,
+    "GroupId": 1007,
+    "Lv": 32,
+    "HpFix": 12729275,
+    "AtkFix": 384.0
+  },
+  "1007033": {
+    "Id": 1007033,
+    "GroupId": 1007,
+    "Lv": 33,
+    "HpFix": 12729275,
+    "AtkFix": 384.0
+  },
+  "1007034": {
+    "Id": 1007034,
+    "GroupId": 1007,
+    "Lv": 34,
+    "HpFix": 12729275,
+    "AtkFix": 384.0
+  },
+  "1007035": {
+    "Id": 1007035,
+    "GroupId": 1007,
+    "Lv": 35,
+    "HpFix": 63646376,
+    "AtkFix": 3840.0,
+    "ToughnessFix": 223611100.0,
+    "LvUpEffect": "FX/ActorCommon/fx_common_base_BossRushLevelUp_l"
+  },
+  "1007036": {
+    "Id": 1007036,
+    "GroupId": 1007,
+    "Lv": 36,
+    "HpFix": 15275130,
+    "AtkFix": 480.0
+  },
+  "1007037": {
+    "Id": 1007037,
+    "GroupId": 1007,
+    "Lv": 37,
+    "HpFix": 15275130,
+    "AtkFix": 480.0
+  },
+  "1007038": {
+    "Id": 1007038,
+    "GroupId": 1007,
+    "Lv": 38,
+    "HpFix": 15275130,
+    "AtkFix": 480.0
+  },
+  "1007039": {
+    "Id": 1007039,
+    "GroupId": 1007,
+    "Lv": 39,
+    "HpFix": 15275130,
+    "AtkFix": 480.0
+  },
+  "1007040": {
+    "Id": 1007040,
+    "GroupId": 1007,
+    "Lv": 40,
+    "HpFix": 70011013,
+    "AtkFix": 4800.0,
+    "ToughnessFix": 738888900.0,
+    "DefFix": 28.0,
+    "LvUpEffect": "FX/ActorCommon/fx_common_base_BossRushLevelUp_l"
+  },
+  "1007041": {
+    "Id": 1007041,
+    "GroupId": 1007,
+    "Lv": 41,
+    "HpFix": 25458550,
+    "AtkFix": 960.0,
+    "DefFix": 28.0
+  },
+  "1007042": {
+    "Id": 1007042,
+    "GroupId": 1007,
+    "Lv": 42,
+    "HpFix": 25458550,
+    "AtkFix": 960.0,
+    "DefFix": 30.0
+  },
+  "1007043": {
+    "Id": 1007043,
+    "GroupId": 1007,
+    "Lv": 43,
+    "HpFix": 25458550,
+    "AtkFix": 960.0,
+    "DefFix": 31.0
+  },
+  "1007044": {
+    "Id": 1007044,
+    "GroupId": 1007,
+    "Lv": 44,
+    "HpFix": 25458550,
+    "AtkFix": 1056.0,
+    "DefFix": 32.0
+  },
+  "1007045": {
+    "Id": 1007045,
+    "GroupId": 1007,
+    "Lv": 45,
+    "HpFix": 76375651,
+    "AtkFix": 5760.0,
+    "ToughnessFix": -58333332.0,
+    "DefFix": 64.0,
+    "LvUpEffect": "FX/ActorCommon/fx_common_base_BossRushLevelUp_l"
+  },
+  "1007046": {
+    "Id": 1007046,
+    "GroupId": 1007,
+    "Lv": 46,
+    "AtkFix": 3840.0,
+    "DefFix": 71.0
+  },
+  "1007047": {
+    "Id": 1007047,
+    "GroupId": 1007,
+    "Lv": 47,
+    "AtkFix": 3840.0,
+    "DefFix": 77.0
+  },
+  "1007048": {
+    "Id": 1007048,
+    "GroupId": 1007,
+    "Lv": 48,
+    "AtkFix": 4800.0,
+    "DefFix": 86.0
+  },
+  "1007049": {
+    "Id": 1007049,
+    "GroupId": 1007,
+    "Lv": 49,
+    "AtkFix": 4800.0,
+    "DefFix": 96.0
+  },
+  "1007050": {
+    "Id": 1007050,
+    "GroupId": 1007,
+    "Lv": 50,
+    "HpFix": 89104926,
+    "AtkFix": 24000.0,
+    "DefFix": 106.0,
+    "LvUpEffect": "FX/ActorCommon/fx_common_base_BossRushLevelUp_l"
+  },
+  "1007051": {
+    "Id": 1007051,
+    "GroupId": 1007,
+    "Lv": 51,
+    "AtkFix": 24000.0,
+    "DefFix": 121.0
+  },
+  "1007052": {
+    "Id": 1007052,
+    "GroupId": 1007,
+    "Lv": 52,
+    "AtkFix": 24000.0,
+    "DefFix": 136.0
+  },
+  "1007053": {
+    "Id": 1007053,
+    "GroupId": 1007,
+    "Lv": 53,
+    "AtkFix": 24000.0,
+    "DefFix": 157.0
+  },
+  "1007054": {
+    "Id": 1007054,
+    "GroupId": 1007,
+    "Lv": 54,
+    "AtkFix": 24000.0,
+    "DefFix": 180.0
+  },
+  "1007055": {
+    "Id": 1007055,
+    "GroupId": 1007,
+    "Lv": 55,
+    "HpFix": 190939127,
+    "AtkFix": 24000.0,
+    "ToughnessFix": 1.2693334E+09,
+    "DefFix": 360.0,
+    "LvUpEffect": "FX/ActorCommon/fx_common_base_BossRushLevelUp_l"
+  },
+  "1007056": {
+    "Id": 1007056,
+    "GroupId": 1007,
+    "Lv": 56,
+    "AtkFix": 24000.0,
+    "DefFix": 480.0
+  },
+  "1007057": {
+    "Id": 1007057,
+    "GroupId": 1007,
+    "Lv": 57,
+    "AtkFix": 24000.0,
+    "DefFix": 97.0
+  },
+  "1007058": {
+    "Id": 1007058,
+    "GroupId": 1007,
+    "Lv": 58,
+    "AtkFix": 24000.0,
+    "DefFix": 103.0
+  },
+  "1007059": {
+    "Id": 1007059,
+    "GroupId": 1007,
+    "Lv": 59,
+    "AtkFix": 24000.0,
+    "DefFix": 110.0
+  },
+  "1007060": {
+    "Id": 1007060,
+    "GroupId": 1007,
+    "Lv": 60,
+    "HpFix": 381878254,
+    "AtkFix": 24000.0,
+    "ToughnessFix": 2.9E+09,
+    "DefFix": 72.0,
+    "LvUpEffect": "FX/ActorCommon/fx_common_base_BossRushLevelUp_l"
+  },
+  "1007061": {
+    "Id": 1007061,
+    "GroupId": 1007,
+    "Lv": 61,
+    "AtkFix": 24000.0
+  },
+  "1007062": {
+    "Id": 1007062,
+    "GroupId": 1007,
+    "Lv": 62,
+    "AtkFix": 24000.0
+  },
+  "1007063": {
+    "Id": 1007063,
+    "GroupId": 1007,
+    "Lv": 63,
+    "AtkFix": 24000.0
+  },
+  "1007064": {
+    "Id": 1007064,
+    "GroupId": 1007,
+    "Lv": 64,
+    "AtkFix": 24000.0
+  },
+  "1007065": {
+    "Id": 1007065,
+    "GroupId": 1007,
+    "Lv": 65,
+    "HpFix": 763756508,
+    "AtkFix": 24000.0,
+    "ToughnessFix": 3.48E+09,
+    "LvUpEffect": "FX/ActorCommon/fx_common_base_BossRushLevelUp_l"
+  },
+  "1007066": {
+    "Id": 1007066,
+    "GroupId": 1007,
+    "Lv": 66,
+    "AtkFix": 24000.0
+  },
+  "1007067": {
+    "Id": 1007067,
+    "GroupId": 1007,
+    "Lv": 67,
+    "AtkFix": 24000.0
+  },
+  "1007068": {
+    "Id": 1007068,
+    "GroupId": 1007,
+    "Lv": 68,
+    "AtkFix": 24000.0
+  },
+  "1007069": {
+    "Id": 1007069,
+    "GroupId": 1007,
+    "Lv": 69,
+    "AtkFix": 24000.0
+  },
+  "1007070": {
+    "Id": 1007070,
+    "GroupId": 1007,
+    "Lv": 70,
+    "HpFix": 1145634762,
+    "AtkFix": 24000.0,
+    "ToughnessFix": 580000000.0,
+    "LvUpEffect": "FX/ActorCommon/fx_common_base_BossRushLevelUp_l"
+  },
+  "1007071": {
+    "Id": 1007071,
+    "GroupId": 1007,
+    "Lv": 71,
+    "AtkFix": 24000.0,
+    "ToughnessFix": 1.16E+09
+  },
+  "1007072": {
+    "Id": 1007072,
+    "GroupId": 1007,
+    "Lv": 72,
+    "AtkFix": 24000.0,
+    "ToughnessFix": 1.16E+09
+  },
+  "1007073": {
+    "Id": 1007073,
+    "GroupId": 1007,
+    "Lv": 73,
+    "AtkFix": 24000.0,
+    "ToughnessFix": 1.16E+09
+  },
+  "1007074": {
+    "Id": 1007074,
+    "GroupId": 1007,
+    "Lv": 74,
+    "AtkFix": 24000.0,
+    "ToughnessFix": 1.16E+09
+  },
+  "1007075": {
+    "Id": 1007075,
+    "GroupId": 1007,
+    "Lv": 75,
+    "HpFix": 2036684021,
+    "AtkFix": 24000.0,
+    "ToughnessFix": 1.16E+09,
+    "LvUpEffect": "FX/ActorCommon/fx_common_base_BossRushLevelUp_l"
+  },
+  "1007076": {
+    "Id": 1007076,
+    "GroupId": 1007,
+    "Lv": 76,
+    "AtkFix": 24000.0,
+    "ToughnessFix": 1.16E+09
+  },
+  "1007077": {
+    "Id": 1007077,
+    "GroupId": 1007,
+    "Lv": 77,
+    "AtkFix": 24000.0,
+    "ToughnessFix": 1.16E+09
+  },
+  "1007078": {
+    "Id": 1007078,
+    "GroupId": 1007,
+    "Lv": 78,
+    "AtkFix": 24000.0,
+    "ToughnessFix": 1.16E+09
+  },
+  "1007079": {
+    "Id": 1007079,
+    "GroupId": 1007,
+    "Lv": 79,
+    "AtkFix": 24000.0,
+    "ToughnessFix": 1.16E+09
+  },
+  "1007080": {
+    "Id": 1007080,
+    "GroupId": 1007,
+    "Lv": 80,
+    "HpFix": 3182318783,
+    "AtkFix": 24000.0,
+    "ToughnessFix": 3.48E+09,
+    "LvUpEffect": "FX/ActorCommon/fx_common_base_BossRushLevelUp_l"
+  },
+  "1007081": {
+    "Id": 1007081,
+    "GroupId": 1007,
+    "Lv": 81,
+    "AtkFix": 24000.0,
+    "ToughnessFix": 3.48E+09
+  },
+  "1007082": {
+    "Id": 1007082,
+    "GroupId": 1007,
+    "Lv": 82,
+    "AtkFix": 24000.0,
+    "ToughnessFix": 3.48E+09
+  },
+  "1007083": {
+    "Id": 1007083,
+    "GroupId": 1007,
+    "Lv": 83,
+    "AtkFix": 24000.0,
+    "ToughnessFix": 3.48E+09
+  },
+  "1007084": {
+    "Id": 1007084,
+    "GroupId": 1007,
+    "Lv": 84,
+    "AtkFix": 24000.0,
+    "ToughnessFix": 3.48E+09
+  },
+  "1007085": {
+    "Id": 1007085,
+    "GroupId": 1007,
+    "Lv": 85,
+    "HpFix": 4455246296,
+    "AtkFix": 24000.0,
+    "ToughnessFix": 3.48E+09,
+    "LvUpEffect": "FX/ActorCommon/fx_common_base_BossRushLevelUp_l"
+  },
+  "1007086": {
+    "Id": 1007086,
+    "GroupId": 1007,
+    "Lv": 86,
+    "AtkFix": 24000.0,
+    "ToughnessFix": 3.48E+09
+  },
+  "1007087": {
+    "Id": 1007087,
+    "GroupId": 1007,
+    "Lv": 87,
+    "AtkFix": 24000.0,
+    "ToughnessFix": 3.48E+09
+  },
+  "1007088": {
+    "Id": 1007088,
+    "GroupId": 1007,
+    "Lv": 88,
+    "AtkFix": 24000.0,
+    "ToughnessFix": 3.48E+09
+  },
+  "1007089": {
+    "Id": 1007089,
+    "GroupId": 1007,
+    "Lv": 89,
+    "AtkFix": 24000.0,
+    "ToughnessFix": 3.48E+09
+  },
+  "1007090": {
+    "Id": 1007090,
+    "GroupId": 1007,
+    "Lv": 90,
+    "AtkFix": 24000.0,
+    "ToughnessFix": 3.48E+09,
+    "LvUpEffect": "FX/ActorCommon/fx_common_base_BossRushLevelUp_l"
+  },
+  "1007091": {
+    "Id": 1007091,
+    "GroupId": 1007,
+    "Lv": 91,
+    "AtkFix": 24000.0,
+    "ToughnessFix": 3.48E+09
+  },
+  "1007092": {
+    "Id": 1007092,
+    "GroupId": 1007,
+    "Lv": 92,
+    "AtkFix": 24000.0,
+    "ToughnessFix": 3.48E+09
+  },
+  "1007093": {
+    "Id": 1007093,
+    "GroupId": 1007,
+    "Lv": 93,
+    "AtkFix": 24000.0,
+    "ToughnessFix": 3.48E+09
+  },
+  "1007094": {
+    "Id": 1007094,
+    "GroupId": 1007,
+    "Lv": 94,
+    "AtkFix": 24000.0,
+    "ToughnessFix": 3.48E+09
+  },
+  "1007095": {
+    "Id": 1007095,
+    "GroupId": 1007,
+    "Lv": 95,
+    "AtkFix": 24000.0,
+    "ToughnessFix": 3.48E+09,
+    "LvUpEffect": "FX/ActorCommon/fx_common_base_BossRushLevelUp_l"
+  },
+  "1007096": {
+    "Id": 1007096,
+    "GroupId": 1007,
+    "Lv": 96,
+    "AtkFix": 24000.0,
+    "ToughnessFix": 3.48E+09
+  },
+  "1007097": {
+    "Id": 1007097,
+    "GroupId": 1007,
+    "Lv": 97,
+    "AtkFix": 24000.0,
+    "ToughnessFix": 3.48E+09
+  },
+  "1007098": {
+    "Id": 1007098,
+    "GroupId": 1007,
+    "Lv": 98,
+    "AtkFix": 24000.0,
+    "ToughnessFix": 3.48E+09
+  },
+  "1007099": {
+    "Id": 1007099,
+    "GroupId": 1007,
+    "Lv": 99,
+    "AtkFix": 24000.0,
+    "ToughnessFix": 3.48E+09
+  },
+  "1007100": {
+    "Id": 1007100,
+    "GroupId": 1007,
+    "Lv": 100,
+    "AtkFix": 24000.0,
+    "ToughnessFix": 3.48E+09,
+    "LvUpEffect": "FX/ActorCommon/fx_common_base_BossRushLevelUp_l"
   }
 }
