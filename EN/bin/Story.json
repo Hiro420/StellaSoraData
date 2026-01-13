@@ -1130,11 +1130,12 @@
     "Title": "Story.501.1",
     "Desc": "Story.501.2",
     "TrialBuild": 501,
+    "ConditionId": "C05_05",
     "IsBattle": true,
     "Reward": 102,
     "RewardDisplay": "[{\"Tid\":2,\"Qty\":30}]",
     "ParentStoryId": [
-      "STm05_04"
+      "STm05_05"
     ],
     "FloorId": [
       1050101,
@@ -1152,6 +1153,7 @@
     "Title": "Story.502.1",
     "Desc": "Story.502.2",
     "TrialBuild": 502,
+    "ConditionId": "C05_07",
     "IsBattle": true,
     "Reward": 102,
     "RewardDisplay": "[{\"Tid\":2,\"Qty\":30}]",
@@ -1172,6 +1174,7 @@
     "Title": "Story.503.1",
     "Desc": "Story.503.2",
     "TrialBuild": 503,
+    "ConditionId": "C05_09",
     "IsBattle": true,
     "Reward": 102,
     "RewardDisplay": "[{\"Tid\":2,\"Qty\":30}]",
@@ -1204,6 +1207,7 @@
     "Index": "Story.505.4",
     "Title": "Story.505.1",
     "Desc": "Story.505.2",
+    "ConditionId": "C05_00",
     "Reward": 102,
     "RewardDisplay": "[{\"Tid\":2,\"Qty\":30}]",
     "ParentStoryId": [
@@ -1220,6 +1224,7 @@
     "Index": "Story.506.4",
     "Title": "Story.506.1",
     "Desc": "Story.506.2",
+    "ConditionId": "C05_01",
     "Reward": 102,
     "RewardDisplay": "[{\"Tid\":2,\"Qty\":30}]",
     "ParentStoryId": [
@@ -1236,6 +1241,7 @@
     "Index": "Story.507.4",
     "Title": "Story.507.1",
     "Desc": "Story.507.2",
+    "ConditionId": "C05_02_a",
     "Reward": 102,
     "RewardDisplay": "[{\"Tid\":2,\"Qty\":30}]",
     "ParentStoryId": [
@@ -1252,6 +1258,7 @@
     "Index": "Story.508.4",
     "Title": "Story.508.1",
     "Desc": "Story.508.2",
+    "ConditionId": "C05_02_b",
     "Reward": 102,
     "RewardDisplay": "[{\"Tid\":2,\"Qty\":30}]",
     "ParentStoryId": [
@@ -1268,6 +1275,7 @@
     "Index": "Story.509.4",
     "Title": "Story.509.1",
     "Desc": "Story.509.2",
+    "ConditionId": "C05_02_c",
     "Reward": 102,
     "RewardDisplay": "[{\"Tid\":2,\"Qty\":30}]",
     "ParentStoryId": [
@@ -1284,11 +1292,10 @@
     "Index": "Story.510.4",
     "Title": "Story.510.1",
     "Desc": "Story.510.2",
+    "ConditionId": "C05_03",
     "Reward": 102,
     "RewardDisplay": "[{\"Tid\":2,\"Qty\":30}]",
     "ParentStoryId": [
-      "STm05_03_a",
-      "STm05_03_b",
       "STm05_03_c"
     ],
     "AvgLuaName": "STm05_04",
@@ -1302,10 +1309,11 @@
     "Index": "Story.511.4",
     "Title": "Story.511.1",
     "Desc": "Story.511.2",
+    "ConditionId": "C05_04",
     "Reward": 102,
     "RewardDisplay": "[{\"Tid\":2,\"Qty\":30}]",
     "ParentStoryId": [
-      "BAm05_05"
+      "STm05_04"
     ],
     "AvgLuaName": "STm05_05",
     "Aim": "Story.511.3",
@@ -1318,10 +1326,11 @@
     "Index": "Story.512.4",
     "Title": "Story.512.1",
     "Desc": "Story.512.2",
+    "ConditionId": "CBA05_05",
     "Reward": 102,
     "RewardDisplay": "[{\"Tid\":2,\"Qty\":30}]",
     "ParentStoryId": [
-      "STm05_05"
+      "BAm05_05"
     ],
     "AvgLuaName": "STm05_06",
     "Aim": "Story.512.3",
@@ -1334,6 +1343,7 @@
     "Index": "Story.513.4",
     "Title": "Story.513.1",
     "Desc": "Story.513.2",
+    "ConditionId": "C05_06",
     "Reward": 102,
     "RewardDisplay": "[{\"Tid\":2,\"Qty\":30}]",
     "ParentStoryId": [
@@ -1350,6 +1360,7 @@
     "Index": "Story.514.4",
     "Title": "Story.514.1",
     "Desc": "Story.514.2",
+    "ConditionId": "CBA05_08",
     "Reward": 102,
     "RewardDisplay": "[{\"Tid\":2,\"Qty\":30}]",
     "ParentStoryId": [
@@ -1366,6 +1377,7 @@
     "Index": "Story.515.4",
     "Title": "Story.515.1",
     "Desc": "Story.515.2",
+    "ConditionId": "C05_08_a",
     "IsBranch": true,
     "Reward": 112,
     "RewardDisplay": "[{\"Tid\":1,\"Qty\":666}]",
@@ -1383,6 +1395,7 @@
     "Index": "Story.516.4",
     "Title": "Story.516.1",
     "Desc": "Story.516.2",
+    "ConditionId": "C05_08_b",
     "Reward": 102,
     "RewardDisplay": "[{\"Tid\":2,\"Qty\":30}]",
     "ParentStoryId": [
@@ -1399,6 +1412,7 @@
     "Index": "Story.517.4",
     "Title": "Story.517.1",
     "Desc": "Story.517.2",
+    "ConditionId": "C05_08_c",
     "IsBranch": true,
     "Reward": 112,
     "RewardDisplay": "[{\"Tid\":1,\"Qty\":666}]",
@@ -1416,6 +1430,7 @@
     "Index": "Story.518.4",
     "Title": "Story.518.1",
     "Desc": "Story.518.2",
+    "ConditionId": "CBA05_10",
     "Reward": 102,
     "RewardDisplay": "[{\"Tid\":2,\"Qty\":30}]",
     "ParentStoryId": [
@@ -1432,6 +1447,7 @@
     "Index": "Story.519.4",
     "Title": "Story.519.1",
     "Desc": "Story.519.2",
+    "ConditionId": "C05_10",
     "Reward": 104,
     "RewardDisplay": "[{\"Tid\":2,\"Qty\":50}]",
     "ParentStoryId": [
@@ -1439,6 +1455,7 @@
     ],
     "AvgLuaName": "STm05_11",
     "Aim": "Story.519.3",
+    "IsLast": true,
     "AvgMotion": "style_21"
   }
 }

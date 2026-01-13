@@ -13938,12 +13938,12 @@
       2,
       4
     ],
-    "WERFix": 570,
+    "WERFix": 750,
     "FERFix": 250,
-    "SERFix": 570,
+    "SERFix": 750,
     "AERFix": 250,
-    "LERFix": 570,
-    "DERFix": 570,
+    "LERFix": 750,
+    "DERFix": 750,
     "ToughnessRatio": -6667
   },
   "7010019": {
@@ -13954,12 +13954,12 @@
       2,
       4
     ],
-    "WERFix": 570,
+    "WERFix": 750,
     "FERFix": 250,
-    "SERFix": 570,
+    "SERFix": 750,
     "AERFix": 250,
-    "LERFix": 570,
-    "DERFix": 570,
+    "LERFix": 750,
+    "DERFix": 750,
     "ToughnessRatio": -5556
   },
   "999": {
@@ -15929,7 +15929,7 @@
     "Id": 1501111,
     "TemplateId": 10000,
     "EET": 7,
-    "HpRatio": 615000,
+    "HpRatio": 750000,
     "AtkRatio": -9600,
     "WERFix": 570,
     "FERFix": 570,
@@ -15943,7 +15943,7 @@
     "Id": 1500201,
     "TemplateId": 10002,
     "EET": 7,
-    "HpRatio": 406319,
+    "HpRatio": 489583,
     "AtkRatio": -9600,
     "WERFix": 570,
     "FERFix": 570,
@@ -15951,13 +15951,13 @@
     "AERFix": 570,
     "LERFix": 570,
     "DERFix": 570,
-    "ToughnessRatio": 331429
+    "ToughnessRatio": 321714
   },
   "1500202": {
     "Id": 1500202,
     "TemplateId": 10000,
     "EET": 7,
-    "HpRatio": 81263,
+    "HpRatio": 97916,
     "AtkRatio": -9600,
     "WERFix": 570,
     "FERFix": 570,
@@ -15971,7 +15971,7 @@
     "Id": 1500204,
     "TemplateId": 10000,
     "EET": 7,
-    "HpRatio": 81263,
+    "HpRatio": 97916,
     "AtkRatio": -9600,
     "WERFix": 570,
     "FERFix": 570,
