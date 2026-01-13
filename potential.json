@@ -764,6 +764,261 @@
       "subIcon": "Round"
     }
   },
+  "110": {
+    "511001": {
+      "name": "Step Kicking",
+      "briefDesc": "The Main Skill deals additional damage.",
+      "type": "main",
+      "rarity": 0,
+      "imgId": "11001_Potential_01",
+      "id": 511001
+    },
+    "511002": {
+      "name": "Nimble Step",
+      "briefDesc": "When Firenze's Main Skill deals DMG for a certain number of times, she creates a domain that deals continuous AoE DMG and boosts her Skill DMG.",
+      "type": "main",
+      "rarity": 0,
+      "imgId": "11001_Potential_02",
+      "id": 511002
+    },
+    "511003": {
+      "name": "Phantom Waltz",
+      "briefDesc": "Firenze automatically summons Shadow Clones. When casting the Main Skill, increases the number of Shadow Clones summoned.",
+      "type": "main",
+      "rarity": 0,
+      "imgId": "11001_Potential_03",
+      "id": 511003
+    },
+    "511004": {
+      "name": "Shadow Step",
+      "briefDesc": "Upon vanishing, Firenze's Shadow Clones will explode, dealing AoE DMG. The max limit of Shadow Clones increases for every other Umbra Trekker in the squad.",
+      "type": "main",
+      "rarity": 0,
+      "imgId": "11001_Potential_04",
+      "id": 511004
+    },
+    "511005": {
+      "name": "High Risk",
+      "briefDesc": "When Firenze deals Skill DMG, there is a chance to deal additional DMG.",
+      "type": "main",
+      "rarity": 1,
+      "imgId": "11001_Potential_01",
+      "id": 511005,
+      "subIcon": "Diamond"
+    },
+    "511006": {
+      "name": "Dark Pirouette",
+      "briefDesc": "When Firenze triggers an Umbra Mark, increases ATK.",
+      "type": "main",
+      "rarity": 2,
+      "imgId": "11001_Potential_01",
+      "id": 511006,
+      "subIcon": "Triangle"
+    },
+    "511007": {
+      "name": "Flash Break",
+      "briefDesc": "When Firenze deals DMG with an Auto Attack, increases her Skill DMG. The effect ends if the Main Skill is cast.",
+      "type": "main",
+      "rarity": 2,
+      "imgId": "11001_Potential_02",
+      "id": 511007,
+      "subIcon": "Round"
+    },
+    "511008": {
+      "name": "Gloomy Veil",
+      "briefDesc": "Increases Shadow Clone's max limit and Umbra DMG.",
+      "type": "main",
+      "rarity": 2,
+      "imgId": "11001_Potential_03",
+      "id": 511008,
+      "subIcon": "Diamond"
+    },
+    "511009": {
+      "name": "Extended Shift",
+      "briefDesc": "Firenze's Shadow Clone lasts longer on the battlefield. Also increases Minion DMG.",
+      "type": "main",
+      "rarity": 1,
+      "imgId": "11001_Potential_03",
+      "id": 511009,
+      "subIcon": "Triangle"
+    },
+    "511010": {
+      "name": "Accurate Coincidence",
+      "briefDesc": "After Firenze casts the Main Skill, her next Auto Attack starts with the 4th strike. Also increases Shadow Clone's Minion DMG.",
+      "type": "main",
+      "rarity": 2,
+      "imgId": "11001_Potential_03",
+      "id": 511010,
+      "subIcon": "Round"
+    },
+    "511011": {
+      "name": "Hunting Command",
+      "briefDesc": "Each Umbra Trekker in the squad increases Firenze's Umbra DMG.",
+      "type": "main",
+      "rarity": 1,
+      "imgId": "11001_Potential_04",
+      "id": 511011,
+      "subIcon": "Diamond"
+    },
+    "511012": {
+      "name": "Clone Trick",
+      "briefDesc": "Firenze can dodge through barriers. Increases Shadow Clone's DMG.",
+      "type": "main",
+      "rarity": 2,
+      "imgId": "11001_Potential_04",
+      "id": 511012,
+      "subIcon": "Triangle"
+    },
+    "511013": {
+      "name": "Announcement Time",
+      "briefDesc": "Firenze can dodge one more time. Increases her ATK when dodging.",
+      "type": "main",
+      "rarity": 2,
+      "imgId": "11001_Potential_04",
+      "id": 511013,
+      "subIcon": "Round"
+    },
+    "511021": {
+      "name": "Shadow Nail",
+      "briefDesc": "The cane stays in the ground for a period of time, dealing DMG over time.",
+      "type": "support",
+      "rarity": 0,
+      "imgId": "11001_Potential_21",
+      "id": 511021
+    },
+    "511022": {
+      "name": "Shadow Flicker",
+      "briefDesc": "When the cane disappears, triggers an explosion, dealing AoE DMG.",
+      "type": "support",
+      "rarity": 0,
+      "imgId": "11001_Potential_22",
+      "id": 511022
+    },
+    "511023": {
+      "name": "Twin Shadow",
+      "briefDesc": "Increases the max limit and the number summoned of Shadow Clones by Support Skills.",
+      "type": "support",
+      "rarity": 0,
+      "imgId": "11001_Potential_23",
+      "id": 511023
+    },
+    "511024": {
+      "name": "Shadownight Descendant",
+      "briefDesc": "The Shadow Clones summoned by the Support Skill will last longer on the battlefield.",
+      "type": "support",
+      "rarity": 0,
+      "imgId": "11001_Potential_24",
+      "id": 511024
+    },
+    "511025": {
+      "name": "Drinking Party",
+      "briefDesc": "When cane DMG triggers an Umbra Mark, reduces Support Skill Cooldown. Also increases the cane's DMG.",
+      "type": "support",
+      "rarity": 1,
+      "imgId": "11001_Potential_21",
+      "id": 511025,
+      "subIcon": "Diamond"
+    },
+    "511026": {
+      "name": "Typical Case",
+      "briefDesc": "Increases the cane's Umbra DMG to targets inflicted with Dark Burn.",
+      "type": "support",
+      "rarity": 2,
+      "imgId": "11001_Potential_21",
+      "id": 511026,
+      "subIcon": "Triangle"
+    },
+    "511027": {
+      "name": "Joyous Whip",
+      "briefDesc": "When the cane deals DMG, increases Firenze's ATK.",
+      "type": "support",
+      "rarity": 2,
+      "imgId": "11001_Potential_21",
+      "id": 511027,
+      "subIcon": "Round"
+    },
+    "511028": {
+      "name": "Step Sync",
+      "briefDesc": "Increases Shadow Clone's Minion DMG. Reduces the intervals between their sprint attacks.",
+      "type": "support",
+      "rarity": 1,
+      "imgId": "11001_Potential_23",
+      "id": 511028,
+      "subIcon": "Diamond"
+    },
+    "511029": {
+      "name": "Dark Resurgence",
+      "briefDesc": "Upon vanishing, Firenze's Shadow Clones will explode, dealing AoE DMG.",
+      "type": "support",
+      "rarity": 2,
+      "imgId": "11001_Potential_23",
+      "id": 511029,
+      "subIcon": "Triangle"
+    },
+    "511030": {
+      "name": "Flexible Operation",
+      "briefDesc": "When a Shadow Clone deals DMG, increases all Shadow Clones' Minion DMG on the battlefield.",
+      "type": "support",
+      "rarity": 2,
+      "imgId": "11001_Potential_23",
+      "id": 511030,
+      "subIcon": "Round"
+    },
+    "511031": {
+      "name": "Shadow Waltz",
+      "briefDesc": "Increases Shadow Clone's DMG.",
+      "type": "support",
+      "rarity": 2,
+      "imgId": "11001_Potential_24",
+      "id": 511031,
+      "subIcon": "Diamond"
+    },
+    "511032": {
+      "name": "Prime Stance",
+      "briefDesc": "Increases Firenze's ATK.",
+      "type": "support",
+      "rarity": 2,
+      "imgId": "11001_Potential_24",
+      "id": 511032,
+      "subIcon": "Triangle"
+    },
+    "511033": {
+      "name": "Special Care",
+      "briefDesc": "Increases all Umbra Trekkers' Umbra DMG.",
+      "type": "support",
+      "rarity": 1,
+      "imgId": "11001_Potential_24",
+      "id": 511033,
+      "subIcon": "Round"
+    },
+    "511041": {
+      "name": "Instant Liquidation",
+      "briefDesc": "When Firenze casts her Ultimate, each Shadow Clone on the battlefield increases her Ultimate DMG.",
+      "type": "common",
+      "rarity": 2,
+      "imgId": "11001_Potential_41",
+      "id": 511041,
+      "subIcon": "Diamond"
+    },
+    "511042": {
+      "name": "Instant Peak",
+      "briefDesc": "When Firenze deals DMG, increases Ultimate Crit Rate.",
+      "type": "common",
+      "rarity": 2,
+      "imgId": "11001_Potential_41",
+      "id": 511042,
+      "subIcon": "Triangle"
+    },
+    "511043": {
+      "name": "Place Your Bets",
+      "briefDesc": "When Firenze triggers an Umbra Mark, increases Ultimate DMG.",
+      "type": "common",
+      "rarity": 2,
+      "imgId": "11001_Potential_41",
+      "id": 511043,
+      "subIcon": "Round"
+    }
+  },
   "111": {
     "511101": {
       "name": "Vector: Solidifying",
