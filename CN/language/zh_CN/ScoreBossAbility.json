@@ -12,5 +12,9 @@
   "ScoreBossAbility.100005.1": "虚实转换",
   "ScoreBossAbility.100005.2": "首领敌人会在【真影状态】和【幻灭状态】状态以<color=#ec6d21>15秒</color>为时间间隔切换。\n【幻灭状态】中，首领受到的仆从伤害提升<color=#ec6d21>&Param1&</color>。每造成1次印记触发都会使当前状态的持续时间延长<color=#ec6d21>&Param2&</color>秒，每秒最多触发1次。\n【真影状态】中，首领受到的技能伤害提升<color=#ec6d21>&Param3&</color>。每造成1次仆从伤害都会使当前状态的持续时间延长<color=#ec6d21>&Param4&</color>秒，每秒最多触发1次。",
   "ScoreBossAbility.100006.1": "引雷入室",
-  "ScoreBossAbility.100006.2": "首领拥有「落雷」时自身造成伤害提升<color=#ec6d21>&Param4&</color>，且每3秒额外造成4次小范围伤害；\n当己方<color=#ec6d21>&Param1&</color>秒内对首领累计造成<color=#ec6d21>&Param2&</color>次援护角色技能伤害，使「落雷」失效15秒，期间首领受到援护角色造成的技能伤害提升<color=#ec6d21>&Param3&</color>"
+  "ScoreBossAbility.100006.2": "首领拥有「落雷」时自身造成伤害提升<color=#ec6d21>&Param4&</color>，且每3秒额外造成4次小范围伤害；\n当己方<color=#ec6d21>&Param1&</color>秒内对首领累计造成<color=#ec6d21>&Param2&</color>次援护角色技能伤害，使「落雷」失效15秒，期间首领受到援护角色造成的技能伤害提升<color=#ec6d21>&Param3&</color>",
+  "ScoreBossAbility.100007.1": "随势而动",
+  "ScoreBossAbility.100007.2": "首领拥有<color=#ec6d21>&Param1&</color>的伤害提升。每当1名玩家阵营仆从在场时，首领会暂时减少<color=#ec6d21>&Param2&</color>伤害并额外附加<color=#ec6d21>&Param3&</color>易伤。该效果最多可叠加3层，并在仆从消失后持续<color=#ec6d21>&Param4&</color>秒。",
+  "ScoreBossAbility.100008.1": "专注",
+  "ScoreBossAbility.100008.2": "首领每受到<color=#ec6d21>&Param1&</color>次伤害即附加一层【专注】，使自身造成伤害提升<color=#ec6d21>&Param2&</color>。\n在<color=#ec6d21>&Param3&</color>秒内成功进行<color=#ec6d21>&Param4&</color>次印记触发后，清空当前的【专注】。接下来<color=#ec6d21>&Param5&</color>秒内Boss受到的支援角色技能伤害提升<color=#ec6d21>&Param6&</color>。该效果每<color=#ec6d21>&Param7&</color>秒最多触发1次，重复触发重置持续时间。"
 }

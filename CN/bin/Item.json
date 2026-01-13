@@ -7260,7 +7260,7 @@
     "Literary": "Item.511008.3",
     "Type": 6,
     "Stype": 41,
-    "Rarity": 1,
+    "Rarity": 2,
     "Stack": true,
     "PositionLimit": 9999,
     "Icon": "Icon/Potential/11001_Potential_03",
@@ -7273,7 +7273,7 @@
     "Literary": "Item.511009.3",
     "Type": 6,
     "Stype": 41,
-    "Rarity": 2,
+    "Rarity": 1,
     "Stack": true,
     "PositionLimit": 9999,
     "Icon": "Icon/Potential/11001_Potential_03",
@@ -17935,6 +17935,17 @@
     "DisHaving": true,
     "Icon": "Icon/Item/item_70001"
   },
+  "71013": {
+    "Id": 71013,
+    "Title": "Item.71013.1",
+    "Desc": "Item.71013.2",
+    "Literary": "Item.71013.3",
+    "Type": 12,
+    "Stype": 2,
+    "Rarity": 2,
+    "DisHaving": true,
+    "Icon": "Icon/Item/item_70001"
+  },
   "72001": {
     "Id": 72001,
     "Title": "Item.72001.1",
@@ -18061,6 +18072,17 @@
     "Title": "Item.72012.1",
     "Desc": "Item.72012.2",
     "Literary": "Item.72012.3",
+    "Type": 12,
+    "Stype": 2,
+    "Rarity": 2,
+    "DisHaving": true,
+    "Icon": "Icon/Item/item_70001"
+  },
+  "72013": {
+    "Id": 72013,
+    "Title": "Item.72013.1",
+    "Desc": "Item.72013.2",
+    "Literary": "Item.72013.3",
     "Type": 12,
     "Stype": 2,
     "Rarity": 2,
@@ -21395,6 +21417,32 @@
     "UseArgs": "{\"101010\":1}",
     "Icon": "Icon/Item/item_22"
   },
+  "101011": {
+    "Id": 101011,
+    "Title": "Item.101011.1",
+    "Desc": "Item.101011.2",
+    "Literary": "Item.101011.3",
+    "Type": 2,
+    "Stype": 2,
+    "Rarity": 3,
+    "UseMode": 2,
+    "UseAction": 1,
+    "UseArgs": "{\"101011\":1}",
+    "Icon": "Icon/Item/item_22"
+  },
+  "101012": {
+    "Id": 101012,
+    "Title": "Item.101012.1",
+    "Desc": "Item.101012.2",
+    "Literary": "Item.101012.3",
+    "Type": 2,
+    "Stype": 2,
+    "Rarity": 3,
+    "UseMode": 2,
+    "UseAction": 1,
+    "UseArgs": "{\"101012\":1}",
+    "Icon": "Icon/Item/item_22"
+  },
   "199000": {
     "Id": 199000,
     "Title": "Item.199000.1",
@@ -21514,6 +21562,26 @@
     "Stype": 2,
     "Rarity": 1,
     "Icon": "Icon/PlayerHead/playerhead_130003_XXL"
+  },
+  "199012": {
+    "Id": 199012,
+    "Title": "Item.199012.1",
+    "Desc": "Item.199012.2",
+    "Literary": "Item.199012.3",
+    "Type": 2,
+    "Stype": 2,
+    "Rarity": 1,
+    "Icon": "Icon/Head/head_10303_XXL"
+  },
+  "199013": {
+    "Id": 199013,
+    "Title": "Item.199013.1",
+    "Desc": "Item.199013.2",
+    "Literary": "Item.199013.3",
+    "Type": 2,
+    "Stype": 2,
+    "Rarity": 1,
+    "Icon": "Icon/PlayerHead/playerhead_130004_XXL"
   },
   "111001": {
     "Id": 111001,
@@ -22464,7 +22532,7 @@
     "Stype": 2,
     "Rarity": 3,
     "JumpTo": [
-      400004
+      400003
     ],
     "Icon": "Icon/Item/item_120001",
     "Icon2": "Icon/Item/item_120001_small"
@@ -22504,6 +22572,18 @@
     "Display": true,
     "DisHaving": true,
     "Icon": "Icon/PlayerHead/playerhead_130003_XXL"
+  },
+  "130004": {
+    "Id": 130004,
+    "Title": "Item.130004.1",
+    "Desc": "Item.130004.2",
+    "Literary": "Item.130004.3",
+    "Type": 14,
+    "Stype": 45,
+    "Rarity": 2,
+    "Display": true,
+    "DisHaving": true,
+    "Icon": "Icon/PlayerHead/playerhead_130004_XXL"
   },
   "200010": {
     "Id": 200010,
@@ -23716,17 +23796,6 @@
     "Rarity": 1,
     "DisHaving": true,
     "Icon": "Icon/Head/head_13502_XXL"
-  },
-  "13503": {
-    "Id": 13503,
-    "Title": "Item.13503.1",
-    "Desc": "Item.13503.2",
-    "Literary": "Item.13503.3",
-    "Type": 10,
-    "Stype": 46,
-    "Rarity": 1,
-    "DisHaving": true,
-    "Icon": "Icon/Head/head_13503_XXL"
   },
   "13601": {
     "Id": 13601,

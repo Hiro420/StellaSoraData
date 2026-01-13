@@ -7123,5 +7123,209 @@
     "Desc": "MainSkill.404106.2",
     "Param1": "10%",
     "Param2": "16%"
+  },
+  "400401": {
+    "Id": 400401,
+    "GroupId": 4004,
+    "Level": 1,
+    "EffectId": [
+      4004001
+    ],
+    "Name": "MainSkill.400401.1",
+    "Icon": "Icon/DiscSkill/DiscSkill_214004",
+    "IconBg": "Icon/DiscSkill/db_DiscSkill_6",
+    "Desc": "MainSkill.400401.2",
+    "Param1": "15%",
+    "Param2": "7",
+    "Param3": "4",
+    "Param4": "2.5%",
+    "Param5": "10",
+    "Param6": "10%",
+    "Param7": "4"
+  },
+  "400402": {
+    "Id": 400402,
+    "GroupId": 4004,
+    "Level": 2,
+    "EffectId": [
+      4004002
+    ],
+    "Name": "MainSkill.400402.1",
+    "Icon": "Icon/DiscSkill/DiscSkill_214004",
+    "IconBg": "Icon/DiscSkill/db_DiscSkill_6",
+    "Desc": "MainSkill.400402.2",
+    "Param1": "18%",
+    "Param2": "7",
+    "Param3": "4",
+    "Param4": "3%",
+    "Param5": "10",
+    "Param6": "12%",
+    "Param7": "4"
+  },
+  "400403": {
+    "Id": 400403,
+    "GroupId": 4004,
+    "Level": 3,
+    "EffectId": [
+      4004003
+    ],
+    "Name": "MainSkill.400403.1",
+    "Icon": "Icon/DiscSkill/DiscSkill_214004",
+    "IconBg": "Icon/DiscSkill/db_DiscSkill_6",
+    "Desc": "MainSkill.400403.2",
+    "Param1": "21%",
+    "Param2": "7",
+    "Param3": "4",
+    "Param4": "3.5%",
+    "Param5": "10",
+    "Param6": "14%",
+    "Param7": "4"
+  },
+  "400404": {
+    "Id": 400404,
+    "GroupId": 4004,
+    "Level": 4,
+    "EffectId": [
+      4004004
+    ],
+    "Name": "MainSkill.400404.1",
+    "Icon": "Icon/DiscSkill/DiscSkill_214004",
+    "IconBg": "Icon/DiscSkill/db_DiscSkill_6",
+    "Desc": "MainSkill.400404.2",
+    "Param1": "24%",
+    "Param2": "7",
+    "Param3": "4",
+    "Param4": "4%",
+    "Param5": "10",
+    "Param6": "16%",
+    "Param7": "4"
+  },
+  "400405": {
+    "Id": 400405,
+    "GroupId": 4004,
+    "Level": 5,
+    "EffectId": [
+      4004005
+    ],
+    "Name": "MainSkill.400405.1",
+    "Icon": "Icon/DiscSkill/DiscSkill_214004",
+    "IconBg": "Icon/DiscSkill/db_DiscSkill_6",
+    "Desc": "MainSkill.400405.2",
+    "Param1": "27%",
+    "Param2": "7",
+    "Param3": "4",
+    "Param4": "4.5%",
+    "Param5": "10",
+    "Param6": "18%",
+    "Param7": "4"
+  },
+  "400406": {
+    "Id": 400406,
+    "GroupId": 4004,
+    "Level": 6,
+    "EffectId": [
+      4004006
+    ],
+    "Name": "MainSkill.400406.1",
+    "Icon": "Icon/DiscSkill/DiscSkill_214004",
+    "IconBg": "Icon/DiscSkill/db_DiscSkill_6",
+    "Desc": "MainSkill.400406.2",
+    "Param1": "30%",
+    "Param2": "7",
+    "Param3": "4",
+    "Param4": "5%",
+    "Param5": "10",
+    "Param6": "20%",
+    "Param7": "4"
+  },
+  "404301": {
+    "Id": 404301,
+    "GroupId": 4043,
+    "Level": 1,
+    "EffectId": [
+      4043001
+    ],
+    "Name": "MainSkill.404301.1",
+    "Icon": "Icon/DiscSkill/DiscSkill_214043",
+    "IconBg": "Icon/DiscSkill/db_DiscSkill_6",
+    "Desc": "MainSkill.404301.2",
+    "Param1": "5%",
+    "Param2": "12%",
+    "Param3": "10"
+  },
+  "404302": {
+    "Id": 404302,
+    "GroupId": 4043,
+    "Level": 2,
+    "EffectId": [
+      4043002
+    ],
+    "Name": "MainSkill.404302.1",
+    "Icon": "Icon/DiscSkill/DiscSkill_214043",
+    "IconBg": "Icon/DiscSkill/db_DiscSkill_6",
+    "Desc": "MainSkill.404302.2",
+    "Param1": "6%",
+    "Param2": "14.4%",
+    "Param3": "10"
+  },
+  "404303": {
+    "Id": 404303,
+    "GroupId": 4043,
+    "Level": 3,
+    "EffectId": [
+      4043003
+    ],
+    "Name": "MainSkill.404303.1",
+    "Icon": "Icon/DiscSkill/DiscSkill_214043",
+    "IconBg": "Icon/DiscSkill/db_DiscSkill_6",
+    "Desc": "MainSkill.404303.2",
+    "Param1": "7%",
+    "Param2": "16.8%",
+    "Param3": "10"
+  },
+  "404304": {
+    "Id": 404304,
+    "GroupId": 4043,
+    "Level": 4,
+    "EffectId": [
+      4043004
+    ],
+    "Name": "MainSkill.404304.1",
+    "Icon": "Icon/DiscSkill/DiscSkill_214043",
+    "IconBg": "Icon/DiscSkill/db_DiscSkill_6",
+    "Desc": "MainSkill.404304.2",
+    "Param1": "8%",
+    "Param2": "19.2%",
+    "Param3": "10"
+  },
+  "404305": {
+    "Id": 404305,
+    "GroupId": 4043,
+    "Level": 5,
+    "EffectId": [
+      4043005
+    ],
+    "Name": "MainSkill.404305.1",
+    "Icon": "Icon/DiscSkill/DiscSkill_214043",
+    "IconBg": "Icon/DiscSkill/db_DiscSkill_6",
+    "Desc": "MainSkill.404305.2",
+    "Param1": "9%",
+    "Param2": "21.6%",
+    "Param3": "10"
+  },
+  "404306": {
+    "Id": 404306,
+    "GroupId": 4043,
+    "Level": 6,
+    "EffectId": [
+      4043006
+    ],
+    "Name": "MainSkill.404306.1",
+    "Icon": "Icon/DiscSkill/DiscSkill_214043",
+    "IconBg": "Icon/DiscSkill/db_DiscSkill_6",
+    "Desc": "MainSkill.404306.2",
+    "Param1": "10%",
+    "Param2": "24%",
+    "Param3": "10"
   }
 }

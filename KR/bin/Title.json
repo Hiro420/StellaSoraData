@@ -130,14 +130,14 @@
     "ItemId": 71010,
     "TitleType": 1,
     "Desc": "Title.19.1",
-    "Sort": 99
+    "Sort": 10
   },
   "20": {
     "Id": 20,
     "ItemId": 72010,
     "TitleType": 2,
     "Desc": "Title.20.1",
-    "Sort": 99
+    "Sort": 10
   },
   "21": {
     "Id": 21,
@@ -166,5 +166,19 @@
     "TitleType": 2,
     "Desc": "Title.24.1",
     "Sort": 8
+  },
+  "25": {
+    "Id": 25,
+    "ItemId": 71013,
+    "TitleType": 1,
+    "Desc": "Title.25.1",
+    "Sort": 9
+  },
+  "26": {
+    "Id": 26,
+    "ItemId": 72013,
+    "TitleType": 2,
+    "Desc": "Title.26.1",
+    "Sort": 9
   }
 }

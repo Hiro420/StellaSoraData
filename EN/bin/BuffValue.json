@@ -9087,35 +9087,7 @@
     "Effects": [
       11002011
     ],
-    "Time": 100000,
-    "LaminatedNum": 1,
-    "Num": 1,
-    "TimeSuperposition": 2,
-    "Timing": 1,
-    "ReplaceType": true,
-    "ReplaceMode": true
-  },
-  "11003011": {
-    "Id": 11003011,
-    "Sort": 1,
-    "Effects": [
-      11003011
-    ],
-    "Time": -10000,
-    "LaminatedNum": 1,
-    "Num": 1,
-    "TimeSuperposition": 2,
-    "Timing": 1,
-    "ReplaceType": true,
-    "ReplaceMode": true
-  },
-  "11004011": {
-    "Id": 11004011,
-    "Sort": 1,
-    "Effects": [
-      11004011
-    ],
-    "Time": -10000,
+    "Time": 70000,
     "LaminatedNum": 1,
     "Num": 1,
     "TimeSuperposition": 2,
@@ -9145,6 +9117,20 @@
     ],
     "Time": 50000,
     "LaminatedNum": 3,
+    "Num": 1,
+    "TimeSuperposition": 2,
+    "Timing": 1,
+    "ReplaceType": true,
+    "ReplaceMode": true
+  },
+  "11050811": {
+    "Id": 11050811,
+    "Sort": 1,
+    "Effects": [
+      11050801
+    ],
+    "Time": -10000,
+    "LaminatedNum": 1,
     "Num": 1,
     "TimeSuperposition": 2,
     "Timing": 1,
@@ -9214,7 +9200,7 @@
       11051301
     ],
     "Time": 60000,
-    "LaminatedNum": 3,
+    "LaminatedNum": 1,
     "Num": 1,
     "TimeSuperposition": 2,
     "Timing": 1,
@@ -9305,6 +9291,20 @@
     "ReplaceType": true,
     "ReplaceMode": true
   },
+  "11042011": {
+    "Id": 11042011,
+    "Sort": 1,
+    "Effects": [
+      11042001
+    ],
+    "Time": 50000,
+    "LaminatedNum": 1,
+    "Num": 1,
+    "TimeSuperposition": 2,
+    "Timing": 1,
+    "ReplaceType": true,
+    "ReplaceMode": true
+  },
   "11043011": {
     "Id": 11043011,
     "Sort": 1,
@@ -9354,7 +9354,7 @@
       11096311
     ],
     "Time": 80000,
-    "LaminatedNum": 2,
+    "LaminatedNum": 1,
     "Num": 1,
     "TimeSuperposition": 2,
     "Timing": 1,
@@ -9424,7 +9424,7 @@
       11096321
     ],
     "Time": 80000,
-    "LaminatedNum": 2,
+    "LaminatedNum": 1,
     "Num": 1,
     "TimeSuperposition": 2,
     "Timing": 1,
@@ -15216,6 +15216,77 @@
     "Timing": 2,
     "ReplaceMode": true
   },
+  "631008010": {
+    "Id": 631008010,
+    "Sort": 99,
+    "Effects": [
+      631008011
+    ],
+    "Time": -10000,
+    "LaminatedNum": 3,
+    "Num": 1,
+    "TimeSuperposition": 2,
+    "Timing": 2,
+    "ReplaceMode": true
+  },
+  "631008020": {
+    "Id": 631008020,
+    "Sort": 99,
+    "Effects": [
+      631008021,
+      631008022
+    ],
+    "Time": -10000,
+    "LaminatedNum": 3,
+    "Num": 1,
+    "TimeSuperposition": 2,
+    "Timing": 2,
+    "ReplaceType": true,
+    "ReplaceMode": true
+  },
+  "631008030": {
+    "Id": 631008030,
+    "Sort": 99,
+    "Effects": [
+      631008031,
+      631008032
+    ],
+    "Time": 30000,
+    "LaminatedNum": 1,
+    "Num": 3,
+    "TimeSuperposition": 2,
+    "Timing": 2,
+    "ReplaceType": true,
+    "ReplaceMode": true
+  },
+  "631009010": {
+    "Id": 631009010,
+    "Sort": 99,
+    "Effects": [
+      631009011
+    ],
+    "Time": -10000,
+    "LaminatedNum": 5,
+    "Num": 1,
+    "TimeSuperposition": 2,
+    "Timing": 2,
+    "ReplaceType": true,
+    "ReplaceMode": true
+  },
+  "631009020": {
+    "Id": 631009020,
+    "Sort": 99,
+    "Effects": [
+      631009021
+    ],
+    "Time": 200000,
+    "LaminatedNum": 1,
+    "Num": 1,
+    "TimeSuperposition": 2,
+    "Timing": 2,
+    "ReplaceType": true,
+    "ReplaceMode": true
+  },
   "631009901": {
     "Id": 631009901,
     "Sort": 99,
@@ -20275,11 +20346,11 @@
     "ReplaceType": true,
     "ReplaceMode": true
   },
-  "801239010": {
-    "Id": 801239010,
+  "801239110": {
+    "Id": 801239110,
     "Sort": 1,
     "Effects": [
-      801239011
+      801239111
     ],
     "Time": -10000,
     "LaminatedNum": 1,
@@ -20289,11 +20360,11 @@
     "ReplaceType": true,
     "ReplaceMode": true
   },
-  "801239110": {
-    "Id": 801239110,
+  "801239210": {
+    "Id": 801239210,
     "Sort": 1,
     "Effects": [
-      801239111
+      801239211
     ],
     "Time": -10000,
     "LaminatedNum": 1,
@@ -20354,7 +20425,7 @@
       808010212,
       808010213
     ],
-    "Time": -10000,
+    "Time": 2000,
     "LaminatedNum": 1,
     "Num": 1,
     "TimeSuperposition": 2,
@@ -29884,6 +29955,513 @@
     "Name": "【once标识buff】任意风系援护角色附加印记时，该角色造成的技能伤害提升<color=#ec6d21>{1}</color>，持续{2}s。",
     "Sort": 1,
     "Time": 30000,
+    "LaminatedNum": 1,
+    "Num": 1,
+    "TimeSuperposition": 2,
+    "Timing": 1,
+    "ReplaceType": true,
+    "ReplaceMode": true
+  },
+  "4004020": {
+    "Id": 4004020,
+    "Name": "【脚本buff】敬畏",
+    "Sort": 1,
+    "Time": 70000,
+    "LaminatedNum": 4,
+    "Num": 1,
+    "TimeSuperposition": 2,
+    "Timing": 1,
+    "ReplaceType": true,
+    "ReplaceMode": true
+  },
+  "4004021": {
+    "Id": 4004021,
+    "Name": "【脚本buff】暗系主控角色召唤仆从时，根据自身的「敬畏」层数，每层使其仆从的仆从伤害提升<color=#ec6d21>{4}</color>，持续{5}s。",
+    "Sort": 1,
+    "Effects": [
+      4004021
+    ],
+    "Time": 100000,
+    "LaminatedNum": 4,
+    "Num": 1,
+    "TimeSuperposition": 2,
+    "Timing": 1,
+    "ReplaceType": true,
+    "ReplaceMode": true
+  },
+  "4004022": {
+    "Id": 4004022,
+    "Name": "【脚本buff】暗系主控角色召唤仆从时，根据自身的「敬畏」层数，每层使其仆从的仆从伤害提升<color=#ec6d21>{4}</color>，持续{5}s。",
+    "Sort": 1,
+    "Effects": [
+      4004022
+    ],
+    "Time": 100000,
+    "LaminatedNum": 4,
+    "Num": 1,
+    "TimeSuperposition": 2,
+    "Timing": 1,
+    "ReplaceType": true,
+    "ReplaceMode": true
+  },
+  "4004023": {
+    "Id": 4004023,
+    "Name": "【脚本buff】暗系主控角色召唤仆从时，根据自身的「敬畏」层数，每层使其仆从的仆从伤害提升<color=#ec6d21>{4}</color>，持续{5}s。",
+    "Sort": 1,
+    "Effects": [
+      4004023
+    ],
+    "Time": 100000,
+    "LaminatedNum": 4,
+    "Num": 1,
+    "TimeSuperposition": 2,
+    "Timing": 1,
+    "ReplaceType": true,
+    "ReplaceMode": true
+  },
+  "4004024": {
+    "Id": 4004024,
+    "Name": "【脚本buff】暗系主控角色召唤仆从时，根据自身的「敬畏」层数，每层使其仆从的仆从伤害提升<color=#ec6d21>{4}</color>，持续{5}s。",
+    "Sort": 1,
+    "Effects": [
+      4004024
+    ],
+    "Time": 100000,
+    "LaminatedNum": 4,
+    "Num": 1,
+    "TimeSuperposition": 2,
+    "Timing": 1,
+    "ReplaceType": true,
+    "ReplaceMode": true
+  },
+  "4004025": {
+    "Id": 4004025,
+    "Name": "【脚本buff】暗系主控角色召唤仆从时，根据自身的「敬畏」层数，每层使其仆从的仆从伤害提升<color=#ec6d21>{4}</color>，持续{5}s。",
+    "Sort": 1,
+    "Effects": [
+      4004025
+    ],
+    "Time": 100000,
+    "LaminatedNum": 4,
+    "Num": 1,
+    "TimeSuperposition": 2,
+    "Timing": 1,
+    "ReplaceType": true,
+    "ReplaceMode": true
+  },
+  "4004026": {
+    "Id": 4004026,
+    "Name": "【脚本buff】暗系主控角色召唤仆从时，根据自身的「敬畏」层数，每层使其仆从的仆从伤害提升<color=#ec6d21>{4}</color>，持续{5}s。",
+    "Sort": 1,
+    "Effects": [
+      4004026
+    ],
+    "Time": 100000,
+    "LaminatedNum": 4,
+    "Num": 1,
+    "TimeSuperposition": 2,
+    "Timing": 1,
+    "ReplaceType": true,
+    "ReplaceMode": true
+  },
+  "4004041": {
+    "Id": 4004041,
+    "Name": "【脚本buff】暗系主控角色拥有「敬畏」时，暗系仆从造成伤害时为目标附加：受到暗系仆从伤害提升<color=#ec6d21>{6}</color>，持续{7}秒。",
+    "Sort": 1,
+    "Effects": [
+      4004041
+    ],
+    "Time": 40000,
+    "LaminatedNum": 1,
+    "Num": 1,
+    "TimeSuperposition": 2,
+    "Timing": 1,
+    "ReplaceType": true,
+    "ReplaceMode": true
+  },
+  "4004042": {
+    "Id": 4004042,
+    "Name": "【脚本buff】暗系主控角色拥有「敬畏」时，暗系仆从造成伤害时为目标附加：受到暗系仆从伤害提升<color=#ec6d21>{6}</color>，持续{7}秒。",
+    "Sort": 1,
+    "Effects": [
+      4004042
+    ],
+    "Time": 40000,
+    "LaminatedNum": 1,
+    "Num": 1,
+    "TimeSuperposition": 2,
+    "Timing": 1,
+    "ReplaceType": true,
+    "ReplaceMode": true
+  },
+  "4004043": {
+    "Id": 4004043,
+    "Name": "【脚本buff】暗系主控角色拥有「敬畏」时，暗系仆从造成伤害时为目标附加：受到暗系仆从伤害提升<color=#ec6d21>{6}</color>，持续{7}秒。",
+    "Sort": 1,
+    "Effects": [
+      4004043
+    ],
+    "Time": 40000,
+    "LaminatedNum": 1,
+    "Num": 1,
+    "TimeSuperposition": 2,
+    "Timing": 1,
+    "ReplaceType": true,
+    "ReplaceMode": true
+  },
+  "4004044": {
+    "Id": 4004044,
+    "Name": "【脚本buff】暗系主控角色拥有「敬畏」时，暗系仆从造成伤害时为目标附加：受到暗系仆从伤害提升<color=#ec6d21>{6}</color>，持续{7}秒。",
+    "Sort": 1,
+    "Effects": [
+      4004044
+    ],
+    "Time": 40000,
+    "LaminatedNum": 1,
+    "Num": 1,
+    "TimeSuperposition": 2,
+    "Timing": 1,
+    "ReplaceType": true,
+    "ReplaceMode": true
+  },
+  "4004045": {
+    "Id": 4004045,
+    "Name": "【脚本buff】暗系主控角色拥有「敬畏」时，暗系仆从造成伤害时为目标附加：受到暗系仆从伤害提升<color=#ec6d21>{6}</color>，持续{7}秒。",
+    "Sort": 1,
+    "Effects": [
+      4004045
+    ],
+    "Time": 40000,
+    "LaminatedNum": 1,
+    "Num": 1,
+    "TimeSuperposition": 2,
+    "Timing": 1,
+    "ReplaceType": true,
+    "ReplaceMode": true
+  },
+  "4004046": {
+    "Id": 4004046,
+    "Name": "【脚本buff】暗系主控角色拥有「敬畏」时，暗系仆从造成伤害时为目标附加：受到暗系仆从伤害提升<color=#ec6d21>{6}</color>，持续{7}秒。",
+    "Sort": 1,
+    "Effects": [
+      4004046
+    ],
+    "Time": 40000,
+    "LaminatedNum": 1,
+    "Num": 1,
+    "TimeSuperposition": 2,
+    "Timing": 1,
+    "ReplaceType": true,
+    "ReplaceMode": true
+  },
+  "4004101": {
+    "Id": 4004101,
+    "Name": "【脚本buff】暗系主控角色拥有「敬畏」时，队伍中暗系角色绝招伤害提升<color=#ec6d21>{1}</color>。",
+    "Sort": 1,
+    "Effects": [
+      4004101
+    ],
+    "Time": -10000,
+    "LaminatedNum": 1,
+    "Num": 1,
+    "TimeSuperposition": 2,
+    "Timing": 1,
+    "ReplaceType": true,
+    "ReplaceMode": true
+  },
+  "4004102": {
+    "Id": 4004102,
+    "Name": "【脚本buff】暗系主控角色拥有「敬畏」时，队伍中暗系角色绝招伤害提升<color=#ec6d21>{1}</color>。",
+    "Sort": 1,
+    "Effects": [
+      4004102
+    ],
+    "Time": -10000,
+    "LaminatedNum": 1,
+    "Num": 1,
+    "TimeSuperposition": 2,
+    "Timing": 1,
+    "ReplaceType": true,
+    "ReplaceMode": true
+  },
+  "4004103": {
+    "Id": 4004103,
+    "Name": "【脚本buff】暗系主控角色拥有「敬畏」时，队伍中暗系角色绝招伤害提升<color=#ec6d21>{1}</color>。",
+    "Sort": 1,
+    "Effects": [
+      4004103
+    ],
+    "Time": -10000,
+    "LaminatedNum": 1,
+    "Num": 1,
+    "TimeSuperposition": 2,
+    "Timing": 1,
+    "ReplaceType": true,
+    "ReplaceMode": true
+  },
+  "4004104": {
+    "Id": 4004104,
+    "Name": "【脚本buff】暗系主控角色拥有「敬畏」时，队伍中暗系角色绝招伤害提升<color=#ec6d21>{1}</color>。",
+    "Sort": 1,
+    "Effects": [
+      4004104
+    ],
+    "Time": -10000,
+    "LaminatedNum": 1,
+    "Num": 1,
+    "TimeSuperposition": 2,
+    "Timing": 1,
+    "ReplaceType": true,
+    "ReplaceMode": true
+  },
+  "4004105": {
+    "Id": 4004105,
+    "Name": "【脚本buff】暗系主控角色拥有「敬畏」时，队伍中暗系角色绝招伤害提升<color=#ec6d21>{1}</color>。",
+    "Sort": 1,
+    "Effects": [
+      4004105
+    ],
+    "Time": -10000,
+    "LaminatedNum": 1,
+    "Num": 1,
+    "TimeSuperposition": 2,
+    "Timing": 1,
+    "ReplaceType": true,
+    "ReplaceMode": true
+  },
+  "4004201": {
+    "Id": 4004201,
+    "Name": "【脚本buff】「敬畏」获得额外效果：每层使技能伤害提升<color=#ec6d21>{1}</color>。",
+    "Sort": 1,
+    "Effects": [
+      4004201
+    ],
+    "Time": -10000,
+    "LaminatedNum": 4,
+    "Num": 1,
+    "TimeSuperposition": 2,
+    "Timing": 1,
+    "ReplaceType": true,
+    "ReplaceMode": true
+  },
+  "4004202": {
+    "Id": 4004202,
+    "Name": "【脚本buff】「敬畏」获得额外效果：每层使技能伤害提升<color=#ec6d21>{1}</color>。",
+    "Sort": 1,
+    "Effects": [
+      4004202
+    ],
+    "Time": -10000,
+    "LaminatedNum": 4,
+    "Num": 1,
+    "TimeSuperposition": 2,
+    "Timing": 1,
+    "ReplaceType": true,
+    "ReplaceMode": true
+  },
+  "4004203": {
+    "Id": 4004203,
+    "Name": "【脚本buff】「敬畏」获得额外效果：每层使技能伤害提升<color=#ec6d21>{1}</color>。",
+    "Sort": 1,
+    "Effects": [
+      4004203
+    ],
+    "Time": -10000,
+    "LaminatedNum": 4,
+    "Num": 1,
+    "TimeSuperposition": 2,
+    "Timing": 1,
+    "ReplaceType": true,
+    "ReplaceMode": true
+  },
+  "4004204": {
+    "Id": 4004204,
+    "Name": "【脚本buff】「敬畏」获得额外效果：每层使技能伤害提升<color=#ec6d21>{1}</color>。",
+    "Sort": 1,
+    "Effects": [
+      4004204
+    ],
+    "Time": -10000,
+    "LaminatedNum": 4,
+    "Num": 1,
+    "TimeSuperposition": 2,
+    "Timing": 1,
+    "ReplaceType": true,
+    "ReplaceMode": true
+  },
+  "4004205": {
+    "Id": 4004205,
+    "Name": "【脚本buff】「敬畏」获得额外效果：每层使技能伤害提升<color=#ec6d21>{1}</color>。",
+    "Sort": 1,
+    "Effects": [
+      4004205
+    ],
+    "Time": -10000,
+    "LaminatedNum": 4,
+    "Num": 1,
+    "TimeSuperposition": 2,
+    "Timing": 1,
+    "ReplaceType": true,
+    "ReplaceMode": true
+  },
+  "4043021": {
+    "Id": 4043021,
+    "Name": "【脚本buff】暗系主控角色召唤仆从时，该仆从的仆从伤害提升<color=#ec6d21>{2}</color>，持续{3}秒。",
+    "Sort": 1,
+    "Effects": [
+      4043021
+    ],
+    "Time": 100000,
+    "LaminatedNum": 1,
+    "Num": 1,
+    "TimeSuperposition": 2,
+    "Timing": 1,
+    "ReplaceType": true,
+    "ReplaceMode": true
+  },
+  "4043022": {
+    "Id": 4043022,
+    "Name": "【脚本buff】暗系主控角色召唤仆从时，该仆从的仆从伤害提升<color=#ec6d21>{2}</color>，持续{3}秒。",
+    "Sort": 1,
+    "Effects": [
+      4043022
+    ],
+    "Time": 100000,
+    "LaminatedNum": 1,
+    "Num": 1,
+    "TimeSuperposition": 2,
+    "Timing": 1,
+    "ReplaceType": true,
+    "ReplaceMode": true
+  },
+  "4043023": {
+    "Id": 4043023,
+    "Name": "【脚本buff】暗系主控角色召唤仆从时，该仆从的仆从伤害提升<color=#ec6d21>{2}</color>，持续{3}秒。",
+    "Sort": 1,
+    "Effects": [
+      4043023
+    ],
+    "Time": 100000,
+    "LaminatedNum": 1,
+    "Num": 1,
+    "TimeSuperposition": 2,
+    "Timing": 1,
+    "ReplaceType": true,
+    "ReplaceMode": true
+  },
+  "4043024": {
+    "Id": 4043024,
+    "Name": "【脚本buff】暗系主控角色召唤仆从时，该仆从的仆从伤害提升<color=#ec6d21>{2}</color>，持续{3}秒。",
+    "Sort": 1,
+    "Effects": [
+      4043024
+    ],
+    "Time": 100000,
+    "LaminatedNum": 1,
+    "Num": 1,
+    "TimeSuperposition": 2,
+    "Timing": 1,
+    "ReplaceType": true,
+    "ReplaceMode": true
+  },
+  "4043025": {
+    "Id": 4043025,
+    "Name": "【脚本buff】暗系主控角色召唤仆从时，该仆从的仆从伤害提升<color=#ec6d21>{2}</color>，持续{3}秒。",
+    "Sort": 1,
+    "Effects": [
+      4043025
+    ],
+    "Time": 100000,
+    "LaminatedNum": 1,
+    "Num": 1,
+    "TimeSuperposition": 2,
+    "Timing": 1,
+    "ReplaceType": true,
+    "ReplaceMode": true
+  },
+  "4043026": {
+    "Id": 4043026,
+    "Name": "【脚本buff】暗系主控角色召唤仆从时，该仆从的仆从伤害提升<color=#ec6d21>{2}</color>，持续{3}秒。",
+    "Sort": 1,
+    "Effects": [
+      4043026
+    ],
+    "Time": 100000,
+    "LaminatedNum": 1,
+    "Num": 1,
+    "TimeSuperposition": 2,
+    "Timing": 1,
+    "ReplaceType": true,
+    "ReplaceMode": true
+  },
+  "4043101": {
+    "Id": 4043101,
+    "Name": "【脚本buff】任意暗系角色触发印记造成【暗灼】效果时，其在场仆从的仆从伤害提升<color=#ec6d21>{1}</color>，持续{2}秒。",
+    "Sort": 1,
+    "Effects": [
+      4043101
+    ],
+    "Time": 40000,
+    "LaminatedNum": 1,
+    "Num": 1,
+    "TimeSuperposition": 2,
+    "Timing": 1,
+    "ReplaceType": true,
+    "ReplaceMode": true
+  },
+  "4043102": {
+    "Id": 4043102,
+    "Name": "【脚本buff】任意暗系角色触发印记造成【暗灼】效果时，其在场仆从的仆从伤害提升<color=#ec6d21>{1}</color>，持续{2}秒。",
+    "Sort": 1,
+    "Effects": [
+      4043102
+    ],
+    "Time": 40000,
+    "LaminatedNum": 1,
+    "Num": 1,
+    "TimeSuperposition": 2,
+    "Timing": 1,
+    "ReplaceType": true,
+    "ReplaceMode": true
+  },
+  "4043103": {
+    "Id": 4043103,
+    "Name": "【脚本buff】任意暗系角色触发印记造成【暗灼】效果时，其在场仆从的仆从伤害提升<color=#ec6d21>{1}</color>，持续{2}秒。",
+    "Sort": 1,
+    "Effects": [
+      4043103
+    ],
+    "Time": 40000,
+    "LaminatedNum": 1,
+    "Num": 1,
+    "TimeSuperposition": 2,
+    "Timing": 1,
+    "ReplaceType": true,
+    "ReplaceMode": true
+  },
+  "4043104": {
+    "Id": 4043104,
+    "Name": "【脚本buff】任意暗系角色触发印记造成【暗灼】效果时，其在场仆从的仆从伤害提升<color=#ec6d21>{1}</color>，持续{2}秒。",
+    "Sort": 1,
+    "Effects": [
+      4043104
+    ],
+    "Time": 40000,
+    "LaminatedNum": 1,
+    "Num": 1,
+    "TimeSuperposition": 2,
+    "Timing": 1,
+    "ReplaceType": true,
+    "ReplaceMode": true
+  },
+  "4043105": {
+    "Id": 4043105,
+    "Name": "【脚本buff】任意暗系角色触发印记造成【暗灼】效果时，其在场仆从的仆从伤害提升<color=#ec6d21>{1}</color>，持续{2}秒。",
+    "Sort": 1,
+    "Effects": [
+      4043105
+    ],
+    "Time": 40000,
     "LaminatedNum": 1,
     "Num": 1,
     "TimeSuperposition": 2,

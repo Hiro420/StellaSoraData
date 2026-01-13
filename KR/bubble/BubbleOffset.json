@@ -56,10 +56,18 @@
         "y": 88
     },
     "11001": {
+        "cgLeft": false,
+        "cgX": -5,
+        "cgY": 0,
+        "left": true,
+        "x": 0,
+        "y": 0
+    },
+    "11002": {
         "cgLeft": true,
         "cgX": 0,
         "cgY": 0,
-        "left": true,
+        "left": false,
         "x": 0,
         "y": 0
     },

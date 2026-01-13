@@ -53,5 +53,21 @@
     "Theme": 110,
     "BGM": "roguelike_combatLamp_setState",
     "LeaveTriggerEvent": "amb_roguelike_all_stop"
+  },
+  "1001007": {
+    "Id": 1001007,
+    "SceneName": "Levels/Roguelike/Roguelike_3/Roguelike_3_Boss_003",
+    "ConfigPrefabName": "Roguelike_3_Boss_ChuShi_BossRush_2",
+    "Theme": 107,
+    "BGM": "roguelike_combatChuZi_setState",
+    "LeaveTriggerEvent": "amb_city_all_stop"
+  },
+  "1001008": {
+    "Id": 1001008,
+    "SceneName": "Levels/Main/Company/Company_Main_5_2",
+    "ConfigPrefabName": "ScoreBoss_FengNiao",
+    "Theme": 12,
+    "BGM": "fengNiao_realChallenge_setState",
+    "LeaveTriggerEvent": "amb_company_all_stop"
   }
 }

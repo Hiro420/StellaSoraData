@@ -14640,11 +14640,9 @@
     "IsEffective": true,
     "SpBg": "Icon/Potential/Sp_Potential_bg_01",
     "SpFace": "Icon/Potential/Sp_Potential_char_110_01",
-    "EffectId1": 11001011,
     "BriefDesc": "Potential.511001.1",
     "Desc": "Potential.511001.2",
-    "Param1": "EffectValue,NoLevel,11001011,EffectTypeParam1,HdPct",
-    "Param2": "EffectValue,NoLevel,11001011,EffectTypeFirstSubtype,Enum,EAT"
+    "Param1": "HitDamage,DamageNum,110300005"
   },
   "511002": {
     "Id": 511002,
@@ -14693,8 +14691,7 @@
     "SpFace": "Icon/Potential/Sp_Potential_char_110_03",
     "BriefDesc": "Potential.511003.1",
     "Desc": "Potential.511003.2",
-    "Param1": "EffectValue,NoLevel,11003011,EffectTypeParam1,HdPct",
-    "Param2": "EffectValue,NoLevel,11003011,EffectTypeFirstSubtype,Enum,EAT"
+    "Param1": "ScriptParameterValue,NoLevel,11030011,CommonData,10K"
   },
   "511004": {
     "Id": 511004,
@@ -14717,8 +14714,8 @@
     "SpFace": "Icon/Potential/Sp_Potential_char_110_04",
     "BriefDesc": "Potential.511004.1",
     "Desc": "Potential.511004.2",
-    "Param1": "EffectValue,NoLevel,11004011,EffectTypeParam1,HdPct",
-    "Param2": "EffectValue,NoLevel,11004011,EffectTypeFirstSubtype,Enum,EAT"
+    "Param1": "HitDamage,DamageNum,110900004",
+    "Param2": "ScriptParameterValue,NoLevel,11040011,CommonData,10K"
   },
   "511005": {
     "Id": 511005,
@@ -14744,7 +14741,10 @@
     "Corner": 1,
     "BriefDesc": "Potential.511005.1",
     "Desc": "Potential.511005.2",
-    "Param1": "HitDamage,DamageNum,110300003"
+    "Param1": "HitDamage,DamageNum,110300003",
+    "Param2": "ScriptParameterValue,NoLevel,11005011,CommonData,10KPct",
+    "Param3": "ScriptParameterValue,NoLevel,11005012,CommonData,10KPct",
+    "Param4": "ScriptParameterValue,NoLevel,11005014,CommonData,10K"
   },
   "511006": {
     "Id": 511006,
@@ -14827,7 +14827,9 @@
     "Corner": 1,
     "BriefDesc": "Potential.511008.1",
     "Desc": "Potential.511008.2",
-    "Param1": "HitDamage,DamageNum,110900004"
+    "Param1": "ScriptParameterValue,NoLevel,11080011,CommonData,10K",
+    "Param2": "Effect,LevelUp,11050801,EffectTypeFirstSubtype,Enum,EAT",
+    "Param3": "Effect,LevelUp,11050801,EffectTypeParam1,HdPct"
   },
   "511009": {
     "Id": 511009,
@@ -15032,7 +15034,8 @@
     "SpBg": "Icon/Potential/Sp_Potential_bg_03",
     "SpFace": "Icon/Potential/Sp_Potential_char_110_03",
     "BriefDesc": "Potential.511023.1",
-    "Desc": "Potential.511023.2"
+    "Desc": "Potential.511023.2",
+    "Param1": "ScriptParameterValue,NoLevel,11230011,CommonData,10K"
   },
   "511024": {
     "Id": 511024,
@@ -15356,11 +15359,11 @@
     "EffectGroupId": 11042,
     "IsEffective": true,
     "Corner": 2,
-    "EffectId1": 11042001,
     "BriefDesc": "Potential.511042.1",
     "Desc": "Potential.511042.2",
     "Param1": "Effect,LevelUp,11042001,EffectTypeFirstSubtype,Enum,EAT",
-    "Param2": "Effect,LevelUp,11042001,EffectTypeParam1,HdPct"
+    "Param2": "Effect,LevelUp,11042001,EffectTypeParam1,HdPct",
+    "Param3": "BuffValue,NoLevel,11042011,Time,10K"
   },
   "511043": {
     "Id": 511043,

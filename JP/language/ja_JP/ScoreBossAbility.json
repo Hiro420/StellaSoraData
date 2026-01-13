@@ -12,5 +12,9 @@
   "ScoreBossAbility.100005.1": "虚実変転",
   "ScoreBossAbility.100005.2": "首領は「真影状態」と「幻滅状態」を<color=#ec6d21>15秒</color>ごとに切り替える。\n「幻滅状態」中、首領が受ける従者からのダメージが<color=#ec6d21>&Param1&</color>増加する。印の効果が1回発動するたびに、現在の状態の持続時間が<color=#ec6d21>&Param2&</color>秒延長される。この効果は1秒ごとに1回まで発動できる。\n「真影状態」中、首領が受けるスキルダメージが<color=#ec6d21>&Param3&</color>増加する。従者が首領にダメージを与えるたび、現在の状態の継続時間が<color=#ec6d21>&Param4&</color>秒延長される。この効果は1秒ごとに1回まで発動できる。",
   "ScoreBossAbility.100006.1": "引雷招来",
-  "ScoreBossAbility.100006.2": "首領が「落雷」を保有している間、自身の与えるダメージが<color=#ec6d21>&Param4&</color>増加し、3秒ごとに追加で4回小さい範囲にダメージを与える。\n味方が<color=#ec6d21>&Param1&</color>秒以内に、支援巡遊者のスキルで首領に累計<color=#ec6d21>&Param2&</color>回ダメージを与えると、「落雷」は15秒間無効化され、その間首領が支援巡遊者から受けるスキルダメージが<color=#ec6d21>&Param3&</color>増加する。"
+  "ScoreBossAbility.100006.2": "首領が「落雷」を保有している間、自身の与えるダメージが<color=#ec6d21>&Param4&</color>増加し、3秒ごとに追加で4回小さい範囲にダメージを与える。\n味方が<color=#ec6d21>&Param1&</color>秒以内に、支援巡遊者のスキルで首領に累計<color=#ec6d21>&Param2&</color>回ダメージを与えると、「落雷」は15秒間無効化され、その間首領が支援巡遊者から受けるスキルダメージが<color=#ec6d21>&Param3&</color>増加する。",
+  "ScoreBossAbility.100007.1": "勢いに乗って",
+  "ScoreBossAbility.100007.2": "首領の与えるダメージが<color=#ec6d21>&Param1&</color>増加する。フィールドに味方の従者が1体存在するごとに、首領の与えるダメージが<color=#ec6d21>&Param2&</color>減少し、さらに被ダメージが<color=#ec6d21>&Param3&</color>増加する。この効果は3回まで重複でき、従者が消滅した後も<color=#ec6d21>&Param4&</color>秒間持続する。",
+  "ScoreBossAbility.100008.1": "専念",
+  "ScoreBossAbility.100008.2": "首領は<color=#ec6d21>&Param1&</color>回ダメージを受けるたびに「専念」を1獲得し、自身の与えるダメージが<color=#ec6d21>&Param2&</color>上昇する。\n<color=#ec6d21>&Param3&</color>秒以内に印を<color=#ec6d21>&Param4&</color>回発動すると、「専念」をすべて解除できる。解除後<color=#ec6d21>&Param5&</color>秒間、首領が支援巡遊者から受けるスキルダメージが<color=#ec6d21>&Param6&</color>上昇する。この効果は<color=#ec6d21>&Param7&</color>秒ごとに1回まで発動できる。再度発動すると持続時間がリセットされる。"
 }

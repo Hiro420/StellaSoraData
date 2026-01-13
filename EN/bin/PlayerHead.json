@@ -40,6 +40,15 @@
     "TrQty": 20000,
     "Icon": "Icon/PlayerHead/playerhead_130003_XXL"
   },
+  "130004": {
+    "Id": 130004,
+    "HeadType": 4,
+    "Desc": "PlayerHead.130004.1",
+    "IsShow": true,
+    "TrId": 1,
+    "TrQty": 20000,
+    "Icon": "Icon/PlayerHead/playerhead_130004_XXL"
+  },
   "10301": {
     "Id": 10301,
     "HeadType": 3,
@@ -57,6 +66,15 @@
     "UnlockChar": 103,
     "UnlockSkin": 10302,
     "Icon": "Icon/Head/head_10302_XXL"
+  },
+  "10303": {
+    "Id": 10303,
+    "HeadType": 3,
+    "Desc": "PlayerHead.10303.1",
+    "IsShow": true,
+    "UnlockChar": 103,
+    "UnlockSkin": 10303,
+    "Icon": "Icon/Head/head_10303_XXL"
   },
   "10601": {
     "Id": 10601,
@@ -534,6 +552,15 @@
     "UnlockChar": 134,
     "UnlockSkin": 13402,
     "Icon": "Icon/Head/head_13402_XXL"
+  },
+  "13403": {
+    "Id": 13403,
+    "HeadType": 3,
+    "Desc": "PlayerHead.13403.1",
+    "IsShow": true,
+    "UnlockChar": 134,
+    "UnlockSkin": 13403,
+    "Icon": "Icon/Head/head_13403_XXL"
   },
   "13501": {
     "Id": 13501,

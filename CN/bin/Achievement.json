@@ -10135,5 +10135,22 @@
     "Qty1": 1,
     "Tid2": 2,
     "Qty2": 10
+  },
+  "629": {
+    "Id": 629,
+    "AchieveId": 10506,
+    "Title": "Achievement.629.1",
+    "Desc": "Achievement.629.2",
+    "Rarity": 2,
+    "Type": 1,
+    "CompleteCond": 63,
+    "AimNumShow": 1,
+    "Prerequisites": [
+      628
+    ],
+    "Tid1": 111007,
+    "Qty1": 1,
+    "Tid2": 2,
+    "Qty2": 10
   }
 }

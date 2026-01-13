@@ -3027,6 +3027,10 @@
     "Id": "TowerDefense_Tutorial_Tips_2_1",
     "Text": "UIText.TowerDefense_Tutorial_Tips_2_1.1"
   },
+  "TowerDefense_Quest_ReceiveNone": {
+    "Id": "TowerDefense_Quest_ReceiveNone",
+    "Text": "UIText.TowerDefense_Quest_ReceiveNone.1"
+  },
   "Lv": {
     "Id": "Lv",
     "Text": "UIText.Lv.1"
@@ -13482,5 +13486,41 @@
   "TravelerDuel_Affixes_Title": {
     "Id": "TravelerDuel_Affixes_Title",
     "Text": "UIText.TravelerDuel_Affixes_Title.1"
+  },
+  "Gacha_Cover_CharUpTitle": {
+    "Id": "Gacha_Cover_CharUpTitle",
+    "Text": "UIText.Gacha_Cover_CharUpTitle.1"
+  },
+  "Gacha_Cover_DiscUpTitle": {
+    "Id": "Gacha_Cover_DiscUpTitle",
+    "Text": "UIText.Gacha_Cover_DiscUpTitle.1"
+  },
+  "Gacha_Cover_UpItemTitle": {
+    "Id": "Gacha_Cover_UpItemTitle",
+    "Text": "UIText.Gacha_Cover_UpItemTitle.1"
+  },
+  "Gacha_Cover_GoToTrial": {
+    "Id": "Gacha_Cover_GoToTrial",
+    "Text": "UIText.Gacha_Cover_GoToTrial.1"
+  },
+  "Mainline_Open_Time_Min": {
+    "Id": "Mainline_Open_Time_Min",
+    "Text": "UIText.Mainline_Open_Time_Min.1"
+  },
+  "Mainline_Open_Time_Sec": {
+    "Id": "Mainline_Open_Time_Sec",
+    "Text": "UIText.Mainline_Open_Time_Sec.1"
+  },
+  "Mainline_Open_Time_Day": {
+    "Id": "Mainline_Open_Time_Day",
+    "Text": "UIText.Mainline_Open_Time_Day.1"
+  },
+  "Mainline_Open_Time_Hour": {
+    "Id": "Mainline_Open_Time_Hour",
+    "Text": "UIText.Mainline_Open_Time_Hour.1"
+  },
+  "MainLine_Clue_Notice": {
+    "Id": "MainLine_Clue_Notice",
+    "Text": "UIText.MainLine_Clue_Notice.1"
   }
 }

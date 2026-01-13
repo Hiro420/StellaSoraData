@@ -1,4 +1,14 @@
 {
+  "14": {
+    "Id": 14,
+    "BannerType": 9,
+    "bannerName": "banner_l_17",
+    "Param1": "2026-01-28T10:00:00+08:00",
+    "Param2": "2026-02-24T11:00:00+08:00",
+    "Param3": "https://yostar.store/",
+    "Param4": "windows,android,ios",
+    "Param5": "0,1,1"
+  },
   "2": {
     "Id": 2,
     "BannerType": 4,
@@ -110,6 +120,22 @@
     "Param2": "2026-01-13T10:59:59+08:00",
     "Param3": "skin.98.03"
   },
+  "19": {
+    "Id": 19,
+    "BannerType": 5,
+    "bannerName": "banner_pack_06",
+    "Param1": "2026-01-13T12:00:00+08:00",
+    "Param2": "2026-02-03T10:59:59+08:00",
+    "Param3": "73"
+  },
+  "20": {
+    "Id": 20,
+    "BannerType": 6,
+    "bannerName": "banner_skin_13403",
+    "Param1": "2026-01-13T12:00:00+08:00",
+    "Param2": "2026-02-03T10:59:59+08:00",
+    "Param3": "skin.98.04"
+  },
   "21": {
     "Id": 21,
     "BannerType": 8,
@@ -118,5 +144,23 @@
     "Param2": "2026-02-01T03:00:00+08:00",
     "Param3": "63",
     "Param4": "20"
+  },
+  "22": {
+    "Id": 22,
+    "BannerType": 8,
+    "bannerName": "banner_bossrush_4",
+    "Param1": "2026-02-01T04:00:00+08:00",
+    "Param2": "2026-03-01T03:00:00+08:00",
+    "Param3": "63",
+    "Param4": "20"
+  },
+  "23": {
+    "Id": 23,
+    "BannerType": 8,
+    "bannerName": "banner_vampire_5",
+    "Param1": "2026-01-13T12:00:00+08:00",
+    "Param2": "2026-02-03T10:59:59+08:00",
+    "Param3": "61",
+    "Param4": "15"
   }
 }

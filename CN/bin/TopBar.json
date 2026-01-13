@@ -585,9 +585,18 @@
     "Title": "TopBar.MiningGame_400002.1",
     "EntryId": 400101
   },
+  "MiningGame_400003": {
+    "Id": "MiningGame_400003",
+    "Title": "TopBar.MiningGame_400003.1",
+    "EntryId": 400101
+  },
   "MiningGameGuidePanel_400002": {
     "Id": "MiningGameGuidePanel_400002",
     "Title": "TopBar.MiningGameGuidePanel_400002.1"
+  },
+  "MiningGameGuidePanel_400003": {
+    "Id": "MiningGameGuidePanel_400003",
+    "Title": "TopBar.MiningGameGuidePanel_400003.1"
   },
   "Shop_30101": {
     "Id": "Shop_30101",
@@ -625,6 +634,14 @@
   "StarTowerBuildDetailPreview": {
     "Id": "StarTowerBuildDetailPreview",
     "Title": "TopBar.StarTowerBuildDetailPreview.1"
+  },
+  "Main_10103": {
+    "Id": "Main_10103",
+    "Title": "TopBar.Main_10103.1",
+    "Coin": true,
+    "CoinIds": [
+      73105
+    ]
   },
   "Shop_10103": {
     "Id": "Shop_10103",

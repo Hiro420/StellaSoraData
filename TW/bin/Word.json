@@ -731,7 +731,9 @@
     "Desc": "Word.4002.2",
     "Color": "6A90EB",
     "Icon": "0",
-    "Param1": "Character,NoLevel,110,Name,Text"
+    "Param1": "Character,NoLevel,110,Name,Text",
+    "Param2": "ScriptParameterValue,NoLevel,11000012,CommonData,10K",
+    "Param3": "ScriptParameterValue,NoLevel,11000011,CommonData,10K"
   },
   "4003": {
     "Id": 4003,

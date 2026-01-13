@@ -303,6 +303,22 @@
     "InteractiveAction": true,
     "InteractiveActionId": 10003
   },
+  "811001": {
+    "Id": 811001,
+    "Name": "翡冷翠",
+    "Desc": "常规制服",
+    "IsShow": true,
+    "CharId": 8110,
+    "Type": 1,
+    "SourceDesc": 1,
+    "ModelScale": 10000,
+    "Model": "Actor/Character/11001/11001_Actor",
+    "Portrait": "Actor2D/Character/11001/11001_a.spriteatlas",
+    "Offset": "Actor2D/Character/11001/11001.asset",
+    "L2D": "Actor2D/Character/11001/11001_L.prefab",
+    "InteractiveAction": true,
+    "InteractiveActionId": 10003
+  },
   "815801": {
     "Id": 815801,
     "Name": "圣诞菈露",

@@ -482,5 +482,156 @@
     "Theme": 417,
     "BGM": "mode_christmas_combatTalou_setState",
     "LeaveTriggerEvent": "amb_christmas_all_stop"
+  },
+  "300501": {
+    "Id": 300501,
+    "MonsterLv": 1,
+    "SceneName": "Levels/StoryActivity/StoryActivity_5/StoryActivity_5_015_A_02",
+    "ConfigPrefabName": "StoryActivity_015_A_N1",
+    "Theme": 421,
+    "BGM": "company_explore_setState",
+    "LeaveTriggerEvent": "amb_company_all_stop"
+  },
+  "300502": {
+    "Id": 300502,
+    "MonsterLv": 2,
+    "SceneName": "Levels/StoryActivity/StoryActivity_5/StoryActivity_5_008_A_02",
+    "ConfigPrefabName": "StoryActivity_008_A_N2",
+    "Theme": 421,
+    "BGM": "company_explore_setState",
+    "LeaveTriggerEvent": "amb_company_all_stop"
+  },
+  "300503": {
+    "Id": 300503,
+    "MonsterLv": 3,
+    "SceneName": "Levels/StoryActivity/StoryActivity_5/StoryActivity_5_006_B_02",
+    "ConfigPrefabName": "StoryActivity_006_B_N3",
+    "Theme": 421,
+    "BGM": "company_explore_setState",
+    "LeaveTriggerEvent": "amb_company_all_stop"
+  },
+  "300504": {
+    "Id": 300504,
+    "MonsterLv": 4,
+    "SceneName": "Levels/StoryActivity/StoryActivity_5/StoryActivity_5_011_B_01",
+    "ConfigPrefabName": "StoryActivity_011_B_N4",
+    "Theme": 421,
+    "BGM": "company_explore_setState",
+    "LeaveTriggerEvent": "amb_company_all_stop"
+  },
+  "300505": {
+    "Id": 300505,
+    "MonsterLv": 5,
+    "SceneName": "Levels/StoryActivity/StoryActivity_5/StoryActivity_5_008_A_01_Mir",
+    "ConfigPrefabName": "StoryActivity_008_A_N5_Mir",
+    "Mir": true,
+    "Theme": 421,
+    "BGM": "company_explore_setState",
+    "LeaveTriggerEvent": "amb_company_all_stop"
+  },
+  "300506": {
+    "Id": 300506,
+    "MonsterLv": 6,
+    "SceneName": "Levels/StoryActivity/StoryActivity_5/StoryActivity_5_006_B_01_Mir",
+    "ConfigPrefabName": "StoryActivity_006_B_N6_Mir",
+    "Mir": true,
+    "Theme": 421,
+    "BGM": "company_explore_setState",
+    "LeaveTriggerEvent": "amb_company_all_stop"
+  },
+  "300507": {
+    "Id": 300507,
+    "MonsterLv": 7,
+    "SceneName": "Levels/StoryActivity/StoryActivity_5/StoryActivity_5_015_A_01_Mir",
+    "ConfigPrefabName": "StoryActivity_015_A_N7_Mir",
+    "Mir": true,
+    "Theme": 421,
+    "BGM": "company_explore_setState",
+    "LeaveTriggerEvent": "amb_company_all_stop"
+  },
+  "300508": {
+    "Id": 300508,
+    "MonsterLv": 8,
+    "SceneName": "Levels/Main/Company/Company_Main_6_2",
+    "ConfigPrefabName": "StoryActivity_Chuansong_N8",
+    "Theme": 14,
+    "BGM": "fengCao_explore_setState",
+    "LeaveTriggerEvent": "amb_company_all_stop"
+  },
+  "300509": {
+    "Id": 300509,
+    "MonsterLv": 9,
+    "SceneName": "Levels/StoryActivity/StoryActivity_5/StoryActivity_5_015_A_02_Mir",
+    "ConfigPrefabName": "StoryActivity_015_A_H1_Mir",
+    "Mir": true,
+    "Theme": 421,
+    "BGM": "company_explore_setState",
+    "LeaveTriggerEvent": "amb_company_all_stop"
+  },
+  "300510": {
+    "Id": 300510,
+    "MonsterLv": 10,
+    "SceneName": "Levels/StoryActivity/StoryActivity_5/StoryActivity_5_011_B_01_Mir",
+    "ConfigPrefabName": "StoryActivity_011_B_H2_Mir",
+    "Mir": true,
+    "Theme": 421,
+    "BGM": "company_explore_setState",
+    "LeaveTriggerEvent": "amb_company_all_stop"
+  },
+  "300511": {
+    "Id": 300511,
+    "MonsterLv": 11,
+    "SceneName": "Levels/StoryActivity/StoryActivity_5/StoryActivity_5_008_A_01",
+    "ConfigPrefabName": "StoryActivity_008_A_H3",
+    "Theme": 421,
+    "BGM": "company_explore_setState",
+    "LeaveTriggerEvent": "amb_company_all_stop"
+  },
+  "300512": {
+    "Id": 300512,
+    "MonsterLv": 12,
+    "SceneName": "Levels/Main/Company/Company_Main_6_2",
+    "ConfigPrefabName": "StoryActivity_Chuansong_H4",
+    "Theme": 14,
+    "BGM": "fengCao_explore_setState",
+    "LeaveTriggerEvent": "amb_company_all_stop"
+  },
+  "300513": {
+    "Id": 300513,
+    "MonsterLv": 13,
+    "SceneName": "Levels/StoryActivity/StoryActivity_5/StoryActivity_5_015_A_02_Mir",
+    "ConfigPrefabName": "StoryActivity_015_A_C1_Mir",
+    "Mir": true,
+    "Theme": 421,
+    "BGM": "company_explore_setState",
+    "LeaveTriggerEvent": "amb_company_all_stop"
+  },
+  "300514": {
+    "Id": 300514,
+    "MonsterLv": 14,
+    "SceneName": "Levels/StoryActivity/StoryActivity_5/StoryActivity_5_011_B_01_Mir",
+    "ConfigPrefabName": "StoryActivity_011_B_C2_Mir",
+    "Mir": true,
+    "Theme": 421,
+    "BGM": "company_explore_setState",
+    "LeaveTriggerEvent": "amb_company_all_stop"
+  },
+  "300515": {
+    "Id": 300515,
+    "MonsterLv": 15,
+    "SceneName": "Levels/StoryActivity/StoryActivity_5/StoryActivity_5_008_A_01",
+    "ConfigPrefabName": "StoryActivity_008_A_C3",
+    "Theme": 421,
+    "BGM": "company_explore_setState",
+    "LeaveTriggerEvent": "amb_company_all_stop"
+  },
+  "300516": {
+    "Id": 300516,
+    "MonsterLv": 16,
+    "SceneName": "Levels/Main/Company/Company_Main_6_2",
+    "ConfigPrefabName": "StoryActivity_Chuansong_C4",
+    "Theme": 14,
+    "BGM": "fengCao_explore_setState",
+    "LeaveTriggerEvent": "amb_company_all_stop"
   }
 }

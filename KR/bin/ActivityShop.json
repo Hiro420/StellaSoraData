@@ -35,5 +35,18 @@
     "CurrencyItemId": 73104,
     "ExchangeItemId": 1,
     "Rate": 300.0
+  },
+  "1005": {
+    "Id": 1005,
+    "Name": "ActivityShop.1005.1",
+    "Sequence": 1,
+    "CurrencyItemId": 73105,
+    "ExchangeItemId": 1,
+    "Rate": 300.0,
+    "OtherExchangeItem1": [
+      120003,
+      1,
+      200000
+    ]
   }
 }

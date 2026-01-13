@@ -1773,5 +1773,543 @@
     "ThreeStarDesc": "ActivityLevelsLevel.2010304.5",
     "Desc": "ActivityLevelsLevel.2010304.2",
     "CompleteRewardPreview": "[[2,100,1],[73104,500,1],[1,500000,1]]"
+  },
+  "1030101": {
+    "Id": 1030101,
+    "ActivityId": 1010301,
+    "Name": "ActivityLevelsLevel.1030101.1",
+    "Type": 1,
+    "Difficulty": 1,
+    "EnergyConsume": 30,
+    "EnergyConsumeOnRetry": true,
+    "FloorId": 300501,
+    "PreviewMonsterGroupId": 300501,
+    "EET": [
+      7
+    ],
+    "RecommendBuildRank": 5,
+    "SuggestedPower": 10,
+    "StarConditionType": 3,
+    "OneStarCondition": [
+      120
+    ],
+    "TwoStarCondition": [
+      100
+    ],
+    "ThreeStarCondition": [
+      90
+    ],
+    "OneStarDesc": "ActivityLevelsLevel.1030101.3",
+    "TwoStarDesc": "ActivityLevelsLevel.1030101.4",
+    "ThreeStarDesc": "ActivityLevelsLevel.1030101.5",
+    "Desc": "ActivityLevelsLevel.1030101.2",
+    "CompleteRewardPreview": "[[2,100,1],[73105,500,1],[1,500000,1],[73105,500,0]]",
+    "ThreeStarSweep": true
+  },
+  "1030102": {
+    "Id": 1030102,
+    "ActivityId": 1010301,
+    "Name": "ActivityLevelsLevel.1030102.1",
+    "Type": 1,
+    "Difficulty": 2,
+    "EnergyConsume": 30,
+    "EnergyConsumeOnRetry": true,
+    "PreLevelId": 1030101,
+    "PreLevelStar": 1,
+    "FloorId": 300502,
+    "PreviewMonsterGroupId": 300502,
+    "EET": [
+      7
+    ],
+    "RecommendBuildRank": 6,
+    "SuggestedPower": 10,
+    "StarConditionType": 3,
+    "OneStarCondition": [
+      120
+    ],
+    "TwoStarCondition": [
+      100
+    ],
+    "ThreeStarCondition": [
+      90
+    ],
+    "OneStarDesc": "ActivityLevelsLevel.1030102.3",
+    "TwoStarDesc": "ActivityLevelsLevel.1030102.4",
+    "ThreeStarDesc": "ActivityLevelsLevel.1030102.5",
+    "Desc": "ActivityLevelsLevel.1030102.2",
+    "CompleteRewardPreview": "[[2,100,1],[73105,500,1],[32000,100,1],[73105,500,0]]",
+    "ThreeStarSweep": true
+  },
+  "1030103": {
+    "Id": 1030103,
+    "ActivityId": 1010301,
+    "Name": "ActivityLevelsLevel.1030103.1",
+    "Type": 1,
+    "Difficulty": 3,
+    "EnergyConsume": 30,
+    "EnergyConsumeOnRetry": true,
+    "PreLevelId": 1030102,
+    "PreLevelStar": 1,
+    "FloorId": 300503,
+    "PreviewMonsterGroupId": 300503,
+    "EET": [
+      7
+    ],
+    "RecommendBuildRank": 7,
+    "SuggestedPower": 15,
+    "StarConditionType": 3,
+    "OneStarCondition": [
+      120
+    ],
+    "TwoStarCondition": [
+      100
+    ],
+    "ThreeStarCondition": [
+      90
+    ],
+    "OneStarDesc": "ActivityLevelsLevel.1030103.3",
+    "TwoStarDesc": "ActivityLevelsLevel.1030103.4",
+    "ThreeStarDesc": "ActivityLevelsLevel.1030103.5",
+    "Desc": "ActivityLevelsLevel.1030103.2",
+    "CompleteRewardPreview": "[[2,100,1],[73105,500,1],[1,1000000,1],[73105,500,0]]",
+    "ThreeStarSweep": true
+  },
+  "1030104": {
+    "Id": 1030104,
+    "ActivityId": 1010301,
+    "Name": "ActivityLevelsLevel.1030104.1",
+    "Type": 1,
+    "Difficulty": 4,
+    "EnergyConsume": 30,
+    "EnergyConsumeOnRetry": true,
+    "PreLevelId": 1030103,
+    "PreLevelStar": 1,
+    "FloorId": 300504,
+    "PreviewMonsterGroupId": 300504,
+    "EET": [
+      7
+    ],
+    "RecommendBuildRank": 8,
+    "SuggestedPower": 15,
+    "StarConditionType": 3,
+    "OneStarCondition": [
+      120
+    ],
+    "TwoStarCondition": [
+      100
+    ],
+    "ThreeStarCondition": [
+      90
+    ],
+    "OneStarDesc": "ActivityLevelsLevel.1030104.3",
+    "TwoStarDesc": "ActivityLevelsLevel.1030104.4",
+    "ThreeStarDesc": "ActivityLevelsLevel.1030104.5",
+    "Desc": "ActivityLevelsLevel.1030104.2",
+    "CompleteRewardPreview": "[[2,100,1],[73105,500,1],[32000,100,1],[73105,500,0]]",
+    "ThreeStarSweep": true
+  },
+  "1030105": {
+    "Id": 1030105,
+    "ActivityId": 1010301,
+    "DayOpen": 1,
+    "Name": "ActivityLevelsLevel.1030105.1",
+    "Type": 1,
+    "Difficulty": 5,
+    "EnergyConsume": 30,
+    "EnergyConsumeOnRetry": true,
+    "PreLevelId": 1030104,
+    "PreLevelStar": 1,
+    "FloorId": 300505,
+    "PreviewMonsterGroupId": 300505,
+    "EET": [
+      7
+    ],
+    "RecommendBuildRank": 9,
+    "SuggestedPower": 20,
+    "StarConditionType": 3,
+    "OneStarCondition": [
+      120
+    ],
+    "TwoStarCondition": [
+      100
+    ],
+    "ThreeStarCondition": [
+      90
+    ],
+    "OneStarDesc": "ActivityLevelsLevel.1030105.3",
+    "TwoStarDesc": "ActivityLevelsLevel.1030105.4",
+    "ThreeStarDesc": "ActivityLevelsLevel.1030105.5",
+    "Desc": "ActivityLevelsLevel.1030105.2",
+    "CompleteRewardPreview": "[[2,100,1],[73105,500,1],[1,1200000,1],[73105,500,0]]",
+    "ThreeStarSweep": true
+  },
+  "1030106": {
+    "Id": 1030106,
+    "ActivityId": 1010301,
+    "DayOpen": 1,
+    "Name": "ActivityLevelsLevel.1030106.1",
+    "Type": 1,
+    "Difficulty": 6,
+    "EnergyConsume": 30,
+    "EnergyConsumeOnRetry": true,
+    "PreLevelId": 1030105,
+    "PreLevelStar": 1,
+    "FloorId": 300506,
+    "PreviewMonsterGroupId": 300506,
+    "EET": [
+      7
+    ],
+    "RecommendBuildRank": 10,
+    "SuggestedPower": 20,
+    "StarConditionType": 3,
+    "OneStarCondition": [
+      120
+    ],
+    "TwoStarCondition": [
+      100
+    ],
+    "ThreeStarCondition": [
+      90
+    ],
+    "OneStarDesc": "ActivityLevelsLevel.1030106.3",
+    "TwoStarDesc": "ActivityLevelsLevel.1030106.4",
+    "ThreeStarDesc": "ActivityLevelsLevel.1030106.5",
+    "Desc": "ActivityLevelsLevel.1030106.2",
+    "CompleteRewardPreview": "[[2,100,1],[73105,500,1],[32000,100,1],[73105,500,0]]",
+    "ThreeStarSweep": true
+  },
+  "1030107": {
+    "Id": 1030107,
+    "ActivityId": 1010301,
+    "DayOpen": 1,
+    "Name": "ActivityLevelsLevel.1030107.1",
+    "Type": 1,
+    "Difficulty": 7,
+    "EnergyConsume": 30,
+    "EnergyConsumeOnRetry": true,
+    "PreLevelId": 1030106,
+    "PreLevelStar": 1,
+    "FloorId": 300507,
+    "PreviewMonsterGroupId": 300507,
+    "EET": [
+      7
+    ],
+    "RecommendBuildRank": 11,
+    "SuggestedPower": 25,
+    "StarConditionType": 3,
+    "OneStarCondition": [
+      120
+    ],
+    "TwoStarCondition": [
+      100
+    ],
+    "ThreeStarCondition": [
+      90
+    ],
+    "OneStarDesc": "ActivityLevelsLevel.1030107.3",
+    "TwoStarDesc": "ActivityLevelsLevel.1030107.4",
+    "ThreeStarDesc": "ActivityLevelsLevel.1030107.5",
+    "Desc": "ActivityLevelsLevel.1030107.2",
+    "CompleteRewardPreview": "[[2,100,1],[73105,500,1],[1,2000000,1],[73105,500,0]]",
+    "ThreeStarSweep": true
+  },
+  "1030108": {
+    "Id": 1030108,
+    "ActivityId": 1010301,
+    "DayOpen": 1,
+    "Name": "ActivityLevelsLevel.1030108.1",
+    "Type": 1,
+    "Difficulty": 8,
+    "EnergyConsume": 30,
+    "EnergyConsumeOnRetry": true,
+    "PreLevelId": 1030107,
+    "PreLevelStar": 1,
+    "FloorId": 300508,
+    "PreviewMonsterGroupId": 300508,
+    "EET": [
+      7
+    ],
+    "RecommendBuildRank": 12,
+    "SuggestedPower": 30,
+    "StarConditionType": 3,
+    "OneStarCondition": [
+      150
+    ],
+    "TwoStarCondition": [
+      120
+    ],
+    "ThreeStarCondition": [
+      90
+    ],
+    "OneStarDesc": "ActivityLevelsLevel.1030108.3",
+    "TwoStarDesc": "ActivityLevelsLevel.1030108.4",
+    "ThreeStarDesc": "ActivityLevelsLevel.1030108.5",
+    "Desc": "ActivityLevelsLevel.1030108.2",
+    "CompleteRewardPreview": "[[2,200,1],[73105,800,1],[32000,200,1],[73105,500,0]]",
+    "ThreeStarSweep": true
+  },
+  "1030201": {
+    "Id": 1030201,
+    "ActivityId": 1010301,
+    "DayOpen": 6,
+    "Name": "ActivityLevelsLevel.1030201.1",
+    "Type": 2,
+    "Difficulty": 1,
+    "EnergyConsume": 30,
+    "PreLevelId": 1030108,
+    "PreLevelStar": 1,
+    "FloorId": 300509,
+    "PreviewMonsterGroupId": 300509,
+    "EET": [
+      7
+    ],
+    "RecommendBuildRank": 14,
+    "SuggestedPower": 45,
+    "StarConditionType": 3,
+    "OneStarCondition": [
+      120
+    ],
+    "TwoStarCondition": [
+      100
+    ],
+    "ThreeStarCondition": [
+      90
+    ],
+    "OneStarDesc": "ActivityLevelsLevel.1030201.3",
+    "TwoStarDesc": "ActivityLevelsLevel.1030201.4",
+    "ThreeStarDesc": "ActivityLevelsLevel.1030201.5",
+    "Desc": "ActivityLevelsLevel.1030201.2",
+    "CompleteRewardPreview": "[[2,180,1],[73105,800,1],[32000,100,1],[1,500000,1]]"
+  },
+  "1030202": {
+    "Id": 1030202,
+    "ActivityId": 1010301,
+    "DayOpen": 6,
+    "Name": "ActivityLevelsLevel.1030202.1",
+    "Type": 2,
+    "Difficulty": 2,
+    "EnergyConsume": 30,
+    "PreLevelId": 1030201,
+    "PreLevelStar": 1,
+    "FloorId": 300510,
+    "PreviewMonsterGroupId": 300510,
+    "EET": [
+      7
+    ],
+    "RecommendBuildRank": 16,
+    "SuggestedPower": 50,
+    "StarConditionType": 3,
+    "OneStarCondition": [
+      120
+    ],
+    "TwoStarCondition": [
+      100
+    ],
+    "ThreeStarCondition": [
+      90
+    ],
+    "OneStarDesc": "ActivityLevelsLevel.1030202.3",
+    "TwoStarDesc": "ActivityLevelsLevel.1030202.4",
+    "ThreeStarDesc": "ActivityLevelsLevel.1030202.5",
+    "Desc": "ActivityLevelsLevel.1030202.2",
+    "CompleteRewardPreview": "[[2,180,1],[73105,800,1],[32000,100,1],[1,1000000,1]]"
+  },
+  "1030203": {
+    "Id": 1030203,
+    "ActivityId": 1010301,
+    "DayOpen": 6,
+    "Name": "ActivityLevelsLevel.1030203.1",
+    "Type": 2,
+    "Difficulty": 3,
+    "EnergyConsume": 30,
+    "PreLevelId": 1030202,
+    "PreLevelStar": 1,
+    "FloorId": 300511,
+    "PreviewMonsterGroupId": 300511,
+    "EET": [
+      7
+    ],
+    "RecommendBuildRank": 18,
+    "SuggestedPower": 55,
+    "StarConditionType": 3,
+    "OneStarCondition": [
+      120
+    ],
+    "TwoStarCondition": [
+      100
+    ],
+    "ThreeStarCondition": [
+      90
+    ],
+    "OneStarDesc": "ActivityLevelsLevel.1030203.3",
+    "TwoStarDesc": "ActivityLevelsLevel.1030203.4",
+    "ThreeStarDesc": "ActivityLevelsLevel.1030203.5",
+    "Desc": "ActivityLevelsLevel.1030203.2",
+    "CompleteRewardPreview": "[[2,180,1],[73105,800,1],[32000,100,1],[1,1500000,1]]"
+  },
+  "1030204": {
+    "Id": 1030204,
+    "ActivityId": 1010301,
+    "DayOpen": 6,
+    "Name": "ActivityLevelsLevel.1030204.1",
+    "Type": 2,
+    "Difficulty": 4,
+    "EnergyConsume": 30,
+    "PreLevelId": 1030203,
+    "PreLevelStar": 1,
+    "FloorId": 300512,
+    "PreviewMonsterGroupId": 300512,
+    "EET": [
+      7
+    ],
+    "RecommendBuildRank": 20,
+    "SuggestedPower": 60,
+    "StarConditionType": 3,
+    "OneStarCondition": [
+      150
+    ],
+    "TwoStarCondition": [
+      120
+    ],
+    "ThreeStarCondition": [
+      90
+    ],
+    "OneStarDesc": "ActivityLevelsLevel.1030204.3",
+    "TwoStarDesc": "ActivityLevelsLevel.1030204.4",
+    "ThreeStarDesc": "ActivityLevelsLevel.1030204.5",
+    "Desc": "ActivityLevelsLevel.1030204.2",
+    "CompleteRewardPreview": "[[2,320,1],[73105,1000,1],[32000,300,1],[1,2000000,1]]"
+  },
+  "1030301": {
+    "Id": 1030301,
+    "ActivityId": 1010301,
+    "DayOpen": 7,
+    "Name": "ActivityLevelsLevel.1030301.1",
+    "Type": 4,
+    "Difficulty": 1,
+    "EnergyConsume": 30,
+    "PreLevelId": 1030204,
+    "PreLevelStar": 1,
+    "FloorId": 300513,
+    "PreviewMonsterGroupId": 300513,
+    "EET": [
+      7
+    ],
+    "RecommendBuildRank": 28,
+    "SuggestedPower": 90,
+    "StarConditionType": 3,
+    "OneStarCondition": [
+      120
+    ],
+    "TwoStarCondition": [
+      100
+    ],
+    "ThreeStarCondition": [
+      90
+    ],
+    "OneStarDesc": "ActivityLevelsLevel.1030301.3",
+    "TwoStarDesc": "ActivityLevelsLevel.1030301.4",
+    "ThreeStarDesc": "ActivityLevelsLevel.1030301.5",
+    "Desc": "ActivityLevelsLevel.1030301.2",
+    "CompleteRewardPreview": "[[2,100,1],[73105,500,1],[1,500000,1]]"
+  },
+  "1030302": {
+    "Id": 1030302,
+    "ActivityId": 1010301,
+    "DayOpen": 7,
+    "Name": "ActivityLevelsLevel.1030302.1",
+    "Type": 4,
+    "Difficulty": 2,
+    "EnergyConsume": 30,
+    "PreLevelId": 1030301,
+    "PreLevelStar": 1,
+    "FloorId": 300514,
+    "PreviewMonsterGroupId": 300514,
+    "EET": [
+      7
+    ],
+    "RecommendBuildRank": 28,
+    "SuggestedPower": 90,
+    "StarConditionType": 3,
+    "OneStarCondition": [
+      120
+    ],
+    "TwoStarCondition": [
+      100
+    ],
+    "ThreeStarCondition": [
+      90
+    ],
+    "OneStarDesc": "ActivityLevelsLevel.1030302.3",
+    "TwoStarDesc": "ActivityLevelsLevel.1030302.4",
+    "ThreeStarDesc": "ActivityLevelsLevel.1030302.5",
+    "Desc": "ActivityLevelsLevel.1030302.2",
+    "CompleteRewardPreview": "[[2,100,1],[73105,500,1],[1,500000,1]]"
+  },
+  "1030303": {
+    "Id": 1030303,
+    "ActivityId": 1010301,
+    "DayOpen": 7,
+    "Name": "ActivityLevelsLevel.1030303.1",
+    "Type": 4,
+    "Difficulty": 3,
+    "EnergyConsume": 30,
+    "PreLevelId": 1030302,
+    "PreLevelStar": 1,
+    "FloorId": 300515,
+    "PreviewMonsterGroupId": 300515,
+    "EET": [
+      7
+    ],
+    "RecommendBuildRank": 28,
+    "SuggestedPower": 90,
+    "StarConditionType": 3,
+    "OneStarCondition": [
+      120
+    ],
+    "TwoStarCondition": [
+      100
+    ],
+    "ThreeStarCondition": [
+      90
+    ],
+    "OneStarDesc": "ActivityLevelsLevel.1030303.3",
+    "TwoStarDesc": "ActivityLevelsLevel.1030303.4",
+    "ThreeStarDesc": "ActivityLevelsLevel.1030303.5",
+    "Desc": "ActivityLevelsLevel.1030303.2",
+    "CompleteRewardPreview": "[[2,100,1],[73105,500,1],[1,500000,1]]"
+  },
+  "1030304": {
+    "Id": 1030304,
+    "ActivityId": 1010301,
+    "DayOpen": 7,
+    "Name": "ActivityLevelsLevel.1030304.1",
+    "Type": 4,
+    "Difficulty": 4,
+    "EnergyConsume": 30,
+    "PreLevelId": 1030303,
+    "PreLevelStar": 1,
+    "FloorId": 300516,
+    "PreviewMonsterGroupId": 300516,
+    "EET": [
+      7
+    ],
+    "RecommendBuildRank": 28,
+    "SuggestedPower": 90,
+    "StarConditionType": 3,
+    "OneStarCondition": [
+      150
+    ],
+    "TwoStarCondition": [
+      120
+    ],
+    "ThreeStarCondition": [
+      90
+    ],
+    "OneStarDesc": "ActivityLevelsLevel.1030304.3",
+    "TwoStarDesc": "ActivityLevelsLevel.1030304.4",
+    "ThreeStarDesc": "ActivityLevelsLevel.1030304.5",
+    "Desc": "ActivityLevelsLevel.1030304.2",
+    "CompleteRewardPreview": "[[2,100,1],[73105,500,1],[1,500000,1]]"
   }
 }

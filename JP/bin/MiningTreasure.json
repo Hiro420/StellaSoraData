@@ -252,5 +252,131 @@
     "MiningItemType": 4,
     "MiningItemRarity": 1,
     "Score": 120
+  },
+  "1301": {
+    "Id": 1301,
+    "ActivityId": 400003,
+    "Icon": "UI/Play_Mining_400003/SpriteAtlas/Item/MiningItem_01",
+    "Name": "MiningTreasure.1301.1",
+    "Des": "MiningTreasure.1301.2",
+    "MiningItemType": 1,
+    "MiningItemRarity": 2,
+    "Score": 80
+  },
+  "1302": {
+    "Id": 1302,
+    "ActivityId": 400003,
+    "Icon": "UI/Play_Mining_400003/SpriteAtlas/Item/MiningItem_02",
+    "Name": "MiningTreasure.1302.1",
+    "Des": "MiningTreasure.1302.2",
+    "MiningItemType": 1,
+    "MiningItemRarity": 2,
+    "Score": 100
+  },
+  "1303": {
+    "Id": 1303,
+    "ActivityId": 400003,
+    "Icon": "UI/Play_Mining_400003/SpriteAtlas/Item/MiningItem_03",
+    "Name": "MiningTreasure.1303.1",
+    "Des": "MiningTreasure.1303.2",
+    "MiningItemType": 1,
+    "MiningItemRarity": 1,
+    "Score": 120
+  },
+  "2301": {
+    "Id": 2301,
+    "ActivityId": 400003,
+    "Icon": "UI/Play_Mining_400003/SpriteAtlas/Item/MiningItem_04",
+    "SelfRotate": 90,
+    "Name": "MiningTreasure.2301.1",
+    "Des": "MiningTreasure.2301.2",
+    "MiningItemType": 2,
+    "MiningItemRarity": 2,
+    "Score": 80
+  },
+  "2302": {
+    "Id": 2302,
+    "ActivityId": 400003,
+    "Icon": "UI/Play_Mining_400003/SpriteAtlas/Item/MiningItem_05",
+    "SelfRotate": 90,
+    "Name": "MiningTreasure.2302.1",
+    "Des": "MiningTreasure.2302.2",
+    "MiningItemType": 2,
+    "MiningItemRarity": 2,
+    "Score": 100
+  },
+  "2303": {
+    "Id": 2303,
+    "ActivityId": 400003,
+    "Icon": "UI/Play_Mining_400003/SpriteAtlas/Item/MiningItem_06",
+    "SelfRotate": 45,
+    "Name": "MiningTreasure.2303.1",
+    "Des": "MiningTreasure.2303.2",
+    "MiningItemType": 2,
+    "MiningItemRarity": 1,
+    "Score": 120
+  },
+  "3301": {
+    "Id": 3301,
+    "ActivityId": 400003,
+    "Icon": "UI/Play_Mining_400003/SpriteAtlas/Item/MiningItem_07",
+    "SelfRotate": 45,
+    "Name": "MiningTreasure.3301.1",
+    "Des": "MiningTreasure.3301.2",
+    "MiningItemType": 3,
+    "MiningItemRarity": 2,
+    "Score": 80
+  },
+  "3302": {
+    "Id": 3302,
+    "ActivityId": 400003,
+    "Icon": "UI/Play_Mining_400003/SpriteAtlas/Item/MiningItem_08",
+    "SelfRotate": 45,
+    "Name": "MiningTreasure.3302.1",
+    "Des": "MiningTreasure.3302.2",
+    "MiningItemType": 3,
+    "MiningItemRarity": 2,
+    "Score": 100
+  },
+  "3303": {
+    "Id": 3303,
+    "ActivityId": 400003,
+    "Icon": "UI/Play_Mining_400003/SpriteAtlas/Item/MiningItem_09",
+    "SelfRotate": 45,
+    "Name": "MiningTreasure.3303.1",
+    "Des": "MiningTreasure.3303.2",
+    "MiningItemType": 3,
+    "MiningItemRarity": 1,
+    "Score": 120
+  },
+  "4301": {
+    "Id": 4301,
+    "ActivityId": 400003,
+    "Icon": "UI/Play_Mining_400003/SpriteAtlas/Item/MiningItem_10",
+    "Name": "MiningTreasure.4301.1",
+    "Des": "MiningTreasure.4301.2",
+    "MiningItemType": 4,
+    "MiningItemRarity": 2,
+    "Score": 80
+  },
+  "4302": {
+    "Id": 4302,
+    "ActivityId": 400003,
+    "Icon": "UI/Play_Mining_400003/SpriteAtlas/Item/MiningItem_11",
+    "Name": "MiningTreasure.4302.1",
+    "Des": "MiningTreasure.4302.2",
+    "MiningItemType": 4,
+    "MiningItemRarity": 2,
+    "Score": 100
+  },
+  "4303": {
+    "Id": 4303,
+    "ActivityId": 400003,
+    "Icon": "UI/Play_Mining_400003/SpriteAtlas/Item/MiningItem_12",
+    "Name": "MiningTreasure.4303.1",
+    "Des": "MiningTreasure.4303.2",
+    "MiningItemType": 4,
+    "MiningItemRarity": 1,
+    "Score": 120
   }
 }

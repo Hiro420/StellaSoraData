@@ -147,6 +147,14 @@
     "Id": "NewPlayerDefaultClearStory",
     "Value": "0"
   },
+  "TimeUnlockStory": {
+    "Id": "TimeUnlockStory",
+    "Value": "STm06_06"
+  },
+  "StoryUnlockTime": {
+    "Id": "StoryUnlockTime",
+    "Value": "2026-01-20T12:00:00+08:00"
+  },
   "VampireTalentResetTimeInterval": {
     "Id": "VampireTalentResetTimeInterval",
     "Value": "30"
@@ -764,16 +772,13 @@
     "Value": "201002"
   },
   "TouchEffect_Main": {
-    "Id": "TouchEffect_Main",
-    "Value": "P_Main_Christmas"
+    "Id": "TouchEffect_Main"
   },
   "TouchEffect_Slide": {
-    "Id": "TouchEffect_Slide",
-    "Value": "P_Slide_Christmas"
+    "Id": "TouchEffect_Slide"
   },
   "RedDot": {
-    "Id": "RedDot",
-    "Value": "zs_common_new_4_xmas"
+    "Id": "RedDot"
   },
   "TravelerDuel_BottomBanner": {
     "Id": "TravelerDuel_BottomBanner",

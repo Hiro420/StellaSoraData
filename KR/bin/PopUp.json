@@ -74,6 +74,25 @@
     "EndType": 2,
     "EndTime": "2026-01-13T11:00:00+08:00"
   },
+  "5": {
+    "Id": 5,
+    "SortId": 5,
+    "PopUpType": 3,
+    "PopUpRes": "UI/MallPkgPopup/Popup_4",
+    "ScriptName": "OwnPopUp.MallPkgPopupCtrl",
+    "ScriptParams": "[\"pack.06_res\", \"pack.06_gift\", \"pack.06_disc_l\", \"pack.06_role_l\"]",
+    "PopRefreshType": 3,
+    "PopJumpType": 3,
+    "JumpToParams": 18,
+    "StartCondType": 71,
+    "StartCondParams": [
+      2
+    ],
+    "StartType": 2,
+    "StartTime": "2026-01-13T12:00:00+08:00",
+    "EndType": 2,
+    "EndTime": "2026-02-03T10:59:59+08:00"
+  },
   "1000": {
     "Id": 1000,
     "SortId": 1000,
@@ -112,6 +131,16 @@
     "ActivityId": 20101,
     "PopUpRes": "UI_Activity/20101/PopUp",
     "ScriptName": "ActivityPopUp.ActivityChristmas_20101PopUpCtrl",
+    "PopRefreshType": 2,
+    "PopJumpType": 2
+  },
+  "1004": {
+    "Id": 1004,
+    "SortId": 1004,
+    "PopUpType": 2,
+    "ActivityId": 10103,
+    "PopUpRes": "UI_Activity/10103/PopUp",
+    "ScriptName": "ActivityPopUp.ActivityMiracle_10103PopUpCtrl",
     "PopRefreshType": 2,
     "PopJumpType": 2
   },
@@ -160,5 +189,19 @@
     "PopRefreshType": 2,
     "PopJumpType": 2,
     "JumpToParams": 149
+  },
+  "2009": {
+    "Id": 2009,
+    "SortId": 2009,
+    "PopUpType": 1,
+    "ActivityId": 102002,
+    "PopUpRes": "UI_Activity/TowerDefense/PopUp",
+    "ScriptName": "ActivityPopUp.ActivityTowerDefensePopUpCtrl",
+    "PopRefreshType": 1,
+    "PopJumpType": 2,
+    "StartCondType": 71,
+    "StartCondParams": [
+      1
+    ]
   }
 }

@@ -106,5 +106,41 @@
       199006
     ],
     "OutfitPackageShowItem": 86005
+  },
+  "3": {
+    "ID": 4,
+    "Name": "S4",
+    "StartTime": "2026-02-01T04:00:00+08:00",
+    "EndTime": "2026-02-28T03:59:59+08:00",
+    "LuxuryProductId": "battlepass.98",
+    "LuxuryPrice": 1499,
+    "LuxuryShowPrice": "$ 14.99",
+    "LuxuryBonusLevel": 10,
+    "LuxuryTid": 101011,
+    "LuxuryQty": 1,
+    "PremiumProductId": "battlepass.58",
+    "PremiumPrice": 899,
+    "PremiumShowPrice": "$ 8.99",
+    "ComplementaryProductId": "battlepass.50",
+    "ComplementaryPrice": 699,
+    "ComplementaryShowPrice": "$ 6.99",
+    "ComplementaryTid": 101012,
+    "ComplementaryQty": 1,
+    "OriginShowPrice": "$ 15.98",
+    "CoverColor": "#c14535",
+    "Cover": 10303,
+    "PremiumShowItems": [
+      199000,
+      199001,
+      199002,
+      199003,
+      199007
+    ],
+    "LuxuryShowItems": [
+      199012,
+      199013,
+      199006
+    ],
+    "OutfitPackageShowItem": 86005
   }
 }

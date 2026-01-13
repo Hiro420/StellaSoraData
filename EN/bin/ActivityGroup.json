@@ -159,5 +159,45 @@
     ],
     "DesText": "ActivityGroup.20101.1",
     "TabBgRes": "Icon/Banner/tab_activity_christmas"
+  },
+  "10103": {
+    "Id": 10103,
+    "ActivityGroupType": 1,
+    "ActivityThemeType": 5,
+    "StartTime": "2026-01-13T12:00:00+08:00",
+    "EndTime": "2026-01-27T04:00:00+08:00",
+    "EnterEndTime": "2026-02-03T10:59:59+08:00",
+    "EnterRes": "Icon/Banner/banner_chap6activity",
+    "PanelId": 385,
+    "PreLimit": 1,
+    "LimitParam": "3",
+    "StartCondType": 71,
+    "StartCondParams": [
+      5
+    ],
+    "Enter": "{\"MiniGame\":[400003,1,367],\"Task\":[1010303,2,375],\"Store\":[1010304,4,373],\"Level\":[1010301,5,376]}",
+    "UIAssetsPrefab": "10103",
+    "CtrlName": "ActivityMiracleCtrl",
+    "RewardsShow": [
+      2,
+      214043,
+      116005,
+      502,
+      503,
+      20013,
+      35000,
+      32023,
+      20093,
+      21093,
+      30004,
+      50004,
+      30,
+      33012,
+      33032,
+      33082,
+      1
+    ],
+    "DesText": "ActivityGroup.10103.1",
+    "TabBgRes": "Icon/Banner/tab_activity_chap6activity"
   }
 }
