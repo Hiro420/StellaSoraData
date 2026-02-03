@@ -512,7 +512,7 @@
   "108": {
     "510801": {
       "name": "Scatter Trigger",
-      "briefDesc": "The Main Skill requires a single reload. After casting, the next shot deals additional DMG.",
+      "briefDesc": "The Main Skill reloads only one bullet. After casting, the next shot deals additional DMG.",
       "type": "main",
       "rarity": 0,
       "imgId": "10801_Potential_01",
@@ -835,7 +835,7 @@
     },
     "511009": {
       "name": "Extended Shift",
-      "briefDesc": "Firenze's Shadow Clone lasts longer on the battlefield. Also increases Minion DMG.",
+      "briefDesc": "Shadow Clone lasts longer on the battlefield. Also increases Minion DMG.",
       "type": "main",
       "rarity": 1,
       "imgId": "11001_Potential_03",
@@ -6955,7 +6955,7 @@
     },
     "515609": {
       "name": "Fill the Gap",
-      "briefDesc": "When Nazuna reloads, increases support Trekkers' Skill DMG.",
+      "briefDesc": "When Nazuna reloads, increases Support Trekkers' Skill DMG.",
       "type": "main",
       "rarity": 2,
       "imgId": "Common_Potential_15",
@@ -7391,6 +7391,261 @@
       "rarity": 2,
       "imgId": "15801_Potential_41",
       "id": 515843,
+      "subIcon": "Round"
+    }
+  },
+  "159": {
+    "515901": {
+      "name": "Radiance of Auspice",
+      "briefDesc": "Reduces Auspice Beam's Attack Interval. Each additional Auspice shortens the Attack Interval.",
+      "type": "main",
+      "rarity": 0,
+      "imgId": "15901_Potential_01",
+      "id": 515901
+    },
+    "515902": {
+      "name": "Reflection of Auspice",
+      "briefDesc": "Increases the Skill DMG of Springseek Coronis. Casting Main Skill generates additional Auspice. Beams link all Auspice units, dealing DMG over time, and can trigger Terra Mark.",
+      "type": "main",
+      "rarity": 0,
+      "imgId": "15901_Potential_02",
+      "id": 515902
+    },
+    "515903": {
+      "name": "Needle Shower",
+      "briefDesc": "Increases Ammo Capacity. When in Crystallized State, increases Fire Rate and fires crystalline bullets that deal additional DMG on hit. Can trigger Terra Mark.",
+      "type": "main",
+      "rarity": 0,
+      "imgId": "15901_Potential_03",
+      "id": 515903
+    },
+    "515904": {
+      "name": "Echo of Earth",
+      "briefDesc": "When in Crystallized State, continuously generates Rose Pulses: Hitting a target creates Crystalline Ground at the target's location to deal delayed DMG. Can trigger Terra Mark. When Crystallized Ground receives Springseek Coronis's Auto ATK DMG, it detonates early and deals increased DMG.",
+      "type": "main",
+      "rarity": 0,
+      "imgId": "15901_Potential_04",
+      "id": 515904
+    },
+    "515905": {
+      "name": "Catalyst",
+      "briefDesc": "Increases Auspice's Skill DMG. Increases DMG additionally based on the number of Auspice on the battlefield.",
+      "type": "main",
+      "rarity": 2,
+      "imgId": "15901_Potential_02",
+      "id": 515905,
+      "subIcon": "Diamond"
+    },
+    "515906": {
+      "name": "Exquisite Cut",
+      "briefDesc": "When Springseek Coronis deals Auto ATK DMG, increases Auspice's Terra DMG.",
+      "type": "main",
+      "rarity": 2,
+      "imgId": "15901_Potential_02",
+      "id": 515906,
+      "subIcon": "Triangle"
+    },
+    "515907": {
+      "name": "Jade Chime",
+      "briefDesc": "Increases the Skill DMG of Springseek Coronis. When Auto Attack bullets pass near or through Auspice beams, the duration of all active Auspice is extended.",
+      "type": "main",
+      "rarity": 1,
+      "imgId": "15901_Potential_01",
+      "id": 515907,
+      "subIcon": "Round"
+    },
+    "515908": {
+      "name": "Expanse: Everlasting Peace",
+      "briefDesc": "Increases Springseek Coronis's Auto Attack Damage. Increases Auto Attack Damage additionally against distant targets.",
+      "type": "main",
+      "rarity": 2,
+      "imgId": "15901_Potential_03",
+      "id": 515908,
+      "subIcon": "Diamond"
+    },
+    "515909": {
+      "name": "Inner Stagnation",
+      "briefDesc": "When Springseek Coronis deals Auto ATK DMG, increases the target's Terra DMG Taken.",
+      "type": "main",
+      "rarity": 2,
+      "imgId": "15901_Potential_04",
+      "id": 515909,
+      "subIcon": "Triangle"
+    },
+    "515910": {
+      "name": "Fortune's Flow",
+      "briefDesc": "Increases Springseek Coronis's Auto Attack Damage. When in Crystallized State, triggering Terra Mark extends the state's duration.",
+      "type": "main",
+      "rarity": 1,
+      "imgId": "15901_Potential_04",
+      "id": 515910,
+      "subIcon": "Round"
+    },
+    "515911": {
+      "name": "Iridescent Robe",
+      "briefDesc": "Ultimate can trigger Terra Mark. Increases ATK on trigger.",
+      "type": "main",
+      "rarity": 2,
+      "imgId": "Common_Potential_Earth_1",
+      "id": 515911,
+      "subIcon": "Diamond"
+    },
+    "515912": {
+      "name": "Omen Breaker",
+      "briefDesc": "Springseek Coronis can dodge one more time. After dodging, increases Terra DMG.",
+      "type": "main",
+      "rarity": 2,
+      "imgId": "Common_Potential_2",
+      "id": 515912,
+      "subIcon": "Triangle"
+    },
+    "515913": {
+      "name": "Shifting Brilliance",
+      "briefDesc": "Increases Springseek Coronis's Terra DMG. When Auto Attack bullets pass near or through Auspice beams, they gain Penetration and increased Terra DMG.",
+      "type": "main",
+      "rarity": 1,
+      "imgId": "Common_Potential_11",
+      "id": 515913,
+      "subIcon": "Round"
+    },
+    "515921": {
+      "name": "Essence Extraction",
+      "briefDesc": "For a short duration after casting Instant Blossom (Support Skill), increases Rose Vials' Skill DMG. When a Rose Vial expires, it deals additional DMG.",
+      "type": "support",
+      "rarity": 0,
+      "imgId": "15901_Potential_21",
+      "id": 515921
+    },
+    "515922": {
+      "name": "Vernal Breath",
+      "briefDesc": "For each Terra Trekker on the squad, increases the Skill DMG of Rose Vial. Rose Vial will undergo a Rapid Bloom, instantly triggering all remaining DMG from its duration.",
+      "type": "support",
+      "rarity": 0,
+      "imgId": "15901_Potential_22",
+      "id": 515922
+    },
+    "515923": {
+      "name": "Return to Earth",
+      "briefDesc": "For each Terra Trekker on the squad, increases the Skill DMG of Wither Vial. Changes the number of Rose Vials and Wither Vials thrown by the Support Skill. The Wither Vial converts adjacent Rose Vials into Wither Vials as well.",
+      "type": "support",
+      "rarity": 0,
+      "imgId": "15901_Potential_23",
+      "id": 515923
+    },
+    "515924": {
+      "name": "Lasting Aftertaste",
+      "briefDesc": "Extends the duration of all Vials.",
+      "type": "support",
+      "rarity": 0,
+      "imgId": "15901_Potential_24",
+      "id": 515924
+    },
+    "515925": {
+      "name": "Perfect Touch",
+      "briefDesc": "For each Rose Vial on the field, increases Rose Vials' Skill DMG.",
+      "type": "support",
+      "rarity": 2,
+      "imgId": "15901_Potential_22",
+      "id": 515925,
+      "subIcon": "Diamond"
+    },
+    "515926": {
+      "name": "Symptom Sight",
+      "briefDesc": "When Rose Vial inflicts Terra Mark: Earth Vein, increases the Terra DMG Taken of the target.",
+      "type": "support",
+      "rarity": 2,
+      "imgId": "15901_Potential_21",
+      "id": 515926,
+      "subIcon": "Triangle"
+    },
+    "515927": {
+      "name": "Reciprocity",
+      "briefDesc": "For a short duration after Rose Vial inflicts Terra Mark: Earth Vein on the target, triggering Terra Mark on the target deals additional DMG.",
+      "type": "support",
+      "rarity": 1,
+      "imgId": "15901_Potential_21",
+      "id": 515927,
+      "subIcon": "Round"
+    },
+    "515928": {
+      "name": "Faded Splendor",
+      "briefDesc": "For each Wither Vial on the field, increases Wither Vials' Skill DMG.",
+      "type": "support",
+      "rarity": 2,
+      "imgId": "15901_Potential_23",
+      "id": 515928,
+      "subIcon": "Diamond"
+    },
+    "515929": {
+      "name": "Aromatic Room",
+      "briefDesc": "When a Rose Vial or Wither Vial is on the field, increases all Terra Trekkers' ATK.",
+      "type": "support",
+      "rarity": 2,
+      "imgId": "15901_Potential_24",
+      "id": 515929,
+      "subIcon": "Triangle"
+    },
+    "515930": {
+      "name": "Waning Year",
+      "briefDesc": "When Wither Vial applies Wither stack to a target that has not yet reached the max stack limit, it deals DMG. For every current stack of Wither on the target, the Skill DMG upon applying a new stack is increased.",
+      "type": "support",
+      "rarity": 1,
+      "imgId": "15901_Potential_24",
+      "id": 515930,
+      "subIcon": "Round"
+    },
+    "515931": {
+      "name": "Herbal Tempering",
+      "briefDesc": "Increases the ATK of Springseek Coronis.",
+      "type": "support",
+      "rarity": 2,
+      "imgId": "Common_Potential_11",
+      "id": 515931,
+      "subIcon": "Diamond"
+    },
+    "515932": {
+      "name": "Flying Fire",
+      "briefDesc": "Ultimate can inflict Terra Mark: Earth Vein. Increases Springseek Coronis's ATK.",
+      "type": "support",
+      "rarity": 2,
+      "imgId": "Common_Potential_Earth_1",
+      "id": 515932,
+      "subIcon": "Triangle"
+    },
+    "515933": {
+      "name": "Terra Chorus",
+      "briefDesc": "When all squadmates are Terra Trekkers, each Rose Vial on the field increases the Terra Mark DMG taken by the target when Springseek Coronis deals Skill DMG.",
+      "type": "support",
+      "rarity": 1,
+      "imgId": "Common_Potential_15",
+      "id": 515933,
+      "subIcon": "Round"
+    },
+    "515941": {
+      "name": "Dream Shock",
+      "briefDesc": "Increases Ultimate DMG against elite or higher-tier targets. Additionally inflicts Charm on normal targets, dealing DMG when the effect ends.",
+      "type": "common",
+      "rarity": 2,
+      "imgId": "15901_Potential_41",
+      "id": 515941,
+      "subIcon": "Diamond"
+    },
+    "515942": {
+      "name": "Lingering Grace",
+      "briefDesc": "Increases Ultimate DMG. While the Ultimate is on cooldown or its Energy is not full, increases the ATK of Terra Vanguards and Versatile Trekkers in the squad.",
+      "type": "common",
+      "rarity": 2,
+      "imgId": "15901_Potential_41",
+      "id": 515942,
+      "subIcon": "Triangle"
+    },
+    "515943": {
+      "name": "United Flame",
+      "briefDesc": "When the Ultimate deals DMG, increases Springseek Coronis's ATK.",
+      "type": "common",
+      "rarity": 2,
+      "imgId": "15901_Potential_41",
+      "id": 515943,
       "subIcon": "Round"
     }
   }
