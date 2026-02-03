@@ -9,6 +9,22 @@
     "BaseItemId": 4,
     "BaseItemQty": 600,
     "MaxDays": 180,
-    "Icon": "1"
+    "Desc": "MallMonthlyCard.monthlyCard.small.2",
+    "Icon": "1",
+    "Name2": "MallMonthlyCard.monthlyCard.small.3"
+  },
+  "monthlyCard.strength": {
+    "Id": "monthlyCard.strength",
+    "Name": "MallMonthlyCard.monthlyCard.strength.1",
+    "StatisticalGroup": "monthlyCard.strength",
+    "MonthlyCardId": 402,
+    "Price": 290,
+    "ShowPrice": "<size=70>￥</size><space=-10>290",
+    "BaseItemId": 4,
+    "BaseItemQty": 300,
+    "MaxDays": 180,
+    "Desc": "MallMonthlyCard.monthlyCard.strength.2",
+    "Icon": "1",
+    "Name2": "MallMonthlyCard.monthlyCard.strength.3"
   }
 }

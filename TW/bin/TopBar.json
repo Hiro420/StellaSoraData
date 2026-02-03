@@ -292,7 +292,8 @@
   },
   "CharPotential": {
     "Id": "CharPotential",
-    "Title": "TopBar.CharPotential.1"
+    "Title": "TopBar.CharPotential.1",
+    "EntryId": 300103
   },
   "MainlineEx": {
     "Id": "MainlineEx",
@@ -365,14 +366,14 @@
     "Id": "TrialLevelSelect",
     "Title": "TopBar.TrialLevelSelect.1"
   },
-  "JointDrillBuildList": {
-    "Id": "JointDrillBuildList",
-    "Title": "TopBar.JointDrillBuildList.1",
+  "JointDrillBuildList_1": {
+    "Id": "JointDrillBuildList_1",
+    "Title": "TopBar.JointDrillBuildList_1.1",
     "EntryId": 201602
   },
-  "JointDrillLevelSelect": {
-    "Id": "JointDrillLevelSelect",
-    "Title": "TopBar.JointDrillLevelSelect.1",
+  "JointDrillLevelSelect_1": {
+    "Id": "JointDrillLevelSelect_1",
+    "Title": "TopBar.JointDrillLevelSelect_1.1",
     "EntryId": 201601
   },
   "TowerDefenseCharacterDetailPanel": {
@@ -406,9 +407,9 @@
     "Title": "TopBar.ActivityLevelsSelectPanel.1",
     "Energy": true
   },
-  "JointDrillRanking": {
-    "Id": "JointDrillRanking",
-    "Title": "TopBar.JointDrillRanking.1"
+  "JointDrillRanking_1": {
+    "Id": "JointDrillRanking_1",
+    "Title": "TopBar.JointDrillRanking_1.1"
   },
   "SwimTheme": {
     "Id": "SwimTheme",
@@ -590,6 +591,11 @@
     "Title": "TopBar.MiningGame_400003.1",
     "EntryId": 400101
   },
+  "MiningGame_400007": {
+    "Id": "MiningGame_400007",
+    "Title": "TopBar.MiningGame_400007.1",
+    "EntryId": 400101
+  },
   "MiningGameGuidePanel_400002": {
     "Id": "MiningGameGuidePanel_400002",
     "Title": "TopBar.MiningGameGuidePanel_400002.1"
@@ -597,6 +603,10 @@
   "MiningGameGuidePanel_400003": {
     "Id": "MiningGameGuidePanel_400003",
     "Title": "TopBar.MiningGameGuidePanel_400003.1"
+  },
+  "MiningGameGuidePanel_400007": {
+    "Id": "MiningGameGuidePanel_400007",
+    "Title": "TopBar.MiningGameGuidePanel_400007.1"
   },
   "Shop_30101": {
     "Id": "Shop_30101",
@@ -613,14 +623,17 @@
   "BreakOutThemePanel": {
     "Id": "BreakOutThemePanel",
     "Title": "TopBar.BreakOutThemePanel.1",
-    "Coin": true
+    "Coin": true,
+    "CoinIds": [
+      73202
+    ]
   },
   "Task_30101": {
     "Id": "Task_30101",
     "Title": "TopBar.Task_30101.1",
     "Coin": true,
     "CoinIds": [
-      73103
+      73202
     ]
   },
   "QuestNewbie": {
@@ -717,5 +730,96 @@
     "Id": "ActivityLevelsSelectPanel_20101",
     "Title": "TopBar.ActivityLevelsSelectPanel_20101.1",
     "Energy": true
+  },
+  "ActivityShopPopup": {
+    "Id": "ActivityShopPopup",
+    "Title": "TopBar.ActivityShopPopup.1",
+    "HideBack": true,
+    "Coin": true,
+    "DelayShow": true
+  },
+  "ThrowGiftPanel": {
+    "Id": "ThrowGiftPanel",
+    "Title": "TopBar.ThrowGiftPanel.1"
+  },
+  "JointDrillBuildList_2": {
+    "Id": "JointDrillBuildList_2",
+    "Title": "TopBar.JointDrillBuildList_2.1",
+    "EntryId": 201602
+  },
+  "JointDrillLevelSelect_2": {
+    "Id": "JointDrillLevelSelect_2",
+    "Title": "TopBar.JointDrillLevelSelect_2.1",
+    "EntryId": 201601
+  },
+  "JointDrillRanking_2": {
+    "Id": "JointDrillRanking_2",
+    "Title": "TopBar.JointDrillRanking_2.1"
+  },
+  "Shop_10104": {
+    "Id": "Shop_10104",
+    "Title": "TopBar.Shop_10104.1",
+    "Coin": true
+  },
+  "ActivityLevelsSelectPanel_10104": {
+    "Id": "ActivityLevelsSelectPanel_10104",
+    "Title": "TopBar.ActivityLevelsSelectPanel_10104.1",
+    "Energy": true
+  },
+  "Task_10104": {
+    "Id": "Task_10104",
+    "Title": "TopBar.Task_10104.1",
+    "Coin": true,
+    "CoinIds": [
+      73106
+    ]
+  },
+  "SpringFestivalStory": {
+    "Id": "SpringFestivalStory",
+    "Title": "TopBar.SpringFestivalStory.1"
+  },
+  "SpringFestivalThemePanel": {
+    "Id": "SpringFestivalThemePanel",
+    "Title": "TopBar.SpringFestivalThemePanel.1",
+    "Coin": true,
+    "CoinIds": [
+      73106
+    ]
+  },
+  "CookieGamePanel_400006": {
+    "Id": "CookieGamePanel_400006",
+    "Title": "TopBar.CookieGamePanel_400006.1",
+    "EntryId": 400301,
+    "Coin": true,
+    "CoinIds": [
+      73106
+    ]
+  },
+  "CookieBoardPanel_400006": {
+    "Id": "CookieBoardPanel_400006",
+    "Title": "TopBar.CookieBoardPanel_400006.1"
+  },
+  "ActivityLevelsSelectPanel_10105": {
+    "Id": "ActivityLevelsSelectPanel_10105",
+    "Title": "TopBar.ActivityLevelsSelectPanel_10105.1",
+    "Energy": true
+  },
+  "Task_10105": {
+    "Id": "Task_10105",
+    "Title": "TopBar.Task_10105.1",
+    "Coin": true
+  },
+  "Shop_10105": {
+    "Id": "Shop_10105",
+    "Title": "TopBar.Shop_10105.1",
+    "Coin": true
+  },
+  "WinterNightThemePanel": {
+    "Id": "WinterNightThemePanel",
+    "Title": "TopBar.WinterNightThemePanel.1"
+  },
+  "WinterNightStory": {
+    "Id": "WinterNightStory",
+    "Title": "TopBar.WinterNightStory.1"
   }
 }

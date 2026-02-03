@@ -633,5 +633,194 @@
     "Theme": 14,
     "BGM": "fengCao_explore_setState",
     "LeaveTriggerEvent": "amb_company_all_stop"
+  },
+  "300601": {
+    "Id": 300601,
+    "MonsterLv": 1,
+    "SceneName": "Levels/StoryActivity/StoryActivity_6/StoryActivity_6_009_A_01",
+    "ConfigPrefabName": "StoryActivity_6_009_A_N1",
+    "Theme": 426,
+    "BGM": "mode_springFestival2025_combatNormal_setstate",
+    "LeaveTriggerEvent": "amb_SF_all_stop"
+  },
+  "300602": {
+    "Id": 300602,
+    "MonsterLv": 2,
+    "SceneName": "Levels/StoryActivity/StoryActivity_6/StoryActivity_6_008_B_01",
+    "ConfigPrefabName": "StoryActivity_6_008_B_N2",
+    "Theme": 426,
+    "BGM": "mode_springFestival2025_combatNormal_setstate",
+    "LeaveTriggerEvent": "amb_SF_all_stop"
+  },
+  "300603": {
+    "Id": 300603,
+    "MonsterLv": 3,
+    "SceneName": "Levels/StoryActivity/StoryActivity_6/StoryActivity_6_004_A_01",
+    "ConfigPrefabName": "StoryActivity_6_004_A_N3",
+    "Theme": 426,
+    "BGM": "mode_springFestival2025_combatNormal_setstate",
+    "LeaveTriggerEvent": "amb_SF_all_stop"
+  },
+  "300604": {
+    "Id": 300604,
+    "MonsterLv": 4,
+    "SceneName": "Levels/StoryActivity/StoryActivity_6/StoryActivity_6_016_A_01",
+    "ConfigPrefabName": "StoryActivity_6_016_A_N4",
+    "Theme": 426,
+    "BGM": "mode_springFestival2025_combatNormal_setstate",
+    "LeaveTriggerEvent": "amb_SF_all_stop"
+  },
+  "300605": {
+    "Id": 300605,
+    "MonsterLv": 5,
+    "SceneName": "Levels/StoryActivity/StoryActivity_6/StoryActivity_6_008_B_01_Mir",
+    "ConfigPrefabName": "StoryActivity_6_008_B_Mir_N5",
+    "Mir": true,
+    "Theme": 427,
+    "BGM": "mode_springFestival2025_combatNormal_setstate",
+    "LeaveTriggerEvent": "amb_SF_all_stop"
+  },
+  "300606": {
+    "Id": 300606,
+    "MonsterLv": 6,
+    "SceneName": "Levels/StoryActivity/StoryActivity_6/StoryActivity_6_004_A_01_Mir",
+    "ConfigPrefabName": "StoryActivity_6_004_A_Mir_N6",
+    "Mir": true,
+    "Theme": 427,
+    "BGM": "mode_springFestival2025_combatNormal_setstate",
+    "LeaveTriggerEvent": "amb_SF_all_stop"
+  },
+  "300607": {
+    "Id": 300607,
+    "MonsterLv": 7,
+    "SceneName": "Levels/StoryActivity/StoryActivity_6/StoryActivity_6_009_A_01_Mir",
+    "ConfigPrefabName": "StoryActivity_6_009_A_Mir_N7",
+    "Mir": true,
+    "Theme": 427,
+    "BGM": "mode_springFestival2025_combatNormal_setstate",
+    "LeaveTriggerEvent": "amb_SF_all_stop"
+  },
+  "300608": {
+    "Id": 300608,
+    "MonsterLv": 8,
+    "SceneName": "Levels/StoryActivity/StoryActivity_6/StoryActivity_6_Boss_A",
+    "ConfigPrefabName": "StoryActivity_6_Boss_A_N8",
+    "Theme": 428,
+    "BGM": "mode_springFestival2025_combatBoss_setstate",
+    "LeaveTriggerEvent": "amb_SF_all_stop"
+  },
+  "300609": {
+    "Id": 300609,
+    "MonsterLv": 9,
+    "SceneName": "Levels/StoryActivity/StoryActivity_6/StoryActivity_6_009_A_01",
+    "ConfigPrefabName": "StoryActivity_6_009_A_H1",
+    "Theme": 426,
+    "BGM": "mode_springFestival2025_combatNormal_setstate",
+    "LeaveTriggerEvent": "amb_SF_all_stop"
+  },
+  "300610": {
+    "Id": 300610,
+    "MonsterLv": 10,
+    "SceneName": "Levels/StoryActivity/StoryActivity_6/StoryActivity_6_008_B_01",
+    "ConfigPrefabName": "StoryActivity_6_008_B_H2",
+    "Theme": 426,
+    "BGM": "mode_springFestival2025_combatNormal_setstate",
+    "LeaveTriggerEvent": "amb_SF_all_stop"
+  },
+  "300611": {
+    "Id": 300611,
+    "MonsterLv": 11,
+    "SceneName": "Levels/StoryActivity/StoryActivity_6/StoryActivity_6_004_A_01",
+    "ConfigPrefabName": "StoryActivity_6_004_A_H3",
+    "Theme": 426,
+    "BGM": "mode_springFestival2025_combatNormal_setstate",
+    "LeaveTriggerEvent": "amb_SF_all_stop"
+  },
+  "300612": {
+    "Id": 300612,
+    "MonsterLv": 12,
+    "SceneName": "Levels/StoryActivity/StoryActivity_6/StoryActivity_6_016_A_01",
+    "ConfigPrefabName": "StoryActivity_6_016_A_H4",
+    "Theme": 426,
+    "BGM": "mode_springFestival2025_combatNormal_setstate",
+    "LeaveTriggerEvent": "amb_SF_all_stop"
+  },
+  "300613": {
+    "Id": 300613,
+    "MonsterLv": 13,
+    "SceneName": "Levels/StoryActivity/StoryActivity_6/StoryActivity_6_008_B_01_Mir",
+    "ConfigPrefabName": "StoryActivity_6_008_B_Mir_H5",
+    "Mir": true,
+    "Theme": 427,
+    "BGM": "mode_springFestival2025_combatNormal_setstate",
+    "LeaveTriggerEvent": "amb_SF_all_stop"
+  },
+  "300614": {
+    "Id": 300614,
+    "MonsterLv": 14,
+    "SceneName": "Levels/StoryActivity/StoryActivity_6/StoryActivity_6_004_A_01_Mir",
+    "ConfigPrefabName": "StoryActivity_6_004_A_Mir_H6",
+    "Mir": true,
+    "Theme": 427,
+    "BGM": "mode_springFestival2025_combatNormal_setstate",
+    "LeaveTriggerEvent": "amb_SF_all_stop"
+  },
+  "300615": {
+    "Id": 300615,
+    "MonsterLv": 15,
+    "SceneName": "Levels/StoryActivity/StoryActivity_6/StoryActivity_6_009_A_01_Mir",
+    "ConfigPrefabName": "StoryActivity_6_009_A_Mir_H7",
+    "Mir": true,
+    "Theme": 427,
+    "BGM": "mode_springFestival2025_combatNormal_setstate",
+    "LeaveTriggerEvent": "amb_SF_all_stop"
+  },
+  "300616": {
+    "Id": 300616,
+    "MonsterLv": 16,
+    "SceneName": "Levels/StoryActivity/StoryActivity_6/StoryActivity_6_Boss_A",
+    "ConfigPrefabName": "StoryActivity_6_Boss_A_H8",
+    "Theme": 428,
+    "BGM": "mode_springFestival2025_combatBoss_setstate",
+    "LeaveTriggerEvent": "amb_SF_all_stop"
+  },
+  "300617": {
+    "Id": 300617,
+    "MonsterLv": 17,
+    "SceneName": "Levels/StoryActivity/StoryActivity_6/StoryActivity_6_004_A_01_Mir",
+    "ConfigPrefabName": "StoryActivity_6_004_A_Mir_C1",
+    "Mir": true,
+    "Theme": 427,
+    "BGM": "mode_springFestival2025_combatNormal_setstate",
+    "LeaveTriggerEvent": "amb_SF_all_stop"
+  },
+  "300618": {
+    "Id": 300618,
+    "MonsterLv": 18,
+    "SceneName": "Levels/StoryActivity/StoryActivity_6/StoryActivity_6_016_A_01_Mir",
+    "ConfigPrefabName": "StoryActivity_6_016_A_Mir_C2",
+    "Mir": true,
+    "Theme": 427,
+    "BGM": "mode_springFestival2025_combatNormal_setstate",
+    "LeaveTriggerEvent": "amb_SF_all_stop"
+  },
+  "300619": {
+    "Id": 300619,
+    "MonsterLv": 19,
+    "SceneName": "Levels/StoryActivity/StoryActivity_6/StoryActivity_6_009_A_01_Mir",
+    "ConfigPrefabName": "StoryActivity_6_009_A_Mir_C3",
+    "Mir": true,
+    "Theme": 427,
+    "BGM": "mode_springFestival2025_combatNormal_setstate",
+    "LeaveTriggerEvent": "amb_SF_all_stop"
+  },
+  "300620": {
+    "Id": 300620,
+    "MonsterLv": 20,
+    "SceneName": "Levels/StoryActivity/StoryActivity_6/StoryActivity_6_Boss_A",
+    "ConfigPrefabName": "StoryActivity_6_Boss_A_C4",
+    "Theme": 428,
+    "BGM": "mode_springFestival2025_combatBoss_setstate",
+    "LeaveTriggerEvent": "amb_SF_all_stop"
   }
 }

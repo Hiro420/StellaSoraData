@@ -1,6 +1,7 @@
 {
   "510001": {
     "Id": 510001,
+    "Type": 1,
     "DrillStartTime": 86400,
     "DrillDurationTime": 554400,
     "DrillLevelGroupId": 51001,
@@ -9,13 +10,13 @@
     "PlotDesc": "JointDrillControl.510001.5",
     "BG": "UI_Activity/_510001/SpriteAtlas/bg_jointdrill",
     "DrillPrefab": "_510001/jointDrill_act_01",
-    "CtrlName": "_510001/JointDrillActCtrl_01",
+    "CtrlName": "_510001/JointDrillActCtrl",
     "DescText": "JointDrillControl.510001.2",
-    "DetailDesc": "JointDrillControl.510001.3",
-    "FastEntranceIcon": "Icon/Banner/banner_avtivity_m"
+    "DetailDesc": "JointDrillControl.510001.3"
   },
   "510002": {
     "Id": 510002,
+    "Type": 1,
     "DrillStartTime": 86400,
     "DrillDurationTime": 572400,
     "DrillLevelGroupId": 51002,
@@ -24,9 +25,8 @@
     "PlotDesc": "JointDrillControl.510002.5",
     "BG": "UI_Activity/_510001/SpriteAtlas/bg_jointdrill",
     "DrillPrefab": "_510001/jointDrill_act_01",
-    "CtrlName": "_510001/JointDrillActCtrl_01",
+    "CtrlName": "_510001/JointDrillActCtrl",
     "DescText": "JointDrillControl.510002.2",
-    "DetailDesc": "JointDrillControl.510002.3",
-    "FastEntranceIcon": "Icon/Banner/banner_avtivity_m"
+    "DetailDesc": "JointDrillControl.510002.3"
   }
 }

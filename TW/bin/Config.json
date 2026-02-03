@@ -1,4 +1,8 @@
 {
+  "AffinityMaxEffectLevel": {
+    "Id": "AffinityMaxEffectLevel",
+    "Value": "50"
+  },
   "DamageConvertToScoreRatio": {
     "Id": "DamageConvertToScoreRatio",
     "Value": "1"
@@ -370,6 +374,10 @@
   "DailyShopRandomDrop": {
     "Id": "DailyShopRandomDrop",
     "Value": "900000"
+  },
+  "DailyMallRandomDrop": {
+    "Id": "DailyMallRandomDrop",
+    "Value": "900001"
   },
   "TimeZone": {
     "Id": "TimeZone",
@@ -772,13 +780,16 @@
     "Value": "201002"
   },
   "TouchEffect_Main": {
-    "Id": "TouchEffect_Main"
+    "Id": "TouchEffect_Main",
+    "Value": "2026NewYear/P_Main_NewYear"
   },
   "TouchEffect_Slide": {
-    "Id": "TouchEffect_Slide"
+    "Id": "TouchEffect_Slide",
+    "Value": "2026NewYear/P_Slide_NewYear"
   },
   "RedDot": {
-    "Id": "RedDot"
+    "Id": "RedDot",
+    "Value": "zs_common_new_4_year"
   },
   "TravelerDuel_BottomBanner": {
     "Id": "TravelerDuel_BottomBanner",
@@ -810,6 +821,10 @@
   },
   "NickNameResetTimeLimit": {
     "Id": "NickNameResetTimeLimit",
-    "Value": "604800"
+    "Value": "2592000"
+  },
+  "BreakOut_LevelClosed": {
+    "Id": "BreakOut_LevelClosed",
+    "Value": "2026-02-24T10:59:59+08:00"
   }
 }

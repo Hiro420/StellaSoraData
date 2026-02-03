@@ -762,6 +762,34 @@
     "voResource": "vo_142_ui_unlockCG_001",
     "Lines": "CharGetLines.14204.1"
   },
+  "14301": {
+    "Id": 14301,
+    "Character": 143,
+    "Type": 1,
+    "voResource": "vo_143_ui_gachaNew_001",
+    "Lines": "CharGetLines.14301.1"
+  },
+  "14302": {
+    "Id": 14302,
+    "Character": 143,
+    "Type": 2,
+    "voResource": "vo_143_ui_gacha_001",
+    "Lines": "CharGetLines.14302.1"
+  },
+  "14303": {
+    "Id": 14303,
+    "Character": 143,
+    "Type": 3,
+    "voResource": "vo_143_ui_unlockLook_001",
+    "Lines": "CharGetLines.14303.1"
+  },
+  "14304": {
+    "Id": 14304,
+    "Character": 143,
+    "Type": 4,
+    "voResource": "vo_143_ui_unlockCG_001",
+    "Lines": "CharGetLines.14304.1"
+  },
   "14401": {
     "Id": 14401,
     "Character": 144,
@@ -957,5 +985,33 @@
     "Type": 4,
     "voResource": "vo_158_ui_unlockCG_001",
     "Lines": "CharGetLines.15804.1"
+  },
+  "15901": {
+    "Id": 15901,
+    "Character": 159,
+    "Type": 1,
+    "voResource": "vo_159_ui_gachaNew_001",
+    "Lines": "CharGetLines.15901.1"
+  },
+  "15902": {
+    "Id": 15902,
+    "Character": 159,
+    "Type": 2,
+    "voResource": "vo_159_ui_gacha_001",
+    "Lines": "CharGetLines.15902.1"
+  },
+  "15903": {
+    "Id": 15903,
+    "Character": 159,
+    "Type": 3,
+    "voResource": "vo_159_ui_unlockLook_001",
+    "Lines": "CharGetLines.15903.1"
+  },
+  "15904": {
+    "Id": 15904,
+    "Character": 159,
+    "Type": 4,
+    "voResource": "vo_159_ui_unlockCG_001",
+    "Lines": "CharGetLines.15904.1"
   }
 }

@@ -7693,6 +7693,22 @@
     "TraceDuration": 10000,
     "Activate": true
   },
+  "509130101": {
+    "Id": 509130101,
+    "GroupId": 1,
+    "SkillId": 5091301,
+    "Priority": 1,
+    "Weight": 1,
+    "Rate": 10000,
+    "CD": 99990000,
+    "InitialCDPool": [
+      0
+    ],
+    "ReleaseDistance": 2000000,
+    "ReleaseAngle": 3600000,
+    "TraceDuration": 10000,
+    "Activate": true
+  },
   "501210101": {
     "Id": 501210101,
     "GroupId": 1,
@@ -14828,6 +14844,42 @@
     "TraceDuration": 50000,
     "Activate": true
   },
+  "501812201": {
+    "Id": 501812201,
+    "SkillId": 5018117,
+    "Priority": 99,
+    "Weight": 1,
+    "Rate": 10000,
+    "CD": 150000,
+    "ReleaseDistance": 990000,
+    "ReleaseAngle": 3600000,
+    "TraceDuration": 50000,
+    "Activate": true
+  },
+  "501812202": {
+    "Id": 501812202,
+    "SkillId": 5018121,
+    "Priority": 99,
+    "Weight": 1,
+    "Rate": 10000,
+    "CD": 150000,
+    "ReleaseDistance": 990000,
+    "ReleaseAngle": 3600000,
+    "TraceDuration": 50000,
+    "Activate": true
+  },
+  "501812203": {
+    "Id": 501812203,
+    "SkillId": 5018134,
+    "Priority": 99,
+    "Weight": 1,
+    "Rate": 10000,
+    "CD": 150000,
+    "ReleaseDistance": 990000,
+    "ReleaseAngle": 3600000,
+    "TraceDuration": 50000,
+    "Activate": true
+  },
   "502010101": {
     "Id": 502010101,
     "GroupId": 1,
@@ -15628,6 +15680,25 @@
     "ActiveParam1": "5",
     "DeActiveConditionType1": 4,
     "DeActiveParam1": "4"
+  },
+  "502510197": {
+    "Id": 502510197,
+    "GroupId": 1,
+    "SkillId": 5025130,
+    "Priority": 6,
+    "Weight": 1,
+    "Rate": 10000,
+    "InitialCDPool": [
+      0
+    ],
+    "ReleaseDistance": 500000,
+    "ReleaseAngle": 3600000,
+    "TraceDuration": 50000,
+    "ActiveConditionType1": 8,
+    "ActiveParam1": "1",
+    "ActiveParam2": "502510008",
+    "FollowEventType1": 1,
+    "FollowEventParam1": "502510197"
   },
   "502510198": {
     "Id": 502510198,

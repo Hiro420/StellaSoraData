@@ -23,6 +23,7 @@
       2
     ],
     "EndType": 1,
+    "EnterRes": "Icon/Banner/banner_activity_101003",
     "TabBgRes": "Icon/Banner/tab_activity_101003"
   },
   "102001": {
@@ -38,6 +39,7 @@
     "StartTime": "2025-12-02T12:00:00+08:00",
     "EndType": 2,
     "EndTime": "2025-12-09T11:00:00+08:00",
+    "EnterRes": "Icon/Banner/banner_avtivity_towerdef_m",
     "TabBgRes": "Icon/Banner/tab_activity_towerdef"
   },
   "102002": {
@@ -53,6 +55,7 @@
     "StartTime": "2026-01-27T12:00:00+08:00",
     "EndType": 2,
     "EndTime": "2026-02-03T11:00:00+08:00",
+    "EnterRes": "Icon/Banner/banner_avtivity_towerdef_m",
     "TabBgRes": "Icon/Banner/tab_activity_towerdef"
   },
   "301001": {
@@ -117,6 +120,36 @@
     "EndType": 2,
     "EndTime": "2026-01-13T11:00:00+08:00",
     "TabBgRes": "Icon/Banner/tab_activity_301013"
+  },
+  "301021": {
+    "Id": 301021,
+    "SortId": 5,
+    "ActivityType": 2,
+    "Name": "情人节特殊签到",
+    "PreLimit": 1,
+    "LimitParam": "2",
+    "PlayCond": 1,
+    "PlayCondParams": "2",
+    "StartType": 2,
+    "StartTime": "2026-02-10T12:00:00+08:00",
+    "EndType": 2,
+    "EndTime": "2026-02-24T11:00:00+08:00",
+    "TabBgRes": "Icon/Banner/tab_activity_301021"
+  },
+  "301022": {
+    "Id": 301022,
+    "SortId": 5,
+    "ActivityType": 2,
+    "Name": "春节特殊签到",
+    "PreLimit": 1,
+    "LimitParam": "2",
+    "PlayCond": 1,
+    "PlayCondParams": "2",
+    "StartType": 2,
+    "StartTime": "2026-02-17T12:00:00+08:00",
+    "EndType": 2,
+    "EndTime": "2026-03-03T04:00:00+08:00",
+    "TabBgRes": "Icon/Banner/tab_activity_301022"
   },
   "201001": {
     "Id": 201001,
@@ -208,6 +241,17 @@
     "EndTime": "2026-02-03T10:59:59+08:00",
     "TabBgRes": "Icon/Banner/tab_activity_sidestory"
   },
+  "201009": {
+    "Id": 201009,
+    "SortId": 14,
+    "ActivityType": 13,
+    "Name": "诺瓦异闻-雾语岭川",
+    "StartType": 2,
+    "StartTime": "2026-02-14T12:00:00+08:00",
+    "EndType": 2,
+    "EndTime": "2026-02-24T10:59:59+08:00",
+    "TabBgRes": "Icon/Banner/tab_activity_sidestory"
+  },
   "400000": {
     "Id": 400000,
     "MidGroupId": 10100,
@@ -252,7 +296,7 @@
     "SortId": 4,
     "ActivityType": 3,
     "Name": "幸运寻宝铲3期",
-    "ActivityThemeType": 5,
+    "ActivityThemeType": 6,
     "StartType": 2,
     "StartTime": "2026-01-13T12:00:00+08:00",
     "EndType": 2,
@@ -270,6 +314,18 @@
     "EndType": 2,
     "EndTime": "2026-01-06T04:00:00+08:00",
     "TabBgRes": "Icon/Banner/tab_activity_cookie"
+  },
+  "400006": {
+    "Id": 400006,
+    "MidGroupId": 10104,
+    "SortId": 4,
+    "ActivityType": 4,
+    "Name": "曲奇工坊三期",
+    "ActivityThemeType": 7,
+    "StartType": 2,
+    "StartTime": "2026-02-03T12:00:00+08:00",
+    "EndType": 2,
+    "EndTime": "2026-02-17T04:00:00+08:00"
   },
   "500001": {
     "Id": 500001,
@@ -303,6 +359,22 @@
     "BannerRes": "banner_activity_05",
     "TabBgRes": "Icon/Banner/tab_activity_05"
   },
+  "500003": {
+    "Id": 500003,
+    "SortId": 6,
+    "ActivityType": 14,
+    "Name": "BD兑换活动",
+    "PreLimit": 1,
+    "LimitParam": "10",
+    "PlayCond": 1,
+    "PlayCondParams": "10",
+    "StartType": 2,
+    "StartTime": "2026-02-17T12:00:00+08:00",
+    "EndType": 2,
+    "EndTime": "2026-02-24T11:00:00+08:00",
+    "BannerRes": "banner_activity_05",
+    "TabBgRes": "Icon/Banner/tab_activity_05"
+  },
   "510001": {
     "Id": 510001,
     "SortId": 4,
@@ -316,6 +388,7 @@
     "StartTime": "2025-11-10T12:00:00+08:00",
     "EndType": 2,
     "EndTime": "2025-11-18T03:59:59+08:00",
+    "EnterRes": "Icon/Banner/banner_avtivity_m",
     "TabBgRes": "Icon/Banner/tab_activity_jointdrill"
   },
   "510002": {
@@ -331,6 +404,7 @@
     "StartTime": "2026-01-05T12:00:00+08:00",
     "EndType": 2,
     "EndTime": "2026-01-14T03:59:59+08:00",
+    "EnterRes": "Icon/Banner/banner_avtivity_m",
     "TabBgRes": "Icon/Banner/tab_activity_jointdrill"
   },
   "600001": {
@@ -346,6 +420,7 @@
     "StartTime": "2025-12-23T12:00:00+08:00",
     "EndType": 2,
     "EndTime": "2026-01-13T10:59:59+08:00",
+    "EnterRes": "Icon/Banner/banner_travelerduel_r",
     "HideFromActivityList": true
   },
   "700101": {
@@ -443,7 +518,7 @@
     "StartType": 2,
     "StartTime": "2026-01-13T12:00:00+08:00",
     "EndType": 2,
-    "EndTime": "2026-02-03T10:59:59+08:00",
+    "EndTime": "2026-02-03T04:00:00+08:00",
     "TabBgRes": "Icon/Banner/tab_activity_trial_110"
   },
   "700110": {
@@ -456,6 +531,28 @@
     "EndType": 2,
     "EndTime": "2026-02-17T04:00:00+08:00",
     "TabBgRes": "Icon/Banner/tab_activity_trial_135"
+  },
+  "700111": {
+    "Id": 700111,
+    "SortId": 7,
+    "ActivityType": 6,
+    "Name": "浅试身手-异格科洛妮丝",
+    "StartType": 2,
+    "StartTime": "2026-02-03T12:00:00+08:00",
+    "EndType": 2,
+    "EndTime": "2026-02-24T10:59:59+08:00",
+    "TabBgRes": "Icon/Banner/tab_activity_trial_159"
+  },
+  "700112": {
+    "Id": 700112,
+    "SortId": 7,
+    "ActivityType": 6,
+    "Name": "浅试身手-赤霞",
+    "StartType": 2,
+    "StartTime": "2026-02-17T12:00:00+08:00",
+    "EndType": 2,
+    "EndTime": "2026-03-10T04:00:00+08:00",
+    "TabBgRes": "Icon/Banner/tab_activity_trial_141"
   },
   "1010001": {
     "Id": 1010001,
@@ -631,7 +728,7 @@
     "SortId": 8,
     "ActivityType": 9,
     "Name": "翡冷翠战斗关卡",
-    "ActivityThemeType": 5,
+    "ActivityThemeType": 6,
     "StartType": 2,
     "StartTime": "2026-01-13T12:00:00+08:00",
     "EndType": 2,
@@ -643,7 +740,7 @@
     "SortId": 11,
     "ActivityType": 11,
     "Name": "翡冷翠活动任务",
-    "ActivityThemeType": 5,
+    "ActivityThemeType": 6,
     "StartType": 2,
     "StartTime": "2026-01-13T12:00:00+08:00",
     "EndType": 2,
@@ -655,10 +752,103 @@
     "SortId": 12,
     "ActivityType": 12,
     "Name": "翡冷翠活动商店",
-    "ActivityThemeType": 5,
+    "ActivityThemeType": 6,
     "StartType": 2,
     "StartTime": "2026-01-13T12:00:00+08:00",
     "EndType": 2,
     "EndTime": "2026-02-03T10:59:59+08:00"
+  },
+  "1010401": {
+    "Id": 1010401,
+    "MidGroupId": 10104,
+    "ActivityType": 9,
+    "Name": "春节战斗关卡",
+    "ActivityThemeType": 7,
+    "StartType": 2,
+    "StartTime": "2026-02-03T12:00:00+08:00",
+    "EndType": 2,
+    "EndTime": "2026-02-17T04:00:00+08:00"
+  },
+  "1010402": {
+    "Id": 1010402,
+    "MidGroupId": 10104,
+    "ActivityType": 17,
+    "Name": "春节剧情故事",
+    "ActivityThemeType": 7,
+    "StartType": 2,
+    "StartTime": "2026-02-03T12:00:00+08:00",
+    "EndType": 2,
+    "EndTime": "2026-02-17T04:00:00+08:00"
+  },
+  "1010403": {
+    "Id": 1010403,
+    "MidGroupId": 10104,
+    "ActivityType": 11,
+    "Name": "春节活动任务",
+    "ActivityThemeType": 7,
+    "StartType": 2,
+    "StartTime": "2026-02-03T12:00:00+08:00",
+    "EndType": 2,
+    "EndTime": "2026-02-24T10:59:59+08:00"
+  },
+  "1010404": {
+    "Id": 1010404,
+    "MidGroupId": 10104,
+    "ActivityType": 12,
+    "Name": "春节活动商店",
+    "ActivityThemeType": 7,
+    "StartType": 2,
+    "StartTime": "2026-02-03T12:00:00+08:00",
+    "EndType": 2,
+    "EndTime": "2026-02-24T10:59:59+08:00"
+  },
+  "3010101": {
+    "Id": 3010101,
+    "MidGroupId": 30101,
+    "SortId": 5,
+    "ActivityType": 15,
+    "Name": "缭乱碎晶球第一期",
+    "ActivityThemeType": 4,
+    "PreLimit": 1,
+    "LimitParam": "5",
+    "PlayCond": 1,
+    "PlayCondParams": "5",
+    "StartType": 2,
+    "StartTime": "2026-02-17T12:00:00+08:00",
+    "EndType": 2,
+    "EndTime": "2026-02-27T03:59:59+08:00",
+    "EnterRes": "Icon/Banner/banner_marble_m"
+  },
+  "3010102": {
+    "Id": 3010102,
+    "MidGroupId": 30101,
+    "SortId": 11,
+    "ActivityType": 11,
+    "Name": "缭乱碎晶球任务",
+    "ActivityThemeType": 4,
+    "PreLimit": 1,
+    "LimitParam": "5",
+    "PlayCond": 1,
+    "PlayCondParams": "5",
+    "StartType": 2,
+    "StartTime": "2026-02-17T12:00:00+08:00",
+    "EndType": 2,
+    "EndTime": "2026-02-27T03:59:59+08:00"
+  },
+  "3010103": {
+    "Id": 3010103,
+    "MidGroupId": 30101,
+    "SortId": 12,
+    "ActivityType": 12,
+    "Name": "缭乱碎晶球商店",
+    "ActivityThemeType": 4,
+    "PreLimit": 1,
+    "LimitParam": "5",
+    "PlayCond": 1,
+    "PlayCondParams": "5",
+    "StartType": 2,
+    "StartTime": "2026-02-17T12:00:00+08:00",
+    "EndType": 2,
+    "EndTime": "2026-02-27T03:59:59+08:00"
   }
 }

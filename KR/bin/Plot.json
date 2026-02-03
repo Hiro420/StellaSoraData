@@ -734,6 +734,38 @@
     "Rewards": "{\"2\":30}",
     "PicSource": "Icon/MapEpisode/ep_character_13503"
   },
+  "14001": {
+    "Id": 14001,
+    "Char": 140,
+    "Name": "Plot.14001.1",
+    "Desc": "Plot.14001.2",
+    "AvgId": "CG_140_01",
+    "UnlockAffinityLevel": 1,
+    "Rewards": "{\"2\":30}",
+    "PicSource": "Icon/MapEpisode/ep_character_14001"
+  },
+  "14002": {
+    "Id": 14002,
+    "Char": 140,
+    "Name": "Plot.14002.1",
+    "Desc": "Plot.14002.2",
+    "AvgId": "CG_140_02",
+    "PrePlot": 14001,
+    "UnlockAffinityLevel": 5,
+    "Rewards": "{\"2\":30}",
+    "PicSource": "Icon/MapEpisode/ep_character_14002"
+  },
+  "14003": {
+    "Id": 14003,
+    "Char": 140,
+    "Name": "Plot.14003.1",
+    "Desc": "Plot.14003.2",
+    "AvgId": "CG_140_03",
+    "PrePlot": 14002,
+    "UnlockAffinityLevel": 10,
+    "Rewards": "{\"2\":30}",
+    "PicSource": "Icon/MapEpisode/ep_character_14003"
+  },
   "14101": {
     "Id": 14101,
     "Char": 141,

@@ -145,15 +145,6 @@
     "Param3": "63",
     "Param4": "20"
   },
-  "22": {
-    "Id": 22,
-    "BannerType": 8,
-    "bannerName": "banner_bossrush_4",
-    "Param1": "2026-02-01T04:00:00+08:00",
-    "Param2": "2026-03-01T03:00:00+08:00",
-    "Param3": "63",
-    "Param4": "20"
-  },
   "23": {
     "Id": 23,
     "BannerType": 8,
@@ -162,5 +153,21 @@
     "Param2": "2026-02-03T10:59:59+08:00",
     "Param3": "61",
     "Param4": "15"
+  },
+  "25": {
+    "Id": 25,
+    "BannerType": 5,
+    "bannerName": "banner_pack_07",
+    "Param1": "2026-02-03T12:00:00+08:00",
+    "Param2": "2026-02-24T10:59:59+08:00",
+    "Param3": "73"
+  },
+  "26": {
+    "Id": 26,
+    "BannerType": 6,
+    "bannerName": "banner_skin_13503",
+    "Param1": "2026-02-03T12:00:00+08:00",
+    "Param2": "2026-02-24T10:59:59+08:00",
+    "Param3": "skin.98.05"
   }
 }

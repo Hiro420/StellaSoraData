@@ -14,7 +14,7 @@
   "ScoreBossAbility.100006.1": "낙뢰 유도",
   "ScoreBossAbility.100006.2": "보스가 「낙뢰」를 보유할 시 자신이 입히는 피해가 <color=#ec6d21>&Param4&</color> 증가한다. 3초마다 추가로 작은 범위 피해를 4회 입힌다. \n전체 아군이 <color=#ec6d21>&Param1&</color>초 동안 보스에게 누적 <color=#ec6d21>&Param2&</color>회의 지원 캐릭터 스킬 피해를 입힐 시, 「낙뢰」가 15초간 무효되며 해당 기간 동안 보스가 지원 캐릭터에게 받는 스킬 피해가 <color=#ec6d21>&Param3&</color> 증가한다.",
   "ScoreBossAbility.100007.1": "흐름대로",
-  "ScoreBossAbility.100007.2": "보스가 <color=#ec6d21>&Param1&</color>의 피해 증가를 보유한다. 필드에 유저 진영의 소환물이 1개 존재할 때마다 보스의 피해가 <color=#ec6d21>&Param2&</color> 감소하며, 추가로 <color=#ec6d21>&Param3&</color>의 취약을 부여한다. 해당 효과는 최대 3스택 중첩된다. 소환물이 사라진 후 <color=#ec6d21>&Param4&</color>초간 지속된다.",
+  "ScoreBossAbility.100007.2": "보스가 <color=#ec6d21>&Param1&</color>의 피해 증가를 보유한다. 필드에 있는 유저 진영의 소환물 1개마다, 보스의 피해가 일시적으로 <color=#ec6d21>&Param2&</color> 감소하고, 취약 &Param3_kr3& 추가로 부여한다. 해당 효과는 최대 3스택 중첩되며, 소환물이 사라진 후 <color=#ec6d21>&Param4&</color>초간 지속된다.",
   "ScoreBossAbility.100008.1": "집중",
   "ScoreBossAbility.100008.2": "보스가 <color=#ec6d21>&Param1&</color>회의 피해를 입을 때마다 「집중」 1스택을 부여하여 자신이 입히는 피해가 <color=#ec6d21>&Param2&</color> 증가한다.\n<color=#ec6d21>&Param3&</color>초 내에 표식을 <color=#ec6d21>&Param4&</color>회 발동한다면, 현재 보유하고 있는 「집중」은 모두 제거된다. 다음 <color=#ec6d21>&Param5&</color>초간 보스가 받는 지원 캐릭터의 스킬 피해가 <color=#ec6d21>&Param6&</color> 증가한다. 해당 효과는 <color=#ec6d21>&Param7&</color>초간 최대 1회 발동하며, 중복으로 발동 시 지속 시간이 초기화된다."
 }

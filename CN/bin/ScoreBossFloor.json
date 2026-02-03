@@ -1,8 +1,8 @@
 {
   "1001001": {
     "Id": 1001001,
-    "SceneName": "Levels/Roguelike/Roguelike_2/Roguelike_2_MiniBoss_004",
-    "ConfigPrefabName": "Roguelike_MiniBoss_FanRongZhiShiTi_Fire_Test",
+    "SceneName": "Levels/Roguelike/Roguelike_2/Roguelike_2_MiniBoss_005",
+    "ConfigPrefabName": "Roguelike_MiniBoss_DaWuGui_Test",
     "BGM": "city_combatBoss_setState",
     "LeaveTriggerEvent": "amb_city_all_stop"
   },
@@ -46,14 +46,6 @@
     "BGM": "roguelike_combatFan_setState",
     "LeaveTriggerEvent": "amb_roguelike_all_stop"
   },
-  "1001010": {
-    "Id": 1001010,
-    "SceneName": "Levels/Roguelike/Roguelike_4/Roguelike_4_Boss_002",
-    "ConfigPrefabName": "Roguelike_4_Boss_TaiDeng_BossRush",
-    "Theme": 110,
-    "BGM": "roguelike_combatLamp_setState",
-    "LeaveTriggerEvent": "amb_roguelike_all_stop"
-  },
   "1001007": {
     "Id": 1001007,
     "SceneName": "Levels/Roguelike/Roguelike_3/Roguelike_3_Boss_003",
@@ -69,5 +61,29 @@
     "Theme": 12,
     "BGM": "fengNiao_realChallenge_setState",
     "LeaveTriggerEvent": "amb_company_all_stop"
+  },
+  "1001009": {
+    "Id": 1001009,
+    "SceneName": "Levels/Roguelike/Roguelike_3/Roguelike_3_Boss_001",
+    "ConfigPrefabName": "RegionBoss_DaGuanZi_BossRush",
+    "Theme": 106,
+    "BGM": "roguelike_combatGuanzi_setState",
+    "LeaveTriggerEvent": "amb_roguelike_all_stop"
+  },
+  "1001010": {
+    "Id": 1001010,
+    "SceneName": "Levels/Roguelike/Roguelike_4/Roguelike_4_Boss_002",
+    "ConfigPrefabName": "Roguelike_4_Boss_TaiDeng_BossRush",
+    "Theme": 110,
+    "BGM": "roguelike_combatLamp_setState",
+    "LeaveTriggerEvent": "amb_roguelike_all_stop"
+  },
+  "1001011": {
+    "Id": 1001011,
+    "SceneName": "Levels/Roguelike/Roguelike_2/Roguelike_2_Boss_002",
+    "ConfigPrefabName": "Roguelike_Boss_ShaSha_BossRush_2",
+    "Theme": 105,
+    "BGM": "roguelike_combatShasha_setState",
+    "LeaveTriggerEvent": "amb_roguelike_all_stop"
   }
 }

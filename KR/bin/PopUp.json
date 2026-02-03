@@ -93,6 +93,25 @@
     "EndType": 2,
     "EndTime": "2026-02-03T10:59:59+08:00"
   },
+  "6": {
+    "Id": 6,
+    "SortId": 6,
+    "PopUpType": 3,
+    "PopUpRes": "UI/MallPkgPopup/Popup_5",
+    "ScriptName": "OwnPopUp.MallPkgPopupCtrl",
+    "ScriptParams": "[\"pack.07_res\", \"pack.07_role_sd\", \"pack.07_disc_l\", \"pack.07_role_l\"]",
+    "PopRefreshType": 3,
+    "PopJumpType": 3,
+    "JumpToParams": 18,
+    "StartCondType": 71,
+    "StartCondParams": [
+      2
+    ],
+    "StartType": 2,
+    "StartTime": "2026-02-03T12:00:00+08:00",
+    "EndType": 2,
+    "EndTime": "2026-02-24T10:59:59+08:00"
+  },
   "1000": {
     "Id": 1000,
     "SortId": 1000,
@@ -144,13 +163,33 @@
     "PopRefreshType": 2,
     "PopJumpType": 2
   },
+  "1005": {
+    "Id": 1005,
+    "SortId": 1005,
+    "PopUpType": 2,
+    "ActivityId": 30101,
+    "PopUpRes": "UI_Activity/30101/PopUp",
+    "ScriptName": "ActivityPopUp.ActivityBreakOut_30101PopUpCtrl",
+    "PopRefreshType": 2,
+    "PopJumpType": 2
+  },
+  "1006": {
+    "Id": 1006,
+    "SortId": 1006,
+    "PopUpType": 2,
+    "ActivityId": 10104,
+    "PopUpRes": "UI_Activity/10104/PopUp",
+    "ScriptName": "ActivityPopUp.ActivitySpringFestival_10104PopUpCtrl",
+    "PopRefreshType": 2,
+    "PopJumpType": 2
+  },
   "2005": {
     "Id": 2005,
     "SortId": 2005,
     "PopUpType": 1,
     "ActivityId": 510001,
     "PopUpRes": "UI_Activity/_510001/PopUp",
-    "ScriptName": "ActivityPopUp.ActivityJointDrillPopUpCtrl",
+    "ScriptName": "ActivityPopUp.ActivityJointDrill_510001PopUpCtrl",
     "PopRefreshType": 2,
     "PopJumpType": 2,
     "JumpToParams": 149
@@ -185,7 +224,7 @@
     "PopUpType": 1,
     "ActivityId": 510002,
     "PopUpRes": "UI_Activity/_510001/PopUp",
-    "ScriptName": "ActivityPopUp.ActivityJointDrillPopUpCtrl",
+    "ScriptName": "ActivityPopUp.ActivityJointDrill_510001PopUpCtrl",
     "PopRefreshType": 2,
     "PopJumpType": 2,
     "JumpToParams": 149

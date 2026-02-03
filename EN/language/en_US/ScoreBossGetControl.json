@@ -32,5 +32,9 @@
   "ScoreBossGetControl.1016.1": "Bounty: Blade Collector",
   "ScoreBossGetControl.1016.2": "Each Blade reclaimed by the boss increases Technique Score by <color=#ec6d21>&Param1&</color>, up to <color=#ec6d21>&Param2&</color> times, totaling <color=#ec6d21>&Param3&</color> points.",
   "ScoreBossGetControl.1017.1": "Bounty: Petal Dodger",
-  "ScoreBossGetControl.1017.2": "Each successful dodge from the boss's flower volley increases Technique Score by <color=#ec6d21>&Param1&</color>, up to <color=#ec6d21>&Param2&</color> times, totaling <color=#ec6d21>&Param3&</color> points."
+  "ScoreBossGetControl.1017.2": "Each successful dodge from the boss's flower volley increases Technique Score by <color=#ec6d21>&Param1&</color>, up to <color=#ec6d21>&Param2&</color> times, totaling <color=#ec6d21>&Param3&</color> points.",
+  "ScoreBossGetControl.1018.1": "Bounty: Nimble Reflexes",
+  "ScoreBossGetControl.1018.2": "Whenever the boss casts a Charge skill, dodging the Charge grants <color=#ec6d21>&Param1&</color> Technique Score, up to <color=#ec6d21>&Param2&</color> times, totaling <color=#ec6d21>&Param3&</color> points.",
+  "ScoreBossGetControl.1019.1": "Bounty: Watch Your Step",
+  "ScoreBossGetControl.1019.2": "Whenever the boss casts a skill that triggers Ground Fissure, dodging the Ground Fissure grants <color=#ec6d21>&Param1&</color> Technique Score, up to <color=#ec6d21>&Param2&</color> times, totaling <color=#ec6d21>&Param3&</color> points."
 }

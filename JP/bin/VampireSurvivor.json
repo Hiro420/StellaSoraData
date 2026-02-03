@@ -1001,5 +1001,62 @@
     ],
     "SpeciaFateCard": "[[],[98649,98650,98651],[98640,98641,98642],[98613,98614,98615],[98658,98659,98660]]",
     "SpeciaFateCardParam": "[[],[3,6,6],[3,6,6],[3,6,6],[3,6,6]]"
+  },
+  "306": {
+    "Id": 306,
+    "Name": "VampireSurvivor.306.1",
+    "Name1": "VampireSurvivor.306.2",
+    "Name2": "VampireSurvivor.306.3",
+    "EET": [
+      3,
+      6,
+      2
+    ],
+    "NotEET": [
+      1,
+      5,
+      4
+    ],
+    "SuggestedPower": 70,
+    "RecommendBuildRank": 26,
+    "Mode": 2,
+    "Type": 3,
+    "PreLevelId": 201,
+    "NeedWorldClass": 12,
+    "FirstQuestGroupId": 306,
+    "LevelGroupId": 1,
+    "FloorId": 83006,
+    "NormalScore1": 15,
+    "EliteScore1": 60,
+    "BossScore1": 7000,
+    "TimeScore1": 7000,
+    "TimeLimit1": 800,
+    "NormalScore2": 15,
+    "EliteScore2": 60,
+    "BossScore2": 7000,
+    "TimeScore2": 7000,
+    "TimeLimit2": 800,
+    "EETScore1": [
+      3,
+      6
+    ],
+    "EETScore2": [
+      3,
+      2
+    ],
+    "FHPreviewMonsterGroupId": 830231,
+    "SHPreviewMonsterGroupId": 830192,
+    "CoverEpisode": "Icon/MapChallenge/zs_survivor_entrancepic_302",
+    "Episode": "Icon/MapChallenge/zs_survivor_entrancepic_302_L1",
+    "Episode2": "Icon/MapChallenge/zs_survivor_entrancepic_302_L2",
+    "FateCardBundle": [
+      101,
+      203,
+      206,
+      207,
+      306
+    ],
+    "SpeciaFateCard": "[[],[98652,98653,98654],[98610,98611,98612],[98637,98638,98639],[98643,98644,98645]]",
+    "SpeciaFateCardParam": "[[],[3,6,6],[3,6,6],[3,6,6],[3,6,6]]"
   }
 }

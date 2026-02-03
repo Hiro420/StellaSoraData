@@ -263,19 +263,33 @@
     "Source": "Icon/Loading/loading_comic_39",
     "Title": "MangaLoading.39.1",
     "ConditionType": 1,
-    "Weight": 400
+    "Weight": 100
   },
   "40": {
     "Id": 40,
     "Source": "Icon/Loading/loading_comic_40",
     "Title": "MangaLoading.40.1",
     "ConditionType": 1,
-    "Weight": 400
+    "Weight": 100
   },
   "41": {
     "Id": 41,
     "Source": "Icon/Loading/loading_comic_41",
     "Title": "MangaLoading.41.1",
+    "ConditionType": 1,
+    "Weight": 100
+  },
+  "42": {
+    "Id": 42,
+    "Source": "Icon/Loading/loading_comic_42",
+    "Title": "MangaLoading.42.1",
+    "ConditionType": 1,
+    "Weight": 400
+  },
+  "43": {
+    "Id": 43,
+    "Source": "Icon/Loading/loading_comic_43",
+    "Title": "MangaLoading.43.1",
     "ConditionType": 1,
     "Weight": 400
   }

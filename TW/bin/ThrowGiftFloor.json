@@ -1,0 +1,112 @@
+{
+  "40000501": {
+    "Id": 40000501,
+    "SceneName": "_400005/Levels/TemplateLevel1",
+    "ConfigPrefabName": "TemplateLevel1",
+    "GiftNum": 5,
+    "InitialGiftSort": [
+      3,
+      3,
+      3,
+      3,
+      3
+    ]
+  },
+  "40000502": {
+    "Id": 40000502,
+    "SceneName": "_400005/Levels/TemplateLevel2",
+    "ConfigPrefabName": "TemplateLevel2",
+    "GiftNum": 5,
+    "InitialGiftSort": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  "40000503": {
+    "Id": 40000503,
+    "SceneName": "_400005/Levels/TemplateLevel3",
+    "ConfigPrefabName": "TemplateLevel3",
+    "GiftNum": 5,
+    "InitialGiftSort": [
+      1,
+      2,
+      1,
+      2,
+      1
+    ]
+  },
+  "40000504": {
+    "Id": 40000504,
+    "SceneName": "_400005/Levels/TemplateLevel4",
+    "ConfigPrefabName": "TemplateLevel4",
+    "GiftNum": 5,
+    "InitialGiftSort": [
+      1,
+      2,
+      1,
+      2,
+      1
+    ]
+  },
+  "40000505": {
+    "Id": 40000505,
+    "SceneName": "_400005/Levels/TemplateLevel5",
+    "ConfigPrefabName": "TemplateLevel5",
+    "InitialGiftSort": [
+      1,
+      2,
+      1,
+      2,
+      1
+    ],
+    "GiftRandom": [
+      1,
+      2
+    ]
+  },
+  "40000506": {
+    "Id": 40000506,
+    "SceneName": "_400005/Levels/TemplateLevel6",
+    "ConfigPrefabName": "TemplateLevel6",
+    "InitialGiftSort": [
+      1,
+      2,
+      3,
+      1,
+      2,
+      1
+    ],
+    "GiftRandom": [
+      1,
+      2,
+      3
+    ]
+  },
+  "40000507": {
+    "Id": 40000507,
+    "SceneName": "_400005/Levels/TemplateLevel7",
+    "ConfigPrefabName": "TemplateLevel7",
+    "GiftNum": 5,
+    "InitialGiftSort": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  "40000508": {
+    "Id": 40000508,
+    "SceneName": "_400005/Levels/TemplateLevel8",
+    "ConfigPrefabName": "TemplateLevel8",
+    "InitialGiftSort": [
+      1
+    ],
+    "GiftRandom": [
+      1
+    ]
+  }
+}

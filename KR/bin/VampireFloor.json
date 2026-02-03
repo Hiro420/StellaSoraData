@@ -495,7 +495,7 @@
       81001,
       9989
     ],
-    "FHBossId": 8250220,
+    "FHBossId": 8250250,
     "SecondHalfPoolId": 1196,
     "SHAffixId": [
       81030,
@@ -503,7 +503,7 @@
       81001,
       9989
     ],
-    "SHBossId": 8250630,
+    "SHBossId": 8270150,
     "SpecialEnemySetId": "[[103599,100]]",
     "TreasureSetId": "[[103699,100]]"
   },
@@ -521,7 +521,7 @@
       81001,
       9989
     ],
-    "FHBossId": 8250610,
+    "FHBossId": 8250220,
     "SecondHalfPoolId": 1266,
     "SHAffixId": [
       81040,
@@ -529,7 +529,7 @@
       81001,
       9989
     ],
-    "SHBossId": 8270130,
+    "SHBossId": 8270120,
     "SpecialEnemySetId": "[[100599,100]]",
     "TreasureSetId": "[[100699,100]]"
   },
@@ -582,6 +582,240 @@
       9989
     ],
     "SHBossId": 8270160,
+    "SpecialEnemySetId": "[[102599,100]]",
+    "TreasureSetId": "[[102699,100]]"
+  },
+  "83010": {
+    "Id": 83010,
+    "MapId": 8100301,
+    "WaveCount": [
+      7,
+      5
+    ],
+    "FirstHalfPoolId": 1155,
+    "FHAffixId": [
+      81050,
+      81060,
+      81001,
+      9989
+    ],
+    "FHBossId": 8250630,
+    "SecondHalfPoolId": 1346,
+    "SHAffixId": [
+      81050,
+      81010,
+      81001,
+      9989
+    ],
+    "SHBossId": 8270130,
+    "SpecialEnemySetId": "[[102599,100]]",
+    "TreasureSetId": "[[102699,100]]"
+  },
+  "83011": {
+    "Id": 83011,
+    "MapId": 8100401,
+    "WaveCount": [
+      7,
+      5
+    ],
+    "FirstHalfPoolId": 1325,
+    "FHAffixId": [
+      81030,
+      81050,
+      81001,
+      9989
+    ],
+    "FHBossId": 8270130,
+    "SecondHalfPoolId": 1196,
+    "SHAffixId": [
+      81030,
+      81060,
+      81001,
+      9989
+    ],
+    "SHBossId": 8270130,
+    "SpecialEnemySetId": "[[102599,100]]",
+    "TreasureSetId": "[[102699,100]]"
+  },
+  "83012": {
+    "Id": 83012,
+    "MapId": 8100101,
+    "WaveCount": [
+      7,
+      5
+    ],
+    "FirstHalfPoolId": 1095,
+    "FHAffixId": [
+      81020,
+      81030,
+      81001,
+      9989
+    ],
+    "FHBossId": 8250220,
+    "SecondHalfPoolId": 1136,
+    "SHAffixId": [
+      81020,
+      81050,
+      81001,
+      9989
+    ],
+    "SHBossId": 8250630,
+    "SpecialEnemySetId": "[[102599,100]]",
+    "TreasureSetId": "[[102699,100]]"
+  },
+  "83013": {
+    "Id": 83013,
+    "MapId": 8100201,
+    "WaveCount": [
+      7,
+      5
+    ],
+    "FirstHalfPoolId": 1125,
+    "FHAffixId": [
+      81010,
+      81020,
+      81001,
+      9989
+    ],
+    "FHBossId": 8250630,
+    "SecondHalfPoolId": 1206,
+    "SHAffixId": [
+      81010,
+      81030,
+      81001,
+      9989
+    ],
+    "SHBossId": 8270100,
+    "SpecialEnemySetId": "[[102599,100]]",
+    "TreasureSetId": "[[102699,100]]"
+  },
+  "83014": {
+    "Id": 83014,
+    "MapId": 8100301,
+    "WaveCount": [
+      7,
+      5
+    ],
+    "FirstHalfPoolId": 1285,
+    "FHAffixId": [
+      81060,
+      81010,
+      81001,
+      9989
+    ],
+    "FHBossId": 8250610,
+    "SecondHalfPoolId": 1056,
+    "SHAffixId": [
+      81060,
+      81020,
+      81001,
+      9989
+    ],
+    "SHBossId": 8270160,
+    "SpecialEnemySetId": "[[102599,100]]",
+    "TreasureSetId": "[[102699,100]]"
+  },
+  "83015": {
+    "Id": 83015,
+    "MapId": 8100401,
+    "WaveCount": [
+      7,
+      5
+    ],
+    "FirstHalfPoolId": 1295,
+    "FHAffixId": [
+      81040,
+      81060,
+      81001,
+      9989
+    ],
+    "FHBossId": 8250250,
+    "SecondHalfPoolId": 1026,
+    "SHAffixId": [
+      81040,
+      81010,
+      81001,
+      9989
+    ],
+    "SHBossId": 8270130,
+    "SpecialEnemySetId": "[[102599,100]]",
+    "TreasureSetId": "[[102699,100]]"
+  },
+  "83016": {
+    "Id": 83016,
+    "MapId": 8100101,
+    "WaveCount": [
+      7,
+      5
+    ],
+    "FirstHalfPoolId": 1325,
+    "FHAffixId": [
+      81030,
+      81040,
+      81001,
+      9989
+    ],
+    "FHBossId": 8270130,
+    "SecondHalfPoolId": 1236,
+    "SHAffixId": [
+      81030,
+      81060,
+      81001,
+      9989
+    ],
+    "SHBossId": 8270150,
+    "SpecialEnemySetId": "[[102599,100]]",
+    "TreasureSetId": "[[102699,100]]"
+  },
+  "83017": {
+    "Id": 83017,
+    "MapId": 8100201,
+    "WaveCount": [
+      7,
+      5
+    ],
+    "FirstHalfPoolId": 1005,
+    "FHAffixId": [
+      81050,
+      81030,
+      81001,
+      9989
+    ],
+    "FHBossId": 8250220,
+    "SecondHalfPoolId": 1106,
+    "SHAffixId": [
+      81050,
+      81040,
+      81001,
+      9989
+    ],
+    "SHBossId": 8250630,
+    "SpecialEnemySetId": "[[102599,100]]",
+    "TreasureSetId": "[[102699,100]]"
+  },
+  "83018": {
+    "Id": 83018,
+    "MapId": 8100301,
+    "WaveCount": [
+      7,
+      5
+    ],
+    "FirstHalfPoolId": 1115,
+    "FHAffixId": [
+      81010,
+      81050,
+      81001,
+      9989
+    ],
+    "FHBossId": 8250630,
+    "SecondHalfPoolId": 1336,
+    "SHAffixId": [
+      81010,
+      81030,
+      81001,
+      9989
+    ],
+    "SHBossId": 8270130,
     "SpecialEnemySetId": "[[102599,100]]",
     "TreasureSetId": "[[102699,100]]"
   }

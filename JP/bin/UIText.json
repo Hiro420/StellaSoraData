@@ -735,6 +735,22 @@
     "Id": "Gacha_FesGacha",
     "Text": "UIText.Gacha_FesGacha.1"
   },
+  "Gacha_Cover_CharUpTitle": {
+    "Id": "Gacha_Cover_CharUpTitle",
+    "Text": "UIText.Gacha_Cover_CharUpTitle.1"
+  },
+  "Gacha_Cover_DiscUpTitle": {
+    "Id": "Gacha_Cover_DiscUpTitle",
+    "Text": "UIText.Gacha_Cover_DiscUpTitle.1"
+  },
+  "Gacha_Cover_UpItemTitle": {
+    "Id": "Gacha_Cover_UpItemTitle",
+    "Text": "UIText.Gacha_Cover_UpItemTitle.1"
+  },
+  "Gacha_Cover_GoToTrial": {
+    "Id": "Gacha_Cover_GoToTrial",
+    "Text": "UIText.Gacha_Cover_GoToTrial.1"
+  },
   "Guide_Jump": {
     "Id": "Guide_Jump",
     "Text": "UIText.Guide_Jump.1"
@@ -2442,6 +2458,46 @@
   "Gacha_sync_ack": {
     "Id": "Gacha_sync_ack",
     "Text": "UIText.Gacha_sync_ack.1"
+  },
+  "PenguinCard_AddBtnMaxLevel": {
+    "Id": "PenguinCard_AddBtnMaxLevel",
+    "Text": "UIText.PenguinCard_AddBtnMaxLevel.1"
+  },
+  "PenguinCard_NotEnoughScoreUpgrade": {
+    "Id": "PenguinCard_NotEnoughScoreUpgrade",
+    "Text": "UIText.PenguinCard_NotEnoughScoreUpgrade.1"
+  },
+  "PenguinCard_Error_EmptyPenguinCard": {
+    "Id": "PenguinCard_Error_EmptyPenguinCard",
+    "Text": "UIText.PenguinCard_Error_EmptyPenguinCard.1"
+  },
+  "PenguinCard_RollMax": {
+    "Id": "PenguinCard_RollMax",
+    "Text": "UIText.PenguinCard_RollMax.1"
+  },
+  "PenguinCard_NotEnoughScoreRoll": {
+    "Id": "PenguinCard_NotEnoughScoreRoll",
+    "Text": "UIText.PenguinCard_NotEnoughScoreRoll.1"
+  },
+  "PenguinCard_SlotMax": {
+    "Id": "PenguinCard_SlotMax",
+    "Text": "UIText.PenguinCard_SlotMax.1"
+  },
+  "PenguinCard_Quest_ReceiveNone": {
+    "Id": "PenguinCard_Quest_ReceiveNone",
+    "Text": "UIText.PenguinCard_Quest_ReceiveNone.1"
+  },
+  "PenguinCard_AddRoundSuccess": {
+    "Id": "PenguinCard_AddRoundSuccess",
+    "Text": "UIText.PenguinCard_AddRoundSuccess.1"
+  },
+  "PenguinCard_AddRollSuccess": {
+    "Id": "PenguinCard_AddRollSuccess",
+    "Text": "UIText.PenguinCard_AddRollSuccess.1"
+  },
+  "PenguinCard_AddSlotSuccess": {
+    "Id": "PenguinCard_AddSlotSuccess",
+    "Text": "UIText.PenguinCard_AddSlotSuccess.1"
   },
   "Level_2_5_1": {
     "Id": "Level_2_5_1",
@@ -5767,6 +5823,10 @@
     "Id": "Mall_Tog_Skin",
     "Text": "UIText.Mall_Tog_Skin.1"
   },
+  "Mall_Tog_Recommend": {
+    "Id": "Mall_Tog_Recommend",
+    "Text": "UIText.Mall_Tog_Recommend.1"
+  },
   "Mall_Gem_Maiden": {
     "Id": "Mall_Gem_Maiden",
     "Text": "UIText.Mall_Gem_Maiden.1"
@@ -5935,17 +5995,17 @@
     "Id": "Mall_MonthlyCard_UseTip",
     "Text": "UIText.Mall_MonthlyCard_UseTip.1"
   },
-  "Mall_MonthlyCard_LimitTime": {
-    "Id": "Mall_MonthlyCard_LimitTime",
-    "Text": "UIText.Mall_MonthlyCard_LimitTime.1"
+  "Mall_MonthlyCard_LimitTime401": {
+    "Id": "Mall_MonthlyCard_LimitTime401",
+    "Text": "UIText.Mall_MonthlyCard_LimitTime401.1"
+  },
+  "Mall_MonthlyCard_LimitTime402": {
+    "Id": "Mall_MonthlyCard_LimitTime402",
+    "Text": "UIText.Mall_MonthlyCard_LimitTime402.1"
   },
   "Mall_MonthlyCard_RuleDetail": {
     "Id": "Mall_MonthlyCard_RuleDetail",
     "Text": "UIText.Mall_MonthlyCard_RuleDetail.1"
-  },
-  "Mall_MonthlyCard_RuleDesc": {
-    "Id": "Mall_MonthlyCard_RuleDesc",
-    "Text": "UIText.Mall_MonthlyCard_RuleDesc.1"
   },
   "MonthlyCard_RemainDay": {
     "Id": "MonthlyCard_RemainDay",
@@ -6606,6 +6666,10 @@
   "Raid_Btn_Cond": {
     "Id": "Raid_Btn_Cond",
     "Text": "UIText.Raid_Btn_Cond.1"
+  },
+  "Raid_Btn_CondStar": {
+    "Id": "Raid_Btn_CondStar",
+    "Text": "UIText.Raid_Btn_CondStar.1"
   },
   "Raid_Btn_Raid": {
     "Id": "Raid_Btn_Raid",
@@ -7631,9 +7695,17 @@
     "Id": "Equipment_Btn_Unload",
     "Text": "UIText.Equipment_Btn_Unload.1"
   },
+  "Equipment_Btn_UnloadShort": {
+    "Id": "Equipment_Btn_UnloadShort",
+    "Text": "UIText.Equipment_Btn_UnloadShort.1"
+  },
   "Equipment_Btn_Equip": {
     "Id": "Equipment_Btn_Equip",
     "Text": "UIText.Equipment_Btn_Equip.1"
+  },
+  "Equipment_Btn_EquipShort": {
+    "Id": "Equipment_Btn_EquipShort",
+    "Text": "UIText.Equipment_Btn_EquipShort.1"
   },
   "Equipment_Btn_Replace": {
     "Id": "Equipment_Btn_Replace",
@@ -7678,6 +7750,10 @@
   "Equipment_Title_AttrPreview": {
     "Id": "Equipment_Title_AttrPreview",
     "Text": "UIText.Equipment_Title_AttrPreview.1"
+  },
+  "Equipment_Title_EquipmentPreview": {
+    "Id": "Equipment_Title_EquipmentPreview",
+    "Text": "UIText.Equipment_Title_EquipmentPreview.1"
   },
   "Equipment_Title_Replace": {
     "Id": "Equipment_Title_Replace",
@@ -7730,6 +7806,10 @@
   "Equipment_Roll_NoneRolled": {
     "Id": "Equipment_Roll_NoneRolled",
     "Text": "UIText.Equipment_Roll_NoneRolled.1"
+  },
+  "Equipment_Roll_EmptyTitle": {
+    "Id": "Equipment_Roll_EmptyTitle",
+    "Text": "UIText.Equipment_Roll_EmptyTitle.1"
   },
   "Equipment_Btn_ConfirmRollResult": {
     "Id": "Equipment_Btn_ConfirmRollResult",
@@ -8278,6 +8358,10 @@
   "Disc_Btn_BreakLimitAll": {
     "Id": "Disc_Btn_BreakLimitAll",
     "Text": "UIText.Disc_Btn_BreakLimitAll.1"
+  },
+  "Disc_Has": {
+    "Id": "Disc_Has",
+    "Text": "UIText.Disc_Has.1"
   },
   "StarTower_Ranking_1": {
     "Id": "StarTower_Ranking_1",
@@ -8894,6 +8978,14 @@
   "StarTower_Depot_Note_Change_3": {
     "Id": "StarTower_Depot_Note_Change_3",
     "Text": "UIText.StarTower_Depot_Note_Change_3.1"
+  },
+  "StarTower_Depot_Note_Change_4": {
+    "Id": "StarTower_Depot_Note_Change_4",
+    "Text": "UIText.StarTower_Depot_Note_Change_4.1"
+  },
+  "StarTower_Depot_Note_Change_5": {
+    "Id": "StarTower_Depot_Note_Change_5",
+    "Text": "UIText.StarTower_Depot_Note_Change_5.1"
   },
   "StarTower_Click_Pre": {
     "Id": "StarTower_Click_Pre",
@@ -10415,6 +10507,10 @@
     "Id": "CharacterRelation_Favour_Reward",
     "Text": "UIText.CharacterRelation_Favour_Reward.1"
   },
+  "CharacterRelation_Favour_Gift": {
+    "Id": "CharacterRelation_Favour_Gift",
+    "Text": "UIText.CharacterRelation_Favour_Gift.1"
+  },
   "CharacterRelation_Tog_1": {
     "Id": "CharacterRelation_Tog_1",
     "Text": "UIText.CharacterRelation_Tog_1.1"
@@ -11142,6 +11238,18 @@
   "ScoreBoss_ReminTime": {
     "Id": "ScoreBoss_ReminTime",
     "Text": "UIText.ScoreBoss_ReminTime.1"
+  },
+  "ScoreBoss_RestartBattle": {
+    "Id": "ScoreBoss_RestartBattle",
+    "Text": "UIText.ScoreBoss_RestartBattle.1"
+  },
+  "ScoreBoss_RestartBattle_Tips": {
+    "Id": "ScoreBoss_RestartBattle_Tips",
+    "Text": "UIText.ScoreBoss_RestartBattle_Tips.1"
+  },
+  "ScoreBoss_Settlement_Ready": {
+    "Id": "ScoreBoss_Settlement_Ready",
+    "Text": "UIText.ScoreBoss_Settlement_Ready.1"
   },
   "VampireQuest_CurTag": {
     "Id": "VampireQuest_CurTag",
@@ -11954,6 +12062,26 @@
   "JointDrill_Beta_Tip": {
     "Id": "JointDrill_Beta_Tip",
     "Text": "UIText.JointDrill_Beta_Tip.1"
+  },
+  "JointDrill_BossSkill_Title": {
+    "Id": "JointDrill_BossSkill_Title",
+    "Text": "UIText.JointDrill_BossSkill_Title.1"
+  },
+  "JointDrill_Btn_Rank": {
+    "Id": "JointDrill_Btn_Rank",
+    "Text": "UIText.JointDrill_Btn_Rank.1"
+  },
+  "JointDrill_Boss_Die": {
+    "Id": "JointDrill_Boss_Die",
+    "Text": "UIText.JointDrill_Boss_Die.1"
+  },
+  "JointDrill_BossSkill_Detail": {
+    "Id": "JointDrill_BossSkill_Detail",
+    "Text": "UIText.JointDrill_BossSkill_Detail.1"
+  },
+  "JointDrill_Reward_Window_Title": {
+    "Id": "JointDrill_Reward_Window_Title",
+    "Text": "UIText.JointDrill_Reward_Window_Title.1"
   },
   "Continue_MainlineStory": {
     "Id": "Continue_MainlineStory",
@@ -13287,9 +13415,9 @@
     "Id": "DifficultyType",
     "Text": "UIText.DifficultyType.1"
   },
-  "OpenAfterClearingLevel": {
-    "Id": "OpenAfterClearingLevel",
-    "Text": "UIText.OpenAfterClearingLevel.1"
+  "BreakOut_Act_OpenAfterClearingLevel": {
+    "Id": "BreakOut_Act_OpenAfterClearingLevel",
+    "Text": "UIText.BreakOut_Act_OpenAfterClearingLevel.1"
   },
   "Weekly_Quest_Reward_Tip": {
     "Id": "Weekly_Quest_Reward_Tip",
@@ -13403,6 +13531,10 @@
     "Id": "TravelerDuel_JumptoAffixUnlock",
     "Text": "UIText.TravelerDuel_JumptoAffixUnlock.1"
   },
+  "BreakOut_Target_Score": {
+    "Id": "BreakOut_Target_Score",
+    "Text": "UIText.BreakOut_Target_Score.1"
+  },
   "BreakOut_Text_Pause": {
     "Id": "BreakOut_Text_Pause",
     "Text": "UIText.BreakOut_Text_Pause.1"
@@ -13418,6 +13550,10 @@
   "BreakOut_Button_Back": {
     "Id": "BreakOut_Button_Back",
     "Text": "UIText.BreakOut_Button_Back.1"
+  },
+  "BreakOut_PopUp_GoToAct": {
+    "Id": "BreakOut_PopUp_GoToAct",
+    "Text": "UIText.BreakOut_PopUp_GoToAct.1"
   },
   "Note_Count": {
     "Id": "Note_Count",
@@ -13487,21 +13623,17 @@
     "Id": "TravelerDuel_Affixes_Title",
     "Text": "UIText.TravelerDuel_Affixes_Title.1"
   },
-  "Gacha_Cover_CharUpTitle": {
-    "Id": "Gacha_Cover_CharUpTitle",
-    "Text": "UIText.Gacha_Cover_CharUpTitle.1"
+  "BreakOut_Play_ScoreTarget": {
+    "Id": "BreakOut_Play_ScoreTarget",
+    "Text": "UIText.BreakOut_Play_ScoreTarget.1"
   },
-  "Gacha_Cover_DiscUpTitle": {
-    "Id": "Gacha_Cover_DiscUpTitle",
-    "Text": "UIText.Gacha_Cover_DiscUpTitle.1"
+  "BreakOut_Result_Exit": {
+    "Id": "BreakOut_Result_Exit",
+    "Text": "UIText.BreakOut_Result_Exit.1"
   },
-  "Gacha_Cover_UpItemTitle": {
-    "Id": "Gacha_Cover_UpItemTitle",
-    "Text": "UIText.Gacha_Cover_UpItemTitle.1"
-  },
-  "Gacha_Cover_GoToTrial": {
-    "Id": "Gacha_Cover_GoToTrial",
-    "Text": "UIText.Gacha_Cover_GoToTrial.1"
+  "BreakOut_Result_Restart": {
+    "Id": "BreakOut_Result_Restart",
+    "Text": "UIText.BreakOut_Result_Restart.1"
   },
   "Mainline_Open_Time_Min": {
     "Id": "Mainline_Open_Time_Min",
@@ -13519,8 +13651,136 @@
     "Id": "Mainline_Open_Time_Hour",
     "Text": "UIText.Mainline_Open_Time_Hour.1"
   },
+  "NewTutorialsAct_WaitSeasonOpen": {
+    "Id": "NewTutorialsAct_WaitSeasonOpen",
+    "Text": "UIText.NewTutorialsAct_WaitSeasonOpen.1"
+  },
+  "NewTutorialsAct_PreLevelSeasonOpen": {
+    "Id": "NewTutorialsAct_PreLevelSeasonOpen",
+    "Text": "UIText.NewTutorialsAct_PreLevelSeasonOpen.1"
+  },
+  "NewTutorialsAct_Tab1": {
+    "Id": "NewTutorialsAct_Tab1",
+    "Text": "UIText.NewTutorialsAct_Tab1.1"
+  },
+  "NewTutorialsAct_Tab2": {
+    "Id": "NewTutorialsAct_Tab2",
+    "Text": "UIText.NewTutorialsAct_Tab2.1"
+  },
+  "ScoreBoss_Star_Reward": {
+    "Id": "ScoreBoss_Star_Reward",
+    "Text": "UIText.ScoreBoss_Star_Reward.1"
+  },
   "MainLine_Clue_Notice": {
     "Id": "MainLine_Clue_Notice",
     "Text": "UIText.MainLine_Clue_Notice.1"
+  },
+  "StorySet_Only_Show_Unread": {
+    "Id": "StorySet_Only_Show_Unread",
+    "Text": "UIText.StorySet_Only_Show_Unread.1"
+  },
+  "Level_Season_Count": {
+    "Id": "Level_Season_Count",
+    "Text": "UIText.Level_Season_Count.1"
+  },
+  "ThrowGift_Difficulty1": {
+    "Id": "ThrowGift_Difficulty1",
+    "Text": "UIText.ThrowGift_Difficulty1.1"
+  },
+  "ThrowGift_Difficulty2": {
+    "Id": "ThrowGift_Difficulty2",
+    "Text": "UIText.ThrowGift_Difficulty2.1"
+  },
+  "ThrowGift_Difficulty3": {
+    "Id": "ThrowGift_Difficulty3",
+    "Text": "UIText.ThrowGift_Difficulty3.1"
+  },
+  "ThrowGift_Difficulty4": {
+    "Id": "ThrowGift_Difficulty4",
+    "Text": "UIText.ThrowGift_Difficulty4.1"
+  },
+  "ThrowGift_LevelInfo_Unlock": {
+    "Id": "ThrowGift_LevelInfo_Unlock",
+    "Text": "UIText.ThrowGift_LevelInfo_Unlock.1"
+  },
+  "ThrowGift_LevelInfo_Go": {
+    "Id": "ThrowGift_LevelInfo_Go",
+    "Text": "UIText.ThrowGift_LevelInfo_Go.1"
+  },
+  "ThrowGift_LevelInfo_MaxScore": {
+    "Id": "ThrowGift_LevelInfo_MaxScore",
+    "Text": "UIText.ThrowGift_LevelInfo_MaxScore.1"
+  },
+  "ThrowGift_Target": {
+    "Id": "ThrowGift_Target",
+    "Text": "UIText.ThrowGift_Target.1"
+  },
+  "ThrowGift_Item": {
+    "Id": "ThrowGift_Item",
+    "Text": "UIText.ThrowGift_Item.1"
+  },
+  "ThrowGift_GroupLockHint": {
+    "Id": "ThrowGift_GroupLockHint",
+    "Text": "UIText.ThrowGift_GroupLockHint.1"
+  },
+  "ThrowGift_LevelScoreTitle": {
+    "Id": "ThrowGift_LevelScoreTitle",
+    "Text": "UIText.ThrowGift_LevelScoreTitle.1"
+  },
+  "ThrowGift_UseItem": {
+    "Id": "ThrowGift_UseItem",
+    "Text": "UIText.ThrowGift_UseItem.1"
+  },
+  "Activity_Remain_Time_OnlyDay": {
+    "Id": "Activity_Remain_Time_OnlyDay",
+    "Text": "UIText.Activity_Remain_Time_OnlyDay.1"
+  },
+  "Activity_Remain_Time_OnlyHour": {
+    "Id": "Activity_Remain_Time_OnlyHour",
+    "Text": "UIText.Activity_Remain_Time_OnlyHour.1"
+  },
+  "Activity_Remain_Time_OnlyMin": {
+    "Id": "Activity_Remain_Time_OnlyMin",
+    "Text": "UIText.Activity_Remain_Time_OnlyMin.1"
+  },
+  "StorySet_Chapter_Empty_Tip": {
+    "Id": "StorySet_Chapter_Empty_Tip",
+    "Text": "UIText.StorySet_Chapter_Empty_Tip.1"
+  },
+  "Mall_Recommend_Empty": {
+    "Id": "Mall_Recommend_Empty",
+    "Text": "UIText.Mall_Recommend_Empty.1"
+  },
+  "ThrowGift_Settle_Close": {
+    "Id": "ThrowGift_Settle_Close",
+    "Text": "UIText.ThrowGift_Settle_Close.1"
+  },
+  "ThrowGift_Settle_NextLevel": {
+    "Id": "ThrowGift_Settle_NextLevel",
+    "Text": "UIText.ThrowGift_Settle_NextLevel.1"
+  },
+  "ThrowGift_Settle_Restart": {
+    "Id": "ThrowGift_Settle_Restart",
+    "Text": "UIText.ThrowGift_Settle_Restart.1"
+  },
+  "ThrowGift_Settle_ScoreTitle": {
+    "Id": "ThrowGift_Settle_ScoreTitle",
+    "Text": "UIText.ThrowGift_Settle_ScoreTitle.1"
+  },
+  "ThrowGift_Settle_GiftCount": {
+    "Id": "ThrowGift_Settle_GiftCount",
+    "Text": "UIText.ThrowGift_Settle_GiftCount.1"
+  },
+  "ThrowGift_TargetHint_Title": {
+    "Id": "ThrowGift_TargetHint_Title",
+    "Text": "UIText.ThrowGift_TargetHint_Title.1"
+  },
+  "Affinity_Title": {
+    "Id": "Affinity_Title",
+    "Text": "UIText.Affinity_Title.1"
+  },
+  "Affinity_Title_LevelUp": {
+    "Id": "Affinity_Title_LevelUp",
+    "Text": "UIText.Affinity_Title_LevelUp.1"
   }
 }

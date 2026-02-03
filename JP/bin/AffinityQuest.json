@@ -3126,5 +3126,97 @@
     "CompleteCondParams": "[158,16]",
     "AffinityExp": 500,
     "Param1": "16"
+  },
+  "15901": {
+    "Id": 15901,
+    "Desc": "AffinityQuest.15901.1",
+    "SortId": 2,
+    "CharId": 159,
+    "CompleteCond": 78,
+    "CompleteCondParams": "[159,1]",
+    "AffinityExp": 100,
+    "Param1": "1"
+  },
+  "15902": {
+    "Id": 15902,
+    "Desc": "AffinityQuest.15902.1",
+    "SortId": 5,
+    "CharId": 159,
+    "CompleteCond": 73,
+    "CompleteCondParams": "[1,159]",
+    "AffinityExp": 150,
+    "Param1": "1"
+  },
+  "15903": {
+    "Id": 15903,
+    "Desc": "AffinityQuest.15903.1",
+    "SortId": 1,
+    "CharId": 159,
+    "CompleteCond": 13,
+    "CompleteCondParams": "[159,2]",
+    "AffinityExp": 50,
+    "Param1": "2"
+  },
+  "15904": {
+    "Id": 15904,
+    "Desc": "AffinityQuest.15904.1",
+    "SortId": 3,
+    "CharId": 159,
+    "CompleteCond": 9,
+    "CompleteCondParams": "[159,3]",
+    "AffinityExp": 100,
+    "Param1": "3"
+  },
+  "15905": {
+    "Id": 15905,
+    "Desc": "AffinityQuest.15905.1",
+    "SortId": 4,
+    "CharId": 159,
+    "CompleteCond": 526,
+    "CompleteCondParams": "[159,1,2300]",
+    "AffinityExp": 100,
+    "Param1": "1",
+    "Param2": "6"
+  },
+  "15906": {
+    "Id": 15906,
+    "Desc": "AffinityQuest.15906.1",
+    "SortId": 6,
+    "CharId": 159,
+    "CompleteCond": 13,
+    "CompleteCondParams": "[159,5]",
+    "AffinityExp": 150,
+    "Param1": "5"
+  },
+  "15907": {
+    "Id": 15907,
+    "Desc": "AffinityQuest.15907.1",
+    "SortId": 7,
+    "CharId": 159,
+    "CompleteCond": 79,
+    "CompleteCondParams": "[159,4]",
+    "AffinityExp": 150,
+    "Param1": "4"
+  },
+  "15908": {
+    "Id": 15908,
+    "Desc": "AffinityQuest.15908.1",
+    "SortId": 8,
+    "CharId": 159,
+    "CompleteCond": 526,
+    "CompleteCondParams": "[159,1,8040]",
+    "AffinityExp": 500,
+    "Param1": "1",
+    "Param2": "28"
+  },
+  "15909": {
+    "Id": 15909,
+    "Desc": "AffinityQuest.15909.1",
+    "SortId": 9,
+    "CharId": 159,
+    "CompleteCond": 525,
+    "CompleteCondParams": "[159,16]",
+    "AffinityExp": 500,
+    "Param1": "16"
   }
 }

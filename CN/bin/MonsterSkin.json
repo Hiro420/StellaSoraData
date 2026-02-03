@@ -3206,6 +3206,16 @@
     "ModelScale": 13000,
     "ColliderScale": 10000
   },
+  "5018117": {
+    "Id": 5018117,
+    "MonsterManual": 5018105,
+    "Model": "Actor/Monster/50181ShunYiGuai/50181ShunYiGuai_Actor_nothing",
+    "RunAnimationSpd": 50000,
+    "WalkAnimationSpd": 50000,
+    "BarHeight": 10000,
+    "ModelScale": 20000,
+    "ColliderScale": 8000
+  },
   "5018108": {
     "Id": 5018108,
     "MonsterManual": 5018116,
@@ -4585,6 +4595,25 @@
     "ModelScale": 15000,
     "ColliderScale": 10000
   },
+  "5025112": {
+    "Id": 5025112,
+    "MonsterManual": 5025161,
+    "Model": "Actor/Monster/50251ShanDianLieQuan/50251ShanDianLieQuan_Actor_dark",
+    "RunAnimationSpd": 60000,
+    "WalkAnimationSpd": 15000,
+    "BarHeight": 8000,
+    "ModelScale": 15000,
+    "ColliderScale": 10000
+  },
+  "5025122": {
+    "Id": 5025122,
+    "Model": "Actor/Monster/50251ShanDianLieQuan/50251ShanDianLieQuan_Actor_dark_Monster",
+    "RunAnimationSpd": 60000,
+    "WalkAnimationSpd": 15000,
+    "BarHeight": 8000,
+    "ModelScale": 13000,
+    "ColliderScale": 10000
+  },
   "5025114": {
     "Id": 5025114,
     "MonsterManual": 5025175,
@@ -4597,12 +4626,32 @@
   },
   "5025124": {
     "Id": 5025124,
-    "MonsterManual": 5025175,
+    "MonsterManual": 5025170,
     "Model": "Actor/Monster/30641NianShou/30641NianShou_Actor",
+    "RunAnimationSpd": 60000,
+    "WalkAnimationSpd": 20000,
+    "BarHeight": 8000,
+    "ModelScale": 10000,
+    "ColliderScale": 10000
+  },
+  "5025134": {
+    "Id": 5025134,
+    "MonsterManual": 5025131,
+    "Model": "Actor/Monster/50251ShanDianLieQuan/50251ShanDianLieQuan_Actor_fire",
     "RunAnimationSpd": 60000,
     "WalkAnimationSpd": 15000,
     "BarHeight": 8000,
-    "ModelScale": 10000,
+    "ModelScale": 15000,
+    "ColliderScale": 10000
+  },
+  "5025117": {
+    "Id": 5025117,
+    "MonsterManual": 5025100,
+    "Model": "Actor/Monster/50251ShanDianLieQuan/50251ShanDianLieQuan_Actor_nothing",
+    "RunAnimationSpd": 60000,
+    "WalkAnimationSpd": 15000,
+    "BarHeight": 8000,
+    "ModelScale": 15000,
     "ColliderScale": 10000
   },
   "5030101": {
@@ -4998,6 +5047,16 @@
     "ModelScale": 10000,
     "ColliderScale": 10000
   },
+  "9990002": {
+    "Id": 9990002,
+    "Model": "Actor/Monster/99900EmptyMonster/99900EmptyMonster_Actor",
+    "RunAnimationSpd": 40000,
+    "WalkAnimationSpd": 40000,
+    "BarHeight": 10000,
+    "ModelScale": 100,
+    "ColliderScale": 100,
+    "ForbiddenBehitRot": true
+  },
   "5058101": {
     "Id": 5058101,
     "MonsterManual": 5058156,
@@ -5327,6 +5386,15 @@
     "ColliderScale": 10000,
     "ForbiddenBehitRot": true
   },
+  "5017102": {
+    "Id": 5017102,
+    "Model": "Actor/Monster/99900EmptyMonster/99900EmptyMonster_Actor",
+    "RunAnimationSpd": 35000,
+    "WalkAnimationSpd": 15000,
+    "BarHeight": 10000,
+    "ModelScale": 10000,
+    "ColliderScale": 10000
+  },
   "7000101": {
     "Id": 7000101,
     "MonsterManual": 7000105,
@@ -5405,11 +5473,12 @@
     "RunAnimationSpd": 10000,
     "WalkAnimationSpd": 10000,
     "BarHeight": 10000,
-    "ModelScale": 10000,
-    "ColliderScale": 10000
+    "ModelScale": 15000,
+    "ColliderScale": 8000
   },
   "3061101": {
     "Id": 3061101,
+    "MonsterManual": 1400170,
     "Model": "Actor/Monster/30611JinLvRen/30611JinLvRen_Actor",
     "RunAnimationSpd": 35000,
     "WalkAnimationSpd": 16000,
@@ -5419,6 +5488,7 @@
   },
   "3062101": {
     "Id": 3062101,
+    "MonsterManual": 1401170,
     "Model": "Actor/Monster/30621YuanLvRen/30621YuanLvRen_Actor",
     "RunAnimationSpd": 30000,
     "WalkAnimationSpd": 20000,
@@ -5428,12 +5498,142 @@
   },
   "3063101": {
     "Id": 3063101,
+    "MonsterManual": 5022170,
     "Model": "Actor/Monster/30631DengLong/30631DengLong_Actor",
     "RunAnimationSpd": 12000,
     "WalkAnimationSpd": 12000,
     "BarHeight": 8000,
     "ModelScale": 16000,
     "ColliderScale": 10000
+  },
+  "3064101": {
+    "Id": 3064101,
+    "Model": "Actor/Monster/99900EmptyMonster/99900EmptyMonster_Actor",
+    "RunAnimationSpd": 35000,
+    "WalkAnimationSpd": 15000,
+    "BarHeight": 10000,
+    "ModelScale": 10000,
+    "ColliderScale": 10000
+  },
+  "7200101": {
+    "Id": 7200101,
+    "Model": "Actor/Monster/72001ShuangZiQi_Red/72001ShuangZiQi_Red_Actor",
+    "RunAnimationSpd": 40000,
+    "WalkAnimationSpd": 20000,
+    "BarHeight": 8000,
+    "ModelScale": 20000,
+    "ColliderScale": 10000,
+    "ForbiddenBehitRot": true
+  },
+  "7200201": {
+    "Id": 7200201,
+    "Model": "Actor/Monster/72002ShuangZiQi_Green/72002ShuangZiQi_Green_Actor",
+    "RunAnimationSpd": 40000,
+    "WalkAnimationSpd": 20000,
+    "BarHeight": 8000,
+    "ModelScale": 20000,
+    "ColliderScale": 10000,
+    "ForbiddenBehitRot": true
+  },
+  "7200301": {
+    "Id": 7200301,
+    "Model": "Actor/Monster/72003QiZiBing/72003QiZiBing_Red",
+    "RunAnimationSpd": 40000,
+    "WalkAnimationSpd": 20000,
+    "BarHeight": 8000,
+    "ModelScale": 10000,
+    "ColliderScale": 10000,
+    "ForbiddenBehitRot": true
+  },
+  "7200401": {
+    "Id": 7200401,
+    "Model": "Actor/Monster/72004QiZiPao/72004QiZiPao_Red",
+    "RunAnimationSpd": 40000,
+    "WalkAnimationSpd": 20000,
+    "BarHeight": 8000,
+    "ModelScale": 10000,
+    "ColliderScale": 10000,
+    "ForbiddenBehitRot": true
+  },
+  "7200501": {
+    "Id": 7200501,
+    "Model": "Actor/Monster/72005QiZiZhanChe/72005QiZiZhanChe_Red",
+    "RunAnimationSpd": 40000,
+    "WalkAnimationSpd": 20000,
+    "BarHeight": 8000,
+    "ModelScale": 10000,
+    "ColliderScale": 10000,
+    "ForbiddenBehitRot": true
+  },
+  "7200601": {
+    "Id": 7200601,
+    "Model": "Actor/Monster/72006QiZiFujiang/72006QiZiFujiang_Red",
+    "RunAnimationSpd": 40000,
+    "WalkAnimationSpd": 20000,
+    "BarHeight": 8000,
+    "ModelScale": 10000,
+    "ColliderScale": 10000,
+    "ForbiddenBehitRot": true
+  },
+  "7200701": {
+    "Id": 7200701,
+    "Model": "Actor/Monster/72007RanSeQiu/72007RanSeQiu_Red",
+    "RunAnimationSpd": 40000,
+    "WalkAnimationSpd": 20000,
+    "BarHeight": 15000,
+    "ModelScale": 25000,
+    "ColliderScale": 10000,
+    "ForbiddenBehitRot": true
+  },
+  "7200302": {
+    "Id": 7200302,
+    "Model": "Actor/Monster/72003QiZiBing/72003QiZiBing_Green",
+    "RunAnimationSpd": 40000,
+    "WalkAnimationSpd": 20000,
+    "BarHeight": 8000,
+    "ModelScale": 10000,
+    "ColliderScale": 10000,
+    "ForbiddenBehitRot": true
+  },
+  "7200402": {
+    "Id": 7200402,
+    "Model": "Actor/Monster/72004QiZiPao/72004QiZiPao_Green",
+    "RunAnimationSpd": 40000,
+    "WalkAnimationSpd": 20000,
+    "BarHeight": 8000,
+    "ModelScale": 10000,
+    "ColliderScale": 10000,
+    "ForbiddenBehitRot": true
+  },
+  "7200502": {
+    "Id": 7200502,
+    "Model": "Actor/Monster/72005QiZiZhanChe/72005QiZiZhanChe_Green",
+    "RunAnimationSpd": 40000,
+    "WalkAnimationSpd": 20000,
+    "BarHeight": 8000,
+    "ModelScale": 10000,
+    "ColliderScale": 10000,
+    "ForbiddenBehitRot": true
+  },
+  "7200602": {
+    "Id": 7200602,
+    "Model": "Actor/Monster/72006QiZiFujiang/72006QiZiFujiang_Green",
+    "RunAnimationSpd": 40000,
+    "WalkAnimationSpd": 20000,
+    "BarHeight": 8000,
+    "ModelScale": 10000,
+    "ColliderScale": 10000,
+    "ForbiddenBehitRot": true
+  },
+  "7200702": {
+    "Id": 7200702,
+    "Model": "Actor/Monster/72007RanSeQiu/72007RanSeQiu_Green",
+    "RunAnimationSpd": 40000,
+    "WalkAnimationSpd": 20000,
+    "BarHeight": 15000,
+    "ModelScale": 25000,
+    "ColliderScale": 10000,
+    "ForbiddenBehitRot": true
   },
   "11601111": {
     "Id": 11601111,

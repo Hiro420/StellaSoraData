@@ -5143,7 +5143,8 @@
     "OutPortNum": 1,
     "OutPortHint": true,
     "BGMRes": "rogueWater_combatChallenge_setState",
-    "CompleteSoundEffectRes": "amb_roguelike_all_stop"
+    "CompleteSoundEffectRes": "amb_roguelike_all_stop",
+    "LevelScript": "AIScript.LevelAndGroupController.Level.SanJiankeLevelController_Lv1"
   },
   "211187": {
     "Id": 211187,
@@ -5644,7 +5645,8 @@
     "OutPortNum": 1,
     "OutPortHint": true,
     "BGMRes": "forestRuins_combatBoss_setState",
-    "CompleteSoundEffectRes": "amb_roguelike_water_all_stop"
+    "CompleteSoundEffectRes": "amb_roguelike_water_all_stop",
+    "LevelScript": "AIScript.LevelAndGroupController.Level.SanJiankeLevelController_Lv2"
   },
   "311167": {
     "Id": 311167,

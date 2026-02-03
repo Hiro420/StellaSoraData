@@ -7,7 +7,9 @@
     "IsShow": true,
     "Icon": "ep_sidestory01_icon",
     "Image": "ep_sidestory01_image",
-    "Bg": "ep_sidestory01_bg"
+    "Bg": "ep_sidestory01_bg",
+    "Banner": "UI/big_sprites/banner_StorySet_01",
+    "TabId": 2
   },
   "1002": {
     "Id": 1002,
@@ -17,7 +19,9 @@
     "IsShow": true,
     "Icon": "ep_sidestory02_icon",
     "Image": "ep_sidestory02_image",
-    "Bg": "ep_sidestory02_bg"
+    "Bg": "ep_sidestory02_bg",
+    "Banner": "UI/big_sprites/banner_StorySet_02",
+    "TabId": 2
   },
   "1003": {
     "Id": 1003,
@@ -28,7 +32,9 @@
     "IsShow": true,
     "Icon": "ep_sidestory03_icon",
     "Image": "ep_sidestory03_image",
-    "Bg": "ep_sidestory03_bg"
+    "Bg": "ep_sidestory03_bg",
+    "Banner": "UI/big_sprites/banner_StorySet_03",
+    "TabId": 5
   },
   "1004": {
     "Id": 1004,
@@ -39,7 +45,9 @@
     "IsShow": true,
     "Icon": "ep_sidestory04_icon",
     "Image": "ep_sidestory04_image",
-    "Bg": "ep_sidestory04_bg"
+    "Bg": "ep_sidestory04_bg",
+    "Banner": "UI/big_sprites/banner_StorySet_04",
+    "TabId": 3
   },
   "1005": {
     "Id": 1005,
@@ -50,7 +58,9 @@
     "IsShow": true,
     "Icon": "ep_sidestory05_icon",
     "Image": "ep_sidestory05_image",
-    "Bg": "ep_sidestory05_bg"
+    "Bg": "ep_sidestory05_bg",
+    "Banner": "UI/big_sprites/banner_StorySet_05",
+    "TabId": 3
   },
   "1006": {
     "Id": 1006,
@@ -61,7 +71,9 @@
     "IsShow": true,
     "Icon": "ep_sidestory06_icon",
     "Image": "ep_sidestory06_image",
-    "Bg": "ep_sidestory06_bg"
+    "Bg": "ep_sidestory06_bg",
+    "Banner": "UI/big_sprites/banner_StorySet_06",
+    "TabId": 3
   },
   "1007": {
     "Id": 1007,
@@ -72,7 +84,9 @@
     "IsShow": true,
     "Icon": "ep_sidestory07_icon",
     "Image": "ep_sidestory07_image",
-    "Bg": "ep_sidestory07_bg"
+    "Bg": "ep_sidestory07_bg",
+    "Banner": "UI/big_sprites/banner_StorySet_07",
+    "TabId": 4
   },
   "1008": {
     "Id": 1008,
@@ -81,9 +95,38 @@
     "Name": "StorySetChapter.1008.2",
     "LockText": "StorySetChapter.1008.3",
     "IsShow": true,
-    "IsHighLight": true,
     "Icon": "ep_sidestory08_icon",
     "Image": "ep_sidestory08_image",
-    "Bg": "ep_sidestory08_bg"
+    "Bg": "ep_sidestory08_bg",
+    "Banner": "UI/big_sprites/banner_StorySet_08",
+    "TabId": 4
+  },
+  "1009": {
+    "Id": 1009,
+    "OpenTime": "2026-02-17T12:00:00+08:00",
+    "Title": "StorySetChapter.1009.1",
+    "Name": "StorySetChapter.1009.2",
+    "LockText": "StorySetChapter.1009.3",
+    "IsShow": true,
+    "IsHighLight": true,
+    "Icon": "ep_sidestory09_icon",
+    "Image": "ep_sidestory09_image",
+    "Bg": "ep_sidestory09_bg",
+    "Banner": "UI/big_sprites/banner_StorySet_09",
+    "TabId": 4
+  },
+  "1010": {
+    "Id": 1010,
+    "OpenTime": "2026-02-17T12:00:00+08:00",
+    "Title": "StorySetChapter.1010.1",
+    "Name": "StorySetChapter.1010.2",
+    "LockText": "StorySetChapter.1010.3",
+    "IsShow": true,
+    "IsHighLight": true,
+    "Icon": "ep_sidestory10_icon",
+    "Image": "ep_sidestory10_image",
+    "Bg": "ep_sidestory10_bg",
+    "Banner": "UI/big_sprites/banner_StorySet_10",
+    "TabId": 3
   }
 }

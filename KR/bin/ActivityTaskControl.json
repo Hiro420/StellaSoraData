@@ -2,8 +2,7 @@
   "0": {
     "ActivityId": 101003,
     "UIAssets": "ActivityTask_act_01",
-    "CtrlName": "ActivityTaskCtrl_01",
-    "FastEntranceIcon": "banner_activity_101003"
+    "CtrlName": "ActivityTaskCtrl_01"
   },
   "1": {
     "ActivityId": 1010003
@@ -19,5 +18,11 @@
   },
   "5": {
     "ActivityId": 1010303
+  },
+  "6": {
+    "ActivityId": 1010403
+  },
+  "7": {
+    "ActivityId": 3010102
   }
 }

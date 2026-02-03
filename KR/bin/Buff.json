@@ -1531,6 +1531,7 @@
   "11305011": {
     "Id": 11305011,
     "GroupId": 11305011,
+    "BuffTag1": 943565682,
     "Icon": "Icon/Buff/Icon_CommonBuff_Invincible",
     "IsShow": true
   },
@@ -1582,7 +1583,6 @@
     "Id": 11326012,
     "GroupId": 11326012,
     "BuffTag1": 943565682,
-    "BuffTag2": -719983267,
     "Icon": "Icon/Buff/Icon_CommonBuff_CritUp",
     "IsShow": true
   },
@@ -2051,11 +2051,28 @@
     "IsShow": true,
     "NotRemove": true
   },
+  "13004012": {
+    "Id": 13004012,
+    "GroupId": 13004012,
+    "BuffTag1": 943565682,
+    "BuffTag2": -719983267,
+    "Icon": "Icon/Buff/Icon_CommonBuff_AttackUp",
+    "IsShow": true,
+    "NotRemove": true
+  },
   "13005011": {
     "Id": 13005011,
     "GroupId": 13005011,
     "BuffTag1": 943565682,
     "BindEffect": "Actor/Character/13001/Buff/fx_13001_buff_B1_Skill_Summon_Perk05"
+  },
+  "13005012": {
+    "Id": 13005012,
+    "GroupId": 13005012,
+    "BuffTag1": 943565682,
+    "BuffTag2": -2138561627,
+    "Icon": "Icon/Buff/Icon_CommonBuff_DefenseDown",
+    "IsShow": true
   },
   "13006011": {
     "Id": 13006011,
@@ -2111,16 +2128,16 @@
     "Id": 13013011,
     "GroupId": 13013011,
     "BuffTag1": 943565682,
-    "BuffTag2": -2138561627,
-    "Icon": "Icon/Buff/Icon_CommonBuff_DefenseDown",
+    "BuffTag2": -719983267,
+    "Icon": "Icon/Buff/Icon_CommonBuff_AttackUp",
     "IsShow": true
   },
-  "13023011": {
-    "Id": 13023011,
-    "GroupId": 13023011,
+  "13024011": {
+    "Id": 13024011,
+    "GroupId": 13024011,
     "BuffTag1": 943565682,
-    "BuffTag2": -2138561627,
-    "Icon": "Icon/Buff/Icon_CommonBuff_DefenseDown",
+    "BuffTag2": -719983267,
+    "Icon": "Icon/Buff/Icon_CommonBuff_AttackUp",
     "IsShow": true
   },
   "13025011": {
@@ -2141,6 +2158,14 @@
     "BuffTag1": 943565682,
     "BindEffect": "Actor/Character/13001/Buff/fx_13001_buff_Perk25_round_03"
   },
+  "13026011": {
+    "Id": 13026011,
+    "GroupId": 13026011,
+    "BuffTag1": 943565682,
+    "BuffTag2": -2138561627,
+    "Icon": "Icon/Buff/Icon_CommonBuff_DefenseDown",
+    "IsShow": true
+  },
   "13028011": {
     "Id": 13028011,
     "GroupId": 13028011,
@@ -2154,11 +2179,16 @@
     "GroupId": 13028012,
     "BuffTag1": 943565682
   },
-  "13029011": {
-    "Id": 13029011,
-    "GroupId": 13029011,
+  "13022011": {
+    "Id": 13022011,
+    "GroupId": 13022011,
     "BuffTag1": 943565682,
     "BindEffect": "Actor/Character/13001/Buff/fx_13001_buff_B2_Skill_Perk29"
+  },
+  "13022012": {
+    "Id": 13022012,
+    "GroupId": 13022012,
+    "BuffTag1": 943565682
   },
   "13029012": {
     "Id": 13029012,
@@ -2193,11 +2223,6 @@
     "BuffTag1": 943565682,
     "Icon": "Icon/Buff/Icon_CommonBuff_AttackUp",
     "IsShow": true
-  },
-  "13033012": {
-    "Id": 13033012,
-    "GroupId": 13033012,
-    "BuffTag1": 943565682
   },
   "13042011": {
     "Id": 13042011,
@@ -2322,6 +2347,22 @@
     "GroupId": 14496411,
     "BuffTag1": 943565682,
     "BuffTag2": -719983267
+  },
+  "14415011": {
+    "Id": 14415011,
+    "GroupId": 14415011,
+    "BuffTag1": 943565682,
+    "BuffTag2": -719983267,
+    "Icon": "Icon/Buff/Icon_CommonBuff_AttackUp",
+    "IsShow": true
+  },
+  "14415012": {
+    "Id": 14415012,
+    "GroupId": 14415012,
+    "BuffTag1": 943565682,
+    "BuffTag2": -719983267,
+    "Icon": "Icon/Buff/Icon_CommonBuff_AttackUp",
+    "IsShow": true
   },
   "3011": {
     "Id": 3011,
@@ -5116,27 +5157,17 @@
     "BuffTag1": 943565682,
     "BuffTag2": -719983267
   },
+  "14300011": {
+    "Id": 14300011,
+    "GroupId": 14301011,
+    "BuffTag1": -1957921944,
+    "BindEffect": "Actor/Character/14301/Buff/fx_14301_buff_Melee_range"
+  },
   "14301011": {
     "Id": 14301011,
     "GroupId": 14301011,
     "BuffTag1": -1957921944,
-    "BindEffect": "Actor/Character/14301/Buff/fx_14301_buff_T1_QiangHua"
-  },
-  "14301012": {
-    "Id": 14301012,
-    "GroupId": 14301012,
-    "BuffTag1": 943565682,
-    "BuffTag2": -719983267,
-    "Icon": "Icon/Buff/Icon_CommonBuff_AttackUp",
-    "IsShow": true
-  },
-  "14302011": {
-    "Id": 14302011,
-    "GroupId": 14302011,
-    "BuffTag1": 943565682,
-    "BuffTag2": -719983267,
-    "Icon": "Icon/Buff/Icon_CommonBuff_AttackUp",
-    "IsShow": true
+    "BindEffect": "Actor/Character/14301/Buff/fx_14301_buff_QiangHua_dao"
   },
   "14307011": {
     "Id": 14307011,
@@ -5149,7 +5180,9 @@
   "14308011": {
     "Id": 14308011,
     "GroupId": 14308011,
-    "BuffTag1": 943565682
+    "BuffTag1": 943565682,
+    "Icon": "Icon/Buff/Icon_CommonBuff_AttackUp",
+    "IsShow": true
   },
   "14309011": {
     "Id": 14309011,
@@ -5159,12 +5192,27 @@
     "Icon": "Icon/Buff/Icon_CommonBuff_AttackUp",
     "IsShow": true
   },
+  "14310011": {
+    "Id": 14310011,
+    "GroupId": 14310011,
+    "BuffTag1": -1957921944,
+    "BindEffect": "Actor/Character/14301/Buff/fx_14301_buff_QiangHua_qiang",
+    "Icon": "Icon/Buff/Icon_CommonBuff_AttackUp",
+    "IsShow": true
+  },
   "14311011": {
     "Id": 14311011,
     "GroupId": 14311011,
     "BuffTag1": 943565682,
     "BuffTag2": -719983267,
-    "Icon": "Icon/Buff/Icon_CommonBuff_DefenseUp",
+    "Icon": "Icon/Buff/Icon_CommonBuff_AttackUp",
+    "IsShow": true
+  },
+  "14312011": {
+    "Id": 14312011,
+    "GroupId": 14312011,
+    "BuffTag1": 943565682,
+    "Icon": "Icon/Buff/Icon_CommonBuff_AttackUp",
     "IsShow": true
   },
   "14313011": {
@@ -5208,6 +5256,30 @@
     "BuffTag2": -719983267,
     "Icon": "Icon/Buff/Icon_CommonBuff_AttackUp",
     "IsShow": true
+  },
+  "14396111": {
+    "Id": 14396111,
+    "GroupId": 14396111,
+    "BuffTag1": 943565682,
+    "BuffTag2": -719983267
+  },
+  "14396211": {
+    "Id": 14396211,
+    "GroupId": 14396211,
+    "BuffTag1": 943565682,
+    "BuffTag2": -719983267
+  },
+  "14396311": {
+    "Id": 14396311,
+    "GroupId": 14396311,
+    "BuffTag1": 943565682,
+    "BuffTag2": -719983267
+  },
+  "14396411": {
+    "Id": 14396411,
+    "GroupId": 14396411,
+    "BuffTag1": 943565682,
+    "BuffTag2": -719983267
   },
   "6011": {
     "Id": 6011,
@@ -5773,13 +5845,19 @@
   "15991013": {
     "Id": 15991013,
     "GroupId": 15991013,
+    "BuffTag1": 943565682,
+    "BuffTag2": -2138561627,
     "BindEffect": "Actor/Character/15901/Buff/fx_15901_Buff_skill_sup_withered_rose_MaxHit"
+  },
+  "15921011": {
+    "Id": 15921011,
+    "GroupId": 15921011
   },
   "15926011": {
     "Id": 15926011,
     "GroupId": 15926011,
     "BuffTag1": 943565682,
-    "BuffTag2": -719983267,
+    "BuffTag2": -2138561627,
     "Icon": "Icon/Buff/Icon_CommonBuff_DefenseDown",
     "IsShow": true
   },
@@ -5814,14 +5892,6 @@
     "Icon": "Icon/Buff/Icon_CommonBuff_Charm",
     "IsShow": true
   },
-  "15942011": {
-    "Id": 15942011,
-    "GroupId": 15942011,
-    "BuffTag1": 943565682,
-    "BuffTag2": -719983267,
-    "Icon": "Icon/Buff/Icon_CommonBuff_AttackUp",
-    "IsShow": true
-  },
   "15943011": {
     "Id": 15943011,
     "GroupId": 15943011,
@@ -5829,6 +5899,30 @@
     "BuffTag2": -719983267,
     "Icon": "Icon/Buff/Icon_CommonBuff_AttackUp",
     "IsShow": true
+  },
+  "15996111": {
+    "Id": 15996111,
+    "GroupId": 15996111,
+    "BuffTag1": 943565682,
+    "BuffTag2": -719983267
+  },
+  "15996211": {
+    "Id": 15996211,
+    "GroupId": 15996211,
+    "BuffTag1": 943565682,
+    "BuffTag2": -719983267
+  },
+  "15996311": {
+    "Id": 15996311,
+    "GroupId": 15996311,
+    "BuffTag1": 943565682,
+    "BuffTag2": -719983267
+  },
+  "15996411": {
+    "Id": 15996411,
+    "GroupId": 15996411,
+    "BuffTag1": 943565682,
+    "BuffTag2": -719983267
   },
   "980131": {
     "Id": 980131,
@@ -6506,12 +6600,6 @@
   "631008020": {
     "Id": 631008020,
     "GroupId": 631008020,
-    "Icon": "Icon/Buff/Icon_CommonBuff_AttackDown",
-    "IsShow": true
-  },
-  "631008030": {
-    "Id": 631008030,
-    "GroupId": 631008030,
     "Icon": "Icon/Buff/Icon_CommonBuff_AttackDown",
     "IsShow": true
   },
@@ -7364,6 +7452,24 @@
     "Id": 501810002,
     "GroupId": 501810002
   },
+  "501810003": {
+    "Id": 501810003,
+    "GroupId": 501810003
+  },
+  "501810004": {
+    "Id": 501810004,
+    "GroupId": 501810004,
+    "BindEffect": "Actor/Monster/50181ShunYiGuai/Buff/fx_m50181_buff_Fire_Idle"
+  },
+  "501810005": {
+    "Id": 501810005,
+    "GroupId": 501810005
+  },
+  "501810006": {
+    "Id": 501810006,
+    "GroupId": 501810006,
+    "BindEffect": "Actor/Monster/50181ShunYiGuai/Buff/fx_m50181_buff_Water_Idle"
+  },
   "503010000": {
     "Id": 503010000,
     "GroupId": 503010000
@@ -7464,6 +7570,36 @@
     "Id": 502510007,
     "GroupId": 502510007,
     "BindEffect": "Actor/Monster/50251ShanDianLieQuan/Buff/fx_m50251_Fire_Buff"
+  },
+  "502510008": {
+    "Id": 502510008,
+    "GroupId": 502510008
+  },
+  "502510009": {
+    "Id": 502510009,
+    "GroupId": 502510009
+  },
+  "502510010": {
+    "Id": 502510010,
+    "GroupId": 502510010,
+    "BindEffect": "Actor/Monster/50251ShanDianLieQuan/Buff/fx_m50251_Dark_Buff"
+  },
+  "502510011": {
+    "Id": 502510011,
+    "GroupId": 502510011,
+    "BindEffect": "Actor/Monster/50251ShanDianLieQuan/Buff/fx_m50251_Nothing_Buff"
+  },
+  "502510012": {
+    "Id": 502510012,
+    "GroupId": 502510012
+  },
+  "502510013": {
+    "Id": 502510013,
+    "GroupId": 502510013
+  },
+  "502510014": {
+    "Id": 502510014,
+    "GroupId": 502510014
   },
   "501010001": {
     "Id": 501010001,
@@ -7733,6 +7869,41 @@
   "991210020": {
     "Id": 991210020,
     "GroupId": 991210020
+  },
+  "501710001": {
+    "Id": 501710001,
+    "GroupId": 501710001,
+    "BindEffect": "Actor/Monster/50171BingXiangGuai/Buff/fx_m50171_buff_ice"
+  },
+  "501710002": {
+    "Id": 501710002,
+    "GroupId": 501710002
+  },
+  "501710003": {
+    "Id": 501710003,
+    "GroupId": 501710003
+  },
+  "306010001": {
+    "Id": 306010001,
+    "GroupId": 306010001
+  },
+  "306010002": {
+    "Id": 306010002,
+    "GroupId": 306010002
+  },
+  "502710000": {
+    "Id": 502710000,
+    "GroupId": 502710000
+  },
+  "720010010": {
+    "Id": 720010010,
+    "GroupId": 72001001,
+    "BuffTag1": 1510603729
+  },
+  "720010020": {
+    "Id": 720010020,
+    "GroupId": 72001002,
+    "BuffTag1": 1342292550
   },
   "990011100": {
     "Id": 990011100,
@@ -8131,6 +8302,42 @@
   "880013101": {
     "Id": 880013101,
     "GroupId": 880013101
+  },
+  "308030101": {
+    "Id": 308030101,
+    "GroupId": 308030101,
+    "Icon": "Icon/Buff/Icon_CommonBuff_AttackUp",
+    "IsShow": true
+  },
+  "308030111": {
+    "Id": 308030111,
+    "GroupId": 308030101,
+    "Icon": "Icon/Buff/Icon_CommonBuff_AttackUp",
+    "IsShow": true
+  },
+  "308030201": {
+    "Id": 308030201,
+    "GroupId": 308030201,
+    "Icon": "Icon/Buff/Icon_CommonBuff_SkillDamageUp",
+    "IsShow": true
+  },
+  "308030211": {
+    "Id": 308030211,
+    "GroupId": 308030201,
+    "Icon": "Icon/Buff/Icon_CommonBuff_SkillDamageUp",
+    "IsShow": true
+  },
+  "308030301": {
+    "Id": 308030301,
+    "GroupId": 308030301,
+    "Icon": "Icon/Buff/Icon_CommonBuff_DefenseUp",
+    "IsShow": true
+  },
+  "308030311": {
+    "Id": 308030311,
+    "GroupId": 308030301,
+    "Icon": "Icon/Buff/Icon_CommonBuff_DefenseUp",
+    "IsShow": true
   },
   "809001010": {
     "Id": 809001010,
@@ -12739,6 +12946,216 @@
     "Id": 4041205,
     "Name": "【脚本buff】至少2只火系角色的仆从在场时，队伍中火系角色造成的绝招伤害提升<color=#ec6d21>{1}</color>。",
     "GroupId": 4041205,
+    "BuffTag1": -719983267
+  },
+  "4044020": {
+    "Id": 4044020,
+    "Name": "【标识buff】春华",
+    "GroupId": 4044020,
+    "BuffTag1": -2138561627
+  },
+  "4044021": {
+    "Id": 4044021,
+    "Name": "【脚本buff】地系均衡角色造成技能伤害时，为目标附加「春华」：受到地系技能伤害提升<color=#ec6d21>{2}</color>，持续{3}秒。",
+    "GroupId": 4044021,
+    "BuffTag1": -2138561627,
+    "Icon": "Icon/Buff/Icon_DiscBuff_214044",
+    "IsShow": true
+  },
+  "4044022": {
+    "Id": 4044022,
+    "Name": "【脚本buff】地系均衡角色造成技能伤害时，为目标附加「春华」：受到地系技能伤害提升<color=#ec6d21>{2}</color>，持续{3}秒。",
+    "GroupId": 4044022,
+    "BuffTag1": -2138561627,
+    "Icon": "Icon/Buff/Icon_DiscBuff_214044",
+    "IsShow": true
+  },
+  "4044023": {
+    "Id": 4044023,
+    "Name": "【脚本buff】地系均衡角色造成技能伤害时，为目标附加「春华」：受到地系技能伤害提升<color=#ec6d21>{2}</color>，持续{3}秒。",
+    "GroupId": 4044023,
+    "BuffTag1": -2138561627,
+    "Icon": "Icon/Buff/Icon_DiscBuff_214044",
+    "IsShow": true
+  },
+  "4044024": {
+    "Id": 4044024,
+    "Name": "【脚本buff】地系均衡角色造成技能伤害时，为目标附加「春华」：受到地系技能伤害提升<color=#ec6d21>{2}</color>，持续{3}秒。",
+    "GroupId": 4044024,
+    "BuffTag1": -2138561627,
+    "Icon": "Icon/Buff/Icon_DiscBuff_214044",
+    "IsShow": true
+  },
+  "4044025": {
+    "Id": 4044025,
+    "Name": "【脚本buff】地系均衡角色造成技能伤害时，为目标附加「春华」：受到地系技能伤害提升<color=#ec6d21>{2}</color>，持续{3}秒。",
+    "GroupId": 4044025,
+    "BuffTag1": -2138561627,
+    "Icon": "Icon/Buff/Icon_DiscBuff_214044",
+    "IsShow": true
+  },
+  "4044026": {
+    "Id": 4044026,
+    "Name": "【脚本buff】地系均衡角色造成技能伤害时，为目标附加「春华」：受到地系技能伤害提升<color=#ec6d21>{2}</color>，持续{3}秒。",
+    "GroupId": 4044026,
+    "BuffTag1": -2138561627,
+    "Icon": "Icon/Buff/Icon_DiscBuff_214044",
+    "IsShow": true
+  },
+  "4044101": {
+    "Id": 4044101,
+    "Name": "【脚本buff】地系均衡角色技能暴击伤害提升<color=#ec6d21>{1}</color>。",
+    "GroupId": 4044101,
+    "BuffTag1": -719983267
+  },
+  "4044102": {
+    "Id": 4044102,
+    "Name": "【脚本buff】地系均衡角色技能暴击伤害提升<color=#ec6d21>{1}</color>。",
+    "GroupId": 4044102,
+    "BuffTag1": -719983267
+  },
+  "4044103": {
+    "Id": 4044103,
+    "Name": "【脚本buff】地系均衡角色技能暴击伤害提升<color=#ec6d21>{1}</color>。",
+    "GroupId": 4044103,
+    "BuffTag1": -719983267
+  },
+  "4044104": {
+    "Id": 4044104,
+    "Name": "【脚本buff】地系均衡角色技能暴击伤害提升<color=#ec6d21>{1}</color>。",
+    "GroupId": 4044104,
+    "BuffTag1": -719983267
+  },
+  "4044105": {
+    "Id": 4044105,
+    "Name": "【脚本buff】地系均衡角色技能暴击伤害提升<color=#ec6d21>{1}</color>。",
+    "GroupId": 4044105,
+    "BuffTag1": -719983267
+  },
+  "4044201": {
+    "Id": 4044201,
+    "Name": "【脚本buff】地系主控角色对附带「春华」的目标累计造成{1}次技能伤害后，队伍中地系角色技能伤害提升<color=#ec6d21>{2}</color>，持续{3}秒。",
+    "GroupId": 4044201,
+    "BuffTag1": -719983267
+  },
+  "4044202": {
+    "Id": 4044202,
+    "Name": "【脚本buff】地系主控角色对附带「春华」的目标累计造成{1}次技能伤害后，队伍中地系角色技能伤害提升<color=#ec6d21>{2}</color>，持续{3}秒。",
+    "GroupId": 4044202,
+    "BuffTag1": -719983267
+  },
+  "4044203": {
+    "Id": 4044203,
+    "Name": "【脚本buff】地系主控角色对附带「春华」的目标累计造成{1}次技能伤害后，队伍中地系角色技能伤害提升<color=#ec6d21>{2}</color>，持续{3}秒。",
+    "GroupId": 4044203,
+    "BuffTag1": -719983267
+  },
+  "4044204": {
+    "Id": 4044204,
+    "Name": "【脚本buff】地系主控角色对附带「春华」的目标累计造成{1}次技能伤害后，队伍中地系角色技能伤害提升<color=#ec6d21>{2}</color>，持续{3}秒。",
+    "GroupId": 4044204,
+    "BuffTag1": -719983267
+  },
+  "4044205": {
+    "Id": 4044205,
+    "Name": "【脚本buff】地系主控角色对附带「春华」的目标累计造成{1}次技能伤害后，队伍中地系角色技能伤害提升<color=#ec6d21>{2}</color>，持续{3}秒。",
+    "GroupId": 4044205,
+    "BuffTag1": -719983267
+  },
+  "4042021": {
+    "Id": 4042021,
+    "Name": "【脚本buff】地系均衡角色造成技能伤害时，该效果额外提升<color=#ec6d21>{2}</color>，持续{3}秒。",
+    "GroupId": 4042021,
+    "BuffTag1": -719983267
+  },
+  "4042022": {
+    "Id": 4042022,
+    "Name": "【脚本buff】地系均衡角色造成技能伤害时，该效果额外提升<color=#ec6d21>{2}</color>，持续{3}秒。",
+    "GroupId": 4042022,
+    "BuffTag1": -719983267
+  },
+  "4042023": {
+    "Id": 4042023,
+    "Name": "【脚本buff】地系均衡角色造成技能伤害时，该效果额外提升<color=#ec6d21>{2}</color>，持续{3}秒。",
+    "GroupId": 4042023,
+    "BuffTag1": -719983267
+  },
+  "4042024": {
+    "Id": 4042024,
+    "Name": "【脚本buff】地系均衡角色造成技能伤害时，该效果额外提升<color=#ec6d21>{2}</color>，持续{3}秒。",
+    "GroupId": 4042024,
+    "BuffTag1": -719983267
+  },
+  "4042025": {
+    "Id": 4042025,
+    "Name": "【脚本buff】地系均衡角色造成技能伤害时，该效果额外提升<color=#ec6d21>{2}</color>，持续{3}秒。",
+    "GroupId": 4042025,
+    "BuffTag1": -719983267
+  },
+  "4042026": {
+    "Id": 4042026,
+    "Name": "【脚本buff】地系均衡角色造成技能伤害时，该效果额外提升<color=#ec6d21>{2}</color>，持续{3}秒。",
+    "GroupId": 4042026,
+    "BuffTag1": -719983267
+  },
+  "4042101": {
+    "Id": 4042101,
+    "Name": "【脚本buff】地系均衡角色攻击力提升<color=#ec6d21>{1}</color>。",
+    "GroupId": 4042101,
+    "BuffTag1": -719983267
+  },
+  "4042102": {
+    "Id": 4042102,
+    "Name": "【脚本buff】地系均衡角色攻击力提升<color=#ec6d21>{1}</color>。",
+    "GroupId": 4042102,
+    "BuffTag1": -719983267
+  },
+  "4042103": {
+    "Id": 4042103,
+    "Name": "【脚本buff】地系均衡角色攻击力提升<color=#ec6d21>{1}</color>。",
+    "GroupId": 4042103,
+    "BuffTag1": -719983267
+  },
+  "4042104": {
+    "Id": 4042104,
+    "Name": "【脚本buff】地系均衡角色攻击力提升<color=#ec6d21>{1}</color>。",
+    "GroupId": 4042104,
+    "BuffTag1": -719983267
+  },
+  "4042105": {
+    "Id": 4042105,
+    "Name": "【脚本buff】地系均衡角色攻击力提升<color=#ec6d21>{1}</color>。",
+    "GroupId": 4042105,
+    "BuffTag1": -719983267
+  },
+  "4042201": {
+    "Id": 4042201,
+    "Name": "【脚本buff】地系主控角色累计造成{1}次伤害后，自身攻击力提升<color=#ec6d21>{2}</color>，持续{3}秒。",
+    "GroupId": 4042201,
+    "BuffTag1": -719983267
+  },
+  "4042202": {
+    "Id": 4042202,
+    "Name": "【脚本buff】地系主控角色累计造成{1}次伤害后，自身攻击力提升<color=#ec6d21>{2}</color>，持续{3}秒。",
+    "GroupId": 4042202,
+    "BuffTag1": -719983267
+  },
+  "4042203": {
+    "Id": 4042203,
+    "Name": "【脚本buff】地系主控角色累计造成{1}次伤害后，自身攻击力提升<color=#ec6d21>{2}</color>，持续{3}秒。",
+    "GroupId": 4042203,
+    "BuffTag1": -719983267
+  },
+  "4042204": {
+    "Id": 4042204,
+    "Name": "【脚本buff】地系主控角色累计造成{1}次伤害后，自身攻击力提升<color=#ec6d21>{2}</color>，持续{3}秒。",
+    "GroupId": 4042204,
+    "BuffTag1": -719983267
+  },
+  "4042205": {
+    "Id": 4042205,
+    "Name": "【脚本buff】地系主控角色累计造成{1}次伤害后，自身攻击力提升<color=#ec6d21>{2}</color>，持续{3}秒。",
+    "GroupId": 4042205,
     "BuffTag1": -719983267
   },
   "1": {

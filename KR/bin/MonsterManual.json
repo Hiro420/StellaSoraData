@@ -3727,7 +3727,7 @@
   },
   "5018136": {
     "Id": 5018136,
-    "Icon": "Icon/Monster/monsterhead_50181ShunYiGuai_Water_L",
+    "Icon": "Icon/Monster/monsterhead_50181ShunYiGuai_Fire_L",
     "Name": "MonsterManual.5018136.1",
     "EET": [
       2
@@ -3744,7 +3744,7 @@
   },
   "5018126": {
     "Id": 5018126,
-    "Icon": "Icon/Monster/monsterhead_50181ShunYiGuai_Fire_L",
+    "Icon": "Icon/Monster/monsterhead_50181ShunYiGuai_Water_L",
     "Name": "MonsterManual.5018126.1",
     "EET": [
       1
@@ -5511,6 +5511,61 @@
     "EpicLv": 5,
     "HP": 3,
     "ATK": 2,
+    "DEF": 3
+  },
+  "5022170": {
+    "Id": 5022170,
+    "Icon": "Icon/Monster/monsterhead_30631DengLong_Com_L",
+    "Name": "MonsterManual.5022170.1",
+    "Desc": "MonsterManual.5022170.2",
+    "SkillDesc": "MonsterManual.5022170.3",
+    "EpicLv": 5,
+    "HP": 3,
+    "ATK": 3,
+    "DEF": 3
+  },
+  "1400170": {
+    "Id": 1400170,
+    "Icon": "Icon/Monster/monsterhead_30611JinLvRen_Com_L",
+    "Name": "MonsterManual.1400170.1",
+    "Desc": "MonsterManual.1400170.2",
+    "SkillDesc": "MonsterManual.1400170.3",
+    "EpicLv": 5,
+    "HP": 3,
+    "ATK": 3,
+    "DEF": 3
+  },
+  "1401170": {
+    "Id": 1401170,
+    "Icon": "Icon/Monster/monsterhead_30621YuanLvRen_Com_L",
+    "Name": "MonsterManual.1401170.1",
+    "Desc": "MonsterManual.1401170.2",
+    "SkillDesc": "MonsterManual.1401170.3",
+    "EpicLv": 5,
+    "HP": 3,
+    "ATK": 3,
+    "DEF": 3
+  },
+  "5025170": {
+    "Id": 5025170,
+    "Icon": "Icon/Monster/monsterhead_30641NianShou_Com_L",
+    "Name": "MonsterManual.5025170.1",
+    "Desc": "MonsterManual.5025170.2",
+    "SkillDesc": "MonsterManual.5025170.3",
+    "EpicLv": 5,
+    "HP": 3,
+    "ATK": 3,
+    "DEF": 3
+  },
+  "5025175": {
+    "Id": 5025175,
+    "Icon": "Icon/Monster/monsterhead_30641NianShou_Com_L",
+    "Name": "MonsterManual.5025175.1",
+    "Desc": "MonsterManual.5025175.2",
+    "SkillDesc": "MonsterManual.5025175.3",
+    "EpicLv": 5,
+    "HP": 3,
+    "ATK": 3,
     "DEF": 3
   }
 }

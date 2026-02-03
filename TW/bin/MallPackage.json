@@ -95,6 +95,30 @@
     "Icon": "Icon/Head/head_13403_SPSK",
     "SimpleName": "MallPackage.skin.98.04.3"
   },
+  "skin.98.05": {
+    "Id": "skin.98.05",
+    "Name": "MallPackage.skin.98.05.1",
+    "DetailName": "MallPackage.skin.98.05.2",
+    "GroupId": 11,
+    "StatisticalGroup": "skin_3d",
+    "Tag": 2,
+    "Sort": 1,
+    "CurrencyType": 1,
+    "CurrencyItemQty": 490,
+    "CurrencyShowPrice": "NT$ 490",
+    "Stock": 1,
+    "Items": "{\"13503\":1}",
+    "ListTime": "2026-02-03T12:00:00+08:00",
+    "DeListTime": "2026-02-24T10:59:59+08:00",
+    "ProDeListTime": "2026-02-24T10:59:59+08:00",
+    "ContentIcon": [
+      4,
+      1
+    ],
+    "DisplayMode": 1,
+    "Icon": "Icon/Head/head_13503_SPSK",
+    "SimpleName": "MallPackage.skin.98.05.3"
+  },
   "pack.first": {
     "Id": "pack.first",
     "Name": "MallPackage.pack.first.1",
@@ -111,7 +135,8 @@
     "Items": "{\"86003\":1,\"2\":200,\"30003\":2,\"1\":20000}",
     "Icon": "Icon/ShopGoods/pack_first",
     "IconBg": "UI/big_sprites/db_pack_3",
-    "SimpleName": "MallPackage.pack.first.3"
+    "SimpleName": "MallPackage.pack.first.3",
+    "Rarity": 3
   },
   "pack.sr": {
     "Id": "pack.sr",
@@ -129,7 +154,8 @@
     "Items": "{\"86004\":1,\"2\":900}",
     "Icon": "Icon/ShopGoods/pack_sr",
     "IconBg": "UI/big_sprites/db_pack_3",
-    "SimpleName": "MallPackage.pack.sr.3"
+    "SimpleName": "MallPackage.pack.sr.3",
+    "Rarity": 3
   },
   "pack.role": {
     "Id": "pack.role",
@@ -147,7 +173,8 @@
     "Items": "{\"502\":10}",
     "Icon": "Icon/ShopGoods/pack_role",
     "IconBg": "UI/big_sprites/db_pack_4",
-    "SimpleName": "MallPackage.pack.role.3"
+    "SimpleName": "MallPackage.pack.role.3",
+    "Rarity": 4
   },
   "pack.disc": {
     "Id": "pack.disc",
@@ -165,7 +192,8 @@
     "Items": "{\"602\":3000}",
     "Icon": "Icon/ShopGoods/pack_disc",
     "IconBg": "UI/big_sprites/db_pack_4",
-    "SimpleName": "MallPackage.pack.disc.3"
+    "SimpleName": "MallPackage.pack.disc.3",
+    "Rarity": 4
   },
   "pack.role_common": {
     "Id": "pack.role_common",
@@ -183,7 +211,8 @@
     "Items": "{\"503\":10,\"1\":200000}",
     "Icon": "Icon/ShopGoods/pack_role_common",
     "IconBg": "UI/big_sprites/db_pack_3",
-    "SimpleName": "MallPackage.pack.role_common.3"
+    "SimpleName": "MallPackage.pack.role_common.3",
+    "Rarity": 3
   },
   "pack.op_role": {
     "Id": "pack.op_role",
@@ -204,7 +233,8 @@
     "DisplayMode": 1,
     "Icon": "Icon/ShopGoods/pack_op_role",
     "IconBg": "UI/big_sprites/db_pack_4",
-    "SimpleName": "MallPackage.pack.op_role.3"
+    "SimpleName": "MallPackage.pack.op_role.3",
+    "Rarity": 4
   },
   "pack.op_disc": {
     "Id": "pack.op_disc",
@@ -225,7 +255,8 @@
     "DisplayMode": 1,
     "Icon": "Icon/ShopGoods/pack_op_disc",
     "IconBg": "UI/big_sprites/db_pack_4",
-    "SimpleName": "MallPackage.pack.op_disc.3"
+    "SimpleName": "MallPackage.pack.op_disc.3",
+    "Rarity": 4
   },
   "pack.01_gift": {
     "Id": "pack.01_gift",
@@ -246,7 +277,8 @@
     "DisplayMode": 1,
     "Icon": "Icon/ShopGoods/pack_01_gift",
     "IconBg": "UI/big_sprites/db_pack_4",
-    "SimpleName": "MallPackage.pack.01_gift.3"
+    "SimpleName": "MallPackage.pack.01_gift.3",
+    "Rarity": 4
   },
   "pack.01_res": {
     "Id": "pack.01_res",
@@ -266,7 +298,8 @@
     "DisplayMode": 1,
     "Icon": "Icon/ShopGoods/pack_01_res",
     "IconBg": "UI/big_sprites/db_pack_3",
-    "SimpleName": "MallPackage.pack.01_res.3"
+    "SimpleName": "MallPackage.pack.01_res.3",
+    "Rarity": 3
   },
   "pack.01_role_m": {
     "Id": "pack.01_role_m",
@@ -286,7 +319,8 @@
     "DisplayMode": 1,
     "Icon": "Icon/ShopGoods/pack_01_role_m",
     "IconBg": "UI/big_sprites/db_pack_4",
-    "SimpleName": "MallPackage.pack.01_role_m.3"
+    "SimpleName": "MallPackage.pack.01_role_m.3",
+    "Rarity": 4
   },
   "pack.01_disc_m": {
     "Id": "pack.01_disc_m",
@@ -306,7 +340,8 @@
     "DisplayMode": 1,
     "Icon": "Icon/ShopGoods/pack_01_disc_m",
     "IconBg": "UI/big_sprites/db_pack_4",
-    "SimpleName": "MallPackage.pack.01_disc_m.3"
+    "SimpleName": "MallPackage.pack.01_disc_m.3",
+    "Rarity": 4
   },
   "pack.01_role_w": {
     "Id": "pack.01_role_w",
@@ -325,7 +360,8 @@
     "DisplayMode": 1,
     "Icon": "Icon/ShopGoods/pack_01_role_w",
     "IconBg": "UI/big_sprites/db_pack_3",
-    "SimpleName": "MallPackage.pack.01_role_w.3"
+    "SimpleName": "MallPackage.pack.01_role_w.3",
+    "Rarity": 3
   },
   "pack.01_disc_w": {
     "Id": "pack.01_disc_w",
@@ -344,7 +380,8 @@
     "DisplayMode": 1,
     "Icon": "Icon/ShopGoods/pack_01_disc_w",
     "IconBg": "UI/big_sprites/db_pack_3",
-    "SimpleName": "MallPackage.pack.01_disc_w.3"
+    "SimpleName": "MallPackage.pack.01_disc_w.3",
+    "Rarity": 3
   },
   "pac.world5": {
     "Id": "pac.world5",
@@ -363,7 +400,9 @@
     "OrderCondParams": "[5]",
     "Icon": "Icon/ShopGoods/pac_world5",
     "IconBg": "UI/big_sprites/db_pack_1",
-    "SimpleName": "MallPackage.pac.world5.3"
+    "SimpleName": "MallPackage.pac.world5.3",
+    "Rarity": 1,
+    "IsNew": true
   },
   "pac.world10": {
     "Id": "pac.world10",
@@ -384,7 +423,9 @@
     "OrderCondParams": "[10]",
     "Icon": "Icon/ShopGoods/pac_world10",
     "IconBg": "UI/big_sprites/db_pack_1",
-    "SimpleName": "MallPackage.pac.world10.3"
+    "SimpleName": "MallPackage.pac.world10.3",
+    "Rarity": 1,
+    "IsNew": true
   },
   "pac.world15": {
     "Id": "pac.world15",
@@ -405,7 +446,9 @@
     "OrderCondParams": "[15]",
     "Icon": "Icon/ShopGoods/pac_world15",
     "IconBg": "UI/big_sprites/db_pack_2",
-    "SimpleName": "MallPackage.pac.world15.3"
+    "SimpleName": "MallPackage.pac.world15.3",
+    "Rarity": 2,
+    "IsNew": true
   },
   "pac.world20": {
     "Id": "pac.world20",
@@ -426,7 +469,9 @@
     "OrderCondParams": "[20]",
     "Icon": "Icon/ShopGoods/pac_world20",
     "IconBg": "UI/big_sprites/db_pack_2",
-    "SimpleName": "MallPackage.pac.world20.3"
+    "SimpleName": "MallPackage.pac.world20.3",
+    "Rarity": 2,
+    "IsNew": true
   },
   "pac.world25": {
     "Id": "pac.world25",
@@ -447,7 +492,9 @@
     "OrderCondParams": "[25]",
     "Icon": "Icon/ShopGoods/pac_world25",
     "IconBg": "UI/big_sprites/db_pack_3",
-    "SimpleName": "MallPackage.pac.world25.3"
+    "SimpleName": "MallPackage.pac.world25.3",
+    "Rarity": 3,
+    "IsNew": true
   },
   "pac.world30": {
     "Id": "pac.world30",
@@ -468,7 +515,9 @@
     "OrderCondParams": "[30]",
     "Icon": "Icon/ShopGoods/pac_world30",
     "IconBg": "UI/big_sprites/db_pack_3",
-    "SimpleName": "MallPackage.pac.world30.3"
+    "SimpleName": "MallPackage.pac.world30.3",
+    "Rarity": 3,
+    "IsNew": true
   },
   "pack.05_disc_res": {
     "Id": "pack.05_disc_res",
@@ -487,7 +536,8 @@
     "DeListTime": "2026-01-13T10:59:59+08:00",
     "Icon": "Icon/ShopGoods/pack_05_disc_res",
     "IconBg": "UI/big_sprites/db_pack_3",
-    "SimpleName": "MallPackage.pack.05_disc_res.3"
+    "SimpleName": "MallPackage.pack.05_disc_res.3",
+    "Rarity": 3
   },
   "pack.05_skill_res": {
     "Id": "pack.05_skill_res",
@@ -506,7 +556,8 @@
     "DeListTime": "2026-01-13T10:59:59+08:00",
     "Icon": "Icon/ShopGoods/pack_05_skill_res",
     "IconBg": "UI/big_sprites/db_pack_3",
-    "SimpleName": "MallPackage.pack.05_skill_res.3"
+    "SimpleName": "MallPackage.pack.05_skill_res.3",
+    "Rarity": 3
   },
   "pack.05_role_res": {
     "Id": "pack.05_role_res",
@@ -525,7 +576,71 @@
     "DeListTime": "2026-01-13T10:59:59+08:00",
     "Icon": "Icon/ShopGoods/pack_05_role_res",
     "IconBg": "UI/big_sprites/db_pack_3",
-    "SimpleName": "MallPackage.pack.05_role_res.3"
+    "SimpleName": "MallPackage.pack.05_role_res.3",
+    "Rarity": 3
+  },
+  "pack.07_disc_res": {
+    "Id": "pack.07_disc_res",
+    "Name": "MallPackage.pack.07_disc_res.1",
+    "DetailName": "MallPackage.pack.07_disc_res.2",
+    "GroupId": 4,
+    "StatisticalGroup": "pack.07_disc_res",
+    "Tag": 1,
+    "Sort": 1,
+    "CurrencyType": 2,
+    "CurrencyItemId": 3,
+    "CurrencyItemQty": 980,
+    "Stock": 3,
+    "Items": "{\"82004\":260,\"82005\":25,\"82006\":5,\"1\":100000}",
+    "ListTime": "2026-02-03T12:00:00+08:00",
+    "DeListTime": "2026-02-24T10:59:59+08:00",
+    "Icon": "guo",
+    "IconBg": "UI/big_sprites/db_pack_3",
+    "SimpleName": "MallPackage.pack.07_disc_res.3",
+    "Rarity": 3,
+    "IsNew": true
+  },
+  "pack.07_skill_res": {
+    "Id": "pack.07_skill_res",
+    "Name": "MallPackage.pack.07_skill_res.1",
+    "DetailName": "MallPackage.pack.07_skill_res.2",
+    "GroupId": 4,
+    "StatisticalGroup": "pack.07_skill_res",
+    "Tag": 1,
+    "Sort": 2,
+    "CurrencyType": 2,
+    "CurrencyItemId": 3,
+    "CurrencyItemQty": 1980,
+    "Stock": 2,
+    "Items": "{\"82007\":540,\"82008\":50,\"82009\":10,\"1\":200000}",
+    "ListTime": "2026-02-03T12:00:00+08:00",
+    "DeListTime": "2026-02-24T10:59:59+08:00",
+    "Icon": "Icon/ShopGoods/pack_07_skill_res",
+    "IconBg": "UI/big_sprites/db_pack_3",
+    "SimpleName": "MallPackage.pack.07_skill_res.3",
+    "Rarity": 3,
+    "IsNew": true
+  },
+  "pack.07_role_res": {
+    "Id": "pack.07_role_res",
+    "Name": "MallPackage.pack.07_role_res.1",
+    "DetailName": "MallPackage.pack.07_role_res.2",
+    "GroupId": 4,
+    "StatisticalGroup": "pack.07_role_res",
+    "Tag": 1,
+    "Sort": 3,
+    "CurrencyType": 2,
+    "CurrencyItemId": 3,
+    "CurrencyItemQty": 2980,
+    "Stock": 1,
+    "Items": "{\"82001\":640,\"82002\":50,\"82003\":10,\"35000\":10}",
+    "ListTime": "2026-02-03T12:00:00+08:00",
+    "DeListTime": "2026-02-24T10:59:59+08:00",
+    "Icon": "Icon/ShopGoods/pack_07_role_res",
+    "IconBg": "UI/big_sprites/db_pack_3",
+    "SimpleName": "MallPackage.pack.07_role_res.3",
+    "Rarity": 3,
+    "IsNew": true
   },
   "pack.02_role": {
     "Id": "pack.02_role",
@@ -546,7 +661,8 @@
     "DisplayMode": 1,
     "Icon": "Icon/ShopGoods/pack_02_role",
     "IconBg": "UI/big_sprites/db_pack_4",
-    "SimpleName": "MallPackage.pack.02_role.3"
+    "SimpleName": "MallPackage.pack.02_role.3",
+    "Rarity": 4
   },
   "pack.02_disc": {
     "Id": "pack.02_disc",
@@ -567,7 +683,8 @@
     "DisplayMode": 1,
     "Icon": "Icon/ShopGoods/pack_02_disc",
     "IconBg": "UI/big_sprites/db_pack_4",
-    "SimpleName": "MallPackage.pack.02_disc.3"
+    "SimpleName": "MallPackage.pack.02_disc.3",
+    "Rarity": 4
   },
   "pack.02_gift": {
     "Id": "pack.02_gift",
@@ -588,7 +705,8 @@
     "DisplayMode": 1,
     "Icon": "Icon/ShopGoods/pack_02_gift",
     "IconBg": "UI/big_sprites/db_pack_4",
-    "SimpleName": "MallPackage.pack.02_gift.3"
+    "SimpleName": "MallPackage.pack.02_gift.3",
+    "Rarity": 4
   },
   "pack.02_res": {
     "Id": "pack.02_res",
@@ -608,7 +726,8 @@
     "DisplayMode": 1,
     "Icon": "Icon/ShopGoods/pack_02_res",
     "IconBg": "UI/big_sprites/db_pack_3",
-    "SimpleName": "MallPackage.pack.02_res.3"
+    "SimpleName": "MallPackage.pack.02_res.3",
+    "Rarity": 3
   },
   "pack.03_role": {
     "Id": "pack.03_role",
@@ -629,7 +748,8 @@
     "DisplayMode": 1,
     "Icon": "Icon/ShopGoods/pack_03_role",
     "IconBg": "UI/big_sprites/db_pack_4",
-    "SimpleName": "MallPackage.pack.03_role.3"
+    "SimpleName": "MallPackage.pack.03_role.3",
+    "Rarity": 4
   },
   "pack.03_disc": {
     "Id": "pack.03_disc",
@@ -650,7 +770,8 @@
     "DisplayMode": 1,
     "Icon": "Icon/ShopGoods/pack_03_disc",
     "IconBg": "UI/big_sprites/db_pack_4",
-    "SimpleName": "MallPackage.pack.03_disc.3"
+    "SimpleName": "MallPackage.pack.03_disc.3",
+    "Rarity": 4
   },
   "pack.03_gift": {
     "Id": "pack.03_gift",
@@ -671,7 +792,8 @@
     "DisplayMode": 1,
     "Icon": "Icon/ShopGoods/pack_03_gift",
     "IconBg": "UI/big_sprites/db_pack_4",
-    "SimpleName": "MallPackage.pack.03_gift.3"
+    "SimpleName": "MallPackage.pack.03_gift.3",
+    "Rarity": 4
   },
   "pack.03_res": {
     "Id": "pack.03_res",
@@ -691,7 +813,8 @@
     "DisplayMode": 1,
     "Icon": "Icon/ShopGoods/pack_03_res",
     "IconBg": "UI/big_sprites/db_pack_3",
-    "SimpleName": "MallPackage.pack.03_res.3"
+    "SimpleName": "MallPackage.pack.03_res.3",
+    "Rarity": 3
   },
   "pack.04_role": {
     "Id": "pack.04_role",
@@ -712,7 +835,8 @@
     "DisplayMode": 1,
     "Icon": "Icon/ShopGoods/pack_04_role",
     "IconBg": "UI/big_sprites/db_pack_4",
-    "SimpleName": "MallPackage.pack.04_role.3"
+    "SimpleName": "MallPackage.pack.04_role.3",
+    "Rarity": 4
   },
   "pack.04_disc": {
     "Id": "pack.04_disc",
@@ -733,7 +857,8 @@
     "DisplayMode": 1,
     "Icon": "Icon/ShopGoods/pack_04_disc",
     "IconBg": "UI/big_sprites/db_pack_4",
-    "SimpleName": "MallPackage.pack.04_disc.3"
+    "SimpleName": "MallPackage.pack.04_disc.3",
+    "Rarity": 4
   },
   "pack.04_gift": {
     "Id": "pack.04_gift",
@@ -754,7 +879,8 @@
     "DisplayMode": 1,
     "Icon": "Icon/ShopGoods/pack_04_gift",
     "IconBg": "UI/big_sprites/db_pack_4",
-    "SimpleName": "MallPackage.pack.04_gift.3"
+    "SimpleName": "MallPackage.pack.04_gift.3",
+    "Rarity": 4
   },
   "pack.04_res": {
     "Id": "pack.04_res",
@@ -774,7 +900,8 @@
     "DisplayMode": 1,
     "Icon": "Icon/ShopGoods/pack_04_res",
     "IconBg": "UI/big_sprites/db_pack_3",
-    "SimpleName": "MallPackage.pack.04_res.3"
+    "SimpleName": "MallPackage.pack.04_res.3",
+    "Rarity": 3
   },
   "pack.05_role": {
     "Id": "pack.05_role",
@@ -795,7 +922,8 @@
     "DisplayMode": 1,
     "Icon": "Icon/ShopGoods/pack_05_role",
     "IconBg": "UI/big_sprites/db_pack_4",
-    "SimpleName": "MallPackage.pack.05_role.3"
+    "SimpleName": "MallPackage.pack.05_role.3",
+    "Rarity": 4
   },
   "pack.05_disc": {
     "Id": "pack.05_disc",
@@ -816,7 +944,8 @@
     "DisplayMode": 1,
     "Icon": "Icon/ShopGoods/pack_05_disc",
     "IconBg": "UI/big_sprites/db_pack_4",
-    "SimpleName": "MallPackage.pack.05_disc.3"
+    "SimpleName": "MallPackage.pack.05_disc.3",
+    "Rarity": 4
   },
   "pack.05_gift": {
     "Id": "pack.05_gift",
@@ -837,7 +966,8 @@
     "DisplayMode": 1,
     "Icon": "Icon/ShopGoods/pack_05_gift",
     "IconBg": "UI/big_sprites/db_pack_4",
-    "SimpleName": "MallPackage.pack.05_gift.3"
+    "SimpleName": "MallPackage.pack.05_gift.3",
+    "Rarity": 4
   },
   "pack.05_res": {
     "Id": "pack.05_res",
@@ -857,7 +987,8 @@
     "DisplayMode": 1,
     "Icon": "Icon/ShopGoods/pack_05_res",
     "IconBg": "UI/big_sprites/db_pack_3",
-    "SimpleName": "MallPackage.pack.05_res.3"
+    "SimpleName": "MallPackage.pack.05_res.3",
+    "Rarity": 3
   },
   "pack.05_role_s": {
     "Id": "pack.05_role_s",
@@ -878,7 +1009,8 @@
     "DisplayMode": 1,
     "Icon": "Icon/ShopGoods/pack_05_role_s",
     "IconBg": "UI/big_sprites/db_pack_4",
-    "SimpleName": "MallPackage.pack.05_role_s.3"
+    "SimpleName": "MallPackage.pack.05_role_s.3",
+    "Rarity": 4
   },
   "pack.05_disc_s": {
     "Id": "pack.05_disc_s",
@@ -899,7 +1031,8 @@
     "DisplayMode": 1,
     "Icon": "Icon/ShopGoods/pack_05_disc_s",
     "IconBg": "UI/big_sprites/db_pack_4",
-    "SimpleName": "MallPackage.pack.05_disc_s.3"
+    "SimpleName": "MallPackage.pack.05_disc_s.3",
+    "Rarity": 4
   },
   "pack.05_role_l": {
     "Id": "pack.05_role_l",
@@ -920,7 +1053,8 @@
     "DisplayMode": 1,
     "Icon": "Icon/ShopGoods/pack_05_role_l",
     "IconBg": "UI/big_sprites/db_pack_4",
-    "SimpleName": "MallPackage.pack.05_role_l.3"
+    "SimpleName": "MallPackage.pack.05_role_l.3",
+    "Rarity": 4
   },
   "pack.05_disc_l": {
     "Id": "pack.05_disc_l",
@@ -941,7 +1075,8 @@
     "DisplayMode": 1,
     "Icon": "Icon/ShopGoods/pack_05_disc_l",
     "IconBg": "UI/big_sprites/db_pack_4",
-    "SimpleName": "MallPackage.pack.05_disc_l.3"
+    "SimpleName": "MallPackage.pack.05_disc_l.3",
+    "Rarity": 4
   },
   "pack.06_role": {
     "Id": "pack.06_role",
@@ -962,7 +1097,9 @@
     "DisplayMode": 1,
     "Icon": "Icon/ShopGoods/pack_06_role",
     "IconBg": "UI/big_sprites/db_pack_4",
-    "SimpleName": "MallPackage.pack.06_role.3"
+    "SimpleName": "MallPackage.pack.06_role.3",
+    "Rarity": 4,
+    "IsNew": true
   },
   "pack.06_disc": {
     "Id": "pack.06_disc",
@@ -983,7 +1120,9 @@
     "DisplayMode": 1,
     "Icon": "Icon/ShopGoods/pack_06_disc",
     "IconBg": "UI/big_sprites/db_pack_4",
-    "SimpleName": "MallPackage.pack.06_disc.3"
+    "SimpleName": "MallPackage.pack.06_disc.3",
+    "Rarity": 4,
+    "IsNew": true
   },
   "pack.06_gift": {
     "Id": "pack.06_gift",
@@ -1004,7 +1143,9 @@
     "DisplayMode": 1,
     "Icon": "Icon/ShopGoods/pack_06_gift",
     "IconBg": "UI/big_sprites/db_pack_4",
-    "SimpleName": "MallPackage.pack.06_gift.3"
+    "SimpleName": "MallPackage.pack.06_gift.3",
+    "Rarity": 4,
+    "IsNew": true
   },
   "pack.06_res": {
     "Id": "pack.06_res",
@@ -1024,7 +1165,9 @@
     "DisplayMode": 1,
     "Icon": "Icon/ShopGoods/pack_06_res",
     "IconBg": "UI/big_sprites/db_pack_3",
-    "SimpleName": "MallPackage.pack.06_res.3"
+    "SimpleName": "MallPackage.pack.06_res.3",
+    "Rarity": 3,
+    "IsNew": true
   },
   "pack.06_role_s": {
     "Id": "pack.06_role_s",
@@ -1045,7 +1188,9 @@
     "DisplayMode": 1,
     "Icon": "Icon/ShopGoods/pack_06_role_s",
     "IconBg": "UI/big_sprites/db_pack_4",
-    "SimpleName": "MallPackage.pack.06_role_s.3"
+    "SimpleName": "MallPackage.pack.06_role_s.3",
+    "Rarity": 4,
+    "IsNew": true
   },
   "pack.06_disc_s": {
     "Id": "pack.06_disc_s",
@@ -1066,7 +1211,9 @@
     "DisplayMode": 1,
     "Icon": "Icon/ShopGoods/pack_06_disc_s",
     "IconBg": "UI/big_sprites/db_pack_4",
-    "SimpleName": "MallPackage.pack.06_disc_s.3"
+    "SimpleName": "MallPackage.pack.06_disc_s.3",
+    "Rarity": 4,
+    "IsNew": true
   },
   "pack.06_role_l": {
     "Id": "pack.06_role_l",
@@ -1087,7 +1234,9 @@
     "DisplayMode": 1,
     "Icon": "Icon/ShopGoods/pack_06_role_l",
     "IconBg": "UI/big_sprites/db_pack_4",
-    "SimpleName": "MallPackage.pack.06_role_l.3"
+    "SimpleName": "MallPackage.pack.06_role_l.3",
+    "Rarity": 4,
+    "IsNew": true
   },
   "pack.06_disc_l": {
     "Id": "pack.06_disc_l",
@@ -1108,6 +1257,259 @@
     "DisplayMode": 1,
     "Icon": "Icon/ShopGoods/pack_06_disc_l",
     "IconBg": "UI/big_sprites/db_pack_4",
-    "SimpleName": "MallPackage.pack.06_disc_l.3"
+    "SimpleName": "MallPackage.pack.06_disc_l.3",
+    "Rarity": 4,
+    "IsNew": true
+  },
+  "pack.07_role": {
+    "Id": "pack.07_role",
+    "Name": "MallPackage.pack.07_role.1",
+    "DetailName": "MallPackage.pack.07_role.2",
+    "GroupId": 2,
+    "StatisticalGroup": "pack_role",
+    "SaleRate": 140,
+    "Tag": 1,
+    "Sort": 8,
+    "CurrencyType": 1,
+    "CurrencyItemQty": 490,
+    "CurrencyShowPrice": "NT$ 490",
+    "Stock": 3,
+    "Items": "{\"502\":10}",
+    "ListTime": "2026-02-03T12:00:00+08:00",
+    "DeListTime": "2026-02-24T10:59:59+08:00",
+    "DisplayMode": 1,
+    "Icon": "Icon/ShopGoods/pack_07_role",
+    "IconBg": "UI/big_sprites/db_pack_4",
+    "SimpleName": "MallPackage.pack.07_role.3",
+    "Rarity": 4,
+    "IsNew": true
+  },
+  "pack.07_disc": {
+    "Id": "pack.07_disc",
+    "Name": "MallPackage.pack.07_disc.1",
+    "DetailName": "MallPackage.pack.07_disc.2",
+    "GroupId": 2,
+    "StatisticalGroup": "pack_disc",
+    "SaleRate": 140,
+    "Tag": 1,
+    "Sort": 9,
+    "CurrencyType": 1,
+    "CurrencyItemQty": 490,
+    "CurrencyShowPrice": "NT$ 490",
+    "Stock": 3,
+    "Items": "{\"602\":3000}",
+    "ListTime": "2026-02-03T12:00:00+08:00",
+    "DeListTime": "2026-02-24T10:59:59+08:00",
+    "DisplayMode": 1,
+    "Icon": "Icon/ShopGoods/pack_07_disc",
+    "IconBg": "UI/big_sprites/db_pack_4",
+    "SimpleName": "MallPackage.pack.07_disc.3",
+    "Rarity": 4,
+    "IsNew": true
+  },
+  "pack.07_res": {
+    "Id": "pack.07_res",
+    "Name": "MallPackage.pack.07_res.1",
+    "DetailName": "MallPackage.pack.07_res.2",
+    "GroupId": 2,
+    "StatisticalGroup": "pack_res",
+    "Tag": 1,
+    "Sort": 10,
+    "CurrencyType": 1,
+    "CurrencyItemQty": 400,
+    "CurrencyShowPrice": "NT$ 400",
+    "Stock": 1,
+    "Items": "{\"20081\":80,\"20082\":65,\"20083\":20,\"30004\":40}",
+    "ListTime": "2026-02-03T12:00:00+08:00",
+    "DeListTime": "2026-02-24T10:59:59+08:00",
+    "DisplayMode": 1,
+    "Icon": "Icon/ShopGoods/pack_07_res",
+    "IconBg": "UI/big_sprites/db_pack_3",
+    "SimpleName": "MallPackage.pack.07_res.3",
+    "Rarity": 3,
+    "IsNew": true
+  },
+  "pack.07_role_s": {
+    "Id": "pack.07_role_s",
+    "Name": "MallPackage.pack.07_role_s.1",
+    "DetailName": "MallPackage.pack.07_role_s.2",
+    "GroupId": 2,
+    "StatisticalGroup": "pack.05_role_s",
+    "SaleRate": 160,
+    "Tag": 1,
+    "Sort": 2,
+    "CurrencyType": 1,
+    "CurrencyItemQty": 750,
+    "CurrencyShowPrice": "NT$ 750",
+    "Stock": 3,
+    "Items": "{\"502\":15,\"503\":3,\"33903\":3}",
+    "ListTime": "2026-02-03T12:00:00+08:00",
+    "DeListTime": "2026-02-24T10:59:59+08:00",
+    "DisplayMode": 1,
+    "Icon": "Icon/ShopGoods/pack_07_role_s",
+    "IconBg": "UI/big_sprites/db_pack_4",
+    "SimpleName": "MallPackage.pack.07_role_s.3",
+    "Rarity": 4,
+    "IsNew": true
+  },
+  "pack.07_disc_s": {
+    "Id": "pack.07_disc_s",
+    "Name": "MallPackage.pack.07_disc_s.1",
+    "DetailName": "MallPackage.pack.07_disc_s.2",
+    "GroupId": 2,
+    "StatisticalGroup": "pack.05_disc_s",
+    "SaleRate": 160,
+    "Tag": 1,
+    "Sort": 3,
+    "CurrencyType": 1,
+    "CurrencyItemQty": 750,
+    "CurrencyShowPrice": "NT$ 750",
+    "Stock": 3,
+    "Items": "{\"602\":4500,\"603\":900,\"33903\":3}",
+    "ListTime": "2026-02-03T12:00:00+08:00",
+    "DeListTime": "2026-02-24T10:59:59+08:00",
+    "DisplayMode": 1,
+    "Icon": "Icon/ShopGoods/pack_07_disc_s",
+    "IconBg": "UI/big_sprites/db_pack_4",
+    "SimpleName": "MallPackage.pack.07_disc_s.3",
+    "Rarity": 4,
+    "IsNew": true
+  },
+  "pack.07_role_l": {
+    "Id": "pack.07_role_l",
+    "Name": "MallPackage.pack.07_role_l.1",
+    "DetailName": "MallPackage.pack.07_role_l.2",
+    "GroupId": 2,
+    "StatisticalGroup": "pack.05_role_l",
+    "SaleRate": 160,
+    "Tag": 1,
+    "Sort": 4,
+    "CurrencyType": 1,
+    "CurrencyItemQty": 1100,
+    "CurrencyShowPrice": "NT$ 1100",
+    "Stock": 3,
+    "Items": "{\"502\":20,\"503\":5,\"33903\":5}",
+    "ListTime": "2026-02-03T12:00:00+08:00",
+    "DeListTime": "2026-02-24T10:59:59+08:00",
+    "DisplayMode": 1,
+    "Icon": "Icon/ShopGoods/pack_07_role_l",
+    "IconBg": "UI/big_sprites/db_pack_4",
+    "SimpleName": "MallPackage.pack.07_role_l.3",
+    "Rarity": 4,
+    "IsNew": true
+  },
+  "pack.07_disc_l": {
+    "Id": "pack.07_disc_l",
+    "Name": "MallPackage.pack.07_disc_l.1",
+    "DetailName": "MallPackage.pack.07_disc_l.2",
+    "GroupId": 2,
+    "StatisticalGroup": "pack.05_disc_l",
+    "SaleRate": 160,
+    "Tag": 1,
+    "Sort": 5,
+    "CurrencyType": 1,
+    "CurrencyItemQty": 1100,
+    "CurrencyShowPrice": "NT$ 1100",
+    "Stock": 3,
+    "Items": "{\"602\":6000,\"603\":1500,\"33903\":5}",
+    "ListTime": "2026-02-03T12:00:00+08:00",
+    "DeListTime": "2026-02-24T10:59:59+08:00",
+    "DisplayMode": 1,
+    "Icon": "Icon/ShopGoods/pack_07_disc_l",
+    "IconBg": "UI/big_sprites/db_pack_4",
+    "SimpleName": "MallPackage.pack.07_disc_l.3",
+    "Rarity": 4,
+    "IsNew": true
+  },
+  "pack.07_role_sd": {
+    "Id": "pack.07_role_sd",
+    "Name": "MallPackage.pack.07_role_sd.1",
+    "DetailName": "MallPackage.pack.07_role_sd.2",
+    "GroupId": 2,
+    "StatisticalGroup": "pack.07_role_sd",
+    "SaleRate": 140,
+    "Tag": 1,
+    "Sort": 6,
+    "CurrencyType": 1,
+    "CurrencyItemQty": 290,
+    "CurrencyShowPrice": "NT$ 290",
+    "Stock": 1,
+    "Items": "{\"502\":5,\"30\":20}",
+    "ListTime": "2026-02-03T12:00:00+08:00",
+    "DeListTime": "2026-02-24T10:59:59+08:00",
+    "DisplayMode": 1,
+    "Icon": "Icon/ShopGoods/pack_07_role_sd",
+    "IconBg": "UI/big_sprites/db_pack_4",
+    "SimpleName": "MallPackage.pack.07_role_sd.3",
+    "Rarity": 4,
+    "IsNew": true
+  },
+  "pack.07_disc_sd": {
+    "Id": "pack.07_disc_sd",
+    "Name": "MallPackage.pack.07_disc_sd.1",
+    "DetailName": "MallPackage.pack.07_disc_sd.2",
+    "GroupId": 2,
+    "StatisticalGroup": "pack.07_disc_sd",
+    "SaleRate": 140,
+    "Tag": 1,
+    "Sort": 7,
+    "CurrencyType": 1,
+    "CurrencyItemQty": 290,
+    "CurrencyShowPrice": "NT$ 290",
+    "Stock": 1,
+    "Items": "{\"602\":1500,\"30\":20}",
+    "ListTime": "2026-02-03T12:00:00+08:00",
+    "DeListTime": "2026-02-24T10:59:59+08:00",
+    "DisplayMode": 1,
+    "Icon": "Icon/ShopGoods/pack_07_disc_sd",
+    "IconBg": "UI/big_sprites/db_pack_4",
+    "SimpleName": "MallPackage.pack.07_disc_sd.3",
+    "Rarity": 4,
+    "IsNew": true
+  },
+  "pack.07_skill_xc": {
+    "Id": "pack.07_skill_xc",
+    "Name": "MallPackage.pack.07_skill_xc.1",
+    "DetailName": "MallPackage.pack.07_skill_xc.2",
+    "GroupId": 2,
+    "StatisticalGroup": "pack.07_skill_xc",
+    "Tag": 1,
+    "Sort": 11,
+    "CurrencyType": 1,
+    "CurrencyItemQty": 400,
+    "CurrencyShowPrice": "NT$ 400",
+    "Stock": 1,
+    "Items": "{\"82007\":80,\"82008\":65,\"82009\":20,\"32000\":120}",
+    "ListTime": "2026-02-03T12:00:00+08:00",
+    "DeListTime": "2026-02-24T10:59:59+08:00",
+    "DisplayMode": 1,
+    "Icon": "Icon/ShopGoods/pack_07_skill_xc",
+    "IconBg": "UI/big_sprites/db_pack_3",
+    "SimpleName": "MallPackage.pack.07_skill_xc.3",
+    "Rarity": 3,
+    "IsNew": true
+  },
+  "pack.07_hongbao": {
+    "Id": "pack.07_hongbao",
+    "Name": "MallPackage.pack.07_hongbao.1",
+    "DetailName": "MallPackage.pack.07_hongbao.2",
+    "GroupId": 2,
+    "StatisticalGroup": "pack.07_hongbao",
+    "SaleRate": 370,
+    "Tag": 1,
+    "Sort": 1,
+    "CurrencyType": 1,
+    "CurrencyItemQty": 33,
+    "CurrencyShowPrice": "NT$ 33",
+    "Stock": 1,
+    "Items": "{\"502\":1,\"602\":300,\"33912\":1}",
+    "ListTime": "2026-02-03T12:00:00+08:00",
+    "DeListTime": "2026-02-24T10:59:59+08:00",
+    "DisplayMode": 1,
+    "Icon": "Icon/ShopGoods/pack_07_hongbao",
+    "IconBg": "UI/big_sprites/db_pack_4",
+    "SimpleName": "MallPackage.pack.07_hongbao.3",
+    "Rarity": 4,
+    "IsNew": true
   }
 }

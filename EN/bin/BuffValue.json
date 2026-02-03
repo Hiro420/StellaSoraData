@@ -6183,11 +6183,39 @@
     "ReplaceType": true,
     "ReplaceMode": true
   },
+  "13004012": {
+    "Id": 13004012,
+    "Sort": 1,
+    "Effects": [
+      13004012
+    ],
+    "Time": -10000,
+    "LaminatedNum": 10,
+    "Num": 1,
+    "TimeSuperposition": 2,
+    "Timing": 1,
+    "ReplaceType": true,
+    "ReplaceMode": true
+  },
   "13005011": {
     "Id": 13005011,
     "Sort": 1,
     "Time": 200000,
     "LaminatedNum": 7,
+    "Num": 1,
+    "TimeSuperposition": 2,
+    "Timing": 1,
+    "ReplaceType": true,
+    "ReplaceMode": true
+  },
+  "13005012": {
+    "Id": 13005012,
+    "Sort": 1,
+    "Effects": [
+      13005002
+    ],
+    "Time": 40000,
+    "LaminatedNum": 40,
     "Num": 1,
     "TimeSuperposition": 2,
     "Timing": 1,
@@ -6293,14 +6321,11 @@
     "ReplaceType": true,
     "ReplaceMode": true
   },
-  "13023011": {
-    "Id": 13023011,
+  "13024011": {
+    "Id": 13024011,
     "Sort": 1,
-    "Effects": [
-      13023011
-    ],
     "Time": 80000,
-    "LaminatedNum": 4,
+    "LaminatedNum": 3,
     "Num": 1,
     "TimeSuperposition": 2,
     "Timing": 1,
@@ -6340,11 +6365,26 @@
     "ReplaceType": true,
     "ReplaceMode": true
   },
+  "13026011": {
+    "Id": 13026011,
+    "Sort": 1,
+    "Effects": [
+      13026001
+    ],
+    "Time": 40000,
+    "LaminatedNum": 9,
+    "Num": 1,
+    "TimeSuperposition": 2,
+    "Timing": 1,
+    "ReplaceType": true,
+    "ReplaceMode": true
+  },
   "13028011": {
     "Id": 13028011,
     "Sort": 1,
     "Effects": [
-      13028001
+      13028001,
+      13028002
     ],
     "Time": 70000,
     "LaminatedNum": 6,
@@ -6368,11 +6408,22 @@
     "ReplaceType": true,
     "ReplaceMode": true
   },
-  "13029011": {
-    "Id": 13029011,
+  "13022011": {
+    "Id": 13022011,
     "Sort": 1,
     "Time": 100000,
-    "LaminatedNum": 10,
+    "LaminatedNum": 18,
+    "Num": 1,
+    "TimeSuperposition": 2,
+    "Timing": 1,
+    "ReplaceType": true,
+    "ReplaceMode": true
+  },
+  "13022012": {
+    "Id": 13022012,
+    "Sort": 1,
+    "Time": 100000,
+    "LaminatedNum": 30,
     "Num": 1,
     "TimeSuperposition": 2,
     "Timing": 1,
@@ -6413,7 +6464,7 @@
     "Effects": [
       13031001
     ],
-    "Time": -10000,
+    "Time": 100000,
     "LaminatedNum": 1,
     "Num": 1,
     "TimeSuperposition": 2,
@@ -6440,20 +6491,6 @@
     "Sort": 1,
     "Effects": [
       13033001
-    ],
-    "Time": -10000,
-    "LaminatedNum": 1,
-    "Num": 1,
-    "TimeSuperposition": 2,
-    "Timing": 1,
-    "ReplaceType": true,
-    "ReplaceMode": true
-  },
-  "13033012": {
-    "Id": 13033012,
-    "Sort": 1,
-    "Effects": [
-      13033002
     ],
     "Time": -10000,
     "LaminatedNum": 1,
@@ -7090,6 +7127,32 @@
     ],
     "Time": -10000,
     "LaminatedNum": 10,
+    "Num": 1,
+    "TimeSuperposition": 2,
+    "Timing": 1,
+    "ReplaceType": true,
+    "ReplaceMode": true
+  },
+  "14415011": {
+    "Id": 14415011,
+    "Effects": [
+      14415001
+    ],
+    "Time": -10000,
+    "LaminatedNum": 1,
+    "Num": 1,
+    "TimeSuperposition": 2,
+    "Timing": 1,
+    "ReplaceType": true,
+    "ReplaceMode": true
+  },
+  "14415012": {
+    "Id": 14415012,
+    "Effects": [
+      14415002
+    ],
+    "Time": 80000,
+    "LaminatedNum": 1,
     "Num": 1,
     "TimeSuperposition": 2,
     "Timing": 1,
@@ -12475,10 +12538,10 @@
     "ReplaceType": true,
     "ReplaceMode": true
   },
-  "14301011": {
-    "Id": 14301011,
+  "14300011": {
+    "Id": 14300011,
     "Sort": 1,
-    "Time": 40000,
+    "Time": -10000,
     "LaminatedNum": 1,
     "Num": 1,
     "TimeSuperposition": 2,
@@ -12486,28 +12549,11 @@
     "ReplaceType": true,
     "ReplaceMode": true
   },
-  "14301012": {
-    "Id": 14301012,
+  "14301011": {
+    "Id": 14301011,
     "Sort": 1,
-    "Effects": [
-      14301012
-    ],
     "Time": 40000,
-    "LaminatedNum": 6,
-    "Num": 1,
-    "TimeSuperposition": 2,
-    "Timing": 1,
-    "ReplaceType": true,
-    "ReplaceMode": true
-  },
-  "14302011": {
-    "Id": 14302011,
-    "Sort": 1,
-    "Effects": [
-      14302011
-    ],
-    "Time": 40000,
-    "LaminatedNum": 6,
+    "LaminatedNum": 1,
     "Num": 1,
     "TimeSuperposition": 2,
     "Timing": 1,
@@ -12532,7 +12578,7 @@
     "Id": 14308011,
     "Sort": 1,
     "Time": 10000,
-    "LaminatedNum": 4,
+    "LaminatedNum": 3,
     "Num": 1,
     "TimeSuperposition": 2,
     "Timing": 1,
@@ -12553,14 +12599,39 @@
     "ReplaceType": true,
     "ReplaceMode": true
   },
+  "14310011": {
+    "Id": 14310011,
+    "Sort": 1,
+    "Time": 30000,
+    "LaminatedNum": 1,
+    "Num": 1,
+    "TimeSuperposition": 2,
+    "Timing": 1,
+    "ReplaceType": true,
+    "ReplaceMode": true
+  },
   "14311011": {
     "Id": 14311011,
     "Sort": 1,
     "Effects": [
       14311001
     ],
-    "Time": 60000,
+    "Time": 40000,
     "LaminatedNum": 1,
+    "Num": 1,
+    "TimeSuperposition": 2,
+    "Timing": 1,
+    "ReplaceType": true,
+    "ReplaceMode": true
+  },
+  "14312011": {
+    "Id": 14312011,
+    "Sort": 1,
+    "Effects": [
+      14312001
+    ],
+    "Time": -10000,
+    "LaminatedNum": 3,
     "Num": 1,
     "TimeSuperposition": 2,
     "Timing": 1,
@@ -12573,8 +12644,8 @@
     "Effects": [
       14313001
     ],
-    "Time": 60000,
-    "LaminatedNum": 1,
+    "Time": 30000,
+    "LaminatedNum": 3,
     "Num": 1,
     "TimeSuperposition": 2,
     "Timing": 1,
@@ -12640,8 +12711,66 @@
     "Effects": [
       14342001
     ],
-    "Time": 150000,
+    "Time": 200000,
     "LaminatedNum": 1,
+    "Num": 1,
+    "TimeSuperposition": 2,
+    "Timing": 1,
+    "ReplaceType": true,
+    "ReplaceMode": true
+  },
+  "14396111": {
+    "Id": 14396111,
+    "Sort": 1,
+    "Effects": [
+      14396111,
+      14396121
+    ],
+    "Time": 100000,
+    "LaminatedNum": 1,
+    "Num": 1,
+    "TimeSuperposition": 2,
+    "Timing": 1,
+    "ReplaceType": true,
+    "ReplaceMode": true
+  },
+  "14396211": {
+    "Id": 14396211,
+    "Sort": 1,
+    "Effects": [
+      14396211
+    ],
+    "Time": 50000,
+    "LaminatedNum": 10,
+    "Num": 1,
+    "TimeSuperposition": 2,
+    "Timing": 1,
+    "ReplaceType": true,
+    "ReplaceMode": true
+  },
+  "14396311": {
+    "Id": 14396311,
+    "Sort": 1,
+    "Effects": [
+      14396311,
+      14396321
+    ],
+    "Time": 100000,
+    "LaminatedNum": 1,
+    "Num": 1,
+    "TimeSuperposition": 2,
+    "Timing": 1,
+    "ReplaceType": true,
+    "ReplaceMode": true
+  },
+  "14396411": {
+    "Id": 14396411,
+    "Sort": 1,
+    "Effects": [
+      14396411
+    ],
+    "Time": 50000,
+    "LaminatedNum": 10,
     "Num": 1,
     "TimeSuperposition": 2,
     "Timing": 1,
@@ -13807,6 +13936,18 @@
     "ReplaceMode": true,
     "HitClear": true
   },
+  "15921011": {
+    "Id": 15921011,
+    "Sort": 1,
+    "Time": 35000,
+    "LaminatedNum": 1,
+    "Num": 1,
+    "TimeSuperposition": 2,
+    "Timing": 1,
+    "ReplaceType": true,
+    "ReplaceMode": true,
+    "HitClear": true
+  },
   "15926011": {
     "Id": 15926011,
     "Sort": 1,
@@ -13868,7 +14009,7 @@
       15933001
     ],
     "Time": 30000,
-    "LaminatedNum": 1,
+    "LaminatedNum": 6,
     "Num": 1,
     "TimeSuperposition": 2,
     "Timing": 1,
@@ -13892,14 +14033,11 @@
     "ReplaceMode": true,
     "HitClear": true
   },
-  "15942011": {
-    "Id": 15942011,
+  "15943011": {
+    "Id": 15943011,
     "Sort": 1,
-    "Effects": [
-      15942002
-    ],
-    "Time": -10000,
-    "LaminatedNum": 1,
+    "Time": 200000,
+    "LaminatedNum": 6,
     "Num": 1,
     "TimeSuperposition": 2,
     "Timing": 1,
@@ -13907,20 +14045,58 @@
     "ReplaceMode": true,
     "HitClear": true
   },
-  "15943011": {
-    "Id": 15943011,
+  "15996111": {
+    "Id": 15996111,
     "Sort": 1,
     "Effects": [
-      15943001
+      15996111
     ],
-    "Time": 200000,
-    "LaminatedNum": 10,
+    "Time": 120000,
+    "LaminatedNum": 3,
     "Num": 1,
     "TimeSuperposition": 2,
     "Timing": 1,
     "ReplaceType": true,
-    "ReplaceMode": true,
-    "HitClear": true
+    "ReplaceMode": true
+  },
+  "15996211": {
+    "Id": 15996211,
+    "Sort": 1,
+    "Time": 60000,
+    "LaminatedNum": 1,
+    "Num": 1,
+    "TimeSuperposition": 2,
+    "Timing": 1,
+    "ReplaceType": true,
+    "ReplaceMode": true
+  },
+  "15996311": {
+    "Id": 15996311,
+    "Sort": 1,
+    "Effects": [
+      15996311
+    ],
+    "Time": 200000,
+    "LaminatedNum": 6,
+    "Num": 1,
+    "TimeSuperposition": 2,
+    "Timing": 1,
+    "ReplaceType": true,
+    "ReplaceMode": true
+  },
+  "15996411": {
+    "Id": 15996411,
+    "Sort": 1,
+    "Effects": [
+      15996411
+    ],
+    "Time": 100000,
+    "LaminatedNum": 1,
+    "Num": 1,
+    "TimeSuperposition": 2,
+    "Timing": 1,
+    "ReplaceType": true,
+    "ReplaceMode": true
   },
   "980131": {
     "Id": 980131,
@@ -15239,21 +15415,6 @@
     "Time": -10000,
     "LaminatedNum": 3,
     "Num": 1,
-    "TimeSuperposition": 2,
-    "Timing": 2,
-    "ReplaceType": true,
-    "ReplaceMode": true
-  },
-  "631008030": {
-    "Id": 631008030,
-    "Sort": 99,
-    "Effects": [
-      631008031,
-      631008032
-    ],
-    "Time": 30000,
-    "LaminatedNum": 1,
-    "Num": 3,
     "TimeSuperposition": 2,
     "Timing": 2,
     "ReplaceType": true,
@@ -17397,6 +17558,50 @@
     "ReplaceType": true,
     "ReplaceMode": true
   },
+  "501810003": {
+    "Id": 501810003,
+    "Sort": 1,
+    "Time": -10000,
+    "LaminatedNum": 1,
+    "Num": 1,
+    "TimeSuperposition": 2,
+    "Timing": 2,
+    "ReplaceType": true,
+    "ReplaceMode": true
+  },
+  "501810004": {
+    "Id": 501810004,
+    "Sort": 1,
+    "Time": -10000,
+    "LaminatedNum": 1,
+    "Num": 1,
+    "TimeSuperposition": 2,
+    "Timing": 2,
+    "ReplaceType": true,
+    "ReplaceMode": true
+  },
+  "501810005": {
+    "Id": 501810005,
+    "Sort": 1,
+    "Time": -10000,
+    "LaminatedNum": 1,
+    "Num": 1,
+    "TimeSuperposition": 2,
+    "Timing": 2,
+    "ReplaceType": true,
+    "ReplaceMode": true
+  },
+  "501810006": {
+    "Id": 501810006,
+    "Sort": 1,
+    "Time": -10000,
+    "LaminatedNum": 1,
+    "Num": 1,
+    "TimeSuperposition": 2,
+    "Timing": 2,
+    "ReplaceType": true,
+    "ReplaceMode": true
+  },
   "503010000": {
     "Id": 503010000,
     "Sort": 1,
@@ -17665,6 +17870,83 @@
   },
   "502510007": {
     "Id": 502510007,
+    "Sort": 1,
+    "Time": -10000,
+    "LaminatedNum": 1,
+    "Num": 1,
+    "TimeSuperposition": 2,
+    "Timing": 2,
+    "ReplaceType": true,
+    "ReplaceMode": true
+  },
+  "502510008": {
+    "Id": 502510008,
+    "Sort": 1,
+    "Time": 50000,
+    "LaminatedNum": 1,
+    "Num": 1,
+    "TimeSuperposition": 2,
+    "Timing": 2,
+    "ReplaceType": true,
+    "ReplaceMode": true
+  },
+  "502510009": {
+    "Id": 502510009,
+    "Sort": 1,
+    "Time": -10000,
+    "LaminatedNum": 1,
+    "Num": 1,
+    "TimeSuperposition": 2,
+    "Timing": 2,
+    "ReplaceType": true,
+    "ReplaceMode": true
+  },
+  "502510010": {
+    "Id": 502510010,
+    "Sort": 1,
+    "Time": -10000,
+    "LaminatedNum": 1,
+    "Num": 1,
+    "TimeSuperposition": 2,
+    "Timing": 2,
+    "ReplaceType": true,
+    "ReplaceMode": true
+  },
+  "502510011": {
+    "Id": 502510011,
+    "Sort": 1,
+    "Time": -10000,
+    "LaminatedNum": 1,
+    "Num": 1,
+    "TimeSuperposition": 2,
+    "Timing": 2,
+    "ReplaceType": true,
+    "ReplaceMode": true
+  },
+  "502510012": {
+    "Id": 502510012,
+    "Sort": 1,
+    "Time": -10000,
+    "LaminatedNum": 1,
+    "Num": 1,
+    "TimeSuperposition": 2,
+    "Timing": 2,
+    "ReplaceType": true,
+    "ReplaceMode": true
+  },
+  "502510013": {
+    "Id": 502510013,
+    "Sort": 1,
+    "Time": -10000,
+    "LaminatedNum": 1,
+    "Num": 1,
+    "TimeSuperposition": 2,
+    "Timing": 2,
+    "ReplaceType": true,
+    "ReplaceMode": true
+  },
+  "502510014": {
+    "Id": 502510014,
     "Sort": 1,
     "Time": -10000,
     "LaminatedNum": 1,
@@ -18439,6 +18721,102 @@
     ],
     "Time": 10000,
     "LaminatedNum": 1,
+    "Num": 1,
+    "TimeSuperposition": 2,
+    "Timing": 2,
+    "ReplaceType": true,
+    "ReplaceMode": true
+  },
+  "501710001": {
+    "Id": 501710001,
+    "Sort": 1,
+    "Time": -10000,
+    "LaminatedNum": 1,
+    "Num": 1,
+    "TimeSuperposition": 2,
+    "Timing": 2,
+    "ReplaceType": true,
+    "ReplaceMode": true
+  },
+  "501710002": {
+    "Id": 501710002,
+    "Sort": 1,
+    "Time": 30000,
+    "LaminatedNum": 1,
+    "Num": 1,
+    "TimeSuperposition": 2,
+    "Timing": 2,
+    "ReplaceType": true,
+    "ReplaceMode": true
+  },
+  "501710003": {
+    "Id": 501710003,
+    "Sort": 1,
+    "Time": 30000,
+    "LaminatedNum": 1,
+    "Num": 1,
+    "TimeSuperposition": 2,
+    "Timing": 2,
+    "ReplaceType": true,
+    "ReplaceMode": true
+  },
+  "306010001": {
+    "Id": 306010001,
+    "Sort": 1,
+    "Time": -10000,
+    "LaminatedNum": 1,
+    "Num": 1,
+    "TimeSuperposition": 2,
+    "Timing": 2,
+    "ReplaceType": true,
+    "ReplaceMode": true
+  },
+  "306010002": {
+    "Id": 306010002,
+    "Sort": 1,
+    "Time": 30000,
+    "LaminatedNum": 1,
+    "Num": 1,
+    "TimeSuperposition": 2,
+    "Timing": 2,
+    "ReplaceType": true,
+    "ReplaceMode": true
+  },
+  "502710000": {
+    "Id": 502710000,
+    "Sort": 1,
+    "Time": -10000,
+    "LaminatedNum": 1,
+    "Num": 1,
+    "TimeSuperposition": 2,
+    "Timing": 2,
+    "ReplaceType": true,
+    "ReplaceMode": true
+  },
+  "720010010": {
+    "Id": 720010010,
+    "Sort": 1,
+    "Effects": [
+      720010011,
+      720010012
+    ],
+    "Time": 5000,
+    "LaminatedNum": 20,
+    "Num": 1,
+    "TimeSuperposition": 2,
+    "Timing": 2,
+    "ReplaceType": true,
+    "ReplaceMode": true
+  },
+  "720010020": {
+    "Id": 720010020,
+    "Sort": 1,
+    "Effects": [
+      720010021,
+      720010022
+    ],
+    "Time": 5000,
+    "LaminatedNum": 20,
     "Num": 1,
     "TimeSuperposition": 2,
     "Timing": 2,
@@ -19777,6 +20155,93 @@
       880013101
     ],
     "Time": 10000,
+    "LaminatedNum": 1,
+    "Num": 1,
+    "TimeSuperposition": 2,
+    "Timing": 2,
+    "ReplaceType": true,
+    "ReplaceMode": true
+  },
+  "308030101": {
+    "Id": 308030101,
+    "Sort": 5,
+    "Effects": [
+      308030101
+    ],
+    "Time": -10000,
+    "LaminatedNum": 1,
+    "Num": 1,
+    "TimeSuperposition": 2,
+    "Timing": 2,
+    "ReplaceType": true,
+    "ReplaceMode": true
+  },
+  "308030111": {
+    "Id": 308030111,
+    "Sort": 10,
+    "Effects": [
+      308030111
+    ],
+    "Time": 150000,
+    "LaminatedNum": 1,
+    "Num": 1,
+    "TimeSuperposition": 2,
+    "Timing": 2,
+    "ReplaceType": true,
+    "ReplaceMode": true
+  },
+  "308030201": {
+    "Id": 308030201,
+    "Sort": 5,
+    "Effects": [
+      308030201
+    ],
+    "Time": -10000,
+    "LaminatedNum": 1,
+    "Num": 1,
+    "TimeSuperposition": 2,
+    "Timing": 2,
+    "ReplaceType": true,
+    "ReplaceMode": true
+  },
+  "308030211": {
+    "Id": 308030211,
+    "Sort": 10,
+    "Effects": [
+      710010302,
+      710010000
+    ],
+    "Time": 150000,
+    "LaminatedNum": 1,
+    "Num": 1,
+    "TimeSuperposition": 2,
+    "Timing": 2,
+    "ReplaceType": true,
+    "ReplaceMode": true
+  },
+  "308030301": {
+    "Id": 308030301,
+    "Sort": 5,
+    "Effects": [
+      308030301
+    ],
+    "Time": -10000,
+    "LaminatedNum": 1,
+    "Num": 1,
+    "TimeSuperposition": 2,
+    "Timing": 2,
+    "ReplaceType": true,
+    "ReplaceMode": true
+  },
+  "308030311": {
+    "Id": 308030311,
+    "Sort": 10,
+    "Effects": [
+      308030311,
+      990010061,
+      990010071
+    ],
+    "Time": 150000,
     "LaminatedNum": 1,
     "Num": 1,
     "TimeSuperposition": 2,
@@ -30990,6 +31455,486 @@
       4041205
     ],
     "Time": -10000,
+    "LaminatedNum": 1,
+    "Num": 1,
+    "TimeSuperposition": 2,
+    "Timing": 1,
+    "ReplaceType": true,
+    "ReplaceMode": true
+  },
+  "4044020": {
+    "Id": 4044020,
+    "Name": "【标识buff】春华",
+    "Sort": 1,
+    "Effects": [
+      4044020
+    ],
+    "Time": 40000,
+    "LaminatedNum": 1,
+    "Num": 1,
+    "TimeSuperposition": 2,
+    "Timing": 1,
+    "ReplaceType": true,
+    "ReplaceMode": true
+  },
+  "4044021": {
+    "Id": 4044021,
+    "Name": "【脚本buff】地系均衡角色造成技能伤害时，为目标附加「春华」：受到地系技能伤害提升<color=#ec6d21>{2}</color>，持续{3}秒。",
+    "Sort": 1,
+    "Effects": [
+      4044021
+    ],
+    "Time": 40000,
+    "LaminatedNum": 1,
+    "Num": 1,
+    "TimeSuperposition": 2,
+    "Timing": 1,
+    "ReplaceType": true,
+    "ReplaceMode": true
+  },
+  "4044022": {
+    "Id": 4044022,
+    "Name": "【脚本buff】地系均衡角色造成技能伤害时，为目标附加「春华」：受到地系技能伤害提升<color=#ec6d21>{2}</color>，持续{3}秒。",
+    "Sort": 1,
+    "Effects": [
+      4044022
+    ],
+    "Time": 40000,
+    "LaminatedNum": 1,
+    "Num": 1,
+    "TimeSuperposition": 2,
+    "Timing": 1,
+    "ReplaceType": true,
+    "ReplaceMode": true
+  },
+  "4044023": {
+    "Id": 4044023,
+    "Name": "【脚本buff】地系均衡角色造成技能伤害时，为目标附加「春华」：受到地系技能伤害提升<color=#ec6d21>{2}</color>，持续{3}秒。",
+    "Sort": 1,
+    "Effects": [
+      4044023
+    ],
+    "Time": 40000,
+    "LaminatedNum": 1,
+    "Num": 1,
+    "TimeSuperposition": 2,
+    "Timing": 1,
+    "ReplaceType": true,
+    "ReplaceMode": true
+  },
+  "4044024": {
+    "Id": 4044024,
+    "Name": "【脚本buff】地系均衡角色造成技能伤害时，为目标附加「春华」：受到地系技能伤害提升<color=#ec6d21>{2}</color>，持续{3}秒。",
+    "Sort": 1,
+    "Effects": [
+      4044024
+    ],
+    "Time": 40000,
+    "LaminatedNum": 1,
+    "Num": 1,
+    "TimeSuperposition": 2,
+    "Timing": 1,
+    "ReplaceType": true,
+    "ReplaceMode": true
+  },
+  "4044025": {
+    "Id": 4044025,
+    "Name": "【脚本buff】地系均衡角色造成技能伤害时，为目标附加「春华」：受到地系技能伤害提升<color=#ec6d21>{2}</color>，持续{3}秒。",
+    "Sort": 1,
+    "Effects": [
+      4044025
+    ],
+    "Time": 40000,
+    "LaminatedNum": 1,
+    "Num": 1,
+    "TimeSuperposition": 2,
+    "Timing": 1,
+    "ReplaceType": true,
+    "ReplaceMode": true
+  },
+  "4044026": {
+    "Id": 4044026,
+    "Name": "【脚本buff】地系均衡角色造成技能伤害时，为目标附加「春华」：受到地系技能伤害提升<color=#ec6d21>{2}</color>，持续{3}秒。",
+    "Sort": 1,
+    "Effects": [
+      4044026
+    ],
+    "Time": 40000,
+    "LaminatedNum": 1,
+    "Num": 1,
+    "TimeSuperposition": 2,
+    "Timing": 1,
+    "ReplaceType": true,
+    "ReplaceMode": true
+  },
+  "4044101": {
+    "Id": 4044101,
+    "Name": "【脚本buff】地系均衡角色技能暴击伤害提升<color=#ec6d21>{1}</color>。",
+    "Sort": 1,
+    "Effects": [
+      4044101
+    ],
+    "Time": -10000,
+    "LaminatedNum": 1,
+    "Num": 1,
+    "TimeSuperposition": 2,
+    "Timing": 1,
+    "ReplaceType": true,
+    "ReplaceMode": true
+  },
+  "4044102": {
+    "Id": 4044102,
+    "Name": "【脚本buff】地系均衡角色技能暴击伤害提升<color=#ec6d21>{1}</color>。",
+    "Sort": 1,
+    "Effects": [
+      4044102
+    ],
+    "Time": -10000,
+    "LaminatedNum": 1,
+    "Num": 1,
+    "TimeSuperposition": 2,
+    "Timing": 1,
+    "ReplaceType": true,
+    "ReplaceMode": true
+  },
+  "4044103": {
+    "Id": 4044103,
+    "Name": "【脚本buff】地系均衡角色技能暴击伤害提升<color=#ec6d21>{1}</color>。",
+    "Sort": 1,
+    "Effects": [
+      4044103
+    ],
+    "Time": -10000,
+    "LaminatedNum": 1,
+    "Num": 1,
+    "TimeSuperposition": 2,
+    "Timing": 1,
+    "ReplaceType": true,
+    "ReplaceMode": true
+  },
+  "4044104": {
+    "Id": 4044104,
+    "Name": "【脚本buff】地系均衡角色技能暴击伤害提升<color=#ec6d21>{1}</color>。",
+    "Sort": 1,
+    "Effects": [
+      4044104
+    ],
+    "Time": -10000,
+    "LaminatedNum": 1,
+    "Num": 1,
+    "TimeSuperposition": 2,
+    "Timing": 1,
+    "ReplaceType": true,
+    "ReplaceMode": true
+  },
+  "4044105": {
+    "Id": 4044105,
+    "Name": "【脚本buff】地系均衡角色技能暴击伤害提升<color=#ec6d21>{1}</color>。",
+    "Sort": 1,
+    "Effects": [
+      4044105
+    ],
+    "Time": -10000,
+    "LaminatedNum": 1,
+    "Num": 1,
+    "TimeSuperposition": 2,
+    "Timing": 1,
+    "ReplaceType": true,
+    "ReplaceMode": true
+  },
+  "4044201": {
+    "Id": 4044201,
+    "Name": "【脚本buff】地系主控角色对附带「春华」的目标累计造成{1}次技能伤害后，队伍中地系角色技能伤害提升<color=#ec6d21>{2}</color>，持续{3}秒。",
+    "Sort": 1,
+    "Time": 50000,
+    "LaminatedNum": 1,
+    "Num": 1,
+    "TimeSuperposition": 2,
+    "Timing": 1,
+    "ReplaceType": true,
+    "ReplaceMode": true
+  },
+  "4044202": {
+    "Id": 4044202,
+    "Name": "【脚本buff】地系主控角色对附带「春华」的目标累计造成{1}次技能伤害后，队伍中地系角色技能伤害提升<color=#ec6d21>{2}</color>，持续{3}秒。",
+    "Sort": 1,
+    "Time": 50000,
+    "LaminatedNum": 1,
+    "Num": 1,
+    "TimeSuperposition": 2,
+    "Timing": 1,
+    "ReplaceType": true,
+    "ReplaceMode": true
+  },
+  "4044203": {
+    "Id": 4044203,
+    "Name": "【脚本buff】地系主控角色对附带「春华」的目标累计造成{1}次技能伤害后，队伍中地系角色技能伤害提升<color=#ec6d21>{2}</color>，持续{3}秒。",
+    "Sort": 1,
+    "Time": 50000,
+    "LaminatedNum": 1,
+    "Num": 1,
+    "TimeSuperposition": 2,
+    "Timing": 1,
+    "ReplaceType": true,
+    "ReplaceMode": true
+  },
+  "4044204": {
+    "Id": 4044204,
+    "Name": "【脚本buff】地系主控角色对附带「春华」的目标累计造成{1}次技能伤害后，队伍中地系角色技能伤害提升<color=#ec6d21>{2}</color>，持续{3}秒。",
+    "Sort": 1,
+    "Time": 50000,
+    "LaminatedNum": 1,
+    "Num": 1,
+    "TimeSuperposition": 2,
+    "Timing": 1,
+    "ReplaceType": true,
+    "ReplaceMode": true
+  },
+  "4044205": {
+    "Id": 4044205,
+    "Name": "【脚本buff】地系主控角色对附带「春华」的目标累计造成{1}次技能伤害后，队伍中地系角色技能伤害提升<color=#ec6d21>{2}</color>，持续{3}秒。",
+    "Sort": 1,
+    "Time": 50000,
+    "LaminatedNum": 1,
+    "Num": 1,
+    "TimeSuperposition": 2,
+    "Timing": 1,
+    "ReplaceType": true,
+    "ReplaceMode": true
+  },
+  "4042021": {
+    "Id": 4042021,
+    "Name": "【脚本buff】地系均衡角色造成技能伤害时，该效果额外提升<color=#ec6d21>{2}</color>，持续{3}秒。",
+    "Sort": 1,
+    "Effects": [
+      4042021
+    ],
+    "Time": 40000,
+    "LaminatedNum": 1,
+    "Num": 1,
+    "TimeSuperposition": 2,
+    "Timing": 1,
+    "ReplaceType": true,
+    "ReplaceMode": true
+  },
+  "4042022": {
+    "Id": 4042022,
+    "Name": "【脚本buff】地系均衡角色造成技能伤害时，该效果额外提升<color=#ec6d21>{2}</color>，持续{3}秒。",
+    "Sort": 1,
+    "Effects": [
+      4042022
+    ],
+    "Time": 40000,
+    "LaminatedNum": 1,
+    "Num": 1,
+    "TimeSuperposition": 2,
+    "Timing": 1,
+    "ReplaceType": true,
+    "ReplaceMode": true
+  },
+  "4042023": {
+    "Id": 4042023,
+    "Name": "【脚本buff】地系均衡角色造成技能伤害时，该效果额外提升<color=#ec6d21>{2}</color>，持续{3}秒。",
+    "Sort": 1,
+    "Effects": [
+      4042023
+    ],
+    "Time": 40000,
+    "LaminatedNum": 1,
+    "Num": 1,
+    "TimeSuperposition": 2,
+    "Timing": 1,
+    "ReplaceType": true,
+    "ReplaceMode": true
+  },
+  "4042024": {
+    "Id": 4042024,
+    "Name": "【脚本buff】地系均衡角色造成技能伤害时，该效果额外提升<color=#ec6d21>{2}</color>，持续{3}秒。",
+    "Sort": 1,
+    "Effects": [
+      4042024
+    ],
+    "Time": 40000,
+    "LaminatedNum": 1,
+    "Num": 1,
+    "TimeSuperposition": 2,
+    "Timing": 1,
+    "ReplaceType": true,
+    "ReplaceMode": true
+  },
+  "4042025": {
+    "Id": 4042025,
+    "Name": "【脚本buff】地系均衡角色造成技能伤害时，该效果额外提升<color=#ec6d21>{2}</color>，持续{3}秒。",
+    "Sort": 1,
+    "Effects": [
+      4042025
+    ],
+    "Time": 40000,
+    "LaminatedNum": 1,
+    "Num": 1,
+    "TimeSuperposition": 2,
+    "Timing": 1,
+    "ReplaceType": true,
+    "ReplaceMode": true
+  },
+  "4042026": {
+    "Id": 4042026,
+    "Name": "【脚本buff】地系均衡角色造成技能伤害时，该效果额外提升<color=#ec6d21>{2}</color>，持续{3}秒。",
+    "Sort": 1,
+    "Effects": [
+      4042026
+    ],
+    "Time": 40000,
+    "LaminatedNum": 1,
+    "Num": 1,
+    "TimeSuperposition": 2,
+    "Timing": 1,
+    "ReplaceType": true,
+    "ReplaceMode": true
+  },
+  "4042101": {
+    "Id": 4042101,
+    "Name": "【脚本buff】地系均衡角色攻击力提升<color=#ec6d21>{1}</color>。",
+    "Sort": 1,
+    "Effects": [
+      4042101
+    ],
+    "Time": -10000,
+    "LaminatedNum": 1,
+    "Num": 1,
+    "TimeSuperposition": 2,
+    "Timing": 1,
+    "ReplaceType": true,
+    "ReplaceMode": true
+  },
+  "4042102": {
+    "Id": 4042102,
+    "Name": "【脚本buff】地系均衡角色攻击力提升<color=#ec6d21>{1}</color>。",
+    "Sort": 1,
+    "Effects": [
+      4042102
+    ],
+    "Time": -10000,
+    "LaminatedNum": 1,
+    "Num": 1,
+    "TimeSuperposition": 2,
+    "Timing": 1,
+    "ReplaceType": true,
+    "ReplaceMode": true
+  },
+  "4042103": {
+    "Id": 4042103,
+    "Name": "【脚本buff】地系均衡角色攻击力提升<color=#ec6d21>{1}</color>。",
+    "Sort": 1,
+    "Effects": [
+      4042103
+    ],
+    "Time": -10000,
+    "LaminatedNum": 1,
+    "Num": 1,
+    "TimeSuperposition": 2,
+    "Timing": 1,
+    "ReplaceType": true,
+    "ReplaceMode": true
+  },
+  "4042104": {
+    "Id": 4042104,
+    "Name": "【脚本buff】地系均衡角色攻击力提升<color=#ec6d21>{1}</color>。",
+    "Sort": 1,
+    "Effects": [
+      4042104
+    ],
+    "Time": -10000,
+    "LaminatedNum": 1,
+    "Num": 1,
+    "TimeSuperposition": 2,
+    "Timing": 1,
+    "ReplaceType": true,
+    "ReplaceMode": true
+  },
+  "4042105": {
+    "Id": 4042105,
+    "Name": "【脚本buff】地系均衡角色攻击力提升<color=#ec6d21>{1}</color>。",
+    "Sort": 1,
+    "Effects": [
+      4042105
+    ],
+    "Time": -10000,
+    "LaminatedNum": 1,
+    "Num": 1,
+    "TimeSuperposition": 2,
+    "Timing": 1,
+    "ReplaceType": true,
+    "ReplaceMode": true
+  },
+  "4042201": {
+    "Id": 4042201,
+    "Name": "【脚本buff】地系主控角色累计造成{1}次伤害后，自身攻击力提升<color=#ec6d21>{2}</color>，持续{3}秒。",
+    "Sort": 1,
+    "Effects": [
+      4042201
+    ],
+    "Time": 50000,
+    "LaminatedNum": 1,
+    "Num": 1,
+    "TimeSuperposition": 2,
+    "Timing": 1,
+    "ReplaceType": true,
+    "ReplaceMode": true
+  },
+  "4042202": {
+    "Id": 4042202,
+    "Name": "【脚本buff】地系主控角色累计造成{1}次伤害后，自身攻击力提升<color=#ec6d21>{2}</color>，持续{3}秒。",
+    "Sort": 1,
+    "Effects": [
+      4042202
+    ],
+    "Time": 50000,
+    "LaminatedNum": 1,
+    "Num": 1,
+    "TimeSuperposition": 2,
+    "Timing": 1,
+    "ReplaceType": true,
+    "ReplaceMode": true
+  },
+  "4042203": {
+    "Id": 4042203,
+    "Name": "【脚本buff】地系主控角色累计造成{1}次伤害后，自身攻击力提升<color=#ec6d21>{2}</color>，持续{3}秒。",
+    "Sort": 1,
+    "Effects": [
+      4042203
+    ],
+    "Time": 50000,
+    "LaminatedNum": 1,
+    "Num": 1,
+    "TimeSuperposition": 2,
+    "Timing": 1,
+    "ReplaceType": true,
+    "ReplaceMode": true
+  },
+  "4042204": {
+    "Id": 4042204,
+    "Name": "【脚本buff】地系主控角色累计造成{1}次伤害后，自身攻击力提升<color=#ec6d21>{2}</color>，持续{3}秒。",
+    "Sort": 1,
+    "Effects": [
+      4042204
+    ],
+    "Time": 50000,
+    "LaminatedNum": 1,
+    "Num": 1,
+    "TimeSuperposition": 2,
+    "Timing": 1,
+    "ReplaceType": true,
+    "ReplaceMode": true
+  },
+  "4042205": {
+    "Id": 4042205,
+    "Name": "【脚本buff】地系主控角色累计造成{1}次伤害后，自身攻击力提升<color=#ec6d21>{2}</color>，持续{3}秒。",
+    "Sort": 1,
+    "Effects": [
+      4042205
+    ],
+    "Time": 50000,
     "LaminatedNum": 1,
     "Num": 1,
     "TimeSuperposition": 2,

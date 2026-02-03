@@ -1159,7 +1159,7 @@
     "Desc1": "DatingCharacterEvent.133301.1",
     "Desc2": "DatingCharacterEvent.133301.2",
     "Desc3": "DatingCharacterEvent.133301.3",
-    "Response": "happy2",
+    "Response": "think",
     "CG": "DatingSPCG_133301",
     "Name": "DatingCharacterEvent.133301.5",
     "Clue": "DatingCharacterEvent.133301.6",
@@ -1181,7 +1181,7 @@
     "Desc1": "DatingCharacterEvent.133302.1",
     "Desc2": "DatingCharacterEvent.133302.2",
     "Desc3": "DatingCharacterEvent.133302.3",
-    "Response": "shy",
+    "Response": "happy2",
     "CG": "DatingSPCG_133302",
     "Name": "DatingCharacterEvent.133302.5",
     "Clue": "DatingCharacterEvent.133302.6",
@@ -1274,6 +1274,50 @@
     "Name": "DatingCharacterEvent.158302.5",
     "Clue": "DatingCharacterEvent.158302.6",
     "Memory": "DatingCharacterEvent.158302.7"
+  },
+  "159301": {
+    "Id": 159301,
+    "DatingEventType": 5,
+    "DatingEventParams": [
+      159,
+      5
+    ],
+    "BranchTag": 1,
+    "Affinity": 25,
+    "Reward": [
+      2,
+      10
+    ],
+    "Desc1": "DatingCharacterEvent.159301.1",
+    "Desc2": "DatingCharacterEvent.159301.2",
+    "Desc3": "DatingCharacterEvent.159301.3",
+    "Response": "think",
+    "CG": "DatingSPCG_159301",
+    "Name": "DatingCharacterEvent.159301.5",
+    "Clue": "DatingCharacterEvent.159301.6",
+    "Memory": "DatingCharacterEvent.159301.7"
+  },
+  "159302": {
+    "Id": 159302,
+    "DatingEventType": 5,
+    "DatingEventParams": [
+      159,
+      7
+    ],
+    "BranchTag": 4,
+    "Affinity": 25,
+    "Reward": [
+      2,
+      10
+    ],
+    "Desc1": "DatingCharacterEvent.159302.1",
+    "Desc2": "DatingCharacterEvent.159302.2",
+    "Desc3": "DatingCharacterEvent.159302.3",
+    "Response": "happy",
+    "CG": "DatingSPCG_159302",
+    "Name": "DatingCharacterEvent.159302.5",
+    "Clue": "DatingCharacterEvent.159302.6",
+    "Memory": "DatingCharacterEvent.159302.7"
   },
   "515": {
     "Id": 515,

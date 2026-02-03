@@ -69,7 +69,7 @@
   },
   "118": {
     "Id": 118,
-    "DropObjectRes": "Misc/BreakOut/Drop/Drop_BreakOut_BoardChange"
+    "DropObjectRes": "Misc/BreakOut/Drop/Drop_BreakOut_BoardExtend"
   },
   "119": {
     "Id": 119,
@@ -78,5 +78,13 @@
   "120": {
     "Id": 120,
     "DropObjectRes": "Actor/Item/Drop_EnergyRecover/Drop_EnergyRecover_DXHuoDong"
+  },
+  "121": {
+    "Id": 121,
+    "DropObjectRes": "Misc/BreakOut/Drop/Drop_BreakOut_BoardShorten"
+  },
+  "122": {
+    "Id": 122,
+    "DropObjectRes": "Actor/Monster/30601YanHua/Weapon/Drop_Sparkler"
   }
 }

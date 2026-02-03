@@ -48,5 +48,21 @@
       1,
       200000
     ]
+  },
+  "1006": {
+    "Id": 1006,
+    "Name": "ActivityShop.1006.1",
+    "Sequence": 1,
+    "CurrencyItemId": 73106,
+    "ExchangeItemId": 1,
+    "Rate": 300.0
+  },
+  "3001": {
+    "Id": 3001,
+    "Name": "ActivityShop.3001.1",
+    "Sequence": 1,
+    "CurrencyItemId": 73202,
+    "ExchangeItemId": 1,
+    "Rate": 1500.0
   }
 }

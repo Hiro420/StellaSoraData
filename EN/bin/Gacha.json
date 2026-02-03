@@ -56,7 +56,8 @@
     "BannerRes": "banner_gacha_10144",
     "Image": "Cover_10144",
     "Tag": "db_gacha_tips",
-    "Voice": "ui_recuit_cover1"
+    "Voice": "ui_recuit_cover1",
+    "TrailId": 700101
   },
   "10155": {
     "Id": 10155,
@@ -81,7 +82,8 @@
     "BannerRes": "banner_gacha_10155",
     "Image": "Cover_10155",
     "Tag": "db_gacha_tips",
-    "Voice": "ui_recuit_cover8"
+    "Voice": "ui_recuit_cover8",
+    "TrailId": 700104
   },
   "10119": {
     "Id": 10119,
@@ -106,7 +108,8 @@
     "BannerRes": "banner_gacha_10119",
     "Image": "Cover_10119",
     "Tag": "db_gacha_tips",
-    "Voice": "ui_recuit_cover1"
+    "Voice": "ui_recuit_cover1",
+    "TrailId": 700103
   },
   "10134": {
     "Id": 10134,
@@ -131,7 +134,8 @@
     "BannerRes": "banner_gacha_10134",
     "Image": "Cover_10134",
     "Tag": "db_gacha_tips",
-    "Voice": "ui_recuit_cover1"
+    "Voice": "ui_recuit_cover1",
+    "TrailId": 700102
   },
   "10149": {
     "Id": 10149,
@@ -156,7 +160,8 @@
     "BannerRes": "banner_gacha_10149",
     "Image": "Cover_10149",
     "Tag": "db_gacha_tips",
-    "Voice": "ui_recuit_cover13"
+    "Voice": "ui_recuit_cover13",
+    "TrailId": 700107
   },
   "10133": {
     "Id": 10133,
@@ -181,7 +186,8 @@
     "BannerRes": "banner_gacha_10133",
     "Image": "Cover_10133",
     "Tag": "db_gacha_tips",
-    "Voice": "ui_recuit_cover11"
+    "Voice": "ui_recuit_cover11",
+    "TrailId": 700108
   },
   "10158": {
     "Id": 10158,
@@ -208,7 +214,8 @@
     "BannerRes": "banner_gacha_10158",
     "Image": "Cover_10158",
     "Tag": "db_gacha_tips",
-    "Voice": "ui_recuit_cover10158"
+    "Voice": "ui_recuit_cover10158",
+    "TrailId": 700106
   },
   "10125": {
     "Id": 10125,
@@ -233,7 +240,8 @@
     "BannerRes": "banner_gacha_10125",
     "Image": "Cover_10125",
     "Tag": "db_gacha_tips",
-    "Voice": "ui_recuit_cover3"
+    "Voice": "ui_recuit_cover3",
+    "TrailId": 700105
   },
   "10110": {
     "Id": 10110,
@@ -258,7 +266,8 @@
     "BannerRes": "banner_gacha_10110",
     "Image": "Cover_10110",
     "Tag": "db_gacha_tips",
-    "Voice": "ui_recuit_cover10110"
+    "Voice": "ui_recuit_cover10110",
+    "TrailId": 700109
   },
   "10135": {
     "Id": 10135,
@@ -283,7 +292,60 @@
     "BannerRes": "banner_gacha_10135",
     "Image": "Cover_10135",
     "Tag": "db_gacha_tips",
-    "Voice": "ui_recuit_cover1"
+    "Voice": "ui_recuit_cover1",
+    "TrailId": 700110
+  },
+  "10159": {
+    "Id": 10159,
+    "Name": "Gacha.10159.1",
+    "StorageId": 1,
+    "GachaType": 1,
+    "LimitTimes": 100000,
+    "ATypePkg": 1015901,
+    "BTypePkg": 1015903,
+    "CTypePkg": 100,
+    "ATypeUpPkg": 1015911,
+    "BTypeUpPkg": 1015912,
+    "BGuaranteePkg": 1015902,
+    "GuaranteeTimes": 120,
+    "GuaranteeTid": 159,
+    "GuaranteeQty": 1,
+    "FirstTenShow": 3,
+    "StartTime": "2026-02-03T12:00:00+08:00",
+    "EndTime": "2026-02-24T10:59:59+08:00",
+    "Sort": 995,
+    "Icon": "Icon/Gacha/tab_gacha_10159",
+    "BannerRes": "banner_gacha_10159",
+    "Image": "Cover_10159",
+    "Tag": "db_gacha_tips",
+    "Voice": "ui_recuit_cover10159",
+    "TrailId": 700111
+  },
+  "10141": {
+    "Id": 10141,
+    "Name": "Gacha.10141.1",
+    "StorageId": 1,
+    "GachaType": 6,
+    "LimitTimes": 100000,
+    "ATypePkg": 1014101,
+    "BTypePkg": 1014103,
+    "CTypePkg": 100,
+    "ATypeUpPkg": 1014111,
+    "BTypeUpPkg": 1014112,
+    "BGuaranteePkg": 1014102,
+    "GuaranteeTimes": 120,
+    "GuaranteeTid": 141,
+    "GuaranteeQty": 1,
+    "FirstTenShow": 3,
+    "StartTime": "2026-02-17T12:00:00+08:00",
+    "EndTime": "2026-03-10T03:59:59+08:00",
+    "Sort": 1500,
+    "Icon": "Icon/Gacha/tab_gacha_10141",
+    "BannerRes": "banner_gacha_10141",
+    "Image": "Cover_10141",
+    "Tag": "db_gacha_tips",
+    "Voice": "ui_recuit_cover1",
+    "TrailId": 700112
   },
   "2": {
     "Id": 2,
@@ -488,6 +550,44 @@
     "Sort": 2500,
     "Icon": "Icon/Gacha/tab_gacha_20135",
     "Image": "Cover_20135",
+    "Tag": "db_gacha_tips",
+    "Voice": "ui_recuit_cover4"
+  },
+  "20159": {
+    "Id": 20159,
+    "Name": "Gacha.20159.1",
+    "StorageId": 3,
+    "GachaType": 3,
+    "LimitTimes": 100000,
+    "ATypePkg": 2015901,
+    "CTypePkg": 100,
+    "ATypeUpPkg": 2015911,
+    "BTypeUpPkg": 2015912,
+    "BGuaranteePkg": 2015902,
+    "StartTime": "2026-02-03T12:00:00+08:00",
+    "EndTime": "2026-02-24T10:59:59+08:00",
+    "Sort": 1995,
+    "Icon": "Icon/Gacha/tab_gacha_20159",
+    "Image": "Cover_20159",
+    "Tag": "db_gacha_tips",
+    "Voice": "ui_recuit_cover20159"
+  },
+  "20141": {
+    "Id": 20141,
+    "Name": "Gacha.20141.1",
+    "StorageId": 3,
+    "GachaType": 7,
+    "LimitTimes": 100000,
+    "ATypePkg": 2014101,
+    "CTypePkg": 100,
+    "ATypeUpPkg": 2014111,
+    "BTypeUpPkg": 2014112,
+    "BGuaranteePkg": 2014102,
+    "StartTime": "2026-02-17T12:00:00+08:00",
+    "EndTime": "2026-03-10T03:59:59+08:00",
+    "Sort": 2500,
+    "Icon": "Icon/Gacha/tab_gacha_20141",
+    "Image": "Cover_20141",
     "Tag": "db_gacha_tips",
     "Voice": "ui_recuit_cover4"
   }

@@ -1226,6 +1226,48 @@
       514733
     ]
   },
+  "140": {
+    "Id": 140,
+    "MasterSpecificPotentialIds": [
+      514001,
+      514002,
+      514003,
+      514004
+    ],
+    "AssistSpecificPotentialIds": [
+      514021,
+      514022,
+      514023,
+      514024
+    ],
+    "CommonPotentialIds": [
+      514041,
+      514042,
+      514043
+    ],
+    "MasterNormalPotentialIds": [
+      514005,
+      514006,
+      514007,
+      514008,
+      514009,
+      514011,
+      514013,
+      514010,
+      514012
+    ],
+    "AssistNormalPotentialIds": [
+      514025,
+      514026,
+      514027,
+      514028,
+      514030,
+      514031,
+      514032,
+      514029,
+      514033
+    ]
+  },
   "149": {
     "Id": 149,
     "MasterSpecificPotentialIds": [

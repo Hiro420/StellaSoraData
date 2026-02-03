@@ -1,1 +1,154 @@
-{}
+{
+  "301010111": {
+    "Id": 301010111,
+    "ActivityId": 3010101,
+    "Name": "BreakOutLevel.301010111.1",
+    "Type": 1,
+    "Difficulty": 1,
+    "FloorId": 82001,
+    "FirstCompleteReward1Tid": 2,
+    "FirstCompleteReward1Qty": 100,
+    "FirstCompleteReward2Tid": 73202,
+    "FirstCompleteReward2Qty": 200,
+    "Characters": [
+      1
+    ],
+    "Desc": "BreakOutLevel.301010111.2"
+  },
+  "301010112": {
+    "Id": 301010112,
+    "ActivityId": 3010101,
+    "Name": "BreakOutLevel.301010112.1",
+    "Type": 1,
+    "Difficulty": 2,
+    "PreLevelId": 301010111,
+    "FloorId": 82002,
+    "PreviewMonsterGroupId": 8200102,
+    "FirstCompleteReward1Tid": 2,
+    "FirstCompleteReward1Qty": 100,
+    "FirstCompleteReward2Tid": 73202,
+    "FirstCompleteReward2Qty": 200,
+    "Characters": [
+      2
+    ],
+    "Desc": "BreakOutLevel.301010112.2"
+  },
+  "301010121": {
+    "Id": 301010121,
+    "ActivityId": 3010101,
+    "Name": "BreakOutLevel.301010121.1",
+    "Type": 2,
+    "Difficulty": 1,
+    "PreLevelId": 301010112,
+    "FloorId": 82003,
+    "PreviewMonsterGroupId": 8200103,
+    "FirstCompleteReward1Tid": 2,
+    "FirstCompleteReward1Qty": 150,
+    "FirstCompleteReward2Tid": 73202,
+    "FirstCompleteReward2Qty": 200,
+    "Characters": [
+      3
+    ],
+    "Desc": "BreakOutLevel.301010121.2"
+  },
+  "301010122": {
+    "Id": 301010122,
+    "ActivityId": 3010101,
+    "Name": "BreakOutLevel.301010122.1",
+    "Type": 2,
+    "Difficulty": 2,
+    "PreLevelId": 301010121,
+    "FloorId": 82004,
+    "PreviewMonsterGroupId": 8200104,
+    "FirstCompleteReward1Tid": 2,
+    "FirstCompleteReward1Qty": 150,
+    "FirstCompleteReward2Tid": 73202,
+    "FirstCompleteReward2Qty": 200,
+    "Characters": [
+      1,
+      2
+    ],
+    "Desc": "BreakOutLevel.301010122.2"
+  },
+  "301010131": {
+    "Id": 301010131,
+    "ActivityId": 3010101,
+    "DayOpen": 1,
+    "Name": "BreakOutLevel.301010131.1",
+    "Type": 3,
+    "Difficulty": 1,
+    "PreLevelId": 301010122,
+    "FloorId": 82005,
+    "FirstCompleteReward1Tid": 2,
+    "FirstCompleteReward1Qty": 200,
+    "FirstCompleteReward2Tid": 73202,
+    "FirstCompleteReward2Qty": 200,
+    "Characters": [
+      2,
+      3
+    ],
+    "Desc": "BreakOutLevel.301010131.2"
+  },
+  "301010132": {
+    "Id": 301010132,
+    "ActivityId": 3010101,
+    "DayOpen": 1,
+    "Name": "BreakOutLevel.301010132.1",
+    "Type": 3,
+    "Difficulty": 2,
+    "PreLevelId": 301010131,
+    "FloorId": 82006,
+    "PreviewMonsterGroupId": 8200106,
+    "FirstCompleteReward1Tid": 2,
+    "FirstCompleteReward1Qty": 200,
+    "FirstCompleteReward2Tid": 73202,
+    "FirstCompleteReward2Qty": 200,
+    "Characters": [
+      1,
+      3
+    ],
+    "Desc": "BreakOutLevel.301010132.2"
+  },
+  "301010141": {
+    "Id": 301010141,
+    "ActivityId": 3010101,
+    "DayOpen": 1,
+    "Name": "BreakOutLevel.301010141.1",
+    "Type": 4,
+    "Difficulty": 1,
+    "PreLevelId": 301010132,
+    "FloorId": 82007,
+    "PreviewMonsterGroupId": 8200107,
+    "FirstCompleteReward1Tid": 2,
+    "FirstCompleteReward1Qty": 300,
+    "FirstCompleteReward2Tid": 73202,
+    "FirstCompleteReward2Qty": 200,
+    "Characters": [
+      1,
+      2,
+      3
+    ],
+    "Desc": "BreakOutLevel.301010141.2"
+  },
+  "301010142": {
+    "Id": 301010142,
+    "ActivityId": 3010101,
+    "DayOpen": 1,
+    "Name": "BreakOutLevel.301010142.1",
+    "Type": 4,
+    "Difficulty": 2,
+    "PreLevelId": 301010141,
+    "FloorId": 82008,
+    "PreviewMonsterGroupId": 8200108,
+    "FirstCompleteReward1Tid": 2,
+    "FirstCompleteReward1Qty": 300,
+    "FirstCompleteReward2Tid": 119011,
+    "FirstCompleteReward2Qty": 1,
+    "Characters": [
+      1,
+      2,
+      3
+    ],
+    "Desc": "BreakOutLevel.301010142.2"
+  }
+}

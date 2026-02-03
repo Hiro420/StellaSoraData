@@ -272,6 +272,34 @@
     "LevelClear": true,
     "StarTowerGrowth": 3
   },
+  "26": {
+    "Id": 26,
+    "Name": "80级",
+    "CharLevel": 80,
+    "CharSkill": "4,4,4,4",
+    "TalentKey": 1,
+    "TalentNormal": 1,
+    "Affinity": 10,
+    "DiscLevel": 70,
+    "DiscPhase": 6,
+    "WorldClass": 40,
+    "LevelClear": true,
+    "StarTowerGrowth": 3
+  },
+  "27": {
+    "Id": 27,
+    "Name": "80级",
+    "CharLevel": 80,
+    "CharSkill": "7,7,7,7",
+    "TalentKey": 1,
+    "TalentNormal": 1,
+    "Affinity": 20,
+    "DiscLevel": 80,
+    "DiscPhase": 7,
+    "WorldClass": 40,
+    "LevelClear": true,
+    "StarTowerGrowth": 3
+  },
   "105": {
     "Id": 105,
     "Name": "5级",

@@ -794,6 +794,38 @@
     "PotentialAssistantContent1": "CharacterDes.136.11",
     "PotentialAssistantContent2": "CharacterDes.136.12"
   },
+  "140": {
+    "Id": 140,
+    "Alias": "CharacterDes.140.2",
+    "CnCv": "CharacterDes.140.1",
+    "JpCv": "CharacterDes.140.8",
+    "CharColor": "#985b78",
+    "CharSkillColor": "#985b78",
+    "CharDes": "CharacterDes.140.3",
+    "Tag": [
+      101,
+      205,
+      315
+    ],
+    "Force": 10,
+    "PreferTags": [
+      1,
+      4,
+      5
+    ],
+    "HateTags": [
+      3
+    ],
+    "Birthday": "3.28",
+    "PotentialMain1": "CharacterDes.140.4",
+    "PotentialMain2": "CharacterDes.140.5",
+    "PotentialAssistant1": "CharacterDes.140.6",
+    "PotentialAssistant2": "CharacterDes.140.7",
+    "PotentialMainContent1": "CharacterDes.140.9",
+    "PotentialMainContent2": "CharacterDes.140.10",
+    "PotentialAssistantContent1": "CharacterDes.140.11",
+    "PotentialAssistantContent2": "CharacterDes.140.12"
+  },
   "141": {
     "Id": 141,
     "Alias": "CharacterDes.141.2",
@@ -880,6 +912,7 @@
     "HateTags": [
       2
     ],
+    "Birthday": "12.24",
     "PotentialMain1": "CharacterDes.143.4",
     "PotentialMain2": "CharacterDes.143.5",
     "PotentialAssistant1": "CharacterDes.143.6",
@@ -930,11 +963,11 @@
     "CharSkillColor": "#90a1c6",
     "CharDes": "CharacterDes.145.3",
     "Tag": [
-      101,
+      102,
       205,
       310
     ],
-    "Force": 8,
+    "Force": 2,
     "PreferTags": [
       8,
       3,

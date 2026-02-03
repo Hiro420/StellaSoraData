@@ -163,7 +163,7 @@
   "10103": {
     "Id": 10103,
     "ActivityGroupType": 1,
-    "ActivityThemeType": 5,
+    "ActivityThemeType": 6,
     "StartTime": "2026-01-13T12:00:00+08:00",
     "EndTime": "2026-01-27T04:00:00+08:00",
     "EnterEndTime": "2026-02-03T10:59:59+08:00",
@@ -199,5 +199,75 @@
     ],
     "DesText": "ActivityGroup.10103.1",
     "TabBgRes": "Icon/Banner/tab_activity_chap6activity"
+  },
+  "10104": {
+    "Id": 10104,
+    "ActivityGroupType": 1,
+    "ActivityThemeType": 7,
+    "StartTime": "2026-02-03T12:00:00+08:00",
+    "EndTime": "2026-02-17T04:00:00+08:00",
+    "EnterEndTime": "2026-02-24T10:59:59+08:00",
+    "EnterRes": "Icon/Banner/banner_Spring_m",
+    "PanelId": 400,
+    "PreLimit": 1,
+    "LimitParam": "3",
+    "StartCondType": 71,
+    "StartCondParams": [
+      5
+    ],
+    "Enter": "{\"MiniGame\":[400006,1,399],\"Task\":[1010403,2,397],\"AVG\":[1010402,3,401],\"Store\":[1010404,4,396],\"Level\":[1010401,5,395]}",
+    "UIAssetsPrefab": "10104",
+    "CtrlName": "ActivitySpringFestivalCtrl",
+    "RewardsShow": [
+      2,
+      214042,
+      116006,
+      502,
+      503,
+      21003,
+      35000,
+      32013,
+      20083,
+      21083,
+      30004,
+      50004,
+      30,
+      33022,
+      33062,
+      33082,
+      1
+    ],
+    "DesText": "ActivityGroup.10104.1",
+    "TabBgRes": "Icon/Banner/tab_activity_Spring",
+    "TransitionId": 38
+  },
+  "30101": {
+    "Id": 30101,
+    "ActivityGroupType": 3,
+    "ActivityThemeType": 4,
+    "StartTime": "2026-02-17T12:00:00+08:00",
+    "EndTime": "2026-02-24T10:59:59+08:00",
+    "EnterEndTime": "2026-02-27T03:59:59+08:00",
+    "PanelId": 360,
+    "PreLimit": 1,
+    "LimitParam": "5",
+    "StartCondType": 71,
+    "StartCondParams": [
+      5
+    ],
+    "Enter": "{\"Task\":[3010102,2,361],\"Store\":[3010103,4,358],\"Level\":[3010101,5,0]}",
+    "UIAssetsPrefab": "30101",
+    "CtrlName": "ActivityBreakOutCtrl",
+    "RewardsShow": [
+      2,
+      119011,
+      33912,
+      30,
+      82007,
+      32000,
+      1
+    ],
+    "DesText": "ActivityGroup.30101.1",
+    "TabBgRes": "Icon/Banner/tab_activity_marble"
   }
 }
