@@ -3586,7 +3586,7 @@
     "GroupId": 1006,
     "Lv": 55,
     "HpFix": 190939127,
-    "ToughnessFix": 1.2693334E+09,
+    "ToughnessFix": 900333300.0,
     "DefFix": 360.0,
     "LvUpEffect": "FX/ActorCommon/fx_common_base_BossRushLevelUp_l"
   },
@@ -3619,7 +3619,6 @@
     "GroupId": 1006,
     "Lv": 60,
     "HpFix": 381878254,
-    "ToughnessFix": 2.9E+09,
     "DefFix": 72.0,
     "LvUpEffect": "FX/ActorCommon/fx_common_base_BossRushLevelUp_l"
   },
@@ -3648,7 +3647,6 @@
     "GroupId": 1006,
     "Lv": 65,
     "HpFix": 763756508,
-    "ToughnessFix": 3.48E+09,
     "LvUpEffect": "FX/ActorCommon/fx_common_base_BossRushLevelUp_l"
   },
   "1006066": {
@@ -3676,196 +3674,165 @@
     "GroupId": 1006,
     "Lv": 70,
     "HpFix": 1145634762,
-    "ToughnessFix": 580000000.0,
     "LvUpEffect": "FX/ActorCommon/fx_common_base_BossRushLevelUp_l"
   },
   "1006071": {
     "Id": 1006071,
     "GroupId": 1006,
-    "Lv": 71,
-    "ToughnessFix": 1.16E+09
+    "Lv": 71
   },
   "1006072": {
     "Id": 1006072,
     "GroupId": 1006,
-    "Lv": 72,
-    "ToughnessFix": 1.16E+09
+    "Lv": 72
   },
   "1006073": {
     "Id": 1006073,
     "GroupId": 1006,
-    "Lv": 73,
-    "ToughnessFix": 1.16E+09
+    "Lv": 73
   },
   "1006074": {
     "Id": 1006074,
     "GroupId": 1006,
-    "Lv": 74,
-    "ToughnessFix": 1.16E+09
+    "Lv": 74
   },
   "1006075": {
     "Id": 1006075,
     "GroupId": 1006,
     "Lv": 75,
     "HpFix": 2036684021,
-    "ToughnessFix": 1.16E+09,
     "LvUpEffect": "FX/ActorCommon/fx_common_base_BossRushLevelUp_l"
   },
   "1006076": {
     "Id": 1006076,
     "GroupId": 1006,
-    "Lv": 76,
-    "ToughnessFix": 1.16E+09
+    "Lv": 76
   },
   "1006077": {
     "Id": 1006077,
     "GroupId": 1006,
-    "Lv": 77,
-    "ToughnessFix": 1.16E+09
+    "Lv": 77
   },
   "1006078": {
     "Id": 1006078,
     "GroupId": 1006,
-    "Lv": 78,
-    "ToughnessFix": 1.16E+09
+    "Lv": 78
   },
   "1006079": {
     "Id": 1006079,
     "GroupId": 1006,
-    "Lv": 79,
-    "ToughnessFix": 1.16E+09
+    "Lv": 79
   },
   "1006080": {
     "Id": 1006080,
     "GroupId": 1006,
     "Lv": 80,
     "HpFix": 3182318783,
-    "ToughnessFix": 3.48E+09,
     "LvUpEffect": "FX/ActorCommon/fx_common_base_BossRushLevelUp_l"
   },
   "1006081": {
     "Id": 1006081,
     "GroupId": 1006,
-    "Lv": 81,
-    "ToughnessFix": 3.48E+09
+    "Lv": 81
   },
   "1006082": {
     "Id": 1006082,
     "GroupId": 1006,
-    "Lv": 82,
-    "ToughnessFix": 3.48E+09
+    "Lv": 82
   },
   "1006083": {
     "Id": 1006083,
     "GroupId": 1006,
-    "Lv": 83,
-    "ToughnessFix": 3.48E+09
+    "Lv": 83
   },
   "1006084": {
     "Id": 1006084,
     "GroupId": 1006,
-    "Lv": 84,
-    "ToughnessFix": 3.48E+09
+    "Lv": 84
   },
   "1006085": {
     "Id": 1006085,
     "GroupId": 1006,
     "Lv": 85,
     "HpFix": 4455246296,
-    "ToughnessFix": 3.48E+09,
     "LvUpEffect": "FX/ActorCommon/fx_common_base_BossRushLevelUp_l"
   },
   "1006086": {
     "Id": 1006086,
     "GroupId": 1006,
-    "Lv": 86,
-    "ToughnessFix": 3.48E+09
+    "Lv": 86
   },
   "1006087": {
     "Id": 1006087,
     "GroupId": 1006,
-    "Lv": 87,
-    "ToughnessFix": 3.48E+09
+    "Lv": 87
   },
   "1006088": {
     "Id": 1006088,
     "GroupId": 1006,
-    "Lv": 88,
-    "ToughnessFix": 3.48E+09
+    "Lv": 88
   },
   "1006089": {
     "Id": 1006089,
     "GroupId": 1006,
-    "Lv": 89,
-    "ToughnessFix": 3.48E+09
+    "Lv": 89
   },
   "1006090": {
     "Id": 1006090,
     "GroupId": 1006,
     "Lv": 90,
-    "ToughnessFix": 3.48E+09,
     "LvUpEffect": "FX/ActorCommon/fx_common_base_BossRushLevelUp_l"
   },
   "1006091": {
     "Id": 1006091,
     "GroupId": 1006,
-    "Lv": 91,
-    "ToughnessFix": 3.48E+09
+    "Lv": 91
   },
   "1006092": {
     "Id": 1006092,
     "GroupId": 1006,
-    "Lv": 92,
-    "ToughnessFix": 3.48E+09
+    "Lv": 92
   },
   "1006093": {
     "Id": 1006093,
     "GroupId": 1006,
-    "Lv": 93,
-    "ToughnessFix": 3.48E+09
+    "Lv": 93
   },
   "1006094": {
     "Id": 1006094,
     "GroupId": 1006,
-    "Lv": 94,
-    "ToughnessFix": 3.48E+09
+    "Lv": 94
   },
   "1006095": {
     "Id": 1006095,
     "GroupId": 1006,
     "Lv": 95,
-    "ToughnessFix": 3.48E+09,
     "LvUpEffect": "FX/ActorCommon/fx_common_base_BossRushLevelUp_l"
   },
   "1006096": {
     "Id": 1006096,
     "GroupId": 1006,
-    "Lv": 96,
-    "ToughnessFix": 3.48E+09
+    "Lv": 96
   },
   "1006097": {
     "Id": 1006097,
     "GroupId": 1006,
-    "Lv": 97,
-    "ToughnessFix": 3.48E+09
+    "Lv": 97
   },
   "1006098": {
     "Id": 1006098,
     "GroupId": 1006,
-    "Lv": 98,
-    "ToughnessFix": 3.48E+09
+    "Lv": 98
   },
   "1006099": {
     "Id": 1006099,
     "GroupId": 1006,
-    "Lv": 99,
-    "ToughnessFix": 3.48E+09
+    "Lv": 99
   },
   "1006100": {
     "Id": 1006100,
     "GroupId": 1006,
     "Lv": 100,
-    "ToughnessFix": 3.48E+09,
     "LvUpEffect": "FX/ActorCommon/fx_common_base_BossRushLevelUp_l"
   },
   "1007001": {
@@ -4271,7 +4238,7 @@
     "Lv": 55,
     "HpFix": 190939127,
     "AtkFix": 24000.0,
-    "ToughnessFix": 1.2693334E+09,
+    "ToughnessFix": 900333300.0,
     "DefFix": 360.0,
     "LvUpEffect": "FX/ActorCommon/fx_common_base_BossRushLevelUp_l"
   },
@@ -4309,7 +4276,6 @@
     "Lv": 60,
     "HpFix": 381878254,
     "AtkFix": 24000.0,
-    "ToughnessFix": 2.9E+09,
     "DefFix": 72.0,
     "LvUpEffect": "FX/ActorCommon/fx_common_base_BossRushLevelUp_l"
   },
@@ -4343,7 +4309,6 @@
     "Lv": 65,
     "HpFix": 763756508,
     "AtkFix": 24000.0,
-    "ToughnessFix": 3.48E+09,
     "LvUpEffect": "FX/ActorCommon/fx_common_base_BossRushLevelUp_l"
   },
   "1007066": {
@@ -4376,36 +4341,31 @@
     "Lv": 70,
     "HpFix": 1145634762,
     "AtkFix": 24000.0,
-    "ToughnessFix": 580000000.0,
     "LvUpEffect": "FX/ActorCommon/fx_common_base_BossRushLevelUp_l"
   },
   "1007071": {
     "Id": 1007071,
     "GroupId": 1007,
     "Lv": 71,
-    "AtkFix": 24000.0,
-    "ToughnessFix": 1.16E+09
+    "AtkFix": 24000.0
   },
   "1007072": {
     "Id": 1007072,
     "GroupId": 1007,
     "Lv": 72,
-    "AtkFix": 24000.0,
-    "ToughnessFix": 1.16E+09
+    "AtkFix": 24000.0
   },
   "1007073": {
     "Id": 1007073,
     "GroupId": 1007,
     "Lv": 73,
-    "AtkFix": 24000.0,
-    "ToughnessFix": 1.16E+09
+    "AtkFix": 24000.0
   },
   "1007074": {
     "Id": 1007074,
     "GroupId": 1007,
     "Lv": 74,
-    "AtkFix": 24000.0,
-    "ToughnessFix": 1.16E+09
+    "AtkFix": 24000.0
   },
   "1007075": {
     "Id": 1007075,
@@ -4413,36 +4373,31 @@
     "Lv": 75,
     "HpFix": 2036684021,
     "AtkFix": 24000.0,
-    "ToughnessFix": 1.16E+09,
     "LvUpEffect": "FX/ActorCommon/fx_common_base_BossRushLevelUp_l"
   },
   "1007076": {
     "Id": 1007076,
     "GroupId": 1007,
     "Lv": 76,
-    "AtkFix": 24000.0,
-    "ToughnessFix": 1.16E+09
+    "AtkFix": 24000.0
   },
   "1007077": {
     "Id": 1007077,
     "GroupId": 1007,
     "Lv": 77,
-    "AtkFix": 24000.0,
-    "ToughnessFix": 1.16E+09
+    "AtkFix": 24000.0
   },
   "1007078": {
     "Id": 1007078,
     "GroupId": 1007,
     "Lv": 78,
-    "AtkFix": 24000.0,
-    "ToughnessFix": 1.16E+09
+    "AtkFix": 24000.0
   },
   "1007079": {
     "Id": 1007079,
     "GroupId": 1007,
     "Lv": 79,
-    "AtkFix": 24000.0,
-    "ToughnessFix": 1.16E+09
+    "AtkFix": 24000.0
   },
   "1007080": {
     "Id": 1007080,
@@ -4450,36 +4405,31 @@
     "Lv": 80,
     "HpFix": 3182318783,
     "AtkFix": 24000.0,
-    "ToughnessFix": 3.48E+09,
     "LvUpEffect": "FX/ActorCommon/fx_common_base_BossRushLevelUp_l"
   },
   "1007081": {
     "Id": 1007081,
     "GroupId": 1007,
     "Lv": 81,
-    "AtkFix": 24000.0,
-    "ToughnessFix": 3.48E+09
+    "AtkFix": 24000.0
   },
   "1007082": {
     "Id": 1007082,
     "GroupId": 1007,
     "Lv": 82,
-    "AtkFix": 24000.0,
-    "ToughnessFix": 3.48E+09
+    "AtkFix": 24000.0
   },
   "1007083": {
     "Id": 1007083,
     "GroupId": 1007,
     "Lv": 83,
-    "AtkFix": 24000.0,
-    "ToughnessFix": 3.48E+09
+    "AtkFix": 24000.0
   },
   "1007084": {
     "Id": 1007084,
     "GroupId": 1007,
     "Lv": 84,
-    "AtkFix": 24000.0,
-    "ToughnessFix": 3.48E+09
+    "AtkFix": 24000.0
   },
   "1007085": {
     "Id": 1007085,
@@ -4487,115 +4437,99 @@
     "Lv": 85,
     "HpFix": 4455246296,
     "AtkFix": 24000.0,
-    "ToughnessFix": 3.48E+09,
     "LvUpEffect": "FX/ActorCommon/fx_common_base_BossRushLevelUp_l"
   },
   "1007086": {
     "Id": 1007086,
     "GroupId": 1007,
     "Lv": 86,
-    "AtkFix": 24000.0,
-    "ToughnessFix": 3.48E+09
+    "AtkFix": 24000.0
   },
   "1007087": {
     "Id": 1007087,
     "GroupId": 1007,
     "Lv": 87,
-    "AtkFix": 24000.0,
-    "ToughnessFix": 3.48E+09
+    "AtkFix": 24000.0
   },
   "1007088": {
     "Id": 1007088,
     "GroupId": 1007,
     "Lv": 88,
-    "AtkFix": 24000.0,
-    "ToughnessFix": 3.48E+09
+    "AtkFix": 24000.0
   },
   "1007089": {
     "Id": 1007089,
     "GroupId": 1007,
     "Lv": 89,
-    "AtkFix": 24000.0,
-    "ToughnessFix": 3.48E+09
+    "AtkFix": 24000.0
   },
   "1007090": {
     "Id": 1007090,
     "GroupId": 1007,
     "Lv": 90,
     "AtkFix": 24000.0,
-    "ToughnessFix": 3.48E+09,
     "LvUpEffect": "FX/ActorCommon/fx_common_base_BossRushLevelUp_l"
   },
   "1007091": {
     "Id": 1007091,
     "GroupId": 1007,
     "Lv": 91,
-    "AtkFix": 24000.0,
-    "ToughnessFix": 3.48E+09
+    "AtkFix": 24000.0
   },
   "1007092": {
     "Id": 1007092,
     "GroupId": 1007,
     "Lv": 92,
-    "AtkFix": 24000.0,
-    "ToughnessFix": 3.48E+09
+    "AtkFix": 24000.0
   },
   "1007093": {
     "Id": 1007093,
     "GroupId": 1007,
     "Lv": 93,
-    "AtkFix": 24000.0,
-    "ToughnessFix": 3.48E+09
+    "AtkFix": 24000.0
   },
   "1007094": {
     "Id": 1007094,
     "GroupId": 1007,
     "Lv": 94,
-    "AtkFix": 24000.0,
-    "ToughnessFix": 3.48E+09
+    "AtkFix": 24000.0
   },
   "1007095": {
     "Id": 1007095,
     "GroupId": 1007,
     "Lv": 95,
     "AtkFix": 24000.0,
-    "ToughnessFix": 3.48E+09,
     "LvUpEffect": "FX/ActorCommon/fx_common_base_BossRushLevelUp_l"
   },
   "1007096": {
     "Id": 1007096,
     "GroupId": 1007,
     "Lv": 96,
-    "AtkFix": 24000.0,
-    "ToughnessFix": 3.48E+09
+    "AtkFix": 24000.0
   },
   "1007097": {
     "Id": 1007097,
     "GroupId": 1007,
     "Lv": 97,
-    "AtkFix": 24000.0,
-    "ToughnessFix": 3.48E+09
+    "AtkFix": 24000.0
   },
   "1007098": {
     "Id": 1007098,
     "GroupId": 1007,
     "Lv": 98,
-    "AtkFix": 24000.0,
-    "ToughnessFix": 3.48E+09
+    "AtkFix": 24000.0
   },
   "1007099": {
     "Id": 1007099,
     "GroupId": 1007,
     "Lv": 99,
-    "AtkFix": 24000.0,
-    "ToughnessFix": 3.48E+09
+    "AtkFix": 24000.0
   },
   "1007100": {
     "Id": 1007100,
     "GroupId": 1007,
     "Lv": 100,
     "AtkFix": 24000.0,
-    "ToughnessFix": 3.48E+09,
     "LvUpEffect": "FX/ActorCommon/fx_common_base_BossRushLevelUp_l"
   }
 }
