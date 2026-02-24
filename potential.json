@@ -43,7 +43,7 @@
     },
     "510306": {
       "name": "Ardent Trigger",
-      "briefDesc": "Each time Amber deals Auto Attack DMG, increases her Auto Attack Damage.",
+      "briefDesc": "Each time Amber deals Auto Attack DMG, increases her Auto Attack DMG.",
       "type": "main",
       "rarity": 2,
       "imgId": "10301_Potential_02",
@@ -52,7 +52,7 @@
     },
     "510307": {
       "name": "Confident Mode",
-      "briefDesc": "After casting the Main Skill, Amber gains Super Armor, increasing ATK SPD and Auto Attack Damage.",
+      "briefDesc": "After casting the Main Skill, Amber gains Super Armor, increasing ATK SPD and Auto Attack DMG.",
       "type": "main",
       "rarity": 1,
       "imgId": "10301_Potential_02",
@@ -1381,7 +1381,7 @@
     },
     "511213": {
       "name": "Blade Dominance",
-      "briefDesc": "Noya can dodge through barriers. Increases her Auto Attack Damage to distant targets.",
+      "briefDesc": "Noya can dodge through barriers. Increases her Auto Attack DMG to distant targets.",
       "type": "main",
       "rarity": 2,
       "imgId": "11201_Potential_04",
@@ -1627,7 +1627,7 @@
     },
     "511312": {
       "name": "Roaring Ocean Wave",
-      "briefDesc": "When Shimiao deals DMG to targets inflicted with Chill/Frozen with an Auto Attack, increases her ATK SPD and Auto Attack Damage.",
+      "briefDesc": "When Shimiao deals DMG to targets inflicted with Chill/Frozen with an Auto Attack, increases her ATK SPD and Auto Attack DMG.",
       "type": "main",
       "rarity": 2,
       "imgId": "11301_Potential_03",
@@ -1811,7 +1811,7 @@
     },
     "511604": {
       "name": "Tangled Mess",
-      "briefDesc": "Increases Ridge's Auto Attack Damage. Her Auto Attacks fire additional energy rounds.",
+      "briefDesc": "Increases Ridge's Auto Attack DMG. Her Auto Attacks fire additional energy rounds.",
       "type": "main",
       "rarity": 0,
       "imgId": "11601_Potential_04",
@@ -1846,7 +1846,7 @@
     },
     "511608": {
       "name": "Bursting Pod",
-      "briefDesc": "Increases Ridge's Auto Attack Damage and the Attack Range of her energy rounds.",
+      "briefDesc": "Increases Ridge's Auto Attack DMG and the Attack Range of her energy rounds.",
       "type": "main",
       "rarity": 2,
       "imgId": "11601_Potential_04",
@@ -1855,7 +1855,7 @@
     },
     "511609": {
       "name": "Hardened Cone",
-      "briefDesc": "Increases Ridge's Auto Attack Damage and her Auto Attack's Resilience Break Efficiency.",
+      "briefDesc": "Increases Ridge's Auto Attack DMG and her Auto Attack's Resilience Break Efficiency.",
       "type": "main",
       "rarity": 2,
       "imgId": "11601_Potential_04",
@@ -1864,7 +1864,7 @@
     },
     "511610": {
       "name": "Wild Growth",
-      "briefDesc": "Increases Ridge's Auto Attack Damage and the duration of her Main Skill's Auto Attack Enhancement.",
+      "briefDesc": "Increases Ridge's Auto Attack DMG and the duration of her Main Skill's Auto Attack Enhancement.",
       "type": "main",
       "rarity": 1,
       "imgId": "11601_Potential_03",
@@ -1873,7 +1873,7 @@
     },
     "511611": {
       "name": "Power Slide",
-      "briefDesc": "Ridge can dodge one more time. Increases her Auto Attack Damage when dodging.",
+      "briefDesc": "Ridge can dodge one more time. Increases her Auto Attack DMG when dodging.",
       "type": "main",
       "rarity": 2,
       "imgId": "Common_Potential_2",
@@ -2110,7 +2110,7 @@
     },
     "511709": {
       "name": "Recycle and Reuse",
-      "briefDesc": "When the Main Skill deals DMG to a target with Lux Mark: Radiance, increases Auto Attack Damage.",
+      "briefDesc": "When the Main Skill deals DMG to a target with Lux Mark: Radiance, increases Auto Attack DMG.",
       "type": "main",
       "rarity": 1,
       "imgId": "11701_Potential_04",
@@ -2119,7 +2119,7 @@
     },
     "511710": {
       "name": "Power Distribution",
-      "briefDesc": "When the Main Skill kills a target, increases Auto Attack Damage.",
+      "briefDesc": "When the Main Skill kills a target, increases Auto Attack DMG.",
       "type": "main",
       "rarity": 2,
       "imgId": "11701_Potential_04",
@@ -2584,7 +2584,7 @@
     },
     "511905": {
       "name": "Gale Rage",
-      "briefDesc": "Each time Nanoha throws the sunflower shuriken, increases ATK SPD and Auto Attack Damage.",
+      "briefDesc": "Each time Nanoha throws the sunflower shuriken, increases ATK SPD and Auto Attack DMG.",
       "type": "main",
       "rarity": 1,
       "imgId": "11901_Potential_03",
@@ -2593,7 +2593,7 @@
     },
     "511906": {
       "name": "Phantom Follower",
-      "briefDesc": "Each mirror image increases Nanoha's Auto Attack Damage.",
+      "briefDesc": "Each mirror image increases Nanoha's Auto Attack DMG.",
       "type": "main",
       "rarity": 2,
       "imgId": "11901_Potential_41",
@@ -2831,7 +2831,7 @@
     },
     "512004": {
       "name": "Positive Score",
-      "briefDesc": "When Canace casts the Main Skill or when squadmate casts a Support Skill, Canace gains Vortex Energy and Auto Attack Damage is increased.",
+      "briefDesc": "When Canace casts the Main Skill or when squadmate casts a Support Skill, Canace gains Vortex Energy and Auto Attack DMG is increased.",
       "type": "main",
       "rarity": 0,
       "imgId": "12001_Potential_04",
@@ -2866,7 +2866,7 @@
     },
     "512008": {
       "name": "Friendly Mentor",
-      "briefDesc": "When Canace casts the Main Skill or when a squadmate casts a Support Skill, her Auto Attack Damage is increased.",
+      "briefDesc": "When Canace casts the Main Skill or when a squadmate casts a Support Skill, her Auto Attack DMG is increased.",
       "type": "main",
       "rarity": 1,
       "imgId": "12001_Potential_03",
@@ -2884,7 +2884,7 @@
     },
     "512010": {
       "name": "Counterstrike Tutorial",
-      "briefDesc": "Canace will launch the final strike of her Auto Attack right after dodging, and this strike's Auto Attack Damage is increased.",
+      "briefDesc": "Canace will launch the final strike of her Auto Attack right after dodging, and this strike's Auto Attack DMG is increased.",
       "type": "main",
       "rarity": 2,
       "imgId": "12001_Potential_04",
@@ -3534,7 +3534,7 @@
     },
     "512533": {
       "name": "Temporal Revival",
-      "briefDesc": "After casting the Support Skill, there is a chance to increase the squad's Auto Attack Damage.",
+      "briefDesc": "After casting the Support Skill, there is a chance to increase the squad's Auto Attack DMG.",
       "type": "support",
       "rarity": 1,
       "imgId": "Common_Potential_15",
@@ -3913,7 +3913,7 @@
     },
     "512711": {
       "name": "Magic Shield Enhancement",
-      "briefDesc": "When Teresa gains a Surging Shield, increases her Auto Attack Damage.",
+      "briefDesc": "When Teresa gains a Surging Shield, increases her Auto Attack DMG.",
       "type": "main",
       "rarity": 2,
       "imgId": "Common_Potential_9",
@@ -4008,7 +4008,7 @@
     },
     "512729": {
       "name": "Let Me Help!",
-      "briefDesc": "Increases the Auto Attack Damage of Aqua Trekkers within Tidal Domain every second.",
+      "briefDesc": "Increases the Auto Attack DMG of Aqua Trekkers within Tidal Domain every second.",
       "type": "support",
       "rarity": 1,
       "imgId": "12701_Potential_24",
@@ -4624,7 +4624,7 @@
     },
     "513405": {
       "name": "Pyro Mark",
-      "briefDesc": "Fiery Punches and Magma Burst deals increased Auto Attack Damage and can trigger Ignis Mark.",
+      "briefDesc": "Fiery Punches and Magma Burst deals increased Auto Attack DMG and can trigger Ignis Mark.",
       "type": "main",
       "rarity": 2,
       "imgId": "13401_Potential_01",
@@ -4642,7 +4642,7 @@
     },
     "513407": {
       "name": "All-Out Effort",
-      "briefDesc": "When Fuyuka strikes with Fiery Punches, increases Fiery Punches' Auto Attack Damage.",
+      "briefDesc": "When Fuyuka strikes with Fiery Punches, increases Fiery Punches' Auto Attack DMG.",
       "type": "main",
       "rarity": 2,
       "imgId": "13401_Potential_01",
@@ -4669,7 +4669,7 @@
     },
     "513410": {
       "name": "Inertial Punch",
-      "briefDesc": "Every few seconds, increases the Auto Attack Damage of Fiery Punches and Magma Burst.",
+      "briefDesc": "Every few seconds, increases the Auto Attack DMG of Fiery Punches and Magma Burst.",
       "type": "main",
       "rarity": 2,
       "imgId": "13401_Potential_04",
@@ -5373,7 +5373,7 @@
     },
     "514203": {
       "name": "Netherworld Touch",
-      "briefDesc": "After casting the Main Skill, enhances Auto Attacks.",
+      "briefDesc": "After casting the Main Skill, enhances Auto Attacks for a period of time.",
       "type": "main",
       "rarity": 0,
       "imgId": "14201_Potential_03",
@@ -5609,6 +5609,261 @@
       "subIcon": "Round"
     }
   },
+  "143": {
+    "514301": {
+      "name": "Last Gasp of Gale",
+      "briefDesc": "For a short duration after the Main Skill is cast, combo slashes of Auto Attacks can generate a Whirlwind to deal DMG. The Whirlwind can track and attack enemies.",
+      "type": "main",
+      "rarity": 0,
+      "imgId": "14301_Potential_01",
+      "id": 514301
+    },
+    "514302": {
+      "name": "Twin Shadows",
+      "briefDesc": "When casting the Main Skill, generates multiple Whirlwinds to deal DMG. The Whirlwind can increase its Attack Range over time.",
+      "type": "main",
+      "rarity": 0,
+      "imgId": "14301_Potential_02",
+      "id": 514302
+    },
+    "514303": {
+      "name": "Storm-Piercing Surge",
+      "briefDesc": "The Main Skill's bullets become lasers that track distant targets. Increases the Ventus DMG dealt by Wraith's shots to distant targets.",
+      "type": "main",
+      "rarity": 0,
+      "imgId": "14301_Potential_03",
+      "id": 514303
+    },
+    "514304": {
+      "name": "Wind-Splitting Bullet",
+      "briefDesc": "Increases the number of bullets fired when holding to cast the Main Skill continuously. Increases the Ventus DMG dealt by all Wraith's shots.",
+      "type": "main",
+      "rarity": 0,
+      "imgId": "14301_Potential_04",
+      "id": 514304
+    },
+    "514305": {
+      "name": "Zero Hour",
+      "briefDesc": "The Main Skill's slashes can block enemy projectile attacks. Increases Wraith's DMG dealt to nearby targets.",
+      "type": "main",
+      "rarity": 1,
+      "imgId": "14301_Potential_02",
+      "id": 514305,
+      "subIcon": "Diamond"
+    },
+    "514306": {
+      "name": "Blade's Waltz",
+      "briefDesc": "Increases the DMG dealt by the Main Skill's slashes. Increases Wraith's Auto Attack DMG.",
+      "type": "main",
+      "rarity": 2,
+      "imgId": "14301_Potential_01",
+      "id": 514306,
+      "subIcon": "Triangle"
+    },
+    "514307": {
+      "name": "Rapid Draw",
+      "briefDesc": "When the Main Skill's slashes deal DMG, increases Auto Attack DMG.",
+      "type": "main",
+      "rarity": 2,
+      "imgId": "14301_Potential_02",
+      "id": 514307,
+      "subIcon": "Round"
+    },
+    "514308": {
+      "name": "Overheat Shot",
+      "briefDesc": "When casting Whirling Onslaught (Main Skill), increases the Skill DMG of Main Skill's shots.",
+      "type": "main",
+      "rarity": 2,
+      "imgId": "14301_Potential_03",
+      "id": 514308,
+      "subIcon": "Diamond"
+    },
+    "514309": {
+      "name": "Scorching Gale",
+      "briefDesc": "When Wraith's shots deal DMG, increases Skill DMG.",
+      "type": "main",
+      "rarity": 2,
+      "imgId": "14301_Potential_03",
+      "id": 514309,
+      "subIcon": "Triangle"
+    },
+    "514310": {
+      "name": "Tracewind Blink",
+      "briefDesc": "For a short duration after Whirling Onslaught (Main Skill) is cast, enhances Wraith's weapon, during which her Auto Attack shots fire lasers to deal DMG.",
+      "type": "main",
+      "rarity": 1,
+      "imgId": "14301_Potential_04",
+      "id": 514310,
+      "subIcon": "Round"
+    },
+    "514311": {
+      "name": "Unseen Predator",
+      "briefDesc": "Increases the number of Wraith's dodges. Increases ATK when dodging.",
+      "type": "main",
+      "rarity": 2,
+      "imgId": "Common_Potential_3",
+      "id": 514311,
+      "subIcon": "Diamond"
+    },
+    "514312": {
+      "name": "Dauntless Poise",
+      "briefDesc": "Each Ventus Trekker in the squad increase Wraith's ATK.",
+      "type": "main",
+      "rarity": 1,
+      "imgId": "Common_Potential_9",
+      "id": 514312,
+      "subIcon": "Triangle"
+    },
+    "514313": {
+      "name": "Tempest Stance",
+      "briefDesc": "When Wraith triggers Ventus Mark, increases Ventus DMG.",
+      "type": "main",
+      "rarity": 2,
+      "imgId": "Common_Potential_3",
+      "id": 514313,
+      "subIcon": "Round"
+    },
+    "514321": {
+      "name": "Underbarrel Launcher",
+      "briefDesc": "The Support Skill shoots and generates a Tornado that tracks the target, dealing multiple instances of DMG.",
+      "type": "support",
+      "rarity": 0,
+      "imgId": "14301_Potential_21",
+      "id": 514321
+    },
+    "514322": {
+      "name": "Suppressive Wind-Splitting Round",
+      "briefDesc": "The Support Skill slashes and cracks the ground, dealing multiple instances of DMG.",
+      "type": "support",
+      "rarity": 0,
+      "imgId": "14301_Potential_22",
+      "id": 514322
+    },
+    "514323": {
+      "name": "Rotary Saw",
+      "briefDesc": "The Support Skill slashes and then performs a horizontal sweep, dealing DMG in a large area.",
+      "type": "support",
+      "rarity": 0,
+      "imgId": "14301_Potential_23",
+      "id": 514323
+    },
+    "514324": {
+      "name": "Enhanced Rapid-Fire Round",
+      "briefDesc": "The Support Skill fires additional lasers.",
+      "type": "support",
+      "rarity": 0,
+      "imgId": "14301_Potential_24",
+      "id": 514324
+    },
+    "514325": {
+      "name": "Ominous Vibe",
+      "briefDesc": "When the Support Skill deals DMG, there is a chance to fire lasers to deal DMG.",
+      "type": "support",
+      "rarity": 1,
+      "imgId": "14301_Potential_21",
+      "id": 514325,
+      "subIcon": "Diamond"
+    },
+    "514326": {
+      "name": "Hunter's Instinct",
+      "briefDesc": "When the Support Skill deals DMG, increases Wraith's ATK.",
+      "type": "support",
+      "rarity": 2,
+      "imgId": "14301_Potential_21",
+      "id": 514326,
+      "subIcon": "Triangle"
+    },
+    "514327": {
+      "name": "Frost-Proof Constitution",
+      "briefDesc": "When casting the Support Skill, increases Wraith's Skill DMG.",
+      "type": "support",
+      "rarity": 2,
+      "imgId": "Common_Potential_01",
+      "id": 514327,
+      "subIcon": "Round"
+    },
+    "514328": {
+      "name": "Warrior's Quality",
+      "briefDesc": "When the Support Skill's slashes deal DMG, increases the Skill DMG of this Support Skill's shots.",
+      "type": "support",
+      "rarity": 1,
+      "imgId": "14301_Potential_24",
+      "id": 514328,
+      "subIcon": "Diamond"
+    },
+    "514329": {
+      "name": "Will of Vengeance",
+      "briefDesc": "Increases the Support Skill's DMG.",
+      "type": "support",
+      "rarity": 2,
+      "imgId": "14301_Potential_23",
+      "id": 514329,
+      "subIcon": "Triangle"
+    },
+    "514330": {
+      "name": "Dawn's Embrace",
+      "briefDesc": "The fewer targets the Support Skill's slashes hit, the higher the DMG dealt.",
+      "type": "support",
+      "rarity": 2,
+      "imgId": "14301_Potential_23",
+      "id": 514330,
+      "subIcon": "Round"
+    },
+    "514331": {
+      "name": "Expatriate",
+      "briefDesc": "Increases the Support Skill's DMG dealt to targets inflicted with Ventus Mark.",
+      "type": "support",
+      "rarity": 2,
+      "imgId": "Common_Potential_Wind_1",
+      "id": 514331,
+      "subIcon": "Diamond"
+    },
+    "514332": {
+      "name": "Avenger",
+      "briefDesc": "When a Ventus squadmate triggers Ventus Mark, there is a chance to create a Whirlwind, dealing multiple instances of DMG.",
+      "type": "support",
+      "rarity": 2,
+      "imgId": "Common_Potential_Wind_1",
+      "id": 514332,
+      "subIcon": "Triangle"
+    },
+    "514333": {
+      "name": "Flame Hunter",
+      "briefDesc": "Each Ventus Trekker in the squad increase Wraith's ATK.",
+      "type": "support",
+      "rarity": 1,
+      "imgId": "Common_Potential_15",
+      "id": 514333,
+      "subIcon": "Round"
+    },
+    "514341": {
+      "name": "Daybreaker",
+      "briefDesc": "Increases the Ultimate's shuttling speed. Also increases Wraith's Ultimate DMG.",
+      "type": "common",
+      "rarity": 2,
+      "imgId": "14301_Potential_41",
+      "id": 514341,
+      "subIcon": "Diamond"
+    },
+    "514342": {
+      "name": "Raging Battle Will",
+      "briefDesc": "After casting the Ultimate, increases Wraith's ATK.",
+      "type": "common",
+      "rarity": 2,
+      "imgId": "14301_Potential_41",
+      "id": 514342,
+      "subIcon": "Triangle"
+    },
+    "514343": {
+      "name": "Tempest Siphon",
+      "briefDesc": "When the Ultimate unfolds its domain, pulls in targets. Also increases Wraith's Ultimate DMG.",
+      "type": "common",
+      "rarity": 2,
+      "imgId": "14301_Potential_41",
+      "id": 514343,
+      "subIcon": "Round"
+    }
+  },
   "144": {
     "514401": {
       "name": "Serpent's Glide",
@@ -5644,7 +5899,7 @@
     },
     "514405": {
       "name": "Tremble and Fall",
-      "briefDesc": "Chitose can dodge one more time and her Auto Attack Damage is increased. After dodging or casting the Main Skill, she can deliver the last strike of her Auto Attack immediately.",
+      "briefDesc": "Chitose can dodge one more time and her Auto Attack DMG is increased. After dodging or casting the Main Skill, she can deliver the last strike of her Auto Attack immediately.",
       "type": "main",
       "rarity": 2,
       "imgId": "14401_Potential_02",
@@ -5653,7 +5908,7 @@
     },
     "514406": {
       "name": "Dance of Elegance",
-      "briefDesc": "When the Coiling Serpent deals DMG, increases Auto Attack Damage.",
+      "briefDesc": "When the Coiling Serpent deals DMG, increases Auto Attack DMG.",
       "type": "main",
       "rarity": 2,
       "imgId": "14401_Potential_01",
@@ -5875,7 +6130,7 @@
     },
     "514702": {
       "name": "Cheer Sparkle",
-      "briefDesc": "Increases Caramel's Auto Attack Damage. After triggering a mark, directly launches the last strike of her Auto Attack.",
+      "briefDesc": "Increases Caramel's Auto Attack DMG. After triggering a mark, directly launches the last strike of her Auto Attack.",
       "type": "main",
       "rarity": 0,
       "imgId": "14701_Potential_02",
@@ -5917,7 +6172,7 @@
     },
     "514707": {
       "name": "Rising Tone",
-      "briefDesc": "When Caramel is near Demonic Boombox, increases her Auto Attack Damage.",
+      "briefDesc": "When Caramel is near Demonic Boombox, increases her Auto Attack DMG.",
       "type": "main",
       "rarity": 2,
       "imgId": "Common_Potential_9",
@@ -6122,7 +6377,7 @@
   "149": {
     "514901": {
       "name": "Beyond All Control",
-      "briefDesc": "When Gerie is in Lethal status, increases her Movement SPD and Auto Attack Damage. Lethal status remains active even when Gerie is not at the vicinity of Iron Cage.",
+      "briefDesc": "When Gerie is in Lethal status, increases her Movement SPD and Auto Attack DMG. Lethal status remains active even when Gerie is not at the vicinity of Iron Cage.",
       "type": "main",
       "rarity": 0,
       "imgId": "14901_Potential_01",
@@ -6163,7 +6418,7 @@
     },
     "514906": {
       "name": "No Safeword",
-      "briefDesc": "Increases Gerie's Auto Attack Damage. Increases her Auto Attack DMG to targets with Broken Resilience.",
+      "briefDesc": "Increases Gerie's Auto Attack DMG. Increases her Auto Attack DMG to targets with Broken Resilience.",
       "type": "main",
       "rarity": 2,
       "imgId": "14901_Potential_02",
@@ -6172,7 +6427,7 @@
     },
     "514907": {
       "name": "Lingering Hunger",
-      "briefDesc": "Increases Gerie's Auto Attack Damage. If Gerie is in Lethal status when the Iron Cage disappears, the status lasts 4s longer.",
+      "briefDesc": "Increases Gerie's Auto Attack DMG. If Gerie is in Lethal status when the Iron Cage disappears, the status lasts 4s longer.",
       "type": "main",
       "rarity": 1,
       "imgId": "14901_Potential_01",
@@ -7421,7 +7676,7 @@
     },
     "515904": {
       "name": "Echo of Earth",
-      "briefDesc": "When in Crystallized State, continuously generates Rose Pulses: Hitting a target creates Crystalline Ground at the target's location to deal delayed DMG. Can trigger Terra Mark. When Crystallized Ground receives Springseek Coronis's Auto ATK DMG, it detonates early and deals increased DMG.",
+      "briefDesc": "When in Crystallized State, continuously generates Rose Pulses: Hitting a target creates Crystalline Ground at the target's location to deal delayed DMG. Can trigger Terra Mark. When Crystallized Ground receives Springseek Coronis's Auto Attack DMG, it detonates early and deals increased DMG.",
       "type": "main",
       "rarity": 0,
       "imgId": "15901_Potential_04",
@@ -7438,7 +7693,7 @@
     },
     "515906": {
       "name": "Exquisite Cut",
-      "briefDesc": "When Springseek Coronis deals Auto ATK DMG, increases Auspice's Terra DMG.",
+      "briefDesc": "When Springseek Coronis deals Auto Attack DMG, increases Auspice's Terra DMG.",
       "type": "main",
       "rarity": 2,
       "imgId": "15901_Potential_02",
@@ -7456,7 +7711,7 @@
     },
     "515908": {
       "name": "Expanse: Everlasting Peace",
-      "briefDesc": "Increases Springseek Coronis's Auto Attack Damage. Increases Auto Attack Damage additionally against distant targets.",
+      "briefDesc": "Increases Springseek Coronis's Auto Attack DMG. Increases Auto Attack DMG additionally against distant targets.",
       "type": "main",
       "rarity": 2,
       "imgId": "15901_Potential_03",
@@ -7465,7 +7720,7 @@
     },
     "515909": {
       "name": "Inner Stagnation",
-      "briefDesc": "When Springseek Coronis deals Auto ATK DMG, increases the target's Terra DMG Taken.",
+      "briefDesc": "When Springseek Coronis deals Auto Attack DMG, increases the target's Terra DMG Taken.",
       "type": "main",
       "rarity": 2,
       "imgId": "15901_Potential_04",
@@ -7474,7 +7729,7 @@
     },
     "515910": {
       "name": "Fortune's Flow",
-      "briefDesc": "Increases Springseek Coronis's Auto Attack Damage. When in Crystallized State, triggering Terra Mark extends the state's duration.",
+      "briefDesc": "Increases Springseek Coronis's Auto Attack DMG. When in Crystallized State, triggering Terra Mark extends the state's duration.",
       "type": "main",
       "rarity": 1,
       "imgId": "15901_Potential_04",
