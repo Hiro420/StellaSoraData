@@ -502,5 +502,39 @@
     "PassiveMsg": "Guide_OpenStarTowerDepot_Tutorial",
     "ScriptPath": "GuideGroup_232",
     "IsActive": true
+  },
+  "301": {
+    "Id": 301,
+    "GuideDetectionType": 2,
+    "PassiveMsg": "Guide_PenguinCard_301",
+    "ScriptPath": "GuideGroup_301",
+    "IsActive": true
+  },
+  "302": {
+    "Id": 302,
+    "GuideDetectionType": 2,
+    "PassiveMsg": "Guide_PenguinCard_302",
+    "GuidePrepose": 1,
+    "PreposeParams": "[301]",
+    "ScriptPath": "GuideGroup_302",
+    "IsActive": true
+  },
+  "303": {
+    "Id": 303,
+    "GuideDetectionType": 2,
+    "PassiveMsg": "Guide_PenguinCard_303",
+    "GuidePrepose": 1,
+    "PreposeParams": "[302]",
+    "ScriptPath": "GuideGroup_303",
+    "IsActive": true
+  },
+  "304": {
+    "Id": 304,
+    "GuideDetectionType": 2,
+    "PassiveMsg": "Guide_PenguinCard_304",
+    "GuidePrepose": 1,
+    "PreposeParams": "[303]",
+    "ScriptPath": "GuideGroup_304",
+    "IsActive": true
   }
 }

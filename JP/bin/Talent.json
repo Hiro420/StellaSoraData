@@ -21017,9 +21017,10 @@
     "Type": 2,
     "Sort": 1,
     "EffectId": [
-      10390010
+      14390010
     ],
-    "Desc": "Talent.1430101.2"
+    "Desc": "Talent.1430101.2",
+    "Param1": "EffectValue,NoLevel,14390010,EffectTypeParam1,Fixed"
   },
   "1430102": {
     "Id": 1430102,
@@ -21029,9 +21030,10 @@
     "Type": 2,
     "Sort": 2,
     "EffectId": [
-      10390020
+      14390020
     ],
-    "Desc": "Talent.1430102.2"
+    "Desc": "Talent.1430102.2",
+    "Param1": "EffectValue,NoLevel,14390020,EffectTypeParam1,Fixed"
   },
   "1430103": {
     "Id": 1430103,
@@ -21041,9 +21043,10 @@
     "Type": 2,
     "Sort": 3,
     "EffectId": [
-      10390030
+      14390030
     ],
-    "Desc": "Talent.1430103.2"
+    "Desc": "Talent.1430103.2",
+    "Param1": "EffectValue,NoLevel,14390030,EffectTypeParam1,Fixed"
   },
   "1430104": {
     "Id": 1430104,
@@ -21053,9 +21056,10 @@
     "Type": 2,
     "Sort": 4,
     "EffectId": [
-      10390040
+      14390040
     ],
-    "Desc": "Talent.1430104.2"
+    "Desc": "Talent.1430104.2",
+    "Param1": "EffectValue,NoLevel,14390040,EffectTypeParam1,HdPct"
   },
   "1430105": {
     "Id": 1430105,
@@ -21065,9 +21069,10 @@
     "Type": 2,
     "Sort": 5,
     "EffectId": [
-      10390050
+      14390050
     ],
-    "Desc": "Talent.1430105.2"
+    "Desc": "Talent.1430105.2",
+    "Param1": "EffectValue,NoLevel,14390050,EffectTypeParam1,HdPct"
   },
   "1430106": {
     "Id": 1430106,
@@ -21077,9 +21082,10 @@
     "Type": 2,
     "Sort": 6,
     "EffectId": [
-      10390060
+      14390060
     ],
-    "Desc": "Talent.1430106.2"
+    "Desc": "Talent.1430106.2",
+    "Param1": "EffectValue,NoLevel,14390060,EffectTypeParam1,Fixed"
   },
   "1430107": {
     "Id": 1430107,
@@ -21089,9 +21095,10 @@
     "Type": 2,
     "Sort": 7,
     "EffectId": [
-      10390070
+      14390070
     ],
-    "Desc": "Talent.1430107.2"
+    "Desc": "Talent.1430107.2",
+    "Param1": "EffectValue,NoLevel,14390070,EffectTypeParam1,Fixed"
   },
   "1430108": {
     "Id": 1430108,
@@ -21101,9 +21108,10 @@
     "Type": 2,
     "Sort": 8,
     "EffectId": [
-      10390080
+      14390080
     ],
-    "Desc": "Talent.1430108.2"
+    "Desc": "Talent.1430108.2",
+    "Param1": "EffectValue,NoLevel,14390080,EffectTypeParam1,Fixed"
   },
   "1430109": {
     "Id": 1430109,
@@ -21113,9 +21121,10 @@
     "Type": 2,
     "Sort": 9,
     "EffectId": [
-      10390090
+      14390090
     ],
-    "Desc": "Talent.1430109.2"
+    "Desc": "Talent.1430109.2",
+    "Param1": "EffectValue,NoLevel,14390090,EffectTypeParam1,HdPct"
   },
   "1430110": {
     "Id": 1430110,
@@ -21125,9 +21134,10 @@
     "Type": 2,
     "Sort": 10,
     "EffectId": [
-      10390100
+      14390100
     ],
-    "Desc": "Talent.1430110.2"
+    "Desc": "Talent.1430110.2",
+    "Param1": "EffectValue,NoLevel,14390100,EffectTypeParam1,HdPct"
   },
   "1430116": {
     "Id": 1430116,
@@ -21138,7 +21148,10 @@
     "SubType": 1,
     "Sort": 1,
     "Nodes": 10,
-    "Desc": "Talent.1430116.2"
+    "Desc": "Talent.1430116.2",
+    "Param1": "EffectValue,NoLevel,14396111,EffectTypeParam1,HdPct",
+    "Param2": "EffectValue,NoLevel,14396121,EffectTypeParam1,HdPct",
+    "Param3": "BuffValue,NoLevel,14396111,Time,10K"
   },
   "1430217": {
     "Id": 1430217,
@@ -21148,9 +21161,10 @@
     "Type": 2,
     "Sort": 1,
     "EffectId": [
-      10390110
+      14390110
     ],
-    "Desc": "Talent.1430217.2"
+    "Desc": "Talent.1430217.2",
+    "Param1": "EffectValue,NoLevel,14390110,EffectTypeParam1,Fixed"
   },
   "1430218": {
     "Id": 1430218,
@@ -21160,9 +21174,10 @@
     "Type": 2,
     "Sort": 2,
     "EffectId": [
-      10390120
+      14390120
     ],
-    "Desc": "Talent.1430218.2"
+    "Desc": "Talent.1430218.2",
+    "Param1": "EffectValue,NoLevel,14390120,EffectTypeParam1,Fixed"
   },
   "1430219": {
     "Id": 1430219,
@@ -21172,9 +21187,10 @@
     "Type": 2,
     "Sort": 3,
     "EffectId": [
-      10390130
+      14390130
     ],
-    "Desc": "Talent.1430219.2"
+    "Desc": "Talent.1430219.2",
+    "Param1": "EffectValue,NoLevel,14390130,EffectTypeParam1,Fixed"
   },
   "1430220": {
     "Id": 1430220,
@@ -21184,9 +21200,10 @@
     "Type": 2,
     "Sort": 4,
     "EffectId": [
-      10390140
+      14390140
     ],
-    "Desc": "Talent.1430220.2"
+    "Desc": "Talent.1430220.2",
+    "Param1": "EffectValue,NoLevel,14390140,EffectTypeParam1,HdPct"
   },
   "1430221": {
     "Id": 1430221,
@@ -21196,9 +21213,10 @@
     "Type": 2,
     "Sort": 5,
     "EffectId": [
-      10390150
+      14390150
     ],
-    "Desc": "Talent.1430221.2"
+    "Desc": "Talent.1430221.2",
+    "Param1": "EffectValue,NoLevel,14390150,EffectTypeParam1,HdPct"
   },
   "1430222": {
     "Id": 1430222,
@@ -21208,9 +21226,10 @@
     "Type": 2,
     "Sort": 6,
     "EffectId": [
-      10390160
+      14390160
     ],
-    "Desc": "Talent.1430222.2"
+    "Desc": "Talent.1430222.2",
+    "Param1": "EffectValue,NoLevel,14390160,EffectTypeParam1,Fixed"
   },
   "1430223": {
     "Id": 1430223,
@@ -21220,9 +21239,10 @@
     "Type": 2,
     "Sort": 7,
     "EffectId": [
-      10390170
+      14390170
     ],
-    "Desc": "Talent.1430223.2"
+    "Desc": "Talent.1430223.2",
+    "Param1": "EffectValue,NoLevel,14390170,EffectTypeParam1,Fixed"
   },
   "1430224": {
     "Id": 1430224,
@@ -21232,9 +21252,10 @@
     "Type": 2,
     "Sort": 8,
     "EffectId": [
-      10390180
+      14390180
     ],
-    "Desc": "Talent.1430224.2"
+    "Desc": "Talent.1430224.2",
+    "Param1": "EffectValue,NoLevel,14390180,EffectTypeParam1,Fixed"
   },
   "1430225": {
     "Id": 1430225,
@@ -21244,9 +21265,10 @@
     "Type": 2,
     "Sort": 9,
     "EffectId": [
-      10390190
+      14390190
     ],
-    "Desc": "Talent.1430225.2"
+    "Desc": "Talent.1430225.2",
+    "Param1": "EffectValue,NoLevel,14390190,EffectTypeParam1,HdPct"
   },
   "1430226": {
     "Id": 1430226,
@@ -21256,9 +21278,10 @@
     "Type": 2,
     "Sort": 10,
     "EffectId": [
-      10390200
+      14390200
     ],
-    "Desc": "Talent.1430226.2"
+    "Desc": "Talent.1430226.2",
+    "Param1": "EffectValue,NoLevel,14390200,EffectTypeParam1,HdPct"
   },
   "1430232": {
     "Id": 1430232,
@@ -21269,7 +21292,10 @@
     "SubType": 2,
     "Sort": 1,
     "Nodes": 10,
-    "Desc": "Talent.1430232.2"
+    "Desc": "Talent.1430232.2",
+    "Param1": "EffectValue,NoLevel,14396211,EffectTypeParam1,HdPct",
+    "Param2": "BuffValue,NoLevel,14396211,Time,10K",
+    "Param3": "BuffValue,NoLevel,14396211,LaminatedNum,Fixed"
   },
   "1430333": {
     "Id": 1430333,
@@ -21279,9 +21305,10 @@
     "Type": 2,
     "Sort": 1,
     "EffectId": [
-      10390210
+      14390210
     ],
-    "Desc": "Talent.1430333.2"
+    "Desc": "Talent.1430333.2",
+    "Param1": "EffectValue,NoLevel,14390210,EffectTypeParam1,Fixed"
   },
   "1430334": {
     "Id": 1430334,
@@ -21291,9 +21318,10 @@
     "Type": 2,
     "Sort": 2,
     "EffectId": [
-      10390220
+      14390220
     ],
-    "Desc": "Talent.1430334.2"
+    "Desc": "Talent.1430334.2",
+    "Param1": "EffectValue,NoLevel,14390220,EffectTypeParam1,Fixed"
   },
   "1430335": {
     "Id": 1430335,
@@ -21303,9 +21331,10 @@
     "Type": 2,
     "Sort": 3,
     "EffectId": [
-      10390230
+      14390230
     ],
-    "Desc": "Talent.1430335.2"
+    "Desc": "Talent.1430335.2",
+    "Param1": "EffectValue,NoLevel,14390230,EffectTypeParam1,Fixed"
   },
   "1430336": {
     "Id": 1430336,
@@ -21315,9 +21344,10 @@
     "Type": 2,
     "Sort": 4,
     "EffectId": [
-      10390240
+      14390240
     ],
-    "Desc": "Talent.1430336.2"
+    "Desc": "Talent.1430336.2",
+    "Param1": "EffectValue,NoLevel,14390240,EffectTypeParam1,HdPct"
   },
   "1430337": {
     "Id": 1430337,
@@ -21327,9 +21357,10 @@
     "Type": 2,
     "Sort": 5,
     "EffectId": [
-      10390250
+      14390250
     ],
-    "Desc": "Talent.1430337.2"
+    "Desc": "Talent.1430337.2",
+    "Param1": "EffectValue,NoLevel,14390250,EffectTypeParam1,HdPct"
   },
   "1430338": {
     "Id": 1430338,
@@ -21339,9 +21370,10 @@
     "Type": 2,
     "Sort": 6,
     "EffectId": [
-      10390260
+      14390260
     ],
-    "Desc": "Talent.1430338.2"
+    "Desc": "Talent.1430338.2",
+    "Param1": "EffectValue,NoLevel,14390260,EffectTypeParam1,Fixed"
   },
   "1430339": {
     "Id": 1430339,
@@ -21351,9 +21383,10 @@
     "Type": 2,
     "Sort": 7,
     "EffectId": [
-      10390270
+      14390270
     ],
-    "Desc": "Talent.1430339.2"
+    "Desc": "Talent.1430339.2",
+    "Param1": "EffectValue,NoLevel,14390270,EffectTypeParam1,Fixed"
   },
   "1430340": {
     "Id": 1430340,
@@ -21363,9 +21396,10 @@
     "Type": 2,
     "Sort": 8,
     "EffectId": [
-      10390280
+      14390280
     ],
-    "Desc": "Talent.1430340.2"
+    "Desc": "Talent.1430340.2",
+    "Param1": "EffectValue,NoLevel,14390280,EffectTypeParam1,Fixed"
   },
   "1430341": {
     "Id": 1430341,
@@ -21375,9 +21409,10 @@
     "Type": 2,
     "Sort": 9,
     "EffectId": [
-      10390290
+      14390290
     ],
-    "Desc": "Talent.1430341.2"
+    "Desc": "Talent.1430341.2",
+    "Param1": "EffectValue,NoLevel,14390290,EffectTypeParam1,HdPct"
   },
   "1430342": {
     "Id": 1430342,
@@ -21387,9 +21422,10 @@
     "Type": 2,
     "Sort": 10,
     "EffectId": [
-      10390300
+      14390300
     ],
-    "Desc": "Talent.1430342.2"
+    "Desc": "Talent.1430342.2",
+    "Param1": "EffectValue,NoLevel,14390300,EffectTypeParam1,HdPct"
   },
   "1430348": {
     "Id": 1430348,
@@ -21400,7 +21436,10 @@
     "SubType": 3,
     "Sort": 1,
     "Nodes": 10,
-    "Desc": "Talent.1430348.2"
+    "Desc": "Talent.1430348.2",
+    "Param1": "EffectValue,NoLevel,14396311,EffectTypeParam1,HdPct",
+    "Param2": "EffectValue,NoLevel,14396321,EffectTypeParam1,HdPct",
+    "Param3": "BuffValue,NoLevel,14396311,Time,10K"
   },
   "1430449": {
     "Id": 1430449,
@@ -21410,9 +21449,10 @@
     "Type": 2,
     "Sort": 1,
     "EffectId": [
-      10390310
+      14390310
     ],
-    "Desc": "Talent.1430449.2"
+    "Desc": "Talent.1430449.2",
+    "Param1": "EffectValue,NoLevel,14390310,EffectTypeParam1,Fixed"
   },
   "1430450": {
     "Id": 1430450,
@@ -21422,9 +21462,10 @@
     "Type": 2,
     "Sort": 2,
     "EffectId": [
-      10390320
+      14390320
     ],
-    "Desc": "Talent.1430450.2"
+    "Desc": "Talent.1430450.2",
+    "Param1": "EffectValue,NoLevel,14390320,EffectTypeParam1,Fixed"
   },
   "1430451": {
     "Id": 1430451,
@@ -21434,9 +21475,10 @@
     "Type": 2,
     "Sort": 3,
     "EffectId": [
-      10390330
+      14390330
     ],
-    "Desc": "Talent.1430451.2"
+    "Desc": "Talent.1430451.2",
+    "Param1": "EffectValue,NoLevel,14390330,EffectTypeParam1,Fixed"
   },
   "1430452": {
     "Id": 1430452,
@@ -21446,9 +21488,10 @@
     "Type": 2,
     "Sort": 4,
     "EffectId": [
-      10390340
+      14390340
     ],
-    "Desc": "Talent.1430452.2"
+    "Desc": "Talent.1430452.2",
+    "Param1": "EffectValue,NoLevel,14390340,EffectTypeParam1,HdPct"
   },
   "1430453": {
     "Id": 1430453,
@@ -21458,9 +21501,10 @@
     "Type": 2,
     "Sort": 5,
     "EffectId": [
-      10390350
+      14390350
     ],
-    "Desc": "Talent.1430453.2"
+    "Desc": "Talent.1430453.2",
+    "Param1": "EffectValue,NoLevel,14390350,EffectTypeParam1,HdPct"
   },
   "1430454": {
     "Id": 1430454,
@@ -21470,9 +21514,10 @@
     "Type": 2,
     "Sort": 6,
     "EffectId": [
-      10390360
+      14390360
     ],
-    "Desc": "Talent.1430454.2"
+    "Desc": "Talent.1430454.2",
+    "Param1": "EffectValue,NoLevel,14390360,EffectTypeParam1,Fixed"
   },
   "1430455": {
     "Id": 1430455,
@@ -21482,9 +21527,10 @@
     "Type": 2,
     "Sort": 7,
     "EffectId": [
-      10390370
+      14390370
     ],
-    "Desc": "Talent.1430455.2"
+    "Desc": "Talent.1430455.2",
+    "Param1": "EffectValue,NoLevel,14390370,EffectTypeParam1,Fixed"
   },
   "1430456": {
     "Id": 1430456,
@@ -21494,9 +21540,10 @@
     "Type": 2,
     "Sort": 8,
     "EffectId": [
-      10390380
+      14390380
     ],
-    "Desc": "Talent.1430456.2"
+    "Desc": "Talent.1430456.2",
+    "Param1": "EffectValue,NoLevel,14390380,EffectTypeParam1,Fixed"
   },
   "1430457": {
     "Id": 1430457,
@@ -21506,9 +21553,10 @@
     "Type": 2,
     "Sort": 9,
     "EffectId": [
-      10390390
+      14390390
     ],
-    "Desc": "Talent.1430457.2"
+    "Desc": "Talent.1430457.2",
+    "Param1": "EffectValue,NoLevel,14390390,EffectTypeParam1,HdPct"
   },
   "1430458": {
     "Id": 1430458,
@@ -21518,9 +21566,10 @@
     "Type": 2,
     "Sort": 10,
     "EffectId": [
-      10390400
+      14390400
     ],
-    "Desc": "Talent.1430458.2"
+    "Desc": "Talent.1430458.2",
+    "Param1": "EffectValue,NoLevel,14390400,EffectTypeParam1,HdPct"
   },
   "1430464": {
     "Id": 1430464,
@@ -21531,7 +21580,10 @@
     "SubType": 4,
     "Sort": 1,
     "Nodes": 10,
-    "Desc": "Talent.1430464.2"
+    "Desc": "Talent.1430464.2",
+    "Param1": "EffectValue,NoLevel,14396411,EffectTypeParam1,HdPct",
+    "Param2": "BuffValue,NoLevel,14396411,Time,10K",
+    "Param3": "BuffValue,NoLevel,14396411,LaminatedNum,Fixed"
   },
   "1430565": {
     "Id": 1430565,
@@ -21541,9 +21593,10 @@
     "Type": 2,
     "Sort": 1,
     "EffectId": [
-      10390410
+      14390410
     ],
-    "Desc": "Talent.1430565.2"
+    "Desc": "Talent.1430565.2",
+    "Param1": "EffectValue,NoLevel,14390410,EffectTypeParam1,Fixed"
   },
   "1430566": {
     "Id": 1430566,
@@ -21553,9 +21606,10 @@
     "Type": 2,
     "Sort": 2,
     "EffectId": [
-      10390420
+      14390420
     ],
-    "Desc": "Talent.1430566.2"
+    "Desc": "Talent.1430566.2",
+    "Param1": "EffectValue,NoLevel,14390420,EffectTypeParam1,Fixed"
   },
   "1430567": {
     "Id": 1430567,
@@ -21565,9 +21619,10 @@
     "Type": 2,
     "Sort": 3,
     "EffectId": [
-      10390430
+      14390430
     ],
-    "Desc": "Talent.1430567.2"
+    "Desc": "Talent.1430567.2",
+    "Param1": "EffectValue,NoLevel,14390430,EffectTypeParam1,Fixed"
   },
   "1430568": {
     "Id": 1430568,
@@ -21577,9 +21632,10 @@
     "Type": 2,
     "Sort": 4,
     "EffectId": [
-      10390440
+      14390440
     ],
-    "Desc": "Talent.1430568.2"
+    "Desc": "Talent.1430568.2",
+    "Param1": "EffectValue,NoLevel,14390440,EffectTypeParam1,HdPct"
   },
   "1430569": {
     "Id": 1430569,
@@ -21589,9 +21645,10 @@
     "Type": 2,
     "Sort": 5,
     "EffectId": [
-      10390450
+      14390450
     ],
-    "Desc": "Talent.1430569.2"
+    "Desc": "Talent.1430569.2",
+    "Param1": "EffectValue,NoLevel,14390450,EffectTypeParam1,HdPct"
   },
   "1430570": {
     "Id": 1430570,
@@ -21601,9 +21658,10 @@
     "Type": 2,
     "Sort": 6,
     "EffectId": [
-      10390460
+      14390460
     ],
-    "Desc": "Talent.1430570.2"
+    "Desc": "Talent.1430570.2",
+    "Param1": "EffectValue,NoLevel,14390460,EffectTypeParam1,Fixed"
   },
   "1430571": {
     "Id": 1430571,
@@ -21613,9 +21671,10 @@
     "Type": 2,
     "Sort": 7,
     "EffectId": [
-      10390470
+      14390470
     ],
-    "Desc": "Talent.1430571.2"
+    "Desc": "Talent.1430571.2",
+    "Param1": "EffectValue,NoLevel,14390470,EffectTypeParam1,Fixed"
   },
   "1430572": {
     "Id": 1430572,
@@ -21625,9 +21684,10 @@
     "Type": 2,
     "Sort": 8,
     "EffectId": [
-      10390480
+      14390480
     ],
-    "Desc": "Talent.1430572.2"
+    "Desc": "Talent.1430572.2",
+    "Param1": "EffectValue,NoLevel,14390480,EffectTypeParam1,Fixed"
   },
   "1430573": {
     "Id": 1430573,
@@ -21637,9 +21697,10 @@
     "Type": 2,
     "Sort": 9,
     "EffectId": [
-      10390490
+      14390490
     ],
-    "Desc": "Talent.1430573.2"
+    "Desc": "Talent.1430573.2",
+    "Param1": "EffectValue,NoLevel,14390490,EffectTypeParam1,HdPct"
   },
   "1430574": {
     "Id": 1430574,
@@ -21649,9 +21710,10 @@
     "Type": 2,
     "Sort": 10,
     "EffectId": [
-      10390500
+      14390500
     ],
-    "Desc": "Talent.1430574.2"
+    "Desc": "Talent.1430574.2",
+    "Param1": "EffectValue,NoLevel,14390500,EffectTypeParam1,HdPct"
   },
   "1430580": {
     "Id": 1430580,
@@ -21662,7 +21724,8 @@
     "SubType": 5,
     "Sort": 1,
     "Nodes": 10,
-    "Desc": "Talent.1430580.2"
+    "Desc": "Talent.1430580.2",
+    "Param1": "OnceAdditionalAttributeValue,NoLevel,14396511,Value1,10KHdPct"
   },
   "1440101": {
     "Id": 1440101,

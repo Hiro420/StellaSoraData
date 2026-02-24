@@ -6991,7 +6991,7 @@
   },
   "6310090": {
     "Id": 6310090,
-    "TemplateId": 9041,
+    "TemplateId": 9045,
     "EET": 5,
     "ResistEET": [
       5
@@ -7006,6 +7006,60 @@
     "AERFix": 750,
     "LERFix": 2000,
     "DERFix": 750
+  },
+  "6310100": {
+    "Id": 6310100,
+    "TemplateId": 9046,
+    "EET": 6,
+    "ResistEET": [
+      6
+    ],
+    "WeakEET": [
+      4,
+      1
+    ],
+    "WERFix": 250,
+    "FERFix": 750,
+    "SERFix": 750,
+    "AERFix": 250,
+    "LERFix": 750,
+    "DERFix": 2000
+  },
+  "6310101": {
+    "Id": 6310101,
+    "TemplateId": 9047,
+    "EET": 6,
+    "ResistEET": [
+      6
+    ],
+    "WeakEET": [
+      4,
+      1
+    ],
+    "WERFix": 250,
+    "FERFix": 750,
+    "SERFix": 750,
+    "AERFix": 250,
+    "LERFix": 750,
+    "DERFix": 2000
+  },
+  "6310102": {
+    "Id": 6310102,
+    "TemplateId": 9047,
+    "EET": 6,
+    "ResistEET": [
+      6
+    ],
+    "WeakEET": [
+      4,
+      1
+    ],
+    "WERFix": 250,
+    "FERFix": 750,
+    "SERFix": 750,
+    "AERFix": 250,
+    "LERFix": 750,
+    "DERFix": 2000
   },
   "7100100": {
     "Id": 7100100,
@@ -14117,7 +14171,7 @@
     "AERFix": 570,
     "LERFix": 570,
     "DERFix": 570,
-    "ToughnessRatio": -6667
+    "ToughnessRatio": -2500
   },
   "7010113": {
     "Id": 7010113,
@@ -14129,11 +14183,11 @@
     "AERFix": 570,
     "LERFix": 570,
     "DERFix": 570,
-    "ToughnessRatio": -5556
+    "ToughnessRatio": -2500
   },
   "7010106": {
     "Id": 7010106,
-    "TemplateId": 7881,
+    "TemplateId": 7883,
     "EET": 7,
     "WERFix": 570,
     "FERFix": 570,
@@ -14147,30 +14201,41 @@
     "Id": 7010115,
     "TemplateId": 7880,
     "EET": 7,
-    "WERFix": 570,
-    "FERFix": 570,
-    "SERFix": 570,
-    "AERFix": 570,
-    "LERFix": 570,
-    "DERFix": 570,
-    "ToughnessRatio": -6667
+    "WeakEET": [
+      4,
+      3
+    ],
+    "HpRatio": 1500,
+    "WERFix": 750,
+    "FERFix": 750,
+    "SERFix": 250,
+    "AERFix": 250,
+    "LERFix": 750,
+    "DERFix": 750,
+    "ToughnessRatio": -1950
   },
   "7010127": {
     "Id": 7010127,
     "TemplateId": 7880,
     "EET": 7,
-    "WERFix": 570,
-    "FERFix": 570,
-    "SERFix": 570,
-    "AERFix": 570,
-    "LERFix": 570,
-    "DERFix": 570,
-    "ToughnessRatio": -5556
+    "WeakEET": [
+      4,
+      3
+    ],
+    "HpRatio": 1500,
+    "WERFix": 750,
+    "FERFix": 750,
+    "SERFix": 250,
+    "AERFix": 250,
+    "LERFix": 750,
+    "DERFix": 750,
+    "ToughnessRatio": -1950
   },
   "7010120": {
     "Id": 7010120,
-    "TemplateId": 7881,
+    "TemplateId": 7883,
     "EET": 7,
+    "HpRatio": 15000,
     "WERFix": 570,
     "FERFix": 570,
     "SERFix": 570,

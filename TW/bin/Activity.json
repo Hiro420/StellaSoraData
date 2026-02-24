@@ -252,6 +252,17 @@
     "EndTime": "2026-02-24T10:59:59+08:00",
     "TabBgRes": "Icon/Banner/tab_activity_sidestory"
   },
+  "201010": {
+    "Id": 201010,
+    "SortId": 14,
+    "ActivityType": 13,
+    "Name": "诺瓦异闻-多娜格芮",
+    "StartType": 2,
+    "StartTime": "2026-03-07T12:00:00+08:00",
+    "EndType": 2,
+    "EndTime": "2026-03-17T10:59:59+08:00",
+    "TabBgRes": "Icon/Banner/tab_activity_sidestory"
+  },
   "400000": {
     "Id": 400000,
     "MidGroupId": 10100,
@@ -314,6 +325,19 @@
     "EndType": 2,
     "EndTime": "2026-01-06T04:00:00+08:00",
     "TabBgRes": "Icon/Banner/tab_activity_cookie"
+  },
+  "400005": {
+    "Id": 400005,
+    "MidGroupId": 10105,
+    "SortId": 5,
+    "ActivityType": 19,
+    "Name": "豪礼抛物线第1期",
+    "ActivityThemeType": 8,
+    "StartType": 2,
+    "StartTime": "2026-02-24T12:00:00+08:00",
+    "EndType": 2,
+    "EndTime": "2026-03-10T04:00:00+08:00",
+    "MiniGameRedDot": 1050304
   },
   "400006": {
     "Id": 400006,
@@ -406,6 +430,22 @@
     "EndTime": "2026-01-14T03:59:59+08:00",
     "EnterRes": "Icon/Banner/banner_avtivity_m",
     "TabBgRes": "Icon/Banner/tab_activity_jointdrill"
+  },
+  "510003": {
+    "Id": 510003,
+    "SortId": 4,
+    "ActivityType": 7,
+    "Name": "总力战正式III期",
+    "PreLimit": 1,
+    "LimitParam": "6",
+    "PlayCond": 1,
+    "PlayCondParams": "10",
+    "StartType": 2,
+    "StartTime": "2026-03-09T12:00:00+08:00",
+    "EndType": 2,
+    "EndTime": "2026-03-18T03:59:59+08:00",
+    "EnterRes": "Icon/Banner/banner_avtivity_m_2",
+    "TabBgRes": "Icon/Banner/tab_activity_jointdrill_2"
   },
   "600001": {
     "Id": 600001,
@@ -553,6 +593,28 @@
     "EndType": 2,
     "EndTime": "2026-03-10T04:00:00+08:00",
     "TabBgRes": "Icon/Banner/tab_activity_trial_141"
+  },
+  "700113": {
+    "Id": 700113,
+    "SortId": 7,
+    "ActivityType": 6,
+    "Name": "浅试身手-风影",
+    "StartType": 2,
+    "StartTime": "2026-02-24T12:00:00+08:00",
+    "EndType": 2,
+    "EndTime": "2026-03-17T10:59:59+08:00",
+    "TabBgRes": "Icon/Banner/tab_activity_trial_143"
+  },
+  "700114": {
+    "Id": 700114,
+    "SortId": 7,
+    "ActivityType": 6,
+    "Name": "浅试身手-密涅瓦",
+    "StartType": 2,
+    "StartTime": "2026-03-10T12:00:00+08:00",
+    "EndType": 2,
+    "EndTime": "2026-03-31T04:00:00+08:00",
+    "TabBgRes": "Icon/Banner/tab_activity_trial_132"
   },
   "1010001": {
     "Id": 1010001,
@@ -758,6 +820,20 @@
     "EndType": 2,
     "EndTime": "2026-02-03T10:59:59+08:00"
   },
+  "800001": {
+    "Id": 800001,
+    "ActivityType": 18,
+    "PreLimit": 1,
+    "LimitParam": "5",
+    "PlayCond": 1,
+    "PlayCondParams": "5",
+    "StartType": 2,
+    "StartTime": "2026-03-10T12:00:00+08:00",
+    "EndType": 2,
+    "EndTime": "2026-03-17T10:59:59+08:00",
+    "BannerRes": "banner_PengCard",
+    "TabBgRes": "Icon/Banner/tab_activity_PengCard"
+  },
   "1010401": {
     "Id": 1010401,
     "MidGroupId": 10104,
@@ -850,5 +926,49 @@
     "StartTime": "2026-02-17T12:00:00+08:00",
     "EndType": 2,
     "EndTime": "2026-02-27T03:59:59+08:00"
+  },
+  "1010501": {
+    "Id": 1010501,
+    "MidGroupId": 10105,
+    "ActivityType": 9,
+    "Name": "风影战斗关卡",
+    "ActivityThemeType": 8,
+    "StartType": 2,
+    "StartTime": "2026-02-24T12:00:00+08:00",
+    "EndType": 2,
+    "EndTime": "2026-03-10T04:00:00+08:00"
+  },
+  "1010502": {
+    "Id": 1010502,
+    "MidGroupId": 10105,
+    "ActivityType": 17,
+    "Name": "风影剧情故事",
+    "ActivityThemeType": 8,
+    "StartType": 2,
+    "StartTime": "2026-02-24T12:00:00+08:00",
+    "EndType": 2,
+    "EndTime": "2026-03-10T04:00:00+08:00"
+  },
+  "1010503": {
+    "Id": 1010503,
+    "MidGroupId": 10105,
+    "ActivityType": 11,
+    "Name": "风影活动任务",
+    "ActivityThemeType": 8,
+    "StartType": 2,
+    "StartTime": "2026-02-24T12:00:00+08:00",
+    "EndType": 2,
+    "EndTime": "2026-03-17T10:59:59+08:00"
+  },
+  "1010504": {
+    "Id": 1010504,
+    "MidGroupId": 10105,
+    "ActivityType": 12,
+    "Name": "风影活动商店",
+    "ActivityThemeType": 8,
+    "StartType": 2,
+    "StartTime": "2026-02-24T12:00:00+08:00",
+    "EndType": 2,
+    "EndTime": "2026-03-17T10:59:59+08:00"
   }
 }

@@ -1379,6 +1379,38 @@
     "Id": "Guide_232_1",
     "Text": "UIText.Guide_232_1.1"
   },
+  "Guide_301_1": {
+    "Id": "Guide_301_1",
+    "Text": "UIText.Guide_301_1.1"
+  },
+  "Guide_301_2": {
+    "Id": "Guide_301_2",
+    "Text": "UIText.Guide_301_2.1"
+  },
+  "Guide_301_3": {
+    "Id": "Guide_301_3",
+    "Text": "UIText.Guide_301_3.1"
+  },
+  "Guide_302_1": {
+    "Id": "Guide_302_1",
+    "Text": "UIText.Guide_302_1.1"
+  },
+  "Guide_302_2": {
+    "Id": "Guide_302_2",
+    "Text": "UIText.Guide_302_2.1"
+  },
+  "Guide_303_1": {
+    "Id": "Guide_303_1",
+    "Text": "UIText.Guide_303_1.1"
+  },
+  "Guide_303_2": {
+    "Id": "Guide_303_2",
+    "Text": "UIText.Guide_303_2.1"
+  },
+  "Guide_303_3": {
+    "Id": "Guide_303_3",
+    "Text": "UIText.Guide_303_3.1"
+  },
   "Infinity_OpenDay_Type1": {
     "Id": "Infinity_OpenDay_Type1",
     "Text": "UIText.Infinity_OpenDay_Type1.1"
@@ -1422,6 +1454,282 @@
   "Infinity_Clear": {
     "Id": "Infinity_Clear",
     "Text": "UIText.Infinity_Clear.1"
+  },
+  "PenguinCard_Btn_AddRound": {
+    "Id": "PenguinCard_Btn_AddRound",
+    "Text": "UIText.PenguinCard_Btn_AddRound.1"
+  },
+  "PenguinCard_Btn_AddSlot": {
+    "Id": "PenguinCard_Btn_AddSlot",
+    "Text": "UIText.PenguinCard_Btn_AddSlot.1"
+  },
+  "PenguinCard_Btn_AddRoll": {
+    "Id": "PenguinCard_Btn_AddRoll",
+    "Text": "UIText.PenguinCard_Btn_AddRoll.1"
+  },
+  "PenguinCard_AddBtnMax": {
+    "Id": "PenguinCard_AddBtnMax",
+    "Text": "UIText.PenguinCard_AddBtnMax.1"
+  },
+  "PenguinCard_Btn_Roll": {
+    "Id": "PenguinCard_Btn_Roll",
+    "Text": "UIText.PenguinCard_Btn_Roll.1"
+  },
+  "PenguinCard_Btn_RollSuffix": {
+    "Id": "PenguinCard_Btn_RollSuffix",
+    "Text": "UIText.PenguinCard_Btn_RollSuffix.1"
+  },
+  "PenguinCard_Btn_NextTurn": {
+    "Id": "PenguinCard_Btn_NextTurn",
+    "Text": "UIText.PenguinCard_Btn_NextTurn.1"
+  },
+  "PenguinCard_LeftTurn": {
+    "Id": "PenguinCard_LeftTurn",
+    "Text": "UIText.PenguinCard_LeftTurn.1"
+  },
+  "PenguinCard_LeftRound": {
+    "Id": "PenguinCard_LeftRound",
+    "Text": "UIText.PenguinCard_LeftRound.1"
+  },
+  "PenguinCard_FlipAllCardTip": {
+    "Id": "PenguinCard_FlipAllCardTip",
+    "Text": "UIText.PenguinCard_FlipAllCardTip.1"
+  },
+  "PenguinCard_Round_Score": {
+    "Id": "PenguinCard_Round_Score",
+    "Text": "UIText.PenguinCard_Round_Score.1"
+  },
+  "PenguinCard_Round_Base": {
+    "Id": "PenguinCard_Round_Base",
+    "Text": "UIText.PenguinCard_Round_Base.1"
+  },
+  "PenguinCard_Round_Ratio": {
+    "Id": "PenguinCard_Round_Ratio",
+    "Text": "UIText.PenguinCard_Round_Ratio.1"
+  },
+  "PenguinCard_Btn_FlipAll": {
+    "Id": "PenguinCard_Btn_FlipAll",
+    "Text": "UIText.PenguinCard_Btn_FlipAll.1"
+  },
+  "PenguinCard_CardLevel": {
+    "Id": "PenguinCard_CardLevel",
+    "Text": "UIText.PenguinCard_CardLevel.1"
+  },
+  "PenguinCard_Btn_NextRound": {
+    "Id": "PenguinCard_Btn_NextRound",
+    "Text": "UIText.PenguinCard_Btn_NextRound.1"
+  },
+  "PenguinCard_Btn_EndTurn": {
+    "Id": "PenguinCard_Btn_EndTurn",
+    "Text": "UIText.PenguinCard_Btn_EndTurn.1"
+  },
+  "PenguinCard_SelectCardTip": {
+    "Id": "PenguinCard_SelectCardTip",
+    "Text": "UIText.PenguinCard_SelectCardTip.1"
+  },
+  "PenguinCard_SelectCardDoneTip": {
+    "Id": "PenguinCard_SelectCardDoneTip",
+    "Text": "UIText.PenguinCard_SelectCardDoneTip.1"
+  },
+  "PenguinCard_Btn_Back": {
+    "Id": "PenguinCard_Btn_Back",
+    "Text": "UIText.PenguinCard_Btn_Back.1"
+  },
+  "PenguinCard_Btn_Upgrade": {
+    "Id": "PenguinCard_Btn_Upgrade",
+    "Text": "UIText.PenguinCard_Btn_Upgrade.1"
+  },
+  "PenguinCard_Btn_Select": {
+    "Id": "PenguinCard_Btn_Select",
+    "Text": "UIText.PenguinCard_Btn_Select.1"
+  },
+  "PenguinCard_Title_HandRank": {
+    "Id": "PenguinCard_Title_HandRank",
+    "Text": "UIText.PenguinCard_Title_HandRank.1"
+  },
+  "PenguinCard_Title_Pause": {
+    "Id": "PenguinCard_Title_Pause",
+    "Text": "UIText.PenguinCard_Title_Pause.1"
+  },
+  "PenguinCard_HandRank": {
+    "Id": "PenguinCard_HandRank",
+    "Text": "UIText.PenguinCard_HandRank.1"
+  },
+  "PenguinCard_HandRankBase": {
+    "Id": "PenguinCard_HandRankBase",
+    "Text": "UIText.PenguinCard_HandRankBase.1"
+  },
+  "PenguinCard_HandRankRatio": {
+    "Id": "PenguinCard_HandRankRatio",
+    "Text": "UIText.PenguinCard_HandRankRatio.1"
+  },
+  "PenguinCard_Btn_Giveup": {
+    "Id": "PenguinCard_Btn_Giveup",
+    "Text": "UIText.PenguinCard_Btn_Giveup.1"
+  },
+  "PenguinCard_Btn_Restart": {
+    "Id": "PenguinCard_Btn_Restart",
+    "Text": "UIText.PenguinCard_Btn_Restart.1"
+  },
+  "PenguinCard_Btn_Auto": {
+    "Id": "PenguinCard_Btn_Auto",
+    "Text": "UIText.PenguinCard_Btn_Auto.1"
+  },
+  "PenguinCard_Pause_Turn": {
+    "Id": "PenguinCard_Pause_Turn",
+    "Text": "UIText.PenguinCard_Pause_Turn.1"
+  },
+  "PenguinCard_Pause_StarTarget": {
+    "Id": "PenguinCard_Pause_StarTarget",
+    "Text": "UIText.PenguinCard_Pause_StarTarget.1"
+  },
+  "PenguinCard_Pause_TurnCount": {
+    "Id": "PenguinCard_Pause_TurnCount",
+    "Text": "UIText.PenguinCard_Pause_TurnCount.1"
+  },
+  "PenguinCard_Pause_LeftTurn": {
+    "Id": "PenguinCard_Pause_LeftTurn",
+    "Text": "UIText.PenguinCard_Pause_LeftTurn.1"
+  },
+  "PenguinCard_Pause_StarDesc": {
+    "Id": "PenguinCard_Pause_StarDesc",
+    "Text": "UIText.PenguinCard_Pause_StarDesc.1"
+  },
+  "PenguinCard_Result_NeedScore": {
+    "Id": "PenguinCard_Result_NeedScore",
+    "Text": "UIText.PenguinCard_Result_NeedScore.1"
+  },
+  "PenguinCard_Result_GetScore": {
+    "Id": "PenguinCard_Result_GetScore",
+    "Text": "UIText.PenguinCard_Result_GetScore.1"
+  },
+  "PenguinCard_Result_Statistics": {
+    "Id": "PenguinCard_Result_Statistics",
+    "Text": "UIText.PenguinCard_Result_Statistics.1"
+  },
+  "PenguinCard_Result_ClickClose": {
+    "Id": "PenguinCard_Result_ClickClose",
+    "Text": "UIText.PenguinCard_Result_ClickClose.1"
+  },
+  "PenguinCard_Result_TotalTurn": {
+    "Id": "PenguinCard_Result_TotalTurn",
+    "Text": "UIText.PenguinCard_Result_TotalTurn.1"
+  },
+  "PenguinCard_Result_TotalRound": {
+    "Id": "PenguinCard_Result_TotalRound",
+    "Text": "UIText.PenguinCard_Result_TotalRound.1"
+  },
+  "PenguinCard_Result_BestTurn": {
+    "Id": "PenguinCard_Result_BestTurn",
+    "Text": "UIText.PenguinCard_Result_BestTurn.1"
+  },
+  "PenguinCard_Result_BestRound": {
+    "Id": "PenguinCard_Result_BestRound",
+    "Text": "UIText.PenguinCard_Result_BestRound.1"
+  },
+  "PenguinCard_Result_MostHandRank": {
+    "Id": "PenguinCard_Result_MostHandRank",
+    "Text": "UIText.PenguinCard_Result_MostHandRank.1"
+  },
+  "PenguinCard_Result_MostSuit": {
+    "Id": "PenguinCard_Result_MostSuit",
+    "Text": "UIText.PenguinCard_Result_MostSuit.1"
+  },
+  "PenguinCard_Result_GetCardCount": {
+    "Id": "PenguinCard_Result_GetCardCount",
+    "Text": "UIText.PenguinCard_Result_GetCardCount.1"
+  },
+  "PenguinCard_Result_BestCard": {
+    "Id": "PenguinCard_Result_BestCard",
+    "Text": "UIText.PenguinCard_Result_BestCard.1"
+  },
+  "PenguinCard_Result_CountSuffix": {
+    "Id": "PenguinCard_Result_CountSuffix",
+    "Text": "UIText.PenguinCard_Result_CountSuffix.1"
+  },
+  "PenguinCard_Level_BestScore": {
+    "Id": "PenguinCard_Level_BestScore",
+    "Text": "UIText.PenguinCard_Level_BestScore.1"
+  },
+  "PenguinCard_Level_LockLevel": {
+    "Id": "PenguinCard_Level_LockLevel",
+    "Text": "UIText.PenguinCard_Level_LockLevel.1"
+  },
+  "PenguinCard_Btn_Quest": {
+    "Id": "PenguinCard_Btn_Quest",
+    "Text": "UIText.PenguinCard_Btn_Quest.1"
+  },
+  "PenguinCard_Title_Quest": {
+    "Id": "PenguinCard_Title_Quest",
+    "Text": "UIText.PenguinCard_Title_Quest.1"
+  },
+  "PenguinCard_Btn_GetAllReward": {
+    "Id": "PenguinCard_Btn_GetAllReward",
+    "Text": "UIText.PenguinCard_Btn_GetAllReward.1"
+  },
+  "PenguinCard_Quest_CurProcess": {
+    "Id": "PenguinCard_Quest_CurProcess",
+    "Text": "UIText.PenguinCard_Quest_CurProcess.1"
+  },
+  "PenguinCard_Quest_UnComplete": {
+    "Id": "PenguinCard_Quest_UnComplete",
+    "Text": "UIText.PenguinCard_Quest_UnComplete.1"
+  },
+  "PenguinCard_Btn_Receive": {
+    "Id": "PenguinCard_Btn_Receive",
+    "Text": "UIText.PenguinCard_Btn_Receive.1"
+  },
+  "PenguinCard_Tip_NotSelectedPenguinCard": {
+    "Id": "PenguinCard_Tip_NotSelectedPenguinCard",
+    "Text": "UIText.PenguinCard_Tip_NotSelectedPenguinCard.1"
+  },
+  "PenguinCard_Log_TurnCount": {
+    "Id": "PenguinCard_Log_TurnCount",
+    "Text": "UIText.PenguinCard_Log_TurnCount.1"
+  },
+  "PenguinCard_Log_TurnScore": {
+    "Id": "PenguinCard_Log_TurnScore",
+    "Text": "UIText.PenguinCard_Log_TurnScore.1"
+  },
+  "PenguinCard_Activity_Goto": {
+    "Id": "PenguinCard_Activity_Goto",
+    "Text": "UIText.PenguinCard_Activity_Goto.1"
+  },
+  "PenguinCard_SkipTips": {
+    "Id": "PenguinCard_SkipTips",
+    "Text": "UIText.PenguinCard_SkipTips.1"
+  },
+  "PenguinCard_Btn_Win": {
+    "Id": "PenguinCard_Btn_Win",
+    "Text": "UIText.PenguinCard_Btn_Win.1"
+  },
+  "PenguinCard_WinTip": {
+    "Id": "PenguinCard_WinTip",
+    "Text": "UIText.PenguinCard_WinTip.1"
+  },
+  "PenguinCard_Btn_ContinueTurn": {
+    "Id": "PenguinCard_Btn_ContinueTurn",
+    "Text": "UIText.PenguinCard_Btn_ContinueTurn.1"
+  },
+  "PenguinCard_NextRoundTip": {
+    "Id": "PenguinCard_NextRoundTip",
+    "Text": "UIText.PenguinCard_NextRoundTip.1"
+  },
+  "PenguinCard_EndTurnTip": {
+    "Id": "PenguinCard_EndTurnTip",
+    "Text": "UIText.PenguinCard_EndTurnTip.1"
+  },
+  "PenguinCard_Trigger_AddScore": {
+    "Id": "PenguinCard_Trigger_AddScore",
+    "Text": "UIText.PenguinCard_Trigger_AddScore.1"
+  },
+  "PenguinCard_Trigger_AddRatio": {
+    "Id": "PenguinCard_Trigger_AddRatio",
+    "Text": "UIText.PenguinCard_Trigger_AddRatio.1"
+  },
+  "PenguinCard_Trigger_MultiRatio": {
+    "Id": "PenguinCard_Trigger_MultiRatio",
+    "Text": "UIText.PenguinCard_Trigger_MultiRatio.1"
   },
   "OUTFIT_04": {
     "Id": "OUTFIT_04",
@@ -2498,6 +2806,10 @@
   "PenguinCard_AddSlotSuccess": {
     "Id": "PenguinCard_AddSlotSuccess",
     "Text": "UIText.PenguinCard_AddSlotSuccess.1"
+  },
+  "PenguinCard_Level_LockLevelTips": {
+    "Id": "PenguinCard_Level_LockLevelTips",
+    "Text": "UIText.PenguinCard_Level_LockLevelTips.1"
   },
   "Level_2_5_1": {
     "Id": "Level_2_5_1",
@@ -13775,6 +14087,14 @@
     "Id": "ThrowGift_TargetHint_Title",
     "Text": "UIText.ThrowGift_TargetHint_Title.1"
   },
+  "ThrowGift_Settle_RemainCount": {
+    "Id": "ThrowGift_Settle_RemainCount",
+    "Text": "UIText.ThrowGift_Settle_RemainCount.1"
+  },
+  "ThrowGift_GetCard": {
+    "Id": "ThrowGift_GetCard",
+    "Text": "UIText.ThrowGift_GetCard.1"
+  },
   "Affinity_Title": {
     "Id": "Affinity_Title",
     "Text": "UIText.Affinity_Title.1"
@@ -13782,5 +14102,29 @@
   "Affinity_Title_LevelUp": {
     "Id": "Affinity_Title_LevelUp",
     "Text": "UIText.Affinity_Title_LevelUp.1"
+  },
+  "Activity_MiniGame_ThrowGifts": {
+    "Id": "Activity_MiniGame_ThrowGifts",
+    "Text": "UIText.Activity_MiniGame_ThrowGifts.1"
+  },
+  "Activity_ThrowGifts_Win": {
+    "Id": "Activity_ThrowGifts_Win",
+    "Text": "UIText.Activity_ThrowGifts_Win.1"
+  },
+  "Activity_ThrowGifts_Fail": {
+    "Id": "Activity_ThrowGifts_Fail",
+    "Text": "UIText.Activity_ThrowGifts_Fail.1"
+  },
+  "Activity_ThrowGifts_WinCond": {
+    "Id": "Activity_ThrowGifts_WinCond",
+    "Text": "UIText.Activity_ThrowGifts_WinCond.1"
+  },
+  "Activity_ThrowGifts_BestScore": {
+    "Id": "Activity_ThrowGifts_BestScore",
+    "Text": "UIText.Activity_ThrowGifts_BestScore.1"
+  },
+  "Activity_ThrowGifts_Text_Pause": {
+    "Id": "Activity_ThrowGifts_Text_Pause",
+    "Text": "UIText.Activity_ThrowGifts_Text_Pause.1"
   }
 }

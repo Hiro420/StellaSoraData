@@ -12549,6 +12549,28 @@
     "ReplaceType": true,
     "ReplaceMode": true
   },
+  "14300012": {
+    "Id": 14300012,
+    "Sort": 1,
+    "Time": -10000,
+    "LaminatedNum": 1,
+    "Num": 1,
+    "TimeSuperposition": 2,
+    "Timing": 1,
+    "ReplaceType": true,
+    "ReplaceMode": true
+  },
+  "14300013": {
+    "Id": 14300013,
+    "Sort": 1,
+    "Time": -10000,
+    "LaminatedNum": 3,
+    "Num": 1,
+    "TimeSuperposition": 2,
+    "Timing": 1,
+    "ReplaceType": true,
+    "ReplaceMode": true
+  },
   "14301011": {
     "Id": 14301011,
     "Sort": 1,
@@ -15502,6 +15524,51 @@
     "Num": 1,
     "TimeSuperposition": 2,
     "Timing": 2,
+    "ReplaceMode": true
+  },
+  "631010001": {
+    "Id": 631010001,
+    "Name": "Boss自身伤害提升",
+    "Sort": 99,
+    "Effects": [
+      631010001
+    ],
+    "Time": -10000,
+    "LaminatedNum": 1,
+    "Num": 1,
+    "TimeSuperposition": 2,
+    "Timing": 2,
+    "ReplaceType": true,
+    "ReplaceMode": true
+  },
+  "631001002": {
+    "Id": 631001002,
+    "Name": "Boss受到角色普攻伤害提升",
+    "Sort": 99,
+    "Effects": [
+      631001002
+    ],
+    "Time": -10000,
+    "LaminatedNum": 1,
+    "Num": 1,
+    "TimeSuperposition": 2,
+    "Timing": 2,
+    "ReplaceType": true,
+    "ReplaceMode": true
+  },
+  "631001003": {
+    "Id": 631001003,
+    "Name": "Boss受到支援角色技能伤害提升",
+    "Sort": 99,
+    "Effects": [
+      631001003
+    ],
+    "Time": -10000,
+    "LaminatedNum": 1,
+    "Num": 1,
+    "TimeSuperposition": 2,
+    "Timing": 2,
+    "ReplaceType": true,
     "ReplaceMode": true
   },
   "100090310": {
@@ -18793,6 +18860,21 @@
     "ReplaceType": true,
     "ReplaceMode": true
   },
+  "720010000": {
+    "Id": 720010000,
+    "Sort": 1,
+    "Effects": [
+      720010001,
+      720010002
+    ],
+    "Time": 1500,
+    "LaminatedNum": 1,
+    "Num": 1,
+    "TimeSuperposition": 2,
+    "Timing": 2,
+    "ReplaceType": true,
+    "ReplaceMode": true
+  },
   "720010010": {
     "Id": 720010010,
     "Sort": 1,
@@ -18800,8 +18882,8 @@
       720010011,
       720010012
     ],
-    "Time": 5000,
-    "LaminatedNum": 20,
+    "Time": 1500,
+    "LaminatedNum": 1,
     "Num": 1,
     "TimeSuperposition": 2,
     "Timing": 2,
@@ -18815,8 +18897,127 @@
       720010021,
       720010022
     ],
-    "Time": 5000,
-    "LaminatedNum": 20,
+    "Time": 1500,
+    "LaminatedNum": 1,
+    "Num": 1,
+    "TimeSuperposition": 2,
+    "Timing": 2,
+    "ReplaceType": true,
+    "ReplaceMode": true
+  },
+  "720010030": {
+    "Id": 720010030,
+    "Sort": 1,
+    "Effects": [
+      720010031,
+      720010032
+    ],
+    "Time": 1500,
+    "LaminatedNum": 1,
+    "Num": 1,
+    "TimeSuperposition": 2,
+    "Timing": 2,
+    "ReplaceType": true,
+    "ReplaceMode": true
+  },
+  "720010040": {
+    "Id": 720010040,
+    "Sort": 1,
+    "Effects": [
+      720010041,
+      720010042
+    ],
+    "Time": 1500,
+    "LaminatedNum": 1,
+    "Num": 1,
+    "TimeSuperposition": 2,
+    "Timing": 2,
+    "ReplaceType": true,
+    "ReplaceMode": true
+  },
+  "720010050": {
+    "Id": 720010050,
+    "Sort": 1,
+    "Effects": [
+      720010051,
+      720010052
+    ],
+    "Time": 1500,
+    "LaminatedNum": 1,
+    "Num": 1,
+    "TimeSuperposition": 2,
+    "Timing": 2,
+    "ReplaceType": true,
+    "ReplaceMode": true
+  },
+  "720010060": {
+    "Id": 720010060,
+    "Sort": 1,
+    "Effects": [
+      720010061,
+      720010062
+    ],
+    "Time": 1500,
+    "LaminatedNum": 1,
+    "Num": 1,
+    "TimeSuperposition": 2,
+    "Timing": 2,
+    "ReplaceType": true,
+    "ReplaceMode": true
+  },
+  "720010070": {
+    "Id": 720010070,
+    "Sort": 1,
+    "Effects": [
+      720010071,
+      720010072
+    ],
+    "Time": 1500,
+    "LaminatedNum": 1,
+    "Num": 1,
+    "TimeSuperposition": 2,
+    "Timing": 2,
+    "ReplaceType": true,
+    "ReplaceMode": true
+  },
+  "720010080": {
+    "Id": 720010080,
+    "Sort": 1,
+    "Time": 1500,
+    "LaminatedNum": 1,
+    "Num": 1,
+    "TimeSuperposition": 2,
+    "Timing": 2,
+    "ReplaceType": true,
+    "ReplaceMode": true
+  },
+  "720010090": {
+    "Id": 720010090,
+    "Sort": 1,
+    "Time": 1500,
+    "LaminatedNum": 1,
+    "Num": 1,
+    "TimeSuperposition": 2,
+    "Timing": 2,
+    "ReplaceType": true,
+    "ReplaceMode": true
+  },
+  "720010100": {
+    "Id": 720010100,
+    "Sort": 1,
+    "Time": -10000,
+    "LaminatedNum": 1,
+    "Num": 1,
+    "TimeSuperposition": 2,
+    "Timing": 2,
+    "ReplaceType": true,
+    "ReplaceMode": true
+  },
+  "720010110": {
+    "Id": 720010110,
+    "Sort": 1,
+    "Time": -10000,
+    "LaminatedNum": 1,
     "Num": 1,
     "TimeSuperposition": 2,
     "Timing": 2,
@@ -31936,6 +32137,594 @@
     ],
     "Time": 50000,
     "LaminatedNum": 1,
+    "Num": 1,
+    "TimeSuperposition": 2,
+    "Timing": 1,
+    "ReplaceType": true,
+    "ReplaceMode": true
+  },
+  "4016000": {
+    "Id": 4016000,
+    "Name": "【标识buff】浮雪",
+    "Sort": 1,
+    "Time": 100000,
+    "LaminatedNum": 3,
+    "Num": 1,
+    "TimeSuperposition": 2,
+    "Timing": 1,
+    "ReplaceType": true,
+    "ReplaceMode": true
+  },
+  "4016001": {
+    "Id": 4016001,
+    "Name": "【脚本buff】风系主控角色造成普攻伤害时，每层「浮雪」为目标附加：受到风系普攻伤害提升<color=#ec6d21>{1}</color>，持续{2}秒",
+    "Sort": 1,
+    "Effects": [
+      4016001
+    ],
+    "Time": 100000,
+    "LaminatedNum": 3,
+    "Num": 1,
+    "TimeSuperposition": 2,
+    "Timing": 1,
+    "ReplaceType": true,
+    "ReplaceMode": true
+  },
+  "4016002": {
+    "Id": 4016002,
+    "Name": "【脚本buff】风系主控角色造成普攻伤害时，每层「浮雪」为目标附加：受到风系普攻伤害提升<color=#ec6d21>{1}</color>，持续{2}秒",
+    "Sort": 1,
+    "Effects": [
+      4016002
+    ],
+    "Time": 100000,
+    "LaminatedNum": 3,
+    "Num": 1,
+    "TimeSuperposition": 2,
+    "Timing": 1,
+    "ReplaceType": true,
+    "ReplaceMode": true
+  },
+  "4016003": {
+    "Id": 4016003,
+    "Name": "【脚本buff】风系主控角色造成普攻伤害时，每层「浮雪」为目标附加：受到风系普攻伤害提升<color=#ec6d21>{1}</color>，持续{2}秒",
+    "Sort": 1,
+    "Effects": [
+      4016003
+    ],
+    "Time": 100000,
+    "LaminatedNum": 3,
+    "Num": 1,
+    "TimeSuperposition": 2,
+    "Timing": 1,
+    "ReplaceType": true,
+    "ReplaceMode": true
+  },
+  "4016004": {
+    "Id": 4016004,
+    "Name": "【脚本buff】风系主控角色造成普攻伤害时，每层「浮雪」为目标附加：受到风系普攻伤害提升<color=#ec6d21>{1}</color>，持续{2}秒",
+    "Sort": 1,
+    "Effects": [
+      4016004
+    ],
+    "Time": 100000,
+    "LaminatedNum": 3,
+    "Num": 1,
+    "TimeSuperposition": 2,
+    "Timing": 1,
+    "ReplaceType": true,
+    "ReplaceMode": true
+  },
+  "4016005": {
+    "Id": 4016005,
+    "Name": "【脚本buff】风系主控角色造成普攻伤害时，每层「浮雪」为目标附加：受到风系普攻伤害提升<color=#ec6d21>{1}</color>，持续{2}秒",
+    "Sort": 1,
+    "Effects": [
+      4016005
+    ],
+    "Time": 100000,
+    "LaminatedNum": 3,
+    "Num": 1,
+    "TimeSuperposition": 2,
+    "Timing": 1,
+    "ReplaceType": true,
+    "ReplaceMode": true
+  },
+  "4016006": {
+    "Id": 4016006,
+    "Name": "【脚本buff】风系主控角色造成普攻伤害时，每层「浮雪」为目标附加：受到风系普攻伤害提升<color=#ec6d21>{1}</color>，持续{2}秒",
+    "Sort": 1,
+    "Effects": [
+      4016006
+    ],
+    "Time": 100000,
+    "LaminatedNum": 3,
+    "Num": 1,
+    "TimeSuperposition": 2,
+    "Timing": 1,
+    "ReplaceType": true,
+    "ReplaceMode": true
+  },
+  "4016021": {
+    "Id": 4016021,
+    "Name": "【脚本buff】风系主控角色造成技能伤害时，每层「浮雪」为目标附加：受到风系技能伤害提升<color=#ec6d21>{3}</color>，持续{4}秒",
+    "Sort": 1,
+    "Effects": [
+      4016021
+    ],
+    "Time": 100000,
+    "LaminatedNum": 3,
+    "Num": 1,
+    "TimeSuperposition": 2,
+    "Timing": 1,
+    "ReplaceType": true,
+    "ReplaceMode": true
+  },
+  "4016022": {
+    "Id": 4016022,
+    "Name": "【脚本buff】风系主控角色造成技能伤害时，每层「浮雪」为目标附加：受到风系技能伤害提升<color=#ec6d21>{3}</color>，持续{4}秒",
+    "Sort": 1,
+    "Effects": [
+      4016022
+    ],
+    "Time": 100000,
+    "LaminatedNum": 3,
+    "Num": 1,
+    "TimeSuperposition": 2,
+    "Timing": 1,
+    "ReplaceType": true,
+    "ReplaceMode": true
+  },
+  "4016023": {
+    "Id": 4016023,
+    "Name": "【脚本buff】风系主控角色造成技能伤害时，每层「浮雪」为目标附加：受到风系技能伤害提升<color=#ec6d21>{3}</color>，持续{4}秒",
+    "Sort": 1,
+    "Effects": [
+      4016023
+    ],
+    "Time": 100000,
+    "LaminatedNum": 3,
+    "Num": 1,
+    "TimeSuperposition": 2,
+    "Timing": 1,
+    "ReplaceType": true,
+    "ReplaceMode": true
+  },
+  "4016024": {
+    "Id": 4016024,
+    "Name": "【脚本buff】风系主控角色造成技能伤害时，每层「浮雪」为目标附加：受到风系技能伤害提升<color=#ec6d21>{3}</color>，持续{4}秒",
+    "Sort": 1,
+    "Effects": [
+      4016024
+    ],
+    "Time": 100000,
+    "LaminatedNum": 3,
+    "Num": 1,
+    "TimeSuperposition": 2,
+    "Timing": 1,
+    "ReplaceType": true,
+    "ReplaceMode": true
+  },
+  "4016025": {
+    "Id": 4016025,
+    "Name": "【脚本buff】风系主控角色造成技能伤害时，每层「浮雪」为目标附加：受到风系技能伤害提升<color=#ec6d21>{3}</color>，持续{4}秒",
+    "Sort": 1,
+    "Effects": [
+      4016025
+    ],
+    "Time": 100000,
+    "LaminatedNum": 3,
+    "Num": 1,
+    "TimeSuperposition": 2,
+    "Timing": 1,
+    "ReplaceType": true,
+    "ReplaceMode": true
+  },
+  "4016026": {
+    "Id": 4016026,
+    "Name": "【脚本buff】风系主控角色造成技能伤害时，每层「浮雪」为目标附加：受到风系技能伤害提升<color=#ec6d21>{3}</color>，持续{4}秒",
+    "Sort": 1,
+    "Effects": [
+      4016026
+    ],
+    "Time": 100000,
+    "LaminatedNum": 3,
+    "Num": 1,
+    "TimeSuperposition": 2,
+    "Timing": 1,
+    "ReplaceType": true,
+    "ReplaceMode": true
+  },
+  "4016121": {
+    "Id": 4016121,
+    "Name": "【脚本buff】「浮雪」获得额外效果：普攻暴击伤害提升<color=#ec6d21>{1}</color>。",
+    "Sort": 1,
+    "Effects": [
+      4016121
+    ],
+    "Time": 100000,
+    "LaminatedNum": 3,
+    "Num": 1,
+    "TimeSuperposition": 2,
+    "Timing": 1,
+    "ReplaceType": true,
+    "ReplaceMode": true
+  },
+  "4016122": {
+    "Id": 4016122,
+    "Name": "【脚本buff】「浮雪」获得额外效果：普攻暴击伤害提升<color=#ec6d21>{1}</color>。",
+    "Sort": 1,
+    "Effects": [
+      4016122
+    ],
+    "Time": 100000,
+    "LaminatedNum": 3,
+    "Num": 1,
+    "TimeSuperposition": 2,
+    "Timing": 1,
+    "ReplaceType": true,
+    "ReplaceMode": true
+  },
+  "4016123": {
+    "Id": 4016123,
+    "Name": "【脚本buff】「浮雪」获得额外效果：普攻暴击伤害提升<color=#ec6d21>{1}</color>。",
+    "Sort": 1,
+    "Effects": [
+      4016123
+    ],
+    "Time": 100000,
+    "LaminatedNum": 3,
+    "Num": 1,
+    "TimeSuperposition": 2,
+    "Timing": 1,
+    "ReplaceType": true,
+    "ReplaceMode": true
+  },
+  "4016124": {
+    "Id": 4016124,
+    "Name": "【脚本buff】「浮雪」获得额外效果：普攻暴击伤害提升<color=#ec6d21>{1}</color>。",
+    "Sort": 1,
+    "Effects": [
+      4016124
+    ],
+    "Time": 100000,
+    "LaminatedNum": 3,
+    "Num": 1,
+    "TimeSuperposition": 2,
+    "Timing": 1,
+    "ReplaceType": true,
+    "ReplaceMode": true
+  },
+  "4016125": {
+    "Id": 4016125,
+    "Name": "【脚本buff】「浮雪」获得额外效果：普攻暴击伤害提升<color=#ec6d21>{1}</color>。",
+    "Sort": 1,
+    "Effects": [
+      4016125
+    ],
+    "Time": 100000,
+    "LaminatedNum": 3,
+    "Num": 1,
+    "TimeSuperposition": 2,
+    "Timing": 1,
+    "ReplaceType": true,
+    "ReplaceMode": true
+  },
+  "4016201": {
+    "Id": 4016201,
+    "Name": "【脚本buff】「浮雪」获得额外效果：技能伤害提升<color=#ec6d21>{1}</color>。",
+    "Sort": 1,
+    "Effects": [
+      4016201
+    ],
+    "Time": 100000,
+    "LaminatedNum": 3,
+    "Num": 1,
+    "TimeSuperposition": 2,
+    "Timing": 1,
+    "ReplaceType": true,
+    "ReplaceMode": true
+  },
+  "4016202": {
+    "Id": 4016202,
+    "Name": "【脚本buff】「浮雪」获得额外效果：技能伤害提升<color=#ec6d21>{1}</color>。",
+    "Sort": 1,
+    "Effects": [
+      4016202
+    ],
+    "Time": 100000,
+    "LaminatedNum": 3,
+    "Num": 1,
+    "TimeSuperposition": 2,
+    "Timing": 1,
+    "ReplaceType": true,
+    "ReplaceMode": true
+  },
+  "4016203": {
+    "Id": 4016203,
+    "Name": "【脚本buff】「浮雪」获得额外效果：技能伤害提升<color=#ec6d21>{1}</color>。",
+    "Sort": 1,
+    "Effects": [
+      4016203
+    ],
+    "Time": 100000,
+    "LaminatedNum": 3,
+    "Num": 1,
+    "TimeSuperposition": 2,
+    "Timing": 1,
+    "ReplaceType": true,
+    "ReplaceMode": true
+  },
+  "4016204": {
+    "Id": 4016204,
+    "Name": "【脚本buff】「浮雪」获得额外效果：技能伤害提升<color=#ec6d21>{1}</color>。",
+    "Sort": 1,
+    "Effects": [
+      4016204
+    ],
+    "Time": 100000,
+    "LaminatedNum": 3,
+    "Num": 1,
+    "TimeSuperposition": 2,
+    "Timing": 1,
+    "ReplaceType": true,
+    "ReplaceMode": true
+  },
+  "4016205": {
+    "Id": 4016205,
+    "Name": "【脚本buff】「浮雪」获得额外效果：技能伤害提升<color=#ec6d21>{1}</color>。",
+    "Sort": 1,
+    "Effects": [
+      4016205
+    ],
+    "Time": 100000,
+    "LaminatedNum": 3,
+    "Num": 1,
+    "TimeSuperposition": 2,
+    "Timing": 1,
+    "ReplaceType": true,
+    "ReplaceMode": true
+  },
+  "4046001": {
+    "Id": 4046001,
+    "Name": "【标识buff】凌寒",
+    "Sort": 1,
+    "Effects": [
+      4046021,
+      4046041
+    ],
+    "Time": 250000,
+    "LaminatedNum": 10,
+    "Num": 1,
+    "TimeSuperposition": 2,
+    "Timing": 1,
+    "ReplaceType": true,
+    "ReplaceMode": true
+  },
+  "4046002": {
+    "Id": 4046002,
+    "Name": "【标识buff】凌寒",
+    "Sort": 1,
+    "Effects": [
+      4046022,
+      4046042
+    ],
+    "Time": 250000,
+    "LaminatedNum": 10,
+    "Num": 1,
+    "TimeSuperposition": 2,
+    "Timing": 1,
+    "ReplaceType": true,
+    "ReplaceMode": true
+  },
+  "4046003": {
+    "Id": 4046003,
+    "Name": "【标识buff】凌寒",
+    "Sort": 1,
+    "Effects": [
+      4046023,
+      4046043
+    ],
+    "Time": 250000,
+    "LaminatedNum": 10,
+    "Num": 1,
+    "TimeSuperposition": 2,
+    "Timing": 1,
+    "ReplaceType": true,
+    "ReplaceMode": true
+  },
+  "4046004": {
+    "Id": 4046004,
+    "Name": "【标识buff】凌寒",
+    "Sort": 1,
+    "Effects": [
+      4046024,
+      4046044
+    ],
+    "Time": 250000,
+    "LaminatedNum": 10,
+    "Num": 1,
+    "TimeSuperposition": 2,
+    "Timing": 1,
+    "ReplaceType": true,
+    "ReplaceMode": true
+  },
+  "4046005": {
+    "Id": 4046005,
+    "Name": "【标识buff】凌寒",
+    "Sort": 1,
+    "Effects": [
+      4046025,
+      4046045
+    ],
+    "Time": 250000,
+    "LaminatedNum": 10,
+    "Num": 1,
+    "TimeSuperposition": 2,
+    "Timing": 1,
+    "ReplaceType": true,
+    "ReplaceMode": true
+  },
+  "4046006": {
+    "Id": 4046006,
+    "Name": "【标识buff】凌寒",
+    "Sort": 1,
+    "Effects": [
+      4046026,
+      4046046
+    ],
+    "Time": 250000,
+    "LaminatedNum": 10,
+    "Num": 1,
+    "TimeSuperposition": 2,
+    "Timing": 1,
+    "ReplaceType": true,
+    "ReplaceMode": true
+  },
+  "4046121": {
+    "Id": 4046121,
+    "Name": "【脚本buff】「凌寒」获得额外效果：每层攻击力提升<color=#ec6d21>{1}</color>。",
+    "Sort": 1,
+    "Effects": [
+      4046121
+    ],
+    "Time": 250000,
+    "LaminatedNum": 10,
+    "Num": 1,
+    "TimeSuperposition": 2,
+    "Timing": 1,
+    "ReplaceType": true,
+    "ReplaceMode": true
+  },
+  "4046122": {
+    "Id": 4046122,
+    "Name": "【脚本buff】「凌寒」获得额外效果：每层攻击力提升<color=#ec6d21>{1}</color>。",
+    "Sort": 1,
+    "Effects": [
+      4046122
+    ],
+    "Time": 250000,
+    "LaminatedNum": 10,
+    "Num": 1,
+    "TimeSuperposition": 2,
+    "Timing": 1,
+    "ReplaceType": true,
+    "ReplaceMode": true
+  },
+  "4046123": {
+    "Id": 4046123,
+    "Name": "【脚本buff】「凌寒」获得额外效果：每层攻击力提升<color=#ec6d21>{1}</color>。",
+    "Sort": 1,
+    "Effects": [
+      4046123
+    ],
+    "Time": 250000,
+    "LaminatedNum": 10,
+    "Num": 1,
+    "TimeSuperposition": 2,
+    "Timing": 1,
+    "ReplaceType": true,
+    "ReplaceMode": true
+  },
+  "4046124": {
+    "Id": 4046124,
+    "Name": "【脚本buff】「凌寒」获得额外效果：每层攻击力提升<color=#ec6d21>{1}</color>。",
+    "Sort": 1,
+    "Effects": [
+      4046124
+    ],
+    "Time": 250000,
+    "LaminatedNum": 10,
+    "Num": 1,
+    "TimeSuperposition": 2,
+    "Timing": 1,
+    "ReplaceType": true,
+    "ReplaceMode": true
+  },
+  "4046125": {
+    "Id": 4046125,
+    "Name": "【脚本buff】「凌寒」获得额外效果：每层攻击力提升<color=#ec6d21>{1}</color>。",
+    "Sort": 1,
+    "Effects": [
+      4046125
+    ],
+    "Time": 250000,
+    "LaminatedNum": 10,
+    "Num": 1,
+    "TimeSuperposition": 2,
+    "Timing": 1,
+    "ReplaceType": true,
+    "ReplaceMode": true
+  },
+  "4046201": {
+    "Id": 4046201,
+    "Name": "【脚本buff】「凌寒」获得额外效果：每层风系伤害提升<color=#ec6d21>{1}</color>。",
+    "Sort": 1,
+    "Effects": [
+      4046201
+    ],
+    "Time": 250000,
+    "LaminatedNum": 10,
+    "Num": 1,
+    "TimeSuperposition": 2,
+    "Timing": 1,
+    "ReplaceType": true,
+    "ReplaceMode": true
+  },
+  "4046202": {
+    "Id": 4046202,
+    "Name": "【脚本buff】「凌寒」获得额外效果：每层风系伤害提升<color=#ec6d21>{1}</color>。",
+    "Sort": 1,
+    "Effects": [
+      4046202
+    ],
+    "Time": 250000,
+    "LaminatedNum": 10,
+    "Num": 1,
+    "TimeSuperposition": 2,
+    "Timing": 1,
+    "ReplaceType": true,
+    "ReplaceMode": true
+  },
+  "4046203": {
+    "Id": 4046203,
+    "Name": "【脚本buff】「凌寒」获得额外效果：每层风系伤害提升<color=#ec6d21>{1}</color>。",
+    "Sort": 1,
+    "Effects": [
+      4046203
+    ],
+    "Time": 250000,
+    "LaminatedNum": 10,
+    "Num": 1,
+    "TimeSuperposition": 2,
+    "Timing": 1,
+    "ReplaceType": true,
+    "ReplaceMode": true
+  },
+  "4046204": {
+    "Id": 4046204,
+    "Name": "【脚本buff】「凌寒」获得额外效果：每层风系伤害提升<color=#ec6d21>{1}</color>。",
+    "Sort": 1,
+    "Effects": [
+      4046204
+    ],
+    "Time": 250000,
+    "LaminatedNum": 10,
+    "Num": 1,
+    "TimeSuperposition": 2,
+    "Timing": 1,
+    "ReplaceType": true,
+    "ReplaceMode": true
+  },
+  "4046205": {
+    "Id": 4046205,
+    "Name": "【脚本buff】「凌寒」获得额外效果：每层风系伤害提升<color=#ec6d21>{1}</color>。",
+    "Sort": 1,
+    "Effects": [
+      4046205
+    ],
+    "Time": 250000,
+    "LaminatedNum": 10,
     "Num": 1,
     "TimeSuperposition": 2,
     "Timing": 1,

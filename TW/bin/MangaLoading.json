@@ -284,13 +284,20 @@
     "Source": "Icon/Loading/loading_comic_42",
     "Title": "MangaLoading.42.1",
     "ConditionType": 1,
-    "Weight": 400
+    "Weight": 100
   },
   "43": {
     "Id": 43,
     "Source": "Icon/Loading/loading_comic_43",
     "Title": "MangaLoading.43.1",
     "ConditionType": 1,
-    "Weight": 400
+    "Weight": 100
+  },
+  "44": {
+    "Id": 44,
+    "Source": "Icon/Loading/loading_comic_44",
+    "Title": "MangaLoading.44.1",
+    "ConditionType": 1,
+    "Weight": 500
   }
 }

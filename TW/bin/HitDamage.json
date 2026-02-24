@@ -39429,7 +39429,7 @@
   "143000001": {
     "Id": 143000001,
     "levelTypeData": 4,
-    "HitdamageInfo": "???",
+    "HitdamageInfo": "风印记触发/气旋多段伤害",
     "DistanceType": 2,
     "SourceType": 1,
     "DamageType": 5,
@@ -39481,7 +39481,7 @@
     "Id": 143100001,
     "levelTypeData": 3,
     "LevelData": 5,
-    "HitdamageInfo": "???",
+    "HitdamageInfo": "远程普攻/子弹",
     "DistanceType": 2,
     "SourceType": 1,
     "DamageType": 1,
@@ -39494,19 +39494,19 @@
     ],
     "DamageBonusType": 1,
     "SkillPercentAmend": [
-      590000,
-      670000,
-      760000,
+      540000,
+      620000,
+      700000,
+      940000,
       1020000,
-      1110000,
-      1190000,
-      1350000,
-      1420000,
-      1490000,
-      1630000,
-      1750000,
-      1870000,
-      1980000
+      1090000,
+      1240000,
+      1310000,
+      1370000,
+      1500000,
+      1610000,
+      1720000,
+      1830000
     ],
     "SkillAbsAmend": [
       0,
@@ -39523,7 +39523,7 @@
       0,
       0
     ],
-    "EnergyCharge": 18800,
+    "EnergyCharge": 10200,
     "TalentPercentAmend": [
       0,
       0,
@@ -39545,7 +39545,7 @@
     "Id": 143100002,
     "levelTypeData": 3,
     "LevelData": 5,
-    "HitdamageInfo": "???",
+    "HitdamageInfo": "远程普攻/激光",
     "DistanceType": 2,
     "SourceType": 1,
     "DamageType": 1,
@@ -39558,19 +39558,19 @@
     ],
     "DamageBonusType": 1,
     "SkillPercentAmend": [
-      241000,
-      277000,
-      313000,
-      421000,
-      455000,
-      489000,
-      556000,
-      585000,
-      614000,
-      671000,
-      720000,
-      768000,
-      816000
+      221000,
+      255000,
+      288000,
+      387000,
+      418000,
+      449000,
+      511000,
+      538000,
+      565000,
+      618000,
+      662000,
+      706000,
+      751000
     ],
     "SkillAbsAmend": [
       0,
@@ -39587,7 +39587,7 @@
       0,
       0
     ],
-    "EnergyCharge": 14600,
+    "EnergyCharge": 51100,
     "TalentPercentAmend": [
       0,
       0,
@@ -39609,7 +39609,7 @@
     "Id": 143100003,
     "levelTypeData": 3,
     "LevelData": 5,
-    "HitdamageInfo": "???",
+    "HitdamageInfo": "近战普攻1",
     "DistanceType": 1,
     "SourceType": 1,
     "DamageType": 1,
@@ -39621,19 +39621,19 @@
     ],
     "DamageBonusType": 1,
     "SkillPercentAmend": [
-      283000,
-      326000,
-      368000,
-      496000,
-      535000,
-      575000,
-      654000,
-      688000,
-      722000,
-      790000,
-      847000,
-      903000,
-      960000
+      261000,
+      300000,
+      339000,
+      456000,
+      492000,
+      529000,
+      602000,
+      633000,
+      664000,
+      727000,
+      779000,
+      831000,
+      883000
     ],
     "SkillAbsAmend": [
       0,
@@ -39650,7 +39650,7 @@
       0,
       0
     ],
-    "EnergyCharge": 10100,
+    "EnergyCharge": 24900,
     "TalentPercentAmend": [
       0,
       0,
@@ -39672,7 +39672,7 @@
     "Id": 143100004,
     "levelTypeData": 3,
     "LevelData": 5,
-    "HitdamageInfo": "???",
+    "HitdamageInfo": "近战普攻2",
     "DistanceType": 1,
     "SourceType": 1,
     "DamageType": 1,
@@ -39684,19 +39684,19 @@
     ],
     "DamageBonusType": 1,
     "SkillPercentAmend": [
-      330000,
-      380000,
-      430000,
-      580000,
+      300000,
+      350000,
+      400000,
+      530000,
+      570000,
       620000,
-      670000,
-      760000,
-      800000,
-      840000,
-      920000,
-      990000,
-      1050000,
-      1120000
+      700000,
+      740000,
+      770000,
+      850000,
+      910000,
+      970000,
+      1030000
     ],
     "SkillAbsAmend": [
       0,
@@ -39713,7 +39713,7 @@
       0,
       0
     ],
-    "EnergyCharge": 11700,
+    "EnergyCharge": 24900,
     "TalentPercentAmend": [
       0,
       0,
@@ -39735,7 +39735,7 @@
     "Id": 143100005,
     "levelTypeData": 3,
     "LevelData": 5,
-    "HitdamageInfo": "???",
+    "HitdamageInfo": "近战普攻3/3连击",
     "DistanceType": 1,
     "SourceType": 1,
     "DamageType": 1,
@@ -39747,19 +39747,19 @@
     ],
     "DamageBonusType": 1,
     "SkillPercentAmend": [
-      245000,
-      282000,
-      319000,
-      429000,
-      464000,
-      498000,
-      567000,
-      596000,
-      625000,
-      684000,
-      733000,
-      783000,
-      832000
+      226000,
+      260000,
+      294000,
+      395000,
+      427000,
+      458000,
+      522000,
+      549000,
+      576000,
+      630000,
+      675000,
+      720000,
+      765000
     ],
     "SkillAbsAmend": [
       0,
@@ -39776,7 +39776,7 @@
       0,
       0
     ],
-    "EnergyCharge": 8700,
+    "EnergyCharge": 8300,
     "TalentPercentAmend": [
       0,
       0,
@@ -39798,7 +39798,7 @@
     "Id": 143100006,
     "levelTypeData": 3,
     "LevelData": 5,
-    "HitdamageInfo": "???",
+    "HitdamageInfo": "近战普攻4/4连击",
     "DistanceType": 1,
     "SourceType": 1,
     "DamageType": 1,
@@ -39810,19 +39810,19 @@
     ],
     "DamageBonusType": 1,
     "SkillPercentAmend": [
-      236000,
-      271000,
-      307000,
-      413000,
-      446000,
-      479000,
-      545000,
-      573000,
-      602000,
-      658000,
-      705000,
-      753000,
-      800000
+      217000,
+      250000,
+      282000,
+      380000,
+      410000,
+      441000,
+      502000,
+      528000,
+      554000,
+      606000,
+      649000,
+      692000,
+      736000
     ],
     "SkillAbsAmend": [
       0,
@@ -39839,7 +39839,7 @@
       0,
       0
     ],
-    "EnergyCharge": 8400,
+    "EnergyCharge": 6200,
     "TalentPercentAmend": [
       0,
       0,
@@ -39861,7 +39861,7 @@
     "Id": 143100007,
     "levelTypeData": 3,
     "LevelData": 5,
-    "HitdamageInfo": "???",
+    "HitdamageInfo": "近战普攻5/3连击",
     "DistanceType": 1,
     "SourceType": 1,
     "DamageType": 1,
@@ -39873,19 +39873,19 @@
     ],
     "DamageBonusType": 1,
     "SkillPercentAmend": [
-      245000,
-      282000,
-      319000,
-      429000,
-      464000,
-      498000,
-      567000,
-      596000,
-      625000,
-      684000,
-      733000,
-      783000,
-      832000
+      226000,
+      260000,
+      294000,
+      395000,
+      427000,
+      458000,
+      522000,
+      549000,
+      576000,
+      630000,
+      675000,
+      720000,
+      765000
     ],
     "SkillAbsAmend": [
       0,
@@ -39902,7 +39902,7 @@
       0,
       0
     ],
-    "EnergyCharge": 8700,
+    "EnergyCharge": 8300,
     "TalentPercentAmend": [
       0,
       0,
@@ -39924,7 +39924,7 @@
     "Id": 143100008,
     "levelTypeData": 3,
     "LevelData": 5,
-    "HitdamageInfo": "???",
+    "HitdamageInfo": "近战普攻6/远程剑气",
     "DistanceType": 1,
     "SourceType": 1,
     "DamageType": 1,
@@ -39936,19 +39936,19 @@
     ],
     "DamageBonusType": 1,
     "SkillPercentAmend": [
-      1070000,
-      1230000,
-      1390000,
-      1880000,
-      2030000,
-      2180000,
-      2480000,
-      2610000,
-      2730000,
-      2990000,
-      3210000,
-      3420000,
-      3640000
+      990000,
+      1130000,
+      1280000,
+      1730000,
+      1860000,
+      2000000,
+      2280000,
+      2400000,
+      2520000,
+      2750000,
+      2950000,
+      3150000,
+      3340000
     ],
     "SkillAbsAmend": [
       0,
@@ -39965,7 +39965,7 @@
       0,
       0
     ],
-    "EnergyCharge": 41900,
+    "EnergyCharge": 24900,
     "TalentPercentAmend": [
       0,
       0,
@@ -39988,7 +39988,7 @@
     "levelTypeData": 3,
     "LevelData": 2,
     "MainOrSupport": 1,
-    "HitdamageInfo": "???",
+    "HitdamageInfo": "主控技/近战斩击",
     "DistanceType": 1,
     "SourceType": 1,
     "DamageType": 2,
@@ -40000,19 +40000,19 @@
     ],
     "DamageBonusType": 1,
     "SkillPercentAmend": [
-      600000,
-      690000,
-      780000,
-      1050000,
+      490000,
+      570000,
+      640000,
+      860000,
+      930000,
+      1000000,
       1140000,
-      1220000,
-      1390000,
-      1460000,
-      1540000,
-      1680000,
-      1800000,
-      1920000,
-      2040000
+      1200000,
+      1260000,
+      1370000,
+      1470000,
+      1570000,
+      1670000
     ],
     "SkillAbsAmend": [
       0,
@@ -40052,7 +40052,7 @@
     "levelTypeData": 3,
     "LevelData": 2,
     "MainOrSupport": 1,
-    "HitdamageInfo": "???",
+    "HitdamageInfo": "主控技/远程子弹攻击",
     "DistanceType": 2,
     "SourceType": 1,
     "DamageType": 2,
@@ -40065,19 +40065,19 @@
     ],
     "DamageBonusType": 1,
     "SkillPercentAmend": [
-      780000,
+      690000,
+      800000,
       900000,
-      1010000,
-      1360000,
-      1470000,
-      1580000,
-      1800000,
-      1890000,
-      1990000,
-      2170000,
-      2330000,
-      2490000,
-      2640000
+      1210000,
+      1310000,
+      1410000,
+      1600000,
+      1680000,
+      1770000,
+      1930000,
+      2070000,
+      2210000,
+      2350000
     ],
     "SkillAbsAmend": [
       0,
@@ -40117,7 +40117,7 @@
     "levelTypeData": 3,
     "LevelData": 2,
     "MainOrSupport": 1,
-    "HitdamageInfo": "???",
+    "HitdamageInfo": "主控/潜能1和2/小旋风伤害",
     "DistanceType": 2,
     "SourceType": 1,
     "DamageType": 1,
@@ -40128,19 +40128,19 @@
     ],
     "DamageBonusType": 1,
     "SkillPercentAmend": [
-      294000,
-      338000,
-      382000,
-      514000,
-      555000,
-      596000,
-      678000,
-      713000,
-      749000,
-      819000,
-      878000,
-      936000,
-      995000
+      270000,
+      311000,
+      351000,
+      473000,
+      510000,
+      548000,
+      624000,
+      656000,
+      689000,
+      753000,
+      807000,
+      861000,
+      915000
     ],
     "SkillAbsAmend": [
       0,
@@ -40179,7 +40179,7 @@
     "levelTypeData": 1,
     "LevelData": 514310,
     "MainOrSupport": 1,
-    "HitdamageInfo": "???",
+    "HitdamageInfo": "主控/潜能10/远程普攻产生激光伤害",
     "DistanceType": 2,
     "SourceType": 1,
     "DamageType": 2,
@@ -40237,7 +40237,7 @@
     "levelTypeData": 3,
     "LevelData": 2,
     "MainOrSupport": 2,
-    "HitdamageInfo": "???",
+    "HitdamageInfo": "支援技/翻滚斩击",
     "DistanceType": 2,
     "SourceType": 1,
     "DamageType": 2,
@@ -40302,7 +40302,7 @@
     "levelTypeData": 3,
     "LevelData": 2,
     "MainOrSupport": 2,
-    "HitdamageInfo": "???",
+    "HitdamageInfo": "支援技/射击爆炸",
     "DistanceType": 2,
     "SourceType": 1,
     "DamageType": 2,
@@ -40367,7 +40367,7 @@
     "levelTypeData": 3,
     "LevelData": 2,
     "MainOrSupport": 2,
-    "HitdamageInfo": "???",
+    "HitdamageInfo": "支援技/潜能21旋风伤害",
     "DistanceType": 2,
     "SourceType": 1,
     "DamageType": 2,
@@ -40430,7 +40430,7 @@
     "levelTypeData": 3,
     "LevelData": 2,
     "MainOrSupport": 2,
-    "HitdamageInfo": "???",
+    "HitdamageInfo": "支援技/潜能22地裂伤害",
     "DistanceType": 2,
     "SourceType": 1,
     "DamageType": 2,
@@ -40493,7 +40493,7 @@
     "levelTypeData": 3,
     "LevelData": 2,
     "MainOrSupport": 2,
-    "HitdamageInfo": "???",
+    "HitdamageInfo": "支援技/潜能23额外挥斩",
     "DistanceType": 2,
     "SourceType": 1,
     "DamageType": 2,
@@ -40557,7 +40557,7 @@
     "Id": 143310007,
     "levelTypeData": 1,
     "LevelData": 514332,
-    "HitdamageInfo": "???",
+    "HitdamageInfo": "支援技/潜能32队友产生龙卷风",
     "DistanceType": 2,
     "SourceType": 1,
     "DamageType": 2,
@@ -40611,7 +40611,7 @@
     "Id": 143310008,
     "levelTypeData": 1,
     "LevelData": 514325,
-    "HitdamageInfo": "???",
+    "HitdamageInfo": "支援技/潜能25额外伤害",
     "DistanceType": 2,
     "SourceType": 1,
     "DamageType": 2,
@@ -40668,7 +40668,7 @@
     "Id": 143400001,
     "levelTypeData": 3,
     "LevelData": 4,
-    "HitdamageInfo": "???",
+    "HitdamageInfo": "绝招/高速闪身攻击",
     "DistanceType": 2,
     "SourceType": 1,
     "DamageType": 3,
@@ -40679,19 +40679,19 @@
     ],
     "DamageBonusType": 1,
     "SkillPercentAmend": [
-      250000,
-      288000,
-      325000,
-      438000,
-      473000,
-      508000,
-      578000,
-      608000,
-      638000,
-      698000,
-      748000,
-      798000,
-      848000
+      310000,
+      350000,
+      400000,
+      540000,
+      580000,
+      620000,
+      710000,
+      750000,
+      780000,
+      860000,
+      920000,
+      980000,
+      1040000
     ],
     "SkillAbsAmend": [
       0,
@@ -40729,7 +40729,7 @@
     "Id": 143400002,
     "levelTypeData": 3,
     "LevelData": 4,
-    "HitdamageInfo": "???",
+    "HitdamageInfo": "绝招/领域消散攻击",
     "DistanceType": 2,
     "SourceType": 1,
     "DamageType": 3,
@@ -40740,19 +40740,19 @@
     ],
     "DamageBonusType": 1,
     "SkillPercentAmend": [
-      5160000,
-      5930000,
-      6710000,
-      9030000,
-      9750000,
-      10470000,
-      11910000,
-      12530000,
-      13150000,
-      14390000,
-      15420000,
-      16450000,
-      17490000
+      6330000,
+      7280000,
+      8230000,
+      11070000,
+      11960000,
+      12840000,
+      14620000,
+      15380000,
+      16130000,
+      17650000,
+      18920000,
+      20180000,
+      21450000
     ],
     "SkillAbsAmend": [
       0,
@@ -64891,7 +64891,7 @@
     "EffectType": 1,
     "DamageBonusType": 1,
     "SkillPercentAmend": [
-      1000000,
+      1080000,
       0
     ],
     "SkillAbsAmend": [
@@ -64909,7 +64909,7 @@
     "EffectType": 1,
     "DamageBonusType": 1,
     "SkillPercentAmend": [
-      1000000,
+      1100000,
       0
     ],
     "SkillAbsAmend": [
@@ -64927,7 +64927,7 @@
     "EffectType": 1,
     "DamageBonusType": 1,
     "SkillPercentAmend": [
-      1200000,
+      1150000,
       0
     ],
     "SkillAbsAmend": [
@@ -64945,7 +64945,7 @@
     "EffectType": 1,
     "DamageBonusType": 1,
     "SkillPercentAmend": [
-      1400000,
+      1200000,
       0
     ],
     "SkillAbsAmend": [
@@ -64963,7 +64963,25 @@
     "EffectType": 1,
     "DamageBonusType": 1,
     "SkillPercentAmend": [
-      1600000,
+      1250000,
+      0
+    ],
+    "SkillAbsAmend": [
+      0,
+      0
+    ],
+    "SkillId": 7200302,
+    "HitImmunityTime": 5000
+  },
+  "72003025": {
+    "Id": 72003025,
+    "DistanceType": 1,
+    "SourceType": 2,
+    "DamageType": 1,
+    "EffectType": 1,
+    "DamageBonusType": 1,
+    "SkillPercentAmend": [
+      980000,
       0
     ],
     "SkillAbsAmend": [
@@ -64981,7 +64999,7 @@
     "EffectType": 1,
     "DamageBonusType": 1,
     "SkillPercentAmend": [
-      1000000,
+      350000,
       0
     ],
     "SkillAbsAmend": [
@@ -64999,7 +65017,7 @@
     "EffectType": 1,
     "DamageBonusType": 1,
     "SkillPercentAmend": [
-      1000000,
+      500000,
       0
     ],
     "SkillAbsAmend": [
@@ -65017,7 +65035,7 @@
     "EffectType": 1,
     "DamageBonusType": 1,
     "SkillPercentAmend": [
-      1000000,
+      350000,
       0
     ],
     "SkillAbsAmend": [
@@ -65035,7 +65053,7 @@
     "EffectType": 1,
     "DamageBonusType": 1,
     "SkillPercentAmend": [
-      1000000,
+      1270000,
       0
     ],
     "SkillAbsAmend": [
@@ -65053,7 +65071,7 @@
     "EffectType": 1,
     "DamageBonusType": 1,
     "SkillPercentAmend": [
-      1000000,
+      1450000,
       0
     ],
     "SkillAbsAmend": [
@@ -65071,7 +65089,7 @@
     "EffectType": 1,
     "DamageBonusType": 1,
     "SkillPercentAmend": [
-      1000000,
+      980000,
       0
     ],
     "SkillAbsAmend": [
@@ -65089,7 +65107,7 @@
     "EffectType": 1,
     "DamageBonusType": 1,
     "SkillPercentAmend": [
-      1000000,
+      1620000,
       0
     ],
     "SkillAbsAmend": [
@@ -65107,7 +65125,7 @@
     "EffectType": 1,
     "DamageBonusType": 1,
     "SkillPercentAmend": [
-      1000000,
+      2100000,
       0
     ],
     "SkillAbsAmend": [

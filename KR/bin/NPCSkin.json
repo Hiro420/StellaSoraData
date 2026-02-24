@@ -574,5 +574,21 @@
     "L2D": "Actor2D/Character/15901/15901_L.prefab",
     "InteractiveAction": true,
     "InteractiveActionId": 10003
+  },
+  "814301": {
+    "Id": 814301,
+    "Name": "风影",
+    "Desc": "常规制服",
+    "IsShow": true,
+    "CharId": 8143,
+    "Type": 1,
+    "SourceDesc": 1,
+    "ModelScale": 10000,
+    "Model": "Actor/Character/14301/14301_Actor",
+    "Portrait": "Actor2D/Character/14301/14301_a.spriteatlas",
+    "Offset": "Actor2D/Character/14301/14301.asset",
+    "L2D": "Actor2D/Character/14301/14301_L.prefab",
+    "InteractiveAction": true,
+    "InteractiveActionId": 10003
   }
 }

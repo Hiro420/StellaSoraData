@@ -1,1 +1,176 @@
-{}
+{
+  "1": {
+    "Id": 1,
+    "Difficulty": 1,
+    "DrillLevelGroupId": 51003,
+    "MaxBattleNum": 3,
+    "FloorId": 1011,
+    "BattleTime": 180,
+    "HpBarNum": 20,
+    "BossId": [
+      7010101,
+      7010107
+    ],
+    "MonsterGroupId": 100001,
+    "FirstRRDropId": 104,
+    "RewardPreview": "[[2,50,1],[34,200,0]]",
+    "TimeScore": 340000,
+    "ScorePerSec": 600,
+    "LevelScore": 200000,
+    "BaseHpScore": 180000,
+    "LevelImage": "UI_Activity/_510003/SpriteAtlas/zs_jointdrill_level_01",
+    "LevelImageGoing": "UI_Activity/_510003/SpriteAtlas/zs_jointdrill_level_02",
+    "BossAffix": [
+      10001,
+      10002,
+      10003,
+      10004,
+      10005,
+      10006
+    ],
+    "RecommendBuildRank": 14,
+    "RecommendLv": 42,
+    "SubName": "JointDrill_2_Level.1.1",
+    "LevelName": "JointDrill_2_Level.1.2"
+  },
+  "2": {
+    "Id": 2,
+    "Difficulty": 2,
+    "DrillLevelGroupId": 51003,
+    "PreLevelId": 1,
+    "MaxBattleNum": 3,
+    "FloorId": 1012,
+    "BattleTime": 180,
+    "HpBarNum": 25,
+    "BossId": [
+      7010101,
+      7010107
+    ],
+    "MonsterGroupId": 100001,
+    "FirstRRDropId": 104,
+    "RewardPreview": "[[2,50,1],[34,300,0]]",
+    "TimeScore": 680000,
+    "ScorePerSec": 1200,
+    "LevelScore": 400000,
+    "BaseHpScore": 360000,
+    "LevelImage": "UI_Activity/_510003/SpriteAtlas/zs_jointdrill_level_01",
+    "LevelImageGoing": "UI_Activity/_510003/SpriteAtlas/zs_jointdrill_level_02",
+    "BossAffix": [
+      10001,
+      10002,
+      10003,
+      10004,
+      10005,
+      10006
+    ],
+    "RecommendBuildRank": 17,
+    "RecommendLv": 62,
+    "SubName": "JointDrill_2_Level.2.1",
+    "LevelName": "JointDrill_2_Level.2.2"
+  },
+  "3": {
+    "Id": 3,
+    "Difficulty": 3,
+    "DrillLevelGroupId": 51003,
+    "PreLevelId": 2,
+    "MaxBattleNum": 3,
+    "FloorId": 1013,
+    "BattleTime": 180,
+    "HpBarNum": 30,
+    "BossId": [
+      7010101,
+      7010107
+    ],
+    "MonsterGroupId": 100001,
+    "FirstRRDropId": 104,
+    "RewardPreview": "[[2,50,1],[34,400,0]]",
+    "TimeScore": 1370000,
+    "ScorePerSec": 2400,
+    "LevelScore": 800000,
+    "BaseHpScore": 720000,
+    "LevelImage": "UI_Activity/_510003/SpriteAtlas/zs_jointdrill_level_01",
+    "LevelImageGoing": "UI_Activity/_510003/SpriteAtlas/zs_jointdrill_level_02",
+    "BossAffix": [
+      10001,
+      10002,
+      10003,
+      10004,
+      10005,
+      10006
+    ],
+    "RecommendBuildRank": 22,
+    "RecommendLv": 72,
+    "SubName": "JointDrill_2_Level.3.1",
+    "LevelName": "JointDrill_2_Level.3.2"
+  },
+  "4": {
+    "Id": 4,
+    "Difficulty": 4,
+    "DrillLevelGroupId": 51003,
+    "PreLevelId": 3,
+    "MaxBattleNum": 3,
+    "FloorId": 1014,
+    "BattleTime": 180,
+    "HpBarNum": 40,
+    "BossId": [
+      7010101,
+      7010107
+    ],
+    "MonsterGroupId": 100001,
+    "FirstRRDropId": 104,
+    "RewardPreview": "[[2,50,1],[34,500,0]]",
+    "TimeScore": 2740000,
+    "ScorePerSec": 4800,
+    "LevelScore": 1600000,
+    "BaseHpScore": 1440000,
+    "LevelImage": "UI_Activity/_510003/SpriteAtlas/zs_jointdrill_level_01",
+    "LevelImageGoing": "UI_Activity/_510003/SpriteAtlas/zs_jointdrill_level_02",
+    "BossAffix": [
+      10001,
+      10002,
+      10003,
+      10004,
+      10005,
+      10006
+    ],
+    "RecommendBuildRank": 27,
+    "RecommendLv": 82,
+    "SubName": "JointDrill_2_Level.4.1",
+    "LevelName": "JointDrill_2_Level.4.2"
+  },
+  "5": {
+    "Id": 5,
+    "Difficulty": 5,
+    "DrillLevelGroupId": 51003,
+    "PreLevelId": 4,
+    "MaxBattleNum": 3,
+    "FloorId": 1015,
+    "BattleTime": 180,
+    "HpBarNum": 60,
+    "BossId": [
+      7010115,
+      7010121
+    ],
+    "MonsterGroupId": 100002,
+    "FirstRRDropId": 104,
+    "RewardPreview": "[[2,50,1],[34,500,0]]",
+    "TimeScore": 4380000,
+    "ScorePerSec": 6200,
+    "LevelScore": 2560000,
+    "BaseHpScore": 2304000,
+    "LevelImage": "UI_Activity/_510003/SpriteAtlas/zs_jointdrill_level_01",
+    "LevelImageGoing": "UI_Activity/_510003/SpriteAtlas/zs_jointdrill_level_02",
+    "BossAffix": [
+      10001,
+      10002,
+      10003,
+      10004,
+      10005,
+      10006
+    ],
+    "RecommendBuildRank": 32,
+    "RecommendLv": 90,
+    "SubName": "JointDrill_2_Level.5.1",
+    "LevelName": "JointDrill_2_Level.5.2"
+  }
+}

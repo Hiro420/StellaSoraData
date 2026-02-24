@@ -251,6 +251,38 @@
     "Id": "JointDrill_Failed_Reward_Mail_Id",
     "Value": "2092"
   },
+  "PenguinCardMaxRound": {
+    "Id": "PenguinCardMaxRound",
+    "Value": "5"
+  },
+  "PenguinCardMaxSlot": {
+    "Id": "PenguinCardMaxSlot",
+    "Value": "6"
+  },
+  "PenguinCardHandCardCount": {
+    "Id": "PenguinCardHandCardCount",
+    "Value": "5"
+  },
+  "PenguinCardMaxBuyLimit": {
+    "Id": "PenguinCardMaxBuyLimit",
+    "Value": "5"
+  },
+  "PenguinCardRoundUpgradeCost": {
+    "Id": "PenguinCardRoundUpgradeCost",
+    "Value": "0,300,3000,5000,30000"
+  },
+  "PenguinCardSlotUpgradeCost": {
+    "Id": "PenguinCardSlotUpgradeCost",
+    "Value": "0,0,0,2000,20000,50000"
+  },
+  "PenguinCardBuyLimitUpgradeCost": {
+    "Id": "PenguinCardBuyLimitUpgradeCost",
+    "Value": "0,100,800,2000,3000"
+  },
+  "PenguinCardFeverScore": {
+    "Id": "PenguinCardFeverScore",
+    "Value": "999"
+  },
   "PhoneChatTimeInterval": {
     "Id": "PhoneChatTimeInterval",
     "Value": "24"
@@ -780,16 +812,13 @@
     "Value": "201002"
   },
   "TouchEffect_Main": {
-    "Id": "TouchEffect_Main",
-    "Value": "2026NewYear/P_Main_NewYear"
+    "Id": "TouchEffect_Main"
   },
   "TouchEffect_Slide": {
-    "Id": "TouchEffect_Slide",
-    "Value": "2026NewYear/P_Slide_NewYear"
+    "Id": "TouchEffect_Slide"
   },
   "RedDot": {
-    "Id": "RedDot",
-    "Value": "zs_common_new_4_year"
+    "Id": "RedDot"
   },
   "TravelerDuel_BottomBanner": {
     "Id": "TravelerDuel_BottomBanner",

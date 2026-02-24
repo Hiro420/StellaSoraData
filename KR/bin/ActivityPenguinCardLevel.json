@@ -1,1 +1,62 @@
-{}
+{
+  "1011": {
+    "Id": 1011,
+    "ActivityId": 800001,
+    "Name": "ActivityPenguinCardLevel.1011.1",
+    "StarScore": [
+      1000,
+      2000,
+      3000
+    ],
+    "FloorId": 101
+  },
+  "1012": {
+    "Id": 1012,
+    "ActivityId": 800001,
+    "Name": "ActivityPenguinCardLevel.1012.1",
+    "Prev": 1011,
+    "StarScore": [
+      30000,
+      40000,
+      50000
+    ],
+    "FloorId": 102
+  },
+  "1013": {
+    "Id": 1013,
+    "ActivityId": 800001,
+    "Name": "ActivityPenguinCardLevel.1013.1",
+    "Prev": 1012,
+    "StarScore": [
+      30000,
+      50000,
+      70000
+    ],
+    "FloorId": 103
+  },
+  "1014": {
+    "Id": 1014,
+    "ActivityId": 800001,
+    "Name": "ActivityPenguinCardLevel.1014.1",
+    "Prev": 1013,
+    "StarScore": [
+      30000,
+      60000,
+      90000
+    ],
+    "FloorId": 104
+  },
+  "1015": {
+    "Id": 1015,
+    "ActivityId": 800001,
+    "Name": "ActivityPenguinCardLevel.1015.1",
+    "Prev": 1014,
+    "StarScore": [
+      50000,
+      100000,
+      200000
+    ],
+    "FloorId": 105,
+    "ScoreLevel": true
+  }
+}

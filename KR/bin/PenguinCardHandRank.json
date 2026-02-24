@@ -1,1 +1,81 @@
-{}
+{
+  "1": {
+    "Id": 1,
+    "Title": "PenguinCardHandRank.1.1",
+    "Desc": "PenguinCardHandRank.1.2",
+    "SuitCount": [
+      6
+    ],
+    "Order": 1,
+    "Value": 5000,
+    "Ratio": 20000
+  },
+  "2": {
+    "Id": 2,
+    "Title": "PenguinCardHandRank.2.1",
+    "Desc": "PenguinCardHandRank.2.2",
+    "SuitCount": [
+      5
+    ],
+    "Order": 2,
+    "Value": 1500,
+    "Ratio": 5000
+  },
+  "3": {
+    "Id": 3,
+    "Title": "PenguinCardHandRank.3.1",
+    "Desc": "PenguinCardHandRank.3.2",
+    "SuitCount": [
+      4
+    ],
+    "Order": 3,
+    "Value": 1000,
+    "Ratio": 2000
+  },
+  "4": {
+    "Id": 4,
+    "Title": "PenguinCardHandRank.4.1",
+    "Desc": "PenguinCardHandRank.4.2",
+    "SuitCount": [
+      3,
+      3
+    ],
+    "Order": 4,
+    "Value": 500,
+    "Ratio": 2000
+  },
+  "5": {
+    "Id": 5,
+    "Title": "PenguinCardHandRank.5.1",
+    "Desc": "PenguinCardHandRank.5.2",
+    "SuitCount": [
+      3,
+      2
+    ],
+    "Order": 5,
+    "Value": 200,
+    "Ratio": 2000
+  },
+  "6": {
+    "Id": 6,
+    "Title": "PenguinCardHandRank.6.1",
+    "Desc": "PenguinCardHandRank.6.2",
+    "SuitCount": [
+      3
+    ],
+    "Order": 6,
+    "Value": 100,
+    "Ratio": 2000
+  },
+  "7": {
+    "Id": 7,
+    "Title": "PenguinCardHandRank.7.1",
+    "Desc": "PenguinCardHandRank.7.2",
+    "SuitCount": [
+      2,
+      2
+    ],
+    "Order": 7,
+    "Value": 60
+  }
+}

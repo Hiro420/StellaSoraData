@@ -24004,10 +24004,13 @@
     "EffectGroupId": 14306,
     "IsEffective": true,
     "Corner": 2,
+    "EffectId1": 14306001,
     "BriefDesc": "Potential.514306.1",
     "Desc": "Potential.514306.2",
     "Param1": "OnceAdditionalAttribute,LevelUp,14306001,AttributeType1,Enum,EAT",
-    "Param2": "OnceAdditionalAttribute,LevelUp,14306001,Value1,10KHdPct"
+    "Param2": "OnceAdditionalAttribute,LevelUp,14306001,Value1,10KHdPct",
+    "Param3": "Effect,LevelUp,14306001,EffectTypeFirstSubtype,Enum,EAT",
+    "Param4": "Effect,LevelUp,14306001,EffectTypeParam1,HdPct"
   },
   "514307": {
     "Id": 514307,

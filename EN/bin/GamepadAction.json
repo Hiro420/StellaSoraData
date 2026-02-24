@@ -201,5 +201,35 @@
     "XboxIcon": "Icon/Gamepad/XboxOne_Menu",
     "PlayStationIcon": "Icon/Gamepad/PS4_Options",
     "KeyboardIcon": "Icon/Gamepad/R"
+  },
+  "ThrowGiftItem1": {
+    "Id": "ThrowGiftItem1",
+    "XboxIcon": "Icon/Gamepad/XboxOne_RB",
+    "PlayStationIcon": "Icon/Gamepad/PS4_R1",
+    "KeyboardIcon": "Icon/Gamepad/E"
+  },
+  "ThrowGiftItem2": {
+    "Id": "ThrowGiftItem2",
+    "XboxIcon": "Icon/Gamepad/XboxOne_LB",
+    "PlayStationIcon": "Icon/Gamepad/PS4_L1",
+    "KeyboardIcon": "Icon/Gamepad/Q"
+  },
+  "ThrowGiftItemConfirm": {
+    "Id": "ThrowGiftItemConfirm",
+    "XboxIcon": "Icon/Gamepad/XboxOne_Y",
+    "PlayStationIcon": "Icon/Gamepad/PS4_Triangle",
+    "KeyboardIcon": "Icon/Gamepad/Space"
+  },
+  "ThrowGiftChangeViewRight": {
+    "Id": "ThrowGiftChangeViewRight",
+    "XboxIcon": "Icon/Gamepad/XboxOne_Dpad_Left",
+    "PlayStationIcon": "Icon/Gamepad/PS4_Dpad_Left",
+    "KeyboardIcon": "Icon/Gamepad/A"
+  },
+  "ThrowGiftChangeViewLeft": {
+    "Id": "ThrowGiftChangeViewLeft",
+    "XboxIcon": "Icon/Gamepad/XboxOne_Dpad_Right",
+    "PlayStationIcon": "Icon/Gamepad/PS4_Dpad_Right",
+    "KeyboardIcon": "Icon/Gamepad/D"
   }
 }

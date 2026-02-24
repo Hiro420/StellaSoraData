@@ -582,6 +582,36 @@
     "Desc": "MailTemplate.30103.3",
     "Type": 1
   },
+  "10501": {
+    "Id": 10501,
+    "Explanation": "冬夜镇魂曲与破晓扳机活动结束倒计时邮件",
+    "Icon": "Icon/Head/head_12501",
+    "Author": "MailTemplate.10501.1",
+    "LetterPaper": "background2",
+    "Subject": "MailTemplate.10501.2",
+    "Desc": "MailTemplate.10501.3",
+    "Type": 1
+  },
+  "10502": {
+    "Id": 10502,
+    "Explanation": "冬夜镇魂曲与破晓扳机活动结束货币转换邮件",
+    "Icon": "Icon/Head/head_12501",
+    "Author": "MailTemplate.10502.1",
+    "LetterPaper": "background2",
+    "Subject": "MailTemplate.10502.2",
+    "Desc": "MailTemplate.10502.3",
+    "Type": 1
+  },
+  "10503": {
+    "Id": 10503,
+    "Explanation": "冬夜镇魂曲与破晓扳机活动任务结束未领取邮件",
+    "Icon": "Icon/Head/head_12501",
+    "Author": "MailTemplate.10503.1",
+    "LetterPaper": "background2",
+    "Subject": "MailTemplate.10503.2",
+    "Desc": "MailTemplate.10503.3",
+    "Type": 1
+  },
   "9999": {
     "Id": 9999,
     "Explanation": "商品延迟到账提示",

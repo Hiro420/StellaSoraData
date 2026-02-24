@@ -269,5 +269,46 @@
     ],
     "DesText": "ActivityGroup.30101.1",
     "TabBgRes": "Icon/Banner/tab_activity_marble"
+  },
+  "10105": {
+    "Id": 10105,
+    "ActivityGroupType": 1,
+    "ActivityThemeType": 8,
+    "StartTime": "2026-02-24T12:00:00+08:00",
+    "EndTime": "2026-03-10T04:00:00+08:00",
+    "EnterEndTime": "2026-03-17T10:59:59+08:00",
+    "EnterRes": "Icon/Banner/banner_winternight_m",
+    "PanelId": 405,
+    "PreLimit": 1,
+    "LimitParam": "3",
+    "StartCondType": 71,
+    "StartCondParams": [
+      5
+    ],
+    "Enter": "{\"MiniGame\":[400005,1,386],\"Task\":[1010503,2,408],\"AVG\":[1010502,3,406],\"Store\":[1010504,4,407],\"Level\":[1010501,5,409]}",
+    "UIAssetsPrefab": "10105",
+    "CtrlName": "ActivityWinterNightCtrl",
+    "RewardsShow": [
+      2,
+      214046,
+      116007,
+      502,
+      503,
+      20043,
+      35000,
+      20073,
+      32003,
+      21073,
+      30004,
+      50004,
+      30,
+      33012,
+      33042,
+      33072,
+      1
+    ],
+    "DesText": "ActivityGroup.10105.1",
+    "TabBgRes": "Icon/Banner/tab_activity_winternight",
+    "TransitionId": 39
   }
 }

@@ -16,5 +16,9 @@
   "ScoreBossAbility.100007.1": "随势而动",
   "ScoreBossAbility.100007.2": "首领拥有<color=#ec6d21>&Param1&</color>的伤害提升。每当1名玩家阵营仆从在场时，首领会暂时减少<color=#ec6d21>&Param2&</color>伤害并额外附加<color=#ec6d21>&Param3&</color>易伤。该效果最多可叠加3层，并在仆从消失后持续<color=#ec6d21>&Param4&</color>秒。",
   "ScoreBossAbility.100008.1": "专注",
-  "ScoreBossAbility.100008.2": "首领每受到<color=#ec6d21>&Param1&</color>次伤害即附加一层【专注】，使自身造成伤害提升<color=#ec6d21>&Param2&</color>。\n在<color=#ec6d21>&Param3&</color>秒内成功进行<color=#ec6d21>&Param4&</color>次印记触发后，清空当前的【专注】。接下来<color=#ec6d21>&Param5&</color>秒内Boss受到的援护角色技能伤害提升<color=#ec6d21>&Param6&</color>。该效果每<color=#ec6d21>&Param7&</color>秒最多触发1次，重复触发重置持续时间。"
+  "ScoreBossAbility.100008.2": "首领每受到<color=#ec6d21>&Param1&</color>次伤害即附加一层【专注】，使自身造成伤害提升<color=#ec6d21>&Param2&</color>。\n在<color=#ec6d21>&Param3&</color>秒内成功进行<color=#ec6d21>&Param4&</color>次印记触发后，清空当前的【专注】。接下来<color=#ec6d21>&Param5&</color>秒内Boss受到的援护角色技能伤害提升<color=#ec6d21>&Param6&</color>。该效果每<color=#ec6d21>&Param7&</color>秒最多触发1次，重复触发重置持续时间。",
+  "ScoreBossAbility.100009.1": "男爵姿态",
+  "ScoreBossAbility.100009.2": "首领会在【猛士】和【蜜罐】形态间来回切换，每战斗<color=#ec6d21>&Param1&</color>秒后会切换至另一形态并清除自身所有负面效果。（破韧不计入时间）\n在【猛士】形态时，热嘟噗噜男爵受到的绝招伤害降低<color=#ec6d21>&Param2&</color>，受到的普攻伤害提升<color=#ec6d21>&Param3&</color>\n在【蜜罐】形态时，热嘟噗噜男爵受到的印记伤害降低<color=#ec6d21>&Param4&</color>，受到的技能伤害提升<color=#ec6d21>&Param5&</color>",
+  "ScoreBossAbility.100010.1": "水环",
+  "ScoreBossAbility.100010.2": "首领拥有「水环」时自身造成伤害提升<color=#ec6d21>&Param1&</color>，且每5s造成一次范围伤害。\n当己方在5s内对首领累计造成<color=#ec6d21>&Param6&</color>次伤害后，使「水环」失效<color=#ec6d21>&Param7&</color>秒，在此期间：\n当己方在5s内对首领累计造成<color=#ec6d21>&Param2&</color>次援护角色伤害后，首领受到的普攻伤害提升<color=#ec6d21>&Param3&</color>\n当己方在5s内对首领累计造成<color=#ec6d21>&Param4&</color>次主控角色伤害时，首领受到的援护角色技能伤害提升<color=#ec6d21>&Param5&</color>"
 }

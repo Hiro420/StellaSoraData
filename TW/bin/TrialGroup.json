@@ -214,5 +214,41 @@
     "Qty2": 5,
     "RewardId3": 1,
     "Qty3": 50000
+  },
+  "14301": {
+    "Id": 14301,
+    "TrialChar": 14301,
+    "MasterPotential": [
+      1430101,
+      1430102
+    ],
+    "AssistPotential": [
+      1430103,
+      1430104
+    ],
+    "RewardId1": 2,
+    "Qty1": 50,
+    "RewardId2": 30003,
+    "Qty2": 5,
+    "RewardId3": 1,
+    "Qty3": 50000
+  },
+  "13201": {
+    "Id": 13201,
+    "TrialChar": 13201,
+    "MasterPotential": [
+      1320101,
+      1320102
+    ],
+    "AssistPotential": [
+      1320103,
+      1320104
+    ],
+    "RewardId1": 2,
+    "Qty1": 50,
+    "RewardId2": 30003,
+    "Qty2": 5,
+    "RewardId3": 1,
+    "Qty3": 50000
   }
 }

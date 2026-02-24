@@ -1,1 +1,57 @@
-{}
+{
+  "101": {
+    "Id": 101,
+    "MaxTurn": 6,
+    "InitialScore": 50,
+    "InitialSlot": 3,
+    "InitialRound": 1,
+    "InitialBuyLimit": 1,
+    "WeightGroup": 100,
+    "PoolId": 1,
+    "Floortips": "PenguinCardFloor.101.1"
+  },
+  "102": {
+    "Id": 102,
+    "MaxTurn": 9,
+    "InitialScore": 50,
+    "InitialSlot": 3,
+    "InitialRound": 1,
+    "InitialBuyLimit": 1,
+    "WeightGroup": 102,
+    "PoolId": 2,
+    "Floortips": "PenguinCardFloor.102.1"
+  },
+  "103": {
+    "Id": 103,
+    "MaxTurn": 9,
+    "InitialScore": 50,
+    "InitialSlot": 3,
+    "InitialRound": 1,
+    "InitialBuyLimit": 1,
+    "WeightGroup": 103,
+    "PoolId": 3,
+    "Floortips": "PenguinCardFloor.103.1"
+  },
+  "104": {
+    "Id": 104,
+    "MaxTurn": 9,
+    "InitialScore": 50,
+    "InitialSlot": 3,
+    "InitialRound": 1,
+    "InitialBuyLimit": 1,
+    "WeightGroup": 104,
+    "PoolId": 4,
+    "Floortips": "PenguinCardFloor.104.1"
+  },
+  "105": {
+    "Id": 105,
+    "MaxTurn": 12,
+    "InitialScore": 50,
+    "InitialSlot": 3,
+    "InitialRound": 1,
+    "InitialBuyLimit": 1,
+    "WeightGroup": 100,
+    "PoolId": 1,
+    "Floortips": "PenguinCardFloor.105.1"
+  }
+}

@@ -740,7 +740,11 @@
   },
   "ThrowGiftPanel": {
     "Id": "ThrowGiftPanel",
-    "Title": "TopBar.ThrowGiftPanel.1"
+    "Title": "TopBar.ThrowGiftPanel.1",
+    "Coin": true,
+    "CoinIds": [
+      73107
+    ]
   },
   "JointDrillBuildList_2": {
     "Id": "JointDrillBuildList_2",
@@ -773,6 +777,11 @@
     "CoinIds": [
       73106
     ]
+  },
+  "PenguinCardLevel": {
+    "Id": "PenguinCardLevel",
+    "Title": "TopBar.PenguinCardLevel.1",
+    "EntryId": 400501
   },
   "SpringFestivalStory": {
     "Id": "SpringFestivalStory",
@@ -807,7 +816,10 @@
   "Task_10105": {
     "Id": "Task_10105",
     "Title": "TopBar.Task_10105.1",
-    "Coin": true
+    "Coin": true,
+    "CoinIds": [
+      73107
+    ]
   },
   "Shop_10105": {
     "Id": "Shop_10105",
@@ -816,7 +828,11 @@
   },
   "WinterNightThemePanel": {
     "Id": "WinterNightThemePanel",
-    "Title": "TopBar.WinterNightThemePanel.1"
+    "Title": "TopBar.WinterNightThemePanel.1",
+    "Coin": true,
+    "CoinIds": [
+      73107
+    ]
   },
   "WinterNightStory": {
     "Id": "WinterNightStory",

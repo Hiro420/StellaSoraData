@@ -224,6 +224,30 @@
     "width": 4.0,
     "length": 4.0
   },
+  "50900021": {
+    "Id": 50900021,
+    "Name": "钉刺陷阱（风影活动）",
+    "FCId": 5009001,
+    "Model": "Actor/Monster/99013Dingci/99013Dingci_01_Actor",
+    "ModelScale": 10000,
+    "BuffFXScale": 10000,
+    "ColliderScale": 10000,
+    "AttributeId": "1300101",
+    "Templete": 3070006,
+    "BuffIds": [
+      990010050,
+      990010100
+    ],
+    "InterruptSkill": true,
+    "SubType": 2,
+    "Faction": 4,
+    "Filter": [
+      2
+    ],
+    "IgnoreCollision": true,
+    "width": 4.0,
+    "length": 4.0
+  },
   "50920001": {
     "Id": 50920001,
     "Name": "炸弹陷阱",

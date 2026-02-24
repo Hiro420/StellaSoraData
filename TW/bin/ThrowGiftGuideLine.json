@@ -1,0 +1,20 @@
+{
+  "40000501": {
+    "Id": 40000501,
+    "Speed": 650,
+    "Angle": 30,
+    "SpeedThreshold": 10,
+    "AngleThreshold": 2,
+    "EndPointTime": 10000,
+    "GuideLinePointInterval": 1000
+  },
+  "40000502": {
+    "Id": 40000502,
+    "Speed": 820,
+    "Angle": 60,
+    "SpeedThreshold": 20,
+    "AngleThreshold": 5,
+    "EndPointTime": 12000,
+    "GuideLinePointInterval": 1000
+  }
+}

@@ -16,5 +16,9 @@
   "ScoreBossAbility.100007.1": "勢いに乗って",
   "ScoreBossAbility.100007.2": "首領の与えるダメージが<color=#ec6d21>&Param1&</color>増加する。フィールドに味方の従者が1体存在するごとに、首領の与えるダメージが<color=#ec6d21>&Param2&</color>減少し、さらに被ダメージが<color=#ec6d21>&Param3&</color>増加する。この効果は3回まで重複でき、従者が消滅した後も<color=#ec6d21>&Param4&</color>秒間持続する。",
   "ScoreBossAbility.100008.1": "専念",
-  "ScoreBossAbility.100008.2": "首領は<color=#ec6d21>&Param1&</color>回ダメージを受けるたびに「専念」を1獲得し、自身の与えるダメージが<color=#ec6d21>&Param2&</color>上昇する。\n<color=#ec6d21>&Param3&</color>秒以内に印を<color=#ec6d21>&Param4&</color>回発動すると、「専念」をすべて解除できる。解除後<color=#ec6d21>&Param5&</color>秒間、首領が支援巡遊者から受けるスキルダメージが<color=#ec6d21>&Param6&</color>上昇する。この効果は<color=#ec6d21>&Param7&</color>秒ごとに1回まで発動できる。再度発動すると持続時間がリセットされる。"
+  "ScoreBossAbility.100008.2": "首領は<color=#ec6d21>&Param1&</color>回ダメージを受けるたびに「専念」を1獲得し、自身の与えるダメージが<color=#ec6d21>&Param2&</color>上昇する。\n<color=#ec6d21>&Param3&</color>秒以内に印を<color=#ec6d21>&Param4&</color>回発動すると、「専念」をすべて解除できる。解除後<color=#ec6d21>&Param5&</color>秒間、首領が支援巡遊者から受けるスキルダメージが<color=#ec6d21>&Param6&</color>上昇する。この効果は<color=#ec6d21>&Param7&</color>秒ごとに1回まで発動できる。再度発動すると持続時間がリセットされる。",
+  "ScoreBossAbility.100009.1": "男爵の矜持",
+  "ScoreBossAbility.100009.2": "首領は交互に「男爵」モードと「ツボ」モードで切り替わる。戦闘中、<color=#ec6d21>&Param1&</color>秒ごとに別のモードへ切り替わる。切り替わる時、自身にかかっているすべてのデバフが解除される（ブレイク状態を除く）。\n「男爵」モード中、空壺ノ王の必殺技被ダメージが<color=#ec6d21>&Param2&</color>減少し、通常攻撃被ダメージが<color=#ec6d21>&Param3&</color>増加する。\n「ツボ」モード中、空壺ノ王の印被ダメージが<color=#ec6d21>&Param4&</color>減少し、スキル被ダメージが<color=#ec6d21>&Param5&</color>増加する。",
+  "ScoreBossAbility.100010.1": "水のリング",
+  "ScoreBossAbility.100010.2": "首領に「水のリング」が付与されている時、自身が与えるダメージが<color=#ec6d21>&Param1&</color>増加し、5秒ごとに範囲ダメージを与えるようになる。\n5秒以内に、味方が首領に与えたダメージが累計<color=#ec6d21>&Param6&</color>回に達すると、「水のリング」は<color=#ec6d21>&Param7&</color>秒間無効化される。「水のリング」が無効化されている時\n5秒以内に、支援巡遊者が首領に与えたダメージが累計<color=#ec6d21>&Param2&</color>回に達すると、首領の通常攻撃被ダメージが<color=#ec6d21>&Param3&</color>増加する。\n5秒以内に、主力巡遊者が首領に与えたダメージが累計<color=#ec6d21>&Param4&</color>回に達すると、首領の支援巡遊者からのスキル被ダメージが<color=#ec6d21>&Param5&</color>増加する。"
 }

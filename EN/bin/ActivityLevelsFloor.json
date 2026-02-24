@@ -822,5 +822,194 @@
     "Theme": 428,
     "BGM": "mode_springFestival2025_combatBoss_setstate",
     "LeaveTriggerEvent": "amb_SF_all_stop"
+  },
+  "300701": {
+    "Id": 300701,
+    "MonsterLv": 1,
+    "SceneName": "Levels/StoryActivity/StoryActivity_7/StoryActivity_7_013_A_01",
+    "ConfigPrefabName": "StoryActivity_7_013_N1",
+    "Theme": 432,
+    "BGM": "rogueWind_combatNomal_setState",
+    "LeaveTriggerEvent": "amb_roguelike_wind_all_stop"
+  },
+  "300702": {
+    "Id": 300702,
+    "MonsterLv": 2,
+    "SceneName": "Levels/StoryActivity/StoryActivity_7/StoryActivity_7_006_A_02_Mir",
+    "ConfigPrefabName": "StoryActivity_7_006_N2",
+    "Mir": true,
+    "Theme": 431,
+    "BGM": "amb_fengying_combatNormal_setState",
+    "LeaveTriggerEvent": "amb_fengying_all_stop"
+  },
+  "300703": {
+    "Id": 300703,
+    "MonsterLv": 3,
+    "SceneName": "Levels/StoryActivity/StoryActivity_7/StoryActivity_7_010_B_02_Mir",
+    "ConfigPrefabName": "StoryActivity_7_010_N3",
+    "Mir": true,
+    "Theme": 431,
+    "BGM": "amb_fengying_combatNormal_setState",
+    "LeaveTriggerEvent": "amb_fengying_all_stop"
+  },
+  "300704": {
+    "Id": 300704,
+    "MonsterLv": 4,
+    "SceneName": "Levels/StoryActivity/StoryActivity_7/StoryActivity_7_003_A_01",
+    "ConfigPrefabName": "StoryActivity_7_003_N4",
+    "Theme": 432,
+    "BGM": "rogueWind_combatNomal_setState",
+    "LeaveTriggerEvent": "amb_roguelike_wind_all_stop"
+  },
+  "300705": {
+    "Id": 300705,
+    "MonsterLv": 5,
+    "SceneName": "Levels/StoryActivity/StoryActivity_7/StoryActivity_7_013_A_01_Mir",
+    "ConfigPrefabName": "StoryActivity_7_013_N5",
+    "Mir": true,
+    "Theme": 432,
+    "BGM": "rogueWind_combatNomal_setState",
+    "LeaveTriggerEvent": "amb_roguelike_wind_all_stop"
+  },
+  "300706": {
+    "Id": 300706,
+    "MonsterLv": 6,
+    "SceneName": "Levels/StoryActivity/StoryActivity_7/StoryActivity_7_006_A_02",
+    "ConfigPrefabName": "StoryActivity_7_006_N6",
+    "Theme": 431,
+    "BGM": "amb_fengying_combatNormal_setState",
+    "LeaveTriggerEvent": "amb_fengying_all_stop"
+  },
+  "300707": {
+    "Id": 300707,
+    "MonsterLv": 7,
+    "SceneName": "Levels/StoryActivity/StoryActivity_7/StoryActivity_7_010_B_02",
+    "ConfigPrefabName": "StoryActivity_7_010_N7",
+    "Theme": 431,
+    "BGM": "amb_fengying_combatNormal_setState",
+    "LeaveTriggerEvent": "amb_fengying_all_stop"
+  },
+  "300708": {
+    "Id": 300708,
+    "MonsterLv": 8,
+    "SceneName": "Levels/StoryActivity/StoryActivity_7/StoryActivity_7_Boss_A_01",
+    "ConfigPrefabName": "StoryActivity_7_Boss_N8",
+    "Theme": 432,
+    "BGM": "amb_fengying_combatBoss_setState",
+    "LeaveTriggerEvent": "amb_fengying_all_stop"
+  },
+  "300709": {
+    "Id": 300709,
+    "MonsterLv": 9,
+    "SceneName": "Levels/StoryActivity/StoryActivity_7/StoryActivity_7_013_A_01",
+    "ConfigPrefabName": "StoryActivity_7_013_H1",
+    "Theme": 432,
+    "BGM": "rogueWind_combatNomal_setState",
+    "LeaveTriggerEvent": "amb_roguelike_wind_all_stop"
+  },
+  "300710": {
+    "Id": 300710,
+    "MonsterLv": 10,
+    "SceneName": "Levels/StoryActivity/StoryActivity_7/StoryActivity_7_006_A_02_Mir",
+    "ConfigPrefabName": "StoryActivity_7_006_H2",
+    "Mir": true,
+    "Theme": 431,
+    "BGM": "amb_fengying_combatNormal_setState",
+    "LeaveTriggerEvent": "amb_fengying_all_stop"
+  },
+  "300711": {
+    "Id": 300711,
+    "MonsterLv": 11,
+    "SceneName": "Levels/StoryActivity/StoryActivity_7/StoryActivity_7_010_B_02_Mir",
+    "ConfigPrefabName": "StoryActivity_7_010_H3",
+    "Mir": true,
+    "Theme": 431,
+    "BGM": "amb_fengying_combatNormal_setState",
+    "LeaveTriggerEvent": "amb_fengying_all_stop"
+  },
+  "300712": {
+    "Id": 300712,
+    "MonsterLv": 12,
+    "SceneName": "Levels/StoryActivity/StoryActivity_7/StoryActivity_7_003_A_01",
+    "ConfigPrefabName": "StoryActivity_7_003_H4",
+    "Theme": 432,
+    "BGM": "rogueWind_combatNomal_setState",
+    "LeaveTriggerEvent": "amb_roguelike_wind_all_stop"
+  },
+  "300713": {
+    "Id": 300713,
+    "MonsterLv": 13,
+    "SceneName": "Levels/StoryActivity/StoryActivity_7/StoryActivity_7_003_A_01_Mir",
+    "ConfigPrefabName": "StoryActivity_7_003_H5",
+    "Mir": true,
+    "Theme": 432,
+    "BGM": "rogueWind_combatNomal_setState",
+    "LeaveTriggerEvent": "amb_roguelike_wind_all_stop"
+  },
+  "300714": {
+    "Id": 300714,
+    "MonsterLv": 14,
+    "SceneName": "Levels/StoryActivity/StoryActivity_7/StoryActivity_7_013_A_01",
+    "ConfigPrefabName": "StoryActivity_7_013_H6",
+    "Theme": 432,
+    "BGM": "rogueWind_combatNomal_setState",
+    "LeaveTriggerEvent": "amb_roguelike_wind_all_stop"
+  },
+  "300715": {
+    "Id": 300715,
+    "MonsterLv": 15,
+    "SceneName": "Levels/StoryActivity/StoryActivity_7/StoryActivity_7_006_A_02_Mir",
+    "ConfigPrefabName": "StoryActivity_7_006_H7",
+    "Mir": true,
+    "Theme": 431,
+    "BGM": "amb_fengying_combatNormal_setState",
+    "LeaveTriggerEvent": "amb_fengying_all_stop"
+  },
+  "300716": {
+    "Id": 300716,
+    "MonsterLv": 16,
+    "SceneName": "Levels/StoryActivity/StoryActivity_7/StoryActivity_7_Boss_A_01",
+    "ConfigPrefabName": "StoryActivity_7_Boss_H8",
+    "Theme": 432,
+    "BGM": "amb_fengying_combatBoss_setState",
+    "LeaveTriggerEvent": "amb_fengying_all_stop"
+  },
+  "300717": {
+    "Id": 300717,
+    "MonsterLv": 17,
+    "SceneName": "Levels/StoryActivity/StoryActivity_7/StoryActivity_7_003_A_01_Mir",
+    "ConfigPrefabName": "StoryActivity_7_003_C1",
+    "Mir": true,
+    "Theme": 432,
+    "BGM": "rogueWind_combatNomal_setState",
+    "LeaveTriggerEvent": "amb_roguelike_wind_all_stop"
+  },
+  "300718": {
+    "Id": 300718,
+    "MonsterLv": 18,
+    "SceneName": "Levels/StoryActivity/StoryActivity_7/StoryActivity_7_013_A_01",
+    "ConfigPrefabName": "StoryActivity_7_013_C2",
+    "Theme": 432,
+    "BGM": "rogueWind_combatNomal_setState",
+    "LeaveTriggerEvent": "amb_roguelike_wind_all_stop"
+  },
+  "300719": {
+    "Id": 300719,
+    "MonsterLv": 19,
+    "SceneName": "Levels/StoryActivity/StoryActivity_7/StoryActivity_7_006_A_02_Mir",
+    "ConfigPrefabName": "StoryActivity_7_006_C3",
+    "Mir": true,
+    "Theme": 431,
+    "BGM": "amb_fengying_combatNormal_setState",
+    "LeaveTriggerEvent": "amb_fengying_all_stop"
+  },
+  "300720": {
+    "Id": 300720,
+    "MonsterLv": 20,
+    "SceneName": "Levels/StoryActivity/StoryActivity_7/StoryActivity_7_Boss_A_01",
+    "ConfigPrefabName": "StoryActivity_7_Boss_C4",
+    "Theme": 432,
+    "BGM": "amb_fengying_combatBoss_setState",
+    "LeaveTriggerEvent": "amb_fengying_all_stop"
   }
 }

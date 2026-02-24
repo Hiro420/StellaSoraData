@@ -130,6 +130,25 @@
     "EndType": 2,
     "EndTime": "2026-02-24T10:59:59+08:00"
   },
+  "7": {
+    "Id": 7,
+    "SortId": 7,
+    "PopUpType": 3,
+    "PopUpRes": "UI/MallPkgPopup/Popup_6",
+    "ScriptName": "OwnPopUp.MallPkgPopupCtrl",
+    "ScriptParams": "[\"pack.08_res\", \"pack.08_gift\", \"pack.08_disc_l\", \"pack.08_role_l\"]",
+    "PopRefreshType": 3,
+    "PopJumpType": 3,
+    "JumpToParams": 18,
+    "StartCondType": 71,
+    "StartCondParams": [
+      2
+    ],
+    "StartType": 2,
+    "StartTime": "2026-02-24T12:00:00+08:00",
+    "EndType": 2,
+    "EndTime": "2026-03-17T10:59:59+08:00"
+  },
   "1000": {
     "Id": 1000,
     "SortId": 1000,
@@ -201,6 +220,16 @@
     "PopRefreshType": 2,
     "PopJumpType": 2
   },
+  "1007": {
+    "Id": 1007,
+    "SortId": 1007,
+    "PopUpType": 2,
+    "ActivityId": 10105,
+    "PopUpRes": "UI_Activity/10105/PopUp",
+    "ScriptName": "ActivityPopUp.ActivityWinterNight_10105PopUpCtrl",
+    "PopRefreshType": 2,
+    "PopJumpType": 2
+  },
   "2005": {
     "Id": 2005,
     "SortId": 2005,
@@ -260,5 +289,15 @@
     "StartCondParams": [
       1
     ]
+  },
+  "2010": {
+    "Id": 2010,
+    "SortId": 2010,
+    "PopUpType": 1,
+    "ActivityId": 510003,
+    "PopUpRes": "UI_Activity/_510003/PopUp",
+    "ScriptName": "ActivityPopUp.ActivityJointDrill_510003PopUpCtrl",
+    "PopRefreshType": 2,
+    "PopJumpType": 2
   }
 }
