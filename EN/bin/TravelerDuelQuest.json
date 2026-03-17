@@ -1,0 +1,164 @@
+{
+  "1": {
+    "Id": 1,
+    "Title": "TravelerDuelQuest.1.1",
+    "Desc": "TravelerDuelQuest.1.2",
+    "CompleteCond": 69,
+    "CompleteCondParams": "[1,100001]",
+    "AwardItemTid1": 1,
+    "AwardItemNum1": 1,
+    "AwardItemTid2": 2,
+    "AwardItemNum2": 2,
+    "AwardItemTid3": 3,
+    "AwardItemNum3": 3
+  },
+  "2": {
+    "Id": 2,
+    "Title": "TravelerDuelQuest.2.1",
+    "Desc": "TravelerDuelQuest.2.2",
+    "CompleteCond": 64,
+    "CompleteCondParams": "[1,1,100001]",
+    "AwardItemTid1": 1,
+    "AwardItemNum1": 1,
+    "AwardItemTid2": 2,
+    "AwardItemNum2": 2,
+    "AwardItemTid3": 3,
+    "AwardItemNum3": 3
+  },
+  "3": {
+    "Id": 3,
+    "Title": "TravelerDuelQuest.3.1",
+    "Desc": "TravelerDuelQuest.3.2",
+    "CompleteCond": 65,
+    "CompleteCondParams": "[1]",
+    "AwardItemTid1": 1,
+    "AwardItemNum1": 1,
+    "AwardItemTid2": 2,
+    "AwardItemNum2": 2,
+    "AwardItemTid3": 3,
+    "AwardItemNum3": 3
+  },
+  "4": {
+    "Id": 4,
+    "Title": "TravelerDuelQuest.4.1",
+    "Desc": "TravelerDuelQuest.4.2",
+    "CompleteCond": 67,
+    "CompleteCondParams": "[100001,1,2,3]",
+    "AwardItemTid1": 1,
+    "AwardItemNum1": 1,
+    "AwardItemTid2": 2,
+    "AwardItemNum2": 2,
+    "AwardItemTid3": 3,
+    "AwardItemNum3": 3
+  },
+  "100000": {
+    "Id": 100000,
+    "Title": "TravelerDuelQuest.100000.1",
+    "Desc": "TravelerDuelQuest.100000.2",
+    "Order": 1,
+    "CompleteCond": 54,
+    "CompleteCondParams": "[100001,100002,100003,100004,100005,100006,100007,100008,100009,100010]",
+    "AwardItemTid1": 2,
+    "AwardItemNum1": 300
+  },
+  "100001": {
+    "Id": 100001,
+    "Title": "TravelerDuelQuest.100001.1",
+    "Desc": "TravelerDuelQuest.100001.2",
+    "Order": 2,
+    "CompleteCond": 65,
+    "CompleteCondParams": "[1]",
+    "AwardItemTid1": 2,
+    "AwardItemNum1": 30
+  },
+  "100002": {
+    "Id": 100002,
+    "Title": "TravelerDuelQuest.100002.1",
+    "Desc": "TravelerDuelQuest.100002.2",
+    "Order": 3,
+    "CompleteCond": 65,
+    "CompleteCondParams": "[2]",
+    "AwardItemTid1": 2,
+    "AwardItemNum1": 30
+  },
+  "100003": {
+    "Id": 100003,
+    "Title": "TravelerDuelQuest.100003.1",
+    "Desc": "TravelerDuelQuest.100003.2",
+    "Order": 4,
+    "CompleteCond": 65,
+    "CompleteCondParams": "[3]",
+    "AwardItemTid1": 2,
+    "AwardItemNum1": 30
+  },
+  "100004": {
+    "Id": 100004,
+    "Title": "TravelerDuelQuest.100004.1",
+    "Desc": "TravelerDuelQuest.100004.2",
+    "Order": 5,
+    "CompleteCond": 65,
+    "CompleteCondParams": "[4]",
+    "AwardItemTid1": 2,
+    "AwardItemNum1": 30
+  },
+  "100005": {
+    "Id": 100005,
+    "Title": "TravelerDuelQuest.100005.1",
+    "Desc": "TravelerDuelQuest.100005.2",
+    "Order": 6,
+    "CompleteCond": 65,
+    "CompleteCondParams": "[5]",
+    "AwardItemTid1": 2,
+    "AwardItemNum1": 30
+  },
+  "100006": {
+    "Id": 100006,
+    "Title": "TravelerDuelQuest.100006.1",
+    "Desc": "TravelerDuelQuest.100006.2",
+    "Order": 7,
+    "CompleteCond": 65,
+    "CompleteCondParams": "[6]",
+    "AwardItemTid1": 2,
+    "AwardItemNum1": 30
+  },
+  "100007": {
+    "Id": 100007,
+    "Title": "TravelerDuelQuest.100007.1",
+    "Desc": "TravelerDuelQuest.100007.2",
+    "Order": 8,
+    "CompleteCond": 65,
+    "CompleteCondParams": "[7]",
+    "AwardItemTid1": 2,
+    "AwardItemNum1": 30
+  },
+  "100008": {
+    "Id": 100008,
+    "Title": "TravelerDuelQuest.100008.1",
+    "Desc": "TravelerDuelQuest.100008.2",
+    "Order": 9,
+    "CompleteCond": 65,
+    "CompleteCondParams": "[8]",
+    "AwardItemTid1": 2,
+    "AwardItemNum1": 30
+  },
+  "100009": {
+    "Id": 100009,
+    "Title": "TravelerDuelQuest.100009.1",
+    "Desc": "TravelerDuelQuest.100009.2",
+    "Order": 10,
+    "CompleteCond": 65,
+    "CompleteCondParams": "[9]",
+    "AwardItemTid1": 2,
+    "AwardItemNum1": 30
+  },
+  "100010": {
+    "Id": 100010,
+    "Title": "TravelerDuelQuest.100010.1",
+    "Desc": "TravelerDuelQuest.100010.2",
+    "Order": 11,
+    "CompleteCond": 65,
+    "CompleteCondParams": "[10]",
+    "AwardItemTid1": 2,
+    "AwardItemNum1": 30
+  }
+}

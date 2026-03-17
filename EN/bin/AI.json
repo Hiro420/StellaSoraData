@@ -490,6 +490,24 @@
     "FCGlobal": "AIScript.Character._11601.ParallelScript_Support",
     "FCComboGroup": "Character/11601/Combos/ComboGroup_Char_116"
   },
+  "14000": {
+    "Id": 14000,
+    "FCAction": "AIScript.Character._14001.ActionScript",
+    "FCGlobal": "AIScript.Character._14001.ParallelScript",
+    "FCComboGroup": "Character/14001/Combos/ComboGroup_Char_140"
+  },
+  "14001": {
+    "Id": 14001,
+    "FCAction": "AIScript.Character._14001.ActionScript_MainControl",
+    "FCGlobal": "AIScript.Character._14001.ParallelScript_MainControl",
+    "FCComboGroup": "Character/14001/Combos/ComboGroup_Char_140"
+  },
+  "14002": {
+    "Id": 14002,
+    "FCAction": "AIScript.Character._14001.ActionScript_Support",
+    "FCGlobal": "AIScript.Character._14001.ParallelScript_Support",
+    "FCComboGroup": "Character/14001/Combos/ComboGroup_Char_140"
+  },
   "14900": {
     "Id": 14900,
     "FCAction": "AIScript.Character._14901.ActionScript",
@@ -1543,7 +1561,7 @@
   "1100309": {
     "Id": 1100309,
     "FCIdle": "Common/Behaviour/Monster/SneakMode/SneakModeIdle",
-    "FCAction": "Monster/11003JinZhanNongJi/Behaviour/Main2-3/ActionBehaviour_SneakMode&Summon@AreaC",
+    "FCAction": "Monster/11003JinZhanNongJi/Behaviour/Main2-3/ActionBehaviour_SneakMode\u0026Summon@AreaC",
     "FCGlobal": "Common/Behaviour/Monster/SneakMode/GlobalCheck",
     "FCComboGroup": "Monster/11003JinZhanNongJi/Combo/ComboGroup"
   },

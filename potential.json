@@ -4079,6 +4079,261 @@
       "subIcon": "Round"
     }
   },
+  "130": {
+    "513001": {
+      "name": "Condensation Orbs",
+      "briefDesc": "Extends the duration of Donna's Agile State. While Agile State is active, Auto Attacks accumulate water orbs which will all be fired to deal DMG after Agile State ends.",
+      "type": "main",
+      "rarity": 0,
+      "imgId": "13001_Potential_01",
+      "id": 513001
+    },
+    "513002": {
+      "name": "Azure Night",
+      "briefDesc": "While Donna is in Agile State, her Auto Attacks deal additional DMG.",
+      "type": "main",
+      "rarity": 0,
+      "imgId": "13001_Potential_02",
+      "id": 513002
+    },
+    "513003": {
+      "name": "Precision Marketing",
+      "briefDesc": "When Donna's Auto Attack hits a target near the Advertising Doll, deals AoE DMG.",
+      "type": "main",
+      "rarity": 0,
+      "imgId": "13001_Potential_03",
+      "id": 513003
+    },
+    "513004": {
+      "name": "Bubble Finale",
+      "briefDesc": "Increases the Max HP of the Advertising Doll. When the Advertising Doll disappears, deals AoE DMG over time.",
+      "type": "main",
+      "rarity": 0,
+      "imgId": "13001_Potential_04",
+      "id": 513004
+    },
+    "513005": {
+      "name": "Tidal Echo",
+      "briefDesc": "When Donna's Auto Attacks deal DMG while she is in Agile State, increases the target's Aqua DMG Taken.",
+      "type": "main",
+      "rarity": 2,
+      "imgId": "13001_Potential_01",
+      "id": 513005,
+      "subIcon": "Diamond"
+    },
+    "513006": {
+      "name": "Piercing Arrow Rain",
+      "briefDesc": "When Donna's Auto Attacks deal DMG to targets inflicted with Aqua Mark: Torrent/Chill while she is in Agile State, increases her ATK.",
+      "type": "main",
+      "rarity": 2,
+      "imgId": "13001_Potential_02",
+      "id": 513006,
+      "subIcon": "Triangle"
+    },
+    "513007": {
+      "name": "Rime Shatterer",
+      "briefDesc": "While Donna is in Agile State, her Auto Attacks immediately defeat targets with low HP. She also deals increased DMG to elites and bosses with low HP.",
+      "type": "main",
+      "rarity": 1,
+      "imgId": "13001_Potential_07",
+      "id": 513007,
+      "subIcon": "Round"
+    },
+    "513008": {
+      "name": "Surging Tide",
+      "briefDesc": "Increases the Advertising Doll's Attack Range and Minion DMG.",
+      "type": "main",
+      "rarity": 2,
+      "imgId": "13001_Potential_03",
+      "id": 513008,
+      "subIcon": "Diamond"
+    },
+    "513009": {
+      "name": "Cloud Piercer",
+      "briefDesc": "When Donna or the Advertising Doll hits a target, heals the Doll and increases its Minion DMG.",
+      "type": "main",
+      "rarity": 2,
+      "imgId": "13001_Potential_09",
+      "id": 513009,
+      "subIcon": "Triangle"
+    },
+    "513010": {
+      "name": "Hazy Curtain",
+      "briefDesc": "The Advertising Doll gains a shield. When the shield disappears, deals AoE DMG.",
+      "type": "main",
+      "rarity": 1,
+      "imgId": "13001_Potential_10",
+      "id": 513010,
+      "subIcon": "Round"
+    },
+    "513011": {
+      "name": "Lingering Noise",
+      "briefDesc": "After casting the Main Skill, increases own Aqua DMG.",
+      "type": "main",
+      "rarity": 2,
+      "imgId": "Common_Potential_9",
+      "id": 513011,
+      "subIcon": "Diamond"
+    },
+    "513012": {
+      "name": "Serene Sea Trance",
+      "briefDesc": "When Donna remains stationary, increases her ATK. Resets when she moves.",
+      "type": "main",
+      "rarity": 1,
+      "imgId": "Common_Potential_20",
+      "id": 513012,
+      "subIcon": "Triangle"
+    },
+    "513013": {
+      "name": "Tidal Mark Resonance",
+      "briefDesc": "The Ultimate can trigger Aqua Mark. Triggering this Mark increases own and the Advertising Doll's Aqua DMG.",
+      "type": "main",
+      "rarity": 2,
+      "imgId": "Common_Potential_Water_1",
+      "id": 513013,
+      "subIcon": "Round"
+    },
+    "513021": {
+      "name": "Unleashed Arrow",
+      "briefDesc": "The Support Skill fires additional Snow-Piercing Arrows to deal DMG based on the number of Aqua Trekkers in the squad.",
+      "type": "support",
+      "rarity": 0,
+      "imgId": "13001_Potential_21",
+      "id": 513021
+    },
+    "513022": {
+      "name": "Arrowfall Reckoning",
+      "briefDesc": "When Snow-Piercing Arrow deals DMG, the arrow tail is left on the target. When the skill ends, pulls out the arrow tail to deal DMG.",
+      "type": "support",
+      "rarity": 0,
+      "imgId": "13001_Potential_22",
+      "id": 513022
+    },
+    "513023": {
+      "name": "Wave-Chasing String",
+      "briefDesc": "Increases Frost Wave's DMG and Attack Range. When the entire squad consists of Aqua Trekkers, the Support Skill generates more Frost Waves.",
+      "type": "support",
+      "rarity": 0,
+      "imgId": "13001_Potential_23",
+      "id": 513023
+    },
+    "513024": {
+      "name": "Stray Arrow",
+      "briefDesc": "Each time the Support Skill generates a Frost Wave, additionally creates Frost Wave Orbs that track the target and deal AoE DMG.",
+      "type": "support",
+      "rarity": 0,
+      "imgId": "13001_Potential_24",
+      "id": 513024
+    },
+    "513025": {
+      "name": "Arrow Pursuit",
+      "briefDesc": "When Snow-Piercing Arrow deals multiple instances of DMG to Donna's target, deals additional DMG.",
+      "type": "support",
+      "rarity": 1,
+      "imgId": "13001_Potential_25",
+      "id": 513025,
+      "subIcon": "Diamond"
+    },
+    "513026": {
+      "name": "Frostbitten Arrow",
+      "briefDesc": "When Snow-Piercing Arrow deals multiple instances of DMG to Donna's target, increases the target's Aqua DMG Taken.",
+      "type": "support",
+      "rarity": 2,
+      "imgId": "13001_Potential_22",
+      "id": 513026,
+      "subIcon": "Triangle"
+    },
+    "513027": {
+      "name": "Dead Shot",
+      "briefDesc": "Snow-Piercing Arrow immediately defeats targets with low HP and deals increased DMG to elites and bosses with low HP.",
+      "type": "support",
+      "rarity": 2,
+      "imgId": "13001_Potential_21",
+      "id": 513027,
+      "subIcon": "Round"
+    },
+    "513028": {
+      "name": "Coast Crusher",
+      "briefDesc": "Increases Frost Wave's Crit Rate and DMG. When Frost Wave lands a Crit Hit, increases the ATK of Aqua Trekkers in the squad.",
+      "type": "support",
+      "rarity": 2,
+      "imgId": "13001_Potential_24",
+      "id": 513028,
+      "subIcon": "Diamond"
+    },
+    "513029": {
+      "name": "Aquatic Assault",
+      "briefDesc": "When Frost Wave deals DMG to different targets, increases own Aqua DMG.",
+      "type": "support",
+      "rarity": 2,
+      "imgId": "13001_Potential_29",
+      "id": 513029,
+      "subIcon": "Triangle"
+    },
+    "513030": {
+      "name": "Chilling Onslaught",
+      "briefDesc": "Upon its first shot, the Support Skill creates a Frost Wave. Increases the Skill DMG dealt by Frost Wave.",
+      "type": "support",
+      "rarity": 1,
+      "imgId": "13001_Potential_23",
+      "id": 513030,
+      "subIcon": "Round"
+    },
+    "513031": {
+      "name": "Messenger Arrow",
+      "briefDesc": "When casting Tide Threader (Support Skill), delivers a letter near the main Aqua Trekker. When the main Trekker picks up the letter, increases their Aqua DMG.",
+      "type": "support",
+      "rarity": 2,
+      "imgId": "Common_Potential_11",
+      "id": 513031,
+      "subIcon": "Diamond"
+    },
+    "513032": {
+      "name": "Wave Resonance",
+      "briefDesc": "The Ultimate can inflict Aqua Mark: Torrent. While casting the Ultimate, when a Trekker triggers Aqua Mark: Torrent, increases Donna's Aqua DMG.",
+      "type": "support",
+      "rarity": 2,
+      "imgId": "Common_Potential_Water_1",
+      "id": 513032,
+      "subIcon": "Triangle"
+    },
+    "513033": {
+      "name": "Water Ripple",
+      "briefDesc": "Increases the ATK of Aqua Trekkers in the squad.",
+      "type": "support",
+      "rarity": 1,
+      "imgId": "Common_Potential_15",
+      "id": 513033,
+      "subIcon": "Round"
+    },
+    "513041": {
+      "name": "Rushing Tide",
+      "briefDesc": "Increases the Ultimate's Attack Range and DMG.",
+      "type": "common",
+      "rarity": 2,
+      "imgId": "13001_Potential_41",
+      "id": 513041,
+      "subIcon": "Diamond"
+    },
+    "513042": {
+      "name": "Corrosive Torrent",
+      "briefDesc": "Increases the ATK of Aqua Trekkers within the Attack Range of Argent Cascade (Ultimate).",
+      "type": "common",
+      "rarity": 2,
+      "imgId": "13001_Potential_41",
+      "id": 513042,
+      "subIcon": "Triangle"
+    },
+    "513043": {
+      "name": "Freezing Stasis",
+      "briefDesc": "Each time the Ultimate hits a target inflicted with Frozen/Chill, increases its duration and Ultimate DMG.",
+      "type": "common",
+      "rarity": 2,
+      "imgId": "13001_Potential_41",
+      "id": 513043,
+      "subIcon": "Round"
+    }
+  },
   "132": {
     "513201": {
       "name": "Ultimatum",
@@ -6886,7 +7141,7 @@
   },
   "155": {
     "515501": {
-      "name": "Phantom Step Rediance",
+      "name": "Phantom Step Radiance",
       "briefDesc": "When dealing Auto Attack DMG, Snow Rabbit inflicts Electro Music that deals additional DMG upon reaching the max stack limit.",
       "type": "main",
       "rarity": 0,

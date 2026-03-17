@@ -62,15 +62,6 @@
     "attackType": "Melee",
     "tag": ["Vanguard", "Inquisitive", "Baize Bureau"]
   },
-  "116": {
-    "id": 116,
-    "name": "Ridge",
-    "star": 4,
-    "element": "Terra",
-    "class": "Versatile",
-    "attackType": "Ranged",
-    "tag": ["Versatile", "Collector", "United Harvest"]
-  },
   "117": {
     "id": 117,
     "name": "Jinglin",
@@ -142,6 +133,15 @@
     "class": "Support",
     "attackType": "Melee",
     "tag": ["Support", "Steady", "Post Haste"]
+  },
+  "130": {
+    "id": 130,
+    "name": "Donna",
+    "star": 5,
+    "element": "Aqua",
+    "class": "Versatile",
+    "attackType": "Ranged",
+    "tag": ["Versatile", "Creative", "Post Haste"]
   },
   "132": {
     "id": 132,

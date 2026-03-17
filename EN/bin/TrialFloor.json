@@ -1063,5 +1063,461 @@
     "DungeonDelay": 45000,
     "Theme": 101,
     "MonsterLv": 1
+  },
+  "1231301": {
+    "Id": 1231301,
+    "TrialChar": 130,
+    "TrialSectType": 1,
+    "SceneName": "Levels/TrainingLevels/TrainingLevels_01/TrainingLevels_01",
+    "ConfigPrefabName": "TutorialLevel_13001",
+    "TrialBuild": 13001,
+    "QuestFlow": [
+      1300101,
+      1300102,
+      1300103,
+      1300104
+    ],
+    "BGM": "travelerTrail_combatNormal_setState",
+    "LeaveTriggerEvent": "amb_city_all_stop",
+    "DungeonDelay": 45000,
+    "Theme": 101,
+    "MonsterLv": 1
+  },
+  "1231302": {
+    "Id": 1231302,
+    "TrialChar": 130,
+    "TrialSectType": 2,
+    "SceneName": "Levels/TrainingLevels/TrainingLevels_01/TrainingLevels_01",
+    "ConfigPrefabName": "TutorialLevel_13002",
+    "TrialBuild": 13002,
+    "QuestFlow": [
+      1300201,
+      1300202,
+      1300203,
+      1300204
+    ],
+    "BGM": "travelerTrail_combatNormal_setState",
+    "LeaveTriggerEvent": "amb_city_all_stop",
+    "DungeonDelay": 45000,
+    "Theme": 101,
+    "MonsterLv": 1
+  },
+  "1231303": {
+    "Id": 1231303,
+    "TrialChar": 130,
+    "TrialSectType": 3,
+    "SceneName": "Levels/TrainingLevels/TrainingLevels_01/TrainingLevels_01",
+    "ConfigPrefabName": "TutorialLevel_13003",
+    "TrialBuild": 13003,
+    "QuestFlow": [
+      1300301,
+      1300302,
+      1300303,
+      1300304
+    ],
+    "BGM": "travelerTrail_combatNormal_setState",
+    "LeaveTriggerEvent": "amb_city_all_stop",
+    "DungeonDelay": 45000,
+    "Theme": 101,
+    "MonsterLv": 1
+  },
+  "1231304": {
+    "Id": 1231304,
+    "TrialChar": 130,
+    "TrialSectType": 4,
+    "SceneName": "Levels/TrainingLevels/TrainingLevels_01/TrainingLevels_01",
+    "ConfigPrefabName": "TutorialLevel_13004",
+    "TrialBuild": 13004,
+    "QuestFlow": [
+      1300401,
+      1300402,
+      1300403,
+      1300404
+    ],
+    "BGM": "travelerTrail_combatNormal_setState",
+    "LeaveTriggerEvent": "amb_city_all_stop",
+    "DungeonDelay": 45000,
+    "Theme": 101,
+    "MonsterLv": 1
+  },
+  "1231561": {
+    "Id": 1231561,
+    "TrialChar": 156,
+    "TrialSectType": 1,
+    "SceneName": "Levels/TrainingLevels/TrainingLevels_01/TrainingLevels_01",
+    "ConfigPrefabName": "TutorialLevel_15601",
+    "TrialBuild": 15601,
+    "QuestFlow": [
+      1560101,
+      1560102,
+      1560103,
+      1560104
+    ],
+    "BGM": "travelerTrail_combatNormal_setState",
+    "LeaveTriggerEvent": "amb_city_all_stop",
+    "DungeonDelay": 45000,
+    "Theme": 101,
+    "MonsterLv": 1
+  },
+  "1231562": {
+    "Id": 1231562,
+    "TrialChar": 156,
+    "TrialSectType": 2,
+    "SceneName": "Levels/TrainingLevels/TrainingLevels_01/TrainingLevels_01",
+    "ConfigPrefabName": "TutorialLevel_15602",
+    "TrialBuild": 15602,
+    "QuestFlow": [
+      1560201,
+      1560202,
+      1560203,
+      1560204
+    ],
+    "BGM": "travelerTrail_combatNormal_setState",
+    "LeaveTriggerEvent": "amb_city_all_stop",
+    "DungeonDelay": 45000,
+    "Theme": 101,
+    "MonsterLv": 1
+  },
+  "1231563": {
+    "Id": 1231563,
+    "TrialChar": 156,
+    "TrialSectType": 3,
+    "SceneName": "Levels/TrainingLevels/TrainingLevels_01/TrainingLevels_01",
+    "ConfigPrefabName": "TutorialLevel_15603",
+    "TrialBuild": 15603,
+    "QuestFlow": [
+      1560301,
+      1560302,
+      1560303,
+      1560304
+    ],
+    "BGM": "travelerTrail_combatNormal_setState",
+    "LeaveTriggerEvent": "amb_city_all_stop",
+    "DungeonDelay": 45000,
+    "Theme": 101,
+    "MonsterLv": 1
+  },
+  "1231564": {
+    "Id": 1231564,
+    "TrialChar": 156,
+    "TrialSectType": 4,
+    "SceneName": "Levels/TrainingLevels/TrainingLevels_01/TrainingLevels_01",
+    "ConfigPrefabName": "TutorialLevel_15604",
+    "TrialBuild": 15604,
+    "QuestFlow": [
+      1560401,
+      1560402,
+      1560403,
+      1560404
+    ],
+    "BGM": "travelerTrail_combatNormal_setState",
+    "LeaveTriggerEvent": "amb_city_all_stop",
+    "DungeonDelay": 45000,
+    "Theme": 101,
+    "MonsterLv": 1
+  },
+  "1231451": {
+    "Id": 1231451,
+    "TrialChar": 145,
+    "TrialSectType": 1,
+    "SceneName": "Levels/TrainingLevels/TrainingLevels_01/TrainingLevels_01",
+    "ConfigPrefabName": "TutorialLevel_14501",
+    "TrialBuild": 14501,
+    "QuestFlow": [
+      1450101,
+      1450102,
+      1450103,
+      1450104
+    ],
+    "BGM": "travelerTrail_combatNormal_setState",
+    "LeaveTriggerEvent": "amb_city_all_stop",
+    "DungeonDelay": 45000,
+    "Theme": 101,
+    "MonsterLv": 1
+  },
+  "1231452": {
+    "Id": 1231452,
+    "TrialChar": 145,
+    "TrialSectType": 2,
+    "SceneName": "Levels/TrainingLevels/TrainingLevels_01/TrainingLevels_01",
+    "ConfigPrefabName": "TutorialLevel_14502",
+    "TrialBuild": 14502,
+    "QuestFlow": [
+      1450201,
+      1450202,
+      1450203,
+      1450204
+    ],
+    "BGM": "travelerTrail_combatNormal_setState",
+    "LeaveTriggerEvent": "amb_city_all_stop",
+    "DungeonDelay": 45000,
+    "Theme": 101,
+    "MonsterLv": 1
+  },
+  "1231453": {
+    "Id": 1231453,
+    "TrialChar": 145,
+    "TrialSectType": 3,
+    "SceneName": "Levels/TrainingLevels/TrainingLevels_01/TrainingLevels_01",
+    "ConfigPrefabName": "TutorialLevel_14503",
+    "TrialBuild": 14503,
+    "QuestFlow": [
+      1450301,
+      1450302,
+      1450303,
+      1450304
+    ],
+    "BGM": "travelerTrail_combatNormal_setState",
+    "LeaveTriggerEvent": "amb_city_all_stop",
+    "DungeonDelay": 45000,
+    "Theme": 101,
+    "MonsterLv": 1
+  },
+  "1231454": {
+    "Id": 1231454,
+    "TrialChar": 145,
+    "TrialSectType": 4,
+    "SceneName": "Levels/TrainingLevels/TrainingLevels_01/TrainingLevels_01",
+    "ConfigPrefabName": "TutorialLevel_14504",
+    "TrialBuild": 14504,
+    "QuestFlow": [
+      1450401,
+      1450402,
+      1450403,
+      1450404
+    ],
+    "BGM": "travelerTrail_combatNormal_setState",
+    "LeaveTriggerEvent": "amb_city_all_stop",
+    "DungeonDelay": 45000,
+    "Theme": 101,
+    "MonsterLv": 1
+  },
+  "1231151": {
+    "Id": 1231151,
+    "TrialChar": 115,
+    "TrialSectType": 1,
+    "SceneName": "Levels/TrainingLevels/TrainingLevels_01/TrainingLevels_01",
+    "ConfigPrefabName": "TutorialLevel_11501",
+    "TrialBuild": 11501,
+    "QuestFlow": [
+      1150101,
+      1150102,
+      1150103,
+      1150104
+    ],
+    "BGM": "travelerTrail_combatNormal_setState",
+    "LeaveTriggerEvent": "amb_city_all_stop",
+    "DungeonDelay": 45000,
+    "Theme": 101,
+    "MonsterLv": 1
+  },
+  "1231152": {
+    "Id": 1231152,
+    "TrialChar": 115,
+    "TrialSectType": 2,
+    "SceneName": "Levels/TrainingLevels/TrainingLevels_01/TrainingLevels_01",
+    "ConfigPrefabName": "TutorialLevel_11502",
+    "TrialBuild": 11502,
+    "QuestFlow": [
+      1150201,
+      1150202,
+      1150203,
+      1150204
+    ],
+    "BGM": "travelerTrail_combatNormal_setState",
+    "LeaveTriggerEvent": "amb_city_all_stop",
+    "DungeonDelay": 45000,
+    "Theme": 101,
+    "MonsterLv": 1
+  },
+  "1231153": {
+    "Id": 1231153,
+    "TrialChar": 115,
+    "TrialSectType": 3,
+    "SceneName": "Levels/TrainingLevels/TrainingLevels_01/TrainingLevels_01",
+    "ConfigPrefabName": "TutorialLevel_11503",
+    "TrialBuild": 11503,
+    "QuestFlow": [
+      1150301,
+      1150302,
+      1150303,
+      1150304
+    ],
+    "BGM": "travelerTrail_combatNormal_setState",
+    "LeaveTriggerEvent": "amb_city_all_stop",
+    "DungeonDelay": 45000,
+    "Theme": 101,
+    "MonsterLv": 1
+  },
+  "1231154": {
+    "Id": 1231154,
+    "TrialChar": 115,
+    "TrialSectType": 4,
+    "SceneName": "Levels/TrainingLevels/TrainingLevels_01/TrainingLevels_01",
+    "ConfigPrefabName": "TutorialLevel_11504",
+    "TrialBuild": 11504,
+    "QuestFlow": [
+      1150401,
+      1150402,
+      1150403,
+      1150404
+    ],
+    "BGM": "travelerTrail_combatNormal_setState",
+    "LeaveTriggerEvent": "amb_city_all_stop",
+    "DungeonDelay": 45000,
+    "Theme": 101,
+    "MonsterLv": 1
+  },
+  "1231401": {
+    "Id": 1231401,
+    "TrialChar": 140,
+    "TrialSectType": 1,
+    "SceneName": "Levels/TrainingLevels/TrainingLevels_01/TrainingLevels_01",
+    "ConfigPrefabName": "TutorialLevel_14001",
+    "TrialBuild": 14001,
+    "QuestFlow": [
+      1400101,
+      1400102,
+      1400103,
+      1400104
+    ],
+    "BGM": "travelerTrail_combatNormal_setState",
+    "LeaveTriggerEvent": "amb_city_all_stop",
+    "DungeonDelay": 45000,
+    "Theme": 101,
+    "MonsterLv": 1
+  },
+  "1231402": {
+    "Id": 1231402,
+    "TrialChar": 140,
+    "TrialSectType": 2,
+    "SceneName": "Levels/TrainingLevels/TrainingLevels_01/TrainingLevels_01",
+    "ConfigPrefabName": "TutorialLevel_14002",
+    "TrialBuild": 14002,
+    "QuestFlow": [
+      1400201,
+      1400202,
+      1400203,
+      1400204
+    ],
+    "BGM": "travelerTrail_combatNormal_setState",
+    "LeaveTriggerEvent": "amb_city_all_stop",
+    "DungeonDelay": 45000,
+    "Theme": 101,
+    "MonsterLv": 1
+  },
+  "1231403": {
+    "Id": 1231403,
+    "TrialChar": 140,
+    "TrialSectType": 3,
+    "SceneName": "Levels/TrainingLevels/TrainingLevels_01/TrainingLevels_01",
+    "ConfigPrefabName": "TutorialLevel_14003",
+    "TrialBuild": 14003,
+    "QuestFlow": [
+      1400301,
+      1400302,
+      1400303,
+      1400304
+    ],
+    "BGM": "travelerTrail_combatNormal_setState",
+    "LeaveTriggerEvent": "amb_city_all_stop",
+    "DungeonDelay": 45000,
+    "Theme": 101,
+    "MonsterLv": 1
+  },
+  "1231404": {
+    "Id": 1231404,
+    "TrialChar": 140,
+    "TrialSectType": 4,
+    "SceneName": "Levels/TrainingLevels/TrainingLevels_01/TrainingLevels_01",
+    "ConfigPrefabName": "TutorialLevel_14004",
+    "TrialBuild": 14004,
+    "QuestFlow": [
+      1400401,
+      1400402,
+      1400403,
+      1400404
+    ],
+    "BGM": "travelerTrail_combatNormal_setState",
+    "LeaveTriggerEvent": "amb_city_all_stop",
+    "DungeonDelay": 45000,
+    "Theme": 101,
+    "MonsterLv": 1
+  },
+  "1231141": {
+    "Id": 1231141,
+    "TrialChar": 114,
+    "TrialSectType": 1,
+    "SceneName": "Levels/TrainingLevels/TrainingLevels_01/TrainingLevels_01",
+    "ConfigPrefabName": "TutorialLevel_11401",
+    "TrialBuild": 11401,
+    "QuestFlow": [
+      1140101,
+      1140102,
+      1140103,
+      1140104
+    ],
+    "BGM": "travelerTrail_combatNormal_setState",
+    "LeaveTriggerEvent": "amb_city_all_stop",
+    "DungeonDelay": 45000,
+    "Theme": 101,
+    "MonsterLv": 1
+  },
+  "1231142": {
+    "Id": 1231142,
+    "TrialChar": 114,
+    "TrialSectType": 2,
+    "SceneName": "Levels/TrainingLevels/TrainingLevels_01/TrainingLevels_01",
+    "ConfigPrefabName": "TutorialLevel_11402",
+    "TrialBuild": 11402,
+    "QuestFlow": [
+      1140201,
+      1140202,
+      1140203,
+      1140204
+    ],
+    "BGM": "travelerTrail_combatNormal_setState",
+    "LeaveTriggerEvent": "amb_city_all_stop",
+    "DungeonDelay": 45000,
+    "Theme": 101,
+    "MonsterLv": 1
+  },
+  "1231143": {
+    "Id": 1231143,
+    "TrialChar": 114,
+    "TrialSectType": 3,
+    "SceneName": "Levels/TrainingLevels/TrainingLevels_01/TrainingLevels_01",
+    "ConfigPrefabName": "TutorialLevel_11403",
+    "TrialBuild": 11403,
+    "QuestFlow": [
+      1140301,
+      1140302,
+      1140303,
+      1140304
+    ],
+    "BGM": "travelerTrail_combatNormal_setState",
+    "LeaveTriggerEvent": "amb_city_all_stop",
+    "DungeonDelay": 45000,
+    "Theme": 101,
+    "MonsterLv": 1
+  },
+  "1231144": {
+    "Id": 1231144,
+    "TrialChar": 114,
+    "TrialSectType": 4,
+    "SceneName": "Levels/TrainingLevels/TrainingLevels_01/TrainingLevels_01",
+    "ConfigPrefabName": "TutorialLevel_11404",
+    "TrialBuild": 11404,
+    "QuestFlow": [
+      1140401,
+      1140402,
+      1140403,
+      1140404
+    ],
+    "BGM": "travelerTrail_combatNormal_setState",
+    "LeaveTriggerEvent": "amb_city_all_stop",
+    "DungeonDelay": 45000,
+    "Theme": 101,
+    "MonsterLv": 1
   }
 }

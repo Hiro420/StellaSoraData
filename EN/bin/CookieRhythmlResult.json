@@ -11,7 +11,7 @@
     "ResultType": 2,
     "ResultName": "Perfect",
     "Range": 0.08,
-    "OtherCondition": "&",
+    "OtherCondition": "\u0026",
     "AddScoreType": 1,
     "AddScore": 10
   },
@@ -20,13 +20,13 @@
     "ResultType": 3,
     "ResultName": "Good",
     "Range": 0.2,
-    "OtherCondition": "&"
+    "OtherCondition": "\u0026"
   },
   "4": {
     "Id": 4,
     "ResultType": 4,
     "ResultName": "Miss",
     "Range": 0.25,
-    "OtherCondition": "&"
+    "OtherCondition": "\u0026"
   }
 }

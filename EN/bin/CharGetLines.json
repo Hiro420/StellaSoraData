@@ -34,6 +34,13 @@
     "SkinId": 10303,
     "Lines": "CharGetLines.10305.1"
   },
+  "10306": {
+    "Id": 10306,
+    "Character": 103,
+    "Type": 5,
+    "SkinId": 10304,
+    "Lines": "CharGetLines.10306.1"
+  },
   "10701": {
     "Id": 10701,
     "Character": 107,
@@ -69,6 +76,13 @@
     "SkinId": 10703,
     "Lines": "CharGetLines.10705.1"
   },
+  "10706": {
+    "Id": 10706,
+    "Character": 107,
+    "Type": 5,
+    "SkinId": 10704,
+    "Lines": "CharGetLines.10706.1"
+  },
   "10801": {
     "Id": 10801,
     "Character": 108,
@@ -97,6 +111,20 @@
     "voResource": "vo_108_ui_unlockCG_001",
     "Lines": "CharGetLines.10804.1"
   },
+  "10805": {
+    "Id": 10805,
+    "Character": 108,
+    "Type": 5,
+    "SkinId": 10803,
+    "Lines": "CharGetLines.10805.1"
+  },
+  "10806": {
+    "Id": 10806,
+    "Character": 108,
+    "Type": 5,
+    "SkinId": 10804,
+    "Lines": "CharGetLines.10806.1"
+  },
   "11001": {
     "Id": 11001,
     "Character": 110,
@@ -124,6 +152,20 @@
     "Type": 4,
     "voResource": "vo_110_ui_unlockCG_001",
     "Lines": "CharGetLines.11004.1"
+  },
+  "11005": {
+    "Id": 11005,
+    "Character": 110,
+    "Type": 5,
+    "SkinId": 11003,
+    "Lines": "CharGetLines.11005.1"
+  },
+  "11006": {
+    "Id": 11006,
+    "Character": 110,
+    "Type": 5,
+    "SkinId": 11004,
+    "Lines": "CharGetLines.11006.1"
   },
   "11101": {
     "Id": 11101,
@@ -160,6 +202,13 @@
     "SkinId": 11103,
     "Lines": "CharGetLines.11105.1"
   },
+  "11106": {
+    "Id": 11106,
+    "Character": 111,
+    "Type": 5,
+    "SkinId": 11104,
+    "Lines": "CharGetLines.11106.1"
+  },
   "11201": {
     "Id": 11201,
     "Character": 112,
@@ -195,6 +244,13 @@
     "SkinId": 11203,
     "Lines": "CharGetLines.11205.1"
   },
+  "11206": {
+    "Id": 11206,
+    "Character": 112,
+    "Type": 5,
+    "SkinId": 11204,
+    "Lines": "CharGetLines.11206.1"
+  },
   "11301": {
     "Id": 11301,
     "Character": 113,
@@ -222,6 +278,20 @@
     "Type": 4,
     "voResource": "vo_113_ui_unlockCG_001",
     "Lines": "CharGetLines.11304.1"
+  },
+  "11305": {
+    "Id": 11305,
+    "Character": 113,
+    "Type": 5,
+    "SkinId": 11303,
+    "Lines": "CharGetLines.11305.1"
+  },
+  "11306": {
+    "Id": 11306,
+    "Character": 113,
+    "Type": 5,
+    "SkinId": 11304,
+    "Lines": "CharGetLines.11306.1"
   },
   "11401": {
     "Id": 11401,
@@ -251,6 +321,20 @@
     "voResource": "vo_114_ui_unlockCG_001",
     "Lines": "CharGetLines.11404.1"
   },
+  "11405": {
+    "Id": 11405,
+    "Character": 114,
+    "Type": 5,
+    "SkinId": 11403,
+    "Lines": "CharGetLines.11405.1"
+  },
+  "11406": {
+    "Id": 11406,
+    "Character": 114,
+    "Type": 5,
+    "SkinId": 11404,
+    "Lines": "CharGetLines.11406.1"
+  },
   "11501": {
     "Id": 11501,
     "Character": 115,
@@ -278,6 +362,20 @@
     "Type": 4,
     "voResource": "vo_115_ui_unlockCG_001",
     "Lines": "CharGetLines.11504.1"
+  },
+  "11505": {
+    "Id": 11505,
+    "Character": 115,
+    "Type": 5,
+    "SkinId": 11503,
+    "Lines": "CharGetLines.11505.1"
+  },
+  "11506": {
+    "Id": 11506,
+    "Character": 115,
+    "Type": 5,
+    "SkinId": 11504,
+    "Lines": "CharGetLines.11506.1"
   },
   "11601": {
     "Id": 11601,
@@ -307,6 +405,20 @@
     "voResource": "vo_116_ui_unlockCG_001",
     "Lines": "CharGetLines.11604.1"
   },
+  "11605": {
+    "Id": 11605,
+    "Character": 116,
+    "Type": 5,
+    "SkinId": 11603,
+    "Lines": "CharGetLines.11605.1"
+  },
+  "11606": {
+    "Id": 11606,
+    "Character": 116,
+    "Type": 5,
+    "SkinId": 11604,
+    "Lines": "CharGetLines.11606.1"
+  },
   "11701": {
     "Id": 11701,
     "Character": 117,
@@ -335,6 +447,20 @@
     "voResource": "vo_117_ui_unlockCG_001",
     "Lines": "CharGetLines.11704.1"
   },
+  "11705": {
+    "Id": 11705,
+    "Character": 117,
+    "Type": 5,
+    "SkinId": 11703,
+    "Lines": "CharGetLines.11705.1"
+  },
+  "11706": {
+    "Id": 11706,
+    "Character": 117,
+    "Type": 5,
+    "SkinId": 11704,
+    "Lines": "CharGetLines.11706.1"
+  },
   "11801": {
     "Id": 11801,
     "Character": 118,
@@ -362,6 +488,20 @@
     "Type": 4,
     "voResource": "vo_118_ui_unlockCG_001",
     "Lines": "CharGetLines.11804.1"
+  },
+  "11805": {
+    "Id": 11805,
+    "Character": 118,
+    "Type": 5,
+    "SkinId": 11803,
+    "Lines": "CharGetLines.11805.1"
+  },
+  "11806": {
+    "Id": 11806,
+    "Character": 118,
+    "Type": 5,
+    "SkinId": 11804,
+    "Lines": "CharGetLines.11806.1"
   },
   "11901": {
     "Id": 11901,
@@ -398,6 +538,13 @@
     "SkinId": 11903,
     "Lines": "CharGetLines.11905.1"
   },
+  "11906": {
+    "Id": 11906,
+    "Character": 119,
+    "Type": 5,
+    "SkinId": 11904,
+    "Lines": "CharGetLines.11906.1"
+  },
   "12001": {
     "Id": 12001,
     "Character": 120,
@@ -426,6 +573,20 @@
     "voResource": "vo_120_ui_unlockCG_001",
     "Lines": "CharGetLines.12004.1"
   },
+  "12005": {
+    "Id": 12005,
+    "Character": 120,
+    "Type": 5,
+    "SkinId": 12003,
+    "Lines": "CharGetLines.12005.1"
+  },
+  "12006": {
+    "Id": 12006,
+    "Character": 120,
+    "Type": 5,
+    "SkinId": 12004,
+    "Lines": "CharGetLines.12006.1"
+  },
   "12301": {
     "Id": 12301,
     "Character": 123,
@@ -453,6 +614,20 @@
     "Type": 4,
     "voResource": "vo_123_ui_unlockCG_001",
     "Lines": "CharGetLines.12304.1"
+  },
+  "12305": {
+    "Id": 12305,
+    "Character": 123,
+    "Type": 5,
+    "SkinId": 12303,
+    "Lines": "CharGetLines.12305.1"
+  },
+  "12306": {
+    "Id": 12306,
+    "Character": 123,
+    "Type": 5,
+    "SkinId": 12304,
+    "Lines": "CharGetLines.12306.1"
   },
   "12501": {
     "Id": 12501,
@@ -489,6 +664,13 @@
     "SkinId": 12503,
     "Lines": "CharGetLines.12505.1"
   },
+  "12506": {
+    "Id": 12506,
+    "Character": 125,
+    "Type": 5,
+    "SkinId": 12504,
+    "Lines": "CharGetLines.12506.1"
+  },
   "12601": {
     "Id": 12601,
     "Character": 126,
@@ -516,6 +698,20 @@
     "Type": 4,
     "voResource": "vo_126_ui_unlockCG_001",
     "Lines": "CharGetLines.12604.1"
+  },
+  "12605": {
+    "Id": 12605,
+    "Character": 126,
+    "Type": 5,
+    "SkinId": 12603,
+    "Lines": "CharGetLines.12605.1"
+  },
+  "12606": {
+    "Id": 12606,
+    "Character": 126,
+    "Type": 5,
+    "SkinId": 12604,
+    "Lines": "CharGetLines.12606.1"
   },
   "12701": {
     "Id": 12701,
@@ -545,6 +741,20 @@
     "voResource": "vo_127_ui_unlockCG_001",
     "Lines": "CharGetLines.12704.1"
   },
+  "12705": {
+    "Id": 12705,
+    "Character": 127,
+    "Type": 5,
+    "SkinId": 12703,
+    "Lines": "CharGetLines.12705.1"
+  },
+  "12706": {
+    "Id": 12706,
+    "Character": 127,
+    "Type": 5,
+    "SkinId": 12704,
+    "Lines": "CharGetLines.12706.1"
+  },
   "13001": {
     "Id": 13001,
     "Character": 130,
@@ -572,6 +782,20 @@
     "Type": 4,
     "voResource": "vo_130_ui_unlockCG_001",
     "Lines": "CharGetLines.13004.1"
+  },
+  "13005": {
+    "Id": 13005,
+    "Character": 130,
+    "Type": 5,
+    "SkinId": 13003,
+    "Lines": "CharGetLines.13005.1"
+  },
+  "13006": {
+    "Id": 13006,
+    "Character": 130,
+    "Type": 5,
+    "SkinId": 13004,
+    "Lines": "CharGetLines.13006.1"
   },
   "13201": {
     "Id": 13201,
@@ -608,6 +832,13 @@
     "SkinId": 13203,
     "Lines": "CharGetLines.13205.1"
   },
+  "13206": {
+    "Id": 13206,
+    "Character": 132,
+    "Type": 5,
+    "SkinId": 13204,
+    "Lines": "CharGetLines.13206.1"
+  },
   "13301": {
     "Id": 13301,
     "Character": 133,
@@ -635,6 +866,20 @@
     "Type": 4,
     "voResource": "vo_133_ui_unlockCG_001",
     "Lines": "CharGetLines.13304.1"
+  },
+  "13305": {
+    "Id": 13305,
+    "Character": 133,
+    "Type": 5,
+    "SkinId": 13303,
+    "Lines": "CharGetLines.13305.1"
+  },
+  "13306": {
+    "Id": 13306,
+    "Character": 133,
+    "Type": 5,
+    "SkinId": 13304,
+    "Lines": "CharGetLines.13306.1"
   },
   "13401": {
     "Id": 13401,
@@ -671,6 +916,13 @@
     "SkinId": 13403,
     "Lines": "CharGetLines.13405.1"
   },
+  "13406": {
+    "Id": 13406,
+    "Character": 134,
+    "Type": 5,
+    "SkinId": 13404,
+    "Lines": "CharGetLines.13406.1"
+  },
   "13501": {
     "Id": 13501,
     "Character": 135,
@@ -706,6 +958,13 @@
     "SkinId": 13503,
     "Lines": "CharGetLines.13505.1"
   },
+  "13506": {
+    "Id": 13506,
+    "Character": 135,
+    "Type": 5,
+    "SkinId": 13504,
+    "Lines": "CharGetLines.13506.1"
+  },
   "14101": {
     "Id": 14101,
     "Character": 141,
@@ -733,6 +992,20 @@
     "Type": 4,
     "voResource": "vo_141_ui_unlockCG_001",
     "Lines": "CharGetLines.14104.1"
+  },
+  "14105": {
+    "Id": 14105,
+    "Character": 141,
+    "Type": 5,
+    "SkinId": 14103,
+    "Lines": "CharGetLines.14105.1"
+  },
+  "14106": {
+    "Id": 14106,
+    "Character": 141,
+    "Type": 5,
+    "SkinId": 14104,
+    "Lines": "CharGetLines.14106.1"
   },
   "14201": {
     "Id": 14201,
@@ -762,6 +1035,20 @@
     "voResource": "vo_142_ui_unlockCG_001",
     "Lines": "CharGetLines.14204.1"
   },
+  "14205": {
+    "Id": 14205,
+    "Character": 142,
+    "Type": 5,
+    "SkinId": 14203,
+    "Lines": "CharGetLines.14205.1"
+  },
+  "14206": {
+    "Id": 14206,
+    "Character": 142,
+    "Type": 5,
+    "SkinId": 14204,
+    "Lines": "CharGetLines.14206.1"
+  },
   "14301": {
     "Id": 14301,
     "Character": 143,
@@ -790,6 +1077,20 @@
     "voResource": "vo_143_ui_unlockCG_001",
     "Lines": "CharGetLines.14304.1"
   },
+  "14305": {
+    "Id": 14305,
+    "Character": 143,
+    "Type": 5,
+    "SkinId": 14303,
+    "Lines": "CharGetLines.14305.1"
+  },
+  "14306": {
+    "Id": 14306,
+    "Character": 143,
+    "Type": 5,
+    "SkinId": 14304,
+    "Lines": "CharGetLines.14306.1"
+  },
   "14401": {
     "Id": 14401,
     "Character": 144,
@@ -817,6 +1118,20 @@
     "Type": 4,
     "voResource": "vo_144_ui_unlockCG_001",
     "Lines": "CharGetLines.14404.1"
+  },
+  "14405": {
+    "Id": 14405,
+    "Character": 144,
+    "Type": 5,
+    "SkinId": 14403,
+    "Lines": "CharGetLines.14405.1"
+  },
+  "14406": {
+    "Id": 14406,
+    "Character": 144,
+    "Type": 5,
+    "SkinId": 14404,
+    "Lines": "CharGetLines.14406.1"
   },
   "14701": {
     "Id": 14701,
@@ -853,6 +1168,13 @@
     "SkinId": 14703,
     "Lines": "CharGetLines.14705.1"
   },
+  "14706": {
+    "Id": 14706,
+    "Character": 147,
+    "Type": 5,
+    "SkinId": 14704,
+    "Lines": "CharGetLines.14706.1"
+  },
   "14901": {
     "Id": 14901,
     "Character": 149,
@@ -888,6 +1210,13 @@
     "SkinId": 14903,
     "Lines": "CharGetLines.14905.1"
   },
+  "14906": {
+    "Id": 14906,
+    "Character": 149,
+    "Type": 5,
+    "SkinId": 14904,
+    "Lines": "CharGetLines.14906.1"
+  },
   "15001": {
     "Id": 15001,
     "Character": 150,
@@ -915,6 +1244,20 @@
     "Type": 4,
     "voResource": "vo_150_ui_unlockCG_001",
     "Lines": "CharGetLines.15004.1"
+  },
+  "15005": {
+    "Id": 15005,
+    "Character": 150,
+    "Type": 5,
+    "SkinId": 15003,
+    "Lines": "CharGetLines.15005.1"
+  },
+  "15006": {
+    "Id": 15006,
+    "Character": 150,
+    "Type": 5,
+    "SkinId": 15004,
+    "Lines": "CharGetLines.15006.1"
   },
   "15501": {
     "Id": 15501,
@@ -944,6 +1287,20 @@
     "voResource": "vo_155_ui_unlockCG_001",
     "Lines": "CharGetLines.15504.1"
   },
+  "15505": {
+    "Id": 15505,
+    "Character": 155,
+    "Type": 5,
+    "SkinId": 15503,
+    "Lines": "CharGetLines.15505.1"
+  },
+  "15506": {
+    "Id": 15506,
+    "Character": 155,
+    "Type": 5,
+    "SkinId": 15504,
+    "Lines": "CharGetLines.15506.1"
+  },
   "15601": {
     "Id": 15601,
     "Character": 156,
@@ -971,6 +1328,20 @@
     "Type": 4,
     "voResource": "vo_156_ui_unlockCG_001",
     "Lines": "CharGetLines.15604.1"
+  },
+  "15605": {
+    "Id": 15605,
+    "Character": 156,
+    "Type": 5,
+    "SkinId": 15603,
+    "Lines": "CharGetLines.15605.1"
+  },
+  "15606": {
+    "Id": 15606,
+    "Character": 156,
+    "Type": 5,
+    "SkinId": 15604,
+    "Lines": "CharGetLines.15606.1"
   },
   "15801": {
     "Id": 15801,
@@ -1000,6 +1371,20 @@
     "voResource": "vo_158_ui_unlockCG_001",
     "Lines": "CharGetLines.15804.1"
   },
+  "15805": {
+    "Id": 15805,
+    "Character": 158,
+    "Type": 5,
+    "SkinId": 15803,
+    "Lines": "CharGetLines.15805.1"
+  },
+  "15806": {
+    "Id": 15806,
+    "Character": 158,
+    "Type": 5,
+    "SkinId": 15804,
+    "Lines": "CharGetLines.15806.1"
+  },
   "15901": {
     "Id": 15901,
     "Character": 159,
@@ -1027,5 +1412,19 @@
     "Type": 4,
     "voResource": "vo_159_ui_unlockCG_001",
     "Lines": "CharGetLines.15904.1"
+  },
+  "15905": {
+    "Id": 15905,
+    "Character": 159,
+    "Type": 5,
+    "SkinId": 15903,
+    "Lines": "CharGetLines.15905.1"
+  },
+  "15906": {
+    "Id": 15906,
+    "Character": 159,
+    "Type": 5,
+    "SkinId": 15904,
+    "Lines": "CharGetLines.15906.1"
   }
 }
