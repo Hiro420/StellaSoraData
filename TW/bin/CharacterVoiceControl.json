@@ -91,6 +91,7 @@
   },
   "music": {
     "Id": "music",
+    "probability": 50,
     "resType": 3,
     "worldLevelTypes": [
       11
@@ -100,6 +101,7 @@
   },
   "uniMusic": {
     "Id": "uniMusic",
+    "probability": 50,
     "resType": 4,
     "worldLevelTypes": [
       11

@@ -145,10 +145,10 @@
     "Param4": "ScoreBossAbility,NoLevel,100009,Value4,Pct",
     "Param5": "ScoreBossAbility,NoLevel,100009,Value5,Pct",
     "Value1": "30",
-    "Value2": "50",
-    "Value3": "50",
-    "Value4": "50",
-    "Value5": "50"
+    "Value2": "30",
+    "Value3": "65",
+    "Value4": "30",
+    "Value5": "65"
   },
   "100010": {
     "Id": 100010,
@@ -160,17 +160,17 @@
     ],
     "Param1": "ScoreBossAbility,NoLevel,100004,Value1,Pct",
     "Param2": "ScoreBossAbility,NoLevel,100010,Value2,Fixed",
-    "Param3": "EffectValue,NoLevel,631001002,EffectTypeParam1,HdPct",
+    "Param3": "ScoreBossAbility,NoLevel,100010,Value3,Fixed",
     "Param4": "ScoreBossAbility,NoLevel,100010,Value4,Fixed",
-    "Param5": "EffectValue,NoLevel,631001003,EffectTypeParam1,HdPct",
+    "Param5": "EffectValue,NoLevel,631001002,EffectTypeParam1,HdPct",
     "Param6": "ScoreBossAbility,NoLevel,100010,Value6,Fixed",
-    "Param7": "ScoreBossAbility,NoLevel,100010,Value7,Fixed",
+    "Param7": "EffectValue,NoLevel,631001003,EffectTypeParam1,HdPct",
     "Value1": "30",
-    "Value2": "20",
-    "Value3": "100",
-    "Value4": "10",
-    "Value5": "50",
+    "Value2": "10",
+    "Value3": "20",
+    "Value4": "20",
+    "Value5": "45",
     "Value6": "10",
-    "Value7": "20"
+    "Value7": "45"
   }
 }

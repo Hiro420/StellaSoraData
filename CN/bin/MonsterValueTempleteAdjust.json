@@ -14163,7 +14163,7 @@
   },
   "7010101": {
     "Id": 7010101,
-    "TemplateId": 7880,
+    "TemplateId": 7885,
     "EET": 7,
     "WERFix": 570,
     "FERFix": 570,
@@ -14171,11 +14171,22 @@
     "AERFix": 570,
     "LERFix": 570,
     "DERFix": 570,
-    "ToughnessRatio": -2500
+    "ToughnessRatio": -1500
+  },
+  "7010102": {
+    "Id": 7010102,
+    "TemplateId": 7886,
+    "EET": 7,
+    "WERFix": 570,
+    "FERFix": 570,
+    "SERFix": 570,
+    "AERFix": 570,
+    "LERFix": 570,
+    "DERFix": 570
   },
   "7010113": {
     "Id": 7010113,
-    "TemplateId": 7880,
+    "TemplateId": 7885,
     "EET": 7,
     "WERFix": 570,
     "FERFix": 570,
@@ -14183,66 +14194,81 @@
     "AERFix": 570,
     "LERFix": 570,
     "DERFix": 570,
-    "ToughnessRatio": -2500
+    "ToughnessRatio": -1500
   },
   "7010106": {
     "Id": 7010106,
-    "TemplateId": 7883,
+    "TemplateId": 7887,
     "EET": 7,
     "WERFix": 570,
     "FERFix": 570,
     "SERFix": 570,
     "AERFix": 570,
     "LERFix": 570,
-    "DERFix": 570,
-    "ToughnessRatio": -10000
+    "DERFix": 570
   },
   "7010115": {
     "Id": 7010115,
-    "TemplateId": 7880,
+    "TemplateId": 7885,
     "EET": 7,
     "WeakEET": [
       4,
       3
     ],
-    "HpRatio": 1500,
     "WERFix": 750,
     "FERFix": 750,
     "SERFix": 250,
     "AERFix": 250,
     "LERFix": 750,
     "DERFix": 750,
-    "ToughnessRatio": -1950
+    "ToughnessRatio": -1500
+  },
+  "7010116": {
+    "Id": 7010116,
+    "TemplateId": 7886,
+    "EET": 7,
+    "WeakEET": [
+      4,
+      3
+    ],
+    "WERFix": 750,
+    "FERFix": 750,
+    "SERFix": 250,
+    "AERFix": 250,
+    "LERFix": 750,
+    "DERFix": 750
   },
   "7010127": {
     "Id": 7010127,
-    "TemplateId": 7880,
+    "TemplateId": 7885,
     "EET": 7,
     "WeakEET": [
       4,
       3
     ],
-    "HpRatio": 1500,
     "WERFix": 750,
     "FERFix": 750,
     "SERFix": 250,
     "AERFix": 250,
     "LERFix": 750,
     "DERFix": 750,
-    "ToughnessRatio": -1950
+    "ToughnessRatio": -1500
   },
   "7010120": {
     "Id": 7010120,
-    "TemplateId": 7883,
+    "TemplateId": 7887,
     "EET": 7,
-    "HpRatio": 15000,
-    "WERFix": 570,
-    "FERFix": 570,
-    "SERFix": 570,
-    "AERFix": 570,
-    "LERFix": 570,
-    "DERFix": 570,
-    "ToughnessRatio": -10000
+    "WeakEET": [
+      4,
+      3
+    ],
+    "HpRatio": -2000,
+    "WERFix": 750,
+    "FERFix": 750,
+    "SERFix": 250,
+    "AERFix": 250,
+    "LERFix": 750,
+    "DERFix": 750
   },
   "999": {
     "Id": 999,
