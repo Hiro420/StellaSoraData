@@ -7059,6 +7059,10 @@
     "Id": "Plot_Index",
     "Text": "UIText.Plot_Index.1"
   },
+  "Skin_Plot_Index": {
+    "Id": "Skin_Plot_Index",
+    "Text": "UIText.Skin_Plot_Index.1"
+  },
   "Login_Click_Tip": {
     "Id": "Login_Click_Tip",
     "Text": "UIText.Login_Click_Tip.1"
@@ -7394,6 +7398,18 @@
   "Daily_Voice": {
     "Id": "Daily_Voice",
     "Text": "UIText.Daily_Voice.1"
+  },
+  "Skin_Voice": {
+    "Id": "Skin_Voice",
+    "Text": "UIText.Skin_Voice.1"
+  },
+  "Plot_Title_Normal": {
+    "Id": "Plot_Title_Normal",
+    "Text": "UIText.Plot_Title_Normal.1"
+  },
+  "Plot_Title_Skin": {
+    "Id": "Plot_Title_Skin",
+    "Text": "UIText.Plot_Title_Skin.1"
   },
   "ThemePrev_Title": {
     "Id": "ThemePrev_Title",
@@ -10951,6 +10967,10 @@
     "Id": "Affinity_UnLock_PrePlot",
     "Text": "UIText.Affinity_UnLock_PrePlot.1"
   },
+  "Affinity_UnLock_PrePlot_Skin": {
+    "Id": "Affinity_UnLock_PrePlot_Skin",
+    "Text": "UIText.Affinity_UnLock_PrePlot_Skin.1"
+  },
   "BattlePass_RewardDesc": {
     "Id": "BattlePass_RewardDesc",
     "Text": "UIText.BattlePass_RewardDesc.1"
@@ -12547,6 +12567,10 @@
     "Id": "TowerDef_NeedPassPreLevel",
     "Text": "UIText.TowerDef_NeedPassPreLevel.1"
   },
+  "TowerDef_PreLevelNotPass": {
+    "Id": "TowerDef_PreLevelNotPass",
+    "Text": "UIText.TowerDef_PreLevelNotPass.1"
+  },
   "TowerDef_MonsterInfo": {
     "Id": "TowerDef_MonsterInfo",
     "Text": "UIText.TowerDef_MonsterInfo.1"
@@ -12662,6 +12686,14 @@
   "TowerDef_Skip_Go": {
     "Id": "TowerDef_Skip_Go",
     "Text": "UIText.TowerDef_Skip_Go.1"
+  },
+  "TowerDef_Perfect": {
+    "Id": "TowerDef_Perfect",
+    "Text": "UIText.TowerDef_Perfect.1"
+  },
+  "TowerDef_MapInfo": {
+    "Id": "TowerDef_MapInfo",
+    "Text": "UIText.TowerDef_MapInfo.1"
   },
   "StartowerBook_NPCAffinityTitle": {
     "Id": "StartowerBook_NPCAffinityTitle",
@@ -14107,6 +14139,14 @@
     "Id": "Activity_MiniGame_ThrowGifts",
     "Text": "UIText.Activity_MiniGame_ThrowGifts.1"
   },
+  "StarTower_Book_Potential_Quest_Desc_1": {
+    "Id": "StarTower_Book_Potential_Quest_Desc_1",
+    "Text": "UIText.StarTower_Book_Potential_Quest_Desc_1.1"
+  },
+  "StarTower_Book_Potential_Quest_Desc_2": {
+    "Id": "StarTower_Book_Potential_Quest_Desc_2",
+    "Text": "UIText.StarTower_Book_Potential_Quest_Desc_2.1"
+  },
   "Activity_ThrowGifts_Win": {
     "Id": "Activity_ThrowGifts_Win",
     "Text": "UIText.Activity_ThrowGifts_Win.1"
@@ -14126,5 +14166,89 @@
   "Activity_ThrowGifts_Text_Pause": {
     "Id": "Activity_ThrowGifts_Text_Pause",
     "Text": "UIText.Activity_ThrowGifts_Text_Pause.1"
+  },
+  "TravelerDuel_ContributeTitle": {
+    "Id": "TravelerDuel_ContributeTitle",
+    "Text": "UIText.TravelerDuel_ContributeTitle.1"
+  },
+  "TravelerDuel_HeatDuel": {
+    "Id": "TravelerDuel_HeatDuel",
+    "Text": "UIText.TravelerDuel_HeatDuel.1"
+  },
+  "TravelerDuel_FanGift": {
+    "Id": "TravelerDuel_FanGift",
+    "Text": "UIText.TravelerDuel_FanGift.1"
+  },
+  "TravelerDuel_HeatIndicatorTitle": {
+    "Id": "TravelerDuel_HeatIndicatorTitle",
+    "Text": "UIText.TravelerDuel_HeatIndicatorTitle.1"
+  },
+  "TravelerDuel_AutoFill": {
+    "Id": "TravelerDuel_AutoFill",
+    "Text": "UIText.TravelerDuel_AutoFill.1"
+  },
+  "TravelerDuel_TimeAccumulated": {
+    "Id": "TravelerDuel_TimeAccumulated",
+    "Text": "UIText.TravelerDuel_TimeAccumulated.1"
+  },
+  "TravelerDuel_HeatReward": {
+    "Id": "TravelerDuel_HeatReward",
+    "Text": "UIText.TravelerDuel_HeatReward.1"
+  },
+  "TravelerDuel_NoTimeReward": {
+    "Id": "TravelerDuel_NoTimeReward",
+    "Text": "UIText.TravelerDuel_NoTimeReward.1"
+  },
+  "TravelerDuel_NoRecordTipSmall": {
+    "Id": "TravelerDuel_NoRecordTipSmall",
+    "Text": "UIText.TravelerDuel_NoRecordTipSmall.1"
+  },
+  "TravelerDuel_HeatDuelEndTip": {
+    "Id": "TravelerDuel_HeatDuelEndTip",
+    "Text": "UIText.TravelerDuel_HeatDuelEndTip.1"
+  },
+  "TravelerDuel_GoToGift": {
+    "Id": "TravelerDuel_GoToGift",
+    "Text": "UIText.TravelerDuel_GoToGift.1"
+  },
+  "TravelerDuel_DuelRewardTip": {
+    "Id": "TravelerDuel_DuelRewardTip",
+    "Text": "UIText.TravelerDuel_DuelRewardTip.1"
+  },
+  "TravelerDuel_PityLose": {
+    "Id": "TravelerDuel_PityLose",
+    "Text": "UIText.TravelerDuel_PityLose.1"
+  },
+  "TD_HeatQuestTab": {
+    "Id": "TD_HeatQuestTab",
+    "Text": "UIText.TD_HeatQuestTab.1"
+  },
+  "TD_DuelQuestTab": {
+    "Id": "TD_DuelQuestTab",
+    "Text": "UIText.TD_DuelQuestTab.1"
+  },
+  "TD_GiftQuestTab": {
+    "Id": "TD_GiftQuestTab",
+    "Text": "UIText.TD_GiftQuestTab.1"
+  },
+  "TD_HeatQuestTitle": {
+    "Id": "TD_HeatQuestTitle",
+    "Text": "UIText.TD_HeatQuestTitle.1"
+  },
+  "TD_DuelWinReward": {
+    "Id": "TD_DuelWinReward",
+    "Text": "UIText.TD_DuelWinReward.1"
+  },
+  "TD_DuelOnGoing": {
+    "Id": "TD_DuelOnGoing",
+    "Text": "UIText.TD_DuelOnGoing.1"
+  },
+  "TD_DuelHistoryTitle": {
+    "Id": "TD_DuelHistoryTitle",
+    "Text": "UIText.TD_DuelHistoryTitle.1"
+  },
+  "Activity_Mini_Game_10106": {
+    "Id": "Activity_Mini_Game_10106",
+    "Text": "UIText.Activity_Mini_Game_10106.1"
   }
 }

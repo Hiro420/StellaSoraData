@@ -8,30 +8,23 @@
   },
   "1002": {
     "Id": "1002",
-    "Path": "UI/big_sprites/mallAdv.battlepass_01",
+    "Path": "UI/big_sprites/mallAdv.battlepass_03_lang",
     "Sort": 3,
-    "ItemId": "4",
+    "ItemId": "6",
     "ItemType": 2
   },
   "1003": {
     "Id": "1003",
-    "Path": "UI/big_sprites/mallAdv.skin_01",
+    "Path": "UI/big_sprites/mallAdv.skin_03_lang",
     "Sort": 1,
-    "ItemId": "skin.98.05",
+    "ItemId": "skin.98.07",
     "ItemType": 4
   },
   "1004": {
     "Id": "1004",
-    "Path": "UI/big_sprites/mallAdv.gift_01",
+    "Path": "UI/big_sprites/mallAdv.gift_04_lang",
     "Sort": 6,
-    "ItemId": "pack.07_res",
-    "ItemType": 3
-  },
-  "1005": {
-    "Id": "1005",
-    "Path": "UI/big_sprites/mallAdv.gift_02",
-    "Sort": 7,
-    "ItemId": "pack.07_hongbao",
+    "ItemId": "pack.09_res",
     "ItemType": 3
   },
   "1006": {
@@ -51,7 +44,7 @@
   "1008": {
     "Id": "1008",
     "Path": "UI/big_sprites/mallAdv.gift_03",
-    "Sort": 8,
+    "Sort": 7,
     "ItemId": "pack.08_res",
     "ItemType": 3
   }

@@ -58,6 +58,22 @@
     "EnterRes": "Icon/Banner/banner_avtivity_towerdef_m",
     "TabBgRes": "Icon/Banner/tab_activity_towerdef"
   },
+  "102003": {
+    "Id": 102003,
+    "SortId": 5,
+    "ActivityType": 5,
+    "Name": "塔防",
+    "PreLimit": 1,
+    "LimitParam": "5",
+    "PlayCond": 1,
+    "PlayCondParams": "5",
+    "StartType": 2,
+    "StartTime": "2026-03-31T12:00:00+08:00",
+    "EndType": 2,
+    "EndTime": "2026-04-07T11:00:00+08:00",
+    "EnterRes": "Icon/Banner/banner_avtivity_towerdef_m",
+    "TabBgRes": "Icon/Banner/tab_activity_towerdef"
+  },
   "301001": {
     "Id": 301001,
     "SortId": 3,
@@ -263,6 +279,17 @@
     "EndTime": "2026-03-17T10:59:59+08:00",
     "TabBgRes": "Icon/Banner/tab_activity_sidestory"
   },
+  "201011": {
+    "Id": 201011,
+    "SortId": 14,
+    "ActivityType": 13,
+    "Name": "诺瓦异闻-埃莉诺",
+    "StartType": 2,
+    "StartTime": "2026-03-28T12:00:00+08:00",
+    "EndType": 2,
+    "EndTime": "2026-04-07T10:59:59+08:00",
+    "TabBgRes": "Icon/Banner/tab_activity_sidestory"
+  },
   "400000": {
     "Id": 400000,
     "MidGroupId": 10100,
@@ -351,6 +378,18 @@
     "EndType": 2,
     "EndTime": "2026-02-17T04:00:00+08:00"
   },
+  "400007": {
+    "Id": 400007,
+    "MidGroupId": 10106,
+    "SortId": 4,
+    "ActivityType": 3,
+    "Name": "幸运寻宝铲4期",
+    "ActivityThemeType": 9,
+    "StartType": 2,
+    "StartTime": "2026-03-17T12:00:00+08:00",
+    "EndType": 2,
+    "EndTime": "2026-03-31T04:00:00+08:00"
+  },
   "500001": {
     "Id": 500001,
     "SortId": 6,
@@ -396,6 +435,22 @@
     "StartTime": "2026-02-17T12:00:00+08:00",
     "EndType": 2,
     "EndTime": "2026-02-24T11:00:00+08:00",
+    "BannerRes": "banner_activity_05",
+    "TabBgRes": "Icon/Banner/tab_activity_05"
+  },
+  "500004": {
+    "Id": 500004,
+    "SortId": 6,
+    "ActivityType": 14,
+    "Name": "BD兑换活动",
+    "PreLimit": 1,
+    "LimitParam": "10",
+    "PlayCond": 1,
+    "PlayCondParams": "10",
+    "StartType": 2,
+    "StartTime": "2026-03-31T12:00:00+08:00",
+    "EndType": 2,
+    "EndTime": "2026-04-07T11:00:00+08:00",
     "BannerRes": "banner_activity_05",
     "TabBgRes": "Icon/Banner/tab_activity_05"
   },
@@ -615,6 +670,28 @@
     "EndType": 2,
     "EndTime": "2026-03-31T04:00:00+08:00",
     "TabBgRes": "Icon/Banner/tab_activity_trial_132"
+  },
+  "700115": {
+    "Id": 700115,
+    "SortId": 7,
+    "ActivityType": 6,
+    "Name": "浅试身手-多娜",
+    "StartType": 2,
+    "StartTime": "2026-03-17T12:00:00+08:00",
+    "EndType": 2,
+    "EndTime": "2026-04-07T10:59:59+08:00",
+    "TabBgRes": "Icon/Banner/tab_activity_trial_130_lang"
+  },
+  "700116": {
+    "Id": 700116,
+    "SortId": 7,
+    "ActivityType": 6,
+    "Name": "浅试身手-小禾",
+    "StartType": 2,
+    "StartTime": "2026-03-31T12:00:00+08:00",
+    "EndType": 2,
+    "EndTime": "2026-04-21T04:00:00+08:00",
+    "TabBgRes": "Icon/Banner/tab_activity_trial_156_lang"
   },
   "1010001": {
     "Id": 1010001,
@@ -970,5 +1047,49 @@
     "StartTime": "2026-02-24T12:00:00+08:00",
     "EndType": 2,
     "EndTime": "2026-03-17T10:59:59+08:00"
+  },
+  "1010601": {
+    "Id": 1010601,
+    "MidGroupId": 10106,
+    "ActivityType": 9,
+    "Name": "多娜战斗关卡",
+    "ActivityThemeType": 9,
+    "StartType": 2,
+    "StartTime": "2026-03-17T12:00:00+08:00",
+    "EndType": 2,
+    "EndTime": "2026-03-31T04:00:00+08:00"
+  },
+  "1010602": {
+    "Id": 1010602,
+    "MidGroupId": 10106,
+    "ActivityType": 17,
+    "Name": "多娜剧情故事",
+    "ActivityThemeType": 9,
+    "StartType": 2,
+    "StartTime": "2026-03-17T12:00:00+08:00",
+    "EndType": 2,
+    "EndTime": "2026-03-31T04:00:00+08:00"
+  },
+  "1010603": {
+    "Id": 1010603,
+    "MidGroupId": 10106,
+    "ActivityType": 11,
+    "Name": "多娜活动任务",
+    "ActivityThemeType": 9,
+    "StartType": 2,
+    "StartTime": "2026-03-17T12:00:00+08:00",
+    "EndType": 2,
+    "EndTime": "2026-04-07T10:59:59+08:00"
+  },
+  "1010604": {
+    "Id": 1010604,
+    "MidGroupId": 10106,
+    "ActivityType": 12,
+    "Name": "多娜活动商店",
+    "ActivityThemeType": 9,
+    "StartType": 2,
+    "StartTime": "2026-03-17T12:00:00+08:00",
+    "EndType": 2,
+    "EndTime": "2026-04-07T10:59:59+08:00"
   }
 }

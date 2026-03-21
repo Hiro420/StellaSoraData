@@ -129,5 +129,29 @@
     "Image": "Icon/MapChallenge/boss_Tachie_08",
     "BG": "ImageAvg/AvgBg/tower_inside",
     "SummonLevelUp": true
+  },
+  "12": {
+    "Id": 12,
+    "FloorId": 1001012,
+    "MonsterId": 95017101,
+    "NonDamageScoreGet": 1007,
+    "ScoreBossAbility": 100000,
+    "ScoreGetSwitchGroup": 1001,
+    "Episode": "Icon/MapChallenge/challenge_boss_bust_01",
+    "Image": "Icon/MapChallenge/boss_Tachie_13",
+    "BG": "Image/UIBG/uniseed_basement",
+    "ExtraImage": "Icon/MapChallenge/boss_Tachie_14",
+    "ExtraImageAni": "ScoreBossSelect_Info_in_Hasana"
+  },
+  "13": {
+    "Id": 13,
+    "FloorId": 1001013,
+    "MonsterId": 95017103,
+    "NonDamageScoreGet": 1007,
+    "ScoreBossAbility": 100000,
+    "ScoreGetSwitchGroup": 1001,
+    "Episode": "Icon/MapChallenge/challenge_boss_bust_01",
+    "Image": "Icon/MapChallenge/challenge_boss_01",
+    "BG": "Image/UIBG/uniseed_basement"
   }
 }

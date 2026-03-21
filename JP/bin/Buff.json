@@ -332,73 +332,106 @@
     "Id": 11401011,
     "GroupId": 11401011,
     "BuffTag1": 943565682,
-    "BindEffect": "Actor/Character/13401/Buff/fx_13401_buff_Main_Skill_P03_CatPaw"
+    "BuffTag2": 498784899,
+    "BindEffect": "Actor/Character/11401/Buff/fx_11401_buff_Skill_Main_3_Short_Lock"
   },
-  "11405011": {
-    "Id": 11405011,
-    "GroupId": 11405011,
+  "11403011": {
+    "Id": 11403011,
+    "GroupId": 11403011,
+    "BuffTag1": 943565682
+  },
+  "11404011": {
+    "Id": 11404011,
+    "GroupId": 11404011,
     "BuffTag1": 943565682,
-    "BindEffect": "Actor/Character/14101/Buff/fx_14101_Buff_InkBurning"
+    "BuffTag2": 498784899,
+    "BindEffect": "Actor/Character/11401/Buff/fx_11401_buff_Skill_Main_3_Short_Lock_P04_Strengthen_Lv1"
   },
-  "11450501": {
-    "Id": 11450501,
-    "levelTypeData": 1,
-    "LevelData": 511405,
-    "GroupId": 11450501,
+  "11404012": {
+    "Id": 11404012,
+    "GroupId": 11404012,
+    "BuffTag1": 943565682,
+    "BuffTag2": 498784899,
+    "BindEffect": "Actor/Character/11401/Buff/fx_11401_buff_Skill_Main_3_Short_Lock_P04_Strengthen_Lv2"
+  },
+  "11404013": {
+    "Id": 11404013,
+    "GroupId": 11404013,
+    "BuffTag1": 943565682,
+    "BuffTag2": 498784899,
+    "BindEffect": "Actor/Character/11401/Buff/fx_11401_buff_Skill_Main_3_Short_Lock_P04_Strengthen_Lv3"
+  },
+  "11406011": {
+    "Id": 11406011,
+    "GroupId": 11406011,
+    "BuffTag1": 943565682
+  },
+  "11407011": {
+    "Id": 11407011,
+    "GroupId": 11407011,
+    "BuffTag1": 943565682
+  },
+  "11411011": {
+    "Id": 11411011,
+    "GroupId": 11411011,
     "BuffTag1": 943565682,
     "BuffTag2": -719983267,
     "Icon": "Icon/Buff/Icon_CommonBuff_AttackUp",
     "IsShow": true
   },
-  "11450901": {
-    "Id": 11450901,
-    "levelTypeData": 1,
-    "LevelData": 511409,
-    "GroupId": 11450901,
+  "11412011": {
+    "Id": 11412011,
+    "GroupId": 11412011,
     "BuffTag1": 943565682,
     "BuffTag2": -719983267,
     "Icon": "Icon/Buff/Icon_CommonBuff_AttackUp",
     "IsShow": true
   },
-  "11451001": {
-    "Id": 11451001,
-    "levelTypeData": 1,
-    "LevelData": 511410,
-    "GroupId": 11451001,
+  "11422011": {
+    "Id": 11422011,
+    "GroupId": 11422011,
+    "BuffTag1": 943565682
+  },
+  "11422012": {
+    "Id": 11422012,
+    "GroupId": 11422012,
     "BuffTag1": 943565682,
-    "BuffTag2": -719983267,
-    "Icon": "Icon/Buff/Icon_CommonBuff_AttackUp",
+    "BuffTag2": -2138561627,
+    "Icon": "Icon/Buff/Icon_CommonBuff_Bleed",
     "IsShow": true
   },
-  "11451301": {
-    "Id": 11451301,
-    "levelTypeData": 1,
-    "LevelData": 511413,
-    "GroupId": 11451301,
+  "11426011": {
+    "Id": 11426011,
+    "GroupId": 11426011,
+    "BuffTag1": 943565682
+  },
+  "11427011": {
+    "Id": 11427011,
+    "GroupId": 11427011,
+    "BuffTag1": 943565682
+  },
+  "11429011": {
+    "Id": 11429011,
+    "GroupId": 11452901,
+    "BuffTag1": 943565682
+  },
+  "11431011": {
+    "Id": 11431011,
+    "GroupId": 11431011,
+    "BuffTag1": 943565682
+  },
+  "11432011": {
+    "Id": 11432011,
+    "GroupId": 11432011,
     "BuffTag1": 943565682,
     "BuffTag2": -719983267,
     "Icon": "Icon/Buff/Icon_CommonBuff_CritDamageUp",
     "IsShow": true
   },
-  "11452901": {
-    "Id": 11452901,
-    "levelTypeData": 1,
-    "LevelData": 511429,
-    "GroupId": 11452901,
-    "BuffTag1": 943565682,
-    "BuffTag2": -2138561627,
-    "Icon": "Icon/Buff/Icon_CommonBuff_DefenseDown",
-    "IsShow": true
-  },
-  "11453001": {
-    "Id": 11453001,
-    "levelTypeData": 1,
-    "LevelData": 511430,
-    "GroupId": 11453001,
-    "BuffTag1": 943565682,
-    "BuffTag2": -719983267,
-    "Icon": "Icon/Buff/Icon_CommonBuff_AttackUp",
-    "IsShow": true
+  "11433011": {
+    "Id": 11433011,
+    "GroupId": 11433011,
+    "BuffTag1": 943565682
   },
   "12600001": {
     "Id": 12600001,
@@ -2198,18 +2231,13 @@
     "Icon": "Icon/Buff/Icon_CommonBuff_AttackUp",
     "IsShow": true
   },
-  "13030011": {
-    "Id": 13030011,
-    "GroupId": 13030011,
+  "13031011": {
+    "Id": 13031011,
+    "GroupId": 13031011,
     "BuffTag1": 943565682,
     "BuffTag2": -719983267,
     "Icon": "Icon/Buff/Icon_CommonBuff_AttackUp",
     "IsShow": true
-  },
-  "13031011": {
-    "Id": 13031011,
-    "GroupId": 13031011,
-    "BuffTag1": 943565682
   },
   "13032011": {
     "Id": 13032011,
@@ -2240,6 +2268,30 @@
     "Icon": "Icon/Buff/Icon_CommonBuff_MoveSpeedDown",
     "IsShow": true
   },
+  "13096111": {
+    "Id": 13096111,
+    "GroupId": 13096111,
+    "BuffTag1": 943565682,
+    "BuffTag2": -2138561627
+  },
+  "13096211": {
+    "Id": 13096211,
+    "GroupId": 13096211,
+    "BuffTag1": 943565682,
+    "BuffTag2": -719983267
+  },
+  "13096311": {
+    "Id": 13096311,
+    "GroupId": 13096311,
+    "BuffTag1": 943565682,
+    "BuffTag2": -2138561627
+  },
+  "13096411": {
+    "Id": 13096411,
+    "GroupId": 13096411,
+    "BuffTag1": 943565682,
+    "BuffTag2": -719983267
+  },
   "14400001": {
     "Id": 14400001,
     "GroupId": 14400001
@@ -2261,6 +2313,15 @@
     "Id": 14401011,
     "GroupId": 14401011,
     "BindEffect": "Actor/Character/14401/Buff/fx_14401_buff_Skill_loop",
+    "NotRemove": true
+  },
+  "14405011": {
+    "Id": 14405011,
+    "GroupId": 14405011,
+    "BuffTag1": 943565682,
+    "BuffTag2": -719983267,
+    "Icon": "Icon/Buff/Icon_CommonBuff_AttackSpeedUp",
+    "IsShow": true,
     "NotRemove": true
   },
   "14406011": {
@@ -4162,7 +4223,7 @@
     "Id": 14502011,
     "GroupId": 14502011,
     "BuffTag1": 943565682,
-    "Icon": "Icon/Buff/Icon_CommonBuff_AttackUp",
+    "Icon": "Icon/Buff/Icon_CommonBuff_CritUp",
     "IsShow": true
   },
   "14506011": {
@@ -4228,6 +4289,13 @@
     "BuffTag3": 1798294993,
     "BindEffect": "Actor/Character/14501/Buff/fx_14501_Buff_Skill_Sup_Slay"
   },
+  "14522011": {
+    "Id": 14522011,
+    "GroupId": 14522011,
+    "BuffTag1": 943565682,
+    "Icon": "Icon/Buff/Icon_CommonBuff_CritUp",
+    "IsShow": true
+  },
   "14526011": {
     "Id": 14526011,
     "GroupId": 14526011,
@@ -4259,6 +4327,14 @@
   "14532011": {
     "Id": 14532011,
     "GroupId": 14532011,
+    "BuffTag1": 943565682,
+    "BuffTag2": -719983267,
+    "Icon": "Icon/Buff/Icon_CommonBuff_AttackUp",
+    "IsShow": true
+  },
+  "14543011": {
+    "Id": 14543011,
+    "GroupId": 14543011,
     "BuffTag1": 943565682,
     "BuffTag2": -719983267,
     "Icon": "Icon/Buff/Icon_CommonBuff_AttackUp",
@@ -5936,9 +6012,176 @@
     "BuffTag1": 943565682,
     "BuffTag2": -719983267
   },
+  "14002011": {
+    "Id": 14002011,
+    "GroupId": 14002011,
+    "BuffTag1": 485153392
+  },
+  "14002012": {
+    "Id": 14002012,
+    "GroupId": 14002012,
+    "BuffTag1": 485153392
+  },
+  "14002013": {
+    "Id": 14002013,
+    "GroupId": 14002013,
+    "BuffTag1": 943565682,
+    "BuffTag2": 577115607,
+    "Icon": "Icon/Buff/Icon_CommonBuff_Stun",
+    "IsShow": true
+  },
+  "14003011": {
+    "Id": 14003011,
+    "GroupId": 14003011,
+    "BuffTag1": 943565682
+  },
+  "14004011": {
+    "Id": 14004011,
+    "GroupId": 14004011,
+    "BuffTag1": 943565682
+  },
+  "14005011": {
+    "Id": 14005011,
+    "GroupId": 14005011,
+    "BuffTag1": 943565682,
+    "BuffTag2": -719983267,
+    "Icon": "Icon/Buff/Icon_CommonBuff_AttackUp",
+    "IsShow": true
+  },
+  "14006011": {
+    "Id": 14006011,
+    "GroupId": 14006011,
+    "BuffTag1": 943565682,
+    "BuffTag2": -719983267,
+    "Icon": "Icon/Buff/Icon_CommonBuff_AttackUp",
+    "IsShow": true
+  },
+  "14006012": {
+    "Id": 14006012,
+    "GroupId": 14006012,
+    "BuffTag1": 943565682
+  },
+  "14007011": {
+    "Id": 14007011,
+    "GroupId": 14007011,
+    "BuffTag1": 943565682,
+    "BuffTag2": -719983267,
+    "Icon": "Icon/Buff/Icon_CommonBuff_AttackUp",
+    "IsShow": true
+  },
+  "14009011": {
+    "Id": 14009011,
+    "GroupId": 14009011,
+    "BuffTag1": 943565682,
+    "BuffTag2": -719983267
+  },
+  "14010011": {
+    "Id": 14010011,
+    "GroupId": 14010011,
+    "BuffTag1": 943565682,
+    "BuffTag2": -719983267,
+    "Icon": "Icon/Buff/Icon_CommonBuff_DefenseUp",
+    "IsShow": true
+  },
+  "14010012": {
+    "Id": 14010012,
+    "GroupId": 14010012,
+    "BuffTag1": 943565682,
+    "BuffTag2": -719983267,
+    "Icon": "Icon/Buff/Icon_CommonBuff_AttackUp",
+    "IsShow": true
+  },
+  "14022011": {
+    "Id": 14022011,
+    "GroupId": 14022011,
+    "BuffTag1": 943565682
+  },
+  "14022012": {
+    "Id": 14022012,
+    "GroupId": 14022012,
+    "BuffTag1": 943565682
+  },
+  "14026011": {
+    "Id": 14026011,
+    "GroupId": 14026011,
+    "BuffTag1": 943565682,
+    "BuffTag2": -719983267,
+    "Icon": "Icon/Buff/Icon_CommonBuff_AttackUp",
+    "IsShow": true
+  },
+  "14027011": {
+    "Id": 14027011,
+    "GroupId": 14027011,
+    "BuffTag1": 943565682,
+    "BuffTag2": -719983267,
+    "Icon": "Icon/Buff/Icon_CommonBuff_AttackUp",
+    "IsShow": true
+  },
+  "14029011": {
+    "Id": 14029011,
+    "GroupId": 14029011,
+    "BuffTag1": 943565682,
+    "BuffTag2": -719983267,
+    "Icon": "Icon/Buff/Icon_CommonBuff_AttackUp",
+    "IsShow": true
+  },
+  "14030011": {
+    "Id": 14030011,
+    "GroupId": 14030011,
+    "BuffTag1": 943565682,
+    "BuffTag2": -719983267,
+    "Icon": "Icon/Buff/Icon_CommonBuff_AttackUp",
+    "IsShow": true
+  },
+  "14031011": {
+    "Id": 14031011,
+    "GroupId": 14031011,
+    "BuffTag1": 943565682,
+    "BuffTag2": -719983267,
+    "Icon": "Icon/Buff/Icon_CommonBuff_AttackUp",
+    "IsShow": true
+  },
+  "14032011": {
+    "Id": 14032011,
+    "GroupId": 14032011,
+    "BuffTag1": 943565682
+  },
+  "14032012": {
+    "Id": 14032012,
+    "GroupId": 14032012,
+    "BuffTag1": 943565682,
+    "BuffTag2": -719983267,
+    "Icon": "Icon/Buff/Icon_CommonBuff_AttackUp",
+    "IsShow": true
+  },
+  "14033011": {
+    "Id": 14033011,
+    "GroupId": 14033011,
+    "BuffTag1": 943565682
+  },
+  "14041011": {
+    "Id": 14041011,
+    "GroupId": 14041011,
+    "BuffTag1": 943565682
+  },
+  "14042011": {
+    "Id": 14042011,
+    "GroupId": 14042011,
+    "BuffTag1": 485153392,
+    "BuffTag2": -2138561627,
+    "Icon": "Icon/Buff/Icon_CommonBuff_Bleed",
+    "IsShow": true
+  },
+  "14043011": {
+    "Id": 14043011,
+    "GroupId": 14043011,
+    "BuffTag1": 943565682,
+    "BuffTag2": -719983267,
+    "Icon": "Icon/Buff/Icon_CommonBuff_AttackUp",
+    "IsShow": true
+  },
   "980131": {
     "Id": 980131,
-    "Name": "攻击力提升{1}%，持续{2}秒。",
     "GroupId": 980131,
     "BuffTag1": 943565682,
     "BuffTag2": -719983267,
@@ -5946,7 +6189,6 @@
   },
   "980141": {
     "Id": 980141,
-    "Name": "伤害提升33%",
     "GroupId": 980141,
     "BuffTag1": 943565682,
     "BuffTag2": -719983267,
@@ -5954,14 +6196,12 @@
   },
   "980151": {
     "Id": 980151,
-    "Name": "暴击伤害提升90%",
     "GroupId": 980151,
     "BuffTag1": 943565682,
     "BuffTag2": -719983267
   },
   "980161": {
     "Id": 980161,
-    "Name": "普攻伤害提升30%",
     "GroupId": 980161,
     "BuffTag1": 943565682,
     "BuffTag2": -719983267,
@@ -5969,14 +6209,12 @@
   },
   "980331": {
     "Id": 980331,
-    "Name": "「霸体」与10%减伤",
     "GroupId": 980331,
     "BuffTag1": 943565682,
     "BuffTag2": -719983267
   },
   "980341": {
     "Id": 980341,
-    "Name": "提升16%攻速",
     "GroupId": 980341,
     "BuffTag1": 943565682,
     "BuffTag2": -719983267,
@@ -5984,7 +6222,6 @@
   },
   "980351": {
     "Id": 980351,
-    "Name": "伤害提升47%",
     "GroupId": 980351,
     "BuffTag1": 943565682,
     "BuffTag2": -719983267,
@@ -5992,7 +6229,6 @@
   },
   "980401": {
     "Id": 980401,
-    "Name": "暴击率提升22%",
     "GroupId": 980401,
     "BuffTag1": 943565682,
     "BuffTag2": -719983267,
@@ -6001,7 +6237,6 @@
   },
   "980621": {
     "Id": 980621,
-    "Name": "技能伤害提升24%，持续5秒，最多叠加3层",
     "GroupId": 980621,
     "BuffTag1": 943565682,
     "BuffTag2": -719983267,
@@ -6009,7 +6244,6 @@
   },
   "980631": {
     "Id": 980631,
-    "Name": "减伤7%，持续5秒，可叠加2层",
     "GroupId": 980631,
     "BuffTag1": 943565682,
     "BuffTag2": -719983267,
@@ -6017,7 +6251,6 @@
   },
   "980641": {
     "Id": 980641,
-    "Name": "造成伤害提升15%，持续8秒",
     "GroupId": 980641,
     "BuffTag1": 943565682,
     "BuffTag2": -719983267,
@@ -6025,7 +6258,6 @@
   },
   "980661": {
     "Id": 980661,
-    "Name": "受到伤害提升30%，持续5秒，不可叠加",
     "GroupId": 980661,
     "BuffTag1": 943565682,
     "BuffTag2": -2138561627,
@@ -6033,7 +6265,6 @@
   },
   "980671": {
     "Id": 980671,
-    "Name": "降低目标10%伤害，持续3秒，最多叠加5层",
     "GroupId": 980671,
     "BuffTag1": 943565682,
     "BuffTag2": -2138561627,
@@ -6041,7 +6272,6 @@
   },
   "980701": {
     "Id": 980701,
-    "Name": "50%技能伤害，持续5秒",
     "GroupId": 980701,
     "BuffTag1": 943565682,
     "BuffTag2": -719983267,
@@ -6049,7 +6279,6 @@
   },
   "980811": {
     "Id": 980811,
-    "Name": "获得攻击力提升7%，持续10秒，最多叠加3层",
     "GroupId": 980811,
     "BuffTag1": 943565682,
     "BuffTag2": -719983267,
@@ -6057,7 +6286,6 @@
   },
   "980851": {
     "Id": 980851,
-    "Name": "每消灭1个目标，暴击率提升6%，持续5秒，最多叠加3层。",
     "GroupId": 980851,
     "BuffTag1": 943565682,
     "BuffTag2": -719983267,
@@ -6065,7 +6293,6 @@
   },
   "980861": {
     "Id": 980861,
-    "Name": "普攻伤害提升10%，持续5秒，最多叠加4层",
     "GroupId": 980861,
     "BuffTag1": 943565682,
     "BuffTag2": -719983267,
@@ -6073,7 +6300,6 @@
   },
   "980871": {
     "Id": 980871,
-    "Name": "技能伤害提升10%，持续5秒，最多叠加4层",
     "GroupId": 980871,
     "BuffTag1": 943565682,
     "BuffTag2": -719983267,
@@ -6081,7 +6307,6 @@
   },
   "980881": {
     "Id": 980881,
-    "Name": "暴击伤害提升10%，持续5秒，最多叠加4层",
     "GroupId": 980881,
     "BuffTag1": 943565682,
     "BuffTag2": -719983267,
@@ -6089,35 +6314,30 @@
   },
   "980891": {
     "Id": 980891,
-    "Name": "免疫伤害，持续1秒",
     "GroupId": 980891,
     "BuffTag1": 943565682,
     "BuffTag2": -719983267
   },
   "980901": {
     "Id": 980901,
-    "Name": "免伤30%，持续5秒",
     "GroupId": 980901,
     "BuffTag1": 943565682,
     "BuffTag2": -719983267
   },
   "981021": {
     "Id": 981021,
-    "Name": "生命低于50%时，造成伤害提升50%；生命高于80%时，造成伤害降低15%",
     "GroupId": 981021,
     "BuffTag1": 943565682,
     "BuffTag2": -719983267
   },
   "981031": {
     "Id": 981031,
-    "Name": "释放技能时，额外消耗自身10%当前生命，使该次技能获得100%伤害加成；技能消灭目标时，立即恢复5%最大生命",
     "GroupId": 981031,
     "BuffTag1": 943565682,
     "BuffTag2": -719983267
   },
   "981091": {
     "Id": 981091,
-    "Name": "提升15%伤害，持续10秒，最多叠加3层",
     "GroupId": 981091,
     "BuffTag1": 943565682,
     "BuffTag2": -719983267,
@@ -6125,13 +6345,11 @@
   },
   "981251": {
     "Id": 981251,
-    "Name": "生命上限降低40%；消灭目标时，立即恢复5%最大生命+10点生命",
     "GroupId": 981251,
     "BuffTag1": 943565682
   },
   "981261": {
     "Id": 981261,
-    "Name": "每10秒获得10%伤害加成，持续15秒，最大叠加3层",
     "GroupId": 981261,
     "BuffTag1": 943565682,
     "BuffTag2": -719983267,
@@ -6139,13 +6357,11 @@
   },
   "981301": {
     "Id": 981301,
-    "Name": "技能冷却加快15%",
     "GroupId": 981301,
     "BuffTag1": 943565682
   },
   "981441": {
     "Id": 981441,
-    "Name": "提升6%暴击率，最多叠加4层，持续5秒",
     "GroupId": 981441,
     "BuffTag1": 943565682,
     "BuffTag2": -719983267,
@@ -6153,7 +6369,6 @@
   },
   "981451": {
     "Id": 981451,
-    "Name": "暴击伤害提升90%，持续10秒",
     "GroupId": 981451,
     "BuffTag1": 943565682,
     "BuffTag2": -719983267,
@@ -6161,7 +6376,6 @@
   },
   "981461": {
     "Id": 981461,
-    "Name": "技能伤害提升15%，持续3秒",
     "GroupId": 981461,
     "BuffTag1": 943565682,
     "BuffTag2": -719983267,
@@ -6169,7 +6383,6 @@
   },
   "981471": {
     "Id": 981471,
-    "Name": "暴击伤害15%，持续5秒",
     "GroupId": 981471,
     "BuffTag1": 943565682,
     "BuffTag2": -719983267,
@@ -6177,7 +6390,6 @@
   },
   "981641": {
     "Id": 981641,
-    "Name": "受到的伤害提升30%，持续10秒",
     "GroupId": 981641,
     "BuffTag1": 943565682,
     "BuffTag2": -2138561627,
@@ -6185,7 +6397,6 @@
   },
   "981661": {
     "Id": 981661,
-    "Name": "降低目标4%移动速度，最大叠加5层",
     "GroupId": 981661,
     "BuffTag1": 943565682,
     "BuffTag2": -2138561627,
@@ -6194,14 +6405,12 @@
   },
   "981681": {
     "Id": 981681,
-    "Name": "降低30%伤害，持续5秒",
     "GroupId": 981681,
     "BuffTag1": 943565682,
     "BuffTag2": -2138561627
   },
   "981821": {
     "Id": 981821,
-    "Name": "免伤提升32%，持续5秒",
     "GroupId": 981821,
     "BuffTag1": 943565682,
     "BuffTag2": -719983267,
@@ -6209,7 +6418,6 @@
   },
   "981851": {
     "Id": 981851,
-    "Name": "5%的吸血效果，持续5秒",
     "GroupId": 981851,
     "BuffTag1": 943565682,
     "BuffTag2": -719983267,
@@ -6217,7 +6425,6 @@
   },
   "981861": {
     "Id": 981861,
-    "Name": "5秒内伤害提升32%，最大叠加3层",
     "GroupId": 981861,
     "BuffTag1": 943565682,
     "BuffTag2": -719983267,
@@ -6225,7 +6432,6 @@
   },
   "981871": {
     "Id": 981871,
-    "Name": "伤害提升30%，持续10秒",
     "GroupId": 981871,
     "BuffTag1": 943565682,
     "BuffTag2": -719983267,
@@ -6233,7 +6439,6 @@
   },
   "981881": {
     "Id": 981881,
-    "Name": "受到伤害提升30%",
     "GroupId": 981881,
     "BuffTag1": 943565682,
     "BuffTag2": -2138561627,
@@ -6241,7 +6446,6 @@
   },
   "981891": {
     "Id": 981891,
-    "Name": "暴击伤害提升15%，持续5秒",
     "GroupId": 981891,
     "BuffTag1": 943565682,
     "BuffTag2": -719983267,
@@ -6249,14 +6453,12 @@
   },
   "982045": {
     "Id": 982045,
-    "Name": "无敌10秒",
     "GroupId": 982045,
     "BuffTag1": 943565682,
     "BuffTag2": -719983267
   },
   "987011": {
     "Id": 987011,
-    "Name": "火系抗性降低",
     "GroupId": 987011,
     "BuffTag1": 943565682,
     "BuffTag2": -2138561627,
@@ -6265,7 +6467,6 @@
   },
   "987051": {
     "Id": 987051,
-    "Name": "火系礼物3信条1 Buff Lv1",
     "GroupId": 987051,
     "BuffTag1": 943565682,
     "BuffTag2": -2138561627,
@@ -6275,7 +6476,6 @@
   },
   "987061": {
     "Id": 987061,
-    "Name": "火抗降低",
     "GroupId": 987061,
     "BuffTag1": 943565682,
     "BuffTag2": -2138561627,
@@ -6284,7 +6484,6 @@
   },
   "987071": {
     "Id": 987071,
-    "Name": "火系礼物1信条3 Buff Lv1",
     "GroupId": 987071,
     "BuffTag1": 943565682,
     "BuffTag2": -719983267,
@@ -6292,7 +6491,6 @@
   },
   "987091": {
     "Id": 987091,
-    "Name": "火系礼物1信条3 Buff Lv1",
     "GroupId": 987091,
     "BuffTag1": 943565682,
     "BuffTag2": -719983267,
@@ -6300,7 +6498,6 @@
   },
   "987101": {
     "Id": 987101,
-    "Name": "火抗降低",
     "GroupId": 987101,
     "BuffTag1": 943565682,
     "BuffTag2": -2138561627,
@@ -6309,7 +6506,6 @@
   },
   "986131": {
     "Id": 986131,
-    "Name": "灼烧debuff",
     "GroupId": 986131,
     "BuffTag1": 943565682,
     "BuffTag2": -2138561627,
@@ -6318,7 +6514,6 @@
   },
   "986281": {
     "Id": 986281,
-    "Name": "光链增加抗性穿透",
     "GroupId": 986281,
     "BuffTag1": 943565682,
     "BuffTag2": -719983267,
@@ -6327,7 +6522,6 @@
   },
   "986340": {
     "Id": 986340,
-    "Name": "超载",
     "GroupId": 986340,
     "BuffTag1": 943565682,
     "BuffTag2": -719983267,
@@ -6336,7 +6530,6 @@
   },
   "986341": {
     "Id": 986341,
-    "Name": "天雷眩晕2秒",
     "GroupId": 986341,
     "BuffTag1": 943565682,
     "BuffTag2": -2138561627,
@@ -6347,7 +6540,6 @@
   },
   "987311": {
     "Id": 987311,
-    "Name": "冻结3秒",
     "GroupId": 987311,
     "BuffTag1": 943565682,
     "BuffTag2": -2138561627,
@@ -6358,7 +6550,6 @@
   },
   "987331": {
     "Id": 987331,
-    "Name": "攻击速度与移动速度提高",
     "GroupId": 987331,
     "BuffTag1": 943565682,
     "BuffTag2": -719983267,
@@ -6368,14 +6559,12 @@
   },
   "987351": {
     "Id": 987351,
-    "Name": "98735组合技",
     "GroupId": 987351,
     "BuffTag1": 943565682,
     "BuffTag2": -719983267
   },
   "987352": {
     "Id": 987352,
-    "Name": "受击后会消失的攻速",
     "GroupId": 987352,
     "BuffTag1": 943565682,
     "BuffTag2": -719983267,
@@ -6383,7 +6572,6 @@
   },
   "987361": {
     "Id": 987361,
-    "Name": "减伤3秒",
     "GroupId": 987361,
     "BuffTag1": 943565682,
     "BuffTag2": -719983267,
@@ -6391,7 +6579,6 @@
   },
   "987371": {
     "Id": 987371,
-    "Name": "水抗降低",
     "GroupId": 987371,
     "BuffTag1": 943565682,
     "BuffTag2": -2138561627,
@@ -6399,7 +6586,6 @@
   },
   "987381": {
     "Id": 987381,
-    "Name": "技能伤害增加3%",
     "GroupId": 987381,
     "BuffTag1": 943565682,
     "BuffTag2": -719983267,
@@ -6407,7 +6593,6 @@
   },
   "987401": {
     "Id": 987401,
-    "Name": "全队伤害提升30%，持续10秒",
     "GroupId": 987401,
     "BuffTag1": 943565682,
     "BuffTag2": -719983267,
@@ -6415,7 +6600,6 @@
   },
   "987681": {
     "Id": 987681,
-    "Name": "全队免伤与伤害提升20%，持续10秒",
     "GroupId": 987681,
     "BuffTag1": 943565682,
     "BuffTag2": -719983267,
@@ -6423,7 +6607,6 @@
   },
   "987911": {
     "Id": 987911,
-    "Name": "移动速度降低20%，持续5秒",
     "GroupId": 987911,
     "BuffTag1": 943565682,
     "BuffTag2": -2138561627,
@@ -6432,7 +6615,6 @@
   },
   "987951": {
     "Id": 987951,
-    "Name": "暴击率提升18%，持续5秒",
     "GroupId": 987951,
     "BuffTag1": 943565682,
     "BuffTag2": -719983267,
@@ -6440,7 +6622,6 @@
   },
   "987961": {
     "Id": 987961,
-    "Name": "暗属性穿透提升20点，持续5秒",
     "GroupId": 987961,
     "BuffTag1": 943565682,
     "BuffTag2": -719983267,
@@ -6448,7 +6629,6 @@
   },
   "987991": {
     "Id": 987991,
-    "Name": "全队伤害暴击率与爆伤提升15%，持续10秒",
     "GroupId": 987991,
     "BuffTag1": 943565682,
     "BuffTag2": -719983267,
@@ -6456,7 +6636,6 @@
   },
   "988241": {
     "Id": 988241,
-    "Name": "可叠层独立计算的暴击率",
     "GroupId": 988241,
     "BuffTag1": 943565682,
     "BuffTag2": -719983267,
@@ -6466,7 +6645,6 @@
   },
   "988261": {
     "Id": 988261,
-    "Name": "可叠层的暴击伤害",
     "GroupId": 988261,
     "BuffTag1": 943565682,
     "BuffTag2": -719983267,
@@ -6476,7 +6654,6 @@
   },
   "988271": {
     "Id": 988271,
-    "Name": "可叠层的风抗降低",
     "GroupId": 988271,
     "BuffTag1": 943565682,
     "BuffTag2": -2138561627,
@@ -6484,7 +6661,6 @@
   },
   "988281": {
     "Id": 988281,
-    "Name": "伤害增加100%，持续三秒",
     "GroupId": 988281,
     "BuffTag1": 943565682,
     "BuffTag2": -719983267,
@@ -6494,7 +6670,6 @@
   },
   "988291": {
     "Id": 988291,
-    "Name": "全队攻击速度与移动速度提升30%，持续10秒",
     "GroupId": 988291,
     "BuffTag1": 943565682,
     "BuffTag2": -719983267,
@@ -6502,7 +6677,6 @@
   },
   "988301": {
     "Id": 988301,
-    "Name": "风系角色攻击速度提升10%；每次普攻命中时，降低目标3点风系抗性，持续5秒，最多叠加5层",
     "GroupId": 988301,
     "BuffTag1": 943565682,
     "BuffTag2": -719983267,
@@ -6510,7 +6684,6 @@
   },
   "988303": {
     "Id": 988303,
-    "Name": "降低目标3点风系抗性，持续5秒，最多叠加5层",
     "GroupId": 988303,
     "BuffTag1": 943565682,
     "BuffTag2": -2138561627,
@@ -6518,7 +6691,6 @@
   },
   "988521": {
     "Id": 988521,
-    "Name": "全队伤害提升30%，持续10秒",
     "GroupId": 988521,
     "BuffTag1": 943565682,
     "BuffTag2": -719983267,
@@ -6526,7 +6698,6 @@
   },
   "988561": {
     "Id": 988561,
-    "Name": "降低目标5点地系抗性，持续10秒，最多叠加3层",
     "GroupId": 988561,
     "BuffTag1": 943565682,
     "BuffTag2": -2138561627,
@@ -6534,7 +6705,6 @@
   },
   "988591": {
     "Id": 988591,
-    "Name": "全队免伤与伤害增加{1}%。",
     "GroupId": 988591,
     "BuffTag1": 943565682,
     "BuffTag2": -719983267,
@@ -6657,17 +6827,14 @@
   },
   "631010001": {
     "Id": 631010001,
-    "Name": "Boss自身伤害提升",
     "GroupId": 631010001
   },
   "631001002": {
     "Id": 631001002,
-    "Name": "Boss受到角色普攻伤害提升",
     "GroupId": 631001002
   },
   "631001003": {
     "Id": 631001003,
-    "Name": "Boss受到支援角色技能伤害提升",
     "GroupId": 631001003
   },
   "100090310": {
@@ -7984,6 +8151,21 @@
     "GroupId": 72001011,
     "BindEffect": "FX/Bossrush/Buff/fx_common_buff_monster_explode_b_switch"
   },
+  "309310000": {
+    "Id": 309310000,
+    "GroupId": 30931000,
+    "BindEffect": "Actor/Monster/30901ChiHou/Buff/fx_m30901_buff_strengthen"
+  },
+  "309310001": {
+    "Id": 309310001,
+    "GroupId": 30931000,
+    "BindEffect": "Actor/Monster/30901ChiHou/Buff/fx_m30901_buff_permanent"
+  },
+  "309010000": {
+    "Id": 309010000,
+    "GroupId": 30901000,
+    "BuffTag1": -2138561627
+  },
   "990011100": {
     "Id": 990011100,
     "GroupId": 9900110
@@ -8385,38 +8567,45 @@
   "308030101": {
     "Id": 308030101,
     "GroupId": 308030101,
+    "BindEffect": "Actor/Monster/30801XinXiang_Red/Buff/fx_drop_mail_red_Buff_1",
     "Icon": "Icon/Buff/Icon_CommonBuff_AttackUp",
     "IsShow": true
   },
   "308030111": {
     "Id": 308030111,
-    "GroupId": 308030101,
+    "GroupId": 308030111,
     "Icon": "Icon/Buff/Icon_CommonBuff_AttackUp",
     "IsShow": true
   },
   "308030201": {
     "Id": 308030201,
-    "GroupId": 308030201,
+    "GroupId": 308030101,
+    "BindEffect": "Actor/Monster/30811XinXiang_Blue/Buff/fx_drop_mail_blue_Buff_1",
     "Icon": "Icon/Buff/Icon_CommonBuff_SkillDamageUp",
     "IsShow": true
   },
   "308030211": {
     "Id": 308030211,
-    "GroupId": 308030201,
+    "GroupId": 308030211,
     "Icon": "Icon/Buff/Icon_CommonBuff_SkillDamageUp",
     "IsShow": true
   },
   "308030301": {
     "Id": 308030301,
-    "GroupId": 308030301,
+    "GroupId": 308030101,
+    "BindEffect": "Actor/Monster/30821XinXiang_Gold/Buff/fx_drop_mail_gold_Buff_1",
     "Icon": "Icon/Buff/Icon_CommonBuff_DefenseUp",
     "IsShow": true
   },
   "308030311": {
     "Id": 308030311,
-    "GroupId": 308030301,
+    "GroupId": 308030311,
     "Icon": "Icon/Buff/Icon_CommonBuff_DefenseUp",
     "IsShow": true
+  },
+  "308030001": {
+    "Id": 308030001,
+    "GroupId": 308030001
   },
   "809001010": {
     "Id": 809001010,
@@ -8437,6 +8626,15 @@
     "Id": 809001120,
     "GroupId": 80900112,
     "BindEffect": "FX/TowerDefence/Buff/fx_td_buff_weight_increase_loop"
+  },
+  "809001210": {
+    "Id": 809001210,
+    "GroupId": 80900121
+  },
+  "809001220": {
+    "Id": 809001220,
+    "GroupId": 80900122,
+    "BindEffect": "FX/TowerDefence/Buff/fx_td_buff_grass_growth_loop"
   },
   "801030110": {
     "Id": 801030110,
@@ -8609,6 +8807,93 @@
     "Id": 801239210,
     "GroupId": 80123921
   },
+  "801070010": {
+    "Id": 801070010,
+    "GroupId": 80107001,
+    "BindEffect": "FX/Buff/fx_buff_effect_atk_up"
+  },
+  "801070020": {
+    "Id": 801070020,
+    "GroupId": 80107002
+  },
+  "801070030": {
+    "Id": 801070030,
+    "GroupId": 80107003,
+    "BindEffect": "FX/Buff/fx_buff_effect_def_down"
+  },
+  "801070040": {
+    "Id": 801070040,
+    "GroupId": 80107004
+  },
+  "801070050": {
+    "Id": 801070050,
+    "GroupId": 80107005
+  },
+  "801410010": {
+    "Id": 801410010,
+    "GroupId": 80141001,
+    "BindEffect": "FX/Buff/fx_buff_effect_atk_up"
+  },
+  "801410020": {
+    "Id": 801410020,
+    "GroupId": 80141002,
+    "BindEffect": "Actor/Character/14101/Buff/fx_14101_buff_Main_Skill_P02_2"
+  },
+  "801410030": {
+    "Id": 801410030,
+    "GroupId": 80141003,
+    "BindEffect": "Actor/Character/14101/Buff/fx_14101_Buff_InkBurning"
+  },
+  "801410040": {
+    "Id": 801410040,
+    "GroupId": 80141004
+  },
+  "801410050": {
+    "Id": 801410050,
+    "GroupId": 80141005
+  },
+  "801410060": {
+    "Id": 801410060,
+    "GroupId": 80141006
+  },
+  "801430010": {
+    "Id": 801430010,
+    "GroupId": 80143001,
+    "BindEffect": "FX/Buff/fx_buff_effect_atk_up"
+  },
+  "801430020": {
+    "Id": 801430020,
+    "GroupId": 80143002
+  },
+  "801430030": {
+    "Id": 801430030,
+    "GroupId": 80143003
+  },
+  "801430040": {
+    "Id": 801430040,
+    "GroupId": 80143004
+  },
+  "801300010": {
+    "Id": 801300010,
+    "GroupId": 80130001
+  },
+  "801300020": {
+    "Id": 801300020,
+    "GroupId": 80130002
+  },
+  "801300030": {
+    "Id": 801300030,
+    "GroupId": 80130003,
+    "BindEffect": "FX/Buff/fx_buff_effect_atk_up"
+  },
+  "801300040": {
+    "Id": 801300040,
+    "GroupId": 80130004
+  },
+  "801300050": {
+    "Id": 801300050,
+    "GroupId": 80130005
+  },
   "807010110": {
     "Id": 807010110,
     "GroupId": 80701011,
@@ -8629,7 +8914,6 @@
   },
   "29010401": {
     "Id": 29010401,
-    "Name": "词条·闪避减攻击Lv.1",
     "GroupId": 290104,
     "BuffTag1": 1925324471,
     "BindEffect": "FX/Buff/fx_buff_effect_atk_down",
@@ -8638,7 +8922,6 @@
   },
   "29010402": {
     "Id": 29010402,
-    "Name": "词条·闪避减攻击Lv.2",
     "GroupId": 290104,
     "BuffTag1": 1925324471,
     "BindEffect": "FX/Buff/fx_buff_effect_atk_down",
@@ -8647,7 +8930,6 @@
   },
   "29010403": {
     "Id": 29010403,
-    "Name": "词条·闪避减攻击Lv.3",
     "GroupId": 290104,
     "BuffTag1": 1925324471,
     "BindEffect": "FX/Buff/fx_buff_effect_atk_down",
@@ -8656,7 +8938,6 @@
   },
   "29010601": {
     "Id": 29010601,
-    "Name": "词条·时间加攻Buff Lv.1",
     "GroupId": 290106,
     "BuffTag1": -1824092615,
     "BindEffect": "FX/Buff/fx_buff_effect_atk_up",
@@ -8665,7 +8946,6 @@
   },
   "29010602": {
     "Id": 29010602,
-    "Name": "词条·时间加攻Buff Lv.2",
     "GroupId": 290106,
     "BuffTag1": -1824092615,
     "BindEffect": "FX/Buff/fx_buff_effect_atk_up",
@@ -8674,7 +8954,6 @@
   },
   "29010603": {
     "Id": 29010603,
-    "Name": "词条·时间加攻Buff Lv.3",
     "GroupId": 290106,
     "BuffTag1": -1824092615,
     "BindEffect": "FX/Buff/fx_buff_effect_atk_up",
@@ -8683,14 +8962,12 @@
   },
   "29020401": {
     "Id": 29020401,
-    "Name": "抵抗·中",
     "GroupId": 29020401,
     "BindEffect": "FX/Buff/fx_buff_effect_atk_up",
     "Icon": "Icon/Buff/Icon_CommonBuff_DefenseUp"
   },
   "290204011": {
     "Id": 290204011,
-    "Name": "抵抗·中",
     "GroupId": 290204011,
     "BuffTag1": -1824092615,
     "BindEffect": "FX/Buff/fx_buff_effect_atk_up",
@@ -8699,7 +8976,6 @@
   },
   "29020601": {
     "Id": 29020601,
-    "Name": "词条·闪避减攻击Lv.1",
     "GroupId": 29020601,
     "BuffTag1": 1925324471,
     "BindEffect": "FX/Buff/fx_buff_effect_atk_down",
@@ -8708,7 +8984,6 @@
   },
   "29020801": {
     "Id": 29020801,
-    "Name": "主控降防·中",
     "GroupId": 29020801,
     "BuffTag1": 1925324471,
     "BindEffect": "FX/Buff/fx_buff_effect_atk_down",
@@ -8717,14 +8992,12 @@
   },
   "29021601": {
     "Id": 29021601,
-    "Name": "愈战愈勇·小",
     "GroupId": 29021601,
     "BindEffect": "FX/Buff/fx_buff_effect_atk_up",
     "Icon": "Icon/Buff/Icon_CommonBuff_AttackUp"
   },
   "290216011": {
     "Id": 290216011,
-    "Name": "词条·时间加攻Buff Lv.1",
     "GroupId": 290216011,
     "BuffTag1": -1824092615,
     "BindEffect": "FX/Buff/fx_buff_effect_atk_up",
@@ -8733,14 +9006,12 @@
   },
   "29021602": {
     "Id": 29021602,
-    "Name": "愈战愈勇·中",
     "GroupId": 29021602,
     "BindEffect": "FX/Buff/fx_buff_effect_atk_up",
     "Icon": "Icon/Buff/Icon_CommonBuff_AttackUp"
   },
   "290216021": {
     "Id": 290216021,
-    "Name": "词条·时间加攻Buff Lv.2",
     "GroupId": 290216021,
     "BuffTag1": -1824092615,
     "BindEffect": "FX/Buff/fx_buff_effect_atk_up",
@@ -8749,14 +9020,12 @@
   },
   "29021603": {
     "Id": 29021603,
-    "Name": "愈战愈勇·大",
     "GroupId": 29021603,
     "BindEffect": "FX/Buff/fx_buff_effect_atk_up",
     "Icon": "Icon/Buff/Icon_CommonBuff_AttackUp"
   },
   "290216031": {
     "Id": 290216031,
-    "Name": "词条·时间加攻Buff Lv.3",
     "GroupId": 290216031,
     "BuffTag1": -1824092615,
     "BindEffect": "FX/Buff/fx_buff_effect_atk_up",
@@ -8975,2103 +9244,1753 @@
   },
   "3003027": {
     "Id": 3003027,
-    "Name": "【buff效果】绝招伤害提升<color=#ec6d21>{2}</color>，持续{3}秒。",
     "GroupId": 3003027,
     "BuffTag1": -719983267
   },
   "3003028": {
     "Id": 3003028,
-    "Name": "【buff效果】绝招伤害提升<color=#ec6d21>{2}</color>，持续{3}秒。",
     "GroupId": 3003028,
     "BuffTag1": -719983267
   },
   "3003029": {
     "Id": 3003029,
-    "Name": "【buff效果】绝招伤害提升<color=#ec6d21>{2}</color>，持续{3}秒。",
     "GroupId": 3003029,
     "BuffTag1": -719983267
   },
   "3003030": {
     "Id": 3003030,
-    "Name": "【buff效果】绝招伤害提升<color=#ec6d21>{2}</color>，持续{3}秒。",
     "GroupId": 3003030,
     "BuffTag1": -719983267
   },
   "3003031": {
     "Id": 3003031,
-    "Name": "【buff效果】绝招伤害提升<color=#ec6d21>{2}</color>，持续{3}秒。",
     "GroupId": 3003031,
     "BuffTag1": -719983267
   },
   "3003032": {
     "Id": 3003032,
-    "Name": "【buff效果】绝招伤害提升<color=#ec6d21>{2}</color>，持续{3}秒。",
     "GroupId": 3003032,
     "BuffTag1": -719983267
   },
   "3003106": {
     "Id": 3003106,
-    "Name": "【buff效果】提升<color=#ec6d21>{1}</color>攻击力，持续{2}秒。",
     "GroupId": 3003106,
     "BuffTag1": -719983267
   },
   "3003107": {
     "Id": 3003107,
-    "Name": "【buff效果】提升<color=#ec6d21>{1}</color>攻击力，持续{2}秒。",
     "GroupId": 3003107,
     "BuffTag1": -719983267
   },
   "3003108": {
     "Id": 3003108,
-    "Name": "【buff效果】提升<color=#ec6d21>{1}</color>攻击力，持续{2}秒。",
     "GroupId": 3003108,
     "BuffTag1": -719983267
   },
   "3003109": {
     "Id": 3003109,
-    "Name": "【buff效果】提升<color=#ec6d21>{1}</color>攻击力，持续{2}秒。",
     "GroupId": 3003109,
     "BuffTag1": -719983267
   },
   "3003110": {
     "Id": 3003110,
-    "Name": "【buff效果】提升<color=#ec6d21>{1}</color>攻击力，持续{2}秒。",
     "GroupId": 3003110,
     "BuffTag1": -719983267
   },
   "3005027": {
     "Id": 3005027,
-    "Name": "【buff效果】绝招伤害提升<color=#ec6d21>{2}</color>，持续{3}秒。",
     "GroupId": 3005027,
     "BuffTag1": -719983267
   },
   "3005028": {
     "Id": 3005028,
-    "Name": "【buff效果】绝招伤害提升<color=#ec6d21>{2}</color>，持续{3}秒。",
     "GroupId": 3005028,
     "BuffTag1": -719983267
   },
   "3005029": {
     "Id": 3005029,
-    "Name": "【buff效果】绝招伤害提升<color=#ec6d21>{2}</color>，持续{3}秒。",
     "GroupId": 3005029,
     "BuffTag1": -719983267
   },
   "3005030": {
     "Id": 3005030,
-    "Name": "【buff效果】绝招伤害提升<color=#ec6d21>{2}</color>，持续{3}秒。",
     "GroupId": 3005030,
     "BuffTag1": -719983267
   },
   "3005031": {
     "Id": 3005031,
-    "Name": "【buff效果】绝招伤害提升<color=#ec6d21>{2}</color>，持续{3}秒。",
     "GroupId": 3005031,
     "BuffTag1": -719983267
   },
   "3005032": {
     "Id": 3005032,
-    "Name": "【buff效果】绝招伤害提升<color=#ec6d21>{2}</color>，持续{3}秒。",
     "GroupId": 3005032,
     "BuffTag1": -719983267
   },
   "3005106": {
     "Id": 3005106,
-    "Name": "【buff效果】提升<color=#ec6d21>{1}</color>攻击力，持续{2}秒。",
     "GroupId": 3005106,
     "BuffTag1": -719983267
   },
   "3005107": {
     "Id": 3005107,
-    "Name": "【buff效果】提升<color=#ec6d21>{1}</color>攻击力，持续{2}秒。",
     "GroupId": 3005107,
     "BuffTag1": -719983267
   },
   "3005108": {
     "Id": 3005108,
-    "Name": "【buff效果】提升<color=#ec6d21>{1}</color>攻击力，持续{2}秒。",
     "GroupId": 3005108,
     "BuffTag1": -719983267
   },
   "3005109": {
     "Id": 3005109,
-    "Name": "【buff效果】提升<color=#ec6d21>{1}</color>攻击力，持续{2}秒。",
     "GroupId": 3005109,
     "BuffTag1": -719983267
   },
   "3005110": {
     "Id": 3005110,
-    "Name": "【buff效果】提升<color=#ec6d21>{1}</color>攻击力，持续{2}秒。",
     "GroupId": 3005110,
     "BuffTag1": -719983267
   },
   "3007027": {
     "Id": 3007027,
-    "Name": "【buff效果】绝招伤害提升<color=#ec6d21>{2}</color>，持续{3}秒。",
     "GroupId": 3007027,
     "BuffTag1": -719983267
   },
   "3007028": {
     "Id": 3007028,
-    "Name": "【buff效果】绝招伤害提升<color=#ec6d21>{2}</color>，持续{3}秒。",
     "GroupId": 3007028,
     "BuffTag1": -719983267
   },
   "3007029": {
     "Id": 3007029,
-    "Name": "【buff效果】绝招伤害提升<color=#ec6d21>{2}</color>，持续{3}秒。",
     "GroupId": 3007029,
     "BuffTag1": -719983267
   },
   "3007030": {
     "Id": 3007030,
-    "Name": "【buff效果】绝招伤害提升<color=#ec6d21>{2}</color>，持续{3}秒。",
     "GroupId": 3007030,
     "BuffTag1": -719983267
   },
   "3007031": {
     "Id": 3007031,
-    "Name": "【buff效果】绝招伤害提升<color=#ec6d21>{2}</color>，持续{3}秒。",
     "GroupId": 3007031,
     "BuffTag1": -719983267
   },
   "3007032": {
     "Id": 3007032,
-    "Name": "【buff效果】绝招伤害提升<color=#ec6d21>{2}</color>，持续{3}秒。",
     "GroupId": 3007032,
     "BuffTag1": -719983267
   },
   "3007106": {
     "Id": 3007106,
-    "Name": "【buff效果】提升<color=#ec6d21>{1}</color>攻击力，持续{2}秒。",
     "GroupId": 3007106,
     "BuffTag1": -719983267
   },
   "3007107": {
     "Id": 3007107,
-    "Name": "【buff效果】提升<color=#ec6d21>{1}</color>攻击力，持续{2}秒。",
     "GroupId": 3007107,
     "BuffTag1": -719983267
   },
   "3007108": {
     "Id": 3007108,
-    "Name": "【buff效果】提升<color=#ec6d21>{1}</color>攻击力，持续{2}秒。",
     "GroupId": 3007108,
     "BuffTag1": -719983267
   },
   "3007109": {
     "Id": 3007109,
-    "Name": "【buff效果】提升<color=#ec6d21>{1}</color>攻击力，持续{2}秒。",
     "GroupId": 3007109,
     "BuffTag1": -719983267
   },
   "3007110": {
     "Id": 3007110,
-    "Name": "【buff效果】提升<color=#ec6d21>{1}</color>攻击力，持续{2}秒。",
     "GroupId": 3007110,
     "BuffTag1": -719983267
   },
   "3009027": {
     "Id": 3009027,
-    "Name": "【buff效果】绝招伤害提升<color=#ec6d21>{2}</color>，持续{3}秒。",
     "GroupId": 3009027,
     "BuffTag1": -719983267
   },
   "3009028": {
     "Id": 3009028,
-    "Name": "【buff效果】绝招伤害提升<color=#ec6d21>{2}</color>，持续{3}秒。",
     "GroupId": 3009028,
     "BuffTag1": -719983267
   },
   "3009029": {
     "Id": 3009029,
-    "Name": "【buff效果】绝招伤害提升<color=#ec6d21>{2}</color>，持续{3}秒。",
     "GroupId": 3009029,
     "BuffTag1": -719983267
   },
   "3009030": {
     "Id": 3009030,
-    "Name": "【buff效果】绝招伤害提升<color=#ec6d21>{2}</color>，持续{3}秒。",
     "GroupId": 3009030,
     "BuffTag1": -719983267
   },
   "3009031": {
     "Id": 3009031,
-    "Name": "【buff效果】绝招伤害提升<color=#ec6d21>{2}</color>，持续{3}秒。",
     "GroupId": 3009031,
     "BuffTag1": -719983267
   },
   "3009032": {
     "Id": 3009032,
-    "Name": "【buff效果】绝招伤害提升<color=#ec6d21>{2}</color>，持续{3}秒。",
     "GroupId": 3009032,
     "BuffTag1": -719983267
   },
   "3009106": {
     "Id": 3009106,
-    "Name": "【buff效果】提升<color=#ec6d21>{1}</color>攻击力，持续{2}秒。",
     "GroupId": 3009106,
     "BuffTag1": -719983267
   },
   "3009107": {
     "Id": 3009107,
-    "Name": "【buff效果】提升<color=#ec6d21>{1}</color>攻击力，持续{2}秒。",
     "GroupId": 3009107,
     "BuffTag1": -719983267
   },
   "3009108": {
     "Id": 3009108,
-    "Name": "【buff效果】提升<color=#ec6d21>{1}</color>攻击力，持续{2}秒。",
     "GroupId": 3009108,
     "BuffTag1": -719983267
   },
   "3009109": {
     "Id": 3009109,
-    "Name": "【buff效果】提升<color=#ec6d21>{1}</color>攻击力，持续{2}秒。",
     "GroupId": 3009109,
     "BuffTag1": -719983267
   },
   "3009110": {
     "Id": 3009110,
-    "Name": "【buff效果】提升<color=#ec6d21>{1}</color>攻击力，持续{2}秒。",
     "GroupId": 3009110,
     "BuffTag1": -719983267
   },
   "3011027": {
     "Id": 3011027,
-    "Name": "【buff效果】绝招伤害提升<color=#ec6d21>{2}</color>，持续{3}秒。",
     "GroupId": 3011027,
     "BuffTag1": -719983267
   },
   "3011028": {
     "Id": 3011028,
-    "Name": "【buff效果】绝招伤害提升<color=#ec6d21>{2}</color>，持续{3}秒。",
     "GroupId": 3011028,
     "BuffTag1": -719983267
   },
   "3011029": {
     "Id": 3011029,
-    "Name": "【buff效果】绝招伤害提升<color=#ec6d21>{2}</color>，持续{3}秒。",
     "GroupId": 3011029,
     "BuffTag1": -719983267
   },
   "3011030": {
     "Id": 3011030,
-    "Name": "【buff效果】绝招伤害提升<color=#ec6d21>{2}</color>，持续{3}秒。",
     "GroupId": 3011030,
     "BuffTag1": -719983267
   },
   "3011031": {
     "Id": 3011031,
-    "Name": "【buff效果】绝招伤害提升<color=#ec6d21>{2}</color>，持续{3}秒。",
     "GroupId": 3011031,
     "BuffTag1": -719983267
   },
   "3011032": {
     "Id": 3011032,
-    "Name": "【buff效果】绝招伤害提升<color=#ec6d21>{2}</color>，持续{3}秒。",
     "GroupId": 3011032,
     "BuffTag1": -719983267
   },
   "3011106": {
     "Id": 3011106,
-    "Name": "【buff效果】提升<color=#ec6d21>{1}</color>攻击力，持续{2}秒。",
     "GroupId": 3011106,
     "BuffTag1": -719983267
   },
   "3011107": {
     "Id": 3011107,
-    "Name": "【buff效果】提升<color=#ec6d21>{1}</color>攻击力，持续{2}秒。",
     "GroupId": 3011107,
     "BuffTag1": -719983267
   },
   "3011108": {
     "Id": 3011108,
-    "Name": "【buff效果】提升<color=#ec6d21>{1}</color>攻击力，持续{2}秒。",
     "GroupId": 3011108,
     "BuffTag1": -719983267
   },
   "3011109": {
     "Id": 3011109,
-    "Name": "【buff效果】提升<color=#ec6d21>{1}</color>攻击力，持续{2}秒。",
     "GroupId": 3011109,
     "BuffTag1": -719983267
   },
   "3011110": {
     "Id": 3011110,
-    "Name": "【buff效果】提升<color=#ec6d21>{1}</color>攻击力，持续{2}秒。",
     "GroupId": 3011110,
     "BuffTag1": -719983267
   },
   "3013027": {
     "Id": 3013027,
-    "Name": "【buff效果】绝招伤害提升<color=#ec6d21>{2}</color>，持续{3}秒。",
     "GroupId": 3013027,
     "BuffTag1": -719983267
   },
   "3013028": {
     "Id": 3013028,
-    "Name": "【buff效果】绝招伤害提升<color=#ec6d21>{2}</color>，持续{3}秒。",
     "GroupId": 3013028,
     "BuffTag1": -719983267
   },
   "3013029": {
     "Id": 3013029,
-    "Name": "【buff效果】绝招伤害提升<color=#ec6d21>{2}</color>，持续{3}秒。",
     "GroupId": 3013029,
     "BuffTag1": -719983267
   },
   "3013030": {
     "Id": 3013030,
-    "Name": "【buff效果】绝招伤害提升<color=#ec6d21>{2}</color>，持续{3}秒。",
     "GroupId": 3013030,
     "BuffTag1": -719983267
   },
   "3013031": {
     "Id": 3013031,
-    "Name": "【buff效果】绝招伤害提升<color=#ec6d21>{2}</color>，持续{3}秒。",
     "GroupId": 3013031,
     "BuffTag1": -719983267
   },
   "3013032": {
     "Id": 3013032,
-    "Name": "【buff效果】绝招伤害提升<color=#ec6d21>{2}</color>，持续{3}秒。",
     "GroupId": 3013032,
     "BuffTag1": -719983267
   },
   "3013106": {
     "Id": 3013106,
-    "Name": "【buff效果】提升<color=#ec6d21>{1}</color>攻击力，持续{2}秒。",
     "GroupId": 3013106,
     "BuffTag1": -719983267
   },
   "3013107": {
     "Id": 3013107,
-    "Name": "【buff效果】提升<color=#ec6d21>{1}</color>攻击力，持续{2}秒。",
     "GroupId": 3013107,
     "BuffTag1": -719983267
   },
   "3013108": {
     "Id": 3013108,
-    "Name": "【buff效果】提升<color=#ec6d21>{1}</color>攻击力，持续{2}秒。",
     "GroupId": 3013108,
     "BuffTag1": -719983267
   },
   "3013109": {
     "Id": 3013109,
-    "Name": "【buff效果】提升<color=#ec6d21>{1}</color>攻击力，持续{2}秒。",
     "GroupId": 3013109,
     "BuffTag1": -719983267
   },
   "3013110": {
     "Id": 3013110,
-    "Name": "【buff效果】提升<color=#ec6d21>{1}</color>攻击力，持续{2}秒。",
     "GroupId": 3013110,
     "BuffTag1": -719983267
   },
   "3015027": {
     "Id": 3015027,
-    "Name": "【buff效果】技能伤害额外提升<color=#ec6d21>{2}</color>，持续{3}秒。",
     "GroupId": 3015027,
     "BuffTag1": -719983267
   },
   "3015028": {
     "Id": 3015028,
-    "Name": "【buff效果】技能伤害额外提升<color=#ec6d21>{2}</color>，持续{3}秒。",
     "GroupId": 3015028,
     "BuffTag1": -719983267
   },
   "3015029": {
     "Id": 3015029,
-    "Name": "【buff效果】技能伤害额外提升<color=#ec6d21>{2}</color>，持续{3}秒。",
     "GroupId": 3015029,
     "BuffTag1": -719983267
   },
   "3015030": {
     "Id": 3015030,
-    "Name": "【buff效果】技能伤害额外提升<color=#ec6d21>{2}</color>，持续{3}秒。",
     "GroupId": 3015030,
     "BuffTag1": -719983267
   },
   "3015031": {
     "Id": 3015031,
-    "Name": "【buff效果】技能伤害额外提升<color=#ec6d21>{2}</color>，持续{3}秒。",
     "GroupId": 3015031,
     "BuffTag1": -719983267
   },
   "3015032": {
     "Id": 3015032,
-    "Name": "【buff效果】技能伤害额外提升<color=#ec6d21>{2}</color>，持续{3}秒。",
     "GroupId": 3015032,
     "BuffTag1": -719983267
   },
   "3015106": {
     "Id": 3015106,
-    "Name": "【buff效果】风系伤害提升<color=#ec6d21>{1}</color>，持续{2}秒。",
     "GroupId": 3015106,
     "BuffTag1": -719983267
   },
   "3015107": {
     "Id": 3015107,
-    "Name": "【buff效果】风系伤害提升<color=#ec6d21>{1}</color>，持续{2}秒。",
     "GroupId": 3015107,
     "BuffTag1": -719983267
   },
   "3015108": {
     "Id": 3015108,
-    "Name": "【buff效果】风系伤害提升<color=#ec6d21>{1}</color>，持续{2}秒。",
     "GroupId": 3015108,
     "BuffTag1": -719983267
   },
   "3015109": {
     "Id": 3015109,
-    "Name": "【buff效果】风系伤害提升<color=#ec6d21>{1}</color>，持续{2}秒。",
     "GroupId": 3015109,
     "BuffTag1": -719983267
   },
   "3015110": {
     "Id": 3015110,
-    "Name": "【buff效果】风系伤害提升<color=#ec6d21>{1}</color>，持续{2}秒。",
     "GroupId": 3015110,
     "BuffTag1": -719983267
   },
   "3016027": {
     "Id": 3016027,
-    "Name": "【buff效果】技能伤害额外提升<color=#ec6d21>{2}</color>，持续{3}秒。",
     "GroupId": 3016027,
     "BuffTag1": -719983267
   },
   "3016028": {
     "Id": 3016028,
-    "Name": "【buff效果】技能伤害额外提升<color=#ec6d21>{2}</color>，持续{3}秒。",
     "GroupId": 3016028,
     "BuffTag1": -719983267
   },
   "3016029": {
     "Id": 3016029,
-    "Name": "【buff效果】技能伤害额外提升<color=#ec6d21>{2}</color>，持续{3}秒。",
     "GroupId": 3016029,
     "BuffTag1": -719983267
   },
   "3016030": {
     "Id": 3016030,
-    "Name": "【buff效果】技能伤害额外提升<color=#ec6d21>{2}</color>，持续{3}秒。",
     "GroupId": 3016030,
     "BuffTag1": -719983267
   },
   "3016031": {
     "Id": 3016031,
-    "Name": "【buff效果】技能伤害额外提升<color=#ec6d21>{2}</color>，持续{3}秒。",
     "GroupId": 3016031,
     "BuffTag1": -719983267
   },
   "3016032": {
     "Id": 3016032,
-    "Name": "【buff效果】技能伤害额外提升<color=#ec6d21>{2}</color>，持续{3}秒。",
     "GroupId": 3016032,
     "BuffTag1": -719983267
   },
   "3016106": {
     "Id": 3016106,
-    "Name": "【buff效果】火系伤害提升<color=#ec6d21>{1}</color>，持续{2}秒。",
     "GroupId": 3016106,
     "BuffTag1": -719983267
   },
   "3016107": {
     "Id": 3016107,
-    "Name": "【buff效果】火系伤害提升<color=#ec6d21>{1}</color>，持续{2}秒。",
     "GroupId": 3016107,
     "BuffTag1": -719983267
   },
   "3016108": {
     "Id": 3016108,
-    "Name": "【buff效果】火系伤害提升<color=#ec6d21>{1}</color>，持续{2}秒。",
     "GroupId": 3016108,
     "BuffTag1": -719983267
   },
   "3016109": {
     "Id": 3016109,
-    "Name": "【buff效果】火系伤害提升<color=#ec6d21>{1}</color>，持续{2}秒。",
     "GroupId": 3016109,
     "BuffTag1": -719983267
   },
   "3016110": {
     "Id": 3016110,
-    "Name": "【buff效果】火系伤害提升<color=#ec6d21>{1}</color>，持续{2}秒。",
     "GroupId": 3016110,
     "BuffTag1": -719983267
   },
   "3017027": {
     "Id": 3017027,
-    "Name": "【buff效果】技能伤害额外提升<color=#ec6d21>{2}</color>，持续{3}秒。",
     "GroupId": 3017027,
     "BuffTag1": -719983267
   },
   "3017028": {
     "Id": 3017028,
-    "Name": "【buff效果】技能伤害额外提升<color=#ec6d21>{2}</color>，持续{3}秒。",
     "GroupId": 3017028,
     "BuffTag1": -719983267
   },
   "3017029": {
     "Id": 3017029,
-    "Name": "【buff效果】技能伤害额外提升<color=#ec6d21>{2}</color>，持续{3}秒。",
     "GroupId": 3017029,
     "BuffTag1": -719983267
   },
   "3017030": {
     "Id": 3017030,
-    "Name": "【buff效果】技能伤害额外提升<color=#ec6d21>{2}</color>，持续{3}秒。",
     "GroupId": 3017030,
     "BuffTag1": -719983267
   },
   "3017031": {
     "Id": 3017031,
-    "Name": "【buff效果】技能伤害额外提升<color=#ec6d21>{2}</color>，持续{3}秒。",
     "GroupId": 3017031,
     "BuffTag1": -719983267
   },
   "3017032": {
     "Id": 3017032,
-    "Name": "【buff效果】技能伤害额外提升<color=#ec6d21>{2}</color>，持续{3}秒。",
     "GroupId": 3017032,
     "BuffTag1": -719983267
   },
   "3017106": {
     "Id": 3017106,
-    "Name": "【buff效果】光系伤害提升<color=#ec6d21>{1}</color>，持续{2}秒。",
     "GroupId": 3017106,
     "BuffTag1": -719983267
   },
   "3017107": {
     "Id": 3017107,
-    "Name": "【buff效果】光系伤害提升<color=#ec6d21>{1}</color>，持续{2}秒。",
     "GroupId": 3017107,
     "BuffTag1": -719983267
   },
   "3017108": {
     "Id": 3017108,
-    "Name": "【buff效果】光系伤害提升<color=#ec6d21>{1}</color>，持续{2}秒。",
     "GroupId": 3017108,
     "BuffTag1": -719983267
   },
   "3017109": {
     "Id": 3017109,
-    "Name": "【buff效果】光系伤害提升<color=#ec6d21>{1}</color>，持续{2}秒。",
     "GroupId": 3017109,
     "BuffTag1": -719983267
   },
   "3017110": {
     "Id": 3017110,
-    "Name": "【buff效果】光系伤害提升<color=#ec6d21>{1}</color>，持续{2}秒。",
     "GroupId": 3017110,
     "BuffTag1": -719983267
   },
   "3018027": {
     "Id": 3018027,
-    "Name": "【buff效果】技能伤害额外提升<color=#ec6d21>{2}</color>，持续{3}秒。",
     "GroupId": 3018027,
     "BuffTag1": -719983267
   },
   "3018028": {
     "Id": 3018028,
-    "Name": "【buff效果】技能伤害额外提升<color=#ec6d21>{2}</color>，持续{3}秒。",
     "GroupId": 3018028,
     "BuffTag1": -719983267
   },
   "3018029": {
     "Id": 3018029,
-    "Name": "【buff效果】技能伤害额外提升<color=#ec6d21>{2}</color>，持续{3}秒。",
     "GroupId": 3018029,
     "BuffTag1": -719983267
   },
   "3018030": {
     "Id": 3018030,
-    "Name": "【buff效果】技能伤害额外提升<color=#ec6d21>{2}</color>，持续{3}秒。",
     "GroupId": 3018030,
     "BuffTag1": -719983267
   },
   "3018031": {
     "Id": 3018031,
-    "Name": "【buff效果】技能伤害额外提升<color=#ec6d21>{2}</color>，持续{3}秒。",
     "GroupId": 3018031,
     "BuffTag1": -719983267
   },
   "3018032": {
     "Id": 3018032,
-    "Name": "【buff效果】技能伤害额外提升<color=#ec6d21>{2}</color>，持续{3}秒。",
     "GroupId": 3018032,
     "BuffTag1": -719983267
   },
   "3018106": {
     "Id": 3018106,
-    "Name": "【buff效果】水系伤害提升<color=#ec6d21>{1}</color>，持续{2}秒。",
     "GroupId": 3018106,
     "BuffTag1": -719983267
   },
   "3018107": {
     "Id": 3018107,
-    "Name": "【buff效果】水系伤害提升<color=#ec6d21>{1}</color>，持续{2}秒。",
     "GroupId": 3018107,
     "BuffTag1": -719983267
   },
   "3018108": {
     "Id": 3018108,
-    "Name": "【buff效果】水系伤害提升<color=#ec6d21>{1}</color>，持续{2}秒。",
     "GroupId": 3018108,
     "BuffTag1": -719983267
   },
   "3018109": {
     "Id": 3018109,
-    "Name": "【buff效果】水系伤害提升<color=#ec6d21>{1}</color>，持续{2}秒。",
     "GroupId": 3018109,
     "BuffTag1": -719983267
   },
   "3018110": {
     "Id": 3018110,
-    "Name": "【buff效果】水系伤害提升<color=#ec6d21>{1}</color>，持续{2}秒。",
     "GroupId": 3018110,
     "BuffTag1": -719983267
   },
   "3019027": {
     "Id": 3019027,
-    "Name": "【buff效果】技能伤害额外提升<color=#ec6d21>{2}</color>，持续{3}秒。",
     "GroupId": 3019027,
     "BuffTag1": -719983267
   },
   "3019028": {
     "Id": 3019028,
-    "Name": "【buff效果】技能伤害额外提升<color=#ec6d21>{2}</color>，持续{3}秒。",
     "GroupId": 3019028,
     "BuffTag1": -719983267
   },
   "3019029": {
     "Id": 3019029,
-    "Name": "【buff效果】技能伤害额外提升<color=#ec6d21>{2}</color>，持续{3}秒。",
     "GroupId": 3019029,
     "BuffTag1": -719983267
   },
   "3019030": {
     "Id": 3019030,
-    "Name": "【buff效果】技能伤害额外提升<color=#ec6d21>{2}</color>，持续{3}秒。",
     "GroupId": 3019030,
     "BuffTag1": -719983267
   },
   "3019031": {
     "Id": 3019031,
-    "Name": "【buff效果】技能伤害额外提升<color=#ec6d21>{2}</color>，持续{3}秒。",
     "GroupId": 3019031,
     "BuffTag1": -719983267
   },
   "3019032": {
     "Id": 3019032,
-    "Name": "【buff效果】技能伤害额外提升<color=#ec6d21>{2}</color>，持续{3}秒。",
     "GroupId": 3019032,
     "BuffTag1": -719983267
   },
   "3019106": {
     "Id": 3019106,
-    "Name": "【buff效果】暗系伤害提升<color=#ec6d21>{1}</color>，持续{2}秒。",
     "GroupId": 3019106,
     "BuffTag1": -719983267
   },
   "3019107": {
     "Id": 3019107,
-    "Name": "【buff效果】暗系伤害提升<color=#ec6d21>{1}</color>，持续{2}秒。",
     "GroupId": 3019107,
     "BuffTag1": -719983267
   },
   "3019108": {
     "Id": 3019108,
-    "Name": "【buff效果】暗系伤害提升<color=#ec6d21>{1}</color>，持续{2}秒。",
     "GroupId": 3019108,
     "BuffTag1": -719983267
   },
   "3019109": {
     "Id": 3019109,
-    "Name": "【buff效果】暗系伤害提升<color=#ec6d21>{1}</color>，持续{2}秒。",
     "GroupId": 3019109,
     "BuffTag1": -719983267
   },
   "3019110": {
     "Id": 3019110,
-    "Name": "【buff效果】暗系伤害提升<color=#ec6d21>{1}</color>，持续{2}秒。",
     "GroupId": 3019110,
     "BuffTag1": -719983267
   },
   "3020027": {
     "Id": 3020027,
-    "Name": "【buff效果】技能伤害额外提升<color=#ec6d21>{2}</color>，持续{3}秒。",
     "GroupId": 3020027,
     "BuffTag1": -719983267
   },
   "3020028": {
     "Id": 3020028,
-    "Name": "【buff效果】技能伤害额外提升<color=#ec6d21>{2}</color>，持续{3}秒。",
     "GroupId": 3020028,
     "BuffTag1": -719983267
   },
   "3020029": {
     "Id": 3020029,
-    "Name": "【buff效果】技能伤害额外提升<color=#ec6d21>{2}</color>，持续{3}秒。",
     "GroupId": 3020029,
     "BuffTag1": -719983267
   },
   "3020030": {
     "Id": 3020030,
-    "Name": "【buff效果】技能伤害额外提升<color=#ec6d21>{2}</color>，持续{3}秒。",
     "GroupId": 3020030,
     "BuffTag1": -719983267
   },
   "3020031": {
     "Id": 3020031,
-    "Name": "【buff效果】技能伤害额外提升<color=#ec6d21>{2}</color>，持续{3}秒。",
     "GroupId": 3020031,
     "BuffTag1": -719983267
   },
   "3020032": {
     "Id": 3020032,
-    "Name": "【buff效果】技能伤害额外提升<color=#ec6d21>{2}</color>，持续{3}秒。",
     "GroupId": 3020032,
     "BuffTag1": -719983267
   },
   "3020106": {
     "Id": 3020106,
-    "Name": "【buff效果】地系伤害提升<color=#ec6d21>{1}</color>，持续{2}秒。",
     "GroupId": 3020106,
     "BuffTag1": -719983267
   },
   "3020107": {
     "Id": 3020107,
-    "Name": "【buff效果】地系伤害提升<color=#ec6d21>{1}</color>，持续{2}秒。",
     "GroupId": 3020107,
     "BuffTag1": -719983267
   },
   "3020108": {
     "Id": 3020108,
-    "Name": "【buff效果】地系伤害提升<color=#ec6d21>{1}</color>，持续{2}秒。",
     "GroupId": 3020108,
     "BuffTag1": -719983267
   },
   "3020109": {
     "Id": 3020109,
-    "Name": "【buff效果】地系伤害提升<color=#ec6d21>{1}</color>，持续{2}秒。",
     "GroupId": 3020109,
     "BuffTag1": -719983267
   },
   "3020110": {
     "Id": 3020110,
-    "Name": "【buff效果】地系伤害提升<color=#ec6d21>{1}</color>，持续{2}秒。",
     "GroupId": 3020110,
     "BuffTag1": -719983267
   },
   "3021106": {
     "Id": 3021106,
-    "Name": "【buff效果】攻击力提升<color=#ec6d21>{1}</color>，持续{2}秒，可叠加{3}层。",
     "GroupId": 3021106,
     "BuffTag1": -719983267
   },
   "3021107": {
     "Id": 3021107,
-    "Name": "【buff效果】攻击力提升<color=#ec6d21>{1}</color>，持续{2}秒，可叠加{3}层。",
     "GroupId": 3021107,
     "BuffTag1": -719983267
   },
   "3021108": {
     "Id": 3021108,
-    "Name": "【buff效果】攻击力提升<color=#ec6d21>{1}</color>，持续{2}秒，可叠加{3}层。",
     "GroupId": 3021108,
     "BuffTag1": -719983267
   },
   "3021109": {
     "Id": 3021109,
-    "Name": "【buff效果】攻击力提升<color=#ec6d21>{1}</color>，持续{2}秒，可叠加{3}层。",
     "GroupId": 3021109,
     "BuffTag1": -719983267
   },
   "3021110": {
     "Id": 3021110,
-    "Name": "【buff效果】攻击力提升<color=#ec6d21>{1}</color>，持续{2}秒，可叠加{3}层。",
     "GroupId": 3021110,
     "BuffTag1": -719983267
   },
   "3022106": {
     "Id": 3022106,
-    "Name": "【buff效果】攻击力提升<color=#ec6d21>{1}</color>，持续{2}秒，可叠加{3}层。",
     "GroupId": 3022106,
     "BuffTag1": -719983267
   },
   "3022107": {
     "Id": 3022107,
-    "Name": "【buff效果】攻击力提升<color=#ec6d21>{1}</color>，持续{2}秒，可叠加{3}层。",
     "GroupId": 3022107,
     "BuffTag1": -719983267
   },
   "3022108": {
     "Id": 3022108,
-    "Name": "【buff效果】攻击力提升<color=#ec6d21>{1}</color>，持续{2}秒，可叠加{3}层。",
     "GroupId": 3022108,
     "BuffTag1": -719983267
   },
   "3022109": {
     "Id": 3022109,
-    "Name": "【buff效果】攻击力提升<color=#ec6d21>{1}</color>，持续{2}秒，可叠加{3}层。",
     "GroupId": 3022109,
     "BuffTag1": -719983267
   },
   "3022110": {
     "Id": 3022110,
-    "Name": "【buff效果】攻击力提升<color=#ec6d21>{1}</color>，持续{2}秒，可叠加{3}层。",
     "GroupId": 3022110,
     "BuffTag1": -719983267
   },
   "3023106": {
     "Id": 3023106,
-    "Name": "【buff效果】攻击力提升<color=#ec6d21>{1}</color>，持续{2}秒，可叠加{3}层。",
     "GroupId": 3023106,
     "BuffTag1": -719983267
   },
   "3023107": {
     "Id": 3023107,
-    "Name": "【buff效果】攻击力提升<color=#ec6d21>{1}</color>，持续{2}秒，可叠加{3}层。",
     "GroupId": 3023107,
     "BuffTag1": -719983267
   },
   "3023108": {
     "Id": 3023108,
-    "Name": "【buff效果】攻击力提升<color=#ec6d21>{1}</color>，持续{2}秒，可叠加{3}层。",
     "GroupId": 3023108,
     "BuffTag1": -719983267
   },
   "3023109": {
     "Id": 3023109,
-    "Name": "【buff效果】攻击力提升<color=#ec6d21>{1}</color>，持续{2}秒，可叠加{3}层。",
     "GroupId": 3023109,
     "BuffTag1": -719983267
   },
   "3023110": {
     "Id": 3023110,
-    "Name": "【buff效果】攻击力提升<color=#ec6d21>{1}</color>，持续{2}秒，可叠加{3}层。",
     "GroupId": 3023110,
     "BuffTag1": -719983267
   },
   "3024106": {
     "Id": 3024106,
-    "Name": "【buff效果】攻击力提升<color=#ec6d21>{1}</color>，持续{2}秒，可叠加{3}层。",
     "GroupId": 3024106,
     "BuffTag1": -719983267
   },
   "3024107": {
     "Id": 3024107,
-    "Name": "【buff效果】攻击力提升<color=#ec6d21>{1}</color>，持续{2}秒，可叠加{3}层。",
     "GroupId": 3024107,
     "BuffTag1": -719983267
   },
   "3024108": {
     "Id": 3024108,
-    "Name": "【buff效果】攻击力提升<color=#ec6d21>{1}</color>，持续{2}秒，可叠加{3}层。",
     "GroupId": 3024108,
     "BuffTag1": -719983267
   },
   "3024109": {
     "Id": 3024109,
-    "Name": "【buff效果】攻击力提升<color=#ec6d21>{1}</color>，持续{2}秒，可叠加{3}层。",
     "GroupId": 3024109,
     "BuffTag1": -719983267
   },
   "3024110": {
     "Id": 3024110,
-    "Name": "【buff效果】攻击力提升<color=#ec6d21>{1}</color>，持续{2}秒，可叠加{3}层。",
     "GroupId": 3024110,
     "BuffTag1": -719983267
   },
   "3025106": {
     "Id": 3025106,
-    "Name": "【buff效果】攻击力提升<color=#ec6d21>{1}</color>，持续{2}秒，可叠加{3}层。",
     "GroupId": 3025106,
     "BuffTag1": -719983267
   },
   "3025107": {
     "Id": 3025107,
-    "Name": "【buff效果】攻击力提升<color=#ec6d21>{1}</color>，持续{2}秒，可叠加{3}层。",
     "GroupId": 3025107,
     "BuffTag1": -719983267
   },
   "3025108": {
     "Id": 3025108,
-    "Name": "【buff效果】攻击力提升<color=#ec6d21>{1}</color>，持续{2}秒，可叠加{3}层。",
     "GroupId": 3025108,
     "BuffTag1": -719983267
   },
   "3025109": {
     "Id": 3025109,
-    "Name": "【buff效果】攻击力提升<color=#ec6d21>{1}</color>，持续{2}秒，可叠加{3}层。",
     "GroupId": 3025109,
     "BuffTag1": -719983267
   },
   "3025110": {
     "Id": 3025110,
-    "Name": "【buff效果】攻击力提升<color=#ec6d21>{1}</color>，持续{2}秒，可叠加{3}层。",
     "GroupId": 3025110,
     "BuffTag1": -719983267
   },
   "3026106": {
     "Id": 3026106,
-    "Name": "【buff效果】攻击力提升<color=#ec6d21>{1}</color>，持续{2}秒，可叠加{3}层。",
     "GroupId": 3026106,
     "BuffTag1": -719983267
   },
   "3026107": {
     "Id": 3026107,
-    "Name": "【buff效果】攻击力提升<color=#ec6d21>{1}</color>，持续{2}秒，可叠加{3}层。",
     "GroupId": 3026107,
     "BuffTag1": -719983267
   },
   "3026108": {
     "Id": 3026108,
-    "Name": "【buff效果】攻击力提升<color=#ec6d21>{1}</color>，持续{2}秒，可叠加{3}层。",
     "GroupId": 3026108,
     "BuffTag1": -719983267
   },
   "3026109": {
     "Id": 3026109,
-    "Name": "【buff效果】攻击力提升<color=#ec6d21>{1}</color>，持续{2}秒，可叠加{3}层。",
     "GroupId": 3026109,
     "BuffTag1": -719983267
   },
   "3026110": {
     "Id": 3026110,
-    "Name": "【buff效果】攻击力提升<color=#ec6d21>{1}</color>，持续{2}秒，可叠加{3}层。",
     "GroupId": 3026110,
     "BuffTag1": -719983267
   },
   "4001021": {
     "Id": 4001021,
-    "Name": "【buff效果】攻击力提升{2}，持续{3}秒",
     "GroupId": 4001021,
     "BuffTag1": -719983267
   },
   "4001041": {
     "Id": 4001041,
-    "Name": "【buff效果】获得「炎铠」：受到伤害降低{4}，持续{5}秒。",
     "GroupId": 4001041,
     "BuffTag1": -719983267,
     "BindEffect": "FX/Astrolabe/Buff/fx_astrolabe_buff_fire_1"
   },
   "4001106": {
     "Id": 4001106,
-    "Name": "【buff效果】对精英及以上目标造成绝招伤害提升<color=#ec6d21>{1}</color>。（持续时间与炎铠一致）",
     "GroupId": 4001106,
     "BuffTag1": -719983267
   },
   "4001107": {
     "Id": 4001107,
-    "Name": "【buff效果】对精英及以上目标造成绝招伤害提升<color=#ec6d21>{1}</color>。（持续时间与炎铠一致）",
     "GroupId": 4001107,
     "BuffTag1": -719983267
   },
   "4001108": {
     "Id": 4001108,
-    "Name": "【buff效果】对精英及以上目标造成绝招伤害提升<color=#ec6d21>{1}</color>。（持续时间与炎铠一致）",
     "GroupId": 4001108,
     "BuffTag1": -719983267
   },
   "4001109": {
     "Id": 4001109,
-    "Name": "【buff效果】对精英及以上目标造成绝招伤害提升<color=#ec6d21>{1}</color>。（持续时间与炎铠一致）",
     "GroupId": 4001109,
     "BuffTag1": -719983267
   },
   "4001110": {
     "Id": 4001110,
-    "Name": "【buff效果】对精英及以上目标造成绝招伤害提升<color=#ec6d21>{1}</color>。（持续时间与炎铠一致）",
     "GroupId": 4001110,
     "BuffTag1": -719983267
   },
   "4001206": {
     "Id": 4001206,
-    "Name": "【buff效果】提升<color=#ec6d21>{1}</color>攻击力，持续{2}秒，可叠加{3}层。",
     "GroupId": 4001206,
     "BuffTag1": -719983267
   },
   "4001207": {
     "Id": 4001207,
-    "Name": "【buff效果】提升<color=#ec6d21>{1}</color>攻击力，持续{2}秒，可叠加{3}层。",
     "GroupId": 4001207,
     "BuffTag1": -719983267
   },
   "4001208": {
     "Id": 4001208,
-    "Name": "【buff效果】提升<color=#ec6d21>{1}</color>攻击力，持续{2}秒，可叠加{3}层。",
     "GroupId": 4001208,
     "BuffTag1": -719983267
   },
   "4001209": {
     "Id": 4001209,
-    "Name": "【buff效果】提升<color=#ec6d21>{1}</color>攻击力，持续{2}秒，可叠加{3}层。",
     "GroupId": 4001209,
     "BuffTag1": -719983267
   },
   "4001210": {
     "Id": 4001210,
-    "Name": "【buff效果】提升<color=#ec6d21>{1}</color>攻击力，持续{2}秒，可叠加{3}层。",
     "GroupId": 4001210,
     "BuffTag1": -719983267
   },
   "4002021": {
     "Id": 4002021,
-    "Name": "【buff效果】割裂：受到风系伤害提升{3}，持续{4}秒。",
     "GroupId": 4002021,
     "BuffTag1": -2138561627,
     "BindEffect": "FX/Astrolabe/Buff/fx_astrolabe_buff_wind_1"
   },
   "4002206": {
     "Id": 4002206,
-    "Name": "【buff效果】风系伤害提升<color=#ec6d21>{1}</color>，持续{2}秒，最多叠加{3}层。",
     "GroupId": 4002206,
     "BuffTag1": -719983267
   },
   "4002207": {
     "Id": 4002207,
-    "Name": "【buff效果】风系伤害提升<color=#ec6d21>{1}</color>，持续{2}秒，最多叠加{3}层。",
     "GroupId": 4002207,
     "BuffTag1": -719983267
   },
   "4002208": {
     "Id": 4002208,
-    "Name": "【buff效果】风系伤害提升<color=#ec6d21>{1}</color>，持续{2}秒，最多叠加{3}层。",
     "GroupId": 4002208,
     "BuffTag1": -719983267
   },
   "4002209": {
     "Id": 4002209,
-    "Name": "【buff效果】风系伤害提升<color=#ec6d21>{1}</color>，持续{2}秒，最多叠加{3}层。",
     "GroupId": 4002209,
     "BuffTag1": -719983267
   },
   "4002210": {
     "Id": 4002210,
-    "Name": "【buff效果】风系伤害提升<color=#ec6d21>{1}</color>，持续{2}秒，最多叠加{3}层。",
     "GroupId": 4002210,
     "BuffTag1": -719983267
   },
   "4005106": {
     "Id": 4005106,
-    "Name": "【buff效果】普攻伤害提升<color=#ec6d21>{1}</color>，持续{2}秒。",
     "GroupId": 4005106,
     "BuffTag1": -719983267
   },
   "4005107": {
     "Id": 4005107,
-    "Name": "【buff效果】普攻伤害提升<color=#ec6d21>{1}</color>，持续{2}秒。",
     "GroupId": 4005107,
     "BuffTag1": -719983267
   },
   "4005108": {
     "Id": 4005108,
-    "Name": "【buff效果】普攻伤害提升<color=#ec6d21>{1}</color>，持续{2}秒。",
     "GroupId": 4005108,
     "BuffTag1": -719983267
   },
   "4005109": {
     "Id": 4005109,
-    "Name": "【buff效果】普攻伤害提升<color=#ec6d21>{1}</color>，持续{2}秒。",
     "GroupId": 4005109,
     "BuffTag1": -719983267
   },
   "4005110": {
     "Id": 4005110,
-    "Name": "【buff效果】普攻伤害提升<color=#ec6d21>{1}</color>，持续{2}秒。",
     "GroupId": 4005110,
     "BuffTag1": -719983267
   },
   "4005126": {
     "Id": 4005126,
-    "Name": "【buff效果】技能伤害提升<color=#ec6d21>{1}</color>，持续{2}秒。",
     "GroupId": 4005126,
     "BuffTag1": -719983267
   },
   "4005127": {
     "Id": 4005127,
-    "Name": "【buff效果】技能伤害提升<color=#ec6d21>{1}</color>，持续{2}秒。",
     "GroupId": 4005127,
     "BuffTag1": -719983267
   },
   "4005128": {
     "Id": 4005128,
-    "Name": "【buff效果】技能伤害提升<color=#ec6d21>{1}</color>，持续{2}秒。",
     "GroupId": 4005128,
     "BuffTag1": -719983267
   },
   "4005129": {
     "Id": 4005129,
-    "Name": "【buff效果】技能伤害提升<color=#ec6d21>{1}</color>，持续{2}秒。",
     "GroupId": 4005129,
     "BuffTag1": -719983267
   },
   "4005130": {
     "Id": 4005130,
-    "Name": "【buff效果】技能伤害提升<color=#ec6d21>{1}</color>，持续{2}秒。",
     "GroupId": 4005130,
     "BuffTag1": -719983267
   },
   "4006027": {
     "Id": 4006027,
-    "Name": "【buff效果】暗系伤害额外提升<color=#ec6d21>{2}</color>，持续{3}秒。",
     "GroupId": 4006027,
     "BuffTag1": -719983267
   },
   "4006028": {
     "Id": 4006028,
-    "Name": "【buff效果】暗系伤害额外提升<color=#ec6d21>{2}</color>，持续{3}秒。",
     "GroupId": 4006028,
     "BuffTag1": -719983267
   },
   "4006029": {
     "Id": 4006029,
-    "Name": "【buff效果】暗系伤害额外提升<color=#ec6d21>{2}</color>，持续{3}秒。",
     "GroupId": 4006029,
     "BuffTag1": -719983267
   },
   "4006030": {
     "Id": 4006030,
-    "Name": "【buff效果】暗系伤害额外提升<color=#ec6d21>{2}</color>，持续{3}秒。",
     "GroupId": 4006030,
     "BuffTag1": -719983267
   },
   "4006031": {
     "Id": 4006031,
-    "Name": "【buff效果】暗系伤害额外提升<color=#ec6d21>{2}</color>，持续{3}秒。",
     "GroupId": 4006031,
     "BuffTag1": -719983267
   },
   "4006032": {
     "Id": 4006032,
-    "Name": "【buff效果】暗系伤害额外提升<color=#ec6d21>{2}</color>，持续{3}秒。",
     "GroupId": 4006032,
     "BuffTag1": -719983267
   },
   "4006106": {
     "Id": 4006106,
-    "Name": "【buff效果】攻击力提升<color=#ec6d21>{1}</color>，持续{2}秒。",
     "GroupId": 4006106,
     "BuffTag1": -719983267
   },
   "4006107": {
     "Id": 4006107,
-    "Name": "【buff效果】攻击力提升<color=#ec6d21>{1}</color>，持续{2}秒。",
     "GroupId": 4006107,
     "BuffTag1": -719983267
   },
   "4006108": {
     "Id": 4006108,
-    "Name": "【buff效果】攻击力提升<color=#ec6d21>{1}</color>，持续{2}秒。",
     "GroupId": 4006108,
     "BuffTag1": -719983267
   },
   "4006109": {
     "Id": 4006109,
-    "Name": "【buff效果】攻击力提升<color=#ec6d21>{1}</color>，持续{2}秒。",
     "GroupId": 4006109,
     "BuffTag1": -719983267
   },
   "4006110": {
     "Id": 4006110,
-    "Name": "【buff效果】攻击力提升<color=#ec6d21>{1}</color>，持续{2}秒。",
     "GroupId": 4006110,
     "BuffTag1": -719983267
   },
   "4006126": {
     "Id": 4006126,
-    "Name": "【buff效果】仆从伤害提升<color=#ec6d21>{3}</color>，持续{4}秒，可叠{5}层。",
     "GroupId": 4006126,
     "BuffTag1": -719983267
   },
   "4006127": {
     "Id": 4006127,
-    "Name": "【buff效果】仆从伤害提升<color=#ec6d21>{3}</color>，持续{4}秒，可叠{5}层。",
     "GroupId": 4006127,
     "BuffTag1": -719983267
   },
   "4006128": {
     "Id": 4006128,
-    "Name": "【buff效果】仆从伤害提升<color=#ec6d21>{3}</color>，持续{4}秒，可叠{5}层。",
     "GroupId": 4006128,
     "BuffTag1": -719983267
   },
   "4006129": {
     "Id": 4006129,
-    "Name": "【buff效果】仆从伤害提升<color=#ec6d21>{3}</color>，持续{4}秒，可叠{5}层。",
     "GroupId": 4006129,
     "BuffTag1": -719983267
   },
   "4006130": {
     "Id": 4006130,
-    "Name": "【buff效果】仆从伤害提升<color=#ec6d21>{3}</color>，持续{4}秒，可叠{5}层。",
     "GroupId": 4006130,
     "BuffTag1": -719983267
   },
   "4006226": {
     "Id": 4006226,
-    "Name": "【buff效果】绝招伤害额外提升<color=#ec6d21>{2}</color>，持续{4}秒。",
     "GroupId": 4006226,
     "BuffTag1": -719983267
   },
   "4006227": {
     "Id": 4006227,
-    "Name": "【buff效果】绝招伤害额外提升<color=#ec6d21>{2}</color>，持续{4}秒。",
     "GroupId": 4006227,
     "BuffTag1": -719983267
   },
   "4006228": {
     "Id": 4006228,
-    "Name": "【buff效果】绝招伤害额外提升<color=#ec6d21>{2}</color>，持续{4}秒。",
     "GroupId": 4006228,
     "BuffTag1": -719983267
   },
   "4006229": {
     "Id": 4006229,
-    "Name": "【buff效果】绝招伤害额外提升<color=#ec6d21>{2}</color>，持续{4}秒。",
     "GroupId": 4006229,
     "BuffTag1": -719983267
   },
   "4006230": {
     "Id": 4006230,
-    "Name": "【buff效果】绝招伤害额外提升<color=#ec6d21>{2}</color>，持续{4}秒。",
     "GroupId": 4006230,
     "BuffTag1": -719983267
   },
   "4006246": {
     "Id": 4006246,
-    "Name": "【buff效果】仆从伤害提升<color=#ec6d21>{3}</color>，持续{4}秒。",
     "GroupId": 4006246,
     "BuffTag1": -719983267
   },
   "4006247": {
     "Id": 4006247,
-    "Name": "【buff效果】仆从伤害提升<color=#ec6d21>{3}</color>，持续{4}秒。",
     "GroupId": 4006247,
     "BuffTag1": -719983267
   },
   "4006248": {
     "Id": 4006248,
-    "Name": "【buff效果】仆从伤害提升<color=#ec6d21>{3}</color>，持续{4}秒。",
     "GroupId": 4006248,
     "BuffTag1": -719983267
   },
   "4006249": {
     "Id": 4006249,
-    "Name": "【buff效果】仆从伤害提升<color=#ec6d21>{3}</color>，持续{4}秒。",
     "GroupId": 4006249,
     "BuffTag1": -719983267
   },
   "4006250": {
     "Id": 4006250,
-    "Name": "【buff效果】仆从伤害提升<color=#ec6d21>{3}</color>，持续{4}秒。",
     "GroupId": 4006250,
     "BuffTag1": -719983267
   },
   "4007047": {
     "Id": 4007047,
-    "Name": "【buff效果】普攻伤害提升<color=#ec6d21>{2}</color>，持续{3}秒",
     "GroupId": 4007047,
     "BuffTag1": -719983267
   },
   "4007048": {
     "Id": 4007048,
-    "Name": "【buff效果】普攻伤害提升<color=#ec6d21>{2}</color>，持续{3}秒",
     "GroupId": 4007048,
     "BuffTag1": -719983267
   },
   "4007049": {
     "Id": 4007049,
-    "Name": "【buff效果】普攻伤害提升<color=#ec6d21>{2}</color>，持续{3}秒",
     "GroupId": 4007049,
     "BuffTag1": -719983267
   },
   "4007050": {
     "Id": 4007050,
-    "Name": "【buff效果】普攻伤害提升<color=#ec6d21>{2}</color>，持续{3}秒",
     "GroupId": 4007050,
     "BuffTag1": -719983267
   },
   "4007051": {
     "Id": 4007051,
-    "Name": "【buff效果】普攻伤害提升<color=#ec6d21>{2}</color>，持续{3}秒",
     "GroupId": 4007051,
     "BuffTag1": -719983267
   },
   "4007052": {
     "Id": 4007052,
-    "Name": "【buff效果】普攻伤害提升<color=#ec6d21>{2}</color>，持续{3}秒",
     "GroupId": 4007052,
     "BuffTag1": -719983267
   },
   "4007067": {
     "Id": 4007067,
-    "Name": "【buff效果】绝招伤害提升<color=#ec6d21>{2}</color>，持续{3}秒",
     "GroupId": 4007067,
     "BuffTag1": -719983267
   },
   "4007068": {
     "Id": 4007068,
-    "Name": "【buff效果】绝招伤害提升<color=#ec6d21>{2}</color>，持续{3}秒",
     "GroupId": 4007068,
     "BuffTag1": -719983267
   },
   "4007069": {
     "Id": 4007069,
-    "Name": "【buff效果】绝招伤害提升<color=#ec6d21>{2}</color>，持续{3}秒",
     "GroupId": 4007069,
     "BuffTag1": -719983267
   },
   "4007070": {
     "Id": 4007070,
-    "Name": "【buff效果】绝招伤害提升<color=#ec6d21>{2}</color>，持续{3}秒",
     "GroupId": 4007070,
     "BuffTag1": -719983267
   },
   "4007071": {
     "Id": 4007071,
-    "Name": "【buff效果】绝招伤害提升<color=#ec6d21>{2}</color>，持续{3}秒",
     "GroupId": 4007071,
     "BuffTag1": -719983267
   },
   "4007072": {
     "Id": 4007072,
-    "Name": "【buff效果】绝招伤害提升<color=#ec6d21>{2}</color>，持续{3}秒",
     "GroupId": 4007072,
     "BuffTag1": -719983267
   },
   "4007106": {
     "Id": 4007106,
-    "Name": "【buff效果】攻击力提升<color=#ec6d21>{1}</color>,持续{3}秒",
     "GroupId": 4007106,
     "BuffTag1": -719983267
   },
   "4007107": {
     "Id": 4007107,
-    "Name": "【buff效果】攻击力提升<color=#ec6d21>{1}</color>,持续{3}秒",
     "GroupId": 4007107,
     "BuffTag1": -719983267
   },
   "4007108": {
     "Id": 4007108,
-    "Name": "【buff效果】攻击力提升<color=#ec6d21>{1}</color>,持续{3}秒",
     "GroupId": 4007108,
     "BuffTag1": -719983267
   },
   "4007109": {
     "Id": 4007109,
-    "Name": "【buff效果】攻击力提升<color=#ec6d21>{1}</color>,持续{3}秒",
     "GroupId": 4007109,
     "BuffTag1": -719983267
   },
   "4007110": {
     "Id": 4007110,
-    "Name": "【buff效果】攻击力提升<color=#ec6d21>{1}</color>,持续{3}秒",
     "GroupId": 4007110,
     "BuffTag1": -719983267
   },
   "4007126": {
     "Id": 4007126,
-    "Name": "【buff效果】攻击力额外提升<color=#ec6d21>{2}</color>，持续{4}秒。",
     "GroupId": 4006226,
     "BuffTag1": -719983267
   },
   "4007127": {
     "Id": 4007127,
-    "Name": "【buff效果】攻击力额外提升<color=#ec6d21>{2}</color>，持续{4}秒。",
     "GroupId": 4006227,
     "BuffTag1": -719983267
   },
   "4007128": {
     "Id": 4007128,
-    "Name": "【buff效果】攻击力额外提升<color=#ec6d21>{2}</color>，持续{4}秒。",
     "GroupId": 4006228,
     "BuffTag1": -719983267
   },
   "4007129": {
     "Id": 4007129,
-    "Name": "【buff效果】攻击力额外提升<color=#ec6d21>{2}</color>，持续{4}秒。",
     "GroupId": 4006229,
     "BuffTag1": -719983267
   },
   "4007130": {
     "Id": 4007130,
-    "Name": "【buff效果】攻击力额外提升<color=#ec6d21>{2}</color>，持续{4}秒。",
     "GroupId": 4006230,
     "BuffTag1": -719983267
   },
   "4007206": {
     "Id": 4007206,
-    "Name": "【buff效果】受到光系伤害提升<color=#ec6d21>{1}</color>，持续{2}秒。",
     "GroupId": 4007206,
     "BuffTag1": -2138561627
   },
   "4007207": {
     "Id": 4007207,
-    "Name": "【buff效果】受到光系伤害提升<color=#ec6d21>{1}</color>，持续{2}秒。",
     "GroupId": 4007207,
     "BuffTag1": -2138561627
   },
   "4007208": {
     "Id": 4007208,
-    "Name": "【buff效果】受到光系伤害提升<color=#ec6d21>{1}</color>，持续{2}秒。",
     "GroupId": 4007208,
     "BuffTag1": -2138561627
   },
   "4007209": {
     "Id": 4007209,
-    "Name": "【buff效果】受到光系伤害提升<color=#ec6d21>{1}</color>，持续{2}秒。",
     "GroupId": 4007209,
     "BuffTag1": -2138561627
   },
   "4007210": {
     "Id": 4007210,
-    "Name": "【buff效果】受到光系伤害提升<color=#ec6d21>{1}</color>，持续{2}秒。",
     "GroupId": 4007210,
     "BuffTag1": -2138561627
   },
   "4009106": {
     "Id": 4009106,
-    "Name": "【buff效果】风系伤害提升<color=#ec6d21>{1}</color>，持续{2}秒。",
     "GroupId": 4009106,
     "BuffTag1": -719983267
   },
   "4009107": {
     "Id": 4009107,
-    "Name": "【buff效果】风系伤害提升<color=#ec6d21>{1}</color>，持续{2}秒。",
     "GroupId": 4009107,
     "BuffTag1": -719983267
   },
   "4009108": {
     "Id": 4009108,
-    "Name": "【buff效果】风系伤害提升<color=#ec6d21>{1}</color>，持续{2}秒。",
     "GroupId": 4009108,
     "BuffTag1": -719983267
   },
   "4009109": {
     "Id": 4009109,
-    "Name": "【buff效果】风系伤害提升<color=#ec6d21>{1}</color>，持续{2}秒。",
     "GroupId": 4009109,
     "BuffTag1": -719983267
   },
   "4009110": {
     "Id": 4009110,
-    "Name": "【buff效果】风系伤害提升<color=#ec6d21>{1}</color>，持续{2}秒。",
     "GroupId": 4009110,
     "BuffTag1": -719983267
   },
   "4010106": {
     "Id": 4010106,
-    "Name": "【buff效果】光系伤害提升<color=#ec6d21>{1}</color>，持续{2}秒。",
     "GroupId": 4010106,
     "BuffTag1": -719983267
   },
   "4010107": {
     "Id": 4010107,
-    "Name": "【buff效果】光系伤害提升<color=#ec6d21>{1}</color>，持续{2}秒。",
     "GroupId": 4010107,
     "BuffTag1": -719983267
   },
   "4010108": {
     "Id": 4010108,
-    "Name": "【buff效果】光系伤害提升<color=#ec6d21>{1}</color>，持续{2}秒。",
     "GroupId": 4010108,
     "BuffTag1": -719983267
   },
   "4010109": {
     "Id": 4010109,
-    "Name": "【buff效果】光系伤害提升<color=#ec6d21>{1}</color>，持续{2}秒。",
     "GroupId": 4010109,
     "BuffTag1": -719983267
   },
   "4010110": {
     "Id": 4010110,
-    "Name": "【buff效果】光系伤害提升<color=#ec6d21>{1}</color>，持续{2}秒。",
     "GroupId": 4010110,
     "BuffTag1": -719983267
   },
   "4010206": {
     "Id": 4010206,
-    "Name": "【buff效果】技能伤害提升<color=#ec6d21>{1}</color>，持续{2}秒。",
     "GroupId": 4010206,
     "BuffTag1": -719983267
   },
   "4010207": {
     "Id": 4010207,
-    "Name": "【buff效果】技能伤害提升<color=#ec6d21>{1}</color>，持续{2}秒。",
     "GroupId": 4010207,
     "BuffTag1": -719983267
   },
   "4010208": {
     "Id": 4010208,
-    "Name": "【buff效果】技能伤害提升<color=#ec6d21>{1}</color>，持续{2}秒。",
     "GroupId": 4010208,
     "BuffTag1": -719983267
   },
   "4010209": {
     "Id": 4010209,
-    "Name": "【buff效果】技能伤害提升<color=#ec6d21>{1}</color>，持续{2}秒。",
     "GroupId": 4010209,
     "BuffTag1": -719983267
   },
   "4010210": {
     "Id": 4010210,
-    "Name": "【buff效果】技能伤害提升<color=#ec6d21>{1}</color>，持续{2}秒。",
     "GroupId": 4010210,
     "BuffTag1": -719983267
   },
   "4011106": {
     "Id": 4011106,
-    "Name": "【buff效果】水系伤害提升<color=#ec6d21>{1}</color>，持续{2}秒。",
     "GroupId": 4011106,
     "BuffTag1": -719983267
   },
   "4011107": {
     "Id": 4011107,
-    "Name": "【buff效果】水系伤害提升<color=#ec6d21>{1}</color>，持续{2}秒。",
     "GroupId": 4011107,
     "BuffTag1": -719983267
   },
   "4011108": {
     "Id": 4011108,
-    "Name": "【buff效果】水系伤害提升<color=#ec6d21>{1}</color>，持续{2}秒。",
     "GroupId": 4011108,
     "BuffTag1": -719983267
   },
   "4011109": {
     "Id": 4011109,
-    "Name": "【buff效果】水系伤害提升<color=#ec6d21>{1}</color>，持续{2}秒。",
     "GroupId": 4011109,
     "BuffTag1": -719983267
   },
   "4011110": {
     "Id": 4011110,
-    "Name": "【buff效果】水系伤害提升<color=#ec6d21>{1}</color>，持续{2}秒。",
     "GroupId": 4011110,
     "BuffTag1": -719983267
   },
   "4012001": {
     "Id": 4012001,
-    "Name": "队伍中暗系角色攻击力提升<color=#ec6d21>{1}</color>。",
     "GroupId": 4012001,
     "BuffTag1": -719983267
   },
   "4012002": {
     "Id": 4012002,
-    "Name": "队伍中暗系角色攻击力提升<color=#ec6d21>{1}</color>。",
     "GroupId": 4012002,
     "BuffTag1": -719983267
   },
   "4012003": {
     "Id": 4012003,
-    "Name": "队伍中暗系角色攻击力提升<color=#ec6d21>{1}</color>。",
     "GroupId": 4012003,
     "BuffTag1": -719983267
   },
   "4012004": {
     "Id": 4012004,
-    "Name": "队伍中暗系角色攻击力提升<color=#ec6d21>{1}</color>。",
     "GroupId": 4012004,
     "BuffTag1": -719983267
   },
   "4012005": {
     "Id": 4012005,
-    "Name": "队伍中暗系角色攻击力提升<color=#ec6d21>{1}</color>。",
     "GroupId": 4012005,
     "BuffTag1": -719983267
   },
   "4012006": {
     "Id": 4012006,
-    "Name": "队伍中暗系角色攻击力提升<color=#ec6d21>{1}</color>。",
     "GroupId": 4012006,
     "BuffTag1": -719983267
   },
   "4012106": {
     "Id": 4012106,
-    "Name": "【buff效果】暗系伤害提升<color=#ec6d21>{1}</color>，持续{2}秒",
     "GroupId": 4012106,
     "BuffTag1": -719983267
   },
   "4012107": {
     "Id": 4012107,
-    "Name": "【buff效果】暗系伤害提升<color=#ec6d21>{1}</color>，持续{2}秒",
     "GroupId": 4012107,
     "BuffTag1": -719983267
   },
   "4012108": {
     "Id": 4012108,
-    "Name": "【buff效果】暗系伤害提升<color=#ec6d21>{1}</color>，持续{2}秒",
     "GroupId": 4012108,
     "BuffTag1": -719983267
   },
   "4012109": {
     "Id": 4012109,
-    "Name": "【buff效果】暗系伤害提升<color=#ec6d21>{1}</color>，持续{2}秒",
     "GroupId": 4012109,
     "BuffTag1": -719983267
   },
   "4012110": {
     "Id": 4012110,
-    "Name": "【buff效果】暗系伤害提升<color=#ec6d21>{1}</color>，持续{2}秒",
     "GroupId": 4012110,
     "BuffTag1": -719983267
   },
   "4012206": {
     "Id": 4012206,
-    "Name": "【buff效果】技能伤害提升<color=#ec6d21>{1}</color>，持续{2}秒。",
     "GroupId": 4012206,
     "BuffTag1": -719983267
   },
   "4012207": {
     "Id": 4012207,
-    "Name": "【buff效果】技能伤害提升<color=#ec6d21>{1}</color>，持续{2}秒。",
     "GroupId": 4012207,
     "BuffTag1": -719983267
   },
   "4012208": {
     "Id": 4012208,
-    "Name": "【buff效果】技能伤害提升<color=#ec6d21>{1}</color>，持续{2}秒。",
     "GroupId": 4012208,
     "BuffTag1": -719983267
   },
   "4012209": {
     "Id": 4012209,
-    "Name": "【buff效果】技能伤害提升<color=#ec6d21>{1}</color>，持续{2}秒。",
     "GroupId": 4012209,
     "BuffTag1": -719983267
   },
   "4012210": {
     "Id": 4012210,
-    "Name": "【buff效果】技能伤害提升<color=#ec6d21>{1}</color>，持续{2}秒。",
     "GroupId": 4012210,
     "BuffTag1": -719983267
   },
   "4012226": {
     "Id": 4012226,
-    "Name": "【buff效果】绝招伤害提升<color=#ec6d21>{1}</color>，持续{2}秒。",
     "GroupId": 4012226,
     "BuffTag1": -719983267
   },
   "4012227": {
     "Id": 4012227,
-    "Name": "【buff效果】绝招伤害提升<color=#ec6d21>{1}</color>，持续{2}秒。",
     "GroupId": 4012227,
     "BuffTag1": -719983267
   },
   "4012228": {
     "Id": 4012228,
-    "Name": "【buff效果】绝招伤害提升<color=#ec6d21>{1}</color>，持续{2}秒。",
     "GroupId": 4012228,
     "BuffTag1": -719983267
   },
   "4012229": {
     "Id": 4012229,
-    "Name": "【buff效果】绝招伤害提升<color=#ec6d21>{1}</color>，持续{2}秒。",
     "GroupId": 4012229,
     "BuffTag1": -719983267
   },
   "4012230": {
     "Id": 4012230,
-    "Name": "【buff效果】绝招伤害提升<color=#ec6d21>{1}</color>，持续{2}秒。",
     "GroupId": 4012230,
     "BuffTag1": -719983267
   },
   "4013106": {
     "Id": 4013106,
-    "Name": "【buff效果】火系伤害提升<color=#ec6d21>{1}</color>，持续{2}秒。",
     "GroupId": 4013106,
     "BuffTag1": -719983267
   },
   "4013107": {
     "Id": 4013107,
-    "Name": "【buff效果】火系伤害提升<color=#ec6d21>{1}</color>，持续{2}秒。",
     "GroupId": 4013107,
     "BuffTag1": -719983267
   },
   "4013108": {
     "Id": 4013108,
-    "Name": "【buff效果】火系伤害提升<color=#ec6d21>{1}</color>，持续{2}秒。",
     "GroupId": 4013108,
     "BuffTag1": -719983267
   },
   "4013109": {
     "Id": 4013109,
-    "Name": "【buff效果】火系伤害提升<color=#ec6d21>{1}</color>，持续{2}秒。",
     "GroupId": 4013109,
     "BuffTag1": -719983267
   },
   "4013110": {
     "Id": 4013110,
-    "Name": "【buff效果】火系伤害提升<color=#ec6d21>{1}</color>，持续{2}秒。",
     "GroupId": 4013110,
     "BuffTag1": -719983267
   },
   "4014106": {
     "Id": 4014106,
-    "Name": "【buff效果】地系伤害提升<color=#ec6d21>{1}</color>，持续{2}秒。",
     "GroupId": 4014106,
     "BuffTag1": -719983267
   },
   "4014107": {
     "Id": 4014107,
-    "Name": "【buff效果】地系伤害提升<color=#ec6d21>{1}</color>，持续{2}秒。",
     "GroupId": 4014107,
     "BuffTag1": -719983267
   },
   "4014108": {
     "Id": 4014108,
-    "Name": "【buff效果】地系伤害提升<color=#ec6d21>{1}</color>，持续{2}秒。",
     "GroupId": 4014108,
     "BuffTag1": -719983267
   },
   "4014109": {
     "Id": 4014109,
-    "Name": "【buff效果】地系伤害提升<color=#ec6d21>{1}</color>，持续{2}秒。",
     "GroupId": 4014109,
     "BuffTag1": -719983267
   },
   "4014110": {
     "Id": 4014110,
-    "Name": "【buff效果】地系伤害提升<color=#ec6d21>{1}</color>，持续{2}秒。",
     "GroupId": 4014110,
     "BuffTag1": -719983267
   },
   "4014206": {
     "Id": 4014206,
-    "Name": "【buff效果】技能伤害提升<color=#ec6d21>{1}</color>，持续{2}秒。",
     "GroupId": 4014206,
     "BuffTag1": -719983267
   },
   "4014207": {
     "Id": 4014207,
-    "Name": "【buff效果】技能伤害提升<color=#ec6d21>{1}</color>，持续{2}秒。",
     "GroupId": 4014207,
     "BuffTag1": -719983267
   },
   "4014208": {
     "Id": 4014208,
-    "Name": "【buff效果】技能伤害提升<color=#ec6d21>{1}</color>，持续{2}秒。",
     "GroupId": 4014208,
     "BuffTag1": -719983267
   },
   "4014209": {
     "Id": 4014209,
-    "Name": "【buff效果】技能伤害提升<color=#ec6d21>{1}</color>，持续{2}秒。",
     "GroupId": 4014209,
     "BuffTag1": -719983267
   },
   "4014210": {
     "Id": 4014210,
-    "Name": "【buff效果】技能伤害提升<color=#ec6d21>{1}</color>，持续{2}秒。",
     "GroupId": 4014210,
     "BuffTag1": -719983267
   },
   "4018001": {
     "Id": 4018001,
-    "Name": "全队风系伤害提升<color=#ec6d21>{1}</color>。",
     "GroupId": 4018001,
     "BuffTag1": -719983267
   },
   "4018002": {
     "Id": 4018002,
-    "Name": "全队风系伤害提升<color=#ec6d21>{1}</color>。",
     "GroupId": 4018002,
     "BuffTag1": -719983267
   },
   "4018003": {
     "Id": 4018003,
-    "Name": "全队风系伤害提升<color=#ec6d21>{1}</color>。",
     "GroupId": 4018003,
     "BuffTag1": -719983267
   },
   "4018004": {
     "Id": 4018004,
-    "Name": "全队风系伤害提升<color=#ec6d21>{1}</color>。",
     "GroupId": 4018004,
     "BuffTag1": -719983267
   },
   "4018005": {
     "Id": 4018005,
-    "Name": "全队风系伤害提升<color=#ec6d21>{1}</color>。",
     "GroupId": 4018005,
     "BuffTag1": -719983267
   },
   "4018006": {
     "Id": 4018006,
-    "Name": "全队风系伤害提升<color=#ec6d21>{1}</color>。",
     "GroupId": 4018006,
     "BuffTag1": -719983267
   },
   "4018020": {
     "Id": 4018020,
-    "Name": "\\u000b每拥有1张命运卡片，额外提升{2}，可叠加{3}层。",
     "GroupId": 4018020,
     "BuffTag1": -719983267
   },
   "4018206": {
     "Id": 4018206,
-    "Name": "【buff效果】攻击力提升{1}，持续{2}秒，可叠加{3}层。",
     "GroupId": 4018206,
     "BuffTag1": -719983267
   },
   "4018207": {
     "Id": 4018207,
-    "Name": "【buff效果】攻击力提升{1}，持续{2}秒，可叠加{3}层。",
     "GroupId": 4018207,
     "BuffTag1": -719983267
   },
   "4018208": {
     "Id": 4018208,
-    "Name": "【buff效果】攻击力提升{1}，持续{2}秒，可叠加{3}层。",
     "GroupId": 4018208,
     "BuffTag1": -719983267
   },
   "4018209": {
     "Id": 4018209,
-    "Name": "【buff效果】攻击力提升{1}，持续{2}秒，可叠加{3}层。",
     "GroupId": 4018209,
     "BuffTag1": -719983267
   },
   "4018210": {
     "Id": 4018210,
-    "Name": "【buff效果】攻击力提升{1}，持续{2}秒，可叠加{3}层。",
     "GroupId": 4018210,
     "BuffTag1": -719983267
   },
   "4019001": {
     "Id": 4019001,
-    "Name": "全队火系伤害提升<color=#ec6d21>{1}</color>。",
     "GroupId": 4019001,
     "BuffTag1": -719983267
   },
   "4019002": {
     "Id": 4019002,
-    "Name": "全队火系伤害提升<color=#ec6d21>{1}</color>。",
     "GroupId": 4019002,
     "BuffTag1": -719983267
   },
   "4019003": {
     "Id": 4019003,
-    "Name": "全队火系伤害提升<color=#ec6d21>{1}</color>。",
     "GroupId": 4019003,
     "BuffTag1": -719983267
   },
   "4019004": {
     "Id": 4019004,
-    "Name": "全队火系伤害提升<color=#ec6d21>{1}</color>。",
     "GroupId": 4019004,
     "BuffTag1": -719983267
   },
   "4019005": {
     "Id": 4019005,
-    "Name": "全队火系伤害提升<color=#ec6d21>{1}</color>。",
     "GroupId": 4019005,
     "BuffTag1": -719983267
   },
   "4019006": {
     "Id": 4019006,
-    "Name": "全队火系伤害提升<color=#ec6d21>{1}</color>。",
     "GroupId": 4019006,
     "BuffTag1": -719983267
   },
   "4019020": {
     "Id": 4019020,
-    "Name": "\\u000b每拥有1张命运卡片，该效果额外提升{2}，可叠加{3}层。",
     "GroupId": 4019020,
     "BuffTag1": -719983267
   },
   "4019201": {
     "Id": 4019201,
-    "Name": "队伍中火系角色攻击力提升<color=#ec6d21>{1}</color>。",
     "GroupId": 4019201,
     "BuffTag1": -719983267
   },
   "4019202": {
     "Id": 4019202,
-    "Name": "队伍中火系角色攻击力提升<color=#ec6d21>{1}</color>。",
     "GroupId": 4019202,
     "BuffTag1": -719983267
   },
   "4019203": {
     "Id": 4019203,
-    "Name": "队伍中火系角色攻击力提升<color=#ec6d21>{1}</color>。",
     "GroupId": 4019203,
     "BuffTag1": -719983267
   },
   "4019204": {
     "Id": 4019204,
-    "Name": "队伍中火系角色攻击力提升<color=#ec6d21>{1}</color>。",
     "GroupId": 4019204,
     "BuffTag1": -719983267
   },
   "4019205": {
     "Id": 4019205,
-    "Name": "队伍中火系角色攻击力提升<color=#ec6d21>{1}</color>。",
     "GroupId": 4019205,
     "BuffTag1": -719983267
   },
   "4019221": {
     "Id": 4019221,
-    "Name": "指定间隔触发",
     "GroupId": 4019221,
     "BuffTag1": -719983267
   },
   "4019222": {
     "Id": 4019222,
-    "Name": "buff效果:额外增加攻击力",
     "GroupId": 4019222,
     "BuffTag1": -719983267
   },
   "4020001": {
     "Id": 4020001,
-    "Name": "全队光系伤害提升<color=#ec6d21>{1}</color>。",
     "GroupId": 4020001,
     "BuffTag1": -719983267
   },
   "4020002": {
     "Id": 4020002,
-    "Name": "全队光系伤害提升<color=#ec6d21>{1}</color>。",
     "GroupId": 4020002,
     "BuffTag1": -719983267
   },
   "4020003": {
     "Id": 4020003,
-    "Name": "全队光系伤害提升<color=#ec6d21>{1}</color>。",
     "GroupId": 4020003,
     "BuffTag1": -719983267
   },
   "4020004": {
     "Id": 4020004,
-    "Name": "全队光系伤害提升<color=#ec6d21>{1}</color>。",
     "GroupId": 4020004,
     "BuffTag1": -719983267
   },
   "4020005": {
     "Id": 4020005,
-    "Name": "全队光系伤害提升<color=#ec6d21>{1}</color>。",
     "GroupId": 4020005,
     "BuffTag1": -719983267
   },
   "4020006": {
     "Id": 4020006,
-    "Name": "全队光系伤害提升<color=#ec6d21>{1}</color>。",
     "GroupId": 4020006,
     "BuffTag1": -719983267
   },
   "4020020": {
     "Id": 4020020,
-    "Name": "\\u000b每拥有1张命运卡片，该效果额外提升{2}，可叠加{3}层。",
     "GroupId": 4020020,
     "BuffTag1": -719983267
   },
   "4020241": {
     "Id": 4020241,
-    "Name": "【buff效果】普攻伤害额外提升{2}，可叠加{3}层。",
     "GroupId": 4020241,
     "BuffTag1": -719983267
   },
   "4020261": {
     "Id": 4020261,
-    "Name": "【buff效果】技能伤害额外提升{2}，可叠加{3}层。",
     "GroupId": 4020261,
     "BuffTag1": -719983267
   },
   "4021001": {
     "Id": 4021001,
-    "Name": "全队水系伤害提升<color=#ec6d21>{1}</color>。",
     "GroupId": 4021001,
     "BuffTag1": -719983267
   },
   "4021002": {
     "Id": 4021002,
-    "Name": "全队水系伤害提升<color=#ec6d21>{1}</color>。",
     "GroupId": 4021002,
     "BuffTag1": -719983267
   },
   "4021003": {
     "Id": 4021003,
-    "Name": "全队水系伤害提升<color=#ec6d21>{1}</color>。",
     "GroupId": 4021003,
     "BuffTag1": -719983267
   },
   "4021004": {
     "Id": 4021004,
-    "Name": "全队水系伤害提升<color=#ec6d21>{1}</color>。",
     "GroupId": 4021004,
     "BuffTag1": -719983267
   },
   "4021005": {
     "Id": 4021005,
-    "Name": "全队水系伤害提升<color=#ec6d21>{1}</color>。",
     "GroupId": 4021005,
     "BuffTag1": -719983267
   },
   "4021006": {
     "Id": 4021006,
-    "Name": "全队水系伤害提升<color=#ec6d21>{1}</color>。",
     "GroupId": 4021006,
     "BuffTag1": -719983267
   },
   "4021020": {
     "Id": 4021020,
-    "Name": "\\u000b每拥有1张命运卡片，该效果额外提升{2}，可叠加{3}层。",
     "GroupId": 4021020,
     "BuffTag1": -719983267
   },
   "4021240": {
     "Id": 4021240,
-    "Name": "\\u000b每消灭{2}个目标,额外提升普攻和技能伤害{3}，可叠{4}层。",
     "GroupId": 4021240,
     "BuffTag1": -719983267
   },
   "4022001": {
     "Id": 4022001,
-    "Name": "全队暗系伤害提升<color=#ec6d21>{1}</color>。",
     "GroupId": 4022001,
     "BuffTag1": -719983267
   },
   "4022002": {
     "Id": 4022002,
-    "Name": "全队暗系伤害提升<color=#ec6d21>{1}</color>。",
     "GroupId": 4022002,
     "BuffTag1": -719983267
   },
   "4022003": {
     "Id": 4022003,
-    "Name": "全队暗系伤害提升<color=#ec6d21>{1}</color>。",
     "GroupId": 4022003,
     "BuffTag1": -719983267
   },
   "4022004": {
     "Id": 4022004,
-    "Name": "全队暗系伤害提升<color=#ec6d21>{1}</color>。",
     "GroupId": 4022004,
     "BuffTag1": -719983267
   },
   "4022005": {
     "Id": 4022005,
-    "Name": "全队暗系伤害提升<color=#ec6d21>{1}</color>。",
     "GroupId": 4022005,
     "BuffTag1": -719983267
   },
   "4022006": {
     "Id": 4022006,
-    "Name": "全队暗系伤害提升<color=#ec6d21>{1}</color>。",
     "GroupId": 4022006,
     "BuffTag1": -719983267
   },
   "4022020": {
     "Id": 4022020,
-    "Name": "\\u000b每拥有1张命运卡片，该效果额外提升{2}，可叠加{3}层。",
     "GroupId": 4022020,
     "BuffTag1": -719983267
   },
   "4023001": {
     "Id": 4023001,
-    "Name": "全队地系伤害提升<color=#ec6d21>{1}</color>。",
     "GroupId": 4023001,
     "BuffTag1": -719983267
   },
@@ -11102,989 +11021,825 @@
   },
   "4023020": {
     "Id": 4023020,
-    "Name": "\\u000b每拥有1张命运卡片，额外提升{2}，可叠加{3}层。",
     "GroupId": 4023020,
     "BuffTag1": -719983267
   },
   "4023240": {
     "Id": 4023240,
-    "Name": "\\u000b每消灭{2}个目标,额外提升{3}，可叠{4}层。",
     "GroupId": 4023240,
     "BuffTag1": -719983267
   },
   "4023245": {
     "Id": 4023245,
-    "Name": "计数空buff",
     "GroupId": 4023245,
     "BuffTag1": -719983267
   },
   "4023201": {
     "Id": 4023201,
-    "Name": "地系角色大招和技能伤害提升",
     "GroupId": 4023201,
     "BuffTag1": -719983267
   },
   "4023202": {
     "Id": 4023202,
-    "Name": "地系角色大招和技能伤害提升",
     "GroupId": 4023202,
     "BuffTag1": -719983267
   },
   "4023203": {
     "Id": 4023203,
-    "Name": "地系角色大招和技能伤害提升",
     "GroupId": 4023203,
     "BuffTag1": -719983267
   },
   "4023204": {
     "Id": 4023204,
-    "Name": "地系角色大招和技能伤害提升",
     "GroupId": 4023204,
     "BuffTag1": -719983267
   },
   "4023205": {
     "Id": 4023205,
-    "Name": "地系角色大招和技能伤害提升",
     "GroupId": 4023205,
     "BuffTag1": -719983267
   },
   "4026027": {
     "Id": 4026027,
-    "Name": "【buff效果】水系伤害提升<color=#ec6d21>{2}</color>，持续{3}秒。",
     "GroupId": 4026027,
     "BuffTag1": -719983267
   },
   "4026028": {
     "Id": 4026028,
-    "Name": "【buff效果】水系伤害提升<color=#ec6d21>{2}</color>，持续{3}秒。",
     "GroupId": 4026028,
     "BuffTag1": -719983267
   },
   "4026029": {
     "Id": 4026029,
-    "Name": "【buff效果】水系伤害提升<color=#ec6d21>{2}</color>，持续{3}秒。",
     "GroupId": 4026029,
     "BuffTag1": -719983267
   },
   "4026030": {
     "Id": 4026030,
-    "Name": "【buff效果】水系伤害提升<color=#ec6d21>{2}</color>，持续{3}秒。",
     "GroupId": 4026030,
     "BuffTag1": -719983267
   },
   "4026031": {
     "Id": 4026031,
-    "Name": "【buff效果】水系伤害提升<color=#ec6d21>{2}</color>，持续{3}秒。",
     "GroupId": 4026031,
     "BuffTag1": -719983267
   },
   "4026032": {
     "Id": 4026032,
-    "Name": "【buff效果】水系伤害提升<color=#ec6d21>{2}</color>，持续{3}秒。",
     "GroupId": 4026032,
     "BuffTag1": -719983267
   },
   "4026101": {
     "Id": 4026101,
-    "Name": "【脚本buff】水系主控角色累计造成{1}次伤害后，队伍中水系角色攻击力提升<color=#ec6d21>{2}</color>，持续{3}秒，该效果每{4}秒最多触发1次。",
     "GroupId": 4026101,
     "BuffTag1": -719983267
   },
   "4026102": {
     "Id": 4026102,
-    "Name": "【脚本buff】水系主控角色累计造成{1}次伤害后，队伍中水系角色攻击力提升<color=#ec6d21>{2}</color>，持续{3}秒，该效果每{4}秒最多触发1次。",
     "GroupId": 4026102,
     "BuffTag1": -719983267
   },
   "4026103": {
     "Id": 4026103,
-    "Name": "【脚本buff】水系主控角色累计造成{1}次伤害后，队伍中水系角色攻击力提升<color=#ec6d21>{2}</color>，持续{3}秒，该效果每{4}秒最多触发1次。",
     "GroupId": 4026103,
     "BuffTag1": -719983267
   },
   "4026104": {
     "Id": 4026104,
-    "Name": "【脚本buff】水系主控角色累计造成{1}次伤害后，队伍中水系角色攻击力提升<color=#ec6d21>{2}</color>，持续{3}秒，该效果每{4}秒最多触发1次。",
     "GroupId": 4026104,
     "BuffTag1": -719983267
   },
   "4026105": {
     "Id": 4026105,
-    "Name": "【脚本buff】水系主控角色累计造成{1}次伤害后，队伍中水系角色攻击力提升<color=#ec6d21>{2}</color>，持续{3}秒，该效果每{4}秒最多触发1次。",
     "GroupId": 4026105,
     "BuffTag1": -719983267
   },
   "4027027": {
     "Id": 4027027,
-    "Name": "【buff效果】技能伤害提升<color=#ec6d21>{2}</color>，持续{3}秒。",
     "GroupId": 4027027,
     "BuffTag1": -719983267
   },
   "4027028": {
     "Id": 4027028,
-    "Name": "【buff效果】技能伤害提升<color=#ec6d21>{2}</color>，持续{3}秒。",
     "GroupId": 4027028,
     "BuffTag1": -719983267
   },
   "4027029": {
     "Id": 4027029,
-    "Name": "【buff效果】技能伤害提升<color=#ec6d21>{2}</color>，持续{3}秒。",
     "GroupId": 4027029,
     "BuffTag1": -719983267
   },
   "4027030": {
     "Id": 4027030,
-    "Name": "【buff效果】技能伤害提升<color=#ec6d21>{2}</color>，持续{3}秒。",
     "GroupId": 4027030,
     "BuffTag1": -719983267
   },
   "4027031": {
     "Id": 4027031,
-    "Name": "【buff效果】技能伤害提升<color=#ec6d21>{2}</color>，持续{3}秒。",
     "GroupId": 4027031,
     "BuffTag1": -719983267
   },
   "4027032": {
     "Id": 4027032,
-    "Name": "【buff效果】技能伤害提升<color=#ec6d21>{2}</color>，持续{3}秒。",
     "GroupId": 4027032,
     "BuffTag1": -719983267
   },
   "4027206": {
     "Id": 4027206,
-    "Name": "【buff效果】攻击力提升<color=#ec6d21>{1}</color>，持续{2}秒。",
     "GroupId": 4027206,
     "BuffTag1": -719983267
   },
   "4027207": {
     "Id": 4027207,
-    "Name": "【buff效果】攻击力提升<color=#ec6d21>{1}</color>，持续{2}秒。",
     "GroupId": 4027207,
     "BuffTag1": -719983267
   },
   "4027208": {
     "Id": 4027208,
-    "Name": "【buff效果】攻击力提升<color=#ec6d21>{1}</color>，持续{2}秒。",
     "GroupId": 4027208,
     "BuffTag1": -719983267
   },
   "4027209": {
     "Id": 4027209,
-    "Name": "【buff效果】攻击力提升<color=#ec6d21>{1}</color>，持续{2}秒。",
     "GroupId": 4027209,
     "BuffTag1": -719983267
   },
   "4027210": {
     "Id": 4027210,
-    "Name": "【buff效果】攻击力提升<color=#ec6d21>{1}</color>，持续{2}秒。",
     "GroupId": 4027210,
     "BuffTag1": -719983267
   },
   "4027226": {
     "Id": 4027226,
-    "Name": "【buff效果】攻击力提升<color=#ec6d21>{1}</color>，持续{2}秒。",
     "GroupId": 4027226,
     "BuffTag1": -719983267
   },
   "4027227": {
     "Id": 4027227,
-    "Name": "【buff效果】攻击力提升<color=#ec6d21>{1}</color>，持续{2}秒。",
     "GroupId": 4027227,
     "BuffTag1": -719983267
   },
   "4027228": {
     "Id": 4027228,
-    "Name": "【buff效果】攻击力提升<color=#ec6d21>{1}</color>，持续{2}秒。",
     "GroupId": 4027228,
     "BuffTag1": -719983267
   },
   "4027229": {
     "Id": 4027229,
-    "Name": "【buff效果】攻击力提升<color=#ec6d21>{1}</color>，持续{2}秒。",
     "GroupId": 4027229,
     "BuffTag1": -719983267
   },
   "4027230": {
     "Id": 4027230,
-    "Name": "【buff效果】攻击力提升<color=#ec6d21>{1}</color>，持续{2}秒。",
     "GroupId": 4027230,
     "BuffTag1": -719983267
   },
   "4028047": {
     "Id": 4028047,
-    "Name": "【buff效果】风系伤害提升<color=#ec6d21>{2}</color>，持续{3}秒。",
     "GroupId": 4028047,
     "BuffTag1": -719983267
   },
   "4028048": {
     "Id": 4028048,
-    "Name": "【buff效果】风系伤害提升<color=#ec6d21>{2}</color>，持续{3}秒。",
     "GroupId": 4028048,
     "BuffTag1": -719983267
   },
   "4028049": {
     "Id": 4028049,
-    "Name": "【buff效果】风系伤害提升<color=#ec6d21>{2}</color>，持续{3}秒。",
     "GroupId": 4028049,
     "BuffTag1": -719983267
   },
   "4028050": {
     "Id": 4028050,
-    "Name": "【buff效果】风系伤害提升<color=#ec6d21>{2}</color>，持续{3}秒。",
     "GroupId": 4028050,
     "BuffTag1": -719983267
   },
   "4028051": {
     "Id": 4028051,
-    "Name": "【buff效果】风系伤害提升<color=#ec6d21>{2}</color>，持续{3}秒。",
     "GroupId": 4028051,
     "BuffTag1": -719983267
   },
   "4028052": {
     "Id": 4028052,
-    "Name": "【buff效果】风系伤害提升<color=#ec6d21>{2}</color>，持续{3}秒。",
     "GroupId": 4028052,
     "BuffTag1": -719983267
   },
   "4028126": {
     "Id": 4028126,
-    "Name": "【buff效果】风系伤害提升<color=#ec6d21>{2}</color>，持续{3}秒。",
     "GroupId": 4028126,
     "BuffTag1": -719983267
   },
   "4028127": {
     "Id": 4028127,
-    "Name": "【buff效果】风系伤害提升<color=#ec6d21>{2}</color>，持续{3}秒。",
     "GroupId": 4028127,
     "BuffTag1": -719983267
   },
   "4028128": {
     "Id": 4028128,
-    "Name": "【buff效果】风系伤害提升<color=#ec6d21>{2}</color>，持续{3}秒。",
     "GroupId": 4028128,
     "BuffTag1": -719983267
   },
   "4028129": {
     "Id": 4028129,
-    "Name": "【buff效果】风系伤害提升<color=#ec6d21>{2}</color>，持续{3}秒。",
     "GroupId": 4028129,
     "BuffTag1": -719983267
   },
   "4028130": {
     "Id": 4028130,
-    "Name": "【buff效果】风系伤害提升<color=#ec6d21>{2}</color>，持续{3}秒。",
     "GroupId": 4028130,
     "BuffTag1": -719983267
   },
   "4028201": {
     "Id": 4028201,
-    "Name": "风系主控角色对同一目标造成{1}次伤害后，目标受到风系伤害提升{2}，持续{3}秒，同一目标每{4}秒最多触发1次。",
     "GroupId": 4028201,
     "BuffTag1": -719983267
   },
   "4028202": {
     "Id": 4028202,
-    "Name": "风系主控角色对同一目标造成{1}次伤害后，目标受到风系伤害提升{2}，持续{3}秒，同一目标每{4}秒最多触发1次。",
     "GroupId": 4028202,
     "BuffTag1": -719983267
   },
   "4028203": {
     "Id": 4028203,
-    "Name": "风系主控角色对同一目标造成{1}次伤害后，目标受到风系伤害提升{2}，持续{3}秒，同一目标每{4}秒最多触发1次。",
     "GroupId": 4028203,
     "BuffTag1": -719983267
   },
   "4028204": {
     "Id": 4028204,
-    "Name": "风系主控角色对同一目标造成{1}次伤害后，目标受到风系伤害提升{2}，持续{3}秒，同一目标每{4}秒最多触发1次。",
     "GroupId": 4028204,
     "BuffTag1": -719983267
   },
   "4028205": {
     "Id": 4028205,
-    "Name": "风系主控角色对同一目标造成{1}次伤害后，目标受到风系伤害提升{2}，持续{3}秒，同一目标每{4}秒最多触发1次。",
     "GroupId": 4028205,
     "BuffTag1": -719983267
   },
   "4030021": {
     "Id": 4030021,
-    "Name": "【buff效果】{2}概率附加「静电」：受到光系伤害提升{3}，持续{4}秒。",
     "GroupId": 4030021,
     "BuffTag1": -2138561627,
     "BindEffect": "FX/Astrolabe/Buff/fx_astrolabe_buff_light_1"
   },
   "4030206": {
     "Id": 4030206,
-    "Name": "【buff效果】光系伤害提升<color=#ec6d21>{1}</color>，持续{2}秒，最多叠加{3}层。",
     "GroupId": 4030206,
     "BuffTag1": -719983267
   },
   "4030207": {
     "Id": 4030207,
-    "Name": "【buff效果】光系伤害提升<color=#ec6d21>{1}</color>，持续{2}秒，最多叠加{3}层。",
     "GroupId": 4030207,
     "BuffTag1": -719983267
   },
   "4030208": {
     "Id": 4030208,
-    "Name": "【buff效果】光系伤害提升<color=#ec6d21>{1}</color>，持续{2}秒，最多叠加{3}层。",
     "GroupId": 4030208,
     "BuffTag1": -719983267
   },
   "4030209": {
     "Id": 4030209,
-    "Name": "【buff效果】光系伤害提升<color=#ec6d21>{1}</color>，持续{2}秒，最多叠加{3}层。",
     "GroupId": 4030209,
     "BuffTag1": -719983267
   },
   "4030210": {
     "Id": 4030210,
-    "Name": "【buff效果】光系伤害提升<color=#ec6d21>{1}</color>，持续{2}秒，最多叠加{3}层。",
     "GroupId": 4030210,
     "BuffTag1": -719983267
   },
   "4031021": {
     "Id": 4031021,
-    "Name": "【buff效果】水系角色技能伤害提升{2}，持续{3}秒",
     "GroupId": 4031021,
     "BuffTag1": -719983267
   },
   "4031041": {
     "Id": 4031041,
-    "Name": "【buff效果】获得「碧佑」：受到伤害降低{4}，持续{5}秒。",
     "GroupId": 4031041,
     "BuffTag1": -719983267,
     "BindEffect": "FX/Astrolabe/Buff/fx_astrolabe_buff_water_1"
   },
   "4031106": {
     "Id": 4031106,
-    "Name": "【buff效果】对精英及以上目标造成水系伤害提升<color=#ec6d21>{1}</color>。（持续时间与碧佑一致）",
     "GroupId": 4031106,
     "BuffTag1": -719983267
   },
   "4031107": {
     "Id": 4031107,
-    "Name": "【buff效果】对精英及以上目标造成水系伤害提升<color=#ec6d21>{1}</color>。（持续时间与碧佑一致）",
     "GroupId": 4031107,
     "BuffTag1": -719983267
   },
   "4031108": {
     "Id": 4031108,
-    "Name": "【buff效果】对精英及以上目标造成水系伤害提升<color=#ec6d21>{1}</color>。（持续时间与碧佑一致）",
     "GroupId": 4031108,
     "BuffTag1": -719983267
   },
   "4031109": {
     "Id": 4031109,
-    "Name": "【buff效果】对精英及以上目标造成水系伤害提升<color=#ec6d21>{1}</color>。（持续时间与碧佑一致）",
     "GroupId": 4031109,
     "BuffTag1": -719983267
   },
   "4031110": {
     "Id": 4031110,
-    "Name": "【buff效果】对精英及以上目标造成水系伤害提升<color=#ec6d21>{1}</color>。（持续时间与碧佑一致）",
     "GroupId": 4031110,
     "BuffTag1": -719983267
   },
   "4031206": {
     "Id": 4031206,
-    "Name": "【buff效果】提升<color=#ec6d21>{1}</color>攻击力，持续{2}秒，可叠加{3}层。",
     "GroupId": 4031206,
     "BuffTag1": -719983267
   },
   "4031207": {
     "Id": 4031207,
-    "Name": "【buff效果】提升<color=#ec6d21>{1}</color>攻击力，持续{2}秒，可叠加{3}层。",
     "GroupId": 4031207,
     "BuffTag1": -719983267
   },
   "4031208": {
     "Id": 4031208,
-    "Name": "【buff效果】提升<color=#ec6d21>{1}</color>攻击力，持续{2}秒，可叠加{3}层。",
     "GroupId": 4031208,
     "BuffTag1": -719983267
   },
   "4031209": {
     "Id": 4031209,
-    "Name": "【buff效果】提升<color=#ec6d21>{1}</color>攻击力，持续{2}秒，可叠加{3}层。",
     "GroupId": 4031209,
     "BuffTag1": -719983267
   },
   "4031210": {
     "Id": 4031210,
-    "Name": "【buff效果】提升<color=#ec6d21>{1}</color>攻击力，持续{2}秒，可叠加{3}层。",
     "GroupId": 4031210,
     "BuffTag1": -719983267
   },
   "4032021": {
     "Id": 4032021,
-    "Name": "【buff效果】{2}概率附加「腐蚀」：受到暗系伤害提升{3}，持续{4}秒。",
     "GroupId": 4032021,
     "BuffTag1": -2138561627,
     "BindEffect": "FX/Buff/fx_common_buff_astrolabe_dark_1"
   },
   "4032101": {
     "Id": 4032101,
-    "Name": "【脚本buff】对目标附加「腐蚀」时，队伍中暗系角色攻击力提升<color=#ec6d21>{1}</color>，持续{2}秒。",
     "GroupId": 4032101,
     "BuffTag1": -719983267
   },
   "4032102": {
     "Id": 4032102,
-    "Name": "【脚本buff】对目标附加「腐蚀」时，队伍中暗系角色攻击力提升<color=#ec6d21>{1}</color>，持续{2}秒。",
     "GroupId": 4032102,
     "BuffTag1": -719983267
   },
   "4032103": {
     "Id": 4032103,
-    "Name": "【脚本buff】对目标附加「腐蚀」时，队伍中暗系角色攻击力提升<color=#ec6d21>{1}</color>，持续{2}秒。",
     "GroupId": 4032103,
     "BuffTag1": -719983267
   },
   "4032104": {
     "Id": 4032104,
-    "Name": "【脚本buff】对目标附加「腐蚀」时，队伍中暗系角色攻击力提升<color=#ec6d21>{1}</color>，持续{2}秒。",
     "GroupId": 4032104,
     "BuffTag1": -719983267
   },
   "4032105": {
     "Id": 4032105,
-    "Name": "【脚本buff】对目标附加「腐蚀」时，队伍中暗系角色攻击力提升<color=#ec6d21>{1}</color>，持续{2}秒。",
     "GroupId": 4032105,
     "BuffTag1": -719983267
   },
   "4032206": {
     "Id": 4032206,
-    "Name": "【buff效果】暗系伤害提升<color=#ec6d21>{1}</color>，持续{2}秒，最多叠加{3}层。",
     "GroupId": 4032206,
     "BuffTag1": -719983267
   },
   "4032207": {
     "Id": 4032207,
-    "Name": "【buff效果】暗系伤害提升<color=#ec6d21>{1}</color>，持续{2}秒，最多叠加{3}层。",
     "GroupId": 4032207,
     "BuffTag1": -719983267
   },
   "4032208": {
     "Id": 4032208,
-    "Name": "【buff效果】暗系伤害提升<color=#ec6d21>{1}</color>，持续{2}秒，最多叠加{3}层。",
     "GroupId": 4032208,
     "BuffTag1": -719983267
   },
   "4032209": {
     "Id": 4032209,
-    "Name": "【buff效果】暗系伤害提升<color=#ec6d21>{1}</color>，持续{2}秒，最多叠加{3}层。",
     "GroupId": 4032209,
     "BuffTag1": -719983267
   },
   "4032210": {
     "Id": 4032210,
-    "Name": "【buff效果】暗系伤害提升<color=#ec6d21>{1}</color>，持续{2}秒，最多叠加{3}层。",
     "GroupId": 4032210,
     "BuffTag1": -719983267
   },
   "4033001": {
     "Id": 4033001,
-    "Name": "己方地系伤害提升<color=#ec6d21>{1}</color>。",
     "GroupId": 4033001,
     "BuffTag1": -719983267
   },
   "4033002": {
     "Id": 4033002,
-    "Name": "己方地系伤害提升<color=#ec6d21>{1}</color>。",
     "GroupId": 4033002,
     "BuffTag1": -719983267
   },
   "4033003": {
     "Id": 4033003,
-    "Name": "己方地系伤害提升<color=#ec6d21>{1}</color>。",
     "GroupId": 4033003,
     "BuffTag1": -719983267
   },
   "4033004": {
     "Id": 4033004,
-    "Name": "己方地系伤害提升<color=#ec6d21>{1}</color>。",
     "GroupId": 4033004,
     "BuffTag1": -719983267
   },
   "4033005": {
     "Id": 4033005,
-    "Name": "己方地系伤害提升<color=#ec6d21>{1}</color>。",
     "GroupId": 4033005,
     "BuffTag1": -719983267
   },
   "4033006": {
     "Id": 4033006,
-    "Name": "己方地系伤害提升<color=#ec6d21>{1}</color>。",
     "GroupId": 4033006,
     "BuffTag1": -719983267
   },
   "4033021": {
     "Id": 4033021,
-    "Name": "【脚本buff】\\u000b任意地系角色造成技能伤害时，如果地系主控角色生命高于{2}，本次伤害提升{3}，",
     "GroupId": 4033021,
     "BuffTag1": -719983267
   },
   "4033041": {
     "Id": 4033041,
-    "Name": "【脚本buff】获得「磐石」：受到伤害降低{3}。",
     "GroupId": 4033041,
     "BuffTag1": -719983267,
     "BindEffect": "FX/Astrolabe/Buff/fx_astrolabe_buff_earth_1"
   },
   "4033106": {
     "Id": 4033106,
-    "Name": "【buff效果】攻击力提升<color=#ec6d21>{1}</color>。持续时间与「磐石」一致。",
     "GroupId": 4033106,
     "BuffTag1": -719983267
   },
   "4033107": {
     "Id": 4033107,
-    "Name": "【buff效果】攻击力提升<color=#ec6d21>{1}</color>。持续时间与「磐石」一致。",
     "GroupId": 4033107,
     "BuffTag1": -719983267
   },
   "4033108": {
     "Id": 4033108,
-    "Name": "【buff效果】攻击力提升<color=#ec6d21>{1}</color>。持续时间与「磐石」一致。",
     "GroupId": 4033108,
     "BuffTag1": -719983267
   },
   "4033109": {
     "Id": 4033109,
-    "Name": "【buff效果】攻击力提升<color=#ec6d21>{1}</color>。持续时间与「磐石」一致。",
     "GroupId": 4033109,
     "BuffTag1": -719983267
   },
   "4033110": {
     "Id": 4033110,
-    "Name": "【buff效果】攻击力提升<color=#ec6d21>{1}</color>。持续时间与「磐石」一致。",
     "GroupId": 4033110,
     "BuffTag1": -719983267
   },
   "4033206": {
     "Id": 4033206,
-    "Name": "【buff效果】提升<color=#ec6d21>{1}</color>技能伤害，持续{2}秒，可叠加{3}层。",
     "GroupId": 4033206,
     "BuffTag1": -719983267
   },
   "4033207": {
     "Id": 4033207,
-    "Name": "【buff效果】提升<color=#ec6d21>{1}</color>技能伤害，持续{2}秒，可叠加{3}层。",
     "GroupId": 4033207,
     "BuffTag1": -719983267
   },
   "4033208": {
     "Id": 4033208,
-    "Name": "【buff效果】提升<color=#ec6d21>{1}</color>技能伤害，持续{2}秒，可叠加{3}层。",
     "GroupId": 4033208,
     "BuffTag1": -719983267
   },
   "4033209": {
     "Id": 4033209,
-    "Name": "【buff效果】提升<color=#ec6d21>{1}</color>技能伤害，持续{2}秒，可叠加{3}层。",
     "GroupId": 4033209,
     "BuffTag1": -719983267
   },
   "4033210": {
     "Id": 4033210,
-    "Name": "【buff效果】提升<color=#ec6d21>{1}</color>技能伤害，持续{2}秒，可叠加{3}层。",
     "GroupId": 4033210,
     "BuffTag1": -719983267
   },
   "4036027": {
     "Id": 4036027,
-    "Name": "【buff效果】技能伤害提升<color=#ec6d21>{2}</color>，持续{3}秒。",
     "GroupId": 4036027,
     "BuffTag1": -719983267
   },
   "4036028": {
     "Id": 4036028,
-    "Name": "【buff效果】技能伤害提升<color=#ec6d21>{2}</color>，持续{3}秒。",
     "GroupId": 4036028,
     "BuffTag1": -719983267
   },
   "4036029": {
     "Id": 4036029,
-    "Name": "【buff效果】技能伤害提升<color=#ec6d21>{2}</color>，持续{3}秒。",
     "GroupId": 4036029,
     "BuffTag1": -719983267
   },
   "4036030": {
     "Id": 4036030,
-    "Name": "【buff效果】技能伤害提升<color=#ec6d21>{2}</color>，持续{3}秒。",
     "GroupId": 4036030,
     "BuffTag1": -719983267
   },
   "4036031": {
     "Id": 4036031,
-    "Name": "【buff效果】技能伤害提升<color=#ec6d21>{2}</color>，持续{3}秒。",
     "GroupId": 4036031,
     "BuffTag1": -719983267
   },
   "4036032": {
     "Id": 4036032,
-    "Name": "【buff效果】技能伤害提升<color=#ec6d21>{2}</color>，持续{3}秒。",
     "GroupId": 4036032,
     "BuffTag1": -719983267
   },
   "4036047": {
     "Id": 4036047,
-    "Name": "【buff效果】普攻伤害提升<color=#ec6d21>{2}</color>，持续{3}秒。",
     "GroupId": 4036047,
     "BuffTag1": -719983267
   },
   "4036048": {
     "Id": 4036048,
-    "Name": "【buff效果】普攻伤害提升<color=#ec6d21>{2}</color>，持续{3}秒。",
     "GroupId": 4036048,
     "BuffTag1": -719983267
   },
   "4036049": {
     "Id": 4036049,
-    "Name": "【buff效果】普攻伤害提升<color=#ec6d21>{2}</color>，持续{3}秒。",
     "GroupId": 4036049,
     "BuffTag1": -719983267
   },
   "4036050": {
     "Id": 4036050,
-    "Name": "【buff效果】普攻伤害提升<color=#ec6d21>{2}</color>，持续{3}秒。",
     "GroupId": 4036050,
     "BuffTag1": -719983267
   },
   "4036051": {
     "Id": 4036051,
-    "Name": "【buff效果】普攻伤害提升<color=#ec6d21>{2}</color>，持续{3}秒。",
     "GroupId": 4036051,
     "BuffTag1": -719983267
   },
   "4036052": {
     "Id": 4036052,
-    "Name": "【buff效果】普攻伤害提升<color=#ec6d21>{2}</color>，持续{3}秒。",
     "GroupId": 4036052,
     "BuffTag1": -719983267
   },
   "4036206": {
     "Id": 4036206,
-    "Name": "【buff效果】攻击力提升<color=#ec6d21>{1}</color>，持续{3}秒，可叠加{4}层。",
     "GroupId": 4036206,
     "BuffTag1": -719983267
   },
   "4036207": {
     "Id": 4036207,
-    "Name": "【buff效果】攻击力提升<color=#ec6d21>{1}</color>，持续{3}秒，可叠加{4}层。",
     "GroupId": 4036207,
     "BuffTag1": -719983267
   },
   "4036208": {
     "Id": 4036208,
-    "Name": "【buff效果】攻击力提升<color=#ec6d21>{1}</color>，持续{3}秒，可叠加{4}层。",
     "GroupId": 4036208,
     "BuffTag1": -719983267
   },
   "4036209": {
     "Id": 4036209,
-    "Name": "【buff效果】攻击力提升<color=#ec6d21>{1}</color>，持续{3}秒，可叠加{4}层。",
     "GroupId": 4036209,
     "BuffTag1": -719983267
   },
   "4036210": {
     "Id": 4036210,
-    "Name": "【buff效果】攻击力提升<color=#ec6d21>{1}</color>，持续{3}秒，可叠加{4}层。",
     "GroupId": 4036210,
     "BuffTag1": -719983267
   },
   "4037027": {
     "Id": 4037027,
-    "Name": "【buff效果】受到地系伤害提升<color=#ec6d21>{2}</color>，持续{3}秒。",
     "GroupId": 4037027,
     "BuffTag1": -2138561627
   },
   "4037028": {
     "Id": 4037028,
-    "Name": "【buff效果】受到地系伤害提升<color=#ec6d21>{2}</color>，持续{3}秒。",
     "GroupId": 4037028,
     "BuffTag1": -2138561627
   },
   "4037029": {
     "Id": 4037029,
-    "Name": "【buff效果】受到地系伤害提升<color=#ec6d21>{2}</color>，持续{3}秒。",
     "GroupId": 4037029,
     "BuffTag1": -2138561627
   },
   "4037030": {
     "Id": 4037030,
-    "Name": "【buff效果】受到地系伤害提升<color=#ec6d21>{2}</color>，持续{3}秒。",
     "GroupId": 4037030,
     "BuffTag1": -2138561627
   },
   "4037031": {
     "Id": 4037031,
-    "Name": "【buff效果】受到地系伤害提升<color=#ec6d21>{2}</color>，持续{3}秒。",
     "GroupId": 4037031,
     "BuffTag1": -2138561627
   },
   "4037032": {
     "Id": 4037032,
-    "Name": "【buff效果】受到地系伤害提升<color=#ec6d21>{2}</color>，持续{3}秒。",
     "GroupId": 4037032,
     "BuffTag1": -2138561627
   },
   "4037101": {
     "Id": 4037101,
-    "Name": "【脚本buff】任意地系角色恢复生命时，全队地系伤害提升<color=#ec6d21>{1}</color>，持续{2}秒。",
     "GroupId": 4037101,
     "BuffTag1": -719983267
   },
   "4037102": {
     "Id": 4037102,
-    "Name": "【脚本buff】任意地系角色恢复生命时，全队地系伤害提升<color=#ec6d21>{1}</color>，持续{2}秒。",
     "GroupId": 4037102,
     "BuffTag1": -719983267
   },
   "4037103": {
     "Id": 4037103,
-    "Name": "【脚本buff】任意地系角色恢复生命时，全队地系伤害提升<color=#ec6d21>{1}</color>，持续{2}秒。",
     "GroupId": 4037103,
     "BuffTag1": -719983267
   },
   "4037104": {
     "Id": 4037104,
-    "Name": "【脚本buff】任意地系角色恢复生命时，全队地系伤害提升<color=#ec6d21>{1}</color>，持续{2}秒。",
     "GroupId": 4037104,
     "BuffTag1": -719983267
   },
   "4037105": {
     "Id": 4037105,
-    "Name": "【脚本buff】任意地系角色恢复生命时，全队地系伤害提升<color=#ec6d21>{1}</color>，持续{2}秒。",
     "GroupId": 4037105,
     "BuffTag1": -719983267
   },
   "4037206": {
     "Id": 4037206,
-    "Name": "【buff效果】技能伤害提升<color=#ec6d21>{1}</color>，持续{2}秒，可叠加{3}层。",
     "GroupId": 4037206,
     "BuffTag1": -719983267
   },
   "4037207": {
     "Id": 4037207,
-    "Name": "【buff效果】技能伤害提升<color=#ec6d21>{1}</color>，持续{2}秒，可叠加{3}层。",
     "GroupId": 4037207,
     "BuffTag1": -719983267
   },
   "4037208": {
     "Id": 4037208,
-    "Name": "【buff效果】技能伤害提升<color=#ec6d21>{1}</color>，持续{2}秒，可叠加{3}层。",
     "GroupId": 4037208,
     "BuffTag1": -719983267
   },
   "4037209": {
     "Id": 4037209,
-    "Name": "【buff效果】技能伤害提升<color=#ec6d21>{1}</color>，持续{2}秒，可叠加{3}层。",
     "GroupId": 4037209,
     "BuffTag1": -719983267
   },
   "4037210": {
     "Id": 4037210,
-    "Name": "【buff效果】技能伤害提升<color=#ec6d21>{1}</color>，持续{2}秒，可叠加{3}层。",
     "GroupId": 4037210,
     "BuffTag1": -719983267
   },
   "4038027": {
     "Id": 4038027,
-    "Name": "受到光系伤害提升<color=#ec6d21>{2}</color>，持续{3}秒，可叠加{4}层。",
     "GroupId": 4038027,
     "BuffTag1": -2138561627
   },
   "4038028": {
     "Id": 4038028,
-    "Name": "受到光系伤害提升<color=#ec6d21>{2}</color>，持续{3}秒，可叠加{4}层。",
     "GroupId": 4038028,
     "BuffTag1": -2138561627
   },
   "4038029": {
     "Id": 4038029,
-    "Name": "受到光系伤害提升<color=#ec6d21>{2}</color>，持续{3}秒，可叠加{4}层。",
     "GroupId": 4038029,
     "BuffTag1": -2138561627
   },
   "4038030": {
     "Id": 4038030,
-    "Name": "受到光系伤害提升<color=#ec6d21>{2}</color>，持续{3}秒，可叠加{4}层。",
     "GroupId": 4038030,
     "BuffTag1": -2138561627
   },
   "4038031": {
     "Id": 4038031,
-    "Name": "受到光系伤害提升<color=#ec6d21>{2}</color>，持续{3}秒，可叠加{4}层。",
     "GroupId": 4038031,
     "BuffTag1": -2138561627
   },
   "4038032": {
     "Id": 4038032,
-    "Name": "受到光系伤害提升<color=#ec6d21>{2}</color>，持续{3}秒，可叠加{4}层。",
     "GroupId": 4038032,
     "BuffTag1": -2138561627
   },
   "4038146": {
     "Id": 4038146,
-    "Name": "【buff效果】普攻伤害提升<color=#ec6d21>{1}</color>，持续{3}秒。",
     "GroupId": 4038146,
     "BuffTag1": -719983267
   },
   "4038147": {
     "Id": 4038147,
-    "Name": "【buff效果】普攻伤害提升<color=#ec6d21>{1}</color>，持续{3}秒。",
     "GroupId": 4038147,
     "BuffTag1": -719983267
   },
   "4038148": {
     "Id": 4038148,
-    "Name": "【buff效果】普攻伤害提升<color=#ec6d21>{1}</color>，持续{3}秒。",
     "GroupId": 4038148,
     "BuffTag1": -719983267
   },
   "4038149": {
     "Id": 4038149,
-    "Name": "【buff效果】普攻伤害提升<color=#ec6d21>{1}</color>，持续{3}秒。",
     "GroupId": 4038149,
     "BuffTag1": -719983267
   },
   "4038150": {
     "Id": 4038150,
-    "Name": "【buff效果】普攻伤害提升<color=#ec6d21>{1}</color>，持续{3}秒。",
     "GroupId": 4038150,
     "BuffTag1": -719983267
   },
   "4038166": {
     "Id": 4038166,
-    "Name": "【buff效果】技能伤害提升<color=#ec6d21>{1}</color>，持续{3}秒。",
     "GroupId": 4038166,
     "BuffTag1": -719983267
   },
   "4038167": {
     "Id": 4038167,
-    "Name": "【buff效果】技能伤害提升<color=#ec6d21>{1}</color>，持续{3}秒。",
     "GroupId": 4038167,
     "BuffTag1": -719983267
   },
   "4038168": {
     "Id": 4038168,
-    "Name": "【buff效果】技能伤害提升<color=#ec6d21>{1}</color>，持续{3}秒。",
     "GroupId": 4038168,
     "BuffTag1": -719983267
   },
   "4038169": {
     "Id": 4038169,
-    "Name": "【buff效果】技能伤害提升<color=#ec6d21>{1}</color>，持续{3}秒。",
     "GroupId": 4038169,
     "BuffTag1": -719983267
   },
   "4038170": {
     "Id": 4038170,
-    "Name": "【buff效果】技能伤害提升<color=#ec6d21>{1}</color>，持续{3}秒。",
     "GroupId": 4038170,
     "BuffTag1": -719983267
   },
   "4038201": {
     "Id": 4038201,
-    "Name": "【脚本buff】光系主控角色累计造成{1}次技能伤害后，全队光系伤害提升<color=#ec6d21>{2}</color>，持续{3}秒。",
     "GroupId": 4038201,
     "BuffTag1": -719983267
   },
   "4038202": {
     "Id": 4038202,
-    "Name": "【脚本buff】光系主控角色累计造成{1}次技能伤害后，全队光系伤害提升<color=#ec6d21>{2}</color>，持续{3}秒。",
     "GroupId": 4038202,
     "BuffTag1": -719983267
   },
   "4038203": {
     "Id": 4038203,
-    "Name": "【脚本buff】光系主控角色累计造成{1}次技能伤害后，全队光系伤害提升<color=#ec6d21>{2}</color>，持续{3}秒。",
     "GroupId": 4038203,
     "BuffTag1": -719983267
   },
   "4038204": {
     "Id": 4038204,
-    "Name": "【脚本buff】光系主控角色累计造成{1}次技能伤害后，全队光系伤害提升<color=#ec6d21>{2}</color>，持续{3}秒。",
     "GroupId": 4038204,
     "BuffTag1": -719983267
   },
   "4038205": {
     "Id": 4038205,
-    "Name": "【脚本buff】光系主控角色累计造成{1}次技能伤害后，全队光系伤害提升<color=#ec6d21>{2}</color>，持续{3}秒。",
     "GroupId": 4038205,
     "BuffTag1": -719983267
   },
   "4039041": {
     "Id": 4039041,
-    "Name": "【脚本buff】\\u000b光系主控角色绝招持续期间，如果任意角色触发##光系印记#1015#，全队光系伤害提升<color=#ec6d21>{2}</color>，持续{3}秒，可叠加{4}层。",
     "GroupId": 4039041,
     "BuffTag1": -719983267
   },
   "4039042": {
     "Id": 4039042,
-    "Name": "【脚本buff】\\u000b光系主控角色绝招持续期间，如果任意角色触发##光系印记#1015#，全队光系伤害提升<color=#ec6d21>{2}</color>，持续{3}秒，可叠加{4}层。",
     "GroupId": 4039042,
     "BuffTag1": -719983267
   },
   "4039043": {
     "Id": 4039043,
-    "Name": "【脚本buff】\\u000b光系主控角色绝招持续期间，如果任意角色触发##光系印记#1015#，全队光系伤害提升<color=#ec6d21>{2}</color>，持续{3}秒，可叠加{4}层。",
     "GroupId": 4039043,
     "BuffTag1": -719983267
   },
   "4039044": {
     "Id": 4039044,
-    "Name": "【脚本buff】\\u000b光系主控角色绝招持续期间，如果任意角色触发##光系印记#1015#，全队光系伤害提升<color=#ec6d21>{2}</color>，持续{3}秒，可叠加{4}层。",
     "GroupId": 4039044,
     "BuffTag1": -719983267
   },
   "4039045": {
     "Id": 4039045,
-    "Name": "【脚本buff】\\u000b光系主控角色绝招持续期间，如果任意角色触发##光系印记#1015#，全队光系伤害提升<color=#ec6d21>{2}</color>，持续{3}秒，可叠加{4}层。",
     "GroupId": 4039045,
     "BuffTag1": -719983267
   },
   "4039046": {
     "Id": 4039046,
-    "Name": "【脚本buff】\\u000b光系主控角色绝招持续期间，如果任意角色触发##光系印记#1015#，全队光系伤害提升<color=#ec6d21>{2}</color>，持续{3}秒，可叠加{4}层。",
     "GroupId": 4039046,
     "BuffTag1": -719983267
   },
   "4039126": {
     "Id": 4039126,
-    "Name": "【buff效果】技能伤害提升<color=#ec6d21>{1}</color>，持续{3}秒，可叠加{4}层。",
     "GroupId": 4039126,
     "BuffTag1": -719983267
   },
   "4039127": {
     "Id": 4039127,
-    "Name": "【buff效果】技能伤害提升<color=#ec6d21>{1}</color>，持续{3}秒，可叠加{4}层。",
     "GroupId": 4039127,
     "BuffTag1": -719983267
   },
   "4039128": {
     "Id": 4039128,
-    "Name": "【buff效果】技能伤害提升<color=#ec6d21>{1}</color>，持续{3}秒，可叠加{4}层。",
     "GroupId": 4039128,
     "BuffTag1": -719983267
   },
   "4039129": {
     "Id": 4039129,
-    "Name": "【buff效果】技能伤害提升<color=#ec6d21>{1}</color>，持续{3}秒，可叠加{4}层。",
     "GroupId": 4039129,
     "BuffTag1": -719983267
   },
   "4039130": {
     "Id": 4039130,
-    "Name": "【buff效果】技能伤害提升<color=#ec6d21>{1}</color>，持续{3}秒，可叠加{4}层。",
     "GroupId": 4039130,
     "BuffTag1": -719983267
   },
   "4039200": {
     "Id": 4039200,
-    "Name": "【脚本buff】衍射",
     "GroupId": 4039200,
     "BuffTag1": -719983267,
     "Icon": "Icon/Buff/Icon_DiscBuff_214039",
@@ -12092,37 +11847,31 @@
   },
   "4039201": {
     "Id": 4039201,
-    "Name": "【脚本buff】基础技能伤害buff",
     "GroupId": 4039201,
     "BuffTag1": -719983267
   },
   "4039202": {
     "Id": 4039202,
-    "Name": "【脚本buff】基础技能伤害buff",
     "GroupId": 4039202,
     "BuffTag1": -719983267
   },
   "4039203": {
     "Id": 4039203,
-    "Name": "【脚本buff】基础技能伤害buff",
     "GroupId": 4039203,
     "BuffTag1": -719983267
   },
   "4039204": {
     "Id": 4039204,
-    "Name": "【脚本buff】基础技能伤害buff",
     "GroupId": 4039204,
     "BuffTag1": -719983267
   },
   "4039205": {
     "Id": 4039205,
-    "Name": "【脚本buff】基础技能伤害buff",
     "GroupId": 4039205,
     "BuffTag1": -719983267
   },
   "4017001": {
     "Id": 4017001,
-    "Name": "【脚本buff】燃星：普攻伤害提升<color=#ec6d21>{2}</color>。",
     "GroupId": 4017001,
     "BuffTag1": -719983267,
     "Icon": "Icon/Buff/Icon_DiscBuff_214017",
@@ -12130,7 +11879,6 @@
   },
   "4017002": {
     "Id": 4017002,
-    "Name": "【脚本buff】燃星：普攻伤害提升<color=#ec6d21>{2}</color>。",
     "GroupId": 4017002,
     "BuffTag1": -719983267,
     "Icon": "Icon/Buff/Icon_DiscBuff_214017",
@@ -12138,7 +11886,6 @@
   },
   "4017003": {
     "Id": 4017003,
-    "Name": "【脚本buff】燃星：普攻伤害提升<color=#ec6d21>{2}</color>。",
     "GroupId": 4017003,
     "BuffTag1": -719983267,
     "Icon": "Icon/Buff/Icon_DiscBuff_214017",
@@ -12146,7 +11893,6 @@
   },
   "4017004": {
     "Id": 4017004,
-    "Name": "【脚本buff】燃星：普攻伤害提升<color=#ec6d21>{2}</color>。",
     "GroupId": 4017004,
     "BuffTag1": -719983267,
     "Icon": "Icon/Buff/Icon_DiscBuff_214017",
@@ -12154,7 +11900,6 @@
   },
   "4017005": {
     "Id": 4017005,
-    "Name": "【脚本buff】燃星：普攻伤害提升<color=#ec6d21>{2}</color>。",
     "GroupId": 4017005,
     "BuffTag1": -719983267,
     "Icon": "Icon/Buff/Icon_DiscBuff_214017",
@@ -12162,7 +11907,6 @@
   },
   "4017006": {
     "Id": 4017006,
-    "Name": "【脚本buff】燃星：普攻伤害提升<color=#ec6d21>{2}</color>。",
     "GroupId": 4017006,
     "BuffTag1": -719983267,
     "Icon": "Icon/Buff/Icon_DiscBuff_214017",
@@ -12170,109 +11914,91 @@
   },
   "4017021": {
     "Id": 4017021,
-    "Name": "【脚本buff】焰色反应：造成普攻伤害时为目标附加受到普攻伤害提升<color=#ec6d21>{4}</color>，持续{5}秒。",
     "GroupId": 4017021,
     "BuffTag1": -2138561627
   },
   "4017022": {
     "Id": 4017022,
-    "Name": "【脚本buff】焰色反应：造成普攻伤害时为目标附加受到普攻伤害提升<color=#ec6d21>{4}</color>，持续{5}秒。",
     "GroupId": 4017022,
     "BuffTag1": -2138561627
   },
   "4017023": {
     "Id": 4017023,
-    "Name": "【脚本buff】焰色反应：造成普攻伤害时为目标附加受到普攻伤害提升<color=#ec6d21>{4}</color>，持续{5}秒。",
     "GroupId": 4017023,
     "BuffTag1": -2138561627
   },
   "4017024": {
     "Id": 4017024,
-    "Name": "【脚本buff】焰色反应：造成普攻伤害时为目标附加受到普攻伤害提升<color=#ec6d21>{4}</color>，持续{5}秒。",
     "GroupId": 4017024,
     "BuffTag1": -2138561627
   },
   "4017025": {
     "Id": 4017025,
-    "Name": "【脚本buff】焰色反应：造成普攻伤害时为目标附加受到普攻伤害提升<color=#ec6d21>{4}</color>，持续{5}秒。",
     "GroupId": 4017025,
     "BuffTag1": -2138561627
   },
   "4017026": {
     "Id": 4017026,
-    "Name": "【脚本buff】焰色反应：造成普攻伤害时为目标附加受到普攻伤害提升<color=#ec6d21>{4}</color>，持续{5}秒。",
     "GroupId": 4017026,
     "BuffTag1": -2138561627
   },
   "4017126": {
     "Id": 4017126,
-    "Name": "【buff效果】技能伤害提升<color=#ec6d21>{2}</color>，持续{3}秒。",
     "GroupId": 4017126,
     "BuffTag1": -719983267
   },
   "4017127": {
     "Id": 4017127,
-    "Name": "【buff效果】技能伤害提升<color=#ec6d21>{2}</color>，持续{3}秒。",
     "GroupId": 4017127,
     "BuffTag1": -719983267
   },
   "4017128": {
     "Id": 4017128,
-    "Name": "【buff效果】技能伤害提升<color=#ec6d21>{2}</color>，持续{3}秒。",
     "GroupId": 4017128,
     "BuffTag1": -719983267
   },
   "4017129": {
     "Id": 4017129,
-    "Name": "【buff效果】技能伤害提升<color=#ec6d21>{2}</color>，持续{3}秒。",
     "GroupId": 4017129,
     "BuffTag1": -719983267
   },
   "4017130": {
     "Id": 4017130,
-    "Name": "【buff效果】技能伤害提升<color=#ec6d21>{2}</color>，持续{3}秒。",
     "GroupId": 4017130,
     "BuffTag1": -719983267
   },
   "4017201": {
     "Id": 4017201,
-    "Name": "【脚本buff】燃星plus：暴击伤害提升<color=#ec6d21>{1}</color>。",
     "GroupId": 4017201,
     "BuffTag1": -719983267
   },
   "4017202": {
     "Id": 4017202,
-    "Name": "【脚本buff】燃星plus：暴击伤害提升<color=#ec6d21>{1}</color>。",
     "GroupId": 4017202,
     "BuffTag1": -719983267
   },
   "4017203": {
     "Id": 4017203,
-    "Name": "【脚本buff】燃星plus：暴击伤害提升<color=#ec6d21>{1}</color>。",
     "GroupId": 4017203,
     "BuffTag1": -719983267
   },
   "4017204": {
     "Id": 4017204,
-    "Name": "【脚本buff】燃星plus：暴击伤害提升<color=#ec6d21>{1}</color>。",
     "GroupId": 4017204,
     "BuffTag1": -719983267
   },
   "4017205": {
     "Id": 4017205,
-    "Name": "【脚本buff】燃星plus：暴击伤害提升<color=#ec6d21>{1}</color>。",
     "GroupId": 4017205,
     "BuffTag1": -719983267
   },
   "4017099": {
     "Id": 4017099,
-    "Name": "【脚本buff】燃星满层标识buff",
     "GroupId": 4017099,
     "BuffTag1": -719983267
   },
   "4040001": {
     "Id": 4040001,
-    "Name": "【once脚本标识buff】勇气」：绝招伤害提升<color=#ec6d21>{1}</color>",
     "GroupId": 4040001,
     "BuffTag1": -719983267,
     "Icon": "Icon/Buff/Icon_DiscBuff_214040",
@@ -12280,7 +12006,6 @@
   },
   "4040002": {
     "Id": 4040002,
-    "Name": "【once脚本标识buff】勇气」：绝招伤害提升<color=#ec6d21>{1}</color>",
     "GroupId": 4040002,
     "BuffTag1": -719983267,
     "Icon": "Icon/Buff/Icon_DiscBuff_214040",
@@ -12288,7 +12013,6 @@
   },
   "4040003": {
     "Id": 4040003,
-    "Name": "【once脚本标识buff】勇气」：绝招伤害提升<color=#ec6d21>{1}</color>",
     "GroupId": 4040003,
     "BuffTag1": -719983267,
     "Icon": "Icon/Buff/Icon_DiscBuff_214040",
@@ -12296,7 +12020,6 @@
   },
   "4040004": {
     "Id": 4040004,
-    "Name": "【once脚本标识buff】勇气」：绝招伤害提升<color=#ec6d21>{1}</color>",
     "GroupId": 4040004,
     "BuffTag1": -719983267,
     "Icon": "Icon/Buff/Icon_DiscBuff_214040",
@@ -12304,7 +12027,6 @@
   },
   "4040005": {
     "Id": 4040005,
-    "Name": "【once脚本标识buff】勇气」：绝招伤害提升<color=#ec6d21>{1}</color>",
     "GroupId": 4040005,
     "BuffTag1": -719983267,
     "Icon": "Icon/Buff/Icon_DiscBuff_214040",
@@ -12312,7 +12034,6 @@
   },
   "4040006": {
     "Id": 4040006,
-    "Name": "【once脚本标识buff】勇气」：绝招伤害提升<color=#ec6d21>{1}</color>",
     "GroupId": 4040006,
     "BuffTag1": -719983267,
     "Icon": "Icon/Buff/Icon_DiscBuff_214040",
@@ -12320,97 +12041,81 @@
   },
   "4040126": {
     "Id": 4040126,
-    "Name": "【buff效果】攻击力提升<color=#ec6d21>{2}</color>，持续{3}秒。",
     "GroupId": 4040126,
     "BuffTag1": -719983267
   },
   "4040127": {
     "Id": 4040127,
-    "Name": "【buff效果】攻击力提升<color=#ec6d21>{2}</color>，持续{3}秒。",
     "GroupId": 4040127,
     "BuffTag1": -719983267
   },
   "4040128": {
     "Id": 4040128,
-    "Name": "【buff效果】攻击力提升<color=#ec6d21>{2}</color>，持续{3}秒。",
     "GroupId": 4040128,
     "BuffTag1": -719983267
   },
   "4040129": {
     "Id": 4040129,
-    "Name": "【buff效果】攻击力提升<color=#ec6d21>{2}</color>，持续{3}秒。",
     "GroupId": 4040129,
     "BuffTag1": -719983267
   },
   "4040130": {
     "Id": 4040130,
-    "Name": "【buff效果】攻击力提升<color=#ec6d21>{2}</color>，持续{3}秒。",
     "GroupId": 4040130,
     "BuffTag1": -719983267
   },
   "4040201": {
     "Id": 4040201,
-    "Name": "【脚本buff】每层「勇气」被清除时，火系主控角色普攻伤害提升<color=#ec6d21>{1}</color>，",
     "GroupId": 4040201,
     "BuffTag1": -719983267
   },
   "4040202": {
     "Id": 4040202,
-    "Name": "【脚本buff】每层「勇气」被清除时，火系主控角色普攻伤害提升<color=#ec6d21>{1}</color>，",
     "GroupId": 4040202,
     "BuffTag1": -719983267
   },
   "4040203": {
     "Id": 4040203,
-    "Name": "【脚本buff】每层「勇气」被清除时，火系主控角色普攻伤害提升<color=#ec6d21>{1}</color>，",
     "GroupId": 4040203,
     "BuffTag1": -719983267
   },
   "4040204": {
     "Id": 4040204,
-    "Name": "【脚本buff】每层「勇气」被清除时，火系主控角色普攻伤害提升<color=#ec6d21>{1}</color>，",
     "GroupId": 4040204,
     "BuffTag1": -719983267
   },
   "4040205": {
     "Id": 4040205,
-    "Name": "【脚本buff】每层「勇气」被清除时，火系主控角色普攻伤害提升<color=#ec6d21>{1}</color>，",
     "GroupId": 4040205,
     "BuffTag1": -719983267
   },
   "4040221": {
     "Id": 4040221,
-    "Name": "【脚本buff】每层「勇气」被清除时，火系主控角色获得{2}点防御力，持续{3}秒。",
     "GroupId": 4040221,
     "BuffTag1": -719983267
   },
   "4040222": {
     "Id": 4040222,
-    "Name": "【脚本buff】每层「勇气」被清除时，火系主控角色获得{2}点防御力，持续{3}秒。",
     "GroupId": 4040222,
     "BuffTag1": -719983267
   },
   "4040223": {
     "Id": 4040223,
-    "Name": "【脚本buff】每层「勇气」被清除时，火系主控角色获得{2}点防御力，持续{3}秒。",
     "GroupId": 4040223,
     "BuffTag1": -719983267
   },
   "4040224": {
     "Id": 4040224,
-    "Name": "【脚本buff】每层「勇气」被清除时，火系主控角色获得{2}点防御力，持续{3}秒。",
     "GroupId": 4040224,
     "BuffTag1": -719983267
   },
   "4040225": {
     "Id": 4040225,
-    "Name": "【脚本buff】每层「勇气」被清除时，火系主控角色获得{2}点防御力，持续{3}秒。",
     "GroupId": 4040225,
     "BuffTag1": -719983267
   },
   "4015020": {
     "Id": 4015020,
-    "Name": "【脚本buff】流芳",
     "GroupId": 4015020,
     "BuffTag1": -719983267,
     "Icon": "Icon/Buff/Icon_DiscBuff_214015",
@@ -12418,7 +12123,6 @@
   },
   "4015021": {
     "Id": 4015021,
-    "Name": "【脚本buff】受到风系技能伤害提升<color=#ec6d21>{3}</color>，持续{4}秒，可叠加{5}层。",
     "GroupId": 4015021,
     "BuffTag1": -2138561627,
     "Icon": "Icon/Buff/Icon_CommonBuff_DefenseDown",
@@ -12426,7 +12130,6 @@
   },
   "4015022": {
     "Id": 4015022,
-    "Name": "【脚本buff】受到风系技能伤害提升<color=#ec6d21>{3}</color>，持续{4}秒，可叠加{5}层。",
     "GroupId": 4015022,
     "BuffTag1": -2138561627,
     "Icon": "Icon/Buff/Icon_CommonBuff_DefenseDown",
@@ -12434,7 +12137,6 @@
   },
   "4015023": {
     "Id": 4015023,
-    "Name": "【脚本buff】受到风系技能伤害提升<color=#ec6d21>{3}</color>，持续{4}秒，可叠加{5}层。",
     "GroupId": 4015023,
     "BuffTag1": -2138561627,
     "Icon": "Icon/Buff/Icon_CommonBuff_DefenseDown",
@@ -12442,7 +12144,6 @@
   },
   "4015024": {
     "Id": 4015024,
-    "Name": "【脚本buff】受到风系技能伤害提升<color=#ec6d21>{3}</color>，持续{4}秒，可叠加{5}层。",
     "GroupId": 4015024,
     "BuffTag1": -2138561627,
     "Icon": "Icon/Buff/Icon_CommonBuff_DefenseDown",
@@ -12450,7 +12151,6 @@
   },
   "4015025": {
     "Id": 4015025,
-    "Name": "【脚本buff】受到风系技能伤害提升<color=#ec6d21>{3}</color>，持续{4}秒，可叠加{5}层。",
     "GroupId": 4015025,
     "BuffTag1": -2138561627,
     "Icon": "Icon/Buff/Icon_CommonBuff_DefenseDown",
@@ -12458,7 +12158,6 @@
   },
   "4015026": {
     "Id": 4015026,
-    "Name": "【脚本buff】受到风系技能伤害提升<color=#ec6d21>{3}</color>，持续{4}秒，可叠加{5}层。",
     "GroupId": 4015026,
     "BuffTag1": -2138561627,
     "Icon": "Icon/Buff/Icon_CommonBuff_DefenseDown",
@@ -12466,109 +12165,91 @@
   },
   "4015126": {
     "Id": 4015126,
-    "Name": "【buff效果】技能伤害提升<color=#ec6d21>{2}</color>，持续{3}秒。",
     "GroupId": 4015126,
     "BuffTag1": -719983267
   },
   "4015127": {
     "Id": 4015127,
-    "Name": "【buff效果】技能伤害提升<color=#ec6d21>{2}</color>，持续{3}秒。",
     "GroupId": 4015127,
     "BuffTag1": -719983267
   },
   "4015128": {
     "Id": 4015128,
-    "Name": "【buff效果】技能伤害提升<color=#ec6d21>{2}</color>，持续{3}秒。",
     "GroupId": 4015128,
     "BuffTag1": -719983267
   },
   "4015129": {
     "Id": 4015129,
-    "Name": "【buff效果】技能伤害提升<color=#ec6d21>{2}</color>，持续{3}秒。",
     "GroupId": 4015129,
     "BuffTag1": -719983267
   },
   "4015130": {
     "Id": 4015130,
-    "Name": "【buff效果】技能伤害提升<color=#ec6d21>{2}</color>，持续{3}秒。",
     "GroupId": 4015130,
     "BuffTag1": -719983267
   },
   "4024007": {
     "Id": 4024007,
-    "Name": "【buff效果】技能伤害提升<color=#ec6d21>{1}</color>，持续{2}s。",
     "GroupId": 4024007,
     "BuffTag1": -719983267
   },
   "4024008": {
     "Id": 4024008,
-    "Name": "【buff效果】技能伤害提升<color=#ec6d21>{1}</color>，持续{2}s。",
     "GroupId": 4024008,
     "BuffTag1": -719983267
   },
   "4024009": {
     "Id": 4024009,
-    "Name": "【buff效果】技能伤害提升<color=#ec6d21>{1}</color>，持续{2}s。",
     "GroupId": 4024009,
     "BuffTag1": -719983267
   },
   "4024010": {
     "Id": 4024010,
-    "Name": "【buff效果】技能伤害提升<color=#ec6d21>{1}</color>，持续{2}s。",
     "GroupId": 4024010,
     "BuffTag1": -719983267
   },
   "4024011": {
     "Id": 4024011,
-    "Name": "【buff效果】技能伤害提升<color=#ec6d21>{1}</color>，持续{2}s。",
     "GroupId": 4024011,
     "BuffTag1": -719983267
   },
   "4024012": {
     "Id": 4024012,
-    "Name": "【buff效果】技能伤害提升<color=#ec6d21>{1}</color>，持续{2}s。",
     "GroupId": 4024012,
     "BuffTag1": -719983267
   },
   "4024126": {
     "Id": 4024126,
-    "Name": "【buff效果】攻击力提升<color=#ec6d21>{2}</color>，持续{3}秒。",
     "GroupId": 4024126,
     "BuffTag1": -719983267
   },
   "4024127": {
     "Id": 4024127,
-    "Name": "【buff效果】攻击力提升<color=#ec6d21>{2}</color>，持续{3}秒。",
     "GroupId": 4024127,
     "BuffTag1": -719983267
   },
   "4024128": {
     "Id": 4024128,
-    "Name": "【buff效果】攻击力提升<color=#ec6d21>{2}</color>，持续{3}秒。",
     "GroupId": 4024128,
     "BuffTag1": -719983267
   },
   "4024129": {
     "Id": 4024129,
-    "Name": "【buff效果】攻击力提升<color=#ec6d21>{2}</color>，持续{3}秒。",
     "GroupId": 4024129,
     "BuffTag1": -719983267
   },
   "4024130": {
     "Id": 4024130,
-    "Name": "【buff效果】攻击力提升<color=#ec6d21>{2}</color>，持续{3}秒。",
     "GroupId": 4024130,
     "BuffTag1": -719983267
   },
   "4024200": {
     "Id": 4024200,
-    "Name": "【once标识buff】任意风系援护角色附加印记时，该角色造成的技能伤害提升<color=#ec6d21>{1}</color>，持续{2}s。",
     "GroupId": 4024200,
     "BuffTag1": -719983267
   },
   "4004020": {
     "Id": 4004020,
-    "Name": "【脚本buff】敬畏",
     "GroupId": 4004020,
     "BuffTag1": -719983267,
     "Icon": "Icon/Buff/Icon_DiscBuff_214004",
@@ -12576,43 +12257,36 @@
   },
   "4004021": {
     "Id": 4004021,
-    "Name": "【脚本buff】暗系主控角色召唤仆从时，根据自身的「敬畏」层数，每层使其仆从的仆从伤害提升<color=#ec6d21>{4}</color>，持续{5}s。",
     "GroupId": 4004021,
     "BuffTag1": -719983267
   },
   "4004022": {
     "Id": 4004022,
-    "Name": "【脚本buff】暗系主控角色召唤仆从时，根据自身的「敬畏」层数，每层使其仆从的仆从伤害提升<color=#ec6d21>{4}</color>，持续{5}s。",
     "GroupId": 4004022,
     "BuffTag1": -719983267
   },
   "4004023": {
     "Id": 4004023,
-    "Name": "【脚本buff】暗系主控角色召唤仆从时，根据自身的「敬畏」层数，每层使其仆从的仆从伤害提升<color=#ec6d21>{4}</color>，持续{5}s。",
     "GroupId": 4004023,
     "BuffTag1": -719983267
   },
   "4004024": {
     "Id": 4004024,
-    "Name": "【脚本buff】暗系主控角色召唤仆从时，根据自身的「敬畏」层数，每层使其仆从的仆从伤害提升<color=#ec6d21>{4}</color>，持续{5}s。",
     "GroupId": 4004024,
     "BuffTag1": -719983267
   },
   "4004025": {
     "Id": 4004025,
-    "Name": "【脚本buff】暗系主控角色召唤仆从时，根据自身的「敬畏」层数，每层使其仆从的仆从伤害提升<color=#ec6d21>{4}</color>，持续{5}s。",
     "GroupId": 4004025,
     "BuffTag1": -719983267
   },
   "4004026": {
     "Id": 4004026,
-    "Name": "【脚本buff】暗系主控角色召唤仆从时，根据自身的「敬畏」层数，每层使其仆从的仆从伤害提升<color=#ec6d21>{4}</color>，持续{5}s。",
     "GroupId": 4004026,
     "BuffTag1": -719983267
   },
   "4004041": {
     "Id": 4004041,
-    "Name": "【脚本buff】暗系主控角色拥有「敬畏」时，暗系仆从造成伤害时为目标附加：受到暗系仆从伤害提升<color=#ec6d21>{6}</color>，持续{7}秒。",
     "GroupId": 4004041,
     "BuffTag1": -2138561627,
     "Icon": "Icon/Buff/Icon_CommonBuff_DefenseDown",
@@ -12620,7 +12294,6 @@
   },
   "4004042": {
     "Id": 4004042,
-    "Name": "【脚本buff】暗系主控角色拥有「敬畏」时，暗系仆从造成伤害时为目标附加：受到暗系仆从伤害提升<color=#ec6d21>{6}</color>，持续{7}秒。",
     "GroupId": 4004042,
     "BuffTag1": -2138561627,
     "Icon": "Icon/Buff/Icon_CommonBuff_DefenseDown",
@@ -12628,7 +12301,6 @@
   },
   "4004043": {
     "Id": 4004043,
-    "Name": "【脚本buff】暗系主控角色拥有「敬畏」时，暗系仆从造成伤害时为目标附加：受到暗系仆从伤害提升<color=#ec6d21>{6}</color>，持续{7}秒。",
     "GroupId": 4004043,
     "BuffTag1": -2138561627,
     "Icon": "Icon/Buff/Icon_CommonBuff_DefenseDown",
@@ -12636,7 +12308,6 @@
   },
   "4004044": {
     "Id": 4004044,
-    "Name": "【脚本buff】暗系主控角色拥有「敬畏」时，暗系仆从造成伤害时为目标附加：受到暗系仆从伤害提升<color=#ec6d21>{6}</color>，持续{7}秒。",
     "GroupId": 4004044,
     "BuffTag1": -2138561627,
     "Icon": "Icon/Buff/Icon_CommonBuff_DefenseDown",
@@ -12644,7 +12315,6 @@
   },
   "4004045": {
     "Id": 4004045,
-    "Name": "【脚本buff】暗系主控角色拥有「敬畏」时，暗系仆从造成伤害时为目标附加：受到暗系仆从伤害提升<color=#ec6d21>{6}</color>，持续{7}秒。",
     "GroupId": 4004045,
     "BuffTag1": -2138561627,
     "Icon": "Icon/Buff/Icon_CommonBuff_DefenseDown",
@@ -12652,7 +12322,6 @@
   },
   "4004046": {
     "Id": 4004046,
-    "Name": "【脚本buff】暗系主控角色拥有「敬畏」时，暗系仆从造成伤害时为目标附加：受到暗系仆从伤害提升<color=#ec6d21>{6}</color>，持续{7}秒。",
     "GroupId": 4004046,
     "BuffTag1": -2138561627,
     "Icon": "Icon/Buff/Icon_CommonBuff_DefenseDown",
@@ -12660,154 +12329,129 @@
   },
   "4004101": {
     "Id": 4004101,
-    "Name": "【脚本buff】暗系主控角色拥有「敬畏」时，队伍中暗系角色绝招伤害提升<color=#ec6d21>{1}</color>。",
     "GroupId": 4004101,
     "BuffTag1": -719983267
   },
   "4004102": {
     "Id": 4004102,
-    "Name": "【脚本buff】暗系主控角色拥有「敬畏」时，队伍中暗系角色绝招伤害提升<color=#ec6d21>{1}</color>。",
     "GroupId": 4004102,
     "BuffTag1": -719983267
   },
   "4004103": {
     "Id": 4004103,
-    "Name": "【脚本buff】暗系主控角色拥有「敬畏」时，队伍中暗系角色绝招伤害提升<color=#ec6d21>{1}</color>。",
     "GroupId": 4004103,
     "BuffTag1": -719983267
   },
   "4004104": {
     "Id": 4004104,
-    "Name": "【脚本buff】暗系主控角色拥有「敬畏」时，队伍中暗系角色绝招伤害提升<color=#ec6d21>{1}</color>。",
     "GroupId": 4004104,
     "BuffTag1": -719983267
   },
   "4004105": {
     "Id": 4004105,
-    "Name": "【脚本buff】暗系主控角色拥有「敬畏」时，队伍中暗系角色绝招伤害提升<color=#ec6d21>{1}</color>。",
     "GroupId": 4004105,
     "BuffTag1": -719983267
   },
   "4004201": {
     "Id": 4004201,
-    "Name": "【脚本buff】「敬畏」获得额外效果：每层使技能伤害提升<color=#ec6d21>{1}</color>。",
     "GroupId": 4004201,
     "BuffTag1": -719983267
   },
   "4004202": {
     "Id": 4004202,
-    "Name": "【脚本buff】「敬畏」获得额外效果：每层使技能伤害提升<color=#ec6d21>{1}</color>。",
     "GroupId": 4004202,
     "BuffTag1": -719983267
   },
   "4004203": {
     "Id": 4004203,
-    "Name": "【脚本buff】「敬畏」获得额外效果：每层使技能伤害提升<color=#ec6d21>{1}</color>。",
     "GroupId": 4004203,
     "BuffTag1": -719983267
   },
   "4004204": {
     "Id": 4004204,
-    "Name": "【脚本buff】「敬畏」获得额外效果：每层使技能伤害提升<color=#ec6d21>{1}</color>。",
     "GroupId": 4004204,
     "BuffTag1": -719983267
   },
   "4004205": {
     "Id": 4004205,
-    "Name": "【脚本buff】「敬畏」获得额外效果：每层使技能伤害提升<color=#ec6d21>{1}</color>。",
     "GroupId": 4004205,
     "BuffTag1": -719983267
   },
   "4043021": {
     "Id": 4043021,
-    "Name": "【脚本buff】暗系主控角色召唤仆从时，该仆从的仆从伤害提升<color=#ec6d21>{2}</color>，持续{3}秒。",
     "GroupId": 4043021,
     "BuffTag1": -719983267
   },
   "4043022": {
     "Id": 4043022,
-    "Name": "【脚本buff】暗系主控角色召唤仆从时，该仆从的仆从伤害提升<color=#ec6d21>{2}</color>，持续{3}秒。",
     "GroupId": 4043022,
     "BuffTag1": -719983267
   },
   "4043023": {
     "Id": 4043023,
-    "Name": "【脚本buff】暗系主控角色召唤仆从时，该仆从的仆从伤害提升<color=#ec6d21>{2}</color>，持续{3}秒。",
     "GroupId": 4043023,
     "BuffTag1": -719983267
   },
   "4043024": {
     "Id": 4043024,
-    "Name": "【脚本buff】暗系主控角色召唤仆从时，该仆从的仆从伤害提升<color=#ec6d21>{2}</color>，持续{3}秒。",
     "GroupId": 4043024,
     "BuffTag1": -719983267
   },
   "4043025": {
     "Id": 4043025,
-    "Name": "【脚本buff】暗系主控角色召唤仆从时，该仆从的仆从伤害提升<color=#ec6d21>{2}</color>，持续{3}秒。",
     "GroupId": 4043025,
     "BuffTag1": -719983267
   },
   "4043026": {
     "Id": 4043026,
-    "Name": "【脚本buff】暗系主控角色召唤仆从时，该仆从的仆从伤害提升<color=#ec6d21>{2}</color>，持续{3}秒。",
     "GroupId": 4043026,
     "BuffTag1": -719983267
   },
   "4043101": {
     "Id": 4043101,
-    "Name": "【脚本buff】任意暗系角色触发印记造成【暗灼】效果时，其在场仆从的仆从伤害提升<color=#ec6d21>{1}</color>，持续{2}秒。",
     "GroupId": 4043101,
     "BuffTag1": -719983267
   },
   "4043102": {
     "Id": 4043102,
-    "Name": "【脚本buff】任意暗系角色触发印记造成【暗灼】效果时，其在场仆从的仆从伤害提升<color=#ec6d21>{1}</color>，持续{2}秒。",
     "GroupId": 4043102,
     "BuffTag1": -719983267
   },
   "4043103": {
     "Id": 4043103,
-    "Name": "【脚本buff】任意暗系角色触发印记造成【暗灼】效果时，其在场仆从的仆从伤害提升<color=#ec6d21>{1}</color>，持续{2}秒。",
     "GroupId": 4043103,
     "BuffTag1": -719983267
   },
   "4043104": {
     "Id": 4043104,
-    "Name": "【脚本buff】任意暗系角色触发印记造成【暗灼】效果时，其在场仆从的仆从伤害提升<color=#ec6d21>{1}</color>，持续{2}秒。",
     "GroupId": 4043104,
     "BuffTag1": -719983267
   },
   "4043105": {
     "Id": 4043105,
-    "Name": "【脚本buff】任意暗系角色触发印记造成【暗灼】效果时，其在场仆从的仆从伤害提升<color=#ec6d21>{1}</color>，持续{2}秒。",
     "GroupId": 4043105,
     "BuffTag1": -719983267
   },
   "4048010": {
     "Id": 4048010,
-    "Name": "【标识buff】颂歌1",
     "GroupId": 4048010,
     "BuffTag1": -2138561627,
     "BuffTag2": -1409309753
   },
   "4048011": {
     "Id": 4048011,
-    "Name": "【标识buff】颂歌2",
     "GroupId": 4048011,
     "BuffTag1": -2138561627,
     "BuffTag2": -1409309753
   },
   "4048012": {
     "Id": 4048012,
-    "Name": "【标识buff】颂歌3",
     "GroupId": 4048012,
     "BuffTag1": -2138561627,
     "BuffTag2": -1409309753
   },
   "4048013": {
     "Id": 4048013,
-    "Name": "【标识buff】颂歌的显示标识buff",
     "GroupId": 4048013,
     "BuffTag1": -2138561627,
     "Icon": "Icon/Buff/Icon_DiscBuff_214048A1",
@@ -12815,7 +12459,6 @@
   },
   "4048021": {
     "Id": 4048021,
-    "Name": "【脚本buff】「赞美诗」：受到火系伤害提升<color=#ec6d21>{3}</color>，持续{4}秒，可叠{5}层。",
     "GroupId": 4048021,
     "BuffTag1": -2138561627,
     "Icon": "Icon/Buff/Icon_DiscBuff_214048B1",
@@ -12823,7 +12466,6 @@
   },
   "4048022": {
     "Id": 4048022,
-    "Name": "【脚本buff】「赞美诗」：受到火系伤害提升<color=#ec6d21>{3}</color>，持续{4}秒，可叠{5}层。",
     "GroupId": 4048022,
     "BuffTag1": -2138561627,
     "Icon": "Icon/Buff/Icon_DiscBuff_214048B1",
@@ -12831,7 +12473,6 @@
   },
   "4048023": {
     "Id": 4048023,
-    "Name": "【脚本buff】「赞美诗」：受到火系伤害提升<color=#ec6d21>{3}</color>，持续{4}秒，可叠{5}层。",
     "GroupId": 4048023,
     "BuffTag1": -2138561627,
     "Icon": "Icon/Buff/Icon_DiscBuff_214048B1",
@@ -12839,7 +12480,6 @@
   },
   "4048024": {
     "Id": 4048024,
-    "Name": "【脚本buff】「赞美诗」：受到火系伤害提升<color=#ec6d21>{3}</color>，持续{4}秒，可叠{5}层。",
     "GroupId": 4048024,
     "BuffTag1": -2138561627,
     "Icon": "Icon/Buff/Icon_DiscBuff_214048B1",
@@ -12847,7 +12487,6 @@
   },
   "4048025": {
     "Id": 4048025,
-    "Name": "【脚本buff】「赞美诗」：受到火系伤害提升<color=#ec6d21>{3}</color>，持续{4}秒，可叠{5}层。",
     "GroupId": 4048025,
     "BuffTag1": -2138561627,
     "Icon": "Icon/Buff/Icon_DiscBuff_214048B1",
@@ -12855,7 +12494,6 @@
   },
   "4048026": {
     "Id": 4048026,
-    "Name": "【脚本buff】「赞美诗」：受到火系伤害提升<color=#ec6d21>{3}</color>，持续{4}秒，可叠{5}层。",
     "GroupId": 4048026,
     "BuffTag1": -2138561627,
     "Icon": "Icon/Buff/Icon_DiscBuff_214048B1",
@@ -12863,37 +12501,31 @@
   },
   "4048101": {
     "Id": 4048101,
-    "Name": "【脚本buff】「赞美诗」获得额外效果：受到火系技能伤害提升<color=#ec6d21>{1}</color>。",
     "GroupId": 4048101,
     "BuffTag1": -2138561627
   },
   "4048102": {
     "Id": 4048102,
-    "Name": "【脚本buff】「赞美诗」获得额外效果：受到火系技能伤害提升<color=#ec6d21>{1}</color>。",
     "GroupId": 4048102,
     "BuffTag1": -2138561627
   },
   "4048103": {
     "Id": 4048103,
-    "Name": "【脚本buff】「赞美诗」获得额外效果：受到火系技能伤害提升<color=#ec6d21>{1}</color>。",
     "GroupId": 4048103,
     "BuffTag1": -2138561627
   },
   "4048104": {
     "Id": 4048104,
-    "Name": "【脚本buff】「赞美诗」获得额外效果：受到火系技能伤害提升<color=#ec6d21>{1}</color>。",
     "GroupId": 4048104,
     "BuffTag1": -2138561627
   },
   "4048105": {
     "Id": 4048105,
-    "Name": "【脚本buff】「赞美诗」获得额外效果：受到火系技能伤害提升<color=#ec6d21>{1}</color>。",
     "GroupId": 4048105,
     "BuffTag1": -2138561627
   },
   "4048121": {
     "Id": 4048121,
-    "Name": "【脚本buff】「颂歌」被转化为「赞美诗」时，队伍中火系角色技能伤害提升<color=#ec6d21>{2}</color>，持续{3}秒，可叠{4}层。",
     "GroupId": 4048121,
     "BuffTag1": -719983267,
     "Icon": "Icon/Buff/Icon_DiscBuff_214048B2",
@@ -12901,7 +12533,6 @@
   },
   "4048122": {
     "Id": 4048122,
-    "Name": "【脚本buff】「颂歌」被转化为「赞美诗」时，队伍中火系角色技能伤害提升<color=#ec6d21>{2}</color>，持续{3}秒，可叠{4}层。",
     "GroupId": 4048122,
     "BuffTag1": -719983267,
     "Icon": "Icon/Buff/Icon_DiscBuff_214048B2",
@@ -12909,7 +12540,6 @@
   },
   "4048123": {
     "Id": 4048123,
-    "Name": "【脚本buff】「颂歌」被转化为「赞美诗」时，队伍中火系角色技能伤害提升<color=#ec6d21>{2}</color>，持续{3}秒，可叠{4}层。",
     "GroupId": 4048123,
     "BuffTag1": -719983267,
     "Icon": "Icon/Buff/Icon_DiscBuff_214048B2",
@@ -12917,7 +12547,6 @@
   },
   "4048124": {
     "Id": 4048124,
-    "Name": "【脚本buff】「颂歌」被转化为「赞美诗」时，队伍中火系角色技能伤害提升<color=#ec6d21>{2}</color>，持续{3}秒，可叠{4}层。",
     "GroupId": 4048124,
     "BuffTag1": -719983267,
     "Icon": "Icon/Buff/Icon_DiscBuff_214048B2",
@@ -12925,7 +12554,6 @@
   },
   "4048125": {
     "Id": 4048125,
-    "Name": "【脚本buff】「颂歌」被转化为「赞美诗」时，队伍中火系角色技能伤害提升<color=#ec6d21>{2}</color>，持续{3}秒，可叠{4}层。",
     "GroupId": 4048125,
     "BuffTag1": -719983267,
     "Icon": "Icon/Buff/Icon_DiscBuff_214048B2",
@@ -12933,109 +12561,91 @@
   },
   "4048201": {
     "Id": 4048201,
-    "Name": "【脚本buff】「颂歌」获得额外效果：降低敌人攻击力<color=#ec6d21>{1}</color>。",
     "GroupId": 4048201,
     "BuffTag1": -2138561627
   },
   "4048202": {
     "Id": 4048202,
-    "Name": "【脚本buff】「颂歌」获得额外效果：降低敌人攻击力<color=#ec6d21>{1}</color>。",
     "GroupId": 4048202,
     "BuffTag1": -2138561627
   },
   "4048203": {
     "Id": 4048203,
-    "Name": "【脚本buff】「颂歌」获得额外效果：降低敌人攻击力<color=#ec6d21>{1}</color>。",
     "GroupId": 4048203,
     "BuffTag1": -2138561627
   },
   "4048204": {
     "Id": 4048204,
-    "Name": "【脚本buff】「颂歌」获得额外效果：降低敌人攻击力<color=#ec6d21>{1}</color>。",
     "GroupId": 4048204,
     "BuffTag1": -2138561627
   },
   "4048205": {
     "Id": 4048205,
-    "Name": "【脚本buff】「颂歌」获得额外效果：降低敌人攻击力<color=#ec6d21>{1}</color>。",
     "GroupId": 4048205,
     "BuffTag1": -2138561627
   },
   "4041021": {
     "Id": 4041021,
-    "Name": "【脚本buff】火系援护角色的仆从在场时，队伍中火系角色召唤的仆从造成的仆从伤害提升<color=#ec6d21>{2}</color>。",
     "GroupId": 4041021,
     "BuffTag1": -719983267
   },
   "4041022": {
     "Id": 4041022,
-    "Name": "【脚本buff】火系援护角色的仆从在场时，队伍中火系角色召唤的仆从造成的仆从伤害提升<color=#ec6d21>{2}</color>。",
     "GroupId": 4041022,
     "BuffTag1": -719983267
   },
   "4041023": {
     "Id": 4041023,
-    "Name": "【脚本buff】火系援护角色的仆从在场时，队伍中火系角色召唤的仆从造成的仆从伤害提升<color=#ec6d21>{2}</color>。",
     "GroupId": 4041023,
     "BuffTag1": -719983267
   },
   "4041024": {
     "Id": 4041024,
-    "Name": "【脚本buff】火系援护角色的仆从在场时，队伍中火系角色召唤的仆从造成的仆从伤害提升<color=#ec6d21>{2}</color>。",
     "GroupId": 4041024,
     "BuffTag1": -719983267
   },
   "4041025": {
     "Id": 4041025,
-    "Name": "【脚本buff】火系援护角色的仆从在场时，队伍中火系角色召唤的仆从造成的仆从伤害提升<color=#ec6d21>{2}</color>。",
     "GroupId": 4041025,
     "BuffTag1": -719983267
   },
   "4041026": {
     "Id": 4041026,
-    "Name": "【脚本buff】火系援护角色的仆从在场时，队伍中火系角色召唤的仆从造成的仆从伤害提升<color=#ec6d21>{2}</color>。",
     "GroupId": 4041026,
     "BuffTag1": -719983267
   },
   "4041201": {
     "Id": 4041201,
-    "Name": "【脚本buff】至少2只火系角色的仆从在场时，队伍中火系角色造成的绝招伤害提升<color=#ec6d21>{1}</color>。",
     "GroupId": 4041201,
     "BuffTag1": -719983267
   },
   "4041202": {
     "Id": 4041202,
-    "Name": "【脚本buff】至少2只火系角色的仆从在场时，队伍中火系角色造成的绝招伤害提升<color=#ec6d21>{1}</color>。",
     "GroupId": 4041202,
     "BuffTag1": -719983267
   },
   "4041203": {
     "Id": 4041203,
-    "Name": "【脚本buff】至少2只火系角色的仆从在场时，队伍中火系角色造成的绝招伤害提升<color=#ec6d21>{1}</color>。",
     "GroupId": 4041203,
     "BuffTag1": -719983267
   },
   "4041204": {
     "Id": 4041204,
-    "Name": "【脚本buff】至少2只火系角色的仆从在场时，队伍中火系角色造成的绝招伤害提升<color=#ec6d21>{1}</color>。",
     "GroupId": 4041204,
     "BuffTag1": -719983267
   },
   "4041205": {
     "Id": 4041205,
-    "Name": "【脚本buff】至少2只火系角色的仆从在场时，队伍中火系角色造成的绝招伤害提升<color=#ec6d21>{1}</color>。",
     "GroupId": 4041205,
     "BuffTag1": -719983267
   },
   "4044020": {
     "Id": 4044020,
-    "Name": "【标识buff】春华",
     "GroupId": 4044020,
     "BuffTag1": -2138561627
   },
   "4044021": {
     "Id": 4044021,
-    "Name": "【脚本buff】地系均衡角色造成技能伤害时，为目标附加「春华」：受到地系技能伤害提升<color=#ec6d21>{2}</color>，持续{3}秒。",
     "GroupId": 4044021,
     "BuffTag1": -2138561627,
     "Icon": "Icon/Buff/Icon_DiscBuff_214044",
@@ -13043,7 +12653,6 @@
   },
   "4044022": {
     "Id": 4044022,
-    "Name": "【脚本buff】地系均衡角色造成技能伤害时，为目标附加「春华」：受到地系技能伤害提升<color=#ec6d21>{2}</color>，持续{3}秒。",
     "GroupId": 4044022,
     "BuffTag1": -2138561627,
     "Icon": "Icon/Buff/Icon_DiscBuff_214044",
@@ -13051,7 +12660,6 @@
   },
   "4044023": {
     "Id": 4044023,
-    "Name": "【脚本buff】地系均衡角色造成技能伤害时，为目标附加「春华」：受到地系技能伤害提升<color=#ec6d21>{2}</color>，持续{3}秒。",
     "GroupId": 4044023,
     "BuffTag1": -2138561627,
     "Icon": "Icon/Buff/Icon_DiscBuff_214044",
@@ -13059,7 +12667,6 @@
   },
   "4044024": {
     "Id": 4044024,
-    "Name": "【脚本buff】地系均衡角色造成技能伤害时，为目标附加「春华」：受到地系技能伤害提升<color=#ec6d21>{2}</color>，持续{3}秒。",
     "GroupId": 4044024,
     "BuffTag1": -2138561627,
     "Icon": "Icon/Buff/Icon_DiscBuff_214044",
@@ -13067,7 +12674,6 @@
   },
   "4044025": {
     "Id": 4044025,
-    "Name": "【脚本buff】地系均衡角色造成技能伤害时，为目标附加「春华」：受到地系技能伤害提升<color=#ec6d21>{2}</color>，持续{3}秒。",
     "GroupId": 4044025,
     "BuffTag1": -2138561627,
     "Icon": "Icon/Buff/Icon_DiscBuff_214044",
@@ -13075,7 +12681,6 @@
   },
   "4044026": {
     "Id": 4044026,
-    "Name": "【脚本buff】地系均衡角色造成技能伤害时，为目标附加「春华」：受到地系技能伤害提升<color=#ec6d21>{2}</color>，持续{3}秒。",
     "GroupId": 4044026,
     "BuffTag1": -2138561627,
     "Icon": "Icon/Buff/Icon_DiscBuff_214044",
@@ -13083,163 +12688,136 @@
   },
   "4044101": {
     "Id": 4044101,
-    "Name": "【脚本buff】地系均衡角色技能暴击伤害提升<color=#ec6d21>{1}</color>。",
     "GroupId": 4044101,
     "BuffTag1": -719983267
   },
   "4044102": {
     "Id": 4044102,
-    "Name": "【脚本buff】地系均衡角色技能暴击伤害提升<color=#ec6d21>{1}</color>。",
     "GroupId": 4044102,
     "BuffTag1": -719983267
   },
   "4044103": {
     "Id": 4044103,
-    "Name": "【脚本buff】地系均衡角色技能暴击伤害提升<color=#ec6d21>{1}</color>。",
     "GroupId": 4044103,
     "BuffTag1": -719983267
   },
   "4044104": {
     "Id": 4044104,
-    "Name": "【脚本buff】地系均衡角色技能暴击伤害提升<color=#ec6d21>{1}</color>。",
     "GroupId": 4044104,
     "BuffTag1": -719983267
   },
   "4044105": {
     "Id": 4044105,
-    "Name": "【脚本buff】地系均衡角色技能暴击伤害提升<color=#ec6d21>{1}</color>。",
     "GroupId": 4044105,
     "BuffTag1": -719983267
   },
   "4044201": {
     "Id": 4044201,
-    "Name": "【脚本buff】地系主控角色对附带「春华」的目标累计造成{1}次技能伤害后，队伍中地系角色技能伤害提升<color=#ec6d21>{2}</color>，持续{3}秒。",
     "GroupId": 4044201,
     "BuffTag1": -719983267
   },
   "4044202": {
     "Id": 4044202,
-    "Name": "【脚本buff】地系主控角色对附带「春华」的目标累计造成{1}次技能伤害后，队伍中地系角色技能伤害提升<color=#ec6d21>{2}</color>，持续{3}秒。",
     "GroupId": 4044202,
     "BuffTag1": -719983267
   },
   "4044203": {
     "Id": 4044203,
-    "Name": "【脚本buff】地系主控角色对附带「春华」的目标累计造成{1}次技能伤害后，队伍中地系角色技能伤害提升<color=#ec6d21>{2}</color>，持续{3}秒。",
     "GroupId": 4044203,
     "BuffTag1": -719983267
   },
   "4044204": {
     "Id": 4044204,
-    "Name": "【脚本buff】地系主控角色对附带「春华」的目标累计造成{1}次技能伤害后，队伍中地系角色技能伤害提升<color=#ec6d21>{2}</color>，持续{3}秒。",
     "GroupId": 4044204,
     "BuffTag1": -719983267
   },
   "4044205": {
     "Id": 4044205,
-    "Name": "【脚本buff】地系主控角色对附带「春华」的目标累计造成{1}次技能伤害后，队伍中地系角色技能伤害提升<color=#ec6d21>{2}</color>，持续{3}秒。",
     "GroupId": 4044205,
     "BuffTag1": -719983267
   },
   "4042021": {
     "Id": 4042021,
-    "Name": "【脚本buff】地系均衡角色造成技能伤害时，该效果额外提升<color=#ec6d21>{2}</color>，持续{3}秒。",
     "GroupId": 4042021,
     "BuffTag1": -719983267
   },
   "4042022": {
     "Id": 4042022,
-    "Name": "【脚本buff】地系均衡角色造成技能伤害时，该效果额外提升<color=#ec6d21>{2}</color>，持续{3}秒。",
     "GroupId": 4042022,
     "BuffTag1": -719983267
   },
   "4042023": {
     "Id": 4042023,
-    "Name": "【脚本buff】地系均衡角色造成技能伤害时，该效果额外提升<color=#ec6d21>{2}</color>，持续{3}秒。",
     "GroupId": 4042023,
     "BuffTag1": -719983267
   },
   "4042024": {
     "Id": 4042024,
-    "Name": "【脚本buff】地系均衡角色造成技能伤害时，该效果额外提升<color=#ec6d21>{2}</color>，持续{3}秒。",
     "GroupId": 4042024,
     "BuffTag1": -719983267
   },
   "4042025": {
     "Id": 4042025,
-    "Name": "【脚本buff】地系均衡角色造成技能伤害时，该效果额外提升<color=#ec6d21>{2}</color>，持续{3}秒。",
     "GroupId": 4042025,
     "BuffTag1": -719983267
   },
   "4042026": {
     "Id": 4042026,
-    "Name": "【脚本buff】地系均衡角色造成技能伤害时，该效果额外提升<color=#ec6d21>{2}</color>，持续{3}秒。",
     "GroupId": 4042026,
     "BuffTag1": -719983267
   },
   "4042101": {
     "Id": 4042101,
-    "Name": "【脚本buff】地系均衡角色攻击力提升<color=#ec6d21>{1}</color>。",
     "GroupId": 4042101,
     "BuffTag1": -719983267
   },
   "4042102": {
     "Id": 4042102,
-    "Name": "【脚本buff】地系均衡角色攻击力提升<color=#ec6d21>{1}</color>。",
     "GroupId": 4042102,
     "BuffTag1": -719983267
   },
   "4042103": {
     "Id": 4042103,
-    "Name": "【脚本buff】地系均衡角色攻击力提升<color=#ec6d21>{1}</color>。",
     "GroupId": 4042103,
     "BuffTag1": -719983267
   },
   "4042104": {
     "Id": 4042104,
-    "Name": "【脚本buff】地系均衡角色攻击力提升<color=#ec6d21>{1}</color>。",
     "GroupId": 4042104,
     "BuffTag1": -719983267
   },
   "4042105": {
     "Id": 4042105,
-    "Name": "【脚本buff】地系均衡角色攻击力提升<color=#ec6d21>{1}</color>。",
     "GroupId": 4042105,
     "BuffTag1": -719983267
   },
   "4042201": {
     "Id": 4042201,
-    "Name": "【脚本buff】地系主控角色累计造成{1}次伤害后，自身攻击力提升<color=#ec6d21>{2}</color>，持续{3}秒。",
     "GroupId": 4042201,
     "BuffTag1": -719983267
   },
   "4042202": {
     "Id": 4042202,
-    "Name": "【脚本buff】地系主控角色累计造成{1}次伤害后，自身攻击力提升<color=#ec6d21>{2}</color>，持续{3}秒。",
     "GroupId": 4042202,
     "BuffTag1": -719983267
   },
   "4042203": {
     "Id": 4042203,
-    "Name": "【脚本buff】地系主控角色累计造成{1}次伤害后，自身攻击力提升<color=#ec6d21>{2}</color>，持续{3}秒。",
     "GroupId": 4042203,
     "BuffTag1": -719983267
   },
   "4042204": {
     "Id": 4042204,
-    "Name": "【脚本buff】地系主控角色累计造成{1}次伤害后，自身攻击力提升<color=#ec6d21>{2}</color>，持续{3}秒。",
     "GroupId": 4042204,
     "BuffTag1": -719983267
   },
   "4042205": {
     "Id": 4042205,
-    "Name": "【脚本buff】地系主控角色累计造成{1}次伤害后，自身攻击力提升<color=#ec6d21>{2}</color>，持续{3}秒。",
     "GroupId": 4042205,
     "BuffTag1": -719983267
   },
   "4016000": {
     "Id": 4016000,
-    "Name": "【标识buff】浮雪",
     "GroupId": 4016000,
     "BuffTag1": -719983267,
     "Icon": "Icon/Buff/Icon_DiscBuff_214016",
@@ -13247,7 +12825,6 @@
   },
   "4016001": {
     "Id": 4016001,
-    "Name": "【脚本buff】风系主控角色造成普攻伤害时，每层「浮雪」为目标附加：受到风系普攻伤害提升<color=#ec6d21>{1}</color>，持续{2}秒",
     "GroupId": 4016001,
     "BuffTag1": -2138561627,
     "Icon": "Icon/Buff/Icon_CommonBuff_DefenseDown",
@@ -13255,7 +12832,6 @@
   },
   "4016002": {
     "Id": 4016002,
-    "Name": "【脚本buff】风系主控角色造成普攻伤害时，每层「浮雪」为目标附加：受到风系普攻伤害提升<color=#ec6d21>{1}</color>，持续{2}秒",
     "GroupId": 4016002,
     "BuffTag1": -2138561627,
     "Icon": "Icon/Buff/Icon_CommonBuff_DefenseDown",
@@ -13263,7 +12839,6 @@
   },
   "4016003": {
     "Id": 4016003,
-    "Name": "【脚本buff】风系主控角色造成普攻伤害时，每层「浮雪」为目标附加：受到风系普攻伤害提升<color=#ec6d21>{1}</color>，持续{2}秒",
     "GroupId": 4016003,
     "BuffTag1": -2138561627,
     "Icon": "Icon/Buff/Icon_CommonBuff_DefenseDown",
@@ -13271,7 +12846,6 @@
   },
   "4016004": {
     "Id": 4016004,
-    "Name": "【脚本buff】风系主控角色造成普攻伤害时，每层「浮雪」为目标附加：受到风系普攻伤害提升<color=#ec6d21>{1}</color>，持续{2}秒",
     "GroupId": 4016004,
     "BuffTag1": -2138561627,
     "Icon": "Icon/Buff/Icon_CommonBuff_DefenseDown",
@@ -13279,7 +12853,6 @@
   },
   "4016005": {
     "Id": 4016005,
-    "Name": "【脚本buff】风系主控角色造成普攻伤害时，每层「浮雪」为目标附加：受到风系普攻伤害提升<color=#ec6d21>{1}</color>，持续{2}秒",
     "GroupId": 4016005,
     "BuffTag1": -2138561627,
     "Icon": "Icon/Buff/Icon_CommonBuff_DefenseDown",
@@ -13287,7 +12860,6 @@
   },
   "4016006": {
     "Id": 4016006,
-    "Name": "【脚本buff】风系主控角色造成普攻伤害时，每层「浮雪」为目标附加：受到风系普攻伤害提升<color=#ec6d21>{1}</color>，持续{2}秒",
     "GroupId": 4016006,
     "BuffTag1": -2138561627,
     "Icon": "Icon/Buff/Icon_CommonBuff_DefenseDown",
@@ -13295,7 +12867,6 @@
   },
   "4016021": {
     "Id": 4016021,
-    "Name": "【脚本buff】风系主控角色造成技能伤害时，每层「浮雪」为目标附加：受到风系技能伤害提升<color=#ec6d21>{3}</color>，持续{4}秒",
     "GroupId": 4016021,
     "BuffTag1": -2138561627,
     "Icon": "Icon/Buff/Icon_CommonBuff_DefenseDown",
@@ -13303,7 +12874,6 @@
   },
   "4016022": {
     "Id": 4016022,
-    "Name": "【脚本buff】风系主控角色造成技能伤害时，每层「浮雪」为目标附加：受到风系技能伤害提升<color=#ec6d21>{3}</color>，持续{4}秒",
     "GroupId": 4016022,
     "BuffTag1": -2138561627,
     "Icon": "Icon/Buff/Icon_CommonBuff_DefenseDown",
@@ -13311,7 +12881,6 @@
   },
   "4016023": {
     "Id": 4016023,
-    "Name": "【脚本buff】风系主控角色造成技能伤害时，每层「浮雪」为目标附加：受到风系技能伤害提升<color=#ec6d21>{3}</color>，持续{4}秒",
     "GroupId": 4016023,
     "BuffTag1": -2138561627,
     "Icon": "Icon/Buff/Icon_CommonBuff_DefenseDown",
@@ -13319,7 +12888,6 @@
   },
   "4016024": {
     "Id": 4016024,
-    "Name": "【脚本buff】风系主控角色造成技能伤害时，每层「浮雪」为目标附加：受到风系技能伤害提升<color=#ec6d21>{3}</color>，持续{4}秒",
     "GroupId": 4016024,
     "BuffTag1": -2138561627,
     "Icon": "Icon/Buff/Icon_CommonBuff_DefenseDown",
@@ -13327,7 +12895,6 @@
   },
   "4016025": {
     "Id": 4016025,
-    "Name": "【脚本buff】风系主控角色造成技能伤害时，每层「浮雪」为目标附加：受到风系技能伤害提升<color=#ec6d21>{3}</color>，持续{4}秒",
     "GroupId": 4016025,
     "BuffTag1": -2138561627,
     "Icon": "Icon/Buff/Icon_CommonBuff_DefenseDown",
@@ -13335,7 +12902,6 @@
   },
   "4016026": {
     "Id": 4016026,
-    "Name": "【脚本buff】风系主控角色造成技能伤害时，每层「浮雪」为目标附加：受到风系技能伤害提升<color=#ec6d21>{3}</color>，持续{4}秒",
     "GroupId": 4016026,
     "BuffTag1": -2138561627,
     "Icon": "Icon/Buff/Icon_CommonBuff_DefenseDown",
@@ -13343,67 +12909,56 @@
   },
   "4016121": {
     "Id": 4016121,
-    "Name": "【脚本buff】「浮雪」获得额外效果：普攻暴击伤害提升<color=#ec6d21>{1}</color>。",
     "GroupId": 4016121,
     "BuffTag1": -719983267
   },
   "4016122": {
     "Id": 4016122,
-    "Name": "【脚本buff】「浮雪」获得额外效果：普攻暴击伤害提升<color=#ec6d21>{1}</color>。",
     "GroupId": 4016122,
     "BuffTag1": -719983267
   },
   "4016123": {
     "Id": 4016123,
-    "Name": "【脚本buff】「浮雪」获得额外效果：普攻暴击伤害提升<color=#ec6d21>{1}</color>。",
     "GroupId": 4016123,
     "BuffTag1": -719983267
   },
   "4016124": {
     "Id": 4016124,
-    "Name": "【脚本buff】「浮雪」获得额外效果：普攻暴击伤害提升<color=#ec6d21>{1}</color>。",
     "GroupId": 4016124,
     "BuffTag1": -719983267
   },
   "4016125": {
     "Id": 4016125,
-    "Name": "【脚本buff】「浮雪」获得额外效果：普攻暴击伤害提升<color=#ec6d21>{1}</color>。",
     "GroupId": 4016125,
     "BuffTag1": -719983267
   },
   "4016201": {
     "Id": 4016201,
-    "Name": "【脚本buff】「浮雪」获得额外效果：技能伤害提升<color=#ec6d21>{1}</color>。",
     "GroupId": 4016201,
     "BuffTag1": -719983267
   },
   "4016202": {
     "Id": 4016202,
-    "Name": "【脚本buff】「浮雪」获得额外效果：技能伤害提升<color=#ec6d21>{1}</color>。",
     "GroupId": 4016202,
     "BuffTag1": -719983267
   },
   "4016203": {
     "Id": 4016203,
-    "Name": "【脚本buff】「浮雪」获得额外效果：技能伤害提升<color=#ec6d21>{1}</color>。",
     "GroupId": 4016203,
     "BuffTag1": -719983267
   },
   "4016204": {
     "Id": 4016204,
-    "Name": "【脚本buff】「浮雪」获得额外效果：技能伤害提升<color=#ec6d21>{1}</color>。",
     "GroupId": 4016204,
     "BuffTag1": -719983267
   },
   "4016205": {
     "Id": 4016205,
-    "Name": "【脚本buff】「浮雪」获得额外效果：技能伤害提升<color=#ec6d21>{1}</color>。",
     "GroupId": 4016205,
     "BuffTag1": -719983267
   },
   "4046001": {
     "Id": 4046001,
-    "Name": "【标识buff】凌寒",
     "GroupId": 4046001,
     "BuffTag1": -719983267,
     "Icon": "Icon/Buff/Icon_DiscBuff_214046",
@@ -13411,7 +12966,6 @@
   },
   "4046002": {
     "Id": 4046002,
-    "Name": "【标识buff】凌寒",
     "GroupId": 4046002,
     "BuffTag1": -719983267,
     "Icon": "Icon/Buff/Icon_DiscBuff_214046",
@@ -13419,7 +12973,6 @@
   },
   "4046003": {
     "Id": 4046003,
-    "Name": "【标识buff】凌寒",
     "GroupId": 4046003,
     "BuffTag1": -719983267,
     "Icon": "Icon/Buff/Icon_DiscBuff_214046",
@@ -13427,7 +12980,6 @@
   },
   "4046004": {
     "Id": 4046004,
-    "Name": "【标识buff】凌寒",
     "GroupId": 4046004,
     "BuffTag1": -719983267,
     "Icon": "Icon/Buff/Icon_DiscBuff_214046",
@@ -13435,7 +12987,6 @@
   },
   "4046005": {
     "Id": 4046005,
-    "Name": "【标识buff】凌寒",
     "GroupId": 4046005,
     "BuffTag1": -719983267,
     "Icon": "Icon/Buff/Icon_DiscBuff_214046",
@@ -13443,7 +12994,6 @@
   },
   "4046006": {
     "Id": 4046006,
-    "Name": "【标识buff】凌寒",
     "GroupId": 4046006,
     "BuffTag1": -719983267,
     "Icon": "Icon/Buff/Icon_DiscBuff_214046",
@@ -13451,72 +13001,330 @@
   },
   "4046121": {
     "Id": 4046121,
-    "Name": "【脚本buff】「凌寒」获得额外效果：每层攻击力提升<color=#ec6d21>{1}</color>。",
     "GroupId": 4046121,
     "BuffTag1": -719983267
   },
   "4046122": {
     "Id": 4046122,
-    "Name": "【脚本buff】「凌寒」获得额外效果：每层攻击力提升<color=#ec6d21>{1}</color>。",
     "GroupId": 4046122,
     "BuffTag1": -719983267
   },
   "4046123": {
     "Id": 4046123,
-    "Name": "【脚本buff】「凌寒」获得额外效果：每层攻击力提升<color=#ec6d21>{1}</color>。",
     "GroupId": 4046123,
     "BuffTag1": -719983267
   },
   "4046124": {
     "Id": 4046124,
-    "Name": "【脚本buff】「凌寒」获得额外效果：每层攻击力提升<color=#ec6d21>{1}</color>。",
     "GroupId": 4046124,
     "BuffTag1": -719983267
   },
   "4046125": {
     "Id": 4046125,
-    "Name": "【脚本buff】「凌寒」获得额外效果：每层攻击力提升<color=#ec6d21>{1}</color>。",
     "GroupId": 4046125,
     "BuffTag1": -719983267
   },
   "4046201": {
     "Id": 4046201,
-    "Name": "【脚本buff】「凌寒」获得额外效果：每层风系伤害提升<color=#ec6d21>{1}</color>。",
     "GroupId": 4046201,
     "BuffTag1": -719983267
   },
   "4046202": {
     "Id": 4046202,
-    "Name": "【脚本buff】「凌寒」获得额外效果：每层风系伤害提升<color=#ec6d21>{1}</color>。",
     "GroupId": 4046202,
     "BuffTag1": -719983267
   },
   "4046203": {
     "Id": 4046203,
-    "Name": "【脚本buff】「凌寒」获得额外效果：每层风系伤害提升<color=#ec6d21>{1}</color>。",
     "GroupId": 4046203,
     "BuffTag1": -719983267
   },
   "4046204": {
     "Id": 4046204,
-    "Name": "【脚本buff】「凌寒」获得额外效果：每层风系伤害提升<color=#ec6d21>{1}</color>。",
     "GroupId": 4046204,
     "BuffTag1": -719983267
   },
   "4046205": {
     "Id": 4046205,
-    "Name": "【脚本buff】「凌寒」获得额外效果：每层风系伤害提升<color=#ec6d21>{1}</color>。",
     "GroupId": 4046205,
+    "BuffTag1": -719983267
+  },
+  "4008000": {
+    "Id": 4008000,
+    "GroupId": 4008000,
+    "BuffTag1": -2138561627,
+    "Icon": "Icon/Buff/Icon_DiscBuff_214008",
+    "IsShow": true
+  },
+  "4047000": {
+    "Id": 4047000,
+    "GroupId": 4047000,
+    "BuffTag1": -719983267,
+    "Icon": "Icon/Buff/Icon_DiscBuff_214047",
+    "IsShow": true
+  },
+  "4045000": {
+    "Id": 4045000,
+    "GroupId": 4045000,
+    "BuffTag1": -2138561627,
+    "Icon": "Icon/Buff/Icon_DiscBuff_214045_1",
+    "IsShow": true
+  },
+  "4045101": {
+    "Id": 4045101,
+    "GroupId": 4045101,
+    "BuffTag1": -719983267
+  },
+  "4045102": {
+    "Id": 4045102,
+    "GroupId": 4045102,
+    "BuffTag1": -719983267
+  },
+  "4045103": {
+    "Id": 4045103,
+    "GroupId": 4045103,
+    "BuffTag1": -719983267
+  },
+  "4045104": {
+    "Id": 4045104,
+    "GroupId": 4045104,
+    "BuffTag1": -719983267
+  },
+  "4045105": {
+    "Id": 4045105,
+    "GroupId": 4045105,
+    "BuffTag1": -719983267
+  },
+  "4045121": {
+    "Id": 4045121,
+    "GroupId": 4045121,
+    "BuffTag1": -2138561627,
+    "Icon": "Icon/Buff/Icon_CommonBuff_DefenseDown",
+    "IsShow": true
+  },
+  "4045122": {
+    "Id": 4045122,
+    "GroupId": 4045122,
+    "BuffTag1": -2138561627,
+    "Icon": "Icon/Buff/Icon_CommonBuff_DefenseDown",
+    "IsShow": true
+  },
+  "4045123": {
+    "Id": 4045123,
+    "GroupId": 4045123,
+    "BuffTag1": -2138561627,
+    "Icon": "Icon/Buff/Icon_CommonBuff_DefenseDown",
+    "IsShow": true
+  },
+  "4045124": {
+    "Id": 4045124,
+    "GroupId": 4045124,
+    "BuffTag1": -2138561627,
+    "Icon": "Icon/Buff/Icon_CommonBuff_DefenseDown",
+    "IsShow": true
+  },
+  "4045125": {
+    "Id": 4045125,
+    "GroupId": 4045125,
+    "BuffTag1": -2138561627,
+    "Icon": "Icon/Buff/Icon_CommonBuff_DefenseDown",
+    "IsShow": true
+  },
+  "4045200": {
+    "Id": 4045200,
+    "GroupId": 4045200,
+    "BuffTag1": -719983267,
+    "Icon": "Icon/Buff/Icon_DiscBuff_214045_2",
+    "IsShow": true
+  },
+  "4045201": {
+    "Id": 4045201,
+    "GroupId": 4045201,
+    "BuffTag1": -719983267
+  },
+  "4045202": {
+    "Id": 4045202,
+    "GroupId": 4045202,
+    "BuffTag1": -719983267
+  },
+  "4045203": {
+    "Id": 4045203,
+    "GroupId": 4045203,
+    "BuffTag1": -719983267
+  },
+  "4045204": {
+    "Id": 4045204,
+    "GroupId": 4045204,
+    "BuffTag1": -719983267
+  },
+  "4045205": {
+    "Id": 4045205,
+    "GroupId": 4045205,
+    "BuffTag1": -719983267
+  },
+  "4045221": {
+    "Id": 4045221,
+    "GroupId": 4045221,
+    "BuffTag1": -719983267
+  },
+  "4045222": {
+    "Id": 4045222,
+    "GroupId": 4045222,
+    "BuffTag1": -719983267
+  },
+  "4045223": {
+    "Id": 4045223,
+    "GroupId": 4045223,
+    "BuffTag1": -719983267
+  },
+  "4045224": {
+    "Id": 4045224,
+    "GroupId": 4045224,
+    "BuffTag1": -719983267
+  },
+  "4045225": {
+    "Id": 4045225,
+    "GroupId": 4045225,
+    "BuffTag1": -719983267
+  },
+  "4050000": {
+    "Id": 4050000,
+    "GroupId": 4050000,
+    "BuffTag1": -719983267,
+    "Icon": "Icon/Buff/Icon_DiscBuff_214050",
+    "IsShow": true
+  },
+  "4050101": {
+    "Id": 4050101,
+    "GroupId": 4050101,
+    "BuffTag1": -719983267
+  },
+  "4050102": {
+    "Id": 4050102,
+    "GroupId": 4050102,
+    "BuffTag1": -719983267
+  },
+  "4050103": {
+    "Id": 4050103,
+    "GroupId": 4050103,
+    "BuffTag1": -719983267
+  },
+  "4050104": {
+    "Id": 4050104,
+    "GroupId": 4050104,
+    "BuffTag1": -719983267
+  },
+  "4050105": {
+    "Id": 4050105,
+    "GroupId": 4050105,
+    "BuffTag1": -719983267
+  },
+  "4050121": {
+    "Id": 4050121,
+    "GroupId": 4050121,
+    "BuffTag1": -719983267
+  },
+  "4050122": {
+    "Id": 4050122,
+    "GroupId": 4050122,
+    "BuffTag1": -719983267
+  },
+  "4050123": {
+    "Id": 4050123,
+    "GroupId": 4050123,
+    "BuffTag1": -719983267
+  },
+  "4050124": {
+    "Id": 4050124,
+    "GroupId": 4050124,
+    "BuffTag1": -719983267
+  },
+  "4050125": {
+    "Id": 4050125,
+    "GroupId": 4050125,
+    "BuffTag1": -719983267
+  },
+  "4050141": {
+    "Id": 4050141,
+    "GroupId": 4050141,
+    "BuffTag1": -719983267
+  },
+  "4050142": {
+    "Id": 4050142,
+    "GroupId": 4050142,
+    "BuffTag1": -719983267
+  },
+  "4050143": {
+    "Id": 4050143,
+    "GroupId": 4050143,
+    "BuffTag1": -719983267
+  },
+  "4050144": {
+    "Id": 4050144,
+    "GroupId": 4050144,
+    "BuffTag1": -719983267
+  },
+  "4050145": {
+    "Id": 4050145,
+    "GroupId": 4050145,
+    "BuffTag1": -719983267
+  },
+  "4050201": {
+    "Id": 4050201,
+    "GroupId": 4050201,
+    "BuffTag1": -719983267
+  },
+  "4050202": {
+    "Id": 4050202,
+    "GroupId": 4050202,
+    "BuffTag1": -719983267
+  },
+  "4050203": {
+    "Id": 4050203,
+    "GroupId": 4050203,
+    "BuffTag1": -719983267
+  },
+  "4050204": {
+    "Id": 4050204,
+    "GroupId": 4050204,
+    "BuffTag1": -719983267
+  },
+  "4050205": {
+    "Id": 4050205,
+    "GroupId": 4050205,
+    "BuffTag1": -719983267
+  },
+  "4050221": {
+    "Id": 4050221,
+    "GroupId": 4050221,
+    "BuffTag1": -719983267
+  },
+  "4050222": {
+    "Id": 4050222,
+    "GroupId": 4050222,
+    "BuffTag1": -719983267
+  },
+  "4050223": {
+    "Id": 4050223,
+    "GroupId": 4050223,
+    "BuffTag1": -719983267
+  },
+  "4050224": {
+    "Id": 4050224,
+    "GroupId": 4050224,
+    "BuffTag1": -719983267
+  },
+  "4050225": {
+    "Id": 4050225,
+    "GroupId": 4050225,
     "BuffTag1": -719983267
   },
   "1": {
     "Id": 1,
-    "Name": "占位",
     "GroupId": 1
   },
   "10001": {
     "Id": 10001,
-    "Name": "水神祝福",
     "GroupId": 100,
     "BuffTag1": 1158049483,
     "BuffTag2": 686801844,
@@ -13525,7 +13333,6 @@
   },
   "10002": {
     "Id": 10002,
-    "Name": "水神祝福",
     "GroupId": 101,
     "BuffTag1": 1158049483,
     "BuffTag2": 686801844,
@@ -13534,7 +13341,6 @@
   },
   "10003": {
     "Id": 10003,
-    "Name": "水神祝福",
     "GroupId": 101,
     "BuffTag1": 1158049483,
     "BuffTag2": 686801844,
@@ -13543,7 +13349,6 @@
   },
   "90001": {
     "Id": 90001,
-    "Name": "攻击百分比",
     "GroupId": 102,
     "BuffTag1": 1158049483,
     "BuffTag2": 686801844,
@@ -13552,7 +13357,6 @@
   },
   "90002": {
     "Id": 90002,
-    "Name": "攻击绝对值",
     "GroupId": 103,
     "BuffTag1": 1158049483,
     "BuffTag2": 686801844,
@@ -13561,7 +13365,6 @@
   },
   "90003": {
     "Id": 90003,
-    "Name": "基础物理防御",
     "GroupId": 104,
     "BuffTag1": 1158049483,
     "BuffTag2": 686801844,
@@ -13570,7 +13373,6 @@
   },
   "90004": {
     "Id": 90004,
-    "Name": "物理防御百分比",
     "GroupId": 105,
     "BuffTag1": 1158049483,
     "BuffTag2": 686801844,
@@ -13579,7 +13381,6 @@
   },
   "90005": {
     "Id": 90005,
-    "Name": "物理防御绝对值",
     "GroupId": 106,
     "BuffTag1": 1158049483,
     "BuffTag2": 686801844,
@@ -13588,7 +13389,6 @@
   },
   "90006": {
     "Id": 90006,
-    "Name": "基础法术防御",
     "GroupId": 107,
     "BuffTag1": 1158049483,
     "BuffTag2": 686801844,
@@ -13597,7 +13397,6 @@
   },
   "90007": {
     "Id": 90007,
-    "Name": "法术防御百分比",
     "GroupId": 108,
     "BuffTag1": 1158049483,
     "BuffTag2": 686801844,
@@ -13606,7 +13405,6 @@
   },
   "90008": {
     "Id": 90008,
-    "Name": "法术防御绝对值",
     "GroupId": 109,
     "BuffTag1": 1158049483,
     "BuffTag2": 686801844,
@@ -13615,7 +13413,6 @@
   },
   "90009": {
     "Id": 90009,
-    "Name": "基础命中率",
     "GroupId": 110,
     "BuffTag1": 1158049483,
     "BuffTag2": 686801844,
@@ -13624,7 +13421,6 @@
   },
   "90010": {
     "Id": 90010,
-    "Name": "基础回避率",
     "GroupId": 111,
     "BuffTag1": 1158049483,
     "BuffTag2": 686801844,
@@ -13633,7 +13429,6 @@
   },
   "90011": {
     "Id": 90011,
-    "Name": "基础暴击率",
     "GroupId": 112,
     "BuffTag1": 1158049483,
     "BuffTag2": 686801844,
@@ -13642,7 +13437,6 @@
   },
   "90012": {
     "Id": 90012,
-    "Name": "基础暴击抵抗率",
     "GroupId": 113,
     "BuffTag1": 1158049483,
     "BuffTag2": 686801844,
@@ -13651,7 +13445,6 @@
   },
   "90013": {
     "Id": 90013,
-    "Name": "暴击伤害百分比",
     "GroupId": 114,
     "BuffTag1": 1158049483,
     "BuffTag2": 686801844,
@@ -13660,7 +13453,6 @@
   },
   "90014": {
     "Id": 90014,
-    "Name": "普攻施法速度百分比",
     "GroupId": 115,
     "BuffTag1": 1158049483,
     "BuffTag2": 686801844,
@@ -13669,7 +13461,6 @@
   },
   "90015": {
     "Id": 90015,
-    "Name": "穿透值",
     "GroupId": 116,
     "BuffTag1": 1158049483,
     "BuffTag2": 686801844,
@@ -13678,7 +13469,6 @@
   },
   "90016": {
     "Id": 90016,
-    "Name": "水元素抗性",
     "GroupId": 117,
     "BuffTag1": 1158049483,
     "BuffTag2": 686801844,
@@ -13687,7 +13477,6 @@
   },
   "90017": {
     "Id": 90017,
-    "Name": "火元素抗性",
     "GroupId": 118,
     "BuffTag1": 1158049483,
     "BuffTag2": 686801844,
@@ -13696,7 +13485,6 @@
   },
   "90018": {
     "Id": 90018,
-    "Name": "土元素抗性",
     "GroupId": 119,
     "BuffTag1": 1158049483,
     "BuffTag2": 686801844,
@@ -13705,7 +13493,6 @@
   },
   "90019": {
     "Id": 90019,
-    "Name": "风元素抗性",
     "GroupId": 120,
     "BuffTag1": 1158049483,
     "BuffTag2": 686801844,
@@ -13714,7 +13501,6 @@
   },
   "90020": {
     "Id": 90020,
-    "Name": "光元素抗性",
     "GroupId": 121,
     "BuffTag1": 1158049483,
     "BuffTag2": 686801844,
@@ -13723,7 +13509,6 @@
   },
   "90021": {
     "Id": 90021,
-    "Name": "暗元素抗性",
     "GroupId": 122,
     "BuffTag1": 1158049483,
     "BuffTag2": 686801844,
@@ -13732,7 +13517,6 @@
   },
   "90022": {
     "Id": 90022,
-    "Name": "水元素专精",
     "GroupId": 123,
     "BuffTag1": 1158049483,
     "BuffTag2": 686801844,
@@ -13741,7 +13525,6 @@
   },
   "90023": {
     "Id": 90023,
-    "Name": "火元素专精",
     "GroupId": 124,
     "BuffTag1": 1158049483,
     "BuffTag2": 686801844,
@@ -13750,7 +13533,6 @@
   },
   "90024": {
     "Id": 90024,
-    "Name": "土元素专精",
     "GroupId": 125,
     "BuffTag1": 1158049483,
     "BuffTag2": 686801844,
@@ -13759,7 +13541,6 @@
   },
   "90025": {
     "Id": 90025,
-    "Name": "风元素专精",
     "GroupId": 126,
     "BuffTag1": 1158049483,
     "BuffTag2": 686801844,
@@ -13768,7 +13549,6 @@
   },
   "90026": {
     "Id": 90026,
-    "Name": "光元素专精",
     "GroupId": 127,
     "BuffTag1": 1158049483,
     "BuffTag2": 686801844,
@@ -13777,7 +13557,6 @@
   },
   "90027": {
     "Id": 90027,
-    "Name": "暗元素专精",
     "GroupId": 128,
     "BuffTag1": 1158049483,
     "BuffTag2": 686801844,
@@ -13786,7 +13565,6 @@
   },
   "90028": {
     "Id": 90028,
-    "Name": "攻方最终伤害百分比",
     "GroupId": 129,
     "BuffTag1": 1158049483,
     "BuffTag2": 686801844,
@@ -13795,7 +13573,6 @@
   },
   "90029": {
     "Id": 90029,
-    "Name": "守方最终伤害百分比",
     "GroupId": 130,
     "BuffTag1": 1158049483,
     "BuffTag2": 686801844,
@@ -13804,7 +13581,6 @@
   },
   "90030": {
     "Id": 90030,
-    "Name": "攻方最终伤害绝对值",
     "GroupId": 131,
     "BuffTag1": 1158049483,
     "BuffTag2": 686801844,
@@ -13813,7 +13589,6 @@
   },
   "90031": {
     "Id": 90031,
-    "Name": "守方最终伤害绝对值",
     "GroupId": 132,
     "BuffTag1": 1158049483,
     "BuffTag2": 686801844,
@@ -13822,7 +13597,6 @@
   },
   "90032": {
     "Id": 90032,
-    "Name": "CD当前时间百分比",
     "GroupId": 133,
     "BuffTag1": 1158049483,
     "BuffTag2": 686801844,
@@ -13831,7 +13605,6 @@
   },
   "90033": {
     "Id": 90033,
-    "Name": "CD当前时间绝对值",
     "GroupId": 134,
     "BuffTag1": 1158049483,
     "BuffTag2": 686801844,
@@ -13840,7 +13613,6 @@
   },
   "90034": {
     "Id": 90034,
-    "Name": "CD最大值百分比",
     "GroupId": 135,
     "BuffTag1": 1158049483,
     "BuffTag2": 686801844,
@@ -13849,7 +13621,6 @@
   },
   "90035": {
     "Id": 90035,
-    "Name": "CD最大值绝对值",
     "GroupId": 136,
     "BuffTag1": 1158049483,
     "BuffTag2": 686801844,
@@ -13858,19 +13629,16 @@
   },
   "90036": {
     "Id": 90036,
-    "Name": "攻击不消耗子弹",
     "GroupId": 177,
     "BindEffect": "FX/Buff/buff_test"
   },
   "90037": {
     "Id": 90037,
-    "Name": "免疫3次伤害",
     "GroupId": 179,
     "BindEffect": "FX/Buff/buff_test"
   },
   "90101": {
     "Id": 90101,
-    "Name": "风毒",
     "GroupId": 9010,
     "BuffTag1": 1687711182,
     "BuffTag2": 93485219,
@@ -13880,7 +13648,6 @@
   },
   "90102": {
     "Id": 90102,
-    "Name": "风毒II",
     "GroupId": 9010,
     "BuffTag1": 1687711182,
     "BuffTag2": 93485219,
@@ -13890,7 +13657,6 @@
   },
   "90103": {
     "Id": 90103,
-    "Name": "风毒III",
     "GroupId": 9010,
     "BuffTag1": 1687711182,
     "BuffTag2": 93485219,
@@ -13900,7 +13666,6 @@
   },
   "90104": {
     "Id": 90104,
-    "Name": "风毒IV",
     "GroupId": 9010,
     "BuffTag1": 1687711182,
     "BuffTag2": 93485219,
@@ -13910,7 +13675,6 @@
   },
   "90105": {
     "Id": 90105,
-    "Name": "风毒V",
     "GroupId": 9010,
     "BuffTag1": 1687711182,
     "BuffTag2": 93485219,
@@ -13920,7 +13684,6 @@
   },
   "90106": {
     "Id": 90106,
-    "Name": "风毒VI",
     "GroupId": 9010,
     "BuffTag1": 1687711182,
     "BuffTag2": 93485219,
@@ -13930,7 +13693,6 @@
   },
   "90111": {
     "Id": 90111,
-    "Name": "感电",
     "GroupId": 9011,
     "BuffTag1": 2014497669,
     "BuffTag2": 142378398,
@@ -13939,7 +13701,6 @@
   },
   "90112": {
     "Id": 90112,
-    "Name": "感电II",
     "GroupId": 9011,
     "BuffTag1": 2014497669,
     "BuffTag2": 142378398,
@@ -13948,7 +13709,6 @@
   },
   "90113": {
     "Id": 90113,
-    "Name": "感电III",
     "GroupId": 9011,
     "BuffTag1": 2014497669,
     "BuffTag2": 142378398,
@@ -13957,7 +13717,6 @@
   },
   "90114": {
     "Id": 90114,
-    "Name": "感电IV",
     "GroupId": 9011,
     "BuffTag1": 2014497669,
     "BuffTag2": 142378398,
@@ -13966,7 +13725,6 @@
   },
   "90115": {
     "Id": 90115,
-    "Name": "感电V",
     "GroupId": 9011,
     "BuffTag1": 2014497669,
     "BuffTag2": 142378398,
@@ -13975,7 +13733,6 @@
   },
   "90116": {
     "Id": 90116,
-    "Name": "感电VI",
     "GroupId": 9011,
     "BuffTag1": 2014497669,
     "BuffTag2": 142378398,
@@ -13984,7 +13741,6 @@
   },
   "90121": {
     "Id": 90121,
-    "Name": "潮湿",
     "GroupId": 9012,
     "BuffTag1": 1158049483,
     "BuffTag2": -1128850228,
@@ -13995,7 +13751,6 @@
   },
   "90131": {
     "Id": 90131,
-    "Name": "腐坏",
     "GroupId": 9013,
     "BuffTag1": -739953836,
     "BuffTag2": -1722638681,
@@ -14003,7 +13758,6 @@
   },
   "90132": {
     "Id": 90132,
-    "Name": "腐坏II",
     "GroupId": 9013,
     "BuffTag1": -739953836,
     "BuffTag2": -1722638681,
@@ -14011,7 +13765,6 @@
   },
   "90133": {
     "Id": 90133,
-    "Name": "腐坏III",
     "GroupId": 9013,
     "BuffTag1": -739953836,
     "BuffTag2": -1722638681,
@@ -14019,7 +13772,6 @@
   },
   "90134": {
     "Id": 90134,
-    "Name": "腐坏IV",
     "GroupId": 9013,
     "BuffTag1": -739953836,
     "BuffTag2": -1722638681,
@@ -14027,7 +13779,6 @@
   },
   "90135": {
     "Id": 90135,
-    "Name": "腐坏V",
     "GroupId": 9013,
     "BuffTag1": -739953836,
     "BuffTag2": -1722638681,
@@ -14035,7 +13786,6 @@
   },
   "90136": {
     "Id": 90136,
-    "Name": "腐坏VI",
     "GroupId": 9013,
     "BuffTag1": -739953836,
     "BuffTag2": -1722638681,
@@ -14043,7 +13793,6 @@
   },
   "90141": {
     "Id": 90141,
-    "Name": "水蚀",
     "GroupId": 9014,
     "BuffTag1": 1158049483,
     "BuffTag2": 142378398,
@@ -14051,7 +13800,6 @@
   },
   "90142": {
     "Id": 90142,
-    "Name": "水蚀II",
     "GroupId": 9014,
     "BuffTag1": 1158049483,
     "BuffTag2": 142378398,
@@ -14059,7 +13807,6 @@
   },
   "90143": {
     "Id": 90143,
-    "Name": "水蚀III",
     "GroupId": 9014,
     "BuffTag1": 1158049483,
     "BuffTag2": 142378398,
@@ -14067,7 +13814,6 @@
   },
   "90144": {
     "Id": 90144,
-    "Name": "水蚀IV",
     "GroupId": 9014,
     "BuffTag1": 1158049483,
     "BuffTag2": 142378398,
@@ -14075,7 +13821,6 @@
   },
   "90145": {
     "Id": 90145,
-    "Name": "水蚀V",
     "GroupId": 9014,
     "BuffTag1": 1158049483,
     "BuffTag2": 142378398,
@@ -14083,7 +13828,6 @@
   },
   "90146": {
     "Id": 90146,
-    "Name": "水蚀VI",
     "GroupId": 9014,
     "BuffTag1": 1158049483,
     "BuffTag2": 142378398,
@@ -14091,49 +13835,42 @@
   },
   "90151": {
     "Id": 90151,
-    "Name": "顺风",
     "GroupId": 9015,
     "BuffTag1": 1687711182,
     "BuffTag2": -1824092615
   },
   "90152": {
     "Id": 90152,
-    "Name": "顺风II",
     "GroupId": 9015,
     "BuffTag1": 1687711182,
     "BuffTag2": -1824092615
   },
   "90153": {
     "Id": 90153,
-    "Name": "顺风III",
     "GroupId": 9015,
     "BuffTag1": 1687711182,
     "BuffTag2": -1824092615
   },
   "90154": {
     "Id": 90154,
-    "Name": "顺风IV",
     "GroupId": 9015,
     "BuffTag1": 1687711182,
     "BuffTag2": -1824092615
   },
   "90155": {
     "Id": 90155,
-    "Name": "顺风V",
     "GroupId": 9015,
     "BuffTag1": 1687711182,
     "BuffTag2": -1824092615
   },
   "90156": {
     "Id": 90156,
-    "Name": "顺风VI",
     "GroupId": 9015,
     "BuffTag1": 1687711182,
     "BuffTag2": -1824092615
   },
   "90161": {
     "Id": 90161,
-    "Name": "灼烧",
     "GroupId": 9016,
     "BuffTag1": -1970485940,
     "BuffTag2": 93485219,
@@ -14142,7 +13879,6 @@
   },
   "90162": {
     "Id": 90162,
-    "Name": "灼烧II",
     "GroupId": 9016,
     "BuffTag1": -1970485940,
     "BuffTag2": 93485219,
@@ -14151,7 +13887,6 @@
   },
   "90163": {
     "Id": 90163,
-    "Name": "灼烧III",
     "GroupId": 9016,
     "BuffTag1": -1970485940,
     "BuffTag2": 93485219,
@@ -14160,7 +13895,6 @@
   },
   "90164": {
     "Id": 90164,
-    "Name": "灼烧IV",
     "GroupId": 9016,
     "BuffTag1": -1970485940,
     "BuffTag2": 93485219,
@@ -14169,7 +13903,6 @@
   },
   "90165": {
     "Id": 90165,
-    "Name": "灼烧V",
     "GroupId": 9016,
     "BuffTag1": -1970485940,
     "BuffTag2": 93485219,
@@ -14178,7 +13911,6 @@
   },
   "90166": {
     "Id": 90166,
-    "Name": "灼烧VI",
     "GroupId": 9016,
     "BuffTag1": -1970485940,
     "BuffTag2": 93485219,
@@ -14187,7 +13919,6 @@
   },
   "90171": {
     "Id": 90171,
-    "Name": "水系诅咒",
     "GroupId": 9017,
     "BuffTag1": 1158049483,
     "BuffTag2": 142378398,
@@ -14195,7 +13926,6 @@
   },
   "90172": {
     "Id": 90172,
-    "Name": "水系诅咒II",
     "GroupId": 9017,
     "BuffTag1": 1158049483,
     "BuffTag2": 142378398,
@@ -14203,7 +13933,6 @@
   },
   "90173": {
     "Id": 90173,
-    "Name": "水系诅咒III",
     "GroupId": 9017,
     "BuffTag1": 1158049483,
     "BuffTag2": 142378398,
@@ -14211,7 +13940,6 @@
   },
   "5206301": {
     "Id": 5206301,
-    "Name": "信条-光系抗性降低",
     "GroupId": 520630,
     "BuffTag1": 2014497669,
     "BuffTag2": 482234500,
@@ -14219,7 +13947,6 @@
   },
   "5206302": {
     "Id": 5206302,
-    "Name": "信条-光系抗性降低",
     "GroupId": 520630,
     "BuffTag1": 2014497669,
     "BuffTag2": 482234500,
@@ -14227,7 +13954,6 @@
   },
   "5206303": {
     "Id": 5206303,
-    "Name": "信条-光系抗性降低",
     "GroupId": 520630,
     "BuffTag1": 2014497669,
     "BuffTag2": 482234500,
@@ -14235,44 +13961,37 @@
   },
   "1000": {
     "Id": 1000,
-    "Name": "全免疫",
     "GroupId": 1000,
     "BuffTag1": 322538577
   },
   "1001": {
     "Id": 1001,
-    "Name": "免疫减速",
     "GroupId": 1001,
     "BuffTag1": 1104134740
   },
   "1002": {
     "Id": 1002,
-    "Name": "免疫冰冻",
     "GroupId": 1002,
     "BuffTag1": -1213941472
   },
   "1003": {
     "Id": 1003,
-    "Name": "免疫眩晕",
     "GroupId": 1003,
     "BuffTag1": -286838251
   },
   "1004": {
     "Id": 1004,
-    "Name": "免疫击退+击飞",
     "GroupId": 1004,
     "BuffTag1": 356191782
   },
   "99701": {
     "Id": 99701,
-    "Name": "菲登大招",
     "GroupId": 99701,
     "BuffTag1": 1687711182,
     "BuffTag2": -1169662879
   },
   "10000": {
     "Id": 10000,
-    "Name": "dot测试",
     "GroupId": 10000,
     "BuffTag1": 1158049483,
     "BuffTag2": 93485219,
@@ -14280,7 +13999,6 @@
   },
   "30001": {
     "Id": 30001,
-    "Name": "攻击速度爆发提升",
     "GroupId": 30001,
     "BuffTag1": 1518965649,
     "BuffTag2": 410150836,
@@ -14288,7 +14006,6 @@
   },
   "30002": {
     "Id": 30002,
-    "Name": "攻击力提升25%",
     "GroupId": 30002,
     "BuffTag1": 1518965649,
     "BuffTag2": 410150836,
@@ -14296,7 +14013,6 @@
   },
   "30003": {
     "Id": 30003,
-    "Name": "防御力提升50",
     "GroupId": 30003,
     "BuffTag1": 1518965649,
     "BuffTag2": -1573256406,
@@ -14304,7 +14020,6 @@
   },
   "30004": {
     "Id": 30004,
-    "Name": "土元素抗性提升",
     "GroupId": 30004,
     "BuffTag1": 1518965649,
     "BuffTag2": 1950362112,
@@ -14312,7 +14027,6 @@
   },
   "30005": {
     "Id": 30005,
-    "Name": "风元素抗性提升",
     "GroupId": 30005,
     "BuffTag1": 1518965649,
     "BuffTag2": 1950362112,
@@ -14320,7 +14034,6 @@
   },
   "30006": {
     "Id": 30006,
-    "Name": "暗元素抗性提升",
     "GroupId": 30006,
     "BuffTag1": 1518965649,
     "BuffTag2": 1950362112,
@@ -14328,7 +14041,6 @@
   },
   "30007": {
     "Id": 30007,
-    "Name": "暴击率提升",
     "GroupId": 30007,
     "BuffTag1": 1518965649,
     "BuffTag2": 410150836,
@@ -14336,7 +14048,6 @@
   },
   "30008": {
     "Id": 30008,
-    "Name": "攻击速度提升",
     "GroupId": 30008,
     "BuffTag1": 1518965649,
     "BuffTag2": 410150836,
@@ -14344,7 +14055,6 @@
   },
   "30009": {
     "Id": 30009,
-    "Name": "攻速移速",
     "GroupId": 30009,
     "BuffTag1": 1518965649,
     "BuffTag2": 1646980294,
@@ -14352,7 +14062,6 @@
   },
   "30010": {
     "Id": 30010,
-    "Name": "降低防御",
     "GroupId": 30010,
     "BuffTag1": 1518965649,
     "BuffTag2": 1925324471,
@@ -14360,7 +14069,6 @@
   },
   "30011": {
     "Id": 30011,
-    "Name": "移动速度提升40",
     "GroupId": 30011,
     "BuffTag1": 1518965649,
     "BuffTag2": -1824092615,
@@ -14368,7 +14076,6 @@
   },
   "30012": {
     "Id": 30012,
-    "Name": "攻击力提升50%",
     "GroupId": 30012,
     "BuffTag1": 1518965649,
     "BuffTag2": -1824092615,
@@ -14376,7 +14083,6 @@
   },
   "30013": {
     "Id": 30013,
-    "Name": "攻击力提升200%",
     "GroupId": 30013,
     "BuffTag1": 1518965649,
     "BuffTag2": -1824092615,
@@ -14384,7 +14090,6 @@
   },
   "30014": {
     "Id": 30014,
-    "Name": "暴击率提升50%",
     "GroupId": 30014,
     "BuffTag1": 1518965649,
     "BuffTag2": -1824092615,
@@ -14392,7 +14097,6 @@
   },
   "30015": {
     "Id": 30015,
-    "Name": "暴击率提升80%",
     "GroupId": 30015,
     "BuffTag1": 1518965649,
     "BuffTag2": -1824092615,
@@ -14400,7 +14104,6 @@
   },
   "30016": {
     "Id": 30016,
-    "Name": "移动速度提升60%",
     "GroupId": 30016,
     "ReduceTime": 30000,
     "BuffTag1": 1518965649,
@@ -14409,7 +14112,6 @@
   },
   "30017": {
     "Id": 30017,
-    "Name": "遗迹眩晕",
     "GroupId": 30016,
     "BuffTag1": 1518965649,
     "BuffTag2": 329247885,
@@ -14418,7 +14120,6 @@
   },
   "11001": {
     "Id": 11001,
-    "Name": "FLC突击免伤",
     "GroupId": 11001,
     "BuffTag1": -739953836,
     "BuffTag2": -769207219,
@@ -14426,42 +14127,36 @@
   },
   "999904": {
     "Id": 999904,
-    "Name": "测试buff-999904",
     "GroupId": 999904,
     "BuffTag1": -569548070,
     "BindEffect": "FX/Buff/fx_buff_stun"
   },
   "999905": {
     "Id": 999905,
-    "Name": "测试buff-999905",
     "GroupId": 999905,
     "BuffTag1": 59436340,
     "BindEffect": "FX/Buff/fx_buff_stun"
   },
   "10301": {
     "Id": 10301,
-    "Name": "琥珀加速",
     "GroupId": 10301,
     "BuffTag1": -1726672740,
     "BuffTag3": -1503755089
   },
   "10302": {
     "Id": 10302,
-    "Name": "琥珀加速",
     "GroupId": 10301,
     "BuffTag1": -1726672740,
     "BuffTag3": -1503755089
   },
   "10303": {
     "Id": 10303,
-    "Name": "琥珀加速",
     "GroupId": 10301,
     "BuffTag1": -1726672740,
     "BuffTag3": -1503755089
   },
   "11401": {
     "Id": 11401,
-    "Name": "暴击率增加",
     "GroupId": 11401,
     "BuffTag1": 1045945625,
     "BuffTag2": 1285859869,

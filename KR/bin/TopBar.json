@@ -799,10 +799,7 @@
     "Id": "CookieGamePanel_400006",
     "Title": "TopBar.CookieGamePanel_400006.1",
     "EntryId": 400301,
-    "Coin": true,
-    "CoinIds": [
-      73106
-    ]
+    "Coin": true
   },
   "CookieBoardPanel_400006": {
     "Id": "CookieBoardPanel_400006",
@@ -837,5 +834,35 @@
   "WinterNightStory": {
     "Id": "WinterNightStory",
     "Title": "TopBar.WinterNightStory.1"
+  },
+  "ActivityLevelsSelectPanel_10106": {
+    "Id": "ActivityLevelsSelectPanel_10106",
+    "Title": "TopBar.ActivityLevelsSelectPanel_10106.1",
+    "Energy": true
+  },
+  "Shop_10106": {
+    "Id": "Shop_10106",
+    "Title": "TopBar.Shop_10106.1",
+    "Coin": true
+  },
+  "Task_10106": {
+    "Id": "Task_10106",
+    "Title": "TopBar.Task_10106.1",
+    "Coin": true,
+    "CoinIds": [
+      73108
+    ]
+  },
+  "PostalStory": {
+    "Id": "PostalStory",
+    "Title": "TopBar.PostalStory.1"
+  },
+  "PostalThemePanel": {
+    "Id": "PostalThemePanel",
+    "Title": "TopBar.PostalThemePanel.1",
+    "Coin": true,
+    "CoinIds": [
+      73108
+    ]
   }
 }

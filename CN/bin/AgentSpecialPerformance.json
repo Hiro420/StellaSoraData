@@ -557,24 +557,6 @@
     "Avg": "DP_single01",
     "AVGGroupId": "11502"
   },
-  "13001": {
-    "Id": 13001,
-    "CharId": [
-      130
-    ],
-    "Weight": 50,
-    "Avg": "DP_single01",
-    "AVGGroupId": "13001"
-  },
-  "13002": {
-    "Id": 13002,
-    "CharId": [
-      130
-    ],
-    "Weight": 50,
-    "Avg": "DP_single01",
-    "AVGGroupId": "13002"
-  },
   "15901": {
     "Id": 15901,
     "CharId": [
@@ -610,6 +592,24 @@
     "Weight": 50,
     "Avg": "DP_single05",
     "AVGGroupId": "14302"
+  },
+  "13001": {
+    "Id": 13001,
+    "CharId": [
+      130
+    ],
+    "Weight": 50,
+    "Avg": "DP_single130",
+    "AVGGroupId": "13001"
+  },
+  "13002": {
+    "Id": 13002,
+    "CharId": [
+      130
+    ],
+    "Weight": 50,
+    "Avg": "DP_single130",
+    "AVGGroupId": "13002"
   },
   "90101": {
     "Id": 90101,

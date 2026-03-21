@@ -1011,5 +1011,193 @@
     "Theme": 432,
     "BGM": "amb_fengying_combatBoss_setState",
     "LeaveTriggerEvent": "amb_fengying_all_stop"
+  },
+  "300801": {
+    "Id": 300801,
+    "MonsterLv": 1,
+    "SceneName": "Levels/StoryActivity/StoryActivity_8/StoryActivity_8_007_A_01",
+    "ConfigPrefabName": "StoryActivity_8_007_N1",
+    "Theme": 436,
+    "BGM": "amb_Duona_combatNormal_setState",
+    "LeaveTriggerEvent": "amb_Duona_all_stop"
+  },
+  "300802": {
+    "Id": 300802,
+    "MonsterLv": 2,
+    "SceneName": "Levels/StoryActivity/StoryActivity_8/StoryActivity_8_010_B_01",
+    "ConfigPrefabName": "StoryActivity_8_010_N2",
+    "Theme": 436,
+    "BGM": "amb_Duona_combatNormal_setState",
+    "LeaveTriggerEvent": "amb_Duona_all_stop"
+  },
+  "300803": {
+    "Id": 300803,
+    "MonsterLv": 3,
+    "SceneName": "Levels/StoryActivity/StoryActivity_8/StoryActivity_8_015_A_01",
+    "ConfigPrefabName": "StoryActivity_8_015_N3",
+    "Theme": 436,
+    "BGM": "amb_Duona_combatNormal_setState",
+    "LeaveTriggerEvent": "amb_Duona_all_stop"
+  },
+  "300804": {
+    "Id": 300804,
+    "MonsterLv": 4,
+    "SceneName": "Levels/StoryActivity/StoryActivity_8/StoryActivity_8_003_A_01",
+    "ConfigPrefabName": "StoryActivity_8_003_N4",
+    "Theme": 436,
+    "BGM": "amb_Duona_combatNormal_setState",
+    "LeaveTriggerEvent": "amb_Duona_all_stop"
+  },
+  "300805": {
+    "Id": 300805,
+    "MonsterLv": 5,
+    "SceneName": "Levels/StoryActivity/StoryActivity_8/StoryActivity_8_007_A_01_Mir",
+    "ConfigPrefabName": "StoryActivity_8_007_N5_Mir",
+    "Mir": true,
+    "Theme": 436,
+    "BGM": "amb_Duona_combatNormal_setState",
+    "LeaveTriggerEvent": "amb_Duona_all_stop"
+  },
+  "300806": {
+    "Id": 300806,
+    "MonsterLv": 6,
+    "SceneName": "Levels/StoryActivity/StoryActivity_8/StoryActivity_8_015_A_01_Mir",
+    "ConfigPrefabName": "StoryActivity_8_015_N6_Mir",
+    "Mir": true,
+    "Theme": 436,
+    "BGM": "amb_Duona_combatNormal_setState",
+    "LeaveTriggerEvent": "amb_Duona_all_stop"
+  },
+  "300807": {
+    "Id": 300807,
+    "MonsterLv": 7,
+    "SceneName": "Levels/StoryActivity/StoryActivity_8/StoryActivity_8_010_B_01_Mir",
+    "ConfigPrefabName": "StoryActivity_8_010_N7_Mir",
+    "Mir": true,
+    "Theme": 436,
+    "BGM": "amb_Duona_combatNormal_setState",
+    "LeaveTriggerEvent": "amb_Duona_all_stop"
+  },
+  "300808": {
+    "Id": 300808,
+    "MonsterLv": 8,
+    "SceneName": "Levels/StoryActivity/StoryActivity_8/StoryActivity_8_Boss_A",
+    "ConfigPrefabName": "StoryActivity_8_Boss_N8",
+    "Theme": 436,
+    "BGM": "amb_Duona_combatBoss_setState",
+    "LeaveTriggerEvent": "amb_Duona_all_stop"
+  },
+  "300809": {
+    "Id": 300809,
+    "MonsterLv": 9,
+    "SceneName": "Levels/StoryActivity/StoryActivity_8/StoryActivity_8_003_A_01_Mir",
+    "ConfigPrefabName": "StoryActivity_8_003_H1_Mir",
+    "Mir": true,
+    "Theme": 436,
+    "BGM": "amb_Duona_combatNormal_setState",
+    "LeaveTriggerEvent": "amb_Duona_all_stop"
+  },
+  "300810": {
+    "Id": 300810,
+    "MonsterLv": 10,
+    "SceneName": "Levels/StoryActivity/StoryActivity_8/StoryActivity_8_015_A_01_Mir",
+    "ConfigPrefabName": "StoryActivity_8_015_H2_Mir",
+    "Mir": true,
+    "Theme": 436,
+    "BGM": "amb_Duona_combatNormal_setState",
+    "LeaveTriggerEvent": "amb_Duona_all_stop"
+  },
+  "300811": {
+    "Id": 300811,
+    "MonsterLv": 11,
+    "SceneName": "Levels/StoryActivity/StoryActivity_8/StoryActivity_8_007_A_01",
+    "ConfigPrefabName": "StoryActivity_8_007_H3",
+    "Theme": 436,
+    "BGM": "amb_Duona_combatNormal_setState",
+    "LeaveTriggerEvent": "amb_Duona_all_stop"
+  },
+  "300812": {
+    "Id": 300812,
+    "MonsterLv": 12,
+    "SceneName": "Levels/StoryActivity/StoryActivity_8/StoryActivity_8_010_B_01",
+    "ConfigPrefabName": "StoryActivity_8_010_H4",
+    "Theme": 436,
+    "BGM": "amb_Duona_combatNormal_setState",
+    "LeaveTriggerEvent": "amb_Duona_all_stop"
+  },
+  "300813": {
+    "Id": 300813,
+    "MonsterLv": 13,
+    "SceneName": "Levels/StoryActivity/StoryActivity_8/StoryActivity_8_015_A_01",
+    "ConfigPrefabName": "StoryActivity_8_015_H5",
+    "Theme": 436,
+    "BGM": "amb_Duona_combatNormal_setState",
+    "LeaveTriggerEvent": "amb_Duona_all_stop"
+  },
+  "300814": {
+    "Id": 300814,
+    "MonsterLv": 14,
+    "SceneName": "Levels/StoryActivity/StoryActivity_8/StoryActivity_8_003_A_01",
+    "ConfigPrefabName": "StoryActivity_8_003_H6",
+    "Theme": 436,
+    "BGM": "amb_Duona_combatNormal_setState",
+    "LeaveTriggerEvent": "amb_Duona_all_stop"
+  },
+  "300815": {
+    "Id": 300815,
+    "MonsterLv": 15,
+    "SceneName": "Levels/StoryActivity/StoryActivity_8/StoryActivity_8_007_A_01_Mir",
+    "ConfigPrefabName": "StoryActivity_8_007_H7_Mir",
+    "Mir": true,
+    "Theme": 436,
+    "BGM": "amb_Duona_combatNormal_setState",
+    "LeaveTriggerEvent": "amb_Duona_all_stop"
+  },
+  "300816": {
+    "Id": 300816,
+    "MonsterLv": 16,
+    "SceneName": "Levels/StoryActivity/StoryActivity_8/StoryActivity_8_Boss_A",
+    "ConfigPrefabName": "StoryActivity_8_Boss_H8",
+    "Theme": 436,
+    "BGM": "amb_Duona_combatBoss_setState",
+    "LeaveTriggerEvent": "amb_Duona_all_stop"
+  },
+  "300817": {
+    "Id": 300817,
+    "MonsterLv": 17,
+    "SceneName": "Levels/StoryActivity/StoryActivity_8/StoryActivity_8_003_A_01_Mir",
+    "ConfigPrefabName": "StoryActivity_8_003_C1_Mir",
+    "Mir": true,
+    "Theme": 436,
+    "BGM": "amb_Duona_combatNormal_setState",
+    "LeaveTriggerEvent": "amb_Duona_all_stop"
+  },
+  "300818": {
+    "Id": 300818,
+    "MonsterLv": 18,
+    "SceneName": "Levels/StoryActivity/StoryActivity_8/StoryActivity_8_010_B_01_Mir",
+    "ConfigPrefabName": "StoryActivity_8_010_C2_Mir",
+    "Mir": true,
+    "Theme": 436,
+    "BGM": "amb_Duona_combatNormal_setState",
+    "LeaveTriggerEvent": "amb_Duona_all_stop"
+  },
+  "300819": {
+    "Id": 300819,
+    "MonsterLv": 19,
+    "SceneName": "Levels/StoryActivity/StoryActivity_8/StoryActivity_8_007_A_01",
+    "ConfigPrefabName": "StoryActivity_8_007_C3",
+    "Theme": 436,
+    "BGM": "amb_Duona_combatNormal_setState",
+    "LeaveTriggerEvent": "amb_Duona_all_stop"
+  },
+  "300820": {
+    "Id": 300820,
+    "MonsterLv": 20,
+    "SceneName": "Levels/StoryActivity/StoryActivity_8/StoryActivity_8_Boss_A",
+    "ConfigPrefabName": "StoryActivity_8_Boss_C4",
+    "Theme": 436,
+    "BGM": "amb_Duona_combatBoss_setState",
+    "LeaveTriggerEvent": "amb_Duona_all_stop"
   }
 }

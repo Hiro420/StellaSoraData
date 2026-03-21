@@ -172,6 +172,15 @@
     ],
     "RequestDes": "BdConvertCondition.405.1"
   },
+  "406": {
+    "Id": 406,
+    "Cond": 5,
+    "CondParams": [
+      6,
+      6
+    ],
+    "RequestDes": "BdConvertCondition.406.1"
+  },
   "501": {
     "Id": 501,
     "Cond": 9,
@@ -283,6 +292,15 @@
     ],
     "RequestDes": "BdConvertCondition.607.1"
   },
+  "608": {
+    "Id": 608,
+    "Cond": 6,
+    "CondParams": [
+      1,
+      4
+    ],
+    "RequestDes": "BdConvertCondition.608.1"
+  },
   "7011": {
     "Id": 7011,
     "Cond": 3,
@@ -336,6 +354,33 @@
       20
     ],
     "RequestDes": "BdConvertCondition.7023.1"
+  },
+  "7041": {
+    "Id": 7041,
+    "Cond": 3,
+    "CondParams": [
+      90014,
+      30
+    ],
+    "RequestDes": "BdConvertCondition.7041.1"
+  },
+  "7051": {
+    "Id": 7051,
+    "Cond": 3,
+    "CondParams": [
+      90015,
+      40
+    ],
+    "RequestDes": "BdConvertCondition.7051.1"
+  },
+  "7061": {
+    "Id": 7061,
+    "Cond": 3,
+    "CondParams": [
+      90016,
+      30
+    ],
+    "RequestDes": "BdConvertCondition.7061.1"
   },
   "8001": {
     "Id": 8001,

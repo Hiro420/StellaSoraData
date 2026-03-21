@@ -526,6 +526,24 @@
     "LeaveTriggerEvent": "amb_fengying_all_stop",
     "MonsterLv": 7
   },
+  "1060505": {
+    "Id": 1060505,
+    "SceneName": "Levels/StoryActivity/StoryActivity_8/StoryActivity_8_010_B_01",
+    "ConfigPrefabName": "StoryActivity_8_010_N2",
+    "Theme": 436,
+    "BGM": "amb_Duona_combatNormal_setState",
+    "LeaveTriggerEvent": "amb_Duona_all_stop",
+    "MonsterLv": 7
+  },
+  "1060506": {
+    "Id": 1060506,
+    "SceneName": "Levels/StoryActivity/StoryActivity_8/StoryActivity_8_Boss_A",
+    "ConfigPrefabName": "StoryActivity_8_Boss_N8",
+    "Theme": 436,
+    "BGM": "amb_Duona_combatBoss_setState",
+    "LeaveTriggerEvent": "amb_Duona_all_stop",
+    "MonsterLv": 7
+  },
   "1100101": {
     "Id": 1100101,
     "SceneName": "Levels/Main/Countryside/CountrySide_Main_2_1_Prototype",
@@ -2460,14 +2478,164 @@
   },
   "9920198": {
     "Id": 9920198,
-    "SceneName": "Levels/StoryActivity/StoryActivity_7/StoryActivity_7_013_A_01",
-    "ConfigPrefabName": "StoryActivity_7_013_N1",
+    "SceneName": "Levels/StoryActivity/StoryActivity_7/StoryActivity_7_Boss_A_01",
+    "ConfigPrefabName": "StoryActivity_7_Boss_N8",
     "MonsterLv": 1
   },
   "9920199": {
     "Id": 9920199,
     "SceneName": "Levels/Roguelike/Roguelike_2/Roguelike_2_MiniBoss_005",
     "ConfigPrefabName": "MiniBoss_XuKongXingZhe_fire_Test",
+    "MonsterLv": 1
+  },
+  "9920200": {
+    "Id": 9920200,
+    "SceneName": "Levels/StoryActivity/StoryActivity_7/StoryActivity_7_013_A_01",
+    "ConfigPrefabName": "StoryActivity_7_013_N1",
+    "MonsterLv": 1
+  },
+  "9920201": {
+    "Id": 9920201,
+    "SceneName": "Levels/StoryActivity/StoryActivity_7/StoryActivity_7_006_A_02_Mir",
+    "ConfigPrefabName": "StoryActivity_7_006_N2",
+    "MonsterLv": 1
+  },
+  "9920202": {
+    "Id": 9920202,
+    "SceneName": "Levels/StoryActivity/StoryActivity_8/StoryActivity_8_Boss_A",
+    "ConfigPrefabName": "StoryActivity_8_Boss_N8",
+    "MonsterLv": 1
+  },
+  "9920203": {
+    "Id": 9920203,
+    "SceneName": "Levels/StoryActivity/StoryActivity_9/Prototype/StoryActivity_9_MiniBoss_HaSaNa_Prototype",
+    "ConfigPrefabName": "BattleTest_Hasana_Miniboss_Lv1",
+    "MonsterLv": 1
+  },
+  "9920204": {
+    "Id": 9920204,
+    "SceneName": "Levels/StoryActivity/StoryActivity_9/Prototype/StoryActivity_9_MiniBoss_HaSaNa_Prototype",
+    "ConfigPrefabName": "BattleTest_Hasana_Miniboss_Lv2",
+    "MonsterLv": 1
+  },
+  "9920205": {
+    "Id": 9920205,
+    "SceneName": "Levels/StoryActivity/StoryActivity_8/StoryActivity_8_007_A_01",
+    "ConfigPrefabName": "StoryActivity_8_007_N1",
+    "MonsterLv": 1
+  },
+  "9920206": {
+    "Id": 9920206,
+    "SceneName": "Levels/StoryActivity/StoryActivity_8/StoryActivity_8_010_B_01",
+    "ConfigPrefabName": "StoryActivity_8_010_N2",
+    "MonsterLv": 1
+  },
+  "9920207": {
+    "Id": 9920207,
+    "SceneName": "Levels/StoryActivity/StoryActivity_8/StoryActivity_8_015_A_01",
+    "ConfigPrefabName": "StoryActivity_8_015_N3",
+    "MonsterLv": 1
+  },
+  "9920208": {
+    "Id": 9920208,
+    "SceneName": "Levels/StoryActivity/StoryActivity_8/StoryActivity_8_003_A_01",
+    "ConfigPrefabName": "StoryActivity_8_003_N4",
+    "MonsterLv": 1
+  },
+  "9920209": {
+    "Id": 9920209,
+    "SceneName": "Levels/StoryActivity/StoryActivity_8/StoryActivity_8_007_A_01_Mir",
+    "ConfigPrefabName": "StoryActivity_8_007_N5_Mir",
+    "MonsterLv": 1
+  },
+  "9920210": {
+    "Id": 9920210,
+    "SceneName": "Levels/StoryActivity/StoryActivity_8/StoryActivity_8_015_A_01_Mir",
+    "ConfigPrefabName": "StoryActivity_8_015_N6_Mir",
+    "MonsterLv": 1
+  },
+  "9920211": {
+    "Id": 9920211,
+    "SceneName": "Levels/StoryActivity/StoryActivity_8/StoryActivity_8_010_B_01_Mir",
+    "ConfigPrefabName": "StoryActivity_8_010_N7_Mir",
+    "MonsterLv": 1
+  },
+  "9920212": {
+    "Id": 9920212,
+    "SceneName": "Levels/StoryActivity/StoryActivity_8/StoryActivity_8_Boss_A",
+    "ConfigPrefabName": "StoryActivity_8_Boss_N8",
+    "MonsterLv": 1
+  },
+  "9920213": {
+    "Id": 9920213,
+    "SceneName": "Levels/StoryActivity/StoryActivity_8/StoryActivity_8_003_A_01_Mir",
+    "ConfigPrefabName": "StoryActivity_8_003_H1_Mir",
+    "MonsterLv": 1
+  },
+  "9920214": {
+    "Id": 9920214,
+    "SceneName": "Levels/StoryActivity/StoryActivity_8/StoryActivity_8_015_A_01_Mir",
+    "ConfigPrefabName": "StoryActivity_8_015_H2_Mir",
+    "MonsterLv": 1
+  },
+  "9920215": {
+    "Id": 9920215,
+    "SceneName": "Levels/StoryActivity/StoryActivity_8/StoryActivity_8_007_A_01",
+    "ConfigPrefabName": "StoryActivity_8_007_H3",
+    "MonsterLv": 1
+  },
+  "9920216": {
+    "Id": 9920216,
+    "SceneName": "Levels/StoryActivity/StoryActivity_8/StoryActivity_8_010_B_01",
+    "ConfigPrefabName": "StoryActivity_8_010_H4",
+    "MonsterLv": 1
+  },
+  "9920217": {
+    "Id": 9920217,
+    "SceneName": "Levels/StoryActivity/StoryActivity_8/StoryActivity_8_015_A_01",
+    "ConfigPrefabName": "StoryActivity_8_015_H5",
+    "MonsterLv": 1
+  },
+  "9920218": {
+    "Id": 9920218,
+    "SceneName": "Levels/StoryActivity/StoryActivity_8/StoryActivity_8_003_A_01",
+    "ConfigPrefabName": "StoryActivity_8_003_H6",
+    "MonsterLv": 1
+  },
+  "9920219": {
+    "Id": 9920219,
+    "SceneName": "Levels/StoryActivity/StoryActivity_8/StoryActivity_8_007_A_01_Mir",
+    "ConfigPrefabName": "StoryActivity_8_007_H7_Mir",
+    "MonsterLv": 1
+  },
+  "9920220": {
+    "Id": 9920220,
+    "SceneName": "Levels/StoryActivity/StoryActivity_8/StoryActivity_8_Boss_A",
+    "ConfigPrefabName": "StoryActivity_8_Boss_H8",
+    "MonsterLv": 1
+  },
+  "9920221": {
+    "Id": 9920221,
+    "SceneName": "Levels/StoryActivity/StoryActivity_8/StoryActivity_8_003_A_01_Mir",
+    "ConfigPrefabName": "StoryActivity_8_003_C1_Mir",
+    "MonsterLv": 1
+  },
+  "9920222": {
+    "Id": 9920222,
+    "SceneName": "Levels/StoryActivity/StoryActivity_8/StoryActivity_8_010_B_01_Mir",
+    "ConfigPrefabName": "StoryActivity_8_010_C2_Mir",
+    "MonsterLv": 1
+  },
+  "9920223": {
+    "Id": 9920223,
+    "SceneName": "Levels/StoryActivity/StoryActivity_8/StoryActivity_8_007_A_01",
+    "ConfigPrefabName": "StoryActivity_8_007_C3",
+    "MonsterLv": 1
+  },
+  "9920224": {
+    "Id": 9920224,
+    "SceneName": "Levels/StoryActivity/StoryActivity_8/StoryActivity_8_Boss_A",
+    "ConfigPrefabName": "StoryActivity_8_Boss_C4",
     "MonsterLv": 1
   }
 }

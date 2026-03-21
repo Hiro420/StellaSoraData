@@ -3,6 +3,7 @@
     "Id": 1001001,
     "SceneName": "Levels/Roguelike/Roguelike_2/Roguelike_2_MiniBoss_005",
     "ConfigPrefabName": "Roguelike_MiniBoss_DaWuGui_Test",
+    "Theme": 114,
     "BGM": "city_combatBoss_setState",
     "LeaveTriggerEvent": "amb_city_all_stop"
   },
@@ -85,5 +86,21 @@
     "Theme": 105,
     "BGM": "roguelike_combatShasha_setState",
     "LeaveTriggerEvent": "amb_roguelike_all_stop"
+  },
+  "1001012": {
+    "Id": 1001012,
+    "SceneName": "Levels/Roguelike/Roguelike_2/Roguelike_2_MiniBoss_005",
+    "ConfigPrefabName": "MiniBoss_BingXiangGuai_Test_Lv1",
+    "Theme": 114,
+    "BGM": "city_combatBoss_setState",
+    "LeaveTriggerEvent": "amb_city_all_stop"
+  },
+  "1001013": {
+    "Id": 1001013,
+    "SceneName": "Levels/Roguelike/Roguelike_2/Roguelike_2_MiniBoss_005",
+    "ConfigPrefabName": "MiniBoss_BingXiangGuai_Test_Lv2",
+    "Theme": 114,
+    "BGM": "city_combatBoss_setState",
+    "LeaveTriggerEvent": "amb_city_all_stop"
   }
 }

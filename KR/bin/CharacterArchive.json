@@ -106,6 +106,113 @@
     "ArchReward": 2,
     "ArchRewardQuantity": 10
   },
+  "10601": {
+    "Id": 10601,
+    "ArchType": 1,
+    "CharacterId": 106,
+    "RecordId": 10601,
+    "Sort": 1
+  },
+  "10602": {
+    "Id": 10602,
+    "ArchType": 2,
+    "CharacterId": 106,
+    "RecordId": 10602,
+    "Sort": 2
+  },
+  "10603": {
+    "Id": 10603,
+    "ArchType": 2,
+    "CharacterId": 106,
+    "RecordId": 10603,
+    "Sort": 3
+  },
+  "10604": {
+    "Id": 10604,
+    "ArchType": 2,
+    "CharacterId": 106,
+    "UnlockAffinityLevel": 2,
+    "RecordId": 10604,
+    "Sort": 4
+  },
+  "10605": {
+    "Id": 10605,
+    "ArchType": 2,
+    "CharacterId": 106,
+    "UnlockAffinityLevel": 4,
+    "RecordId": 10605,
+    "Sort": 5
+  },
+  "10606": {
+    "Id": 10606,
+    "ArchType": 2,
+    "CharacterId": 106,
+    "UnlockAffinityLevel": 7,
+    "RecordId": 10606,
+    "Sort": 6
+  },
+  "10607": {
+    "Id": 10607,
+    "ArchType": 2,
+    "CharacterId": 106,
+    "UnlockAffinityLevel": 10,
+    "RecordId": 10607,
+    "Sort": 7
+  },
+  "10608": {
+    "Id": 10608,
+    "ArchType": 2,
+    "CharacterId": 106,
+    "UnlockAffinityLevel": 12,
+    "RecordId": 10608,
+    "Sort": 8
+  },
+  "10609": {
+    "Id": 10609,
+    "ArchType": 2,
+    "CharacterId": 106,
+    "UnlockAffinityLevel": 15,
+    "RecordId": 10609,
+    "Sort": 9
+  },
+  "10610": {
+    "Id": 10610,
+    "ArchType": 2,
+    "CharacterId": 106,
+    "UnlockAffinityLevel": 18,
+    "RecordId": 10610,
+    "Sort": 10
+  },
+  "10611": {
+    "Id": 10611,
+    "ArchType": 3,
+    "CharacterId": 106,
+    "UnlockAffinityLevel": 20,
+    "RecordId": 10611,
+    "Sort": 11,
+    "ArchReward": 2,
+    "ArchRewardQuantity": 10
+  },
+  "10612": {
+    "Id": 10612,
+    "ArchType": 3,
+    "CharacterId": 106,
+    "UnlockAffinityLevel": 25,
+    "RecordId": 10612,
+    "Sort": 12,
+    "ArchReward": 2,
+    "ArchRewardQuantity": 10
+  },
+  "10613": {
+    "Id": 10613,
+    "ArchType": 3,
+    "CharacterId": 106,
+    "UnlockAffinityLevel": 30,
+    "RecordId": 10613,
+    "Sort": 13,
+    "ArchReward": 2,
+    "ArchRewardQuantity": 10
+  },
   "10701": {
     "Id": 10701,
     "ArchType": 1,
@@ -316,6 +423,113 @@
     "CharacterId": 108,
     "UnlockAffinityLevel": 30,
     "RecordId": 10813,
+    "Sort": 13,
+    "ArchReward": 2,
+    "ArchRewardQuantity": 10
+  },
+  "10901": {
+    "Id": 10901,
+    "ArchType": 1,
+    "CharacterId": 109,
+    "RecordId": 10901,
+    "Sort": 1
+  },
+  "10902": {
+    "Id": 10902,
+    "ArchType": 2,
+    "CharacterId": 109,
+    "RecordId": 10902,
+    "Sort": 2
+  },
+  "10903": {
+    "Id": 10903,
+    "ArchType": 2,
+    "CharacterId": 109,
+    "RecordId": 10903,
+    "Sort": 3
+  },
+  "10904": {
+    "Id": 10904,
+    "ArchType": 2,
+    "CharacterId": 109,
+    "UnlockAffinityLevel": 2,
+    "RecordId": 10904,
+    "Sort": 4
+  },
+  "10905": {
+    "Id": 10905,
+    "ArchType": 2,
+    "CharacterId": 109,
+    "UnlockAffinityLevel": 4,
+    "RecordId": 10905,
+    "Sort": 5
+  },
+  "10906": {
+    "Id": 10906,
+    "ArchType": 2,
+    "CharacterId": 109,
+    "UnlockAffinityLevel": 7,
+    "RecordId": 10906,
+    "Sort": 6
+  },
+  "10907": {
+    "Id": 10907,
+    "ArchType": 2,
+    "CharacterId": 109,
+    "UnlockAffinityLevel": 10,
+    "RecordId": 10907,
+    "Sort": 7
+  },
+  "10908": {
+    "Id": 10908,
+    "ArchType": 2,
+    "CharacterId": 109,
+    "UnlockAffinityLevel": 12,
+    "RecordId": 10908,
+    "Sort": 8
+  },
+  "10909": {
+    "Id": 10909,
+    "ArchType": 2,
+    "CharacterId": 109,
+    "UnlockAffinityLevel": 15,
+    "RecordId": 10909,
+    "Sort": 9
+  },
+  "10910": {
+    "Id": 10910,
+    "ArchType": 2,
+    "CharacterId": 109,
+    "UnlockAffinityLevel": 18,
+    "RecordId": 10910,
+    "Sort": 10
+  },
+  "10911": {
+    "Id": 10911,
+    "ArchType": 3,
+    "CharacterId": 109,
+    "UnlockAffinityLevel": 20,
+    "RecordId": 10911,
+    "Sort": 11,
+    "ArchReward": 2,
+    "ArchRewardQuantity": 10
+  },
+  "10912": {
+    "Id": 10912,
+    "ArchType": 3,
+    "CharacterId": 109,
+    "UnlockAffinityLevel": 25,
+    "RecordId": 10912,
+    "Sort": 12,
+    "ArchReward": 2,
+    "ArchRewardQuantity": 10
+  },
+  "10913": {
+    "Id": 10913,
+    "ArchType": 3,
+    "CharacterId": 109,
+    "UnlockAffinityLevel": 30,
+    "RecordId": 10913,
     "Sort": 13,
     "ArchReward": 2,
     "ArchRewardQuantity": 10
@@ -1925,6 +2139,113 @@
     "ArchReward": 2,
     "ArchRewardQuantity": 10
   },
+  "12901": {
+    "Id": 12901,
+    "ArchType": 1,
+    "CharacterId": 129,
+    "RecordId": 12901,
+    "Sort": 1
+  },
+  "12902": {
+    "Id": 12902,
+    "ArchType": 2,
+    "CharacterId": 129,
+    "RecordId": 12902,
+    "Sort": 2
+  },
+  "12903": {
+    "Id": 12903,
+    "ArchType": 2,
+    "CharacterId": 129,
+    "RecordId": 12903,
+    "Sort": 3
+  },
+  "12904": {
+    "Id": 12904,
+    "ArchType": 2,
+    "CharacterId": 129,
+    "UnlockAffinityLevel": 2,
+    "RecordId": 12904,
+    "Sort": 4
+  },
+  "12905": {
+    "Id": 12905,
+    "ArchType": 2,
+    "CharacterId": 129,
+    "UnlockAffinityLevel": 4,
+    "RecordId": 12905,
+    "Sort": 5
+  },
+  "12906": {
+    "Id": 12906,
+    "ArchType": 2,
+    "CharacterId": 129,
+    "UnlockAffinityLevel": 7,
+    "RecordId": 12906,
+    "Sort": 6
+  },
+  "12907": {
+    "Id": 12907,
+    "ArchType": 2,
+    "CharacterId": 129,
+    "UnlockAffinityLevel": 10,
+    "RecordId": 12907,
+    "Sort": 7
+  },
+  "12908": {
+    "Id": 12908,
+    "ArchType": 2,
+    "CharacterId": 129,
+    "UnlockAffinityLevel": 12,
+    "RecordId": 12908,
+    "Sort": 8
+  },
+  "12909": {
+    "Id": 12909,
+    "ArchType": 2,
+    "CharacterId": 129,
+    "UnlockAffinityLevel": 15,
+    "RecordId": 12909,
+    "Sort": 9
+  },
+  "12910": {
+    "Id": 12910,
+    "ArchType": 2,
+    "CharacterId": 129,
+    "UnlockAffinityLevel": 18,
+    "RecordId": 12910,
+    "Sort": 10
+  },
+  "12911": {
+    "Id": 12911,
+    "ArchType": 3,
+    "CharacterId": 129,
+    "UnlockAffinityLevel": 20,
+    "RecordId": 12911,
+    "Sort": 11,
+    "ArchReward": 2,
+    "ArchRewardQuantity": 10
+  },
+  "12912": {
+    "Id": 12912,
+    "ArchType": 3,
+    "CharacterId": 129,
+    "UnlockAffinityLevel": 25,
+    "RecordId": 12912,
+    "Sort": 12,
+    "ArchReward": 2,
+    "ArchRewardQuantity": 10
+  },
+  "12913": {
+    "Id": 12913,
+    "ArchType": 3,
+    "CharacterId": 129,
+    "UnlockAffinityLevel": 30,
+    "RecordId": 12913,
+    "Sort": 13,
+    "ArchReward": 2,
+    "ArchRewardQuantity": 10
+  },
   "13001": {
     "Id": 13001,
     "ArchType": 1,
@@ -2567,6 +2888,113 @@
     "ArchReward": 2,
     "ArchRewardQuantity": 10
   },
+  "14001": {
+    "Id": 14001,
+    "ArchType": 1,
+    "CharacterId": 140,
+    "RecordId": 14001,
+    "Sort": 1
+  },
+  "14002": {
+    "Id": 14002,
+    "ArchType": 2,
+    "CharacterId": 140,
+    "RecordId": 14002,
+    "Sort": 2
+  },
+  "14003": {
+    "Id": 14003,
+    "ArchType": 2,
+    "CharacterId": 140,
+    "RecordId": 14003,
+    "Sort": 3
+  },
+  "14004": {
+    "Id": 14004,
+    "ArchType": 2,
+    "CharacterId": 140,
+    "UnlockAffinityLevel": 2,
+    "RecordId": 14004,
+    "Sort": 4
+  },
+  "14005": {
+    "Id": 14005,
+    "ArchType": 2,
+    "CharacterId": 140,
+    "UnlockAffinityLevel": 4,
+    "RecordId": 14005,
+    "Sort": 5
+  },
+  "14006": {
+    "Id": 14006,
+    "ArchType": 2,
+    "CharacterId": 140,
+    "UnlockAffinityLevel": 7,
+    "RecordId": 14006,
+    "Sort": 6
+  },
+  "14007": {
+    "Id": 14007,
+    "ArchType": 2,
+    "CharacterId": 140,
+    "UnlockAffinityLevel": 10,
+    "RecordId": 14007,
+    "Sort": 7
+  },
+  "14008": {
+    "Id": 14008,
+    "ArchType": 2,
+    "CharacterId": 140,
+    "UnlockAffinityLevel": 12,
+    "RecordId": 14008,
+    "Sort": 8
+  },
+  "14009": {
+    "Id": 14009,
+    "ArchType": 2,
+    "CharacterId": 140,
+    "UnlockAffinityLevel": 15,
+    "RecordId": 14009,
+    "Sort": 9
+  },
+  "14010": {
+    "Id": 14010,
+    "ArchType": 2,
+    "CharacterId": 140,
+    "UnlockAffinityLevel": 18,
+    "RecordId": 14010,
+    "Sort": 10
+  },
+  "14011": {
+    "Id": 14011,
+    "ArchType": 3,
+    "CharacterId": 140,
+    "UnlockAffinityLevel": 20,
+    "RecordId": 14011,
+    "Sort": 11,
+    "ArchReward": 2,
+    "ArchRewardQuantity": 10
+  },
+  "14012": {
+    "Id": 14012,
+    "ArchType": 3,
+    "CharacterId": 140,
+    "UnlockAffinityLevel": 25,
+    "RecordId": 14012,
+    "Sort": 12,
+    "ArchReward": 2,
+    "ArchRewardQuantity": 10
+  },
+  "14013": {
+    "Id": 14013,
+    "ArchType": 3,
+    "CharacterId": 140,
+    "UnlockAffinityLevel": 30,
+    "RecordId": 14013,
+    "Sort": 13,
+    "ArchReward": 2,
+    "ArchRewardQuantity": 10
+  },
   "14101": {
     "Id": 14101,
     "ArchType": 1,
@@ -2991,6 +3419,113 @@
     "CharacterId": 144,
     "UnlockAffinityLevel": 30,
     "RecordId": 14413,
+    "Sort": 13,
+    "ArchReward": 2,
+    "ArchRewardQuantity": 10
+  },
+  "14501": {
+    "Id": 14501,
+    "ArchType": 1,
+    "CharacterId": 145,
+    "RecordId": 14501,
+    "Sort": 1
+  },
+  "14502": {
+    "Id": 14502,
+    "ArchType": 2,
+    "CharacterId": 145,
+    "RecordId": 14502,
+    "Sort": 2
+  },
+  "14503": {
+    "Id": 14503,
+    "ArchType": 2,
+    "CharacterId": 145,
+    "RecordId": 14503,
+    "Sort": 3
+  },
+  "14504": {
+    "Id": 14504,
+    "ArchType": 2,
+    "CharacterId": 145,
+    "UnlockAffinityLevel": 2,
+    "RecordId": 14504,
+    "Sort": 4
+  },
+  "14505": {
+    "Id": 14505,
+    "ArchType": 2,
+    "CharacterId": 145,
+    "UnlockAffinityLevel": 4,
+    "RecordId": 14505,
+    "Sort": 5
+  },
+  "14506": {
+    "Id": 14506,
+    "ArchType": 2,
+    "CharacterId": 145,
+    "UnlockAffinityLevel": 7,
+    "RecordId": 14506,
+    "Sort": 6
+  },
+  "14507": {
+    "Id": 14507,
+    "ArchType": 2,
+    "CharacterId": 145,
+    "UnlockAffinityLevel": 10,
+    "RecordId": 14507,
+    "Sort": 7
+  },
+  "14508": {
+    "Id": 14508,
+    "ArchType": 2,
+    "CharacterId": 145,
+    "UnlockAffinityLevel": 12,
+    "RecordId": 14508,
+    "Sort": 8
+  },
+  "14509": {
+    "Id": 14509,
+    "ArchType": 2,
+    "CharacterId": 145,
+    "UnlockAffinityLevel": 15,
+    "RecordId": 14509,
+    "Sort": 9
+  },
+  "14510": {
+    "Id": 14510,
+    "ArchType": 2,
+    "CharacterId": 145,
+    "UnlockAffinityLevel": 18,
+    "RecordId": 14510,
+    "Sort": 10
+  },
+  "14511": {
+    "Id": 14511,
+    "ArchType": 3,
+    "CharacterId": 145,
+    "UnlockAffinityLevel": 20,
+    "RecordId": 14511,
+    "Sort": 11,
+    "ArchReward": 2,
+    "ArchRewardQuantity": 10
+  },
+  "14512": {
+    "Id": 14512,
+    "ArchType": 3,
+    "CharacterId": 145,
+    "UnlockAffinityLevel": 25,
+    "RecordId": 14512,
+    "Sort": 12,
+    "ArchReward": 2,
+    "ArchRewardQuantity": 10
+  },
+  "14513": {
+    "Id": 14513,
+    "ArchType": 3,
+    "CharacterId": 145,
+    "UnlockAffinityLevel": 30,
+    "RecordId": 14513,
     "Sort": 13,
     "ArchReward": 2,
     "ArchRewardQuantity": 10

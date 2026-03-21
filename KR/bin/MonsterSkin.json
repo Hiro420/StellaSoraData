@@ -192,7 +192,7 @@
   },
   "1000702": {
     "Id": 1000702,
-    "MonsterManual": 1000741,
+    "MonsterManual": 1000705,
     "Model": "Actor/Monster/10007KuangFengQingXiao/10007KuangFengQingXiao_Actor",
     "RunAnimationSpd": 60000,
     "WalkAnimationSpd": 60000,
@@ -3750,8 +3750,7 @@
     "BarHeight": 8000,
     "ModelScale": 10000,
     "ColliderScale": 10000,
-    "ForbiddenBehitRot": true,
-    "EffectScaleValue": 10000
+    "ForbiddenBehitRot": true
   },
   "5011101": {
     "Id": 5011101,
@@ -5393,7 +5392,8 @@
     "WalkAnimationSpd": 15000,
     "BarHeight": 10000,
     "ModelScale": 10000,
-    "ColliderScale": 10000
+    "ColliderScale": 10000,
+    "EffectScaleValue": 12000
   },
   "7000101": {
     "Id": 7000101,
@@ -5636,6 +5636,86 @@
     "ModelScale": 25000,
     "ColliderScale": 10000,
     "ForbiddenBehitRot": true
+  },
+  "3080301": {
+    "Id": 3080301,
+    "Model": "Actor/Monster/30801XinXiang_Red/30801XinXiang_Red",
+    "RunAnimationSpd": 40000,
+    "WalkAnimationSpd": 20000,
+    "BarHeight": 8000,
+    "ModelScale": 15000,
+    "ColliderScale": 10000,
+    "ForbiddenBehitRot": true
+  },
+  "3080302": {
+    "Id": 3080302,
+    "Model": "Actor/Monster/30811XinXiang_Blue/30801XinXiang_Blue",
+    "RunAnimationSpd": 40000,
+    "WalkAnimationSpd": 20000,
+    "BarHeight": 8000,
+    "ModelScale": 15000,
+    "ColliderScale": 10000,
+    "ForbiddenBehitRot": true
+  },
+  "3080303": {
+    "Id": 3080303,
+    "Model": "Actor/Monster/30821XinXiang_Gold/30801XinXiang_Gold",
+    "RunAnimationSpd": 40000,
+    "WalkAnimationSpd": 20000,
+    "BarHeight": 8000,
+    "ModelScale": 15000,
+    "ColliderScale": 10000,
+    "ForbiddenBehitRot": true
+  },
+  "3093101": {
+    "Id": 3093101,
+    "MonsterManual": 1851016,
+    "Model": "Actor/Monster/30931HaSaNa/30391HaSaNa_Actor",
+    "RunAnimationSpd": 70000,
+    "WalkAnimationSpd": 50000,
+    "BarHeight": 10000,
+    "ModelScale": 10000,
+    "ColliderScale": 10000
+  },
+  "3093102": {
+    "Id": 3093102,
+    "Model": "Actor/Monster/99900EmptyMonster/99900EmptyMonster_Actor",
+    "RunAnimationSpd": 35000,
+    "WalkAnimationSpd": 15000,
+    "BarHeight": 10000,
+    "ModelScale": 10000,
+    "ColliderScale": 10000,
+    "ForbiddenBehitRot": true
+  },
+  "3090101": {
+    "Id": 3090101,
+    "MonsterManual": 3090100,
+    "Model": "Actor/Monster/30901ChiHou/30901ChiHou_Actor",
+    "RunAnimationSpd": 80000,
+    "WalkAnimationSpd": 20000,
+    "BarHeight": 10000,
+    "ModelScale": 11800,
+    "ColliderScale": 10000
+  },
+  "3091101": {
+    "Id": 3091101,
+    "MonsterManual": 3091100,
+    "Model": "Actor/Monster/30911NuShou/30911NuShou_Actor",
+    "RunAnimationSpd": 50000,
+    "WalkAnimationSpd": 20000,
+    "BarHeight": 10000,
+    "ModelScale": 11800,
+    "ColliderScale": 10000
+  },
+  "3092101": {
+    "Id": 3092101,
+    "MonsterManual": 3092100,
+    "Model": "Actor/Monster/30921JuJiShou/30921JuJiShou_Actor",
+    "RunAnimationSpd": 60000,
+    "WalkAnimationSpd": 20000,
+    "BarHeight": 10000,
+    "ModelScale": 13500,
+    "ColliderScale": 10000
   },
   "11601111": {
     "Id": 11601111,
@@ -6004,6 +6084,51 @@
     "WalkAnimationSpd": 15000,
     "BarHeight": 8000,
     "ModelScale": 10000,
+    "ColliderScale": 10000
+  },
+  "8013001": {
+    "Id": 8013001,
+    "Model": "Actor/Character/13001/13001_Actor",
+    "RunAnimationSpd": 40000,
+    "WalkAnimationSpd": 40000,
+    "BarHeight": 10000,
+    "ModelScale": 12500,
+    "ColliderScale": 10000
+  },
+  "8013002": {
+    "Id": 8013002,
+    "Model": "Actor/Character/13001/13001_Pet",
+    "RunAnimationSpd": 40000,
+    "WalkAnimationSpd": 40000,
+    "BarHeight": 10000,
+    "ModelScale": 10000,
+    "ColliderScale": 10000
+  },
+  "8014301": {
+    "Id": 8014301,
+    "Model": "Actor/Character/14301/14301_Actor",
+    "RunAnimationSpd": 40000,
+    "WalkAnimationSpd": 40000,
+    "BarHeight": 10000,
+    "ModelScale": 12500,
+    "ColliderScale": 10000
+  },
+  "8014101": {
+    "Id": 8014101,
+    "Model": "Actor/Character/14101/14101_Actor",
+    "RunAnimationSpd": 40000,
+    "WalkAnimationSpd": 40000,
+    "BarHeight": 10000,
+    "ModelScale": 12500,
+    "ColliderScale": 10000
+  },
+  "8010701": {
+    "Id": 8010701,
+    "Model": "Actor/Character/10701/10701_Actor",
+    "RunAnimationSpd": 40000,
+    "WalkAnimationSpd": 40000,
+    "BarHeight": 10000,
+    "ModelScale": 12500,
     "ColliderScale": 10000
   }
 }

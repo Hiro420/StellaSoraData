@@ -299,13 +299,13 @@
     "Name": "ScoreBossGetControl.1019.1",
     "Desc": "ScoreBossGetControl.1019.2",
     "IconSource": "Icon/MonsterSkill/Bossrush/Icon_Bossrush_ShaSha_001",
-    "OnceScore": 360,
+    "OnceScore": 540,
     "MaxLimit": 5400,
     "Param1": "ScoreBossGetControl,NoLevel,1019,Value1,Fixed",
     "Param2": "ScoreBossGetControl,NoLevel,1019,Value2,Fixed",
     "Param3": "ScoreBossGetControl,NoLevel,1019,Value3,Fixed",
-    "Value1": "360",
-    "Value2": "15",
+    "Value1": "540",
+    "Value2": "10",
     "Value3": "5400"
   }
 }

@@ -667,5 +667,225 @@
     "AvgMotion": "style_34",
     "IsLast": true,
     "FirstCompleteReward": "{\"2\":50}"
+  },
+  "101060201": {
+    "Id": 101060201,
+    "ChapterId": 10106,
+    "Index": "ActivityStory.101060201.4",
+    "Title": "ActivityStory.101060201.1",
+    "Desc": "ActivityStory.101060201.2",
+    "Type": 3,
+    "StoryId": "STev_05_01",
+    "ConditionId": 101060201,
+    "Aim": "ActivityStory.101060201.3",
+    "AvgLuaName": "STev_05_01",
+    "AvgMotion": "style_41",
+    "FirstCompleteReward": "{\"2\":30}"
+  },
+  "101060202": {
+    "Id": 101060202,
+    "ChapterId": 10106,
+    "Index": "ActivityStory.101060202.4",
+    "Title": "ActivityStory.101060202.1",
+    "Desc": "ActivityStory.101060202.2",
+    "Type": 3,
+    "StoryId": "STev_05_02_a",
+    "ConditionId": 101060202,
+    "ParentStoryId": [
+      "STev_05_01"
+    ],
+    "Aim": "ActivityStory.101060202.3",
+    "AvgLuaName": "STev_05_02_a",
+    "AvgMotion": "style_41",
+    "FirstCompleteReward": "{\"2\":30}"
+  },
+  "101060203": {
+    "Id": 101060203,
+    "ChapterId": 10106,
+    "Index": "ActivityStory.101060203.4",
+    "Title": "ActivityStory.101060203.1",
+    "Desc": "ActivityStory.101060203.2",
+    "Type": 3,
+    "StoryId": "STev_05_02_b",
+    "ConditionId": 101060203,
+    "ParentStoryId": [
+      "STev_05_01"
+    ],
+    "Aim": "ActivityStory.101060203.3",
+    "AvgLuaName": "STev_05_02_b",
+    "AvgMotion": "style_41",
+    "FirstCompleteReward": "{\"2\":30}"
+  },
+  "101060204": {
+    "Id": 101060204,
+    "ChapterId": 10106,
+    "Index": "ActivityStory.101060204.4",
+    "Title": "ActivityStory.101060204.1",
+    "Desc": "ActivityStory.101060204.2",
+    "Type": 3,
+    "StoryId": "STev_05_02_c",
+    "ConditionId": 101060204,
+    "ParentStoryId": [
+      "STev_05_01"
+    ],
+    "Aim": "ActivityStory.101060204.3",
+    "AvgLuaName": "STev_05_02_c",
+    "AvgMotion": "style_41",
+    "FirstCompleteReward": "{\"2\":30}"
+  },
+  "101060205": {
+    "Id": 101060205,
+    "ChapterId": 10106,
+    "Index": "ActivityStory.101060205.4",
+    "Title": "ActivityStory.101060205.1",
+    "Desc": "ActivityStory.101060205.2",
+    "Type": 3,
+    "StoryId": "STev_05_03",
+    "ConditionId": 101060205,
+    "ParentStoryId": [
+      "STev_05_02_a",
+      "STev_05_02_b",
+      "STev_05_02_c"
+    ],
+    "Aim": "ActivityStory.101060205.3",
+    "AvgLuaName": "STev_05_03",
+    "AvgMotion": "style_41",
+    "FirstCompleteReward": "{\"2\":30}"
+  },
+  "101060206": {
+    "Id": 101060206,
+    "ChapterId": 10106,
+    "Index": "ActivityStory.101060206.4",
+    "Title": "ActivityStory.101060206.1",
+    "Desc": "ActivityStory.101060206.2",
+    "Type": 3,
+    "StoryId": "STev_05_04",
+    "ConditionId": 101060206,
+    "ParentStoryId": [
+      "STev_05_03"
+    ],
+    "Aim": "ActivityStory.101060206.3",
+    "AvgLuaName": "STev_05_04",
+    "AvgMotion": "style_41",
+    "FirstCompleteReward": "{\"2\":30}"
+  },
+  "101060207": {
+    "Id": 101060207,
+    "ChapterId": 10106,
+    "Index": "ActivityStory.101060207.4",
+    "Title": "ActivityStory.101060207.1",
+    "Desc": "ActivityStory.101060207.2",
+    "Type": 3,
+    "IsBattle": true,
+    "StoryId": "STev_05_BT01",
+    "FloorId": [
+      1060505
+    ],
+    "TrialBuild": 200070,
+    "PreviewMonsterGroupId": 300802,
+    "Recommend": "40",
+    "ConditionId": 101060207,
+    "ParentStoryId": [
+      "STev_05_04"
+    ],
+    "Aim": "ActivityStory.101060207.3",
+    "AvgMotion": "style_41",
+    "FirstCompleteReward": "{\"2\":30}"
+  },
+  "101060208": {
+    "Id": 101060208,
+    "ChapterId": 10106,
+    "Index": "ActivityStory.101060208.4",
+    "Title": "ActivityStory.101060208.1",
+    "Desc": "ActivityStory.101060208.2",
+    "Type": 3,
+    "StoryId": "STev_05_05",
+    "ConditionId": 101060208,
+    "ParentStoryId": [
+      "STev_05_BT01"
+    ],
+    "Aim": "ActivityStory.101060208.3",
+    "AvgLuaName": "STev_05_05",
+    "AvgMotion": "style_41",
+    "FirstCompleteReward": "{\"2\":30}"
+  },
+  "101060209": {
+    "Id": 101060209,
+    "ChapterId": 10106,
+    "DayOpen": 1,
+    "Index": "ActivityStory.101060209.4",
+    "Title": "ActivityStory.101060209.1",
+    "Desc": "ActivityStory.101060209.2",
+    "Type": 3,
+    "StoryId": "STev_05_06",
+    "ConditionId": 101060209,
+    "ParentStoryId": [
+      "STev_05_05"
+    ],
+    "Aim": "ActivityStory.101060209.3",
+    "AvgLuaName": "STev_05_06",
+    "AvgMotion": "style_41",
+    "FirstCompleteReward": "{\"2\":30}"
+  },
+  "101060210": {
+    "Id": 101060210,
+    "ChapterId": 10106,
+    "DayOpen": 1,
+    "Index": "ActivityStory.101060210.4",
+    "Title": "ActivityStory.101060210.1",
+    "Desc": "ActivityStory.101060210.2",
+    "Type": 3,
+    "IsBattle": true,
+    "StoryId": "STev_05_BT02",
+    "FloorId": [
+      1060506
+    ],
+    "TrialBuild": 200080,
+    "PreviewMonsterGroupId": 300808,
+    "Recommend": "40",
+    "ConditionId": 101060210,
+    "ParentStoryId": [
+      "STev_05_06"
+    ],
+    "Aim": "ActivityStory.101060210.3",
+    "AvgMotion": "style_41",
+    "FirstCompleteReward": "{\"2\":30}"
+  },
+  "101060211": {
+    "Id": 101060211,
+    "ChapterId": 10106,
+    "DayOpen": 1,
+    "Index": "ActivityStory.101060211.4",
+    "Title": "ActivityStory.101060211.1",
+    "Desc": "ActivityStory.101060211.2",
+    "Type": 3,
+    "StoryId": "STev_05_07",
+    "ConditionId": 101060211,
+    "ParentStoryId": [
+      "STev_05_BT02"
+    ],
+    "Aim": "ActivityStory.101060211.3",
+    "AvgLuaName": "STev_05_07",
+    "AvgMotion": "style_41",
+    "FirstCompleteReward": "{\"2\":30}"
+  },
+  "101060212": {
+    "Id": 101060212,
+    "ChapterId": 10106,
+    "DayOpen": 1,
+    "Index": "ActivityStory.101060212.4",
+    "Title": "ActivityStory.101060212.1",
+    "Desc": "ActivityStory.101060212.2",
+    "Type": 3,
+    "StoryId": "STev_05_08",
+    "ConditionId": 101060212,
+    "ParentStoryId": [
+      "STev_05_07"
+    ],
+    "Aim": "ActivityStory.101060212.3",
+    "AvgLuaName": "STev_05_08",
+    "AvgMotion": "style_41",
+    "IsLast": true,
+    "FirstCompleteReward": "{\"2\":50}"
   }
 }

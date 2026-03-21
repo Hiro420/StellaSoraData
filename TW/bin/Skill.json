@@ -1589,7 +1589,7 @@
     "UltraEnergy": 2850000,
     "Param1": "HitDamage,DamageNum,113400011",
     "Param2": "HitDamage,DamageNum,113000001",
-    "Param3": "HitDamage,DamageNum,113320000",
+    "Param3": "HitDamage,DamageNum,113400001",
     "CheckSkillInterval": true
   },
   "11340009": {
@@ -1838,8 +1838,9 @@
     "Desc": "Skill.13010001.2",
     "Icon": "Icon/Skill/13001_Normal",
     "MaxLevel": 10,
-    "GetEnergyLimit": 25600,
+    "GetEnergyLimit": 33300,
     "Param1": "HitDamage,DamageNum,130100001",
+    "Param2": "HitDamage,DamageNum,130310003",
     "CheckSkillInterval": true
   },
   "13010002": {
@@ -1850,7 +1851,7 @@
     "BriefDesc": "Skill.13010002.13",
     "Desc": "Skill.13010002.2",
     "MaxLevel": 10,
-    "GetEnergyLimit": 45400,
+    "GetEnergyLimit": 30900,
     "CheckSkillInterval": true
   },
   "13010003": {
@@ -1887,9 +1888,8 @@
     "Icon": "Icon/Skill/13001_Ultra",
     "SkillCD": 300000,
     "MaxLevel": 10,
-    "UltraEnergy": 2750000,
+    "UltraEnergy": 2600000,
     "Param1": "HitDamage,DamageNum,130400001",
-    "Param2": "HitDamage,DamageNum,130000001",
     "CheckSkillInterval": true
   },
   "13070000": {
@@ -1913,7 +1913,7 @@
     "SkillCD": 240000,
     "MaxLevel": 10,
     "Param1": "HitDamage,DamageNum,130310002",
-    "Param2": "OnceAdditionalAttribute,LevelUp,13093001,Value1,10KHdPct",
+    "Param2": "HitDamage,DamageNum,130310003",
     "Param3": "HitDamage,DamageNum,130310003",
     "Param4": "HitDamage,DamageNum,130000001",
     "CheckSkillInterval": true
@@ -1932,7 +1932,8 @@
     "Param2": "HitDamage,DamageNum,130320002",
     "Param3": "HitDamage,DamageNum,130320003",
     "Param4": "HitDamage,DamageNum,130320004",
-    "Param5": "HitDamage,DamageNum,130000001",
+    "Param5": "HitDamage,DamageNum,130320005",
+    "Param6": "HitDamage,DamageNum,130320006",
     "CheckSkillInterval": true
   },
   "13031001": {
@@ -3391,7 +3392,7 @@
     "Desc": "Skill.14510000.2",
     "Icon": "Icon/Skill/14201_Normal",
     "MaxLevel": 10,
-    "GetEnergyLimit": 111000,
+    "GetEnergyLimit": 50000,
     "Param1": "HitDamage,DamageNum,145100001",
     "Param2": "HitDamage,DamageNum,145100002",
     "Param3": "HitDamage,DamageNum,145100003",
@@ -3408,7 +3409,6 @@
     "Icon": "Icon/Skill/Common_Dodge",
     "SkillCD": 10000,
     "MaxLevel": 1,
-    "SectionAmount": 2,
     "UseInterval": 2000
   },
   "14531000": {
@@ -3419,9 +3419,9 @@
     "BriefDesc": "Skill.14531000.13",
     "Desc": "Skill.14531000.2",
     "Icon": "Icon/Skill/14201_Skill_Main",
-    "SkillCD": 70000,
+    "SkillCD": 40000,
     "MaxLevel": 10,
-    "GetEnergyLimit": 195700,
+    "GetEnergyLimit": 80000,
     "Param1": "HitDamage,DamageNum,145300001",
     "Param2": "HitDamage,DamageNum,145300002",
     "Param3": "Effect,LevelUp,14593001,EffectTypeFirstSubtype,Enum,EAT",
@@ -3455,7 +3455,7 @@
     "Icon": "Icon/Skill/14201_Ultra",
     "SkillCD": 400000,
     "MaxLevel": 10,
-    "UltraEnergy": 2000000,
+    "UltraEnergy": 3000000,
     "Param1": "HitDamage,DamageNum,145400001",
     "CheckSkillInterval": true
   },
@@ -4320,12 +4320,103 @@
   "14031000": {
     "Id": 14031000,
     "Title": "Skill.14031000.1",
-    "FCPath": "AIScript.Character._14001.SkillScript_MainControl",
+    "FCPath": "AIScript.Character._14001.SkillScript_Skill_MainControl",
     "Type": 3,
     "BriefDesc": "Skill.14031000.13",
     "Desc": "Skill.14031000.2",
     "Icon": "Icon/Skill/14001_Skill_Main",
+    "SkillCD": 100000,
+    "MaxLevel": 10,
+    "GetEnergyLimit": 262000,
+    "CheckSkillInterval": true
+  },
+  "14031001": {
+    "Id": 14031001,
+    "Title": "Skill.14031001.1",
+    "FCPath": "AIScript.Character._14001.SkillScript_Dodge_TransformMode_MainControl",
+    "Type": 3,
+    "BriefDesc": "Skill.14031001.13",
+    "Desc": "Skill.14031001.2",
+    "Icon": "Icon/Skill/14001_Skill_Main",
     "SkillCD": 10000,
+    "MaxLevel": 10,
+    "GetEnergyLimit": 262000,
+    "CheckSkillInterval": true
+  },
+  "14031002": {
+    "Id": 14031002,
+    "Title": "Skill.14031002.1",
+    "FCPath": "AIScript.Character._14001.SkillScript_Rush_TransformMode_MainControl",
+    "Type": 3,
+    "BriefDesc": "Skill.14031002.13",
+    "Desc": "Skill.14031002.2",
+    "Icon": "Icon/Skill/14001_Skill_Main",
+    "SkillCD": 10000,
+    "MaxLevel": 10,
+    "GetEnergyLimit": 262000,
+    "CheckSkillInterval": true
+  },
+  "14031003": {
+    "Id": 14031003,
+    "Title": "Skill.14031003.1",
+    "FCPath": "AIScript.Character._14001.SkillScript_Return_TransformMode_MainControl",
+    "Type": 3,
+    "BriefDesc": "Skill.14031003.13",
+    "Desc": "Skill.14031003.2",
+    "Icon": "Icon/Skill/14001_Skill_Main",
+    "SkillCD": 10000,
+    "MaxLevel": 10,
+    "GetEnergyLimit": 262000,
+    "CheckSkillInterval": true
+  },
+  "14031011": {
+    "Id": 14031011,
+    "Title": "Skill.14031011.1",
+    "FCPath": "AIScript.Character._14001.SkillScript_NormalAttack_Tank_MainControl",
+    "Type": 3,
+    "BriefDesc": "Skill.14031011.13",
+    "Desc": "Skill.14031011.2",
+    "Icon": "Icon/Skill/14001_Skill_Main",
+    "SkillCD": 10000,
+    "MaxLevel": 10,
+    "GetEnergyLimit": 262000,
+    "CheckSkillInterval": true
+  },
+  "14031012": {
+    "Id": 14031012,
+    "Title": "Skill.14031012.1",
+    "FCPath": "AIScript.Character._14001.SkillScript_Skill_Tank_MainControl",
+    "Type": 3,
+    "BriefDesc": "Skill.14031012.13",
+    "Desc": "Skill.14031012.2",
+    "Icon": "Icon/Skill/14001_Skill_Main",
+    "SkillCD": 10000,
+    "MaxLevel": 10,
+    "GetEnergyLimit": 262000,
+    "CheckSkillInterval": true
+  },
+  "14031021": {
+    "Id": 14031021,
+    "Title": "Skill.14031021.1",
+    "FCPath": "AIScript.Character._14001.SkillScript_NormalAttack_MiniGun_MainControl",
+    "Type": 3,
+    "BriefDesc": "Skill.14031021.13",
+    "Desc": "Skill.14031021.2",
+    "Icon": "Icon/Skill/14001_Skill_Main",
+    "SkillCD": 10000,
+    "MaxLevel": 10,
+    "GetEnergyLimit": 262000,
+    "CheckSkillInterval": true
+  },
+  "14031022": {
+    "Id": 14031022,
+    "Title": "Skill.14031022.1",
+    "FCPath": "AIScript.Character._14001.SkillScript_Skill_MiniGun_MainControl",
+    "Type": 3,
+    "BriefDesc": "Skill.14031022.13",
+    "Desc": "Skill.14031022.2",
+    "Icon": "Icon/Skill/14001_Skill_Main",
+    "SkillCD": 40000,
     "MaxLevel": 10,
     "GetEnergyLimit": 262000,
     "CheckSkillInterval": true
@@ -5764,6 +5855,14 @@
     "Type": 1,
     "BriefDesc": "Skill.1000699.13",
     "Desc": "Skill.1000699.2"
+  },
+  "1001601": {
+    "Id": 1001601,
+    "Title": "Skill.1001601.1",
+    "FCPath": "AIScript.Monster._10016ShuiYu.Skill_FanAttack",
+    "Type": 2,
+    "BriefDesc": "Skill.1001601.13",
+    "Desc": "Skill.1001601.2"
   },
   "1001698": {
     "Id": 1001698,
@@ -17421,7 +17520,7 @@
   "5017112": {
     "Id": 5017112,
     "Title": "Skill.5017112.1",
-    "FCPath": "AIScript.Monster._50171BingXiangGuai_V3.Skill02_NormalAttack",
+    "FCPath": "AIScript.Monster._50171BingXiangGuai_V3.Skill02_NormalAttack_Fan",
     "Type": 2,
     "BriefDesc": "Skill.5017112.13",
     "Desc": "Skill.5017112.2",
@@ -17524,6 +17623,15 @@
     "Type": 2,
     "BriefDesc": "Skill.5017125.13",
     "Desc": "Skill.5017125.2",
+    "MaxLevel": 1
+  },
+  "5017126": {
+    "Id": 5017126,
+    "Title": "Skill.5017126.1",
+    "FCPath": "AIScript.Monster._50171BingXiangGuai_V3.Skill02_NormalAttack_Circle",
+    "Type": 2,
+    "BriefDesc": "Skill.5017126.13",
+    "Desc": "Skill.5017126.2",
     "MaxLevel": 1
   },
   "7000101": {
@@ -17985,6 +18093,67 @@
     "Desc": "Skill.1000799.2",
     "MaxLevel": 1
   },
+  "3080301": {
+    "Id": 3080301,
+    "Title": "Skill.3080301.1",
+    "FCPath": "AIScript.Monster.Activity.Duona.Skill_Check_Red",
+    "Type": 2,
+    "BriefDesc": "Skill.3080301.13",
+    "Desc": "Skill.3080301.2",
+    "MaxLevel": 1
+  },
+  "3080302": {
+    "Id": 3080302,
+    "Title": "Skill.3080302.1",
+    "FCPath": "AIScript.Monster.Activity.Duona.Skill_Check_Blue",
+    "Type": 2,
+    "BriefDesc": "Skill.3080302.13",
+    "Desc": "Skill.3080302.2",
+    "MaxLevel": 1
+  },
+  "3080303": {
+    "Id": 3080303,
+    "Title": "Skill.3080303.1",
+    "FCPath": "AIScript.Monster.Activity.Duona.Skill_Check_Gold",
+    "Type": 2,
+    "BriefDesc": "Skill.3080303.13",
+    "Desc": "Skill.3080303.2",
+    "MaxLevel": 1
+  },
+  "3080304": {
+    "Id": 3080304,
+    "Title": "Skill.3080304.1",
+    "FCPath": "AIScript.Monster.Activity.Duona.Skill_Check_Red_Envelope",
+    "Type": 2,
+    "BriefDesc": "Skill.3080304.13",
+    "Desc": "Skill.3080304.2",
+    "MaxLevel": 1
+  },
+  "3080305": {
+    "Id": 3080305,
+    "Title": "Skill.3080305.1",
+    "FCPath": "AIScript.Monster.Activity.Duona.Skill_Check_Blue_Envelope",
+    "Type": 2,
+    "BriefDesc": "Skill.3080305.13",
+    "Desc": "Skill.3080305.2",
+    "MaxLevel": 1
+  },
+  "3080306": {
+    "Id": 3080306,
+    "Title": "Skill.3080306.1",
+    "FCPath": "AIScript.Monster.Activity.Duona.Skill_Check_Gold_Envelope",
+    "Type": 2,
+    "BriefDesc": "Skill.3080306.13",
+    "Desc": "Skill.3080306.2",
+    "MaxLevel": 1
+  },
+  "3080307": {
+    "Id": 3080307,
+    "Title": "Skill.3080307.1",
+    "FCPath": "AIScript.Monster.Activity.Duona.Skill_Special_Die",
+    "BriefDesc": "Skill.3080307.13",
+    "Desc": "Skill.3080307.2"
+  },
   "7200101": {
     "Id": 7200101,
     "Title": "Skill.7200101.1",
@@ -18208,6 +18377,222 @@
     "Type": 2,
     "BriefDesc": "Skill.7200703.13",
     "Desc": "Skill.7200703.2",
+    "MaxLevel": 1
+  },
+  "3093151": {
+    "Id": 3093151,
+    "Title": "Skill.3093151.1",
+    "FCPath": "AIScript.Monster._30931HaSaNa_MiniBoss.Skill01_SandBullet",
+    "Type": 2,
+    "BriefDesc": "Skill.3093151.13",
+    "Desc": "Skill.3093151.2",
+    "MaxLevel": 1
+  },
+  "3093152": {
+    "Id": 3093152,
+    "Title": "Skill.3093152.1",
+    "FCPath": "AIScript.Monster._30931HaSaNa_MiniBoss.Skill02_SandPillar",
+    "Type": 2,
+    "BriefDesc": "Skill.3093152.13",
+    "Desc": "Skill.3093152.2",
+    "MaxLevel": 1
+  },
+  "3093153": {
+    "Id": 3093153,
+    "Title": "Skill.3093153.1",
+    "FCPath": "AIScript.Monster._30931HaSaNa_MiniBoss.Skill03_CallSandSoldier",
+    "Type": 2,
+    "BriefDesc": "Skill.3093153.13",
+    "Desc": "Skill.3093153.2",
+    "MaxLevel": 1
+  },
+  "3093154": {
+    "Id": 3093154,
+    "Title": "Skill.3093154.1",
+    "FCPath": "AIScript.Monster._30931HaSaNa_MiniBoss.Skill04_SandWave",
+    "Type": 2,
+    "BriefDesc": "Skill.3093154.13",
+    "Desc": "Skill.3093154.2",
+    "MaxLevel": 1
+  },
+  "3093155": {
+    "Id": 3093155,
+    "Title": "Skill.3093155.1",
+    "FCPath": "AIScript.Monster._30931HaSaNa_MiniBoss.Skill05_CallArmy",
+    "Type": 2,
+    "BriefDesc": "Skill.3093155.13",
+    "Desc": "Skill.3093155.2",
+    "MaxLevel": 1
+  },
+  "3093156": {
+    "Id": 3093156,
+    "Title": "Skill.3093156.1",
+    "FCPath": "AIScript.Monster._30931HaSaNa_MiniBoss.Attack01_Temporary",
+    "Type": 2,
+    "BriefDesc": "Skill.3093156.13",
+    "Desc": "Skill.3093156.2",
+    "MaxLevel": 1
+  },
+  "3093157": {
+    "Id": 3093157,
+    "Title": "Skill.3093157.1",
+    "FCPath": "AIScript.Monster._30931HaSaNa_MiniBoss.Skill06_ActivateSandArea",
+    "Type": 2,
+    "BriefDesc": "Skill.3093157.13",
+    "Desc": "Skill.3093157.2",
+    "MaxLevel": 1
+  },
+  "3093158": {
+    "Id": 3093158,
+    "Title": "Skill.3093158.1",
+    "FCPath": "AIScript.Monster._30931HaSaNa_MiniBoss.SandArea_Spawn",
+    "Type": 2,
+    "BriefDesc": "Skill.3093158.13",
+    "Desc": "Skill.3093158.2",
+    "MaxLevel": 1
+  },
+  "3093159": {
+    "Id": 3093159,
+    "Title": "Skill.3093159.1",
+    "FCPath": "AIScript.Monster._30931HaSaNa_MiniBoss.SandArea_Broadcast",
+    "Type": 2,
+    "BriefDesc": "Skill.3093159.13",
+    "Desc": "Skill.3093159.2",
+    "MaxLevel": 1
+  },
+  "3093160": {
+    "Id": 3093160,
+    "Title": "Skill.3093160.1",
+    "FCPath": "AIScript.Monster._30931HaSaNa_MiniBoss.Skill_Spawn",
+    "Type": 2,
+    "BriefDesc": "Skill.3093160.13",
+    "Desc": "Skill.3093160.2",
+    "MaxLevel": 1
+  },
+  "3093161": {
+    "Id": 3093161,
+    "Title": "Skill.3093161.1",
+    "FCPath": "AIScript.Monster._30931HaSaNa_MiniBoss.Skill_Wander",
+    "Type": 2,
+    "BriefDesc": "Skill.3093161.13",
+    "Desc": "Skill.3093161.2",
+    "MaxLevel": 1
+  },
+  "3093162": {
+    "Id": 3093162,
+    "Title": "Skill.3093162.1",
+    "FCPath": "AIScript.Monster._30931HaSaNa_MiniBoss.Attack02_Temporary",
+    "Type": 2,
+    "BriefDesc": "Skill.3093162.13",
+    "Desc": "Skill.3093162.2",
+    "MaxLevel": 1
+  },
+  "3090101": {
+    "Id": 3090101,
+    "Title": "Skill.3090101.1",
+    "FCPath": "AIScript.Monster._30901ChiHou.Skill01_Slash",
+    "Type": 2,
+    "BriefDesc": "Skill.3090101.13",
+    "Desc": "Skill.3090101.2",
+    "MaxLevel": 1
+  },
+  "3090102": {
+    "Id": 3090102,
+    "Title": "Skill.3090102.1",
+    "FCPath": "AIScript.Monster._30901ChiHou.Skill02_DashAttack",
+    "Type": 2,
+    "BriefDesc": "Skill.3090102.13",
+    "Desc": "Skill.3090102.2",
+    "MaxLevel": 1
+  },
+  "3090103": {
+    "Id": 3090103,
+    "Title": "Skill.3090103.1",
+    "FCPath": "AIScript.Monster._30901ChiHou.SummonSkill01_ShieldDash",
+    "Type": 2,
+    "BriefDesc": "Skill.3090103.13",
+    "Desc": "Skill.3090103.2",
+    "MaxLevel": 1
+  },
+  "3090104": {
+    "Id": 3090104,
+    "Title": "Skill.3090104.1",
+    "FCPath": "AIScript.Monster._30901ChiHou.SummonSkill02_ShieldSmash",
+    "Type": 2,
+    "BriefDesc": "Skill.3090104.13",
+    "Desc": "Skill.3090104.2",
+    "MaxLevel": 1
+  },
+  "3090105": {
+    "Id": 3090105,
+    "Title": "Skill.3090105.1",
+    "FCPath": "AIScript.Monster._30901ChiHou.SandSpawn",
+    "Type": 2,
+    "BriefDesc": "Skill.3090105.13",
+    "Desc": "Skill.3090105.2",
+    "MaxLevel": 1
+  },
+  "3090106": {
+    "Id": 3090106,
+    "Title": "Skill.3090106.1",
+    "FCPath": "AIScript.Monster._30901ChiHou.SandDie",
+    "Type": 2,
+    "BriefDesc": "Skill.3090106.13",
+    "Desc": "Skill.3090106.2",
+    "MaxLevel": 1
+  },
+  "3090107": {
+    "Id": 3090107,
+    "Title": "Skill.3090107.1",
+    "FCPath": "AIScript.Monster._30901ChiHou.SandBoom",
+    "Type": 2,
+    "BriefDesc": "Skill.3090107.13",
+    "Desc": "Skill.3090107.2",
+    "MaxLevel": 1
+  },
+  "3090108": {
+    "Id": 3090108,
+    "Title": "Skill.3090108.1",
+    "FCPath": "AIScript.Monster._30901ChiHou.SummonSkill03_DashAndSmash",
+    "Type": 2,
+    "BriefDesc": "Skill.3090108.13",
+    "Desc": "Skill.3090108.2",
+    "MaxLevel": 1
+  },
+  "3090109": {
+    "Id": 3090109,
+    "Title": "Skill.3090109.1",
+    "FCPath": "AIScript.Monster._30901ChiHou.Skill_Die",
+    "Type": 2,
+    "BriefDesc": "Skill.3090109.13",
+    "Desc": "Skill.3090109.2",
+    "MaxLevel": 1
+  },
+  "3091101": {
+    "Id": 3091101,
+    "Title": "Skill.3091101.1",
+    "FCPath": "AIScript.Monster._30911NuShou.Skill01_SingleShoot_OneArrow",
+    "Type": 2,
+    "BriefDesc": "Skill.3091101.13",
+    "Desc": "Skill.3091101.2",
+    "MaxLevel": 1
+  },
+  "3091102": {
+    "Id": 3091102,
+    "Title": "Skill.3091102.1",
+    "FCPath": "AIScript.Monster._30911NuShou.Skill02_SingleShoot_ThreeArrows",
+    "Type": 2,
+    "BriefDesc": "Skill.3091102.13",
+    "Desc": "Skill.3091102.2",
+    "MaxLevel": 1
+  },
+  "3091103": {
+    "Id": 3091103,
+    "Title": "Skill.3091103.1",
+    "FCPath": "AIScript.Monster._30911NuShou.Skill03_TripleShoot",
+    "Type": 2,
+    "BriefDesc": "Skill.3091103.13",
+    "Desc": "Skill.3091103.2",
     "MaxLevel": 1
   },
   "5000901": {
@@ -18791,6 +19176,113 @@
     "Icon": "Icon/Skill/11001_Skill_Main",
     "MaxLevel": 1
   },
+  "8013001": {
+    "Id": 8013001,
+    "Title": "Skill.8013001.1",
+    "FCPath": "AIScript.Monster.TowerDefense._13001.SkillScript_NormalAttack",
+    "Type": 1,
+    "BriefDesc": "Skill.8013001.13",
+    "Desc": "Skill.8013001.2",
+    "Icon": "Icon/Skill/13001_Normal",
+    "MaxLevel": 1
+  },
+  "8013002": {
+    "Id": 8013002,
+    "Title": "Skill.8013002.1",
+    "FCPath": "AIScript.Monster.TowerDefense._13001.SkillScript_Skill",
+    "Type": 2,
+    "BriefDesc": "Skill.8013002.13",
+    "Desc": "Skill.8013002.2",
+    "Icon": "Icon/Skill/13001_Skill_Main",
+    "MaxLevel": 1
+  },
+  "8013003": {
+    "Id": 8013003,
+    "Title": "Skill.8013003.1",
+    "FCPath": "AIScript.Monster.TowerDefense._13001.Skill_Spawn",
+    "Type": 2,
+    "BriefDesc": "Skill.8013003.13",
+    "Desc": "Skill.8013003.2",
+    "MaxLevel": 1
+  },
+  "8013004": {
+    "Id": 8013004,
+    "Title": "Skill.8013004.1",
+    "FCPath": "AIScript.Monster.TowerDefense._13001.SkillScript_Death",
+    "Type": 2,
+    "BriefDesc": "Skill.8013004.13",
+    "Desc": "Skill.8013004.2",
+    "MaxLevel": 1
+  },
+  "8013005": {
+    "Id": 8013005,
+    "Title": "Skill.8013005.1",
+    "FCPath": "AIScript.Monster.TowerDefense._13001.SkillScript_SummonNormalAttack",
+    "Type": 2,
+    "BriefDesc": "Skill.8013005.13",
+    "Desc": "Skill.8013005.2",
+    "MaxLevel": 1
+  },
+  "8014301": {
+    "Id": 8014301,
+    "Title": "Skill.8014301.1",
+    "FCPath": "AIScript.Monster.TowerDefense._14301.SkillScript_NormalAttack",
+    "Type": 1,
+    "BriefDesc": "Skill.8014301.13",
+    "Desc": "Skill.8014301.2",
+    "Icon": "Icon/Skill/14301_Normal",
+    "MaxLevel": 1
+  },
+  "8014302": {
+    "Id": 8014302,
+    "Title": "Skill.8014302.1",
+    "FCPath": "AIScript.Monster.TowerDefense._14301.SkillScript_Skill",
+    "Type": 2,
+    "BriefDesc": "Skill.8014302.13",
+    "Desc": "Skill.8014302.2",
+    "Icon": "Icon/Skill/14301_Skill_Main",
+    "MaxLevel": 1
+  },
+  "8014101": {
+    "Id": 8014101,
+    "Title": "Skill.8014101.1",
+    "FCPath": "AIScript.Monster.TowerDefense._14101.SkillScript_NormalAttack",
+    "Type": 1,
+    "BriefDesc": "Skill.8014101.13",
+    "Desc": "Skill.8014101.2",
+    "Icon": "Icon/Skill/14101_Normal",
+    "MaxLevel": 1
+  },
+  "8014102": {
+    "Id": 8014102,
+    "Title": "Skill.8014102.1",
+    "FCPath": "AIScript.Monster.TowerDefense._14101.SkillScript_Skill",
+    "Type": 2,
+    "BriefDesc": "Skill.8014102.13",
+    "Desc": "Skill.8014102.2",
+    "Icon": "Icon/Skill/14101_Skill_Main",
+    "MaxLevel": 1
+  },
+  "8010701": {
+    "Id": 8010701,
+    "Title": "Skill.8010701.1",
+    "FCPath": "AIScript.Monster.TowerDefense._10701.SkillScript_NormalAttack",
+    "Type": 1,
+    "BriefDesc": "Skill.8010701.13",
+    "Desc": "Skill.8010701.2",
+    "Icon": "Icon/Skill/10701_Normal",
+    "MaxLevel": 1
+  },
+  "8010702": {
+    "Id": 8010702,
+    "Title": "Skill.8010702.1",
+    "FCPath": "AIScript.Monster.TowerDefense._10701.SkillScript_Skill",
+    "Type": 2,
+    "BriefDesc": "Skill.8010702.13",
+    "Desc": "Skill.8010702.2",
+    "Icon": "Icon/Skill/10701_Skill_Support",
+    "MaxLevel": 1
+  },
   "8000001": {
     "Id": 8000001,
     "Title": "Skill.8000001.1",
@@ -18807,6 +19299,15 @@
     "Type": 2,
     "BriefDesc": "Skill.8000002.13",
     "Desc": "Skill.8000002.2"
+  },
+  "8060301": {
+    "Id": 8060301,
+    "Title": "Skill.8060301.1",
+    "FCPath": "AIScript.Monster.TowerDefense.Skill.Skill_YuanChengFengCao_Death",
+    "Type": 2,
+    "BriefDesc": "Skill.8060301.13",
+    "Desc": "Skill.8060301.2",
+    "MaxLevel": 1
   },
   "8070101": {
     "Id": 8070101,
@@ -18826,6 +19327,15 @@
     "Desc": "Skill.8070201.2",
     "MaxLevel": 1
   },
+  "8070301": {
+    "Id": 8070301,
+    "Title": "Skill.8070301.1",
+    "FCPath": "AIScript.Monster.TowerDefense.Skill.Skill_JinZhanFengCao_GrowGrass",
+    "Type": 2,
+    "BriefDesc": "Skill.8070301.13",
+    "Desc": "Skill.8070301.2",
+    "MaxLevel": 1
+  },
   "8080101": {
     "Id": 8080101,
     "Title": "Skill.8080101.1",
@@ -18842,6 +19352,15 @@
     "Type": 2,
     "BriefDesc": "Skill.8080201.13",
     "Desc": "Skill.8080201.2",
+    "MaxLevel": 1
+  },
+  "8080301": {
+    "Id": 8080301,
+    "Title": "Skill.8080301.1",
+    "FCPath": "AIScript.Monster.TowerDefense.Skill.Skill_ShuZhuangShu_GrowGrass",
+    "Type": 2,
+    "BriefDesc": "Skill.8080301.13",
+    "Desc": "Skill.8080301.2",
     "MaxLevel": 1
   }
 }

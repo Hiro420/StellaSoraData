@@ -551,7 +551,7 @@
   },
   "30101": {
     "Id": 30101,
-    "Explanation": "缭乱碎晶球结束倒计时邮件",
+    "Explanation": "缭乱弹珠台结束倒计时邮件",
     "Icon": "Icon/Head/head_npc13301",
     "Author": "MailTemplate.30101.1",
     "LetterPaper": "background2",
@@ -561,7 +561,7 @@
   },
   "30102": {
     "Id": 30102,
-    "Explanation": "缭乱碎晶球活动结束货币转换邮件",
+    "Explanation": "缭乱弹珠台活动结束货币转换邮件",
     "Icon": "Icon/Head/head_npc13301",
     "Author": "MailTemplate.30102.1",
     "LetterPaper": "background2",
@@ -571,7 +571,7 @@
   },
   "30103": {
     "Id": 30103,
-    "Explanation": "缭乱碎晶球活动任务结束未领取邮件",
+    "Explanation": "缭乱弹珠台活动任务结束未领取邮件",
     "Icon": "Icon/Head/head_npc13301",
     "Author": "MailTemplate.30103.1",
     "LetterPaper": "background2",
@@ -607,6 +607,36 @@
     "LetterPaper": "background2",
     "Subject": "MailTemplate.10503.2",
     "Desc": "MailTemplate.10503.3",
+    "Type": 1
+  },
+  "10601": {
+    "Id": 10601,
+    "Explanation": "敬启，致珍重的你 活动结束倒计时邮件",
+    "Icon": "Icon/Head/head_12501",
+    "Author": "MailTemplate.10601.1",
+    "LetterPaper": "background2",
+    "Subject": "MailTemplate.10601.2",
+    "Desc": "MailTemplate.10601.3",
+    "Type": 1
+  },
+  "10602": {
+    "Id": 10602,
+    "Explanation": "敬启，致珍重的你 活动结束货币转换邮件",
+    "Icon": "Icon/Head/head_12501",
+    "Author": "MailTemplate.10602.1",
+    "LetterPaper": "background2",
+    "Subject": "MailTemplate.10602.2",
+    "Desc": "MailTemplate.10602.3",
+    "Type": 1
+  },
+  "10603": {
+    "Id": 10603,
+    "Explanation": "敬启，致珍重的你 活动任务结束未领取邮件",
+    "Icon": "Icon/Head/head_12501",
+    "Author": "MailTemplate.10603.1",
+    "LetterPaper": "background2",
+    "Subject": "MailTemplate.10603.2",
+    "Desc": "MailTemplate.10603.3",
     "Type": 1
   },
   "9999": {

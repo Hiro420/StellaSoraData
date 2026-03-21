@@ -166,5 +166,61 @@
     "SkillDes": "MiningSupport.307.2",
     "SupportEffect": 9,
     "SupportParams": "[3,1]"
+  },
+  "401": {
+    "Id": 401,
+    "CharIcon": "Icon/Head/head_12701",
+    "SkillName": "MiningSupport.401.1",
+    "SkillDes": "MiningSupport.401.2",
+    "SupportEffect": 9,
+    "SupportParams": "[3,1]"
+  },
+  "402": {
+    "Id": 402,
+    "CharIcon": "Icon/Head/head_11101",
+    "SkillName": "MiningSupport.402.1",
+    "SkillDes": "MiningSupport.402.2",
+    "SupportEffect": 5,
+    "SupportParams": "[3,2,1]"
+  },
+  "403": {
+    "Id": 403,
+    "CharIcon": "Icon/Head/head_13001",
+    "SkillName": "MiningSupport.403.1",
+    "SkillDes": "MiningSupport.403.2",
+    "SupportEffect": 6,
+    "SupportParams": "[2,2,1]"
+  },
+  "404": {
+    "Id": 404,
+    "CharIcon": "Icon/Head/head_npc16101",
+    "SkillName": "MiningSupport.404.1",
+    "SkillDes": "MiningSupport.404.2",
+    "SupportEffect": 7,
+    "SupportParams": "[3,1,2,1]"
+  },
+  "405": {
+    "Id": 405,
+    "CharIcon": "Icon/Head/head_12501",
+    "SkillName": "MiningSupport.405.1",
+    "SkillDes": "MiningSupport.405.2",
+    "SupportEffect": 3,
+    "SupportParams": "[3,1]"
+  },
+  "406": {
+    "Id": 406,
+    "CharIcon": "Icon/Head/head_11201",
+    "SkillName": "MiningSupport.406.1",
+    "SkillDes": "MiningSupport.406.2",
+    "SupportEffect": 13,
+    "SupportParams": "[25]"
+  },
+  "407": {
+    "Id": 407,
+    "CharIcon": "Icon/Head/head_10301",
+    "SkillName": "MiningSupport.407.1",
+    "SkillDes": "MiningSupport.407.2",
+    "SupportEffect": 8,
+    "SupportParams": "[100,2]"
   }
 }

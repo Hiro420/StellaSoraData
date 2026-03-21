@@ -724,5 +724,27 @@
     "Desc2": "DatingStartEndEvent.143102.2",
     "Desc3": "DatingStartEndEvent.143102.3",
     "Response": "shy"
+  },
+  "130101": {
+    "Id": 130101,
+    "DatingEventType": 1,
+    "DatingEventParams": [
+      130
+    ],
+    "Desc1": "DatingStartEndEvent.130101.1",
+    "Desc2": "DatingStartEndEvent.130101.2",
+    "Desc3": "DatingStartEndEvent.130101.3",
+    "Response": "greet"
+  },
+  "130102": {
+    "Id": 130102,
+    "DatingEventType": 2,
+    "DatingEventParams": [
+      130
+    ],
+    "Desc1": "DatingStartEndEvent.130102.1",
+    "Desc2": "DatingStartEndEvent.130102.2",
+    "Desc3": "DatingStartEndEvent.130102.3",
+    "Response": "shy"
   }
 }

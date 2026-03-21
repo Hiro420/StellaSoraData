@@ -730,6 +730,7 @@
     "VoBegin2": 6.906,
     "VoLoop2": 13.813,
     "VoName2": "DiscIP.214008.2",
+    "AvgId": "CG_disc4008",
     "StoryName": "DiscIP.214008.3",
     "StoryDesc": "DiscIP.214008.4",
     "CharId": [
@@ -1202,16 +1203,6 @@
     "StoryName": "DiscIP.214041.3",
     "StoryDesc": "DiscIP.214041.4"
   },
-  "214042": {
-    "Id": 214042,
-    "VoFile": "outfit_4042",
-    "VoLoop1": 120.0,
-    "VoName1": "DiscIP.214042.1",
-    "VoLoop2": 15.199,
-    "VoName2": "DiscIP.214042.2",
-    "StoryName": "DiscIP.214042.3",
-    "StoryDesc": "DiscIP.214042.4"
-  },
   "214043": {
     "Id": 214043,
     "VoFile": "outfit_4043",
@@ -1227,6 +1218,28 @@
       110
     ]
   },
+  "214048": {
+    "Id": 214048,
+    "VoFile": "outfit_4048",
+    "VoLoop1": 151.158,
+    "VoName1": "DiscIP.214048.1",
+    "VoBegin2": 13.0,
+    "VoLoop2": 10.0,
+    "VoName2": "DiscIP.214048.2",
+    "AvgId": "CG_disc4048",
+    "StoryName": "DiscIP.214048.3",
+    "StoryDesc": "DiscIP.214048.4"
+  },
+  "214042": {
+    "Id": 214042,
+    "VoFile": "outfit_4042",
+    "VoLoop1": 120.0,
+    "VoName1": "DiscIP.214042.1",
+    "VoLoop2": 15.199,
+    "VoName2": "DiscIP.214042.2",
+    "StoryName": "DiscIP.214042.3",
+    "StoryDesc": "DiscIP.214042.4"
+  },
   "214044": {
     "Id": 214044,
     "VoFile": "outfit_4044",
@@ -1241,18 +1254,6 @@
       159
     ]
   },
-  "214048": {
-    "Id": 214048,
-    "VoFile": "outfit_4048",
-    "VoLoop1": 151.158,
-    "VoName1": "DiscIP.214048.1",
-    "VoBegin2": 13.0,
-    "VoLoop2": 10.0,
-    "VoName2": "DiscIP.214048.2",
-    "AvgId": "CG_disc4048",
-    "StoryName": "DiscIP.214048.3",
-    "StoryDesc": "DiscIP.214048.4"
-  },
   "214046": {
     "Id": 214046,
     "VoFile": "outfit_4046",
@@ -1265,6 +1266,20 @@
     "StoryDesc": "DiscIP.214046.4",
     "CharId": [
       143
+    ]
+  },
+  "214047": {
+    "Id": 214047,
+    "VoFile": "outfit_4047",
+    "VoBegin1": 25.5,
+    "VoLoop1": 72.0,
+    "VoName1": "DiscIP.214047.1",
+    "VoLoop2": 12.0,
+    "VoName2": "DiscIP.214047.2",
+    "StoryName": "DiscIP.214047.3",
+    "StoryDesc": "DiscIP.214047.4",
+    "CharId": [
+      130
     ]
   }
 }

@@ -507,5 +507,158 @@
     "CdStartTime": true,
     "Templete": 8012301,
     "Icon": "Icon/Head/head_12301"
+  },
+  "8013001": {
+    "Id": 8013001,
+    "Name": "TowerDefenseCharacter.8013001.1",
+    "SkinId": 8013001,
+    "SearchTargetType": 1,
+    "SearchRadius": 75000,
+    "AIId": 8013001,
+    "NewPotential2": [
+      1300105
+    ],
+    "NewPotential3": [
+      1300106
+    ],
+    "NewPotential4": [
+      1300101,
+      1300102
+    ],
+    "NewPotential5": [
+      1300107
+    ],
+    "NewPotential6": [
+      1300103,
+      1300104
+    ],
+    "PointNeeded": [
+      1,
+      1,
+      2,
+      1,
+      2
+    ],
+    "Faction": 1,
+    "NormalAtkId": 8013001,
+    "SkillId": 8013002,
+    "SkillCd": 120000,
+    "Templete": 8013001,
+    "Icon": "Icon/Head/head_13001"
+  },
+  "8014301": {
+    "Id": 8014301,
+    "Name": "TowerDefenseCharacter.8014301.1",
+    "SkinId": 8014301,
+    "SearchTargetType": 1,
+    "SearchRadius": 75000,
+    "AIId": 8014301,
+    "NewPotential2": [
+      1430105
+    ],
+    "NewPotential3": [
+      1430106
+    ],
+    "NewPotential4": [
+      1430101,
+      1430102
+    ],
+    "NewPotential5": [
+      1430107
+    ],
+    "NewPotential6": [
+      1430103,
+      1430104
+    ],
+    "PointNeeded": [
+      1,
+      1,
+      2,
+      1,
+      2
+    ],
+    "Faction": 1,
+    "NormalAtkId": 8014301,
+    "SkillId": 8014302,
+    "SkillCd": 80000,
+    "Templete": 8014301,
+    "Icon": "Icon/Head/head_14301"
+  },
+  "8014101": {
+    "Id": 8014101,
+    "Name": "TowerDefenseCharacter.8014101.1",
+    "SkinId": 8014101,
+    "SearchTargetType": 1,
+    "SearchRadius": 45000,
+    "AIId": 8014101,
+    "NewPotential2": [
+      1410105
+    ],
+    "NewPotential3": [
+      1410106
+    ],
+    "NewPotential4": [
+      1410101,
+      1410102
+    ],
+    "NewPotential5": [
+      1410107
+    ],
+    "NewPotential6": [
+      1410103,
+      1410104
+    ],
+    "PointNeeded": [
+      1,
+      1,
+      2,
+      1,
+      2
+    ],
+    "Faction": 1,
+    "NormalAtkId": 8014101,
+    "SkillId": 8014102,
+    "SkillCd": 100000,
+    "Templete": 8014101,
+    "Icon": "Icon/Head/head_14101"
+  },
+  "8010701": {
+    "Id": 8010701,
+    "Name": "TowerDefenseCharacter.8010701.1",
+    "SkinId": 8010701,
+    "SearchTargetType": 1,
+    "SearchRadius": 45000,
+    "SkillRadius": 75000,
+    "AIId": 8010701,
+    "NewPotential2": [
+      1070105
+    ],
+    "NewPotential3": [
+      1070106
+    ],
+    "NewPotential4": [
+      1070101,
+      1070102
+    ],
+    "NewPotential5": [
+      1070107
+    ],
+    "NewPotential6": [
+      1070103,
+      1070104
+    ],
+    "PointNeeded": [
+      1,
+      1,
+      2,
+      1,
+      2
+    ],
+    "Faction": 1,
+    "NormalAtkId": 8010701,
+    "SkillId": 8010702,
+    "SkillCd": 140000,
+    "Templete": 8010701,
+    "Icon": "Icon/Head/head_10701"
   }
 }

@@ -17,5 +17,14 @@
     "Script": "AIScript.TowerDefenseItem_EnergyCapsule",
     "CardIcon": "UI/Play_TowerDefence/SpriteAtlas/Item/icon_tower_defense_Item_2",
     "Head": "Icon/Item/item_tf_2"
+  },
+  "1021": {
+    "Id": 1021,
+    "Name": "TowerDefenseItem.1021.1",
+    "Des": "TowerDefenseItem.1021.2",
+    "Cd": 6,
+    "Script": "AIScript.TowerDefenseItem_Herbicide",
+    "CardIcon": "UI/Play_TowerDefence/SpriteAtlas/Item/icon_tower_defense_Item_3",
+    "Head": "Icon/Item/item_tf_3"
   }
 }

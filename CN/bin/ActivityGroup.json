@@ -310,5 +310,46 @@
     "DesText": "ActivityGroup.10105.1",
     "TabBgRes": "Icon/Banner/tab_activity_winternight",
     "TransitionId": 39
+  },
+  "10106": {
+    "Id": 10106,
+    "ActivityGroupType": 1,
+    "ActivityThemeType": 9,
+    "StartTime": "2026-03-17T12:00:00+08:00",
+    "EndTime": "2026-03-31T04:00:00+08:00",
+    "EnterEndTime": "2026-04-07T10:59:59+08:00",
+    "EnterRes": "Icon/Banner/banner_postal_m_lang",
+    "PanelId": 413,
+    "PreLimit": 1,
+    "LimitParam": "3",
+    "StartCondType": 71,
+    "StartCondParams": [
+      5
+    ],
+    "Enter": "{\"MiniGame\":[400007,1,402],\"Task\":[1010603,2,412],\"AVG\":[1010602,3,414],\"Store\":[1010604,4,411],\"Level\":[1010601,5,410]}",
+    "UIAssetsPrefab": "10106",
+    "CtrlName": "ActivityPostalCtrl",
+    "RewardsShow": [
+      2,
+      214047,
+      116008,
+      502,
+      503,
+      21063,
+      35000,
+      32013,
+      20093,
+      21093,
+      30004,
+      50004,
+      30,
+      33032,
+      33042,
+      33072,
+      1
+    ],
+    "DesText": "ActivityGroup.10106.1",
+    "TabBgRes": "Icon/Banner/tab_activity_postal_lang",
+    "TransitionId": 40
   }
 }
