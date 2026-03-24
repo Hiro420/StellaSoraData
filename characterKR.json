@@ -1,0 +1,290 @@
+{
+  "103": {
+    "id": 103,
+    "name": "코하쿠",
+    "star": 4,
+    "element": "Ignis",
+    "class": "Vanguard",
+    "attackType": "Ranged",
+    "tag": ["딜러", "수집광", "공백 여단"]
+  },
+  "107": {
+    "id": 107,
+    "name": "틸리아",
+    "star": 4,
+    "element": "Lux",
+    "class": "Support",
+    "attackType": "Melee",
+    "tag": ["서포터", "착실함", "제국 호위대"]
+  },
+  "108": {
+    "id": 108,
+    "name": "카시미라",
+    "star": 4,
+    "element": "Ignis",
+    "class": "Versatile",
+    "attackType": "Ranged",
+    "tag": ["밸런스", "모험가", "백묘 극단"]
+  },
+  "110": {
+    "id": 110,
+    "name": "피렌",
+    "star": 5,
+    "element": "Umbra",
+    "class": "Vanguard",
+    "attackType": "Melee",
+    "tag": ["딜러", "착실함", "아그리 유니온"]
+  },
+  "111": {
+    "id": 111,
+    "name": "아야메",
+    "star": 4,
+    "element": "Aqua",
+    "class": "Versatile",
+    "attackType": "Ranged",
+    "tag": ["밸런스", "기상천외", "공백 여단"]
+  },
+  "112": {
+    "id": 112,
+    "name": "세이나",
+    "star": 4,
+    "element": "Ventus",
+    "class": "Vanguard",
+    "attackType": "Melee",
+    "tag": ["딜러", "기상천외", "공백 여단"]
+  },
+  "113": {
+    "id": 113,
+    "name": "시먀오",
+    "star": 4,
+    "element": "Aqua",
+    "class": "Vanguard",
+    "attackType": "Melee",
+    "tag": ["딜러", "지식 추구", "백택 관리국"]
+  },
+  "116": {
+    "id": 116,
+    "name": "레이센",
+    "star": 4,
+    "element": "Terra",
+    "class": "Versatile",
+    "attackType": "Ranged",
+    "tag": ["밸런스", "수집광", "아그리 유니온"]
+  },
+  "117": {
+    "id": 117,
+    "name": "징린",
+    "star": 4,
+    "element": "Lux",
+    "class": "Versatile",
+    "attackType": "Ranged",
+    "tag": ["밸런스", "지식 추구", "봉황 반점"]
+  },
+  "118": {
+    "id": 118,
+    "name": "크루니스",
+    "star": 4,
+    "element": "Umbra",
+    "class": "Versatile",
+    "attackType": "Melee",
+    "tag": ["밸런스", "모험가", "자유 여행가"]
+  },
+  "119": {
+    "id": 119,
+    "name": "나노하",
+    "star": 5,
+    "element": "Ventus",
+    "class": "Vanguard",
+    "attackType": "Ranged",
+    "tag": ["딜러", "지식 추구", "타니카제 가사 대행"]
+  },
+  "120": {
+    "id": 120,
+    "name": "카나체",
+    "star": 4,
+    "element": "Ventus",
+    "class": "Versatile",
+    "attackType": "Ranged",
+    "tag": ["밸런스", "모험가", "은혜의지"]
+  },
+  "123": {
+    "id": 123,
+    "name": "안즈",
+    "star": 4,
+    "element": "Ventus",
+    "class": "Support",
+    "attackType": "Melee",
+    "tag": ["서포터", "모험가", "자유 여행가"]
+  },
+  "125": {
+    "id": 125,
+    "name": "프리지아",
+    "star": 5,
+    "element": "Aqua",
+    "class": "Versatile",
+    "attackType": "Melee",
+    "tag": ["밸런스", "모험가", "요로즈 택배"]
+  },
+  "126": {
+    "id": 126,
+    "name": "플로라",
+    "star": 4,
+    "element": "Ignis",
+    "class": "Support",
+    "attackType": "Ranged",
+    "tag": ["서포터", "수집광", "자유 여행가"]
+  },
+  "127": {
+    "id": 127,
+    "name": "테레사",
+    "star": 4,
+    "element": "Aqua",
+    "class": "Support",
+    "attackType": "Melee",
+    "tag": ["서포터", "착실함", "요로즈 택배"]
+  },
+  "130": {
+    "id": 130,
+    "name": "토나",
+    "star": 5,
+    "element": "Aqua",
+    "class": "Versatile",
+    "attackType": "Ranged",
+    "tag": ["밸런스", "기상천외", "요로즈 택배"]
+  },
+  "132": {
+    "id": 132,
+    "name": "미네르바",
+    "star": 5,
+    "element": "Lux",
+    "class": "Versatile",
+    "attackType": "Melee",
+    "tag": ["밸런스", "착실함", "윈드 애시"]
+  },
+  "133": {
+    "id": 133,
+    "name": "나츠카",
+    "star": 5,
+    "element": "Ventus",
+    "class": "Versatile",
+    "attackType": "Ranged",
+    "tag": ["밸런스", "착실함", "하나사키 여단"]
+  },
+  "134": {
+    "id": 134,
+    "name": "후유카",
+    "star": 5,
+    "element": "Ignis",
+    "class": "Vanguard",
+    "attackType": "Melee",
+    "tag": ["딜러", "지식 추구", "하나사키 여단"]
+  },
+  "135": {
+    "id": 135,
+    "name": "미스티",
+    "star": 5,
+    "element": "Umbra",
+    "class": "Versatile",
+    "attackType": "Ranged",
+    "tag": ["밸런스", "기상천외", "레드 아이즈"]
+  },
+  "141": {
+    "id": 141,
+    "name": "치시아",
+    "star": 5,
+    "element": "Ignis",
+    "class": "Versatile",
+    "attackType": "Melee",
+    "tag": ["밸런스", "수집광", "운급문화"]
+  },
+  "142": {
+    "id": 142,
+    "name": "코제트",
+    "star": 4,
+    "element": "Umbra",
+    "class": "Support",
+    "attackType": "Melee",
+    "tag": ["서포터", "지식 추구", "자유 여행가"]
+  },
+  "143": {
+    "id": 143,
+    "name": "레이스",
+    "star": 5,
+    "element": "Ventus",
+    "class": "Vanguard",
+    "attackType": "Ranged",
+    "tag": ["딜러", "모험가", "은혜의지"]
+  },
+  "144": {
+    "id": 144,
+    "name": "치토세",
+    "star": 5,
+    "element": "Aqua",
+    "class": "Vanguard",
+    "attackType": "Melee",
+    "tag": ["딜러", "지식 추구", "자유 여행가"]
+  },
+  "147": {
+    "id": 147,
+    "name": "캐러멜",
+    "star": 4,
+    "element": "Umbra",
+    "class": "Vanguard",
+    "attackType": "Ranged",
+    "tag": ["딜러", "기상천외", "자유 여행가"]
+  },
+  "149": {
+    "id": 149,
+    "name": "그레이",
+    "star": 5,
+    "element": "Terra",
+    "class": "Vanguard",
+    "attackType": "Melee",
+    "tag": ["딜러", "지식 추구", "은혜의지"]
+  },
+  "150": {
+    "id": 150,
+    "name": "라루",
+    "star": 4,
+    "element": "Lux",
+    "class": "Vanguard",
+    "attackType": "Melee",
+    "tag": ["딜러", "모험가", "은혜의지"]
+  },
+  "155": {
+    "id": 155,
+    "name": "시아",
+    "star": 5,
+    "element": "Lux",
+    "class": "Vanguard",
+    "attackType": "Ranged",
+    "tag": ["딜러", "모험가", "자유 여행가"]
+  },
+  "156": {
+    "id": 156,
+    "name": "나즈나",
+    "star": 5,
+    "element": "Terra",
+    "class": "Support",
+    "attackType": "Ranged",
+    "tag": ["서포터", "수집광", "하나사키 여단"]
+  },
+  "158": {
+    "id": 158,
+    "name": "라루(이브)",
+    "star": 5,
+    "element": "Ignis",
+    "class": "Versatile",
+    "attackType": "Melee",
+    "tag": ["밸런스", "기상천외", "은혜의지"]
+  },
+  "159": {
+    "id": 159,
+    "name": "크루니스(새해)",
+    "star": 5,
+    "element": "Terra",
+    "class": "Versatile",
+    "attackType": "Ranged",
+    "tag": ["밸런스", "수집광", "자유 여행가"]
+  }
+}
