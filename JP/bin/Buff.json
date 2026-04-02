@@ -6837,6 +6837,26 @@
     "Id": 631001003,
     "GroupId": 631001003
   },
+  "631011010": {
+    "Id": 631011010,
+    "GroupId": 63101101
+  },
+  "631011020": {
+    "Id": 631011020,
+    "GroupId": 63101102
+  },
+  "631012010": {
+    "Id": 631012010,
+    "GroupId": 63101201,
+    "Icon": "Icon/Buff/Icon_CommonBuff_UltraDamageDown",
+    "IsShow": true
+  },
+  "631012020": {
+    "Id": 631012020,
+    "GroupId": 63101202,
+    "Icon": "Icon/Buff/Icon_CommonBuff_SkillDamageDown",
+    "IsShow": true
+  },
   "100090310": {
     "Id": 100090310,
     "GroupId": 1000901
@@ -8165,6 +8185,31 @@
     "Id": 309010000,
     "GroupId": 30901000,
     "BuffTag1": -2138561627
+  },
+  "309310010": {
+    "Id": 309310010,
+    "GroupId": 30931001,
+    "BindEffect": "Actor/Monster/30931HaSaNa/Buff/fx_m30391_buff_hammer_1"
+  },
+  "309310020": {
+    "Id": 309310020,
+    "GroupId": 30931002,
+    "BindEffect": "Actor/Monster/30931HaSaNa/Buff/fx_m30391_buff_hammer_2"
+  },
+  "309310030": {
+    "Id": 309310030,
+    "GroupId": 30931003,
+    "BindEffect": "Actor/Monster/30931HaSaNa/Buff/fx_m30931_buff_sand_ring_1"
+  },
+  "309310040": {
+    "Id": 309310040,
+    "GroupId": 30931004,
+    "BindEffect": "Actor/Monster/30931HaSaNa/Buff/fx_m30931_buff_sand_ring_2"
+  },
+  "309310050": {
+    "Id": 309310050,
+    "GroupId": 30931005,
+    "BindEffect": "Actor/Monster/30931HaSaNa/Buff/fx_m30931_buff_idle"
   },
   "990011100": {
     "Id": 990011100,

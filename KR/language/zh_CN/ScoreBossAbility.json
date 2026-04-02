@@ -20,5 +20,9 @@
   "ScoreBossAbility.100009.1": "男爵姿态",
   "ScoreBossAbility.100009.2": "首领会在【猛士】和【蜜罐】形态间来回切换，每战斗<color=#ec6d21>&Param1&</color>秒后切换至另一形态并清除自身所有负面效果。（破韧不计入时间）\n在【猛士】形态时，热嘟噗噜男爵受到的绝招伤害额外减少<color=#ec6d21>&Param2&</color>，受到的普攻伤害额外增加<color=#ec6d21>&Param3&</color>\n在【蜜罐】形态时，热嘟噗噜男爵受到的印记伤害额外减少<color=#ec6d21>&Param4&</color>，受到的技能伤害额外增加<color=#ec6d21>&Param5&</color>",
   "ScoreBossAbility.100010.1": "水环",
-  "ScoreBossAbility.100010.2": "首领拥有「水环」时自身造成伤害提升<color=#ec6d21>&Param1&</color>，且每5秒造成一次范围伤害。\n当己方在5秒内对首领累计造成<color=#ec6d21>&Param2&</color>次伤害后，使「水环」失效<color=#ec6d21>&Param3&</color>秒。\n在失效期间，当己方在5秒内对首领累计造成<color=#ec6d21>&Param4&</color>次援护角色伤害后，首领受到的普攻伤害提升<color=#ec6d21>&Param5&</color>\n在失效期间，当己方在5秒内对首领累计造成<color=#ec6d21>&Param6&</color>次主控角色伤害时，首领受到的援护角色技能伤害提升<color=#ec6d21>&Param7&</color>"
+  "ScoreBossAbility.100010.2": "首领拥有「水环」时自身造成伤害提升<color=#ec6d21>&Param1&</color>，且每5秒造成一次范围伤害。\n当己方在5秒内对首领累计造成<color=#ec6d21>&Param2&</color>次伤害后，使「水环」失效<color=#ec6d21>&Param3&</color>秒。\n在失效期间，当己方在5秒内对首领累计造成<color=#ec6d21>&Param4&</color>次援护角色伤害后，首领受到的普攻伤害提升<color=#ec6d21>&Param5&</color>\n在失效期间，当己方在5秒内对首领累计造成<color=#ec6d21>&Param6&</color>次主控角色伤害时，首领受到的援护角色技能伤害提升<color=#ec6d21>&Param7&</color>",
+  "ScoreBossAbility.100011.1": "协同增势",
+  "ScoreBossAbility.100011.2": "主控角色每释放<color=#ec6d21>&Param1&</color>次技能，所有援护角色技能伤害强度增加<color=#ec6d21>&Param2&</color>，持续<color=#ec6d21>&Param3&</color>秒。\n援护角色每造成<color=#ec6d21>&Param4&</color>次伤害，主控角色技能伤害强度增加<color=#ec6d21>&Param5&</color>，持续<color=#ec6d21>&Param6&</color>秒。\n重复触发时，重置时间，不叠加效果。",
+  "ScoreBossAbility.100012.1": "连击破势",
+  "ScoreBossAbility.100012.2": "己方每对首领造成<color=#ec6d21>&Param7&</color>次技能伤害，首领受到绝招伤害强度增加<color=#ec6d21>&Param1&</color>，最多叠加<color=#ec6d21>&Param2&</color>层，持续<color=#ec6d21>&Param3&</color>秒。\n己方每对首领造成<color=#ec6d21>&Param8&</color>次印记伤害，首领受到技能伤害强度增加<color=#ec6d21>&Param4&</color>，最多叠加<color=#ec6d21>&Param5&</color>层，持续<color=#ec6d21>&Param6&</color>秒。"
 }

@@ -10711,6 +10711,23 @@
     "ActionAIPath": "AIScript.Monster._30931HaSaNa_MiniBoss.Action_SandArea",
     "ThinkInterval": 2000
   },
+  "3093103": {
+    "Id": 3093103,
+    "ComboGroupPath": "Monster/30931HaSaNa/Combo/Boss/ComboGroup",
+    "SpawnShowSkillId": 3093116,
+    "DieSkillId": 3093120,
+    "ActionAIPath": "AIScript.Monster._30931HaSaNa.ActionScript",
+    "ThinkInterval": 2000,
+    "ParallelAIPath": "AIScript.Monster._30931HaSaNa.Parallel_BossRush"
+  },
+  "3093104": {
+    "Id": 3093104,
+    "ComboGroupPath": "Monster/30931HaSaNa/Combo/Boss/ComboGroup",
+    "SpawnShowSkillId": 3093117,
+    "ActionAIPath": "AIScript.Monster._30931HaSaNa.ActionScript_Device",
+    "ThinkInterval": 2000,
+    "ParallelAIPath": "AIScript.Monster._30931HaSaNa.ParallelScript_Device"
+  },
   "11601111": {
     "Id": 11601111,
     "ComboGroupPath": "Character/11601/Combos_Monster/ComboGroup_Monster_PeaShooter",

@@ -7061,6 +7061,78 @@
     "LERFix": 750,
     "DERFix": 2000
   },
+  "6310130": {
+    "Id": 6310130,
+    "TemplateId": 9048,
+    "EET": 3,
+    "ResistEET": [
+      3
+    ],
+    "WeakEET": [
+      6,
+      4
+    ],
+    "WERFix": 750,
+    "FERFix": 750,
+    "SERFix": 2000,
+    "AERFix": 250,
+    "LERFix": 750,
+    "DERFix": 250
+  },
+  "6310131": {
+    "Id": 6310131,
+    "TemplateId": 9051,
+    "EET": 3,
+    "ResistEET": [
+      3
+    ],
+    "WeakEET": [
+      6,
+      4
+    ],
+    "WERFix": 750,
+    "FERFix": 750,
+    "SERFix": 2000,
+    "AERFix": 250,
+    "LERFix": 750,
+    "DERFix": 250
+  },
+  "6310120": {
+    "Id": 6310120,
+    "TemplateId": 9049,
+    "EET": 2,
+    "ResistEET": [
+      2
+    ],
+    "WeakEET": [
+      1,
+      6
+    ],
+    "WERFix": 250,
+    "FERFix": 2000,
+    "SERFix": 750,
+    "AERFix": 750,
+    "LERFix": 750,
+    "DERFix": 250
+  },
+  "6310121": {
+    "Id": 6310121,
+    "TemplateId": 9050,
+    "EET": 2,
+    "ResistEET": [
+      2
+    ],
+    "WeakEET": [
+      1,
+      6
+    ],
+    "WERFix": 250,
+    "FERFix": 2000,
+    "SERFix": 750,
+    "AERFix": 750,
+    "LERFix": 750,
+    "DERFix": 250
+  },
   "7100100": {
     "Id": 7100100,
     "TemplateId": 8610,

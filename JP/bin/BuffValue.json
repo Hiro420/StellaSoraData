@@ -15337,6 +15337,62 @@
     "ReplaceType": true,
     "ReplaceMode": true
   },
+  "631011010": {
+    "Id": 631011010,
+    "Sort": 99,
+    "Effects": [
+      631011011
+    ],
+    "Time": 90000,
+    "LaminatedNum": 1,
+    "Num": 1,
+    "TimeSuperposition": 2,
+    "Timing": 2,
+    "ReplaceType": true,
+    "ReplaceMode": true
+  },
+  "631011020": {
+    "Id": 631011020,
+    "Sort": 99,
+    "Effects": [
+      631011021
+    ],
+    "Time": 120000,
+    "LaminatedNum": 1,
+    "Num": 1,
+    "TimeSuperposition": 2,
+    "Timing": 2,
+    "ReplaceType": true,
+    "ReplaceMode": true
+  },
+  "631012010": {
+    "Id": 631012010,
+    "Sort": 99,
+    "Effects": [
+      631012010
+    ],
+    "Time": 80000,
+    "LaminatedNum": 6,
+    "Num": 1,
+    "TimeSuperposition": 2,
+    "Timing": 2,
+    "ReplaceType": true,
+    "ReplaceMode": true
+  },
+  "631012020": {
+    "Id": 631012020,
+    "Sort": 99,
+    "Effects": [
+      631012020
+    ],
+    "Time": 60000,
+    "LaminatedNum": 5,
+    "Num": 1,
+    "TimeSuperposition": 2,
+    "Timing": 2,
+    "ReplaceType": true,
+    "ReplaceMode": true
+  },
   "100090310": {
     "Id": 100090310,
     "Sort": 99,
@@ -18823,6 +18879,61 @@
       309010001,
       309010002
     ],
+    "Time": -10000,
+    "LaminatedNum": 1,
+    "Num": 1,
+    "TimeSuperposition": 2,
+    "Timing": 2,
+    "ReplaceType": true,
+    "ReplaceMode": true
+  },
+  "309310010": {
+    "Id": 309310010,
+    "Sort": 1,
+    "Time": -10000,
+    "LaminatedNum": 1,
+    "Num": 1,
+    "TimeSuperposition": 2,
+    "Timing": 2,
+    "ReplaceType": true,
+    "ReplaceMode": true
+  },
+  "309310020": {
+    "Id": 309310020,
+    "Sort": 1,
+    "Time": -10000,
+    "LaminatedNum": 1,
+    "Num": 1,
+    "TimeSuperposition": 2,
+    "Timing": 2,
+    "ReplaceType": true,
+    "ReplaceMode": true
+  },
+  "309310030": {
+    "Id": 309310030,
+    "Sort": 1,
+    "Time": -10000,
+    "LaminatedNum": 1,
+    "Num": 1,
+    "TimeSuperposition": 2,
+    "Timing": 2,
+    "ReplaceType": true,
+    "ReplaceMode": true
+  },
+  "309310040": {
+    "Id": 309310040,
+    "Sort": 1,
+    "Time": -10000,
+    "LaminatedNum": 1,
+    "Num": 1,
+    "TimeSuperposition": 2,
+    "Timing": 2,
+    "ReplaceType": true,
+    "ReplaceMode": true
+  },
+  "309310050": {
+    "Id": 309310050,
+    "Sort": 1,
     "Time": -10000,
     "LaminatedNum": 1,
     "Num": 1,

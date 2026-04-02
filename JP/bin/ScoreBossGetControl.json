@@ -168,13 +168,13 @@
     "Name": "ScoreBossGetControl.1011.1",
     "Desc": "ScoreBossGetControl.1011.2",
     "IconSource": "Icon/MonsterSkill/Bossrush/Icon_Bossrush_Fengcao_001",
-    "OnceScore": 450,
+    "OnceScore": 675,
     "MaxLimit": 5400,
     "Param1": "ScoreBossGetControl,NoLevel,1011,Value1,Fixed",
     "Param2": "ScoreBossGetControl,NoLevel,1011,Value2,Fixed",
     "Param3": "ScoreBossGetControl,NoLevel,1011,Value3,Fixed",
-    "Value1": "450",
-    "Value2": "12",
+    "Value1": "675",
+    "Value2": "8",
     "Value3": "5400"
   },
   "1012": {
@@ -306,6 +306,22 @@
     "Param3": "ScoreBossGetControl,NoLevel,1019,Value3,Fixed",
     "Value1": "540",
     "Value2": "10",
+    "Value3": "5400"
+  },
+  "1020": {
+    "Id": 1020,
+    "ScoreBossBehavior": 22,
+    "ScoreBossType": 1,
+    "Name": "ScoreBossGetControl.1020.1",
+    "Desc": "ScoreBossGetControl.1020.2",
+    "IconSource": "Icon/MonsterSkill/Bossrush/Icon_Bossrush_HaSaNa_002",
+    "OnceScore": 675,
+    "MaxLimit": 5400,
+    "Param1": "ScoreBossGetControl,NoLevel,1020,Value1,Fixed",
+    "Param2": "ScoreBossGetControl,NoLevel,1020,Value2,Fixed",
+    "Param3": "ScoreBossGetControl,NoLevel,1020,Value3,Fixed",
+    "Value1": "675",
+    "Value2": "8",
     "Value3": "5400"
   }
 }

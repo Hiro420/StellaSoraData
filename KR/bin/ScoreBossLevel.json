@@ -134,10 +134,10 @@
     "Id": 12,
     "FloorId": 1001012,
     "MonsterId": 95017101,
-    "NonDamageScoreGet": 1007,
-    "ScoreBossAbility": 100000,
+    "NonDamageScoreGet": 1020,
+    "ScoreBossAbility": 100011,
     "ScoreGetSwitchGroup": 1001,
-    "Episode": "Icon/MapChallenge/challenge_boss_bust_01",
+    "Episode": "Icon/MapChallenge/cover_Bossrush_hasana",
     "Image": "Icon/MapChallenge/boss_Tachie_13",
     "BG": "Image/UIBG/uniseed_basement",
     "ExtraImage": "Icon/MapChallenge/boss_Tachie_14",
@@ -153,5 +153,31 @@
     "Episode": "Icon/MapChallenge/challenge_boss_bust_01",
     "Image": "Icon/MapChallenge/challenge_boss_01",
     "BG": "Image/UIBG/uniseed_basement"
+  },
+  "14": {
+    "Id": 14,
+    "FloorId": 1001015,
+    "MonsterId": 6310130,
+    "NonDamageScoreGet": 1020,
+    "ScoreBossAbility": 100011,
+    "ScoreGetSwitchGroup": 1008,
+    "Episode": "Icon/MapChallenge/cover_Bossrush_hasana",
+    "Image": "Icon/MapChallenge/boss_Tachie_13",
+    "BG": "Image/UIBG/tower_fire_earth",
+    "SummonLevelUp": true,
+    "ExtraImage": "Icon/MapChallenge/boss_Tachie_14",
+    "ExtraImageAni": "ScoreBossSelect_Info_in_Hasana"
+  },
+  "15": {
+    "Id": 15,
+    "FloorId": 1001014,
+    "MonsterId": 6310120,
+    "NonDamageScoreGet": 1011,
+    "ScoreBossAbility": 100012,
+    "ScoreGetSwitchGroup": 1007,
+    "Episode": "Icon/MapChallenge/cover_Bossrush_fengcao",
+    "Image": "Icon/MapChallenge/boss_Tachie_05",
+    "BG": "Image/UIBG/uniseed_basement",
+    "SummonLevelUp": true
   }
 }

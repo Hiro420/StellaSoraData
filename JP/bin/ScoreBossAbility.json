@@ -158,7 +158,7 @@
     "ScriptID": [
       "100010"
     ],
-    "Param1": "ScoreBossAbility,NoLevel,100004,Value1,Pct",
+    "Param1": "ScoreBossAbility,NoLevel,100010,Value1,Pct",
     "Param2": "ScoreBossAbility,NoLevel,100010,Value2,Fixed",
     "Param3": "ScoreBossAbility,NoLevel,100010,Value3,Fixed",
     "Param4": "ScoreBossAbility,NoLevel,100010,Value4,Fixed",
@@ -172,5 +172,45 @@
     "Value5": "45",
     "Value6": "10",
     "Value7": "45"
+  },
+  "100011": {
+    "Id": 100011,
+    "Name": "ScoreBossAbility.100011.1",
+    "Desc": "ScoreBossAbility.100011.2",
+    "IconSource": "Icon/MonsterSkill/Bossrush/Icon_Bossrush_Teshujizhi_011",
+    "ScriptID": [
+      "100011"
+    ],
+    "Param1": "ScoreBossAbility,NoLevel,100011,Value1,Fixed",
+    "Param2": "ScoreBossAbility,NoLevel,100011,Value2,Pct",
+    "Param3": "ScoreBossAbility,NoLevel,100011,Value3,Fixed",
+    "Param4": "ScoreBossAbility,NoLevel,100011,Value4,Fixed",
+    "Param5": "ScoreBossAbility,NoLevel,100011,Value5,Pct",
+    "Param6": "ScoreBossAbility,NoLevel,100011,Value6,Fixed",
+    "Value1": "1",
+    "Value2": "40",
+    "Value3": "9",
+    "Value4": "50",
+    "Value5": "40",
+    "Value6": "12"
+  },
+  "100012": {
+    "Id": 100012,
+    "Name": "ScoreBossAbility.100012.1",
+    "Desc": "ScoreBossAbility.100012.2",
+    "IconSource": "Icon/MonsterSkill/Bossrush/Icon_Bossrush_Teshujizhi_012",
+    "ScriptID": [
+      "100012"
+    ],
+    "Param1": "EffectValue,NoLevel,631012010,EffectTypeParam1,HdPct",
+    "Param2": "BuffValue,NoLevel,631012010,LaminatedNum,Fixed",
+    "Param3": "BuffValue,NoLevel,631012010,Time,10K",
+    "Param4": "EffectValue,NoLevel,631012020,EffectTypeParam1,HdPct",
+    "Param5": "BuffValue,NoLevel,631012020,LaminatedNum,Fixed",
+    "Param6": "BuffValue,NoLevel,631012020,Time,10K",
+    "Param7": "ScoreBossAbility,NoLevel,100012,Value7,Fixed",
+    "Param8": "ScoreBossAbility,NoLevel,100012,Value8,Fixed",
+    "Value7": "10",
+    "Value8": "1"
   }
 }

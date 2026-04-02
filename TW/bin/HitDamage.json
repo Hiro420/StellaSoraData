@@ -66378,6 +66378,505 @@
     ],
     "SkillId": 3093154
   },
+  "30931011": {
+    "Id": 30931011,
+    "DistanceType": 1,
+    "SourceType": 2,
+    "DamageType": 1,
+    "EffectType": 1,
+    "DamageTag": [
+      237393061
+    ],
+    "DamageBonusType": 1,
+    "SkillPercentAmend": [
+      650000,
+      0
+    ],
+    "SkillAbsAmend": [
+      0,
+      0
+    ],
+    "SkillId": 3093101
+  },
+  "30931012": {
+    "Id": 30931012,
+    "DistanceType": 1,
+    "SourceType": 2,
+    "DamageType": 1,
+    "EffectType": 1,
+    "DamageTag": [
+      237393061
+    ],
+    "DamageBonusType": 1,
+    "SkillPercentAmend": [
+      850000,
+      0
+    ],
+    "SkillAbsAmend": [
+      0,
+      0
+    ],
+    "SkillId": 3093101
+  },
+  "30931013": {
+    "Id": 30931013,
+    "DistanceType": 1,
+    "SourceType": 2,
+    "DamageType": 1,
+    "EffectType": 1,
+    "DamageTag": [
+      237393061
+    ],
+    "DamageBonusType": 1,
+    "SkillPercentAmend": [
+      1050000,
+      0
+    ],
+    "SkillAbsAmend": [
+      0,
+      0
+    ],
+    "SkillId": 3093101
+  },
+  "30931021": {
+    "Id": 30931021,
+    "DistanceType": 1,
+    "SourceType": 2,
+    "DamageType": 1,
+    "EffectType": 1,
+    "DamageTag": [
+      237393061
+    ],
+    "DamageBonusType": 1,
+    "SkillPercentAmend": [
+      1100000,
+      0
+    ],
+    "SkillAbsAmend": [
+      0,
+      0
+    ],
+    "SkillId": 3093102
+  },
+  "30931022": {
+    "Id": 30931022,
+    "DistanceType": 1,
+    "SourceType": 2,
+    "DamageType": 1,
+    "EffectType": 7,
+    "DamageTag": [
+      237393061
+    ],
+    "DamageBonusType": 1,
+    "SkillPercentAmend": [
+      10000,
+      0
+    ],
+    "SkillAbsAmend": [
+      0,
+      0
+    ],
+    "SkillId": 3093102
+  },
+  "30931031": {
+    "Id": 30931031,
+    "DistanceType": 1,
+    "SourceType": 2,
+    "DamageType": 1,
+    "EffectType": 1,
+    "DamageTag": [
+      237393061
+    ],
+    "DamageBonusType": 1,
+    "SkillPercentAmend": [
+      800000,
+      0
+    ],
+    "SkillAbsAmend": [
+      0,
+      0
+    ],
+    "SkillId": 3093103
+  },
+  "30931032": {
+    "Id": 30931032,
+    "DistanceType": 1,
+    "SourceType": 2,
+    "DamageType": 1,
+    "EffectType": 1,
+    "DamageTag": [
+      237393061
+    ],
+    "DamageBonusType": 1,
+    "SkillPercentAmend": [
+      1250000,
+      0
+    ],
+    "SkillAbsAmend": [
+      0,
+      0
+    ],
+    "SkillId": 3093103,
+    "HitImmunityTime": 5000
+  },
+  "30931033": {
+    "Id": 30931033,
+    "DistanceType": 1,
+    "SourceType": 2,
+    "DamageType": 1,
+    "EffectType": 1,
+    "DamageTag": [
+      237393061
+    ],
+    "DamageBonusType": 1,
+    "SkillPercentAmend": [
+      1500000,
+      0
+    ],
+    "SkillAbsAmend": [
+      0,
+      0
+    ],
+    "SkillId": 3093103,
+    "HitImmunityTime": 5000
+  },
+  "30931041": {
+    "Id": 30931041,
+    "DistanceType": 1,
+    "SourceType": 2,
+    "DamageType": 1,
+    "EffectType": 1,
+    "DamageTag": [
+      237393061
+    ],
+    "DamageBonusType": 1,
+    "SkillPercentAmend": [
+      550000,
+      0
+    ],
+    "SkillAbsAmend": [
+      0,
+      0
+    ],
+    "SkillId": 3093104
+  },
+  "30931042": {
+    "Id": 30931042,
+    "DistanceType": 1,
+    "SourceType": 2,
+    "DamageType": 1,
+    "EffectType": 1,
+    "DamageTag": [
+      237393061
+    ],
+    "DamageBonusType": 1,
+    "SkillPercentAmend": [
+      650000,
+      0
+    ],
+    "SkillAbsAmend": [
+      0,
+      0
+    ],
+    "SkillId": 3093104
+  },
+  "30931051": {
+    "Id": 30931051,
+    "DistanceType": 1,
+    "SourceType": 2,
+    "DamageType": 1,
+    "EffectType": 1,
+    "DamageBonusType": 1,
+    "SkillPercentAmend": [
+      700000,
+      0
+    ],
+    "SkillAbsAmend": [
+      0,
+      0
+    ],
+    "SkillId": 3093105,
+    "HitImmunityTime": 5000
+  },
+  "30931052": {
+    "Id": 30931052,
+    "DistanceType": 1,
+    "SourceType": 2,
+    "DamageType": 1,
+    "EffectType": 1,
+    "DamageBonusType": 1,
+    "SkillPercentAmend": [
+      900000,
+      0
+    ],
+    "SkillAbsAmend": [
+      0,
+      0
+    ],
+    "SkillId": 3093105,
+    "HitImmunityTime": 5000
+  },
+  "30931053": {
+    "Id": 30931053,
+    "DistanceType": 1,
+    "SourceType": 2,
+    "DamageType": 1,
+    "EffectType": 1,
+    "DamageBonusType": 1,
+    "SkillPercentAmend": [
+      1100000,
+      0
+    ],
+    "SkillAbsAmend": [
+      0,
+      0
+    ],
+    "SkillId": 3093105,
+    "HitImmunityTime": 5000
+  },
+  "30931061": {
+    "Id": 30931061,
+    "DistanceType": 1,
+    "SourceType": 2,
+    "DamageType": 1,
+    "EffectType": 1,
+    "DamageBonusType": 1,
+    "SkillPercentAmend": [
+      700000,
+      0
+    ],
+    "SkillAbsAmend": [
+      0,
+      0
+    ],
+    "SkillId": 3093106,
+    "HitImmunityTime": 5000
+  },
+  "30931062": {
+    "Id": 30931062,
+    "DistanceType": 1,
+    "SourceType": 2,
+    "DamageType": 1,
+    "EffectType": 1,
+    "DamageBonusType": 1,
+    "SkillPercentAmend": [
+      10000,
+      0
+    ],
+    "SkillAbsAmend": [
+      0,
+      0
+    ],
+    "SkillId": 3093106,
+    "HitImmunityTime": 5000
+  },
+  "30931081": {
+    "Id": 30931081,
+    "DistanceType": 1,
+    "SourceType": 2,
+    "DamageType": 1,
+    "EffectType": 7,
+    "DamageBonusType": 1,
+    "SkillPercentAmend": [
+      10000,
+      0
+    ],
+    "SkillAbsAmend": [
+      0,
+      0
+    ],
+    "SkillId": 3093108
+  },
+  "30931091": {
+    "Id": 30931091,
+    "DistanceType": 1,
+    "SourceType": 2,
+    "DamageType": 1,
+    "EffectType": 1,
+    "DamageTag": [
+      237393061
+    ],
+    "DamageBonusType": 1,
+    "SkillPercentAmend": [
+      1400000,
+      0
+    ],
+    "SkillAbsAmend": [
+      0,
+      0
+    ],
+    "SkillId": 3093109,
+    "HitImmunityTime": 5000
+  },
+  "30931092": {
+    "Id": 30931092,
+    "DistanceType": 1,
+    "SourceType": 2,
+    "DamageType": 1,
+    "EffectType": 7,
+    "DamageBonusType": 1,
+    "SkillPercentAmend": [
+      10000,
+      0
+    ],
+    "SkillAbsAmend": [
+      0,
+      0
+    ],
+    "SkillId": 3093109,
+    "HitImmunityTime": 5000
+  },
+  "30931093": {
+    "Id": 30931093,
+    "DistanceType": 1,
+    "SourceType": 2,
+    "DamageType": 1,
+    "EffectType": 1,
+    "DamageTag": [
+      237393061
+    ],
+    "DamageBonusType": 1,
+    "SkillPercentAmend": [
+      1600000,
+      0
+    ],
+    "SkillAbsAmend": [
+      0,
+      0
+    ],
+    "SkillId": 3093109,
+    "HitImmunityTime": 5000
+  },
+  "30931094": {
+    "Id": 30931094,
+    "DistanceType": 1,
+    "SourceType": 2,
+    "DamageType": 1,
+    "EffectType": 1,
+    "DamageBonusType": 1,
+    "SkillPercentAmend": [
+      850000,
+      0
+    ],
+    "SkillAbsAmend": [
+      0,
+      0
+    ],
+    "SkillId": 3093109,
+    "HitImmunityTime": 10000
+  },
+  "30931101": {
+    "Id": 30931101,
+    "DistanceType": 1,
+    "SourceType": 2,
+    "DamageType": 1,
+    "EffectType": 1,
+    "DamageTag": [
+      237393061
+    ],
+    "DamageBonusType": 1,
+    "SkillPercentAmend": [
+      1150000,
+      0
+    ],
+    "SkillAbsAmend": [
+      0,
+      0
+    ],
+    "SkillId": 3093110
+  },
+  "30931102": {
+    "Id": 30931102,
+    "DistanceType": 1,
+    "SourceType": 2,
+    "DamageType": 1,
+    "EffectType": 1,
+    "DamageTag": [
+      237393061
+    ],
+    "DamageBonusType": 1,
+    "SkillPercentAmend": [
+      1550000,
+      0
+    ],
+    "SkillAbsAmend": [
+      0,
+      0
+    ],
+    "SkillId": 3093110,
+    "HitImmunityTime": 5000
+  },
+  "30931111": {
+    "Id": 30931111,
+    "DistanceType": 1,
+    "SourceType": 2,
+    "DamageType": 1,
+    "EffectType": 1,
+    "DamageBonusType": 1,
+    "SkillPercentAmend": [
+      1700000,
+      0
+    ],
+    "SkillAbsAmend": [
+      0,
+      0
+    ],
+    "SkillId": 3093111,
+    "HitImmunityTime": 10000
+  },
+  "30931121": {
+    "Id": 30931121,
+    "DistanceType": 1,
+    "SourceType": 2,
+    "DamageType": 1,
+    "EffectType": 1,
+    "DamageBonusType": 1,
+    "SkillPercentAmend": [
+      1100000,
+      0
+    ],
+    "SkillAbsAmend": [
+      0,
+      0
+    ],
+    "SkillId": 3093111,
+    "HitImmunityTime": 5000
+  },
+  "30931181": {
+    "Id": 30931181,
+    "DistanceType": 1,
+    "SourceType": 2,
+    "DamageType": 1,
+    "EffectType": 6,
+    "DamageBonusType": 1,
+    "SkillPercentAmend": [
+      10000,
+      0
+    ],
+    "SkillAbsAmend": [
+      0,
+      0
+    ],
+    "SkillId": 3093118
+  },
+  "30931182": {
+    "Id": 30931182,
+    "DistanceType": 1,
+    "SourceType": 2,
+    "DamageType": 1,
+    "EffectType": 1,
+    "DamageBonusType": 1,
+    "SkillPercentAmend": [
+      750000,
+      0
+    ],
+    "SkillAbsAmend": [
+      0,
+      0
+    ],
+    "SkillId": 3093118,
+    "HitImmunityTime": 7500
+  },
   "30901011": {
     "Id": 30901011,
     "DistanceType": 1,

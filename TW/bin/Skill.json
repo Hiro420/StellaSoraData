@@ -18595,6 +18595,186 @@
     "Desc": "Skill.3091103.2",
     "MaxLevel": 1
   },
+  "3093101": {
+    "Id": 3093101,
+    "Title": "Skill.3093101.1",
+    "FCPath": "AIScript.Monster._30931HaSaNa.SkillScript_HorizontalSlash",
+    "Type": 2,
+    "BriefDesc": "Skill.3093101.13",
+    "Desc": "Skill.3093101.2",
+    "MaxLevel": 1
+  },
+  "3093102": {
+    "Id": 3093102,
+    "Title": "Skill.3093102.1",
+    "FCPath": "AIScript.Monster._30931HaSaNa.SkillScript_RushAttack",
+    "Type": 2,
+    "BriefDesc": "Skill.3093102.13",
+    "Desc": "Skill.3093102.2",
+    "MaxLevel": 1
+  },
+  "3093103": {
+    "Id": 3093103,
+    "Title": "Skill.3093103.1",
+    "FCPath": "AIScript.Monster._30931HaSaNa.SkillScript_Burrow",
+    "Type": 2,
+    "BriefDesc": "Skill.3093103.13",
+    "Desc": "Skill.3093103.2",
+    "MaxLevel": 1
+  },
+  "3093104": {
+    "Id": 3093104,
+    "Title": "Skill.3093104.1",
+    "FCPath": "AIScript.Monster._30931HaSaNa.SkillScript_Thumping",
+    "Type": 2,
+    "BriefDesc": "Skill.3093104.13",
+    "Desc": "Skill.3093104.2",
+    "MaxLevel": 1
+  },
+  "3093105": {
+    "Id": 3093105,
+    "Title": "Skill.3093105.1",
+    "FCPath": "AIScript.Monster._30931HaSaNa.SkillScript_DustSpraying",
+    "Type": 2,
+    "BriefDesc": "Skill.3093105.13",
+    "Desc": "Skill.3093105.2",
+    "MaxLevel": 1
+  },
+  "3093106": {
+    "Id": 3093106,
+    "Title": "Skill.3093106.1",
+    "FCPath": "AIScript.Monster._30931HaSaNa.SkillScript_DustMissile",
+    "Type": 2,
+    "BriefDesc": "Skill.3093106.13",
+    "Desc": "Skill.3093106.2",
+    "MaxLevel": 1
+  },
+  "3093107": {
+    "Id": 3093107,
+    "Title": "Skill.3093107.1",
+    "FCPath": "AIScript.Monster._30931HaSaNa.SkillScript_DustMissile_Clone",
+    "Type": 2,
+    "BriefDesc": "Skill.3093107.13",
+    "Desc": "Skill.3093107.2",
+    "MaxLevel": 1
+  },
+  "3093108": {
+    "Id": 3093108,
+    "Title": "Skill.3093108.1",
+    "FCPath": "AIScript.Monster._30931HaSaNa.SkillScript_BeginTransform_Transform",
+    "Type": 2,
+    "BriefDesc": "Skill.3093108.13",
+    "Desc": "Skill.3093108.2",
+    "MaxLevel": 1
+  },
+  "3093109": {
+    "Id": 3093109,
+    "Title": "Skill.3093109.1",
+    "FCPath": "AIScript.Monster._30931HaSaNa.SkillScript_MeleeAttack_Transform",
+    "Type": 2,
+    "BriefDesc": "Skill.3093109.13",
+    "Desc": "Skill.3093109.2",
+    "MaxLevel": 1
+  },
+  "3093110": {
+    "Id": 3093110,
+    "Title": "Skill.3093110.1",
+    "FCPath": "AIScript.Monster._30931HaSaNa.SkillScript_Hammering_Transform",
+    "Type": 2,
+    "BriefDesc": "Skill.3093110.13",
+    "Desc": "Skill.3093110.2",
+    "MaxLevel": 1
+  },
+  "3093111": {
+    "Id": 3093111,
+    "Title": "Skill.3093111.1",
+    "FCPath": "AIScript.Monster._30931HaSaNa.SkillScript_DustSpraying_Transform",
+    "Type": 2,
+    "BriefDesc": "Skill.3093111.13",
+    "Desc": "Skill.3093111.2",
+    "MaxLevel": 1
+  },
+  "3093112": {
+    "Id": 3093112,
+    "Title": "Skill.3093112.1",
+    "FCPath": "AIScript.Monster._30931HaSaNa.SkillScript_DustExplosion_Transform",
+    "Type": 2,
+    "BriefDesc": "Skill.3093112.13",
+    "Desc": "Skill.3093112.2",
+    "MaxLevel": 1
+  },
+  "3093113": {
+    "Id": 3093113,
+    "Title": "Skill.3093113.1",
+    "FCPath": "AIScript.Monster._30931HaSaNa.Skill_Wander",
+    "Type": 2,
+    "BriefDesc": "Skill.3093113.13",
+    "Desc": "Skill.3093113.2",
+    "MaxLevel": 1
+  },
+  "3093114": {
+    "Id": 3093114,
+    "Title": "Skill.3093114.1",
+    "FCPath": "AIScript.Monster._30931HaSaNa.SkillScript_ActiveDevice",
+    "Type": 2,
+    "BriefDesc": "Skill.3093114.13",
+    "Desc": "Skill.3093114.2",
+    "MaxLevel": 1
+  },
+  "3093115": {
+    "Id": 3093115,
+    "Title": "Skill.3093115.1",
+    "FCPath": "AIScript.Monster._30931HaSaNa.SkillScript_SkillScript_SandStorm",
+    "Type": 2,
+    "BriefDesc": "Skill.3093115.13",
+    "Desc": "Skill.3093115.2",
+    "MaxLevel": 1
+  },
+  "3093116": {
+    "Id": 3093116,
+    "Title": "Skill.3093116.1",
+    "FCPath": "AIScript.Monster._30931HaSaNa.Skill_Spawn",
+    "Type": 2,
+    "BriefDesc": "Skill.3093116.13",
+    "Desc": "Skill.3093116.2",
+    "MaxLevel": 1
+  },
+  "3093117": {
+    "Id": 3093117,
+    "Title": "Skill.3093117.1",
+    "FCPath": "AIScript.Monster._30931HaSaNa.Skill_Spawn_Device",
+    "Type": 2,
+    "BriefDesc": "Skill.3093117.13",
+    "Desc": "Skill.3093117.2",
+    "MaxLevel": 1
+  },
+  "3093118": {
+    "Id": 3093118,
+    "Title": "Skill.3093118.1",
+    "FCPath": "AIScript.Monster._30931HaSaNa.Skill_CommonEffect_Device",
+    "Type": 2,
+    "BriefDesc": "Skill.3093118.13",
+    "Desc": "Skill.3093118.2",
+    "MaxLevel": 1
+  },
+  "3093119": {
+    "Id": 3093119,
+    "Title": "Skill.3093119.1",
+    "FCPath": "AIScript.Monster._30931HaSaNa.SkillScript_TransformBack_Transform",
+    "Type": 2,
+    "BriefDesc": "Skill.3093119.13",
+    "Desc": "Skill.3093119.2",
+    "MaxLevel": 1
+  },
+  "3093120": {
+    "Id": 3093120,
+    "Title": "Skill.3093120.1",
+    "FCPath": "AIScript.Monster._30931HaSaNa.Skill_Death",
+    "Type": 2,
+    "BriefDesc": "Skill.3093120.13",
+    "Desc": "Skill.3093120.2",
+    "MaxLevel": 1
+  },
   "5000901": {
     "Id": 5000901,
     "Title": "Skill.5000901.1",

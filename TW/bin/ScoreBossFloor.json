@@ -102,5 +102,21 @@
     "Theme": 114,
     "BGM": "city_combatBoss_setState",
     "LeaveTriggerEvent": "amb_city_all_stop"
+  },
+  "1001014": {
+    "Id": 1001014,
+    "SceneName": "Levels/Main/Company/Company_Main_6_2",
+    "ConfigPrefabName": "RegionBoss_FengCao_BossRush_6",
+    "Theme": 14,
+    "BGM": "fengCao_combatBoss_setState",
+    "LeaveTriggerEvent": "amb_city_all_stop"
+  },
+  "1001015": {
+    "Id": 1001015,
+    "SceneName": "Levels/StoryActivity/StoryActivity_9/StoryActivity_9_Boss_HaSaNa",
+    "ConfigPrefabName": "Bossrush_HaSaNa",
+    "Theme": 118,
+    "BGM": "fengCao_combatBoss_setState",
+    "LeaveTriggerEvent": "amb_city_all_stop"
   }
 }

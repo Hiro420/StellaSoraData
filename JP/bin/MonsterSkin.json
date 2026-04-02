@@ -5669,10 +5669,10 @@
   },
   "3093101": {
     "Id": 3093101,
-    "MonsterManual": 1851016,
-    "Model": "Actor/Monster/30931HaSaNa/30391HaSaNa_Actor",
-    "RunAnimationSpd": 70000,
-    "WalkAnimationSpd": 50000,
+    "MonsterManual": 3093100,
+    "Model": "Actor/Monster/30931HaSaNa/30931HaSaNa_Actor",
+    "RunAnimationSpd": 75000,
+    "WalkAnimationSpd": 29000,
     "BarHeight": 10000,
     "ModelScale": 10000,
     "ColliderScale": 10000
@@ -5682,9 +5682,9 @@
     "Model": "Actor/Monster/99900EmptyMonster/99900EmptyMonster_Actor",
     "RunAnimationSpd": 35000,
     "WalkAnimationSpd": 15000,
-    "BarHeight": 10000,
-    "ModelScale": 10000,
-    "ColliderScale": 10000,
+    "BarHeight": 30000,
+    "ModelScale": 20000,
+    "ColliderScale": 5000,
     "ForbiddenBehitRot": true
   },
   "3090101": {
