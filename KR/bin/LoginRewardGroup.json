@@ -434,5 +434,105 @@
     "DisRare": true,
     "NpcId": 7159,
     "VoiceId": -1430835585
+  },
+  "30103101": {
+    "Id": 30103101,
+    "RewardGroupId": 301031,
+    "Order": 1,
+    "RewardId1": 502,
+    "Qty1": 1,
+    "RewardIcon": "Icon/Item/item_502",
+    "RewardCount": 1,
+    "RewardDesc": "LoginRewardGroup.30103101.1"
+  },
+  "30103102": {
+    "Id": 30103102,
+    "RewardGroupId": 301031,
+    "Order": 2,
+    "RewardId1": 602,
+    "Qty1": 300,
+    "RewardIcon": "Icon/Item/item_602",
+    "RewardCount": 300,
+    "RewardDesc": "LoginRewardGroup.30103102.1"
+  },
+  "30103103": {
+    "Id": 30103103,
+    "RewardGroupId": 301031,
+    "Order": 3,
+    "RewardId1": 502,
+    "Qty1": 1,
+    "RewardIcon": "Icon/Item/item_502",
+    "RewardCount": 1,
+    "RewardDesc": "LoginRewardGroup.30103103.1"
+  },
+  "30103104": {
+    "Id": 30103104,
+    "RewardGroupId": 301031,
+    "Order": 4,
+    "RewardId1": 602,
+    "Qty1": 300,
+    "RewardIcon": "Icon/Item/item_602",
+    "RewardCount": 300,
+    "RewardDesc": "LoginRewardGroup.30103104.1"
+  },
+  "30103105": {
+    "Id": 30103105,
+    "RewardGroupId": 301031,
+    "Order": 5,
+    "RewardId1": 502,
+    "Qty1": 1,
+    "RewardIcon": "Icon/Item/item_502",
+    "RewardCount": 1,
+    "RewardDesc": "LoginRewardGroup.30103105.1"
+  },
+  "30103106": {
+    "Id": 30103106,
+    "RewardGroupId": 301031,
+    "Order": 6,
+    "RewardId1": 602,
+    "Qty1": 300,
+    "RewardIcon": "Icon/Item/item_602",
+    "RewardCount": 300,
+    "RewardDesc": "LoginRewardGroup.30103106.1"
+  },
+  "30103107": {
+    "Id": 30103107,
+    "RewardGroupId": 301031,
+    "Order": 7,
+    "RewardId1": 502,
+    "Qty1": 1,
+    "RewardIcon": "Icon/Item/item_502",
+    "RewardCount": 1,
+    "RewardDesc": "LoginRewardGroup.30103107.1"
+  },
+  "30103108": {
+    "Id": 30103108,
+    "RewardGroupId": 301031,
+    "Order": 8,
+    "RewardId1": 602,
+    "Qty1": 300,
+    "RewardIcon": "Icon/Item/item_602",
+    "RewardCount": 300,
+    "RewardDesc": "LoginRewardGroup.30103108.1"
+  },
+  "30103109": {
+    "Id": 30103109,
+    "RewardGroupId": 301031,
+    "Order": 9,
+    "RewardId1": 502,
+    "Qty1": 1,
+    "RewardIcon": "Icon/Item/item_502",
+    "RewardCount": 1,
+    "RewardDesc": "LoginRewardGroup.30103109.1"
+  },
+  "30103110": {
+    "Id": 30103110,
+    "RewardGroupId": 301031,
+    "Order": 10,
+    "RewardId1": 602,
+    "Qty1": 300,
+    "RewardIcon": "Icon/Item/item_602",
+    "RewardCount": 300,
+    "RewardDesc": "LoginRewardGroup.30103110.1"
   }
 }

@@ -352,6 +352,16 @@
     "Desc": "MailTemplate.4011.3",
     "Type": 1
   },
+  "4012": {
+    "Id": 4012,
+    "Explanation": "活动结束补偿邮件",
+    "Icon": "Icon/Head/head_12501",
+    "Author": "MailTemplate.4012.1",
+    "LetterPaper": "background2",
+    "Subject": "MailTemplate.4012.2",
+    "Desc": "MailTemplate.4012.3",
+    "Type": 1
+  },
   "5001": {
     "Id": 5001,
     "Explanation": "问卷调查奖励邮件",

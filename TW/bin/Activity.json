@@ -167,6 +167,25 @@
     "EndTime": "2026-03-03T04:00:00+08:00",
     "TabBgRes": "Icon/Banner/tab_activity_301022"
   },
+  "301031": {
+    "Id": 301031,
+    "SortId": 6,
+    "ActivityType": 2,
+    "Name": "版本登录奖励",
+    "PreLimit": 1,
+    "LimitParam": "2",
+    "PlayCond": 1,
+    "PlayCondParams": "2",
+    "StartType": 2,
+    "StartTime": "2026-04-07T12:00:00+08:00",
+    "StartCondType": 71,
+    "StartCondParams": [
+      2
+    ],
+    "EndType": 2,
+    "EndTime": "2026-05-08T11:00:00+08:00",
+    "TabBgRes": "Icon/Banner/tab_activity_301031_lang"
+  },
   "201001": {
     "Id": 201001,
     "SortId": 13,
