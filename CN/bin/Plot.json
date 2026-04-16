@@ -803,6 +803,76 @@
     "Rewards": "{\"2\":30}",
     "PicSource": "Icon/MapEpisode/ep_character_13503"
   },
+  "13701": {
+    "Id": 13701,
+    "Char": 137,
+    "Name": "Plot.13701.1",
+    "Desc": "Plot.13701.2",
+    "AvgId": "CG_137_01",
+    "PlotType": 1,
+    "UnlockAffinityLevel": 1,
+    "Rewards": "{\"2\":30}",
+    "PicSource": "Icon/MapEpisode/ep_character_13701"
+  },
+  "13702": {
+    "Id": 13702,
+    "Char": 137,
+    "Name": "Plot.13702.1",
+    "Desc": "Plot.13702.2",
+    "AvgId": "CG_137_02",
+    "PlotType": 1,
+    "PrePlot": 13701,
+    "UnlockAffinityLevel": 5,
+    "Rewards": "{\"2\":30}",
+    "PicSource": "Icon/MapEpisode/ep_character_13702"
+  },
+  "13703": {
+    "Id": 13703,
+    "Char": 137,
+    "Name": "Plot.13703.1",
+    "Desc": "Plot.13703.2",
+    "AvgId": "CG_137_03",
+    "PlotType": 1,
+    "PrePlot": 13702,
+    "UnlockAffinityLevel": 10,
+    "Rewards": "{\"2\":30}",
+    "PicSource": "Icon/MapEpisode/ep_character_13703"
+  },
+  "13901": {
+    "Id": 13901,
+    "Char": 139,
+    "Name": "Plot.13901.1",
+    "Desc": "Plot.13901.2",
+    "AvgId": "CG_139_01",
+    "PlotType": 1,
+    "UnlockAffinityLevel": 1,
+    "Rewards": "{\"2\":30}",
+    "PicSource": "Icon/MapEpisode/ep_character_13901"
+  },
+  "13902": {
+    "Id": 13902,
+    "Char": 139,
+    "Name": "Plot.13902.1",
+    "Desc": "Plot.13902.2",
+    "AvgId": "CG_139_02",
+    "PlotType": 1,
+    "PrePlot": 13901,
+    "UnlockAffinityLevel": 5,
+    "Rewards": "{\"2\":30}",
+    "PicSource": "Icon/MapEpisode/ep_character_13902"
+  },
+  "13903": {
+    "Id": 13903,
+    "Char": 139,
+    "Name": "Plot.13903.1",
+    "Desc": "Plot.13903.2",
+    "AvgId": "CG_139_03",
+    "PlotType": 1,
+    "PrePlot": 13902,
+    "UnlockAffinityLevel": 10,
+    "Rewards": "{\"2\":30}",
+    "PicSource": "Icon/MapEpisode/ep_character_13903"
+  },
   "14001": {
     "Id": 14001,
     "Char": 140,
@@ -1188,6 +1258,41 @@
     "Rewards": "{\"2\":30}",
     "PicSource": "Icon/MapEpisode/ep_character_15603"
   },
+  "15701": {
+    "Id": 15701,
+    "Char": 157,
+    "Name": "Plot.15701.1",
+    "Desc": "Plot.15701.2",
+    "AvgId": "CG_157_01",
+    "PlotType": 1,
+    "UnlockAffinityLevel": 1,
+    "Rewards": "{\"2\":30}",
+    "PicSource": "Icon/MapEpisode/ep_character_15701"
+  },
+  "15702": {
+    "Id": 15702,
+    "Char": 157,
+    "Name": "Plot.15702.1",
+    "Desc": "Plot.15702.2",
+    "AvgId": "CG_157_02",
+    "PlotType": 1,
+    "PrePlot": 15701,
+    "UnlockAffinityLevel": 5,
+    "Rewards": "{\"2\":30}",
+    "PicSource": "Icon/MapEpisode/ep_character_15702"
+  },
+  "15703": {
+    "Id": 15703,
+    "Char": 157,
+    "Name": "Plot.15703.1",
+    "Desc": "Plot.15703.2",
+    "AvgId": "CG_157_03",
+    "PlotType": 1,
+    "PrePlot": 15702,
+    "UnlockAffinityLevel": 10,
+    "Rewards": "{\"2\":30}",
+    "PicSource": "Icon/MapEpisode/ep_character_15703"
+  },
   "15801": {
     "Id": 15801,
     "Char": 158,
@@ -1257,5 +1362,40 @@
     "UnlockAffinityLevel": 10,
     "Rewards": "{\"2\":30}",
     "PicSource": "Icon/MapEpisode/ep_character_15903"
+  },
+  "16001": {
+    "Id": 16001,
+    "Char": 160,
+    "Name": "Plot.16001.1",
+    "Desc": "Plot.16001.2",
+    "AvgId": "CG_160_01",
+    "PlotType": 1,
+    "UnlockAffinityLevel": 1,
+    "Rewards": "{\"2\":30}",
+    "PicSource": "Icon/MapEpisode/ep_character_16001"
+  },
+  "16002": {
+    "Id": 16002,
+    "Char": 160,
+    "Name": "Plot.16002.1",
+    "Desc": "Plot.16002.2",
+    "AvgId": "CG_160_02",
+    "PlotType": 1,
+    "PrePlot": 16001,
+    "UnlockAffinityLevel": 5,
+    "Rewards": "{\"2\":30}",
+    "PicSource": "Icon/MapEpisode/ep_character_16002"
+  },
+  "16003": {
+    "Id": 16003,
+    "Char": 160,
+    "Name": "Plot.16003.1",
+    "Desc": "Plot.16003.2",
+    "AvgId": "CG_160_03",
+    "PlotType": 1,
+    "PrePlot": 16002,
+    "UnlockAffinityLevel": 10,
+    "Rewards": "{\"2\":30}",
+    "PicSource": "Icon/MapEpisode/ep_character_16003"
   }
 }

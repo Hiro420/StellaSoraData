@@ -76,7 +76,9 @@
       101,
       202,
       303
-    ]
+    ],
+    "ChargingRate": 3,
+    "EnergyConsume": 4
   },
   "106": {
     "Id": 106,
@@ -89,8 +91,8 @@
     "ViewId": 106,
     "Faction": 1,
     "Weight": 2,
-    "EET": 6,
-    "Class": 3,
+    "EET": 7,
+    "Class": 1,
     "CharacterAttackType": 1,
     "SearchTargetType": 1,
     "AtkSpd": 1000000,
@@ -150,7 +152,9 @@
       101,
       302,
       203
-    ]
+    ],
+    "ChargingRate": 3,
+    "EnergyConsume": 4
   },
   "107": {
     "Id": 107,
@@ -225,7 +229,9 @@
       301,
       202,
       103
-    ]
+    ],
+    "ChargingRate": 2,
+    "EnergyConsume": 4
   },
   "108": {
     "Id": 108,
@@ -303,7 +309,9 @@
       101,
       202,
       303
-    ]
+    ],
+    "ChargingRate": 3,
+    "EnergyConsume": 3
   },
   "109": {
     "Id": 109,
@@ -316,16 +324,16 @@
     "ViewId": 109,
     "Faction": 1,
     "Weight": 2,
-    "EET": 5,
-    "Class": 3,
-    "CharacterAttackType": 2,
-    "SearchTargetType": 2,
+    "EET": 7,
+    "Class": 1,
+    "CharacterAttackType": 1,
+    "SearchTargetType": 1,
     "AtkSpd": 1000000,
     "MovType": 2,
-    "WalkSpd": 48750,
-    "RunSpd": 65000,
-    "SpRunSpd": 100000,
-    "TransSpd": 58500,
+    "WalkSpd": 52500,
+    "RunSpd": 70000,
+    "SpRunSpd": 110000,
+    "TransSpd": 63000,
     "WalkToRunDuration": 1000,
     "DodgeToRunAccelerationOrNot": true,
     "MovAcc": 999990000,
@@ -377,7 +385,9 @@
       301,
       202,
       103
-    ]
+    ],
+    "ChargingRate": 3,
+    "EnergyConsume": 4
   },
   "110": {
     "Id": 110,
@@ -450,7 +460,9 @@
       101,
       302,
       203
-    ]
+    ],
+    "ChargingRate": 3,
+    "EnergyConsume": 4
   },
   "111": {
     "Id": 111,
@@ -526,7 +538,9 @@
       301,
       102,
       203
-    ]
+    ],
+    "ChargingRate": 3,
+    "EnergyConsume": 3
   },
   "112": {
     "Id": 112,
@@ -600,7 +614,9 @@
       201,
       102,
       303
-    ]
+    ],
+    "ChargingRate": 3,
+    "EnergyConsume": 3
   },
   "113": {
     "Id": 113,
@@ -676,7 +692,9 @@
       301,
       102,
       203
-    ]
+    ],
+    "ChargingRate": 3,
+    "EnergyConsume": 3
   },
   "114": {
     "Id": 114,
@@ -689,16 +707,16 @@
     "ViewId": 114,
     "Faction": 1,
     "Weight": 2,
-    "EET": 2,
+    "EET": 7,
     "Class": 1,
-    "CharacterAttackType": 2,
-    "SearchTargetType": 2,
+    "CharacterAttackType": 1,
+    "SearchTargetType": 1,
     "AtkSpd": 1000000,
     "MovType": 2,
-    "WalkSpd": 48750,
-    "RunSpd": 65000,
-    "SpRunSpd": 100000,
-    "TransSpd": 58500,
+    "WalkSpd": 52500,
+    "RunSpd": 70000,
+    "SpRunSpd": 110000,
+    "TransSpd": 63000,
     "WalkToRunDuration": 1000,
     "DodgeToRunAccelerationOrNot": true,
     "MovAcc": 999990000,
@@ -752,7 +770,9 @@
       101,
       202,
       303
-    ]
+    ],
+    "ChargingRate": 2,
+    "EnergyConsume": 3
   },
   "115": {
     "Id": 115,
@@ -765,16 +785,16 @@
     "ViewId": 115,
     "Faction": 1,
     "Weight": 2,
-    "EET": 5,
-    "Class": 2,
-    "CharacterAttackType": 2,
-    "SearchTargetType": 2,
+    "EET": 7,
+    "Class": 1,
+    "CharacterAttackType": 1,
+    "SearchTargetType": 1,
     "AtkSpd": 1000000,
     "MovType": 2,
-    "WalkSpd": 48750,
-    "RunSpd": 65000,
-    "SpRunSpd": 100000,
-    "TransSpd": 58500,
+    "WalkSpd": 52500,
+    "RunSpd": 70000,
+    "SpRunSpd": 110000,
+    "TransSpd": 63000,
     "WalkToRunDuration": 1000,
     "DodgeToRunAccelerationOrNot": true,
     "MovAcc": 1200000,
@@ -793,7 +813,7 @@
     "SpecialSkillId": 11570000,
     "UltimateId": 11540000,
     "AssistAIId": 11502,
-    "AssistNormalAtkId": 11510000,
+    "AssistNormalAtkId": 11512000,
     "AssistDodgeId": 11520000,
     "AssistSkillId": 11532001,
     "AssistSpecialSkillId": 11570000,
@@ -803,8 +823,8 @@
     "AssistSkillAngle": 600000,
     "AssistSkillRadius": 50000,
     "AssistUltimateOnStageType": 1,
-    "AssistUltimateAngle": 300000,
-    "AssistUltimateRadius": 40000,
+    "AssistUltimateAngle": 600000,
+    "AssistUltimateRadius": 10000,
     "SkillSemiAutoRng": 70000,
     "UltimateSemiAutoRng": 70000,
     "SwitchCD": 200,
@@ -826,7 +846,9 @@
       301,
       202,
       103
-    ]
+    ],
+    "ChargingRate": 3,
+    "EnergyConsume": 4
   },
   "116": {
     "Id": 116,
@@ -904,7 +926,9 @@
       201,
       302,
       103
-    ]
+    ],
+    "ChargingRate": 3,
+    "EnergyConsume": 3
   },
   "117": {
     "Id": 117,
@@ -980,7 +1004,9 @@
       301,
       202,
       103
-    ]
+    ],
+    "ChargingRate": 3,
+    "EnergyConsume": 3
   },
   "118": {
     "Id": 118,
@@ -1055,7 +1081,9 @@
       101,
       302,
       203
-    ]
+    ],
+    "ChargingRate": 3,
+    "EnergyConsume": 3
   },
   "119": {
     "Id": 119,
@@ -1132,7 +1160,9 @@
       201,
       102,
       303
-    ]
+    ],
+    "ChargingRate": 3,
+    "EnergyConsume": 3
   },
   "120": {
     "Id": 120,
@@ -1209,7 +1239,9 @@
       201,
       102,
       303
-    ]
+    ],
+    "ChargingRate": 3,
+    "EnergyConsume": 3
   },
   "123": {
     "Id": 123,
@@ -1283,7 +1315,9 @@
       201,
       102,
       303
-    ]
+    ],
+    "ChargingRate": 3,
+    "EnergyConsume": 3
   },
   "125": {
     "Id": 125,
@@ -1358,7 +1392,9 @@
       301,
       102,
       203
-    ]
+    ],
+    "ChargingRate": 3,
+    "EnergyConsume": 3
   },
   "126": {
     "Id": 126,
@@ -1434,7 +1470,9 @@
       101,
       202,
       303
-    ]
+    ],
+    "ChargingRate": 3,
+    "EnergyConsume": 3
   },
   "127": {
     "Id": 127,
@@ -1510,7 +1548,9 @@
       301,
       102,
       203
-    ]
+    ],
+    "ChargingRate": 3,
+    "EnergyConsume": 3
   },
   "129": {
     "Id": 129,
@@ -1523,7 +1563,7 @@
     "ViewId": 129,
     "Faction": 1,
     "Weight": 2,
-    "EET": 3,
+    "EET": 7,
     "Class": 1,
     "CharacterAttackType": 1,
     "SearchTargetType": 1,
@@ -1583,7 +1623,9 @@
       201,
       302,
       103
-    ]
+    ],
+    "ChargingRate": 4,
+    "EnergyConsume": 2
   },
   "130": {
     "Id": 130,
@@ -1659,7 +1701,9 @@
       301,
       102,
       203
-    ]
+    ],
+    "ChargingRate": 3,
+    "EnergyConsume": 3
   },
   "132": {
     "Id": 132,
@@ -1734,7 +1778,9 @@
       301,
       202,
       103
-    ]
+    ],
+    "ChargingRate": 3,
+    "EnergyConsume": 3
   },
   "133": {
     "Id": 133,
@@ -1810,7 +1856,9 @@
       201,
       102,
       303
-    ]
+    ],
+    "ChargingRate": 1,
+    "EnergyConsume": 3
   },
   "134": {
     "Id": 134,
@@ -1887,7 +1935,9 @@
       101,
       202,
       303
-    ]
+    ],
+    "ChargingRate": 1,
+    "EnergyConsume": 3
   },
   "135": {
     "Id": 135,
@@ -1964,7 +2014,9 @@
       101,
       302,
       203
-    ]
+    ],
+    "ChargingRate": 3,
+    "EnergyConsume": 3
   },
   "136": {
     "Id": 136,
@@ -1977,16 +2029,16 @@
     "ViewId": 136,
     "Faction": 1,
     "Weight": 2,
-    "EET": 4,
+    "EET": 7,
     "Class": 1,
-    "CharacterAttackType": 2,
-    "SearchTargetType": 2,
+    "CharacterAttackType": 1,
+    "SearchTargetType": 1,
     "AtkSpd": 1000000,
     "MovType": 2,
-    "WalkSpd": 48750,
-    "RunSpd": 65000,
-    "SpRunSpd": 100000,
-    "TransSpd": 58500,
+    "WalkSpd": 52500,
+    "RunSpd": 70000,
+    "SpRunSpd": 110000,
+    "TransSpd": 63000,
     "WalkToRunDuration": 1000,
     "DodgeToRunAccelerationOrNot": true,
     "MovAcc": 999990000,
@@ -2038,7 +2090,160 @@
       201,
       102,
       303
-    ]
+    ],
+    "ChargingRate": 4,
+    "EnergyConsume": 2
+  },
+  "137": {
+    "Id": 137,
+    "Name": "Character.137.1",
+    "Grade": 1,
+    "DefaultSkinId": 13701,
+    "AdvanceSkinId": 13702,
+    "AdvanceGroup": 137,
+    "AdvanceSkinUnlockLevel": 3,
+    "ViewId": 137,
+    "Faction": 1,
+    "Weight": 2,
+    "EET": 7,
+    "Class": 1,
+    "CharacterAttackType": 1,
+    "SearchTargetType": 1,
+    "AtkSpd": 1000000,
+    "MovType": 2,
+    "WalkSpd": 52500,
+    "RunSpd": 70000,
+    "SpRunSpd": 110000,
+    "TransSpd": 63000,
+    "WalkToRunDuration": 1000,
+    "DodgeToRunAccelerationOrNot": true,
+    "MovAcc": 999990000,
+    "RotSpd": 7200000,
+    "RotAcc": 60000,
+    "VisionDeg": 150000,
+    "VisionRng": 75000,
+    "VisionAttackRng": 70000,
+    "HearRng": 120000,
+    "HearAttackRng": 70000,
+    "RaiseGunRng": 70000,
+    "AIId": 13701,
+    "NormalAtkId": 13710000,
+    "DodgeId": 13720000,
+    "SkillId": 13731001,
+    "SpecialSkillId": 13770000,
+    "UltimateId": 13740000,
+    "AssistAIId": 13701,
+    "AssistNormalAtkId": 13710000,
+    "AssistDodgeId": 13720000,
+    "AssistSkillId": 13732000,
+    "AssistSpecialSkillId": 13770000,
+    "AssistUltimateId": 13740000,
+    "TalentSkillId": 13700000,
+    "AssistSkillOnStageType": 1,
+    "AssistSkillAngle": 300000,
+    "AssistSkillRadius": 70000,
+    "AssistUltimateOnStageType": 1,
+    "AssistUltimateAngle": 300000,
+    "AssistUltimateRadius": 40000,
+    "SkillSemiAutoRng": 70000,
+    "UltimateSemiAutoRng": 70000,
+    "SwitchCD": 200,
+    "EnergyConvRatio": 7500,
+    "EnergyEfficiency": 10000,
+    "FragmentsId": 1370,
+    "TransformQty": 60,
+    "RecruitmentQty": 60,
+    "AttributeId": "137",
+    "PresentsTraitId": 103,
+    "SkillsUpgradeGroup": [
+      137,
+      137,
+      137,
+      137
+    ],
+    "FrozenTimeHighlightUnit": 2,
+    "GemSlots": [
+      201,
+      102,
+      303
+    ],
+    "ChargingRate": 2,
+    "EnergyConsume": 3
+  },
+  "139": {
+    "Id": 139,
+    "Name": "Character.139.1",
+    "Grade": 1,
+    "DefaultSkinId": 13901,
+    "AdvanceSkinId": 13902,
+    "AdvanceGroup": 139,
+    "AdvanceSkinUnlockLevel": 3,
+    "ViewId": 139,
+    "Faction": 1,
+    "Weight": 2,
+    "EET": 7,
+    "Class": 1,
+    "CharacterAttackType": 1,
+    "SearchTargetType": 1,
+    "AtkSpd": 1000000,
+    "MovType": 2,
+    "WalkSpd": 52500,
+    "RunSpd": 70000,
+    "SpRunSpd": 110000,
+    "TransSpd": 63000,
+    "DodgeToRunAccelerationOrNot": true,
+    "MovAcc": 999990000,
+    "RotSpd": 13900000,
+    "RotAcc": 60000,
+    "VisionDeg": 450000,
+    "VisionRng": 55000,
+    "VisionAttackRng": 50000,
+    "HearRng": 100000,
+    "HearAttackRng": 50000,
+    "RaiseGunRng": 50000,
+    "AIId": 13901,
+    "NormalAtkId": 13910000,
+    "DodgeId": 13920000,
+    "SkillId": 13931000,
+    "SpecialSkillId": 13970000,
+    "UltimateId": 13940000,
+    "AssistAIId": 13902,
+    "AssistNormalAtkId": 13910000,
+    "AssistDodgeId": 13920000,
+    "AssistSkillId": 13932000,
+    "AssistSpecialSkillId": 13970000,
+    "AssistUltimateId": 13940000,
+    "TalentSkillId": 13900000,
+    "AssistSkillOnStageType": 1,
+    "AssistSkillAngle": 300000,
+    "AssistSkillRadius": 45000,
+    "AssistUltimateOnStageType": 1,
+    "AssistUltimateAngle": 300000,
+    "AssistUltimateRadius": 30000,
+    "SkillSemiAutoRng": 50000,
+    "UltimateSemiAutoRng": 35000,
+    "SwitchCD": 200,
+    "EnergyConvRatio": 7500,
+    "EnergyEfficiency": 10000,
+    "FragmentsId": 1390,
+    "TransformQty": 60,
+    "RecruitmentQty": 60,
+    "AttributeId": "139",
+    "PresentsTraitId": 139,
+    "SkillsUpgradeGroup": [
+      139,
+      139,
+      139,
+      139
+    ],
+    "FrozenTimeHighlightUnit": 2,
+    "GemSlots": [
+      301,
+      102,
+      203
+    ],
+    "ChargingRate": 3,
+    "EnergyConsume": 4
   },
   "140": {
     "Id": 140,
@@ -2051,16 +2256,16 @@
     "ViewId": 140,
     "Faction": 1,
     "Weight": 2,
-    "EET": 3,
+    "EET": 7,
     "Class": 1,
-    "CharacterAttackType": 2,
-    "SearchTargetType": 2,
+    "CharacterAttackType": 1,
+    "SearchTargetType": 1,
     "AtkSpd": 1000000,
     "MovType": 2,
-    "WalkSpd": 48750,
-    "RunSpd": 65000,
-    "SpRunSpd": 100000,
-    "TransSpd": 58500,
+    "WalkSpd": 52500,
+    "RunSpd": 70000,
+    "SpRunSpd": 110000,
+    "TransSpd": 63000,
     "WalkToRunDuration": 1000,
     "DodgeToRunAccelerationOrNot": true,
     "MovAcc": 1200000,
@@ -2112,7 +2317,9 @@
       201,
       302,
       103
-    ]
+    ],
+    "ChargingRate": 4,
+    "EnergyConsume": 2
   },
   "141": {
     "Id": 141,
@@ -2188,7 +2395,9 @@
       101,
       202,
       303
-    ]
+    ],
+    "ChargingRate": 3,
+    "EnergyConsume": 3
   },
   "142": {
     "Id": 142,
@@ -2263,7 +2472,9 @@
       101,
       302,
       203
-    ]
+    ],
+    "ChargingRate": 3,
+    "EnergyConsume": 3
   },
   "143": {
     "Id": 143,
@@ -2339,7 +2550,9 @@
       201,
       102,
       303
-    ]
+    ],
+    "ChargingRate": 3,
+    "EnergyConsume": 3
   },
   "144": {
     "Id": 144,
@@ -2414,11 +2627,15 @@
       301,
       102,
       203
-    ]
+    ],
+    "ChargingRate": 2,
+    "EnergyConsume": 3
   },
   "145": {
     "Id": 145,
     "Name": "Character.145.1",
+    "Visible": true,
+    "Available": true,
     "Grade": 1,
     "DefaultSkinId": 14501,
     "AdvanceSkinId": 14502,
@@ -2467,8 +2684,8 @@
     "AssistUltimateOnStageType": 1,
     "AssistUltimateAngle": 900000,
     "AssistUltimateRadius": 50000,
-    "SkillSemiAutoRng": 45000,
-    "UltimateSemiAutoRng": 70000,
+    "SkillSemiAutoRng": 80000,
+    "UltimateSemiAutoRng": 80000,
     "SwitchCD": 200,
     "EnergyConvRatio": 7500,
     "EnergyEfficiency": 10000,
@@ -2488,7 +2705,9 @@
       101,
       302,
       203
-    ]
+    ],
+    "ChargingRate": 3,
+    "EnergyConsume": 2
   },
   "147": {
     "Id": 147,
@@ -2564,7 +2783,9 @@
       101,
       302,
       203
-    ]
+    ],
+    "ChargingRate": 2,
+    "EnergyConsume": 3
   },
   "149": {
     "Id": 149,
@@ -2640,7 +2861,9 @@
       201,
       302,
       103
-    ]
+    ],
+    "ChargingRate": 3,
+    "EnergyConsume": 3
   },
   "150": {
     "Id": 150,
@@ -2715,7 +2938,9 @@
       301,
       202,
       103
-    ]
+    ],
+    "ChargingRate": 3,
+    "EnergyConsume": 4
   },
   "155": {
     "Id": 155,
@@ -2791,7 +3016,9 @@
       301,
       202,
       103
-    ]
+    ],
+    "ChargingRate": 1,
+    "EnergyConsume": 2
   },
   "156": {
     "Id": 156,
@@ -2868,7 +3095,82 @@
       201,
       302,
       103
-    ]
+    ],
+    "ChargingRate": 2,
+    "EnergyConsume": 3
+  },
+  "157": {
+    "Id": 157,
+    "Name": "Character.157.1",
+    "Grade": 1,
+    "DefaultSkinId": 15701,
+    "AdvanceSkinId": 15702,
+    "AdvanceGroup": 157,
+    "AdvanceSkinUnlockLevel": 3,
+    "ViewId": 157,
+    "Faction": 1,
+    "Weight": 2,
+    "EET": 7,
+    "Class": 1,
+    "CharacterAttackType": 1,
+    "SearchTargetType": 1,
+    "AtkSpd": 1000000,
+    "MovType": 2,
+    "WalkSpd": 52500,
+    "RunSpd": 70000,
+    "SpRunSpd": 110000,
+    "TransSpd": 63000,
+    "MovAcc": 999990000,
+    "RotSpd": 14400000,
+    "RotAcc": 60000,
+    "VisionDeg": 450000,
+    "VisionRng": 35000,
+    "VisionAttackRng": 30000,
+    "HearRng": 100000,
+    "HearAttackRng": 30000,
+    "RaiseGunRng": 30000,
+    "AIId": 15701,
+    "NormalAtkId": 15710000,
+    "DodgeId": 15720000,
+    "SkillId": 15731000,
+    "SpecialSkillId": 15770000,
+    "UltimateId": 15740000,
+    "AssistAIId": 15701,
+    "AssistNormalAtkId": 15710000,
+    "AssistDodgeId": 15720000,
+    "AssistSkillId": 15732000,
+    "AssistSpecialSkillId": 15770000,
+    "AssistUltimateId": 15740000,
+    "TalentSkillId": 15733000,
+    "AssistSkillOnStageType": 1,
+    "AssistSkillRadius": 15000,
+    "AssistUltimateOnStageType": 1,
+    "AssistUltimateAngle": 1000000,
+    "AssistUltimateRadius": 20000,
+    "SkillSemiAutoRng": 30000,
+    "UltimateSemiAutoRng": 60000,
+    "SwitchCD": 200,
+    "EnergyConvRatio": 7500,
+    "EnergyEfficiency": 10000,
+    "FragmentsId": 1570,
+    "TransformQty": 60,
+    "RecruitmentQty": 60,
+    "AttributeId": "157",
+    "PresentsTraitId": 157,
+    "SkillsUpgradeGroup": [
+      157,
+      157,
+      157,
+      157
+    ],
+    "FrozenTimeHighlightUnit": 2,
+    "GemSlots": [
+      101,
+      302,
+      203
+    ],
+    "ChargingRate": 3,
+    "EnergyConsume": 4
   },
   "158": {
     "Id": 158,
@@ -2943,7 +3245,9 @@
       101,
       202,
       303
-    ]
+    ],
+    "ChargingRate": 3,
+    "EnergyConsume": 3
   },
   "159": {
     "Id": 159,
@@ -3021,6 +3325,83 @@
       201,
       102,
       303
-    ]
+    ],
+    "ChargingRate": 3,
+    "EnergyConsume": 3
+  },
+  "160": {
+    "Id": 160,
+    "Name": "Character.160.1",
+    "Grade": 1,
+    "DefaultSkinId": 16001,
+    "AdvanceSkinId": 16002,
+    "AdvanceGroup": 160,
+    "AdvanceSkinUnlockLevel": 3,
+    "ViewId": 160,
+    "Faction": 1,
+    "Weight": 2,
+    "EET": 7,
+    "Class": 1,
+    "CharacterAttackType": 1,
+    "SearchTargetType": 1,
+    "AtkSpd": 1000000,
+    "MovType": 2,
+    "WalkSpd": 52500,
+    "RunSpd": 70000,
+    "SpRunSpd": 110000,
+    "TransSpd": 63000,
+    "DodgeToRunAccelerationOrNot": true,
+    "MovAcc": 999990000,
+    "RotSpd": 7200000,
+    "RotAcc": 60000,
+    "VisionDeg": 150000,
+    "VisionRng": 60000,
+    "VisionAttackRng": 65000,
+    "HearRng": 120000,
+    "HearAttackRng": 60000,
+    "RaiseGunRng": 60000,
+    "AIId": 16001,
+    "NormalAtkId": 16010000,
+    "DodgeId": 16020000,
+    "SkillId": 16031000,
+    "SpecialSkillId": 16070000,
+    "UltimateId": 16040000,
+    "AssistAIId": 16002,
+    "AssistNormalAtkId": 16010000,
+    "AssistDodgeId": 16020000,
+    "AssistSkillId": 16032000,
+    "AssistSpecialSkillId": 16070000,
+    "AssistUltimateId": 16040000,
+    "TalentSkillId": 16000000,
+    "AssistSkillOnStageType": 1,
+    "AssistSkillAngle": 300000,
+    "AssistSkillRadius": 30000,
+    "AssistUltimateOnStageType": 1,
+    "AssistUltimateAngle": 300000,
+    "AssistUltimateRadius": 30000,
+    "SkillSemiAutoRng": 65000,
+    "UltimateSemiAutoRng": 65000,
+    "SwitchCD": 200,
+    "EnergyConvRatio": 7500,
+    "EnergyEfficiency": 10000,
+    "FragmentsId": 1600,
+    "TransformQty": 30,
+    "RecruitmentQty": 30,
+    "AttributeId": "160",
+    "PresentsTraitId": 160,
+    "SkillsUpgradeGroup": [
+      160,
+      160,
+      160,
+      160
+    ],
+    "FrozenTimeHighlightUnit": 2,
+    "GemSlots": [
+      301,
+      102,
+      203
+    ],
+    "ChargingRate": 3,
+    "EnergyConsume": 3
   }
 }

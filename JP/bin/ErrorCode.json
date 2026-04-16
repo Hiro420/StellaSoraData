@@ -383,6 +383,12 @@
     "Template": "ErrorCode.111109.1",
     "ShowType": 2
   },
+  "111110": {
+    "Id": 111110,
+    "Title": "ErrPotentialPreselectionNotFound",
+    "Template": "ErrorCode.111110.1",
+    "ShowType": 1
+  },
   "111201": {
     "Id": 111201,
     "Title": "ErrOutfitStrengthenMax",

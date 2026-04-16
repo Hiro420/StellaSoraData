@@ -6,6 +6,8 @@
     "Name": "StarTowerGrowthNode.10101.1",
     "IsServer": true,
     "Type": 1,
+    "EffectClient": 27,
+    "Clientlvl": 1,
     "Priority": 1,
     "Position": [
       1,
@@ -22,6 +24,8 @@
     "Name": "StarTowerGrowthNode.10102.1",
     "IsServer": true,
     "Type": 1,
+    "EffectClient": 28,
+    "Clientlvl": 1,
     "Priority": 2,
     "Position": [
       1,
@@ -38,6 +42,8 @@
     "Name": "StarTowerGrowthNode.10103.1",
     "IsServer": true,
     "Type": 1,
+    "EffectClient": 11,
+    "Clientlvl": 1,
     "Priority": 3,
     "Position": [
       1,
@@ -60,6 +66,7 @@
     ],
     "EffectClient": 21,
     "ClientParams": "[500]",
+    "Clientlvl": 1,
     "Priority": 4,
     "Position": [
       2,
@@ -79,6 +86,8 @@
     "PreNodes": [
       10102
     ],
+    "EffectClient": 15,
+    "Clientlvl": 1,
     "Priority": 5,
     "Position": [
       2,
@@ -98,6 +107,8 @@
     "PreNodes": [
       10103
     ],
+    "EffectClient": 12,
+    "Clientlvl": 1,
     "Priority": 6,
     "Position": [
       2,
@@ -122,6 +133,7 @@
       10203
     ],
     "EffectClient": 4,
+    "Clientlvl": 1,
     "Priority": 7,
     "Icon": "Icon/ZZZOther/startowergrowth_keypoint_1",
     "Position": [
@@ -142,6 +154,8 @@
     "PreNodes": [
       10301
     ],
+    "EffectClient": 27,
+    "Clientlvl": 2,
     "Priority": 8,
     "Position": [
       4,
@@ -161,6 +175,8 @@
     "PreNodes": [
       10301
     ],
+    "EffectClient": 13,
+    "Clientlvl": 1,
     "Priority": 9,
     "Position": [
       4,
@@ -180,6 +196,8 @@
     "PreNodes": [
       10301
     ],
+    "EffectClient": 11,
+    "Clientlvl": 1,
     "Priority": 10,
     "Position": [
       4,
@@ -199,6 +217,8 @@
     "PreNodes": [
       10401
     ],
+    "EffectClient": 20,
+    "Clientlvl": 1,
     "Priority": 11,
     "Position": [
       5,
@@ -221,6 +241,7 @@
     ],
     "EffectClient": 21,
     "ClientParams": "[1000]",
+    "Clientlvl": 1,
     "Priority": 12,
     "Position": [
       5,
@@ -240,6 +261,8 @@
     "PreNodes": [
       10403
     ],
+    "EffectClient": 12,
+    "Clientlvl": 2,
     "Priority": 13,
     "Position": [
       5,
@@ -261,6 +284,8 @@
       10501,
       10502
     ],
+    "EffectClient": 7,
+    "Clientlvl": 2,
     "Priority": 14,
     "Icon": "Icon/ZZZOther/startowergrowth_keypoint_2",
     "Position": [
@@ -286,6 +311,7 @@
     ],
     "EffectClient": 26,
     "ClientParams": "[1]",
+    "Clientlvl": 1,
     "Priority": 15,
     "Icon": "Icon/ZZZOther/startowergrowth_keypoint_1",
     "Position": [
@@ -307,6 +333,8 @@
       10601,
       10602
     ],
+    "EffectClient": 25,
+    "Clientlvl": 3,
     "Priority": 16,
     "Position": [
       7,
@@ -327,6 +355,8 @@
       10601,
       10602
     ],
+    "EffectClient": 11,
+    "Clientlvl": 1,
     "Priority": 17,
     "Position": [
       7,
@@ -346,6 +376,8 @@
     "PreNodes": [
       10701
     ],
+    "EffectClient": 9,
+    "Clientlvl": 1,
     "Priority": 18,
     "Position": [
       8,
@@ -365,6 +397,8 @@
     "PreNodes": [
       10702
     ],
+    "EffectClient": 12,
+    "Clientlvl": 3,
     "Priority": 19,
     "Position": [
       8,
@@ -386,6 +420,8 @@
       10801,
       10802
     ],
+    "EffectClient": 31,
+    "Clientlvl": 3,
     "Priority": 20,
     "Icon": "Icon/ZZZOther/startowergrowth_keypoint_1",
     "Position": [
@@ -403,6 +439,8 @@
     "Name": "StarTowerGrowthNode.20101.1",
     "IsServer": true,
     "Type": 1,
+    "EffectClient": 27,
+    "Clientlvl": 3,
     "Priority": 21,
     "Position": [
       1,
@@ -419,6 +457,8 @@
     "Name": "StarTowerGrowthNode.20102.1",
     "IsServer": true,
     "Type": 1,
+    "EffectClient": 20,
+    "Clientlvl": 1,
     "Priority": 22,
     "Position": [
       1,
@@ -438,6 +478,8 @@
     "PreNodes": [
       20101
     ],
+    "EffectClient": 29,
+    "Clientlvl": 3,
     "Priority": 23,
     "Position": [
       2,
@@ -457,6 +499,8 @@
     "PreNodes": [
       20102
     ],
+    "EffectClient": 14,
+    "Clientlvl": 3,
     "Priority": 24,
     "Position": [
       2,
@@ -478,6 +522,8 @@
       20201,
       20202
     ],
+    "EffectClient": 7,
+    "Clientlvl": 4,
     "Priority": 25,
     "Icon": "Icon/ZZZOther/startowergrowth_keypoint_1",
     "Position": [
@@ -503,6 +549,7 @@
     ],
     "EffectClient": 26,
     "ClientParams": "[2]",
+    "Clientlvl": 1,
     "Priority": 26,
     "Icon": "Icon/ZZZOther/startowergrowth_keypoint_1",
     "Position": [
@@ -523,6 +570,8 @@
     "PreNodes": [
       20301
     ],
+    "EffectClient": 27,
+    "Clientlvl": 4,
     "Priority": 27,
     "Position": [
       4,
@@ -543,6 +592,8 @@
       20301,
       20302
     ],
+    "EffectClient": 13,
+    "Clientlvl": 4,
     "Priority": 28,
     "Position": [
       4,
@@ -562,6 +613,8 @@
     "PreNodes": [
       20302
     ],
+    "EffectClient": 20,
+    "Clientlvl": 1,
     "Priority": 29,
     "Position": [
       4,
@@ -581,6 +634,8 @@
     "PreNodes": [
       20401
     ],
+    "EffectClient": 29,
+    "Clientlvl": 4,
     "Priority": 30,
     "Position": [
       5,
@@ -600,6 +655,8 @@
     "PreNodes": [
       20402
     ],
+    "EffectClient": 14,
+    "Clientlvl": 4,
     "Priority": 31,
     "Position": [
       5,
@@ -619,6 +676,8 @@
     "PreNodes": [
       20403
     ],
+    "EffectClient": 31,
+    "Clientlvl": 4,
     "Priority": 32,
     "Position": [
       5,
@@ -644,6 +703,7 @@
     ],
     "EffectClient": 30,
     "ClientParams": "[1]",
+    "Clientlvl": 1,
     "Priority": 33,
     "Icon": "Icon/ZZZOther/startowergrowth_keypoint_1",
     "Position": [
@@ -664,6 +724,8 @@
     "PreNodes": [
       20601
     ],
+    "EffectClient": 25,
+    "Clientlvl": 5,
     "Priority": 34,
     "Position": [
       7,
@@ -683,6 +745,8 @@
     "PreNodes": [
       20601
     ],
+    "EffectClient": 13,
+    "Clientlvl": 5,
     "Priority": 35,
     "Position": [
       7,
@@ -702,6 +766,8 @@
     "PreNodes": [
       20701
     ],
+    "EffectClient": 6,
+    "Clientlvl": 5,
     "Priority": 36,
     "Position": [
       8,
@@ -721,6 +787,8 @@
     "PreNodes": [
       20702
     ],
+    "EffectClient": 14,
+    "Clientlvl": 5,
     "Priority": 37,
     "Position": [
       8,
@@ -742,6 +810,8 @@
       20801,
       20802
     ],
+    "EffectClient": 1,
+    "Clientlvl": 1,
     "Priority": 38,
     "Icon": "Icon/ZZZOther/startowergrowth_keypoint_1",
     "Position": [
@@ -764,6 +834,8 @@
       20801,
       20802
     ],
+    "EffectClient": 5,
+    "Clientlvl": 1,
     "Priority": 39,
     "Icon": "Icon/ZZZOther/startowergrowth_keypoint_2",
     "Position": [
@@ -781,6 +853,8 @@
     "Name": "StarTowerGrowthNode.30101.1",
     "IsServer": true,
     "Type": 1,
+    "EffectClient": 1,
+    "Clientlvl": 1,
     "Priority": 40,
     "Position": [
       1,
@@ -797,6 +871,8 @@
     "Name": "StarTowerGrowthNode.30102.1",
     "IsServer": true,
     "Type": 1,
+    "EffectClient": 10,
+    "Clientlvl": 1,
     "Priority": 41,
     "Position": [
       1,
@@ -816,6 +892,8 @@
     "PreNodes": [
       30101
     ],
+    "EffectClient": 6,
+    "Clientlvl": 6,
     "Priority": 42,
     "Position": [
       2,
@@ -835,6 +913,8 @@
     "PreNodes": [
       30102
     ],
+    "EffectClient": 8,
+    "Clientlvl": 6,
     "Priority": 43,
     "Position": [
       2,
@@ -859,6 +939,7 @@
     ],
     "EffectClient": 30,
     "ClientParams": "[3]",
+    "Clientlvl": 1,
     "Priority": 44,
     "Icon": "Icon/ZZZOther/startowergrowth_keypoint_1",
     "Position": [
@@ -879,6 +960,8 @@
     "PreNodes": [
       30301
     ],
+    "EffectClient": 1,
+    "Clientlvl": 1,
     "Priority": 45,
     "Position": [
       4,
@@ -898,6 +981,8 @@
     "PreNodes": [
       30301
     ],
+    "EffectClient": 10,
+    "Clientlvl": 1,
     "Priority": 46,
     "Position": [
       4,
@@ -917,6 +1002,8 @@
     "PreNodes": [
       30401
     ],
+    "EffectClient": 29,
+    "Clientlvl": 6,
     "Priority": 47,
     "Position": [
       5,
@@ -936,6 +1023,8 @@
     "PreNodes": [
       30402
     ],
+    "EffectClient": 8,
+    "Clientlvl": 6,
     "Priority": 48,
     "Position": [
       5,
@@ -957,6 +1046,8 @@
       30501,
       30502
     ],
+    "EffectClient": 5,
+    "Clientlvl": 1,
     "Priority": 49,
     "Icon": "Icon/ZZZOther/startowergrowth_keypoint_2",
     "Position": [
@@ -977,6 +1068,8 @@
     "PreNodes": [
       30601
     ],
+    "EffectClient": 25,
+    "Clientlvl": 7,
     "Priority": 50,
     "Position": [
       7,
@@ -996,6 +1089,8 @@
     "PreNodes": [
       30601
     ],
+    "EffectClient": 1,
+    "Clientlvl": 1,
     "Priority": 51,
     "Position": [
       7,
@@ -1015,6 +1110,8 @@
     "PreNodes": [
       30701
     ],
+    "EffectClient": 6,
+    "Clientlvl": 7,
     "Priority": 52,
     "Position": [
       8,
@@ -1034,6 +1131,8 @@
     "PreNodes": [
       30702
     ],
+    "EffectClient": 8,
+    "Clientlvl": 7,
     "Priority": 53,
     "Position": [
       8,
@@ -1055,6 +1154,8 @@
       30801,
       30802
     ],
+    "EffectClient": 33,
+    "Clientlvl": 7,
     "Priority": 54,
     "Icon": "Icon/ZZZOther/startowergrowth_keypoint_1",
     "Position": [
@@ -1064,5 +1165,94 @@
     "Desc": "StarTowerGrowthNode.30901.2",
     "ItemId1": 51,
     "ItemQty1": 310
+  },
+  "40101": {
+    "Id": 40101,
+    "NodeId": 1,
+    "Group": 4,
+    "Name": "StarTowerGrowthNode.40101.1",
+    "IsServer": true,
+    "Type": 2,
+    "Color": 1,
+    "EffectClient": 32,
+    "Clientlvl": 8,
+    "Priority": 55,
+    "Icon": "Icon/ZZZOther/startowergrowth_keypoint_1",
+    "Position": [
+      1,
+      1
+    ],
+    "Desc": "StarTowerGrowthNode.40101.2",
+    "ItemId1": 51,
+    "ItemQty1": 300
+  },
+  "40201": {
+    "Id": 40201,
+    "NodeId": 2,
+    "Group": 4,
+    "Name": "StarTowerGrowthNode.40201.1",
+    "IsServer": true,
+    "Type": 2,
+    "Color": 2,
+    "PreNodes": [
+      40101
+    ],
+    "EffectClient": 20,
+    "Clientlvl": 1,
+    "Priority": 56,
+    "Icon": "Icon/ZZZOther/startowergrowth_keypoint_2",
+    "Position": [
+      2,
+      1
+    ],
+    "Desc": "StarTowerGrowthNode.40201.2",
+    "ItemId1": 51,
+    "ItemQty1": 300
+  },
+  "40301": {
+    "Id": 40301,
+    "NodeId": 3,
+    "Group": 4,
+    "Name": "StarTowerGrowthNode.40301.1",
+    "IsServer": true,
+    "Type": 2,
+    "Color": 1,
+    "PreNodes": [
+      40201
+    ],
+    "EffectClient": 35,
+    "Clientlvl": 8,
+    "Priority": 57,
+    "Icon": "Icon/ZZZOther/startowergrowth_keypoint_2",
+    "Position": [
+      3,
+      1
+    ],
+    "Desc": "StarTowerGrowthNode.40301.2",
+    "ItemId1": 51,
+    "ItemQty1": 300
+  },
+  "40401": {
+    "Id": 40401,
+    "NodeId": 4,
+    "Group": 4,
+    "Name": "StarTowerGrowthNode.40401.1",
+    "IsServer": true,
+    "Type": 2,
+    "Color": 3,
+    "PreNodes": [
+      40301
+    ],
+    "EffectClient": 34,
+    "Clientlvl": 8,
+    "Priority": 58,
+    "Icon": "Icon/ZZZOther/startowergrowth_keypoint_1",
+    "Position": [
+      4,
+      1
+    ],
+    "Desc": "StarTowerGrowthNode.40401.2",
+    "ItemId1": 51,
+    "ItemQty1": 300
   }
 }

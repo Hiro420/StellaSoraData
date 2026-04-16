@@ -1,4 +1,15 @@
 {
+  "15": {
+    "Id": 15,
+    "BannerType": 10,
+    "bannerName": "banner_l_16",
+    "Param1": "2026-04-08T11:00:00+08:00",
+    "Param2": "2030-04-16T10:00:00+08:00",
+    "Param3": "https://payment.stargazer-games.com/product?id=csq6k2elu9h5v1lr672g",
+    "Param4": "android,ios",
+    "Param5": "0,0",
+    "Param6": "TW-PAYMENT"
+  },
   "35": {
     "Id": 35,
     "BannerType": 9,
@@ -202,5 +213,29 @@
     "Param1": "2026-03-17T12:00:00+08:00",
     "Param2": "2026-04-07T10:59:59+08:00",
     "Param3": "skin.98.07"
+  },
+  "32": {
+    "Id": 32,
+    "BannerType": 5,
+    "bannerName": "banner_pack_10_lang",
+    "Param1": "2026-04-16T12:00:00+08:00",
+    "Param2": "2026-05-14T10:59:59+08:00",
+    "Param3": "73"
+  },
+  "33": {
+    "Id": 33,
+    "BannerType": 6,
+    "bannerName": "banner_skin_15603_lang",
+    "Param1": "2026-04-16T12:00:00+08:00",
+    "Param2": "2026-05-14T10:59:59+08:00",
+    "Param3": "skin.98.09"
+  },
+  "34": {
+    "Id": 34,
+    "BannerType": 6,
+    "bannerName": "banner_skin_14403_lang",
+    "Param1": "2026-04-16T12:00:00+08:00",
+    "Param2": "2026-05-14T10:59:59+08:00",
+    "Param3": "skin.98.08"
   }
 }

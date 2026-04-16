@@ -815,6 +815,7 @@
     "Id": 11501,
     "Group": 115,
     "AdvanceLvl": 1,
+    "Tid1": 20071,
     "Qty1": 5,
     "GoldQty": 7900
   },
@@ -822,7 +823,9 @@
     "Id": 11502,
     "Group": 115,
     "AdvanceLvl": 2,
+    "Tid1": 20071,
     "Qty1": 5,
+    "Tid2": 20072,
     "Qty2": 10,
     "GoldQty": 19800
   },
@@ -830,7 +833,9 @@
     "Id": 11503,
     "Group": 115,
     "AdvanceLvl": 3,
+    "Tid1": 20071,
     "Qty1": 10,
+    "Tid2": 20072,
     "Qty2": 15,
     "GoldQty": 44400
   },
@@ -838,7 +843,9 @@
     "Id": 11504,
     "Group": 115,
     "AdvanceLvl": 4,
+    "Tid1": 20071,
     "Qty1": 15,
+    "Tid2": 20072,
     "Qty2": 25,
     "GoldQty": 66600
   },
@@ -846,7 +853,9 @@
     "Id": 11505,
     "Group": 115,
     "AdvanceLvl": 5,
+    "Tid1": 20071,
     "Qty1": 20,
+    "Tid2": 20072,
     "Qty2": 40,
     "GoldQty": 146100
   },
@@ -854,8 +863,11 @@
     "Id": 11506,
     "Group": 115,
     "AdvanceLvl": 6,
+    "Tid1": 20071,
     "Qty1": 30,
+    "Tid2": 20072,
     "Qty2": 55,
+    "Tid3": 20073,
     "Qty3": 20,
     "GoldQty": 291600
   },
@@ -863,7 +875,9 @@
     "Id": 11507,
     "Group": 115,
     "AdvanceLvl": 7,
+    "Tid1": 20072,
     "Qty1": 75,
+    "Tid2": 20073,
     "Qty2": 30,
     "GoldQty": 560200
   },
@@ -871,7 +885,9 @@
     "Id": 11508,
     "Group": 115,
     "AdvanceLvl": 8,
+    "Tid1": 20072,
     "Qty1": 95,
+    "Tid2": 20073,
     "Qty2": 50,
     "GoldQty": 1121300
   },
@@ -2225,11 +2241,151 @@
     "AdvanceLvl": 9,
     "GoldQty": 1121300
   },
+  "13701": {
+    "Id": 13701,
+    "Group": 137,
+    "AdvanceLvl": 1,
+    "Qty1": 5,
+    "GoldQty": 7900
+  },
+  "13702": {
+    "Id": 13702,
+    "Group": 137,
+    "AdvanceLvl": 2,
+    "Qty1": 5,
+    "Qty2": 10,
+    "GoldQty": 19800
+  },
+  "13703": {
+    "Id": 13703,
+    "Group": 137,
+    "AdvanceLvl": 3,
+    "Qty1": 10,
+    "Qty2": 15,
+    "GoldQty": 44400
+  },
+  "13704": {
+    "Id": 13704,
+    "Group": 137,
+    "AdvanceLvl": 4,
+    "Qty1": 15,
+    "Qty2": 25,
+    "GoldQty": 66600
+  },
+  "13705": {
+    "Id": 13705,
+    "Group": 137,
+    "AdvanceLvl": 5,
+    "Qty1": 20,
+    "Qty2": 40,
+    "GoldQty": 146100
+  },
+  "13706": {
+    "Id": 13706,
+    "Group": 137,
+    "AdvanceLvl": 6,
+    "Qty1": 30,
+    "Qty2": 55,
+    "Qty3": 20,
+    "GoldQty": 291600
+  },
+  "13707": {
+    "Id": 13707,
+    "Group": 137,
+    "AdvanceLvl": 7,
+    "Qty1": 75,
+    "Qty2": 30,
+    "GoldQty": 560200
+  },
+  "13708": {
+    "Id": 13708,
+    "Group": 137,
+    "AdvanceLvl": 8,
+    "Qty1": 95,
+    "Qty2": 50,
+    "GoldQty": 1121300
+  },
+  "13709": {
+    "Id": 13709,
+    "Group": 137,
+    "AdvanceLvl": 9,
+    "GoldQty": 1121300
+  },
+  "13901": {
+    "Id": 13901,
+    "Group": 139,
+    "AdvanceLvl": 1,
+    "Qty1": 5,
+    "GoldQty": 7900
+  },
+  "13902": {
+    "Id": 13902,
+    "Group": 139,
+    "AdvanceLvl": 2,
+    "Qty1": 5,
+    "Qty2": 10,
+    "GoldQty": 19800
+  },
+  "13903": {
+    "Id": 13903,
+    "Group": 139,
+    "AdvanceLvl": 3,
+    "Qty1": 10,
+    "Qty2": 15,
+    "GoldQty": 44400
+  },
+  "13904": {
+    "Id": 13904,
+    "Group": 139,
+    "AdvanceLvl": 4,
+    "Qty1": 15,
+    "Qty2": 25,
+    "GoldQty": 66600
+  },
+  "13905": {
+    "Id": 13905,
+    "Group": 139,
+    "AdvanceLvl": 5,
+    "Qty1": 20,
+    "Qty2": 40,
+    "GoldQty": 146100
+  },
+  "13906": {
+    "Id": 13906,
+    "Group": 139,
+    "AdvanceLvl": 6,
+    "Qty1": 30,
+    "Qty2": 55,
+    "Qty3": 20,
+    "GoldQty": 291600
+  },
+  "13907": {
+    "Id": 13907,
+    "Group": 139,
+    "AdvanceLvl": 7,
+    "Qty1": 75,
+    "Qty2": 30,
+    "GoldQty": 560200
+  },
+  "13908": {
+    "Id": 13908,
+    "Group": 139,
+    "AdvanceLvl": 8,
+    "Qty1": 95,
+    "Qty2": 50,
+    "GoldQty": 1121300
+  },
+  "13909": {
+    "Id": 13909,
+    "Group": 139,
+    "AdvanceLvl": 9,
+    "GoldQty": 1121300
+  },
   "14001": {
     "Id": 14001,
     "Group": 140,
     "AdvanceLvl": 1,
-    "Tid1": 20071,
+    "Tid1": 20091,
     "Qty1": 5,
     "GoldQty": 7900
   },
@@ -2237,9 +2393,9 @@
     "Id": 14002,
     "Group": 140,
     "AdvanceLvl": 2,
-    "Tid1": 20071,
+    "Tid1": 20091,
     "Qty1": 5,
-    "Tid2": 20072,
+    "Tid2": 20092,
     "Qty2": 10,
     "GoldQty": 19800
   },
@@ -2247,9 +2403,9 @@
     "Id": 14003,
     "Group": 140,
     "AdvanceLvl": 3,
-    "Tid1": 20071,
+    "Tid1": 20091,
     "Qty1": 10,
-    "Tid2": 20072,
+    "Tid2": 20092,
     "Qty2": 15,
     "GoldQty": 44400
   },
@@ -2257,9 +2413,9 @@
     "Id": 14004,
     "Group": 140,
     "AdvanceLvl": 4,
-    "Tid1": 20071,
+    "Tid1": 20091,
     "Qty1": 15,
-    "Tid2": 20072,
+    "Tid2": 20092,
     "Qty2": 25,
     "GoldQty": 66600
   },
@@ -2267,9 +2423,9 @@
     "Id": 14005,
     "Group": 140,
     "AdvanceLvl": 5,
-    "Tid1": 20071,
+    "Tid1": 20091,
     "Qty1": 20,
-    "Tid2": 20072,
+    "Tid2": 20092,
     "Qty2": 40,
     "GoldQty": 146100
   },
@@ -2277,11 +2433,11 @@
     "Id": 14006,
     "Group": 140,
     "AdvanceLvl": 6,
-    "Tid1": 20071,
+    "Tid1": 20091,
     "Qty1": 30,
-    "Tid2": 20072,
+    "Tid2": 20092,
     "Qty2": 55,
-    "Tid3": 20073,
+    "Tid3": 20093,
     "Qty3": 20,
     "GoldQty": 291600
   },
@@ -2289,9 +2445,9 @@
     "Id": 14007,
     "Group": 140,
     "AdvanceLvl": 7,
-    "Tid1": 20072,
+    "Tid1": 20092,
     "Qty1": 75,
-    "Tid2": 20073,
+    "Tid2": 20093,
     "Qty2": 30,
     "GoldQty": 560200
   },
@@ -2299,9 +2455,9 @@
     "Id": 14008,
     "Group": 140,
     "AdvanceLvl": 8,
-    "Tid1": 20072,
+    "Tid1": 20092,
     "Qty1": 95,
-    "Tid2": 20073,
+    "Tid2": 20093,
     "Qty2": 50,
     "GoldQty": 1121300
   },
@@ -3171,6 +3327,76 @@
     "AdvanceLvl": 9,
     "GoldQty": 1121300
   },
+  "15701": {
+    "Id": 15701,
+    "Group": 157,
+    "AdvanceLvl": 1,
+    "Qty1": 5,
+    "GoldQty": 7900
+  },
+  "15702": {
+    "Id": 15702,
+    "Group": 157,
+    "AdvanceLvl": 2,
+    "Qty1": 5,
+    "Qty2": 10,
+    "GoldQty": 19800
+  },
+  "15703": {
+    "Id": 15703,
+    "Group": 157,
+    "AdvanceLvl": 3,
+    "Qty1": 10,
+    "Qty2": 15,
+    "GoldQty": 44400
+  },
+  "15704": {
+    "Id": 15704,
+    "Group": 157,
+    "AdvanceLvl": 4,
+    "Qty1": 15,
+    "Qty2": 25,
+    "GoldQty": 66600
+  },
+  "15705": {
+    "Id": 15705,
+    "Group": 157,
+    "AdvanceLvl": 5,
+    "Qty1": 20,
+    "Qty2": 40,
+    "GoldQty": 146100
+  },
+  "15706": {
+    "Id": 15706,
+    "Group": 157,
+    "AdvanceLvl": 6,
+    "Qty1": 30,
+    "Qty2": 55,
+    "Qty3": 20,
+    "GoldQty": 291600
+  },
+  "15707": {
+    "Id": 15707,
+    "Group": 157,
+    "AdvanceLvl": 7,
+    "Qty1": 75,
+    "Qty2": 30,
+    "GoldQty": 560200
+  },
+  "15708": {
+    "Id": 15708,
+    "Group": 157,
+    "AdvanceLvl": 8,
+    "Qty1": 95,
+    "Qty2": 50,
+    "GoldQty": 1121300
+  },
+  "15709": {
+    "Id": 15709,
+    "Group": 157,
+    "AdvanceLvl": 9,
+    "GoldQty": 1121300
+  },
   "15801": {
     "Id": 15801,
     "Group": 158,
@@ -3340,6 +3566,76 @@
   "15909": {
     "Id": 15909,
     "Group": 159,
+    "AdvanceLvl": 9,
+    "GoldQty": 1121300
+  },
+  "16001": {
+    "Id": 16001,
+    "Group": 160,
+    "AdvanceLvl": 1,
+    "Qty1": 5,
+    "GoldQty": 7900
+  },
+  "16002": {
+    "Id": 16002,
+    "Group": 160,
+    "AdvanceLvl": 2,
+    "Qty1": 5,
+    "Qty2": 10,
+    "GoldQty": 19800
+  },
+  "16003": {
+    "Id": 16003,
+    "Group": 160,
+    "AdvanceLvl": 3,
+    "Qty1": 10,
+    "Qty2": 15,
+    "GoldQty": 44400
+  },
+  "16004": {
+    "Id": 16004,
+    "Group": 160,
+    "AdvanceLvl": 4,
+    "Qty1": 15,
+    "Qty2": 25,
+    "GoldQty": 66600
+  },
+  "16005": {
+    "Id": 16005,
+    "Group": 160,
+    "AdvanceLvl": 5,
+    "Qty1": 20,
+    "Qty2": 40,
+    "GoldQty": 146100
+  },
+  "16006": {
+    "Id": 16006,
+    "Group": 160,
+    "AdvanceLvl": 6,
+    "Qty1": 30,
+    "Qty2": 55,
+    "Qty3": 20,
+    "GoldQty": 291600
+  },
+  "16007": {
+    "Id": 16007,
+    "Group": 160,
+    "AdvanceLvl": 7,
+    "Qty1": 75,
+    "Qty2": 30,
+    "GoldQty": 560200
+  },
+  "16008": {
+    "Id": 16008,
+    "Group": 160,
+    "AdvanceLvl": 8,
+    "Qty1": 95,
+    "Qty2": 50,
+    "GoldQty": 1121300
+  },
+  "16009": {
+    "Id": 16009,
+    "Group": 160,
     "AdvanceLvl": 9,
     "GoldQty": 1121300
   }

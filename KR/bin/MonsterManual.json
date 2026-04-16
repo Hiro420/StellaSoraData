@@ -5601,6 +5601,23 @@
     "ATK": 2,
     "DEF": 2
   },
+  "7003156": {
+    "Id": 7003156,
+    "Icon": "Icon/Monster/monsterhead_70031HuoChui_Light_L",
+    "Name": "MonsterManual.7003156.1",
+    "EET": [
+      5
+    ],
+    "WeakEET": [
+      6
+    ],
+    "Desc": "MonsterManual.7003156.2",
+    "SkillDesc": "MonsterManual.7003156.3",
+    "EpicLv": 2,
+    "HP": 1,
+    "ATK": 1,
+    "DEF": 1
+  },
   "3093100": {
     "Id": 3093100,
     "Icon": "Icon/Monster/monsterhead_30931HaSaNa_Earth_L",
@@ -5617,5 +5634,82 @@
     "HP": 1,
     "ATK": 2,
     "DEF": 2
+  },
+  "1700100": {
+    "Id": 1700100,
+    "Icon": "Icon/Monster/monsterhead_17001ChangFuWeiBing_Com_L",
+    "Name": "MonsterManual.1700100.1",
+    "Desc": "MonsterManual.1700100.2",
+    "SkillDesc": "MonsterManual.1700100.3",
+    "EpicLv": 5,
+    "HP": 3,
+    "ATK": 3,
+    "DEF": 3
+  },
+  "1701100": {
+    "Id": 1701100,
+    "Icon": "Icon/Monster/monsterhead_17011QingNuWeiBing_Com_L",
+    "Name": "MonsterManual.1701100.1",
+    "Desc": "MonsterManual.1701100.2",
+    "SkillDesc": "MonsterManual.1701100.3",
+    "EpicLv": 5,
+    "HP": 3,
+    "ATK": 3,
+    "DEF": 3
+  },
+  "1702100": {
+    "Id": 1702100,
+    "Icon": "Icon/Monster/monsterhead_17021ChangQiangQishi_Com_L",
+    "Name": "MonsterManual.1702100.1",
+    "Desc": "MonsterManual.1702100.2",
+    "SkillDesc": "MonsterManual.1702100.3",
+    "EpicLv": 4,
+    "HP": 2,
+    "ATK": 3,
+    "DEF": 2
+  },
+  "1703100": {
+    "Id": 1703100,
+    "Icon": "Icon/Monster/monsterhead_17031ZhongNuWeiBing_Com_L",
+    "Name": "MonsterManual.1703100.1",
+    "Desc": "MonsterManual.1703100.2",
+    "SkillDesc": "MonsterManual.1703100.3",
+    "EpicLv": 4,
+    "HP": 2,
+    "ATK": 2,
+    "DEF": 3
+  },
+  "3090100": {
+    "Id": 3090100,
+    "Icon": "Icon/Monster/monsterhead_30901ChiHou_Com_L",
+    "Name": "MonsterManual.3090100.1",
+    "Desc": "MonsterManual.3090100.2",
+    "SkillDesc": "MonsterManual.3090100.3",
+    "EpicLv": 5,
+    "HP": 3,
+    "ATK": 3,
+    "DEF": 3
+  },
+  "3091100": {
+    "Id": 3091100,
+    "Icon": "Icon/Monster/monsterhead_30911NuShou_Com_L",
+    "Name": "MonsterManual.3091100.1",
+    "Desc": "MonsterManual.3091100.2",
+    "SkillDesc": "MonsterManual.3091100.3",
+    "EpicLv": 5,
+    "HP": 3,
+    "ATK": 3,
+    "DEF": 3
+  },
+  "3092100": {
+    "Id": 3092100,
+    "Icon": "Icon/Monster/monsterhead_30921JuJiShou_Com_L",
+    "Name": "MonsterManual.3092100.1",
+    "Desc": "MonsterManual.3092100.2",
+    "SkillDesc": "MonsterManual.3092100.3",
+    "EpicLv": 4,
+    "HP": 2,
+    "ATK": 2,
+    "DEF": 3
   }
 }

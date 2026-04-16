@@ -227,6 +227,24 @@
     "FCGlobal": "AIScript.Character._14401.ParallelScript_Support",
     "FCComboGroup": "Character/14401/Combos/ComboGroup_Char_144"
   },
+  "16000": {
+    "Id": 16000,
+    "FCAction": "AIScript.Character._16001.ActionScript",
+    "FCGlobal": "AIScript.Character._16001.ParallelScript",
+    "FCComboGroup": "Character/16001/Combos/ComboGroup_Char_160"
+  },
+  "16001": {
+    "Id": 16001,
+    "FCAction": "AIScript.Character._16001.ActionScript_MainControl",
+    "FCGlobal": "AIScript.Character._16001.ParallelScript_MainControl",
+    "FCComboGroup": "Character/16001/Combos/ComboGroup_Char_160"
+  },
+  "16002": {
+    "Id": 16002,
+    "FCAction": "AIScript.Character._16001.ActionScript_Support",
+    "FCGlobal": "AIScript.Character._16001.ParallelScript_Support",
+    "FCComboGroup": "Character/16001/Combos/ComboGroup_Char_160"
+  },
   "10700": {
     "Id": 10700,
     "FCAction": "AIScript.Character._10701.Action",

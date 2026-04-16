@@ -10152,5 +10152,82 @@
     "Qty1": 1,
     "Tid2": 2,
     "Qty2": 10
+  },
+  "630": {
+    "Id": 630,
+    "AchieveId": 10507,
+    "Title": "Achievement.630.1",
+    "Desc": "Achievement.630.2",
+    "Rarity": 2,
+    "Type": 1,
+    "CompleteCond": 63,
+    "AimNumShow": 1,
+    "Prerequisites": [
+      629
+    ],
+    "Tid1": 111008,
+    "Qty1": 1,
+    "Tid2": 2,
+    "Qty2": 10
+  },
+  "631": {
+    "Id": 631,
+    "AchieveId": 20208,
+    "Title": "Achievement.631.1",
+    "Desc": "Achievement.631.2",
+    "Rarity": 2,
+    "Type": 2,
+    "CompleteCond": 507,
+    "AimNumShow": 1,
+    "Prerequisites": [
+      63
+    ],
+    "Tid1": 2,
+    "Qty1": 10
+  },
+  "632": {
+    "Id": 632,
+    "AchieveId": 20308,
+    "Title": "Achievement.632.1",
+    "Desc": "Achievement.632.2",
+    "Rarity": 2,
+    "Type": 2,
+    "CompleteCond": 507,
+    "AimNumShow": 1,
+    "Prerequisites": [
+      70
+    ],
+    "Tid1": 2,
+    "Qty1": 10
+  },
+  "633": {
+    "Id": 633,
+    "AchieveId": 20408,
+    "Title": "Achievement.633.1",
+    "Desc": "Achievement.633.2",
+    "Rarity": 2,
+    "Type": 2,
+    "CompleteCond": 507,
+    "AimNumShow": 1,
+    "Prerequisites": [
+      77
+    ],
+    "Tid1": 2,
+    "Qty1": 10
+  },
+  "634": {
+    "Id": 634,
+    "AchieveId": 20505,
+    "Title": "Achievement.634.1",
+    "Desc": "Achievement.634.2",
+    "Rarity": 1,
+    "Type": 2,
+    "CompleteCond": 506,
+    "AimNumShow": 3,
+    "Prerequisites": [
+      81
+    ],
+    "Tid1": 2,
+    "Qty1": 20
   }
 }

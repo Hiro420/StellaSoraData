@@ -6,7 +6,8 @@
     "Id": 108
   },
   "126": {
-    "Id": 126
+    "Id": 126,
+    "assistant": true
   },
   "134": {
     "Id": 134
@@ -45,7 +46,8 @@
     "Id": 133
   },
   "107": {
-    "Id": 107
+    "Id": 107,
+    "assistant": true
   },
   "117": {
     "Id": 117
@@ -60,19 +62,29 @@
     "Id": 155
   },
   "110": {
-    "Id": 110
+    "Id": 110,
+    "mainControl": true
   },
   "118": {
     "Id": 118
   },
   "135": {
-    "Id": 135
+    "Id": 135,
+    "assistant": true
   },
   "142": {
-    "Id": 142
+    "Id": 142,
+    "mainControl": true,
+    "assistant": true
   },
   "147": {
     "Id": 147
+  },
+  "145": {
+    "Id": 145,
+    "mainControl": true,
+    "mustassistant": true,
+    "assistant": true
   },
   "116": {
     "Id": 116
@@ -81,6 +93,10 @@
     "Id": 149
   },
   "156": {
-    "Id": 156
+    "Id": 156,
+    "assistant": true
+  },
+  "159": {
+    "Id": 159
   }
 }

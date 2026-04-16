@@ -351,5 +351,46 @@
     "DesText": "ActivityGroup.10106.1",
     "TabBgRes": "Icon/Banner/tab_activity_postal_lang",
     "TransitionId": 40
+  },
+  "20102": {
+    "Id": 20102,
+    "ActivityGroupType": 2,
+    "ActivityThemeType": 10,
+    "StartTime": "2026-04-16T12:00:00+08:00",
+    "EndTime": "2026-04-30T04:00:00+08:00",
+    "EnterEndTime": "2026-05-08T10:59:59+08:00",
+    "EnterRes": "Icon/Banner/banner_solodance_m_lang",
+    "PanelId": 430,
+    "PreLimit": 1,
+    "LimitParam": "3",
+    "StartCondType": 71,
+    "StartCondParams": [
+      5
+    ],
+    "Enter": "{\"MiniGame\":[400008,1,417],\"Task\":[2010203,2,426],\"Store\":[2010204,4,427],\"Level\":[2010201,5,425],\"OtherEnter1\":[800002,6,228],\"OtherEnter2\":[600002,7,68]}",
+    "UIAssetsPrefab": "20102",
+    "CtrlName": "ActivitySoloDanceCtrl",
+    "RewardsShow": [
+      2,
+      214050,
+      116009,
+      502,
+      503,
+      35010,
+      21013,
+      35000,
+      32023,
+      20083,
+      21083,
+      30004,
+      50004,
+      30,
+      33032,
+      33052,
+      33082,
+      1
+    ],
+    "DesText": "ActivityGroup.20102.1",
+    "TabBgRes": "Icon/Banner/tab_activity_solodance_lang"
   }
 }

@@ -534,5 +534,91 @@
     "RewardIcon": "Icon/Item/item_602",
     "RewardCount": 300,
     "RewardDesc": "LoginRewardGroup.30103110.1"
+  },
+  "30103201": {
+    "Id": 30103201,
+    "RewardGroupId": 301032,
+    "Order": 1,
+    "RewardId1": 214049,
+    "Qty1": 1,
+    "RewardId2": 512,
+    "Qty2": 10,
+    "RewardDesc": "LoginRewardGroup.30103201.1",
+    "DisRare": true,
+    "NpcId": 7111,
+    "VoiceId": -1478835591
+  },
+  "30103202": {
+    "Id": 30103202,
+    "RewardGroupId": 301032,
+    "Order": 2,
+    "RewardId1": 224049,
+    "Qty1": 1,
+    "RewardId2": 512,
+    "Qty2": 2,
+    "RewardDesc": "LoginRewardGroup.30103202.1",
+    "NpcId": 7103,
+    "VoiceId": -1486835590
+  },
+  "30103203": {
+    "Id": 30103203,
+    "RewardGroupId": 301032,
+    "Order": 3,
+    "RewardId1": 224049,
+    "Qty1": 1,
+    "RewardId2": 512,
+    "Qty2": 2,
+    "RewardDesc": "LoginRewardGroup.30103203.1",
+    "NpcId": 7112,
+    "VoiceId": -1477835589
+  },
+  "30103204": {
+    "Id": 30103204,
+    "RewardGroupId": 301032,
+    "Order": 4,
+    "RewardId1": 224049,
+    "Qty1": 1,
+    "RewardId2": 512,
+    "Qty2": 2,
+    "RewardDesc": "LoginRewardGroup.30103204.1",
+    "NpcId": 7133,
+    "VoiceId": -1456835588
+  },
+  "30103205": {
+    "Id": 30103205,
+    "RewardGroupId": 301032,
+    "Order": 5,
+    "RewardId1": 224049,
+    "Qty1": 1,
+    "RewardId2": 512,
+    "Qty2": 2,
+    "RewardDesc": "LoginRewardGroup.30103205.1",
+    "NpcId": 7156,
+    "VoiceId": -1433835587
+  },
+  "30103206": {
+    "Id": 30103206,
+    "RewardGroupId": 301032,
+    "Order": 6,
+    "RewardId1": 224049,
+    "Qty1": 1,
+    "RewardId2": 512,
+    "Qty2": 2,
+    "RewardDesc": "LoginRewardGroup.30103206.1",
+    "NpcId": 7144,
+    "VoiceId": -1445835586
+  },
+  "30103207": {
+    "Id": 30103207,
+    "RewardGroupId": 301032,
+    "Order": 7,
+    "RewardId1": 35010,
+    "Qty1": 1,
+    "RewardIcon": "Icon/Item/item_35010",
+    "RewardCount": 1,
+    "RewardDesc": "LoginRewardGroup.30103207.1",
+    "DisRare": true,
+    "NpcId": 7145,
+    "VoiceId": -1444835585
   }
 }

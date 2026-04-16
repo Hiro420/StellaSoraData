@@ -12,6 +12,13 @@
     "Id": "1002",
     "Sort": 2,
     "PackageList": [
+      "pack.10_role_sel",
+      "pack.10_gem",
+      "pack.10_role",
+      "pack.10_role_s",
+      "pack.10_role_l",
+      "pack.10_gift",
+      "pack.10_res",
       "pack.09_1_role"
     ],
     "Name": "MallRecommendGroup.1002.1"
@@ -20,6 +27,10 @@
     "Id": "1003",
     "Sort": 3,
     "PackageList": [
+      "pack.10_disc_sel",
+      "pack.10_disc",
+      "pack.10_disc_s",
+      "pack.10_disc_l",
       "pack.09_1_disc"
     ],
     "Name": "MallRecommendGroup.1003.1"
@@ -28,6 +39,8 @@
     "Id": "1004",
     "Sort": 5,
     "PackageList": [
+      "pack.10_skill_res",
+      "pack.10_role_res",
       "pack.01_role_m",
       "pack.role",
       "pack.01_role_w"
@@ -38,6 +51,7 @@
     "Id": "1005",
     "Sort": 4,
     "PackageList": [
+      "pack.10_disc_res",
       "pack.01_disc_m",
       "pack.disc",
       "pack.01_disc_w"

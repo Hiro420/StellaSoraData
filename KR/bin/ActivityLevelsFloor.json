@@ -1199,5 +1199,233 @@
     "Theme": 436,
     "BGM": "amb_Duona_combatBoss_setState",
     "LeaveTriggerEvent": "amb_Duona_all_stop"
+  },
+  "300901": {
+    "Id": 300901,
+    "MonsterLv": 1,
+    "SceneName": "Levels/StoryActivity/StoryActivity_9/StoryActivity_9_011_A_01",
+    "ConfigPrefabName": "StoryActivity_9_011_N1",
+    "Theme": 441,
+    "BGM": "amb_coast_combatNormal_setState",
+    "LeaveTriggerEvent": "amb_coast_all_stop"
+  },
+  "300902": {
+    "Id": 300902,
+    "MonsterLv": 2,
+    "SceneName": "Levels/StoryActivity/StoryActivity_9/StoryActivity_9_001_B_01",
+    "ConfigPrefabName": "StoryActivity_9_001_N2",
+    "Theme": 441,
+    "BGM": "amb_coast_combatNormal_setState",
+    "LeaveTriggerEvent": "amb_coast_all_stop"
+  },
+  "300903": {
+    "Id": 300903,
+    "MonsterLv": 3,
+    "SceneName": "Levels/StoryActivity/StoryActivity_9/StoryActivity_9_004_A_01",
+    "ConfigPrefabName": "StoryActivity_9_004_N3",
+    "Theme": 441,
+    "BGM": "amb_coast_combatNormal_setState",
+    "LeaveTriggerEvent": "amb_coast_all_stop"
+  },
+  "300904": {
+    "Id": 300904,
+    "MonsterLv": 4,
+    "SceneName": "Levels/StoryActivity/StoryActivity_9/StoryActivity_9_007_A_01",
+    "ConfigPrefabName": "StoryActivity_9_007_N4",
+    "Theme": 441,
+    "BGM": "amb_coast_combatNormal_setState",
+    "LeaveTriggerEvent": "amb_coast_all_stop"
+  },
+  "300905": {
+    "Id": 300905,
+    "MonsterLv": 5,
+    "SceneName": "Levels/StoryActivity/StoryActivity_9/StoryActivity_9_MiniBoss_HaSaNa",
+    "ConfigPrefabName": "StoryActivity_9_MiniBoss_N5",
+    "Theme": 441,
+    "BGM": "amb_coast_combatBoss_setState",
+    "LeaveTriggerEvent": "amb_coast_all_stop"
+  },
+  "300906": {
+    "Id": 300906,
+    "MonsterLv": 6,
+    "SceneName": "Levels/StoryActivity/StoryActivity_9/StoryActivity_9_015_A_01",
+    "ConfigPrefabName": "StoryActivity_9_015_N6",
+    "Theme": 441,
+    "BGM": "amb_coast_combatNormal_setState",
+    "LeaveTriggerEvent": "amb_coast_all_stop"
+  },
+  "300907": {
+    "Id": 300907,
+    "MonsterLv": 7,
+    "SceneName": "Levels/StoryActivity/StoryActivity_9/StoryActivity_9_011_A_01_Mir",
+    "ConfigPrefabName": "StoryActivity_9_011_N7",
+    "Mir": true,
+    "Theme": 441,
+    "BGM": "amb_coast_combatNormal_setState",
+    "LeaveTriggerEvent": "amb_coast_all_stop"
+  },
+  "300908": {
+    "Id": 300908,
+    "MonsterLv": 8,
+    "SceneName": "Levels/StoryActivity/StoryActivity_9/StoryActivity_9_Boss_HaSaNa",
+    "ConfigPrefabName": "StoryActivity_9_Boss_N8",
+    "Theme": 118,
+    "BGM": "amb_coast_combatBoss_setState",
+    "LeaveTriggerEvent": "amb_coast_all_stop",
+    "IntroCutscene": "fx_m30931_base_born"
+  },
+  "300909": {
+    "Id": 300909,
+    "MonsterLv": 9,
+    "SceneName": "Levels/StoryActivity/StoryActivity_9/StoryActivity_9_015_A_01",
+    "ConfigPrefabName": "StoryActivity_9_015_N9",
+    "Theme": 441,
+    "BGM": "amb_coast_combatNormal_setState",
+    "LeaveTriggerEvent": "amb_coast_all_stop"
+  },
+  "300910": {
+    "Id": 300910,
+    "MonsterLv": 10,
+    "SceneName": "Levels/StoryActivity/StoryActivity_9/StoryActivity_9_011_A_01",
+    "ConfigPrefabName": "StoryActivity_9_011_N10",
+    "Theme": 441,
+    "BGM": "amb_coast_combatNormal_setState",
+    "LeaveTriggerEvent": "amb_coast_all_stop"
+  },
+  "300911": {
+    "Id": 300911,
+    "MonsterLv": 11,
+    "SceneName": "Levels/StoryActivity/StoryActivity_9/StoryActivity_9_001_B_01_Mir",
+    "ConfigPrefabName": "StoryActivity_9_001_N11",
+    "Mir": true,
+    "Theme": 441,
+    "BGM": "amb_coast_combatNormal_setState",
+    "LeaveTriggerEvent": "amb_coast_all_stop"
+  },
+  "300912": {
+    "Id": 300912,
+    "MonsterLv": 12,
+    "SceneName": "Levels/StoryActivity/StoryActivity_9/StoryActivity_9_004_A_01_Mir",
+    "ConfigPrefabName": "StoryActivity_9_004_N12",
+    "Mir": true,
+    "Theme": 441,
+    "BGM": "amb_coast_combatNormal_setState",
+    "LeaveTriggerEvent": "amb_coast_all_stop"
+  },
+  "300913": {
+    "Id": 300913,
+    "MonsterLv": 13,
+    "SceneName": "Levels/StoryActivity/StoryActivity_9/StoryActivity_9_015_A_01_Mir",
+    "ConfigPrefabName": "StoryActivity_9_015_H1",
+    "Mir": true,
+    "Theme": 441,
+    "BGM": "amb_coast_combatNormal_setState",
+    "LeaveTriggerEvent": "amb_coast_all_stop"
+  },
+  "300914": {
+    "Id": 300914,
+    "MonsterLv": 14,
+    "SceneName": "Levels/StoryActivity/StoryActivity_9/StoryActivity_9_010_B_01",
+    "ConfigPrefabName": "StoryActivity_9_010_H2",
+    "Theme": 441,
+    "BGM": "amb_coast_combatNormal_setState",
+    "LeaveTriggerEvent": "amb_coast_all_stop"
+  },
+  "300915": {
+    "Id": 300915,
+    "MonsterLv": 15,
+    "SceneName": "Levels/StoryActivity/StoryActivity_9/StoryActivity_9_001_B_01_Mir",
+    "ConfigPrefabName": "StoryActivity_9_001_H3",
+    "Mir": true,
+    "Theme": 441,
+    "BGM": "amb_coast_combatNormal_setState",
+    "LeaveTriggerEvent": "amb_coast_all_stop"
+  },
+  "300916": {
+    "Id": 300916,
+    "MonsterLv": 16,
+    "SceneName": "Levels/StoryActivity/StoryActivity_9/StoryActivity_9_004_A_01_Mir",
+    "ConfigPrefabName": "StoryActivity_9_004_H4",
+    "Mir": true,
+    "Theme": 441,
+    "BGM": "amb_coast_combatNormal_setState",
+    "LeaveTriggerEvent": "amb_coast_all_stop"
+  },
+  "300917": {
+    "Id": 300917,
+    "MonsterLv": 17,
+    "SceneName": "Levels/StoryActivity/StoryActivity_9/StoryActivity_9_MiniBoss_HaSaNa",
+    "ConfigPrefabName": "StoryActivity_9_MiniBoss_H5",
+    "Theme": 441,
+    "BGM": "amb_coast_combatBoss_setState",
+    "LeaveTriggerEvent": "amb_coast_all_stop"
+  },
+  "300918": {
+    "Id": 300918,
+    "MonsterLv": 18,
+    "SceneName": "Levels/StoryActivity/StoryActivity_9/StoryActivity_9_010_B_01_Mir",
+    "ConfigPrefabName": "StoryActivity_9_010_H6",
+    "Mir": true,
+    "Theme": 441,
+    "BGM": "amb_coast_combatNormal_setState",
+    "LeaveTriggerEvent": "amb_coast_all_stop"
+  },
+  "300919": {
+    "Id": 300919,
+    "MonsterLv": 19,
+    "SceneName": "Levels/StoryActivity/StoryActivity_9/StoryActivity_9_007_A_01_Mir",
+    "ConfigPrefabName": "StoryActivity_9_007_H7",
+    "Mir": true,
+    "Theme": 441,
+    "BGM": "amb_coast_combatNormal_setState",
+    "LeaveTriggerEvent": "amb_coast_all_stop"
+  },
+  "300920": {
+    "Id": 300920,
+    "MonsterLv": 20,
+    "SceneName": "Levels/StoryActivity/StoryActivity_9/StoryActivity_9_Boss_HaSaNa",
+    "ConfigPrefabName": "StoryActivity_9_Boss_H8",
+    "Theme": 118,
+    "BGM": "amb_coast_combatBoss_setState",
+    "LeaveTriggerEvent": "amb_coast_all_stop",
+    "IntroCutscene": "fx_m30931_base_born"
+  },
+  "300921": {
+    "Id": 300921,
+    "MonsterLv": 21,
+    "SceneName": "Levels/StoryActivity/StoryActivity_9/StoryActivity_9_011_A_01_Mir",
+    "ConfigPrefabName": "StoryActivity_9_011_C1",
+    "Mir": true,
+    "Theme": 441,
+    "BGM": "amb_coast_combatNormal_setState",
+    "LeaveTriggerEvent": "amb_coast_all_stop"
+  },
+  "300922": {
+    "Id": 300922,
+    "MonsterLv": 22,
+    "SceneName": "Levels/StoryActivity/StoryActivity_9/StoryActivity_9_MiniBoss_HaSaNa",
+    "ConfigPrefabName": "StoryActivity_9_MiniBoss_C2",
+    "Theme": 441,
+    "BGM": "amb_coast_combatBoss_setState",
+    "LeaveTriggerEvent": "amb_coast_all_stop"
+  },
+  "300923": {
+    "Id": 300923,
+    "MonsterLv": 23,
+    "SceneName": "Levels/StoryActivity/StoryActivity_9/StoryActivity_9_001_B_01",
+    "ConfigPrefabName": "StoryActivity_9_001_C3",
+    "Theme": 441,
+    "BGM": "amb_coast_combatNormal_setState",
+    "LeaveTriggerEvent": "amb_coast_all_stop"
+  },
+  "300924": {
+    "Id": 300924,
+    "MonsterLv": 24,
+    "SceneName": "Levels/StoryActivity/StoryActivity_9/StoryActivity_9_Boss_HaSaNa",
+    "ConfigPrefabName": "StoryActivity_9_Boss_C4",
+    "Theme": 441,
+    "BGM": "amb_coast_combatBoss_setState",
+    "LeaveTriggerEvent": "amb_coast_all_stop",
+    "IntroCutscene": "fx_m30931_base_born"
   }
 }

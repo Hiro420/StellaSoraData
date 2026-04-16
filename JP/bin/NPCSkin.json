@@ -153,6 +153,20 @@
     "InteractiveAction": true,
     "InteractiveActionId": 10003
   },
+  "917204": {
+    "Id": 917204,
+    "IsShow": true,
+    "CharId": 917204,
+    "Type": 1,
+    "SourceDesc": 1,
+    "ModelScale": 10000,
+    "Model": "Actor/NPC/NPC_333/NPC_333",
+    "Portrait": "Actor2D/NPC/917203/917203_a.spriteatlas",
+    "Offset": "Actor2D/NPC/917203/917203.asset",
+    "L2D": "Actor2D/NPC/917202/917202_L.prefab",
+    "InteractiveAction": true,
+    "InteractiveActionId": 10003
+  },
   "917301": {
     "Id": 917301,
     "IsShow": true,
@@ -528,6 +542,62 @@
     "Portrait": "Actor2D/Character/13001/13001_a.spriteatlas",
     "Offset": "Actor2D/Character/13001/13001.asset",
     "L2D": "Actor2D/Character/13001/13001_L.prefab",
+    "InteractiveAction": true,
+    "InteractiveActionId": 10003
+  },
+  "715601": {
+    "Id": 715601,
+    "IsShow": true,
+    "CharId": 7156,
+    "Type": 1,
+    "SourceDesc": 1,
+    "ModelScale": 10000,
+    "Model": "Actor/Character/15601/15601_Actor",
+    "Portrait": "Actor2D/Character/15601/15601_a.spriteatlas",
+    "Offset": "Actor2D/Character/15601/15601.asset",
+    "L2D": "Actor2D/Character/15601/15601_L.prefab",
+    "InteractiveAction": true,
+    "InteractiveActionId": 10003
+  },
+  "714401": {
+    "Id": 714401,
+    "IsShow": true,
+    "CharId": 7144,
+    "Type": 1,
+    "SourceDesc": 1,
+    "ModelScale": 10000,
+    "Model": "Actor/Character/14401/14401_Actor",
+    "Portrait": "Actor2D/Character/14401/14401_a.spriteatlas",
+    "Offset": "Actor2D/Character/14401/14401.asset",
+    "L2D": "Actor2D/Character/14401/14401_L.prefab",
+    "InteractiveAction": true,
+    "InteractiveActionId": 10003
+  },
+  "714501": {
+    "Id": 714501,
+    "IsShow": true,
+    "CharId": 7145,
+    "Type": 1,
+    "SourceDesc": 1,
+    "ModelScale": 10000,
+    "Model": "Actor/Character/14501/14501_Actor",
+    "Portrait": "Actor2D/Character/14501/14501_a.spriteatlas",
+    "Offset": "Actor2D/Character/14501/14501.asset",
+    "L2D": "Actor2D/Character/14501/14501_L.prefab",
+    "InteractiveAction": true,
+    "InteractiveActionId": 10003
+  },
+  "814501": {
+    "Id": 814501,
+    "IsShow": true,
+    "CharId": 8145,
+    "Type": 1,
+    "SourceDesc": 1,
+    "ModelScale": 10000,
+    "Model": "Actor/Character/14501/14501_Actor",
+    "Portrait": "Actor2D/Character/14501/14501_a.spriteatlas",
+    "Offset": "Actor2D/Character/14501/14501.asset",
+    "L2D": "Actor2D/Character/14501/14501_L.prefab",
     "InteractiveAction": true,
     "InteractiveActionId": 10003
   }

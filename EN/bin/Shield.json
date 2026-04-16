@@ -224,9 +224,6 @@
   },
   "14502001": {
     "Id": 14502001,
-    "levelTypeData": 3,
-    "LevelData": 2,
-    "MainOrSupport": 1,
     "BindEffect": "Actor/Character/14501/Buff/fx_14501_Buff_P2_Shield",
     "ShieldTag1": 195011952,
     "TimeSuperposition": 2
@@ -234,6 +231,14 @@
   "15840011": {
     "Id": 15840011,
     "BindEffect": "Actor/Character/15801/Buff/fx_15801_buff_Ultra_Shield",
+    "TimeSuperposition": 2,
+    "NotRemove": true
+  },
+  "11532001": {
+    "Id": 11532001,
+    "levelTypeData": 1,
+    "LevelData": 511532,
+    "BindEffect": "Actor/Character/13201/Buff/fx_13201_Buff_Support_Skill_P23_StartShield",
     "TimeSuperposition": 2,
     "NotRemove": true
   }

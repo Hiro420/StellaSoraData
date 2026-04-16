@@ -239,6 +239,29 @@
     "width": 4.0,
     "length": 4.0
   },
+  "50900031": {
+    "Id": 50900031,
+    "FCId": 5009001,
+    "Model": "Actor/Monster/99013Dingci/99013Dingci_01_Actor",
+    "ModelScale": 10000,
+    "BuffFXScale": 10000,
+    "ColliderScale": 10000,
+    "AttributeId": "1300101",
+    "Templete": 3100037,
+    "BuffIds": [
+      990010050,
+      990010100
+    ],
+    "InterruptSkill": true,
+    "SubType": 2,
+    "Faction": 4,
+    "Filter": [
+      2
+    ],
+    "IgnoreCollision": true,
+    "width": 4.0,
+    "length": 4.0
+  },
   "50920001": {
     "Id": 50920001,
     "FCId": 9900302,
@@ -952,6 +975,28 @@
     "ShapeType": 1,
     "radius": 99.0
   },
+  "50930031": {
+    "Id": 50930031,
+    "FCId": 5009311,
+    "Model": "Actor/Monster/99023ArrowTrap/99023_ArrowTrap",
+    "ModelScale": 10000,
+    "BuffFXScale": 10000,
+    "ColliderScale": 10000,
+    "AttributeId": "1300101",
+    "Templete": 3100037,
+    "BuffIds": [
+      990010050,
+      990010100
+    ],
+    "InterruptSkill": true,
+    "SubType": 2,
+    "Faction": 4,
+    "Filter": [
+      2
+    ],
+    "ShapeType": 1,
+    "radius": 99.0
+  },
   "50960001": {
     "Id": 50960001,
     "FCId": 9900601,
@@ -1555,6 +1600,30 @@
   "50913001": {
     "Id": 50913001,
     "FCId": 5091301,
+    "Model": "Actor/Monster/99034BombTrap/99034BombTrap_Actor",
+    "ModelScale": 10000,
+    "BuffFXScale": 10000,
+    "ColliderScale": 10000,
+    "AttributeId": "1300101",
+    "Templete": 9100000,
+    "BuffIds": [
+      990010050,
+      990010100,
+      990010040
+    ],
+    "InterruptSkill": true,
+    "SubType": 2,
+    "Faction": 4,
+    "Filter": [
+      2
+    ],
+    "IgnoreCollision": true,
+    "ShapeType": 1,
+    "radius": 99.0
+  },
+  "50914001": {
+    "Id": 50914001,
+    "FCId": 5091401,
     "Model": "Actor/Monster/99034BombTrap/99034BombTrap_Actor",
     "ModelScale": 10000,
     "BuffFXScale": 10000,

@@ -1233,6 +1233,190 @@
     "RoomType": 3,
     "InteriorCurrencyQuantity": 660
   },
+  "1090101": {
+    "Id": 1090101,
+    "Stage": 1,
+    "GroupId": 10901,
+    "Floor": 1,
+    "InteriorCurrencyQuantity": 80,
+    "GuaranteedMapId": 1050112,
+    "GuaranteedMonsterPlanId": 10104
+  },
+  "1090102": {
+    "Id": 1090102,
+    "Stage": 1,
+    "GroupId": 10901,
+    "Floor": 2,
+    "RoomType": 7,
+    "GuaranteedMapId": 1019191,
+    "GuaranteedMonsterPlanId": 10104
+  },
+  "1090103": {
+    "Id": 1090103,
+    "Stage": 1,
+    "GroupId": 10901,
+    "Floor": 3,
+    "InteriorCurrencyQuantity": 80,
+    "GuaranteedMapId": 1050112,
+    "GuaranteedMonsterPlanId": 10104
+  },
+  "1090104": {
+    "Id": 1090104,
+    "Stage": 1,
+    "GroupId": 10901,
+    "Floor": 4,
+    "RoomType": 1,
+    "InteriorCurrencyQuantity": 320,
+    "GuaranteedMapId": 1011041,
+    "GuaranteedMonsterPlanId": 10104
+  },
+  "1090105": {
+    "Id": 1090105,
+    "Stage": 1,
+    "GroupId": 10901,
+    "Floor": 5,
+    "RoomType": 6,
+    "GuaranteedMapId": 1019201,
+    "GuaranteedMonsterPlanId": 10104
+  },
+  "1090106": {
+    "Id": 1090106,
+    "Stage": 1,
+    "GroupId": 10901,
+    "Floor": 6,
+    "RoomType": 2,
+    "InteriorCurrencyQuantity": 700,
+    "GuaranteedMonsterPlanId": 10104
+  },
+  "1090201": {
+    "Id": 1090201,
+    "Stage": 2,
+    "GroupId": 10902,
+    "Floor": 1,
+    "InteriorCurrencyQuantity": 80,
+    "GuaranteedMapId": 1050112,
+    "GuaranteedMonsterPlanId": 10104
+  },
+  "1090202": {
+    "Id": 1090202,
+    "Stage": 2,
+    "GroupId": 10902,
+    "Floor": 2,
+    "RoomType": 1,
+    "InteriorCurrencyQuantity": 320,
+    "GuaranteedMapId": 1011041,
+    "GuaranteedMonsterPlanId": 10104
+  },
+  "1090203": {
+    "Id": 1090203,
+    "Stage": 2,
+    "GroupId": 10902,
+    "Floor": 3,
+    "RoomType": 7,
+    "GuaranteedMapId": 1019191,
+    "GuaranteedMonsterPlanId": 10104
+  },
+  "1090204": {
+    "Id": 1090204,
+    "Stage": 2,
+    "GroupId": 10902,
+    "Floor": 4,
+    "InteriorCurrencyQuantity": 80,
+    "GuaranteedMapId": 1050112,
+    "GuaranteedMonsterPlanId": 10104
+  },
+  "1090205": {
+    "Id": 1090205,
+    "Stage": 2,
+    "GroupId": 10902,
+    "Floor": 5,
+    "RoomType": 1,
+    "InteriorCurrencyQuantity": 320,
+    "GuaranteedMapId": 1011041,
+    "GuaranteedMonsterPlanId": 10104
+  },
+  "1090206": {
+    "Id": 1090206,
+    "Stage": 2,
+    "GroupId": 10902,
+    "Floor": 6,
+    "RoomType": 6,
+    "GuaranteedMapId": 1019201,
+    "GuaranteedMonsterPlanId": 10104
+  },
+  "1090207": {
+    "Id": 1090207,
+    "Stage": 2,
+    "GroupId": 10902,
+    "Floor": 7,
+    "RoomType": 2,
+    "InteriorCurrencyQuantity": 700,
+    "GuaranteedMonsterPlanId": 10104
+  },
+  "1090301": {
+    "Id": 1090301,
+    "Stage": 3,
+    "GroupId": 10903,
+    "Floor": 1,
+    "InteriorCurrencyQuantity": 80,
+    "GuaranteedMapId": 1050112,
+    "GuaranteedMonsterPlanId": 10104
+  },
+  "1090302": {
+    "Id": 1090302,
+    "Stage": 3,
+    "GroupId": 10903,
+    "Floor": 2,
+    "RoomType": 1,
+    "InteriorCurrencyQuantity": 320,
+    "GuaranteedMapId": 1011041,
+    "GuaranteedMonsterPlanId": 10104
+  },
+  "1090303": {
+    "Id": 1090303,
+    "Stage": 3,
+    "GroupId": 10903,
+    "Floor": 3,
+    "RoomType": 7,
+    "GuaranteedMapId": 1019191,
+    "GuaranteedMonsterPlanId": 10104
+  },
+  "1090304": {
+    "Id": 1090304,
+    "Stage": 3,
+    "GroupId": 10903,
+    "Floor": 4,
+    "InteriorCurrencyQuantity": 80,
+    "GuaranteedMapId": 1050112,
+    "GuaranteedMonsterPlanId": 10104
+  },
+  "1090305": {
+    "Id": 1090305,
+    "Stage": 3,
+    "GroupId": 10903,
+    "Floor": 5,
+    "RoomType": 1,
+    "InteriorCurrencyQuantity": 320,
+    "GuaranteedMapId": 1011041,
+    "GuaranteedMonsterPlanId": 10104
+  },
+  "1090306": {
+    "Id": 1090306,
+    "Stage": 3,
+    "GroupId": 10903,
+    "Floor": 6,
+    "RoomType": 6,
+    "GuaranteedMapId": 1019201,
+    "GuaranteedMonsterPlanId": 10104
+  },
+  "1090307": {
+    "Id": 1090307,
+    "Stage": 3,
+    "GroupId": 10903,
+    "Floor": 7,
+    "RoomType": 3,
+    "InteriorCurrencyQuantity": 700
+  },
   "2010101": {
     "Id": 2010101,
     "Stage": 1,
@@ -2467,6 +2651,190 @@
     "RoomType": 3,
     "InteriorCurrencyQuantity": 660
   },
+  "2090101": {
+    "Id": 2090101,
+    "Stage": 1,
+    "GroupId": 20901,
+    "Floor": 1,
+    "InteriorCurrencyQuantity": 80,
+    "GuaranteedMapId": 2050112,
+    "GuaranteedMonsterPlanId": 10104
+  },
+  "2090102": {
+    "Id": 2090102,
+    "Stage": 1,
+    "GroupId": 20901,
+    "Floor": 2,
+    "RoomType": 7,
+    "GuaranteedMapId": 1019191,
+    "GuaranteedMonsterPlanId": 10104
+  },
+  "2090103": {
+    "Id": 2090103,
+    "Stage": 1,
+    "GroupId": 20901,
+    "Floor": 3,
+    "InteriorCurrencyQuantity": 80,
+    "GuaranteedMapId": 2050112,
+    "GuaranteedMonsterPlanId": 10104
+  },
+  "2090104": {
+    "Id": 2090104,
+    "Stage": 1,
+    "GroupId": 20901,
+    "Floor": 4,
+    "RoomType": 1,
+    "InteriorCurrencyQuantity": 320,
+    "GuaranteedMapId": 1011041,
+    "GuaranteedMonsterPlanId": 10104
+  },
+  "2090105": {
+    "Id": 2090105,
+    "Stage": 1,
+    "GroupId": 20901,
+    "Floor": 5,
+    "RoomType": 6,
+    "GuaranteedMapId": 1019201,
+    "GuaranteedMonsterPlanId": 10104
+  },
+  "2090106": {
+    "Id": 2090106,
+    "Stage": 1,
+    "GroupId": 20901,
+    "Floor": 6,
+    "RoomType": 2,
+    "InteriorCurrencyQuantity": 700,
+    "GuaranteedMonsterPlanId": 10104
+  },
+  "2090201": {
+    "Id": 2090201,
+    "Stage": 2,
+    "GroupId": 20902,
+    "Floor": 1,
+    "InteriorCurrencyQuantity": 80,
+    "GuaranteedMapId": 2050112,
+    "GuaranteedMonsterPlanId": 10104
+  },
+  "2090202": {
+    "Id": 2090202,
+    "Stage": 2,
+    "GroupId": 20902,
+    "Floor": 2,
+    "RoomType": 1,
+    "InteriorCurrencyQuantity": 320,
+    "GuaranteedMapId": 1011041,
+    "GuaranteedMonsterPlanId": 10104
+  },
+  "2090203": {
+    "Id": 2090203,
+    "Stage": 2,
+    "GroupId": 20902,
+    "Floor": 3,
+    "RoomType": 7,
+    "GuaranteedMapId": 1019191,
+    "GuaranteedMonsterPlanId": 10104
+  },
+  "2090204": {
+    "Id": 2090204,
+    "Stage": 2,
+    "GroupId": 20902,
+    "Floor": 4,
+    "InteriorCurrencyQuantity": 80,
+    "GuaranteedMapId": 2050112,
+    "GuaranteedMonsterPlanId": 10104
+  },
+  "2090205": {
+    "Id": 2090205,
+    "Stage": 2,
+    "GroupId": 20902,
+    "Floor": 5,
+    "RoomType": 1,
+    "InteriorCurrencyQuantity": 320,
+    "GuaranteedMapId": 1011041,
+    "GuaranteedMonsterPlanId": 10104
+  },
+  "2090206": {
+    "Id": 2090206,
+    "Stage": 2,
+    "GroupId": 20902,
+    "Floor": 6,
+    "RoomType": 6,
+    "GuaranteedMapId": 1019201,
+    "GuaranteedMonsterPlanId": 10104
+  },
+  "2090207": {
+    "Id": 2090207,
+    "Stage": 2,
+    "GroupId": 20902,
+    "Floor": 7,
+    "RoomType": 2,
+    "InteriorCurrencyQuantity": 700,
+    "GuaranteedMonsterPlanId": 10104
+  },
+  "2090301": {
+    "Id": 2090301,
+    "Stage": 3,
+    "GroupId": 20903,
+    "Floor": 1,
+    "InteriorCurrencyQuantity": 80,
+    "GuaranteedMapId": 2050112,
+    "GuaranteedMonsterPlanId": 10104
+  },
+  "2090302": {
+    "Id": 2090302,
+    "Stage": 3,
+    "GroupId": 20903,
+    "Floor": 2,
+    "RoomType": 1,
+    "InteriorCurrencyQuantity": 320,
+    "GuaranteedMapId": 1011041,
+    "GuaranteedMonsterPlanId": 10104
+  },
+  "2090303": {
+    "Id": 2090303,
+    "Stage": 3,
+    "GroupId": 20903,
+    "Floor": 3,
+    "RoomType": 7,
+    "GuaranteedMapId": 1019191,
+    "GuaranteedMonsterPlanId": 10104
+  },
+  "2090304": {
+    "Id": 2090304,
+    "Stage": 3,
+    "GroupId": 20903,
+    "Floor": 4,
+    "InteriorCurrencyQuantity": 80,
+    "GuaranteedMapId": 2050112,
+    "GuaranteedMonsterPlanId": 10104
+  },
+  "2090305": {
+    "Id": 2090305,
+    "Stage": 3,
+    "GroupId": 20903,
+    "Floor": 5,
+    "RoomType": 1,
+    "InteriorCurrencyQuantity": 320,
+    "GuaranteedMapId": 1011041,
+    "GuaranteedMonsterPlanId": 10104
+  },
+  "2090306": {
+    "Id": 2090306,
+    "Stage": 3,
+    "GroupId": 20903,
+    "Floor": 6,
+    "RoomType": 6,
+    "GuaranteedMapId": 1019201,
+    "GuaranteedMonsterPlanId": 10104
+  },
+  "2090307": {
+    "Id": 2090307,
+    "Stage": 3,
+    "GroupId": 20903,
+    "Floor": 7,
+    "RoomType": 3,
+    "InteriorCurrencyQuantity": 700
+  },
   "3010101": {
     "Id": 3010101,
     "Stage": 1,
@@ -3700,6 +4068,190 @@
     "Floor": 7,
     "RoomType": 3,
     "InteriorCurrencyQuantity": 660
+  },
+  "3090101": {
+    "Id": 3090101,
+    "Stage": 1,
+    "GroupId": 30901,
+    "Floor": 1,
+    "InteriorCurrencyQuantity": 80,
+    "GuaranteedMapId": 1050112,
+    "GuaranteedMonsterPlanId": 10104
+  },
+  "3090102": {
+    "Id": 3090102,
+    "Stage": 1,
+    "GroupId": 30901,
+    "Floor": 2,
+    "RoomType": 7,
+    "GuaranteedMapId": 1019191,
+    "GuaranteedMonsterPlanId": 10104
+  },
+  "3090103": {
+    "Id": 3090103,
+    "Stage": 1,
+    "GroupId": 30901,
+    "Floor": 3,
+    "InteriorCurrencyQuantity": 80,
+    "GuaranteedMapId": 1050112,
+    "GuaranteedMonsterPlanId": 10104
+  },
+  "3090104": {
+    "Id": 3090104,
+    "Stage": 1,
+    "GroupId": 30901,
+    "Floor": 4,
+    "RoomType": 1,
+    "InteriorCurrencyQuantity": 320,
+    "GuaranteedMapId": 1011041,
+    "GuaranteedMonsterPlanId": 10104
+  },
+  "3090105": {
+    "Id": 3090105,
+    "Stage": 1,
+    "GroupId": 30901,
+    "Floor": 5,
+    "RoomType": 6,
+    "GuaranteedMapId": 1019201,
+    "GuaranteedMonsterPlanId": 10104
+  },
+  "3090106": {
+    "Id": 3090106,
+    "Stage": 1,
+    "GroupId": 30901,
+    "Floor": 6,
+    "RoomType": 2,
+    "InteriorCurrencyQuantity": 700,
+    "GuaranteedMonsterPlanId": 10104
+  },
+  "3090201": {
+    "Id": 3090201,
+    "Stage": 2,
+    "GroupId": 30902,
+    "Floor": 1,
+    "InteriorCurrencyQuantity": 80,
+    "GuaranteedMapId": 1050112,
+    "GuaranteedMonsterPlanId": 10104
+  },
+  "3090202": {
+    "Id": 3090202,
+    "Stage": 2,
+    "GroupId": 30902,
+    "Floor": 2,
+    "RoomType": 1,
+    "InteriorCurrencyQuantity": 320,
+    "GuaranteedMapId": 1011041,
+    "GuaranteedMonsterPlanId": 10104
+  },
+  "3090203": {
+    "Id": 3090203,
+    "Stage": 2,
+    "GroupId": 30902,
+    "Floor": 3,
+    "RoomType": 7,
+    "GuaranteedMapId": 1019191,
+    "GuaranteedMonsterPlanId": 10104
+  },
+  "3090204": {
+    "Id": 3090204,
+    "Stage": 2,
+    "GroupId": 30902,
+    "Floor": 4,
+    "InteriorCurrencyQuantity": 80,
+    "GuaranteedMapId": 1050112,
+    "GuaranteedMonsterPlanId": 10104
+  },
+  "3090205": {
+    "Id": 3090205,
+    "Stage": 2,
+    "GroupId": 30902,
+    "Floor": 5,
+    "RoomType": 1,
+    "InteriorCurrencyQuantity": 320,
+    "GuaranteedMapId": 1011041,
+    "GuaranteedMonsterPlanId": 10104
+  },
+  "3090206": {
+    "Id": 3090206,
+    "Stage": 2,
+    "GroupId": 30902,
+    "Floor": 6,
+    "RoomType": 6,
+    "GuaranteedMapId": 1019201,
+    "GuaranteedMonsterPlanId": 10104
+  },
+  "3090207": {
+    "Id": 3090207,
+    "Stage": 2,
+    "GroupId": 30902,
+    "Floor": 7,
+    "RoomType": 2,
+    "InteriorCurrencyQuantity": 700,
+    "GuaranteedMonsterPlanId": 10104
+  },
+  "3090301": {
+    "Id": 3090301,
+    "Stage": 3,
+    "GroupId": 30903,
+    "Floor": 1,
+    "InteriorCurrencyQuantity": 80,
+    "GuaranteedMapId": 1050112,
+    "GuaranteedMonsterPlanId": 10104
+  },
+  "3090302": {
+    "Id": 3090302,
+    "Stage": 3,
+    "GroupId": 30903,
+    "Floor": 2,
+    "RoomType": 1,
+    "InteriorCurrencyQuantity": 320,
+    "GuaranteedMapId": 1011041,
+    "GuaranteedMonsterPlanId": 10104
+  },
+  "3090303": {
+    "Id": 3090303,
+    "Stage": 3,
+    "GroupId": 30903,
+    "Floor": 3,
+    "RoomType": 7,
+    "GuaranteedMapId": 1019191,
+    "GuaranteedMonsterPlanId": 10104
+  },
+  "3090304": {
+    "Id": 3090304,
+    "Stage": 3,
+    "GroupId": 30903,
+    "Floor": 4,
+    "InteriorCurrencyQuantity": 80,
+    "GuaranteedMapId": 1050112,
+    "GuaranteedMonsterPlanId": 10104
+  },
+  "3090305": {
+    "Id": 3090305,
+    "Stage": 3,
+    "GroupId": 30903,
+    "Floor": 5,
+    "RoomType": 1,
+    "InteriorCurrencyQuantity": 320,
+    "GuaranteedMapId": 1011041,
+    "GuaranteedMonsterPlanId": 10104
+  },
+  "3090306": {
+    "Id": 3090306,
+    "Stage": 3,
+    "GroupId": 30903,
+    "Floor": 6,
+    "RoomType": 6,
+    "GuaranteedMapId": 1019201,
+    "GuaranteedMonsterPlanId": 10104
+  },
+  "3090307": {
+    "Id": 3090307,
+    "Stage": 3,
+    "GroupId": 30903,
+    "Floor": 7,
+    "RoomType": 3,
+    "InteriorCurrencyQuantity": 700
   },
   "4010101": {
     "Id": 4010101,

@@ -1,0 +1,315 @@
+{
+  "11010101": {
+    "Id": 11010101,
+    "SeedLevel": 1,
+    "BgName": "bg_goldenspy_game_1",
+    "PrefabName": [
+      "11010101"
+    ],
+    "TimeLimit": 40,
+    "GoalScore": 1000,
+    "DictionaryID": 400701
+  },
+  "11010201": {
+    "Id": 11010201,
+    "SeedLevel": 1,
+    "BgName": "bg_goldenspy_game_1",
+    "PrefabName": [
+      "11010201"
+    ],
+    "TimeLimit": 40,
+    "GoalScore": 1500,
+    "DictionaryID": 400702
+  },
+  "11010202": {
+    "Id": 11010202,
+    "SeedLevel": 2,
+    "BgName": "bg_goldenspy_game_1",
+    "PrefabName": [
+      "11010202"
+    ],
+    "TimeLimit": 40,
+    "GoalScore": 2800
+  },
+  "11020101": {
+    "Id": 11020101,
+    "SeedLevel": 1,
+    "BgName": "bg_goldenspy_game_2",
+    "PrefabName": [
+      "11020101"
+    ],
+    "TimeLimit": 40,
+    "GoalScore": 1800,
+    "DictionaryID": 400703
+  },
+  "11020201": {
+    "Id": 11020201,
+    "SeedLevel": 1,
+    "BgName": "bg_goldenspy_game_2",
+    "PrefabName": [
+      "11020201"
+    ],
+    "TimeLimit": 50,
+    "GoalScore": 1500,
+    "DictionaryID": 400704
+  },
+  "11020202": {
+    "Id": 11020202,
+    "SeedLevel": 2,
+    "BgName": "bg_goldenspy_game_2",
+    "PrefabName": [
+      "11020202"
+    ],
+    "TimeLimit": 50,
+    "GoalScore": 2800
+  },
+  "11030101": {
+    "Id": 11030101,
+    "SeedLevel": 1,
+    "BgName": "bg_goldenspy_game_3",
+    "PrefabName": [
+      "11030101"
+    ],
+    "TimeLimit": 50,
+    "GoalScore": 1500,
+    "BuffCardCount": 2,
+    "DictionaryID": 400705
+  },
+  "11030102": {
+    "Id": 11030102,
+    "SeedLevel": 2,
+    "BgName": "bg_goldenspy_game_3",
+    "PrefabName": [
+      "11030102"
+    ],
+    "TimeLimit": 50,
+    "GoalScore": 2500
+  },
+  "11030201": {
+    "Id": 11030201,
+    "SeedLevel": 1,
+    "BgName": "bg_goldenspy_game_3",
+    "PrefabName": [
+      "11030202"
+    ],
+    "TimeLimit": 50,
+    "GoalScore": 1000,
+    "BuffCardCount": 4
+  },
+  "11030202": {
+    "Id": 11030202,
+    "SeedLevel": 2,
+    "BgName": "bg_goldenspy_game_3",
+    "PrefabName": [
+      "11030201"
+    ],
+    "TimeLimit": 50,
+    "GoalScore": 2200,
+    "BuffCardCount": 5
+  },
+  "11030203": {
+    "Id": 11030203,
+    "SeedLevel": 3,
+    "BgName": "bg_goldenspy_game_3",
+    "PrefabName": [
+      "11030203"
+    ],
+    "TimeLimit": 50,
+    "GoalScore": 4000
+  },
+  "11040101": {
+    "Id": 11040101,
+    "SeedLevel": 1,
+    "BgName": "bg_goldenspy_game_4",
+    "PrefabName": [
+      "11040111",
+      "11040112",
+      "11040113"
+    ],
+    "TimeLimit": 40,
+    "GoalScore": 1000,
+    "BuffCardCount": 2
+  },
+  "11040102": {
+    "Id": 11040102,
+    "SeedLevel": 2,
+    "BgName": "bg_goldenspy_game_4",
+    "PrefabName": [
+      "11040121",
+      "11040122",
+      "11040123"
+    ],
+    "TimeLimit": 40,
+    "GoalScore": 2400,
+    "BuffCardCount": 2
+  },
+  "11040103": {
+    "Id": 11040103,
+    "SeedLevel": 3,
+    "BgName": "bg_goldenspy_game_4",
+    "PrefabName": [
+      "11040131",
+      "11040132",
+      "11040133"
+    ],
+    "TimeLimit": 40,
+    "GoalScore": 3800,
+    "BuffCardCount": 4
+  },
+  "11040104": {
+    "Id": 11040104,
+    "SeedLevel": 4,
+    "BgName": "bg_goldenspy_game_5",
+    "PrefabName": [
+      "11040141",
+      "11040142",
+      "11040143"
+    ],
+    "TimeLimit": 40,
+    "GoalScore": 5400,
+    "BuffCardCount": 2
+  },
+  "11040105": {
+    "Id": 11040105,
+    "SeedLevel": 5,
+    "BgName": "bg_goldenspy_game_5",
+    "PrefabName": [
+      "11040151",
+      "11040152",
+      "11040153"
+    ],
+    "TimeLimit": 40,
+    "GoalScore": 7000,
+    "BuffCardCount": 2
+  },
+  "11040106": {
+    "Id": 11040106,
+    "SeedLevel": 6,
+    "BgName": "bg_goldenspy_game_5",
+    "PrefabName": [
+      "11040111",
+      "11040112",
+      "11040113"
+    ],
+    "TimeLimit": 40,
+    "GoalScore": 8800,
+    "BuffCardCount": 2
+  },
+  "11040107": {
+    "Id": 11040107,
+    "SeedLevel": 7,
+    "BgName": "bg_goldenspy_game_6",
+    "PrefabName": [
+      "11040121",
+      "11040122",
+      "11040123"
+    ],
+    "TimeLimit": 40,
+    "GoalScore": 10600,
+    "BuffCardCount": 2
+  },
+  "11040108": {
+    "Id": 11040108,
+    "SeedLevel": 8,
+    "BgName": "bg_goldenspy_game_6",
+    "PrefabName": [
+      "11040131",
+      "11040132",
+      "11040133"
+    ],
+    "TimeLimit": 40,
+    "GoalScore": 12400,
+    "BuffCardCount": 4
+  },
+  "11040109": {
+    "Id": 11040109,
+    "SeedLevel": 9,
+    "BgName": "bg_goldenspy_game_6",
+    "PrefabName": [
+      "11040141",
+      "11040142",
+      "11040143"
+    ],
+    "TimeLimit": 40,
+    "GoalScore": 14200,
+    "BuffCardCount": 2
+  },
+  "11040110": {
+    "Id": 11040110,
+    "SeedLevel": 10,
+    "BgName": "bg_goldenspy_game_7",
+    "PrefabName": [
+      "11040151",
+      "11040152",
+      "11040153"
+    ],
+    "TimeLimit": 40,
+    "GoalScore": 16000,
+    "BuffCardCount": 2
+  },
+  "11040111": {
+    "Id": 11040111,
+    "SeedLevel": 11,
+    "BgName": "bg_goldenspy_game_7",
+    "PrefabName": [
+      "11040111",
+      "11040112",
+      "11040113"
+    ],
+    "TimeLimit": 40,
+    "GoalScore": 18000,
+    "BuffCardCount": 2
+  },
+  "11040112": {
+    "Id": 11040112,
+    "SeedLevel": 12,
+    "BgName": "bg_goldenspy_game_7",
+    "PrefabName": [
+      "11040121",
+      "11040122",
+      "11040123"
+    ],
+    "TimeLimit": 40,
+    "GoalScore": 20000,
+    "BuffCardCount": 2
+  },
+  "11040113": {
+    "Id": 11040113,
+    "SeedLevel": 13,
+    "BgName": "bg_goldenspy_game_6",
+    "PrefabName": [
+      "11040131",
+      "11040132",
+      "11040133"
+    ],
+    "TimeLimit": 40,
+    "GoalScore": 22000,
+    "BuffCardCount": 4
+  },
+  "11040114": {
+    "Id": 11040114,
+    "SeedLevel": 14,
+    "BgName": "bg_goldenspy_game_5",
+    "PrefabName": [
+      "11040141",
+      "11040142",
+      "11040143"
+    ],
+    "TimeLimit": 40,
+    "GoalScore": 24000,
+    "BuffCardCount": 2
+  },
+  "11040115": {
+    "Id": 11040115,
+    "SeedLevel": 15,
+    "BgName": "bg_goldenspy_game_6",
+    "PrefabName": [
+      "11040151",
+      "11040152",
+      "11040153"
+    ],
+    "TimeLimit": 40,
+    "GoalScore": 26000,
+    "BuffCardCount": 2
+  }
+}

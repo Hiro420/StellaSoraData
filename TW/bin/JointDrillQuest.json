@@ -250,5 +250,89 @@
     "AwardItemNum1": 1000,
     "AwardItemTid2": 33001,
     "AwardItemNum2": 50
+  },
+  "13001": {
+    "Id": 13001,
+    "GroupId": 1004,
+    "Title": "JointDrillQuest.13001.1",
+    "Order": 1,
+    "CompleteCond": 95,
+    "CompleteCondParams": "[12852000]",
+    "AwardItemTid1": 34,
+    "AwardItemNum1": 400,
+    "AwardItemTid2": 33001,
+    "AwardItemNum2": 10
+  },
+  "13002": {
+    "Id": 13002,
+    "GroupId": 1004,
+    "Title": "JointDrillQuest.13002.1",
+    "Order": 2,
+    "CompleteCond": 95,
+    "CompleteCondParams": "[20520000]",
+    "AwardItemTid1": 34,
+    "AwardItemNum1": 500,
+    "AwardItemTid2": 33001,
+    "AwardItemNum2": 15
+  },
+  "13003": {
+    "Id": 13003,
+    "GroupId": 1004,
+    "Title": "JointDrillQuest.13003.1",
+    "Order": 3,
+    "CompleteCond": 95,
+    "CompleteCondParams": "[25164000]",
+    "AwardItemTid1": 34,
+    "AwardItemNum1": 600,
+    "AwardItemTid2": 33001,
+    "AwardItemNum2": 20
+  },
+  "13004": {
+    "Id": 13004,
+    "GroupId": 1004,
+    "Title": "JointDrillQuest.13004.1",
+    "Order": 4,
+    "CompleteCond": 95,
+    "CompleteCondParams": "[28866000]",
+    "AwardItemTid1": 34,
+    "AwardItemNum1": 700,
+    "AwardItemTid2": 33001,
+    "AwardItemNum2": 25
+  },
+  "13005": {
+    "Id": 13005,
+    "GroupId": 1004,
+    "Title": "JointDrillQuest.13005.1",
+    "Order": 5,
+    "CompleteCond": 95,
+    "CompleteCondParams": "[35036000]",
+    "AwardItemTid1": 34,
+    "AwardItemNum1": 800,
+    "AwardItemTid2": 33001,
+    "AwardItemNum2": 30
+  },
+  "13006": {
+    "Id": 13006,
+    "GroupId": 1004,
+    "Title": "JointDrillQuest.13006.1",
+    "Order": 6,
+    "CompleteCond": 95,
+    "CompleteCondParams": "[39252000]",
+    "AwardItemTid1": 34,
+    "AwardItemNum1": 900,
+    "AwardItemTid2": 33001,
+    "AwardItemNum2": 40
+  },
+  "13007": {
+    "Id": 13007,
+    "GroupId": 1004,
+    "Title": "JointDrillQuest.13007.1",
+    "Order": 7,
+    "CompleteCond": 95,
+    "CompleteCondParams": "[41380000]",
+    "AwardItemTid1": 34,
+    "AwardItemNum1": 1000,
+    "AwardItemTid2": 33001,
+    "AwardItemNum2": 50
   }
 }

@@ -125,6 +125,8 @@
     "ConfigPrefabName": "TravelerDuel_04_Huochui",
     "Theme": 203,
     "BGM": "travelerDuel_huoChui_combatBoss_setState",
-    "LeaveTriggerEvent": "amb_travelerDuel_huoChui_all_stop"
+    "LeaveTriggerEvent": "amb_travelerDuel_huoChui_all_stop",
+    "MonsterLv": 1,
+    "IntroCutscene": "fx_70031Huochui_base_Born"
   }
 }

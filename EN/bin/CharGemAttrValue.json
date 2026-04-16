@@ -7,7 +7,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "680",
     "Rarity": 4,
-    "Tag": 1
+    "Tag": 1,
+    "OverlockCount": 2,
+    "Level": 1
   },
   "102": {
     "Id": 102,
@@ -17,7 +19,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "850",
     "Rarity": 3,
-    "Tag": 1
+    "Tag": 1,
+    "OverlockCount": 1,
+    "Level": 2
   },
   "103": {
     "Id": 103,
@@ -27,7 +31,8 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "1020",
     "Rarity": 2,
-    "Tag": 1
+    "Tag": 1,
+    "Level": 3
   },
   "104": {
     "Id": 104,
@@ -37,7 +42,8 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "2040",
     "Rarity": 1,
-    "Tag": 1
+    "Tag": 1,
+    "Level": 4
   },
   "201": {
     "Id": 201,
@@ -47,7 +53,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "70",
     "Rarity": 4,
-    "Tag": 1
+    "Tag": 1,
+    "OverlockCount": 2,
+    "Level": 1
   },
   "202": {
     "Id": 202,
@@ -57,7 +65,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "88",
     "Rarity": 3,
-    "Tag": 1
+    "Tag": 1,
+    "OverlockCount": 1,
+    "Level": 2
   },
   "203": {
     "Id": 203,
@@ -67,7 +77,8 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "105",
     "Rarity": 2,
-    "Tag": 1
+    "Tag": 1,
+    "Level": 3
   },
   "204": {
     "Id": 204,
@@ -77,7 +88,8 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "210",
     "Rarity": 1,
-    "Tag": 1
+    "Tag": 1,
+    "Level": 4
   },
   "301": {
     "Id": 301,
@@ -87,7 +99,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "35",
     "Rarity": 4,
-    "Tag": 1
+    "Tag": 1,
+    "OverlockCount": 2,
+    "Level": 1
   },
   "302": {
     "Id": 302,
@@ -97,7 +111,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "44",
     "Rarity": 3,
-    "Tag": 1
+    "Tag": 1,
+    "OverlockCount": 1,
+    "Level": 2
   },
   "303": {
     "Id": 303,
@@ -107,7 +123,8 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "53",
     "Rarity": 2,
-    "Tag": 1
+    "Tag": 1,
+    "Level": 3
   },
   "304": {
     "Id": 304,
@@ -117,7 +134,8 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "105",
     "Rarity": 1,
-    "Tag": 1
+    "Tag": 1,
+    "Level": 4
   },
   "401": {
     "Id": 401,
@@ -128,7 +146,9 @@
     "Value": "0.04",
     "Rarity": 4,
     "Tag": 1,
-    "EffectId": 81011
+    "EffectId": 81011,
+    "OverlockCount": 2,
+    "Level": 1
   },
   "402": {
     "Id": 402,
@@ -139,7 +159,9 @@
     "Value": "0.05",
     "Rarity": 3,
     "Tag": 1,
-    "EffectId": 81012
+    "EffectId": 81012,
+    "OverlockCount": 2,
+    "Level": 2
   },
   "403": {
     "Id": 403,
@@ -150,7 +172,9 @@
     "Value": "0.06",
     "Rarity": 2,
     "Tag": 1,
-    "EffectId": 81013
+    "EffectId": 81013,
+    "OverlockCount": 1,
+    "Level": 3
   },
   "404": {
     "Id": 404,
@@ -161,7 +185,8 @@
     "Value": "0.12",
     "Rarity": 1,
     "Tag": 1,
-    "EffectId": 81014
+    "EffectId": 81014,
+    "Level": 4
   },
   "501": {
     "Id": 501,
@@ -172,7 +197,9 @@
     "Value": "0.04",
     "Rarity": 4,
     "Tag": 1,
-    "EffectId": 81021
+    "EffectId": 81021,
+    "OverlockCount": 2,
+    "Level": 1
   },
   "502": {
     "Id": 502,
@@ -183,7 +210,9 @@
     "Value": "0.05",
     "Rarity": 3,
     "Tag": 1,
-    "EffectId": 81022
+    "EffectId": 81022,
+    "OverlockCount": 2,
+    "Level": 2
   },
   "503": {
     "Id": 503,
@@ -194,7 +223,9 @@
     "Value": "0.06",
     "Rarity": 2,
     "Tag": 1,
-    "EffectId": 81023
+    "EffectId": 81023,
+    "OverlockCount": 1,
+    "Level": 3
   },
   "504": {
     "Id": 504,
@@ -205,7 +236,8 @@
     "Value": "0.12",
     "Rarity": 1,
     "Tag": 1,
-    "EffectId": 81024
+    "EffectId": 81024,
+    "Level": 4
   },
   "601": {
     "Id": 601,
@@ -216,7 +248,9 @@
     "Value": "0.1",
     "Rarity": 4,
     "Tag": 1,
-    "EffectId": 81031
+    "EffectId": 81031,
+    "OverlockCount": 2,
+    "Level": 1
   },
   "602": {
     "Id": 602,
@@ -227,7 +261,9 @@
     "Value": "0.125",
     "Rarity": 3,
     "Tag": 1,
-    "EffectId": 81032
+    "EffectId": 81032,
+    "OverlockCount": 1,
+    "Level": 2
   },
   "603": {
     "Id": 603,
@@ -238,7 +274,8 @@
     "Value": "0.15",
     "Rarity": 2,
     "Tag": 1,
-    "EffectId": 81033
+    "EffectId": 81033,
+    "Level": 3
   },
   "604": {
     "Id": 604,
@@ -249,7 +286,8 @@
     "Value": "0.3",
     "Rarity": 1,
     "Tag": 1,
-    "EffectId": 81034
+    "EffectId": 81034,
+    "Level": 4
   },
   "701": {
     "Id": 701,
@@ -259,7 +297,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "0.08",
     "Rarity": 4,
-    "Tag": 1
+    "Tag": 1,
+    "OverlockCount": 2,
+    "Level": 1
   },
   "702": {
     "Id": 702,
@@ -269,7 +309,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "0.1",
     "Rarity": 3,
-    "Tag": 1
+    "Tag": 1,
+    "OverlockCount": 1,
+    "Level": 2
   },
   "703": {
     "Id": 703,
@@ -279,7 +321,8 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "0.12",
     "Rarity": 2,
-    "Tag": 1
+    "Tag": 1,
+    "Level": 3
   },
   "704": {
     "Id": 704,
@@ -289,7 +332,8 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "0.24",
     "Rarity": 1,
-    "Tag": 1
+    "Tag": 1,
+    "Level": 4
   },
   "801": {
     "Id": 801,
@@ -299,7 +343,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "0.05",
     "Rarity": 4,
-    "Tag": 1
+    "Tag": 1,
+    "OverlockCount": 2,
+    "Level": 1
   },
   "802": {
     "Id": 802,
@@ -309,7 +355,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "0.063",
     "Rarity": 3,
-    "Tag": 1
+    "Tag": 1,
+    "OverlockCount": 2,
+    "Level": 2
   },
   "803": {
     "Id": 803,
@@ -319,7 +367,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "0.075",
     "Rarity": 2,
-    "Tag": 1
+    "Tag": 1,
+    "OverlockCount": 1,
+    "Level": 3
   },
   "804": {
     "Id": 804,
@@ -330,7 +380,8 @@
     "Value": "0.15",
     "Rarity": 1,
     "Tag": 1,
-    "Rare": true
+    "Rare": true,
+    "Level": 4
   },
   "901": {
     "Id": 901,
@@ -340,7 +391,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "0.04",
     "Rarity": 4,
-    "Tag": 1
+    "Tag": 1,
+    "OverlockCount": 2,
+    "Level": 1
   },
   "902": {
     "Id": 902,
@@ -350,7 +403,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "0.05",
     "Rarity": 3,
-    "Tag": 1
+    "Tag": 1,
+    "OverlockCount": 2,
+    "Level": 2
   },
   "903": {
     "Id": 903,
@@ -360,7 +415,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "0.06",
     "Rarity": 2,
-    "Tag": 1
+    "Tag": 1,
+    "OverlockCount": 1,
+    "Level": 3
   },
   "904": {
     "Id": 904,
@@ -370,7 +427,8 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "0.12",
     "Rarity": 1,
-    "Tag": 1
+    "Tag": 1,
+    "Level": 4
   },
   "1001": {
     "Id": 1001,
@@ -380,7 +438,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "0.04",
     "Rarity": 4,
-    "Tag": 1
+    "Tag": 1,
+    "OverlockCount": 2,
+    "Level": 1
   },
   "1002": {
     "Id": 1002,
@@ -390,7 +450,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "0.05",
     "Rarity": 3,
-    "Tag": 1
+    "Tag": 1,
+    "OverlockCount": 2,
+    "Level": 2
   },
   "1003": {
     "Id": 1003,
@@ -400,7 +462,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "0.06",
     "Rarity": 2,
-    "Tag": 1
+    "Tag": 1,
+    "OverlockCount": 1,
+    "Level": 3
   },
   "1004": {
     "Id": 1004,
@@ -410,7 +474,8 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "0.12",
     "Rarity": 1,
-    "Tag": 1
+    "Tag": 1,
+    "Level": 4
   },
   "1101": {
     "Id": 1101,
@@ -420,7 +485,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "0.04",
     "Rarity": 4,
-    "Tag": 1
+    "Tag": 1,
+    "OverlockCount": 2,
+    "Level": 1
   },
   "1102": {
     "Id": 1102,
@@ -430,7 +497,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "0.05",
     "Rarity": 3,
-    "Tag": 1
+    "Tag": 1,
+    "OverlockCount": 2,
+    "Level": 2
   },
   "1103": {
     "Id": 1103,
@@ -440,7 +509,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "0.06",
     "Rarity": 2,
-    "Tag": 1
+    "Tag": 1,
+    "OverlockCount": 1,
+    "Level": 3
   },
   "1104": {
     "Id": 1104,
@@ -450,7 +521,8 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "0.12",
     "Rarity": 1,
-    "Tag": 1
+    "Tag": 1,
+    "Level": 4
   },
   "1201": {
     "Id": 1201,
@@ -460,7 +532,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "0.04",
     "Rarity": 4,
-    "Tag": 1
+    "Tag": 1,
+    "OverlockCount": 2,
+    "Level": 1
   },
   "1202": {
     "Id": 1202,
@@ -470,7 +544,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "0.05",
     "Rarity": 3,
-    "Tag": 1
+    "Tag": 1,
+    "OverlockCount": 2,
+    "Level": 2
   },
   "1203": {
     "Id": 1203,
@@ -480,7 +556,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "0.06",
     "Rarity": 2,
-    "Tag": 1
+    "Tag": 1,
+    "OverlockCount": 1,
+    "Level": 3
   },
   "1204": {
     "Id": 1204,
@@ -490,7 +568,8 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "0.12",
     "Rarity": 1,
-    "Tag": 1
+    "Tag": 1,
+    "Level": 4
   },
   "1301": {
     "Id": 1301,
@@ -500,7 +579,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "0.04",
     "Rarity": 4,
-    "Tag": 1
+    "Tag": 1,
+    "OverlockCount": 2,
+    "Level": 1
   },
   "1302": {
     "Id": 1302,
@@ -510,7 +591,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "0.05",
     "Rarity": 3,
-    "Tag": 1
+    "Tag": 1,
+    "OverlockCount": 2,
+    "Level": 2
   },
   "1303": {
     "Id": 1303,
@@ -520,7 +603,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "0.06",
     "Rarity": 2,
-    "Tag": 1
+    "Tag": 1,
+    "OverlockCount": 1,
+    "Level": 3
   },
   "1304": {
     "Id": 1304,
@@ -530,7 +615,8 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "0.12",
     "Rarity": 1,
-    "Tag": 1
+    "Tag": 1,
+    "Level": 4
   },
   "1401": {
     "Id": 1401,
@@ -540,7 +626,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "0.04",
     "Rarity": 4,
-    "Tag": 1
+    "Tag": 1,
+    "OverlockCount": 2,
+    "Level": 1
   },
   "1402": {
     "Id": 1402,
@@ -550,7 +638,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "0.05",
     "Rarity": 3,
-    "Tag": 1
+    "Tag": 1,
+    "OverlockCount": 2,
+    "Level": 2
   },
   "1403": {
     "Id": 1403,
@@ -560,7 +650,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "0.06",
     "Rarity": 2,
-    "Tag": 1
+    "Tag": 1,
+    "OverlockCount": 1,
+    "Level": 3
   },
   "1404": {
     "Id": 1404,
@@ -570,7 +662,8 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "0.12",
     "Rarity": 1,
-    "Tag": 1
+    "Tag": 1,
+    "Level": 4
   },
   "1501": {
     "Id": 1501,
@@ -580,7 +673,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "35",
     "Rarity": 4,
-    "Tag": 1
+    "Tag": 1,
+    "OverlockCount": 2,
+    "Level": 1
   },
   "1502": {
     "Id": 1502,
@@ -590,7 +685,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "40",
     "Rarity": 3,
-    "Tag": 1
+    "Tag": 1,
+    "OverlockCount": 2,
+    "Level": 2
   },
   "1503": {
     "Id": 1503,
@@ -600,7 +697,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "53",
     "Rarity": 2,
-    "Tag": 1
+    "Tag": 1,
+    "OverlockCount": 1,
+    "Level": 3
   },
   "1504": {
     "Id": 1504,
@@ -611,7 +710,8 @@
     "Value": "110",
     "Rarity": 1,
     "Tag": 1,
-    "Rare": true
+    "Rare": true,
+    "Level": 4
   },
   "1601": {
     "Id": 1601,
@@ -621,7 +721,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "35",
     "Rarity": 4,
-    "Tag": 1
+    "Tag": 1,
+    "OverlockCount": 2,
+    "Level": 1
   },
   "1602": {
     "Id": 1602,
@@ -631,7 +733,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "40",
     "Rarity": 3,
-    "Tag": 1
+    "Tag": 1,
+    "OverlockCount": 2,
+    "Level": 2
   },
   "1603": {
     "Id": 1603,
@@ -641,7 +745,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "53",
     "Rarity": 2,
-    "Tag": 1
+    "Tag": 1,
+    "OverlockCount": 1,
+    "Level": 3
   },
   "1604": {
     "Id": 1604,
@@ -652,7 +758,8 @@
     "Value": "110",
     "Rarity": 1,
     "Tag": 1,
-    "Rare": true
+    "Rare": true,
+    "Level": 4
   },
   "1701": {
     "Id": 1701,
@@ -662,7 +769,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "35",
     "Rarity": 4,
-    "Tag": 1
+    "Tag": 1,
+    "OverlockCount": 2,
+    "Level": 1
   },
   "1702": {
     "Id": 1702,
@@ -672,7 +781,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "40",
     "Rarity": 3,
-    "Tag": 1
+    "Tag": 1,
+    "OverlockCount": 2,
+    "Level": 2
   },
   "1703": {
     "Id": 1703,
@@ -682,7 +793,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "53",
     "Rarity": 2,
-    "Tag": 1
+    "Tag": 1,
+    "OverlockCount": 1,
+    "Level": 3
   },
   "1704": {
     "Id": 1704,
@@ -693,7 +806,8 @@
     "Value": "110",
     "Rarity": 1,
     "Tag": 1,
-    "Rare": true
+    "Rare": true,
+    "Level": 4
   },
   "1801": {
     "Id": 1801,
@@ -703,7 +817,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "35",
     "Rarity": 4,
-    "Tag": 1
+    "Tag": 1,
+    "OverlockCount": 2,
+    "Level": 1
   },
   "1802": {
     "Id": 1802,
@@ -713,7 +829,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "40",
     "Rarity": 3,
-    "Tag": 1
+    "Tag": 1,
+    "OverlockCount": 2,
+    "Level": 2
   },
   "1803": {
     "Id": 1803,
@@ -723,7 +841,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "53",
     "Rarity": 2,
-    "Tag": 1
+    "Tag": 1,
+    "OverlockCount": 1,
+    "Level": 3
   },
   "1804": {
     "Id": 1804,
@@ -734,7 +854,8 @@
     "Value": "110",
     "Rarity": 1,
     "Tag": 1,
-    "Rare": true
+    "Rare": true,
+    "Level": 4
   },
   "1901": {
     "Id": 1901,
@@ -744,7 +865,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "35",
     "Rarity": 4,
-    "Tag": 1
+    "Tag": 1,
+    "OverlockCount": 2,
+    "Level": 1
   },
   "1902": {
     "Id": 1902,
@@ -754,7 +877,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "40",
     "Rarity": 3,
-    "Tag": 1
+    "Tag": 1,
+    "OverlockCount": 2,
+    "Level": 2
   },
   "1903": {
     "Id": 1903,
@@ -764,7 +889,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "53",
     "Rarity": 2,
-    "Tag": 1
+    "Tag": 1,
+    "OverlockCount": 1,
+    "Level": 3
   },
   "1904": {
     "Id": 1904,
@@ -775,7 +902,8 @@
     "Value": "110",
     "Rarity": 1,
     "Tag": 1,
-    "Rare": true
+    "Rare": true,
+    "Level": 4
   },
   "2001": {
     "Id": 2001,
@@ -785,7 +913,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "35",
     "Rarity": 4,
-    "Tag": 1
+    "Tag": 1,
+    "OverlockCount": 2,
+    "Level": 1
   },
   "2002": {
     "Id": 2002,
@@ -795,7 +925,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "40",
     "Rarity": 3,
-    "Tag": 1
+    "Tag": 1,
+    "OverlockCount": 2,
+    "Level": 2
   },
   "2003": {
     "Id": 2003,
@@ -805,7 +937,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "53",
     "Rarity": 2,
-    "Tag": 1
+    "Tag": 1,
+    "OverlockCount": 1,
+    "Level": 3
   },
   "2004": {
     "Id": 2004,
@@ -816,7 +950,8 @@
     "Value": "110",
     "Rarity": 1,
     "Tag": 1,
-    "Rare": true
+    "Rare": true,
+    "Level": 4
   },
   "2101": {
     "Id": 2101,
@@ -826,7 +961,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "0.1",
     "Rarity": 4,
-    "Tag": 1
+    "Tag": 1,
+    "OverlockCount": 2,
+    "Level": 1
   },
   "2102": {
     "Id": 2102,
@@ -836,7 +973,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "0.125",
     "Rarity": 3,
-    "Tag": 1
+    "Tag": 1,
+    "OverlockCount": 2,
+    "Level": 2
   },
   "2103": {
     "Id": 2103,
@@ -846,7 +985,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "0.15",
     "Rarity": 2,
-    "Tag": 1
+    "Tag": 1,
+    "OverlockCount": 1,
+    "Level": 3
   },
   "2104": {
     "Id": 2104,
@@ -856,7 +997,8 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "0.3",
     "Rarity": 1,
-    "Tag": 1
+    "Tag": 1,
+    "Level": 4
   },
   "2201": {
     "Id": 2201,
@@ -866,7 +1008,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "0.07",
     "Rarity": 4,
-    "Tag": 1
+    "Tag": 1,
+    "OverlockCount": 2,
+    "Level": 1
   },
   "2202": {
     "Id": 2202,
@@ -876,7 +1020,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "0.08",
     "Rarity": 3,
-    "Tag": 1
+    "Tag": 1,
+    "OverlockCount": 2,
+    "Level": 2
   },
   "2203": {
     "Id": 2203,
@@ -886,7 +1032,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "0.1",
     "Rarity": 2,
-    "Tag": 1
+    "Tag": 1,
+    "OverlockCount": 1,
+    "Level": 3
   },
   "2204": {
     "Id": 2204,
@@ -896,7 +1044,8 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "0.2",
     "Rarity": 1,
-    "Tag": 1
+    "Tag": 1,
+    "Level": 4
   },
   "2301": {
     "Id": 2301,
@@ -906,7 +1055,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "0.1",
     "Rarity": 4,
-    "Tag": 1
+    "Tag": 1,
+    "OverlockCount": 2,
+    "Level": 1
   },
   "2302": {
     "Id": 2302,
@@ -916,7 +1067,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "0.13",
     "Rarity": 3,
-    "Tag": 1
+    "Tag": 1,
+    "OverlockCount": 2,
+    "Level": 2
   },
   "2303": {
     "Id": 2303,
@@ -926,7 +1079,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "0.15",
     "Rarity": 2,
-    "Tag": 1
+    "Tag": 1,
+    "OverlockCount": 1,
+    "Level": 3
   },
   "2304": {
     "Id": 2304,
@@ -936,7 +1091,8 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "0.3",
     "Rarity": 1,
-    "Tag": 1
+    "Tag": 1,
+    "Level": 4
   },
   "2401": {
     "Id": 2401,
@@ -946,7 +1102,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "0.27",
     "Rarity": 4,
-    "Tag": 1
+    "Tag": 1,
+    "OverlockCount": 2,
+    "Level": 1
   },
   "2402": {
     "Id": 2402,
@@ -956,7 +1114,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "0.33",
     "Rarity": 3,
-    "Tag": 1
+    "Tag": 1,
+    "OverlockCount": 2,
+    "Level": 2
   },
   "2403": {
     "Id": 2403,
@@ -966,7 +1126,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "0.4",
     "Rarity": 2,
-    "Tag": 1
+    "Tag": 1,
+    "OverlockCount": 1,
+    "Level": 3
   },
   "2404": {
     "Id": 2404,
@@ -976,7 +1138,8 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "0.8",
     "Rarity": 1,
-    "Tag": 1
+    "Tag": 1,
+    "Level": 4
   },
   "2501": {
     "Id": 2501,
@@ -986,7 +1149,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "0.07",
     "Rarity": 4,
-    "Tag": 1
+    "Tag": 1,
+    "OverlockCount": 2,
+    "Level": 1
   },
   "2502": {
     "Id": 2502,
@@ -996,7 +1161,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "0.08",
     "Rarity": 3,
-    "Tag": 1
+    "Tag": 1,
+    "OverlockCount": 2,
+    "Level": 2
   },
   "2503": {
     "Id": 2503,
@@ -1006,7 +1173,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "0.1",
     "Rarity": 2,
-    "Tag": 1
+    "Tag": 1,
+    "OverlockCount": 1,
+    "Level": 3
   },
   "2504": {
     "Id": 2504,
@@ -1016,7 +1185,8 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "0.2",
     "Rarity": 1,
-    "Tag": 1
+    "Tag": 1,
+    "Level": 4
   },
   "2601": {
     "Id": 2601,
@@ -1026,7 +1196,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "0.07",
     "Rarity": 4,
-    "Tag": 1
+    "Tag": 1,
+    "OverlockCount": 2,
+    "Level": 1
   },
   "2602": {
     "Id": 2602,
@@ -1036,7 +1208,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "0.08",
     "Rarity": 3,
-    "Tag": 1
+    "Tag": 1,
+    "OverlockCount": 2,
+    "Level": 2
   },
   "2603": {
     "Id": 2603,
@@ -1046,7 +1220,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "0.1",
     "Rarity": 2,
-    "Tag": 1
+    "Tag": 1,
+    "OverlockCount": 1,
+    "Level": 3
   },
   "2604": {
     "Id": 2604,
@@ -1056,7 +1232,8 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "0.2",
     "Rarity": 1,
-    "Tag": 1
+    "Tag": 1,
+    "Level": 4
   },
   "2701": {
     "Id": 2701,
@@ -1066,7 +1243,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "0.1",
     "Rarity": 4,
-    "Tag": 1
+    "Tag": 1,
+    "OverlockCount": 2,
+    "Level": 1
   },
   "2702": {
     "Id": 2702,
@@ -1076,7 +1255,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "0.125",
     "Rarity": 3,
-    "Tag": 1
+    "Tag": 1,
+    "OverlockCount": 2,
+    "Level": 2
   },
   "2703": {
     "Id": 2703,
@@ -1086,7 +1267,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "0.15",
     "Rarity": 2,
-    "Tag": 1
+    "Tag": 1,
+    "OverlockCount": 1,
+    "Level": 3
   },
   "2704": {
     "Id": 2704,
@@ -1096,7 +1279,8 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "0.3",
     "Rarity": 1,
-    "Tag": 1
+    "Tag": 1,
+    "Level": 4
   },
   "2801": {
     "Id": 2801,
@@ -1105,7 +1289,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "0.135",
     "Rarity": 4,
-    "Tag": 1
+    "Tag": 1,
+    "OverlockCount": 2,
+    "Level": 1
   },
   "2802": {
     "Id": 2802,
@@ -1114,7 +1300,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "0.17",
     "Rarity": 3,
-    "Tag": 1
+    "Tag": 1,
+    "OverlockCount": 2,
+    "Level": 2
   },
   "2803": {
     "Id": 2803,
@@ -1123,7 +1311,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "0.203",
     "Rarity": 2,
-    "Tag": 1
+    "Tag": 1,
+    "OverlockCount": 1,
+    "Level": 3
   },
   "2804": {
     "Id": 2804,
@@ -1132,7 +1322,8 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "0.4",
     "Rarity": 1,
-    "Tag": 1
+    "Tag": 1,
+    "Level": 4
   },
   "2901": {
     "Id": 2901,
@@ -1142,7 +1333,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "0.05",
     "Rarity": 4,
-    "Tag": 1
+    "Tag": 1,
+    "OverlockCount": 2,
+    "Level": 1
   },
   "2902": {
     "Id": 2902,
@@ -1152,7 +1345,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "0.063",
     "Rarity": 3,
-    "Tag": 1
+    "Tag": 1,
+    "OverlockCount": 1,
+    "Level": 2
   },
   "2903": {
     "Id": 2903,
@@ -1162,7 +1357,8 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "0.075",
     "Rarity": 2,
-    "Tag": 1
+    "Tag": 1,
+    "Level": 3
   },
   "2904": {
     "Id": 2904,
@@ -1172,7 +1368,8 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "0.15",
     "Rarity": 1,
-    "Tag": 1
+    "Tag": 1,
+    "Level": 4
   },
   "3001": {
     "Id": 3001,
@@ -1182,7 +1379,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "0.05",
     "Rarity": 4,
-    "Tag": 1
+    "Tag": 1,
+    "OverlockCount": 2,
+    "Level": 1
   },
   "3002": {
     "Id": 3002,
@@ -1192,7 +1391,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "0.063",
     "Rarity": 3,
-    "Tag": 1
+    "Tag": 1,
+    "OverlockCount": 1,
+    "Level": 2
   },
   "3003": {
     "Id": 3003,
@@ -1202,7 +1403,8 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "0.075",
     "Rarity": 2,
-    "Tag": 1
+    "Tag": 1,
+    "Level": 3
   },
   "3004": {
     "Id": 3004,
@@ -1212,7 +1414,8 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "0.15",
     "Rarity": 1,
-    "Tag": 1
+    "Tag": 1,
+    "Level": 4
   },
   "3101": {
     "Id": 3101,
@@ -1222,7 +1425,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "0.05",
     "Rarity": 4,
-    "Tag": 1
+    "Tag": 1,
+    "OverlockCount": 2,
+    "Level": 1
   },
   "3102": {
     "Id": 3102,
@@ -1232,7 +1437,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "0.063",
     "Rarity": 3,
-    "Tag": 1
+    "Tag": 1,
+    "OverlockCount": 1,
+    "Level": 2
   },
   "3103": {
     "Id": 3103,
@@ -1242,7 +1449,8 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "0.075",
     "Rarity": 2,
-    "Tag": 1
+    "Tag": 1,
+    "Level": 3
   },
   "3104": {
     "Id": 3104,
@@ -1252,7 +1460,8 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "0.15",
     "Rarity": 1,
-    "Tag": 1
+    "Tag": 1,
+    "Level": 4
   },
   "3201": {
     "Id": 3201,
@@ -1262,7 +1471,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "0.05",
     "Rarity": 4,
-    "Tag": 1
+    "Tag": 1,
+    "OverlockCount": 2,
+    "Level": 1
   },
   "3202": {
     "Id": 3202,
@@ -1272,7 +1483,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "0.063",
     "Rarity": 3,
-    "Tag": 1
+    "Tag": 1,
+    "OverlockCount": 1,
+    "Level": 2
   },
   "3203": {
     "Id": 3203,
@@ -1282,7 +1495,8 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "0.075",
     "Rarity": 2,
-    "Tag": 1
+    "Tag": 1,
+    "Level": 3
   },
   "3204": {
     "Id": 3204,
@@ -1292,7 +1506,8 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "0.15",
     "Rarity": 1,
-    "Tag": 1
+    "Tag": 1,
+    "Level": 4
   },
   "3301": {
     "Id": 3301,
@@ -1302,7 +1517,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "0.05",
     "Rarity": 4,
-    "Tag": 1
+    "Tag": 1,
+    "OverlockCount": 2,
+    "Level": 1
   },
   "3302": {
     "Id": 3302,
@@ -1312,7 +1529,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "0.063",
     "Rarity": 3,
-    "Tag": 1
+    "Tag": 1,
+    "OverlockCount": 1,
+    "Level": 2
   },
   "3303": {
     "Id": 3303,
@@ -1322,7 +1541,8 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "0.075",
     "Rarity": 2,
-    "Tag": 1
+    "Tag": 1,
+    "Level": 3
   },
   "3304": {
     "Id": 3304,
@@ -1332,7 +1552,8 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "0.15",
     "Rarity": 1,
-    "Tag": 1
+    "Tag": 1,
+    "Level": 4
   },
   "3401": {
     "Id": 3401,
@@ -1342,7 +1563,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "0.05",
     "Rarity": 4,
-    "Tag": 1
+    "Tag": 1,
+    "OverlockCount": 2,
+    "Level": 1
   },
   "3402": {
     "Id": 3402,
@@ -1352,7 +1575,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "0.063",
     "Rarity": 3,
-    "Tag": 1
+    "Tag": 1,
+    "OverlockCount": 1,
+    "Level": 2
   },
   "3403": {
     "Id": 3403,
@@ -1362,7 +1587,8 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "0.075",
     "Rarity": 2,
-    "Tag": 1
+    "Tag": 1,
+    "Level": 3
   },
   "3404": {
     "Id": 3404,
@@ -1372,7 +1598,8 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "0.15",
     "Rarity": 1,
-    "Tag": 1
+    "Tag": 1,
+    "Level": 4
   },
   "3501": {
     "Id": 3501,
@@ -1382,7 +1609,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "1",
     "Rarity": 2,
-    "Tag": 2
+    "Tag": 2,
+    "OverlockCount": 2,
+    "Level": 1
   },
   "3502": {
     "Id": 3502,
@@ -1392,7 +1621,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "2",
     "Rarity": 1,
-    "Tag": 2
+    "Tag": 2,
+    "OverlockCount": 1,
+    "Level": 2
   },
   "3503": {
     "Id": 3503,
@@ -1403,7 +1634,8 @@
     "Value": "3",
     "Rarity": 1,
     "Tag": 2,
-    "Rare": true
+    "Rare": true,
+    "Level": 3
   },
   "3601": {
     "Id": 3601,
@@ -1413,7 +1645,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "1",
     "Rarity": 2,
-    "Tag": 2
+    "Tag": 2,
+    "OverlockCount": 2,
+    "Level": 1
   },
   "3602": {
     "Id": 3602,
@@ -1423,7 +1657,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "2",
     "Rarity": 1,
-    "Tag": 2
+    "Tag": 2,
+    "OverlockCount": 1,
+    "Level": 2
   },
   "3603": {
     "Id": 3603,
@@ -1434,7 +1670,8 @@
     "Value": "3",
     "Rarity": 1,
     "Tag": 2,
-    "Rare": true
+    "Rare": true,
+    "Level": 3
   },
   "3701": {
     "Id": 3701,
@@ -1444,7 +1681,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "1",
     "Rarity": 2,
-    "Tag": 2
+    "Tag": 2,
+    "OverlockCount": 2,
+    "Level": 1
   },
   "3702": {
     "Id": 3702,
@@ -1454,7 +1693,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "2",
     "Rarity": 1,
-    "Tag": 2
+    "Tag": 2,
+    "OverlockCount": 1,
+    "Level": 2
   },
   "3703": {
     "Id": 3703,
@@ -1465,7 +1706,8 @@
     "Value": "3",
     "Rarity": 1,
     "Tag": 2,
-    "Rare": true
+    "Rare": true,
+    "Level": 3
   },
   "3801": {
     "Id": 3801,
@@ -1475,7 +1717,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "1",
     "Rarity": 2,
-    "Tag": 2
+    "Tag": 2,
+    "OverlockCount": 2,
+    "Level": 1
   },
   "3802": {
     "Id": 3802,
@@ -1485,7 +1729,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "2",
     "Rarity": 1,
-    "Tag": 2
+    "Tag": 2,
+    "OverlockCount": 1,
+    "Level": 2
   },
   "3803": {
     "Id": 3803,
@@ -1496,7 +1742,8 @@
     "Value": "3",
     "Rarity": 1,
     "Tag": 2,
-    "Rare": true
+    "Rare": true,
+    "Level": 3
   },
   "3901": {
     "Id": 3901,
@@ -1506,7 +1753,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "1",
     "Rarity": 2,
-    "Tag": 3
+    "Tag": 3,
+    "OverlockCount": 2,
+    "Level": 1
   },
   "3902": {
     "Id": 3902,
@@ -1516,7 +1765,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "2",
     "Rarity": 1,
-    "Tag": 3
+    "Tag": 3,
+    "OverlockCount": 1,
+    "Level": 2
   },
   "3903": {
     "Id": 3903,
@@ -1527,7 +1778,8 @@
     "Value": "3",
     "Rarity": 1,
     "Tag": 3,
-    "Rare": true
+    "Rare": true,
+    "Level": 3
   },
   "4001": {
     "Id": 4001,
@@ -1537,7 +1789,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "1",
     "Rarity": 2,
-    "Tag": 3
+    "Tag": 3,
+    "OverlockCount": 2,
+    "Level": 1
   },
   "4002": {
     "Id": 4002,
@@ -1547,7 +1801,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "2",
     "Rarity": 1,
-    "Tag": 3
+    "Tag": 3,
+    "OverlockCount": 1,
+    "Level": 2
   },
   "4003": {
     "Id": 4003,
@@ -1558,7 +1814,8 @@
     "Value": "3",
     "Rarity": 1,
     "Tag": 3,
-    "Rare": true
+    "Rare": true,
+    "Level": 3
   },
   "4101": {
     "Id": 4101,
@@ -1568,7 +1825,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "1",
     "Rarity": 2,
-    "Tag": 3
+    "Tag": 3,
+    "OverlockCount": 2,
+    "Level": 1
   },
   "4102": {
     "Id": 4102,
@@ -1578,7 +1837,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "2",
     "Rarity": 1,
-    "Tag": 3
+    "Tag": 3,
+    "OverlockCount": 1,
+    "Level": 2
   },
   "4103": {
     "Id": 4103,
@@ -1589,7 +1850,8 @@
     "Value": "3",
     "Rarity": 1,
     "Tag": 3,
-    "Rare": true
+    "Rare": true,
+    "Level": 3
   },
   "4201": {
     "Id": 4201,
@@ -1599,7 +1861,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "1",
     "Rarity": 2,
-    "Tag": 3
+    "Tag": 3,
+    "OverlockCount": 2,
+    "Level": 1
   },
   "4202": {
     "Id": 4202,
@@ -1609,7 +1873,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "2",
     "Rarity": 1,
-    "Tag": 3
+    "Tag": 3,
+    "OverlockCount": 1,
+    "Level": 2
   },
   "4203": {
     "Id": 4203,
@@ -1620,7 +1886,8 @@
     "Value": "3",
     "Rarity": 1,
     "Tag": 3,
-    "Rare": true
+    "Rare": true,
+    "Level": 3
   },
   "4301": {
     "Id": 4301,
@@ -1630,7 +1897,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "1",
     "Rarity": 2,
-    "Tag": 3
+    "Tag": 3,
+    "OverlockCount": 2,
+    "Level": 1
   },
   "4302": {
     "Id": 4302,
@@ -1640,7 +1909,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "2",
     "Rarity": 1,
-    "Tag": 3
+    "Tag": 3,
+    "OverlockCount": 1,
+    "Level": 2
   },
   "4303": {
     "Id": 4303,
@@ -1651,7 +1922,8 @@
     "Value": "3",
     "Rarity": 1,
     "Tag": 3,
-    "Rare": true
+    "Rare": true,
+    "Level": 3
   },
   "4401": {
     "Id": 4401,
@@ -1661,7 +1933,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "1",
     "Rarity": 2,
-    "Tag": 3
+    "Tag": 3,
+    "OverlockCount": 2,
+    "Level": 1
   },
   "4402": {
     "Id": 4402,
@@ -1671,7 +1945,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "2",
     "Rarity": 1,
-    "Tag": 3
+    "Tag": 3,
+    "OverlockCount": 1,
+    "Level": 2
   },
   "4403": {
     "Id": 4403,
@@ -1682,7 +1958,8 @@
     "Value": "3",
     "Rarity": 1,
     "Tag": 3,
-    "Rare": true
+    "Rare": true,
+    "Level": 3
   },
   "4501": {
     "Id": 4501,
@@ -1692,7 +1969,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "1",
     "Rarity": 2,
-    "Tag": 3
+    "Tag": 3,
+    "OverlockCount": 2,
+    "Level": 1
   },
   "4502": {
     "Id": 4502,
@@ -1702,7 +1981,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "2",
     "Rarity": 1,
-    "Tag": 3
+    "Tag": 3,
+    "OverlockCount": 1,
+    "Level": 2
   },
   "4503": {
     "Id": 4503,
@@ -1713,7 +1994,8 @@
     "Value": "3",
     "Rarity": 1,
     "Tag": 3,
-    "Rare": true
+    "Rare": true,
+    "Level": 3
   },
   "4601": {
     "Id": 4601,
@@ -1723,7 +2005,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "1",
     "Rarity": 2,
-    "Tag": 3
+    "Tag": 3,
+    "OverlockCount": 2,
+    "Level": 1
   },
   "4602": {
     "Id": 4602,
@@ -1733,7 +2017,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "2",
     "Rarity": 1,
-    "Tag": 3
+    "Tag": 3,
+    "OverlockCount": 1,
+    "Level": 2
   },
   "4603": {
     "Id": 4603,
@@ -1744,7 +2030,8 @@
     "Value": "3",
     "Rarity": 1,
     "Tag": 3,
-    "Rare": true
+    "Rare": true,
+    "Level": 3
   },
   "4701": {
     "Id": 4701,
@@ -1754,7 +2041,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "1",
     "Rarity": 2,
-    "Tag": 3
+    "Tag": 3,
+    "OverlockCount": 2,
+    "Level": 1
   },
   "4702": {
     "Id": 4702,
@@ -1764,7 +2053,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "2",
     "Rarity": 1,
-    "Tag": 3
+    "Tag": 3,
+    "OverlockCount": 1,
+    "Level": 2
   },
   "4703": {
     "Id": 4703,
@@ -1775,7 +2066,8 @@
     "Value": "3",
     "Rarity": 1,
     "Tag": 3,
-    "Rare": true
+    "Rare": true,
+    "Level": 3
   },
   "4801": {
     "Id": 4801,
@@ -1785,7 +2077,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "1",
     "Rarity": 2,
-    "Tag": 4
+    "Tag": 4,
+    "OverlockCount": 2,
+    "Level": 1
   },
   "4802": {
     "Id": 4802,
@@ -1795,7 +2089,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "2",
     "Rarity": 1,
-    "Tag": 4
+    "Tag": 4,
+    "OverlockCount": 1,
+    "Level": 2
   },
   "4803": {
     "Id": 4803,
@@ -1806,7 +2102,8 @@
     "Value": "3",
     "Rarity": 1,
     "Tag": 4,
-    "Rare": true
+    "Rare": true,
+    "Level": 3
   },
   "4901": {
     "Id": 4901,
@@ -1816,7 +2113,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "1",
     "Rarity": 2,
-    "Tag": 4
+    "Tag": 4,
+    "OverlockCount": 2,
+    "Level": 1
   },
   "4902": {
     "Id": 4902,
@@ -1826,7 +2125,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "2",
     "Rarity": 1,
-    "Tag": 4
+    "Tag": 4,
+    "OverlockCount": 1,
+    "Level": 2
   },
   "4903": {
     "Id": 4903,
@@ -1837,7 +2138,8 @@
     "Value": "3",
     "Rarity": 1,
     "Tag": 4,
-    "Rare": true
+    "Rare": true,
+    "Level": 3
   },
   "5001": {
     "Id": 5001,
@@ -1847,7 +2149,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "1",
     "Rarity": 2,
-    "Tag": 4
+    "Tag": 4,
+    "OverlockCount": 2,
+    "Level": 1
   },
   "5002": {
     "Id": 5002,
@@ -1857,7 +2161,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "2",
     "Rarity": 1,
-    "Tag": 4
+    "Tag": 4,
+    "OverlockCount": 1,
+    "Level": 2
   },
   "5003": {
     "Id": 5003,
@@ -1868,7 +2174,8 @@
     "Value": "3",
     "Rarity": 1,
     "Tag": 4,
-    "Rare": true
+    "Rare": true,
+    "Level": 3
   },
   "5101": {
     "Id": 5101,
@@ -1878,7 +2185,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "1",
     "Rarity": 2,
-    "Tag": 4
+    "Tag": 4,
+    "OverlockCount": 2,
+    "Level": 1
   },
   "5102": {
     "Id": 5102,
@@ -1888,7 +2197,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "2",
     "Rarity": 1,
-    "Tag": 4
+    "Tag": 4,
+    "OverlockCount": 1,
+    "Level": 2
   },
   "5103": {
     "Id": 5103,
@@ -1899,7 +2210,8 @@
     "Value": "3",
     "Rarity": 1,
     "Tag": 4,
-    "Rare": true
+    "Rare": true,
+    "Level": 3
   },
   "5201": {
     "Id": 5201,
@@ -1909,7 +2221,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "1",
     "Rarity": 2,
-    "Tag": 4
+    "Tag": 4,
+    "OverlockCount": 2,
+    "Level": 1
   },
   "5202": {
     "Id": 5202,
@@ -1919,7 +2233,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "2",
     "Rarity": 1,
-    "Tag": 4
+    "Tag": 4,
+    "OverlockCount": 1,
+    "Level": 2
   },
   "5203": {
     "Id": 5203,
@@ -1930,7 +2246,8 @@
     "Value": "3",
     "Rarity": 1,
     "Tag": 4,
-    "Rare": true
+    "Rare": true,
+    "Level": 3
   },
   "5301": {
     "Id": 5301,
@@ -1940,7 +2257,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "1",
     "Rarity": 2,
-    "Tag": 4
+    "Tag": 4,
+    "OverlockCount": 2,
+    "Level": 1
   },
   "5302": {
     "Id": 5302,
@@ -1950,7 +2269,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "2",
     "Rarity": 1,
-    "Tag": 4
+    "Tag": 4,
+    "OverlockCount": 1,
+    "Level": 2
   },
   "5303": {
     "Id": 5303,
@@ -1961,7 +2282,8 @@
     "Value": "3",
     "Rarity": 1,
     "Tag": 4,
-    "Rare": true
+    "Rare": true,
+    "Level": 3
   },
   "5401": {
     "Id": 5401,
@@ -1971,7 +2293,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "1",
     "Rarity": 2,
-    "Tag": 4
+    "Tag": 4,
+    "OverlockCount": 2,
+    "Level": 1
   },
   "5402": {
     "Id": 5402,
@@ -1981,7 +2305,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "2",
     "Rarity": 1,
-    "Tag": 4
+    "Tag": 4,
+    "OverlockCount": 1,
+    "Level": 2
   },
   "5403": {
     "Id": 5403,
@@ -1992,7 +2318,8 @@
     "Value": "3",
     "Rarity": 1,
     "Tag": 4,
-    "Rare": true
+    "Rare": true,
+    "Level": 3
   },
   "5501": {
     "Id": 5501,
@@ -2002,7 +2329,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "1",
     "Rarity": 2,
-    "Tag": 4
+    "Tag": 4,
+    "OverlockCount": 2,
+    "Level": 1
   },
   "5502": {
     "Id": 5502,
@@ -2012,7 +2341,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "2",
     "Rarity": 1,
-    "Tag": 4
+    "Tag": 4,
+    "OverlockCount": 1,
+    "Level": 2
   },
   "5503": {
     "Id": 5503,
@@ -2023,7 +2354,8 @@
     "Value": "3",
     "Rarity": 1,
     "Tag": 4,
-    "Rare": true
+    "Rare": true,
+    "Level": 3
   },
   "5601": {
     "Id": 5601,
@@ -2033,7 +2365,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "1",
     "Rarity": 2,
-    "Tag": 4
+    "Tag": 4,
+    "OverlockCount": 2,
+    "Level": 1
   },
   "5602": {
     "Id": 5602,
@@ -2043,7 +2377,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "2",
     "Rarity": 1,
-    "Tag": 4
+    "Tag": 4,
+    "OverlockCount": 1,
+    "Level": 2
   },
   "5603": {
     "Id": 5603,
@@ -2054,7 +2390,8 @@
     "Value": "3",
     "Rarity": 1,
     "Tag": 4,
-    "Rare": true
+    "Rare": true,
+    "Level": 3
   },
   "5701": {
     "Id": 5701,
@@ -2064,7 +2401,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "1",
     "Rarity": 2,
-    "Tag": 5
+    "Tag": 5,
+    "OverlockCount": 2,
+    "Level": 1
   },
   "5702": {
     "Id": 5702,
@@ -2074,7 +2413,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "2",
     "Rarity": 1,
-    "Tag": 5
+    "Tag": 5,
+    "OverlockCount": 1,
+    "Level": 2
   },
   "5703": {
     "Id": 5703,
@@ -2085,7 +2426,8 @@
     "Value": "3",
     "Rarity": 1,
     "Tag": 5,
-    "Rare": true
+    "Rare": true,
+    "Level": 3
   },
   "5801": {
     "Id": 5801,
@@ -2095,7 +2437,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "1",
     "Rarity": 2,
-    "Tag": 5
+    "Tag": 5,
+    "OverlockCount": 2,
+    "Level": 1
   },
   "5802": {
     "Id": 5802,
@@ -2105,7 +2449,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "2",
     "Rarity": 1,
-    "Tag": 5
+    "Tag": 5,
+    "OverlockCount": 1,
+    "Level": 2
   },
   "5803": {
     "Id": 5803,
@@ -2116,7 +2462,8 @@
     "Value": "3",
     "Rarity": 1,
     "Tag": 5,
-    "Rare": true
+    "Rare": true,
+    "Level": 3
   },
   "5901": {
     "Id": 5901,
@@ -2126,7 +2473,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "1",
     "Rarity": 2,
-    "Tag": 5
+    "Tag": 5,
+    "OverlockCount": 2,
+    "Level": 1
   },
   "5902": {
     "Id": 5902,
@@ -2136,7 +2485,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "2",
     "Rarity": 1,
-    "Tag": 5
+    "Tag": 5,
+    "OverlockCount": 1,
+    "Level": 2
   },
   "5903": {
     "Id": 5903,
@@ -2147,7 +2498,8 @@
     "Value": "3",
     "Rarity": 1,
     "Tag": 5,
-    "Rare": true
+    "Rare": true,
+    "Level": 3
   },
   "6001": {
     "Id": 6001,
@@ -2157,7 +2509,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "680",
     "Rarity": 4,
-    "Tag": 1
+    "Tag": 1,
+    "OverlockCount": 2,
+    "Level": 1
   },
   "6002": {
     "Id": 6002,
@@ -2167,7 +2521,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "850",
     "Rarity": 3,
-    "Tag": 1
+    "Tag": 1,
+    "OverlockCount": 1,
+    "Level": 2
   },
   "6003": {
     "Id": 6003,
@@ -2177,7 +2533,8 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "1020",
     "Rarity": 2,
-    "Tag": 1
+    "Tag": 1,
+    "Level": 3
   },
   "6004": {
     "Id": 6004,
@@ -2187,7 +2544,8 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "2040",
     "Rarity": 1,
-    "Tag": 1
+    "Tag": 1,
+    "Level": 4
   },
   "6101": {
     "Id": 6101,
@@ -2197,7 +2555,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "70",
     "Rarity": 4,
-    "Tag": 1
+    "Tag": 1,
+    "OverlockCount": 2,
+    "Level": 1
   },
   "6102": {
     "Id": 6102,
@@ -2207,7 +2567,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "88",
     "Rarity": 3,
-    "Tag": 1
+    "Tag": 1,
+    "OverlockCount": 1,
+    "Level": 2
   },
   "6103": {
     "Id": 6103,
@@ -2217,7 +2579,8 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "105",
     "Rarity": 2,
-    "Tag": 1
+    "Tag": 1,
+    "Level": 3
   },
   "6104": {
     "Id": 6104,
@@ -2227,7 +2590,8 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "210",
     "Rarity": 1,
-    "Tag": 1
+    "Tag": 1,
+    "Level": 4
   },
   "6201": {
     "Id": 6201,
@@ -2237,7 +2601,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "35",
     "Rarity": 4,
-    "Tag": 1
+    "Tag": 1,
+    "OverlockCount": 2,
+    "Level": 1
   },
   "6202": {
     "Id": 6202,
@@ -2247,7 +2613,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "44",
     "Rarity": 3,
-    "Tag": 1
+    "Tag": 1,
+    "OverlockCount": 1,
+    "Level": 2
   },
   "6203": {
     "Id": 6203,
@@ -2257,7 +2625,8 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "53",
     "Rarity": 2,
-    "Tag": 1
+    "Tag": 1,
+    "Level": 3
   },
   "6204": {
     "Id": 6204,
@@ -2267,7 +2636,8 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "105",
     "Rarity": 1,
-    "Tag": 1
+    "Tag": 1,
+    "Level": 4
   },
   "6301": {
     "Id": 6301,
@@ -2278,7 +2648,9 @@
     "Value": "0.04",
     "Rarity": 4,
     "Tag": 1,
-    "EffectId": 82011
+    "EffectId": 82011,
+    "OverlockCount": 2,
+    "Level": 1
   },
   "6302": {
     "Id": 6302,
@@ -2289,7 +2661,9 @@
     "Value": "0.05",
     "Rarity": 3,
     "Tag": 1,
-    "EffectId": 82012
+    "EffectId": 82012,
+    "OverlockCount": 2,
+    "Level": 2
   },
   "6303": {
     "Id": 6303,
@@ -2300,7 +2674,9 @@
     "Value": "0.06",
     "Rarity": 2,
     "Tag": 1,
-    "EffectId": 82013
+    "EffectId": 82013,
+    "OverlockCount": 1,
+    "Level": 3
   },
   "6304": {
     "Id": 6304,
@@ -2311,7 +2687,8 @@
     "Value": "0.12",
     "Rarity": 1,
     "Tag": 1,
-    "EffectId": 82014
+    "EffectId": 82014,
+    "Level": 4
   },
   "6401": {
     "Id": 6401,
@@ -2322,7 +2699,9 @@
     "Value": "0.04",
     "Rarity": 4,
     "Tag": 1,
-    "EffectId": 82021
+    "EffectId": 82021,
+    "OverlockCount": 2,
+    "Level": 1
   },
   "6402": {
     "Id": 6402,
@@ -2333,7 +2712,9 @@
     "Value": "0.05",
     "Rarity": 3,
     "Tag": 1,
-    "EffectId": 82022
+    "EffectId": 82022,
+    "OverlockCount": 2,
+    "Level": 2
   },
   "6403": {
     "Id": 6403,
@@ -2344,7 +2725,9 @@
     "Value": "0.06",
     "Rarity": 2,
     "Tag": 1,
-    "EffectId": 82023
+    "EffectId": 82023,
+    "OverlockCount": 1,
+    "Level": 3
   },
   "6404": {
     "Id": 6404,
@@ -2355,7 +2738,8 @@
     "Value": "0.12",
     "Rarity": 1,
     "Tag": 1,
-    "EffectId": 82024
+    "EffectId": 82024,
+    "Level": 4
   },
   "6501": {
     "Id": 6501,
@@ -2366,7 +2750,9 @@
     "Value": "0.1",
     "Rarity": 4,
     "Tag": 1,
-    "EffectId": 82031
+    "EffectId": 82031,
+    "OverlockCount": 2,
+    "Level": 1
   },
   "6502": {
     "Id": 6502,
@@ -2377,7 +2763,9 @@
     "Value": "0.125",
     "Rarity": 3,
     "Tag": 1,
-    "EffectId": 82032
+    "EffectId": 82032,
+    "OverlockCount": 1,
+    "Level": 2
   },
   "6503": {
     "Id": 6503,
@@ -2388,7 +2776,8 @@
     "Value": "0.15",
     "Rarity": 2,
     "Tag": 1,
-    "EffectId": 82033
+    "EffectId": 82033,
+    "Level": 3
   },
   "6504": {
     "Id": 6504,
@@ -2399,7 +2788,8 @@
     "Value": "0.3",
     "Rarity": 1,
     "Tag": 1,
-    "EffectId": 82034
+    "EffectId": 82034,
+    "Level": 4
   },
   "6601": {
     "Id": 6601,
@@ -2409,7 +2799,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "0.08",
     "Rarity": 4,
-    "Tag": 1
+    "Tag": 1,
+    "OverlockCount": 2,
+    "Level": 1
   },
   "6602": {
     "Id": 6602,
@@ -2419,7 +2811,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "0.1",
     "Rarity": 3,
-    "Tag": 1
+    "Tag": 1,
+    "OverlockCount": 1,
+    "Level": 2
   },
   "6603": {
     "Id": 6603,
@@ -2429,7 +2823,8 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "0.12",
     "Rarity": 2,
-    "Tag": 1
+    "Tag": 1,
+    "Level": 3
   },
   "6604": {
     "Id": 6604,
@@ -2439,7 +2834,8 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "0.24",
     "Rarity": 1,
-    "Tag": 1
+    "Tag": 1,
+    "Level": 4
   },
   "6701": {
     "Id": 6701,
@@ -2449,7 +2845,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "0.05",
     "Rarity": 4,
-    "Tag": 1
+    "Tag": 1,
+    "OverlockCount": 2,
+    "Level": 1
   },
   "6702": {
     "Id": 6702,
@@ -2459,7 +2857,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "0.063",
     "Rarity": 3,
-    "Tag": 1
+    "Tag": 1,
+    "OverlockCount": 2,
+    "Level": 2
   },
   "6703": {
     "Id": 6703,
@@ -2469,7 +2869,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "0.075",
     "Rarity": 2,
-    "Tag": 1
+    "Tag": 1,
+    "OverlockCount": 1,
+    "Level": 3
   },
   "6704": {
     "Id": 6704,
@@ -2480,7 +2882,8 @@
     "Value": "0.15",
     "Rarity": 1,
     "Tag": 1,
-    "Rare": true
+    "Rare": true,
+    "Level": 4
   },
   "6801": {
     "Id": 6801,
@@ -2490,7 +2893,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "0.04",
     "Rarity": 4,
-    "Tag": 1
+    "Tag": 1,
+    "OverlockCount": 2,
+    "Level": 1
   },
   "6802": {
     "Id": 6802,
@@ -2500,7 +2905,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "0.05",
     "Rarity": 3,
-    "Tag": 1
+    "Tag": 1,
+    "OverlockCount": 2,
+    "Level": 2
   },
   "6803": {
     "Id": 6803,
@@ -2510,7 +2917,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "0.06",
     "Rarity": 2,
-    "Tag": 1
+    "Tag": 1,
+    "OverlockCount": 1,
+    "Level": 3
   },
   "6804": {
     "Id": 6804,
@@ -2520,7 +2929,8 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "0.12",
     "Rarity": 1,
-    "Tag": 1
+    "Tag": 1,
+    "Level": 4
   },
   "6901": {
     "Id": 6901,
@@ -2530,7 +2940,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "0.04",
     "Rarity": 4,
-    "Tag": 1
+    "Tag": 1,
+    "OverlockCount": 2,
+    "Level": 1
   },
   "6902": {
     "Id": 6902,
@@ -2540,7 +2952,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "0.05",
     "Rarity": 3,
-    "Tag": 1
+    "Tag": 1,
+    "OverlockCount": 2,
+    "Level": 2
   },
   "6903": {
     "Id": 6903,
@@ -2550,7 +2964,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "0.06",
     "Rarity": 2,
-    "Tag": 1
+    "Tag": 1,
+    "OverlockCount": 1,
+    "Level": 3
   },
   "6904": {
     "Id": 6904,
@@ -2560,7 +2976,8 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "0.12",
     "Rarity": 1,
-    "Tag": 1
+    "Tag": 1,
+    "Level": 4
   },
   "7001": {
     "Id": 7001,
@@ -2570,7 +2987,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "0.04",
     "Rarity": 4,
-    "Tag": 1
+    "Tag": 1,
+    "OverlockCount": 2,
+    "Level": 1
   },
   "7002": {
     "Id": 7002,
@@ -2580,7 +2999,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "0.05",
     "Rarity": 3,
-    "Tag": 1
+    "Tag": 1,
+    "OverlockCount": 2,
+    "Level": 2
   },
   "7003": {
     "Id": 7003,
@@ -2590,7 +3011,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "0.06",
     "Rarity": 2,
-    "Tag": 1
+    "Tag": 1,
+    "OverlockCount": 1,
+    "Level": 3
   },
   "7004": {
     "Id": 7004,
@@ -2600,7 +3023,8 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "0.12",
     "Rarity": 1,
-    "Tag": 1
+    "Tag": 1,
+    "Level": 4
   },
   "7101": {
     "Id": 7101,
@@ -2610,7 +3034,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "0.04",
     "Rarity": 4,
-    "Tag": 1
+    "Tag": 1,
+    "OverlockCount": 2,
+    "Level": 1
   },
   "7102": {
     "Id": 7102,
@@ -2620,7 +3046,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "0.05",
     "Rarity": 3,
-    "Tag": 1
+    "Tag": 1,
+    "OverlockCount": 2,
+    "Level": 2
   },
   "7103": {
     "Id": 7103,
@@ -2630,7 +3058,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "0.06",
     "Rarity": 2,
-    "Tag": 1
+    "Tag": 1,
+    "OverlockCount": 1,
+    "Level": 3
   },
   "7104": {
     "Id": 7104,
@@ -2640,7 +3070,8 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "0.12",
     "Rarity": 1,
-    "Tag": 1
+    "Tag": 1,
+    "Level": 4
   },
   "7201": {
     "Id": 7201,
@@ -2650,7 +3081,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "0.04",
     "Rarity": 4,
-    "Tag": 1
+    "Tag": 1,
+    "OverlockCount": 2,
+    "Level": 1
   },
   "7202": {
     "Id": 7202,
@@ -2660,7 +3093,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "0.05",
     "Rarity": 3,
-    "Tag": 1
+    "Tag": 1,
+    "OverlockCount": 2,
+    "Level": 2
   },
   "7203": {
     "Id": 7203,
@@ -2670,7 +3105,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "0.06",
     "Rarity": 2,
-    "Tag": 1
+    "Tag": 1,
+    "OverlockCount": 1,
+    "Level": 3
   },
   "7204": {
     "Id": 7204,
@@ -2680,7 +3117,8 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "0.12",
     "Rarity": 1,
-    "Tag": 1
+    "Tag": 1,
+    "Level": 4
   },
   "7301": {
     "Id": 7301,
@@ -2690,7 +3128,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "0.04",
     "Rarity": 4,
-    "Tag": 1
+    "Tag": 1,
+    "OverlockCount": 2,
+    "Level": 1
   },
   "7302": {
     "Id": 7302,
@@ -2700,7 +3140,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "0.05",
     "Rarity": 3,
-    "Tag": 1
+    "Tag": 1,
+    "OverlockCount": 2,
+    "Level": 2
   },
   "7303": {
     "Id": 7303,
@@ -2710,7 +3152,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "0.06",
     "Rarity": 2,
-    "Tag": 1
+    "Tag": 1,
+    "OverlockCount": 1,
+    "Level": 3
   },
   "7304": {
     "Id": 7304,
@@ -2720,7 +3164,8 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "0.12",
     "Rarity": 1,
-    "Tag": 1
+    "Tag": 1,
+    "Level": 4
   },
   "7401": {
     "Id": 7401,
@@ -2730,7 +3175,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "35",
     "Rarity": 4,
-    "Tag": 1
+    "Tag": 1,
+    "OverlockCount": 2,
+    "Level": 1
   },
   "7402": {
     "Id": 7402,
@@ -2740,7 +3187,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "40",
     "Rarity": 3,
-    "Tag": 1
+    "Tag": 1,
+    "OverlockCount": 2,
+    "Level": 2
   },
   "7403": {
     "Id": 7403,
@@ -2750,7 +3199,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "53",
     "Rarity": 2,
-    "Tag": 1
+    "Tag": 1,
+    "OverlockCount": 1,
+    "Level": 3
   },
   "7404": {
     "Id": 7404,
@@ -2761,7 +3212,8 @@
     "Value": "110",
     "Rarity": 1,
     "Tag": 1,
-    "Rare": true
+    "Rare": true,
+    "Level": 4
   },
   "7501": {
     "Id": 7501,
@@ -2771,7 +3223,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "35",
     "Rarity": 4,
-    "Tag": 1
+    "Tag": 1,
+    "OverlockCount": 2,
+    "Level": 1
   },
   "7502": {
     "Id": 7502,
@@ -2781,7 +3235,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "40",
     "Rarity": 3,
-    "Tag": 1
+    "Tag": 1,
+    "OverlockCount": 2,
+    "Level": 2
   },
   "7503": {
     "Id": 7503,
@@ -2791,7 +3247,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "53",
     "Rarity": 2,
-    "Tag": 1
+    "Tag": 1,
+    "OverlockCount": 1,
+    "Level": 3
   },
   "7504": {
     "Id": 7504,
@@ -2802,7 +3260,8 @@
     "Value": "110",
     "Rarity": 1,
     "Tag": 1,
-    "Rare": true
+    "Rare": true,
+    "Level": 4
   },
   "7601": {
     "Id": 7601,
@@ -2812,7 +3271,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "35",
     "Rarity": 4,
-    "Tag": 1
+    "Tag": 1,
+    "OverlockCount": 2,
+    "Level": 1
   },
   "7602": {
     "Id": 7602,
@@ -2822,7 +3283,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "40",
     "Rarity": 3,
-    "Tag": 1
+    "Tag": 1,
+    "OverlockCount": 2,
+    "Level": 2
   },
   "7603": {
     "Id": 7603,
@@ -2832,7 +3295,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "53",
     "Rarity": 2,
-    "Tag": 1
+    "Tag": 1,
+    "OverlockCount": 1,
+    "Level": 3
   },
   "7604": {
     "Id": 7604,
@@ -2843,7 +3308,8 @@
     "Value": "110",
     "Rarity": 1,
     "Tag": 1,
-    "Rare": true
+    "Rare": true,
+    "Level": 4
   },
   "7701": {
     "Id": 7701,
@@ -2853,7 +3319,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "35",
     "Rarity": 4,
-    "Tag": 1
+    "Tag": 1,
+    "OverlockCount": 2,
+    "Level": 1
   },
   "7702": {
     "Id": 7702,
@@ -2863,7 +3331,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "40",
     "Rarity": 3,
-    "Tag": 1
+    "Tag": 1,
+    "OverlockCount": 2,
+    "Level": 2
   },
   "7703": {
     "Id": 7703,
@@ -2873,7 +3343,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "53",
     "Rarity": 2,
-    "Tag": 1
+    "Tag": 1,
+    "OverlockCount": 1,
+    "Level": 3
   },
   "7704": {
     "Id": 7704,
@@ -2884,7 +3356,8 @@
     "Value": "110",
     "Rarity": 1,
     "Tag": 1,
-    "Rare": true
+    "Rare": true,
+    "Level": 4
   },
   "7801": {
     "Id": 7801,
@@ -2894,7 +3367,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "35",
     "Rarity": 4,
-    "Tag": 1
+    "Tag": 1,
+    "OverlockCount": 2,
+    "Level": 1
   },
   "7802": {
     "Id": 7802,
@@ -2904,7 +3379,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "40",
     "Rarity": 3,
-    "Tag": 1
+    "Tag": 1,
+    "OverlockCount": 2,
+    "Level": 2
   },
   "7803": {
     "Id": 7803,
@@ -2914,7 +3391,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "53",
     "Rarity": 2,
-    "Tag": 1
+    "Tag": 1,
+    "OverlockCount": 1,
+    "Level": 3
   },
   "7804": {
     "Id": 7804,
@@ -2925,7 +3404,8 @@
     "Value": "110",
     "Rarity": 1,
     "Tag": 1,
-    "Rare": true
+    "Rare": true,
+    "Level": 4
   },
   "7901": {
     "Id": 7901,
@@ -2935,7 +3415,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "35",
     "Rarity": 4,
-    "Tag": 1
+    "Tag": 1,
+    "OverlockCount": 2,
+    "Level": 1
   },
   "7902": {
     "Id": 7902,
@@ -2945,7 +3427,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "40",
     "Rarity": 3,
-    "Tag": 1
+    "Tag": 1,
+    "OverlockCount": 2,
+    "Level": 2
   },
   "7903": {
     "Id": 7903,
@@ -2955,7 +3439,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "53",
     "Rarity": 2,
-    "Tag": 1
+    "Tag": 1,
+    "OverlockCount": 1,
+    "Level": 3
   },
   "7904": {
     "Id": 7904,
@@ -2966,7 +3452,8 @@
     "Value": "110",
     "Rarity": 1,
     "Tag": 1,
-    "Rare": true
+    "Rare": true,
+    "Level": 4
   },
   "8001": {
     "Id": 8001,
@@ -2976,7 +3463,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "0.1",
     "Rarity": 4,
-    "Tag": 1
+    "Tag": 1,
+    "OverlockCount": 2,
+    "Level": 1
   },
   "8002": {
     "Id": 8002,
@@ -2986,7 +3475,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "0.125",
     "Rarity": 3,
-    "Tag": 1
+    "Tag": 1,
+    "OverlockCount": 2,
+    "Level": 2
   },
   "8003": {
     "Id": 8003,
@@ -2996,7 +3487,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "0.15",
     "Rarity": 2,
-    "Tag": 1
+    "Tag": 1,
+    "OverlockCount": 1,
+    "Level": 3
   },
   "8004": {
     "Id": 8004,
@@ -3006,7 +3499,8 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "0.3",
     "Rarity": 1,
-    "Tag": 1
+    "Tag": 1,
+    "Level": 4
   },
   "8101": {
     "Id": 8101,
@@ -3016,7 +3510,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "0.07",
     "Rarity": 4,
-    "Tag": 1
+    "Tag": 1,
+    "OverlockCount": 2,
+    "Level": 1
   },
   "8102": {
     "Id": 8102,
@@ -3026,7 +3522,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "0.08",
     "Rarity": 3,
-    "Tag": 1
+    "Tag": 1,
+    "OverlockCount": 2,
+    "Level": 2
   },
   "8103": {
     "Id": 8103,
@@ -3036,7 +3534,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "0.1",
     "Rarity": 2,
-    "Tag": 1
+    "Tag": 1,
+    "OverlockCount": 1,
+    "Level": 3
   },
   "8104": {
     "Id": 8104,
@@ -3046,7 +3546,8 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "0.2",
     "Rarity": 1,
-    "Tag": 1
+    "Tag": 1,
+    "Level": 4
   },
   "8201": {
     "Id": 8201,
@@ -3056,7 +3557,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "0.1",
     "Rarity": 4,
-    "Tag": 1
+    "Tag": 1,
+    "OverlockCount": 2,
+    "Level": 1
   },
   "8202": {
     "Id": 8202,
@@ -3066,7 +3569,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "0.13",
     "Rarity": 3,
-    "Tag": 1
+    "Tag": 1,
+    "OverlockCount": 2,
+    "Level": 2
   },
   "8203": {
     "Id": 8203,
@@ -3076,7 +3581,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "0.15",
     "Rarity": 2,
-    "Tag": 1
+    "Tag": 1,
+    "OverlockCount": 1,
+    "Level": 3
   },
   "8204": {
     "Id": 8204,
@@ -3086,7 +3593,8 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "0.3",
     "Rarity": 1,
-    "Tag": 1
+    "Tag": 1,
+    "Level": 4
   },
   "8301": {
     "Id": 8301,
@@ -3096,7 +3604,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "0.27",
     "Rarity": 4,
-    "Tag": 1
+    "Tag": 1,
+    "OverlockCount": 2,
+    "Level": 1
   },
   "8302": {
     "Id": 8302,
@@ -3106,7 +3616,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "0.33",
     "Rarity": 3,
-    "Tag": 1
+    "Tag": 1,
+    "OverlockCount": 2,
+    "Level": 2
   },
   "8303": {
     "Id": 8303,
@@ -3116,7 +3628,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "0.4",
     "Rarity": 2,
-    "Tag": 1
+    "Tag": 1,
+    "OverlockCount": 1,
+    "Level": 3
   },
   "8304": {
     "Id": 8304,
@@ -3126,7 +3640,8 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "0.8",
     "Rarity": 1,
-    "Tag": 1
+    "Tag": 1,
+    "Level": 4
   },
   "8401": {
     "Id": 8401,
@@ -3136,7 +3651,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "0.07",
     "Rarity": 4,
-    "Tag": 1
+    "Tag": 1,
+    "OverlockCount": 2,
+    "Level": 1
   },
   "8402": {
     "Id": 8402,
@@ -3146,7 +3663,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "0.08",
     "Rarity": 3,
-    "Tag": 1
+    "Tag": 1,
+    "OverlockCount": 2,
+    "Level": 2
   },
   "8403": {
     "Id": 8403,
@@ -3156,7 +3675,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "0.1",
     "Rarity": 2,
-    "Tag": 1
+    "Tag": 1,
+    "OverlockCount": 1,
+    "Level": 3
   },
   "8404": {
     "Id": 8404,
@@ -3166,7 +3687,8 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "0.2",
     "Rarity": 1,
-    "Tag": 1
+    "Tag": 1,
+    "Level": 4
   },
   "8501": {
     "Id": 8501,
@@ -3176,7 +3698,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "0.07",
     "Rarity": 4,
-    "Tag": 1
+    "Tag": 1,
+    "OverlockCount": 2,
+    "Level": 1
   },
   "8502": {
     "Id": 8502,
@@ -3186,7 +3710,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "0.08",
     "Rarity": 3,
-    "Tag": 1
+    "Tag": 1,
+    "OverlockCount": 2,
+    "Level": 2
   },
   "8503": {
     "Id": 8503,
@@ -3196,7 +3722,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "0.1",
     "Rarity": 2,
-    "Tag": 1
+    "Tag": 1,
+    "OverlockCount": 1,
+    "Level": 3
   },
   "8504": {
     "Id": 8504,
@@ -3206,7 +3734,8 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "0.2",
     "Rarity": 1,
-    "Tag": 1
+    "Tag": 1,
+    "Level": 4
   },
   "8601": {
     "Id": 8601,
@@ -3216,7 +3745,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "0.1",
     "Rarity": 4,
-    "Tag": 1
+    "Tag": 1,
+    "OverlockCount": 2,
+    "Level": 1
   },
   "8602": {
     "Id": 8602,
@@ -3226,7 +3757,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "0.125",
     "Rarity": 3,
-    "Tag": 1
+    "Tag": 1,
+    "OverlockCount": 2,
+    "Level": 2
   },
   "8603": {
     "Id": 8603,
@@ -3236,7 +3769,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "0.15",
     "Rarity": 2,
-    "Tag": 1
+    "Tag": 1,
+    "OverlockCount": 1,
+    "Level": 3
   },
   "8604": {
     "Id": 8604,
@@ -3246,7 +3781,8 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "0.3",
     "Rarity": 1,
-    "Tag": 1
+    "Tag": 1,
+    "Level": 4
   },
   "8701": {
     "Id": 8701,
@@ -3255,7 +3791,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "0.135",
     "Rarity": 4,
-    "Tag": 1
+    "Tag": 1,
+    "OverlockCount": 2,
+    "Level": 1
   },
   "8702": {
     "Id": 8702,
@@ -3264,7 +3802,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "0.17",
     "Rarity": 3,
-    "Tag": 1
+    "Tag": 1,
+    "OverlockCount": 2,
+    "Level": 2
   },
   "8703": {
     "Id": 8703,
@@ -3273,7 +3813,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "0.203",
     "Rarity": 2,
-    "Tag": 1
+    "Tag": 1,
+    "OverlockCount": 1,
+    "Level": 3
   },
   "8704": {
     "Id": 8704,
@@ -3282,7 +3824,8 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "0.4",
     "Rarity": 1,
-    "Tag": 1
+    "Tag": 1,
+    "Level": 4
   },
   "8801": {
     "Id": 8801,
@@ -3292,7 +3835,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "0.05",
     "Rarity": 4,
-    "Tag": 1
+    "Tag": 1,
+    "OverlockCount": 2,
+    "Level": 1
   },
   "8802": {
     "Id": 8802,
@@ -3302,7 +3847,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "0.063",
     "Rarity": 3,
-    "Tag": 1
+    "Tag": 1,
+    "OverlockCount": 1,
+    "Level": 2
   },
   "8803": {
     "Id": 8803,
@@ -3312,7 +3859,8 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "0.075",
     "Rarity": 2,
-    "Tag": 1
+    "Tag": 1,
+    "Level": 3
   },
   "8804": {
     "Id": 8804,
@@ -3322,7 +3870,8 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "0.15",
     "Rarity": 1,
-    "Tag": 1
+    "Tag": 1,
+    "Level": 4
   },
   "8901": {
     "Id": 8901,
@@ -3332,7 +3881,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "0.05",
     "Rarity": 4,
-    "Tag": 1
+    "Tag": 1,
+    "OverlockCount": 2,
+    "Level": 1
   },
   "8902": {
     "Id": 8902,
@@ -3342,7 +3893,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "0.063",
     "Rarity": 3,
-    "Tag": 1
+    "Tag": 1,
+    "OverlockCount": 1,
+    "Level": 2
   },
   "8903": {
     "Id": 8903,
@@ -3352,7 +3905,8 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "0.075",
     "Rarity": 2,
-    "Tag": 1
+    "Tag": 1,
+    "Level": 3
   },
   "8904": {
     "Id": 8904,
@@ -3362,7 +3916,8 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "0.15",
     "Rarity": 1,
-    "Tag": 1
+    "Tag": 1,
+    "Level": 4
   },
   "9001": {
     "Id": 9001,
@@ -3372,7 +3927,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "0.05",
     "Rarity": 4,
-    "Tag": 1
+    "Tag": 1,
+    "OverlockCount": 2,
+    "Level": 1
   },
   "9002": {
     "Id": 9002,
@@ -3382,7 +3939,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "0.063",
     "Rarity": 3,
-    "Tag": 1
+    "Tag": 1,
+    "OverlockCount": 1,
+    "Level": 2
   },
   "9003": {
     "Id": 9003,
@@ -3392,7 +3951,8 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "0.075",
     "Rarity": 2,
-    "Tag": 1
+    "Tag": 1,
+    "Level": 3
   },
   "9004": {
     "Id": 9004,
@@ -3402,7 +3962,8 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "0.15",
     "Rarity": 1,
-    "Tag": 1
+    "Tag": 1,
+    "Level": 4
   },
   "9101": {
     "Id": 9101,
@@ -3412,7 +3973,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "0.05",
     "Rarity": 4,
-    "Tag": 1
+    "Tag": 1,
+    "OverlockCount": 2,
+    "Level": 1
   },
   "9102": {
     "Id": 9102,
@@ -3422,7 +3985,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "0.063",
     "Rarity": 3,
-    "Tag": 1
+    "Tag": 1,
+    "OverlockCount": 1,
+    "Level": 2
   },
   "9103": {
     "Id": 9103,
@@ -3432,7 +3997,8 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "0.075",
     "Rarity": 2,
-    "Tag": 1
+    "Tag": 1,
+    "Level": 3
   },
   "9104": {
     "Id": 9104,
@@ -3442,7 +4008,8 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "0.15",
     "Rarity": 1,
-    "Tag": 1
+    "Tag": 1,
+    "Level": 4
   },
   "9201": {
     "Id": 9201,
@@ -3452,7 +4019,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "0.05",
     "Rarity": 4,
-    "Tag": 1
+    "Tag": 1,
+    "OverlockCount": 2,
+    "Level": 1
   },
   "9202": {
     "Id": 9202,
@@ -3462,7 +4031,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "0.063",
     "Rarity": 3,
-    "Tag": 1
+    "Tag": 1,
+    "OverlockCount": 1,
+    "Level": 2
   },
   "9203": {
     "Id": 9203,
@@ -3472,7 +4043,8 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "0.075",
     "Rarity": 2,
-    "Tag": 1
+    "Tag": 1,
+    "Level": 3
   },
   "9204": {
     "Id": 9204,
@@ -3482,7 +4054,8 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "0.15",
     "Rarity": 1,
-    "Tag": 1
+    "Tag": 1,
+    "Level": 4
   },
   "9301": {
     "Id": 9301,
@@ -3492,7 +4065,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "0.05",
     "Rarity": 4,
-    "Tag": 1
+    "Tag": 1,
+    "OverlockCount": 2,
+    "Level": 1
   },
   "9302": {
     "Id": 9302,
@@ -3502,7 +4077,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "0.063",
     "Rarity": 3,
-    "Tag": 1
+    "Tag": 1,
+    "OverlockCount": 1,
+    "Level": 2
   },
   "9303": {
     "Id": 9303,
@@ -3512,7 +4089,8 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "0.075",
     "Rarity": 2,
-    "Tag": 1
+    "Tag": 1,
+    "Level": 3
   },
   "9304": {
     "Id": 9304,
@@ -3522,7 +4100,8 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "0.15",
     "Rarity": 1,
-    "Tag": 1
+    "Tag": 1,
+    "Level": 4
   },
   "9401": {
     "Id": 9401,
@@ -3532,7 +4111,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "680",
     "Rarity": 4,
-    "Tag": 1
+    "Tag": 1,
+    "OverlockCount": 2,
+    "Level": 1
   },
   "9402": {
     "Id": 9402,
@@ -3542,7 +4123,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "850",
     "Rarity": 3,
-    "Tag": 1
+    "Tag": 1,
+    "OverlockCount": 1,
+    "Level": 2
   },
   "9403": {
     "Id": 9403,
@@ -3552,7 +4135,8 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "1020",
     "Rarity": 2,
-    "Tag": 1
+    "Tag": 1,
+    "Level": 3
   },
   "9404": {
     "Id": 9404,
@@ -3562,7 +4146,8 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "2040",
     "Rarity": 1,
-    "Tag": 1
+    "Tag": 1,
+    "Level": 4
   },
   "9501": {
     "Id": 9501,
@@ -3572,7 +4157,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "70",
     "Rarity": 4,
-    "Tag": 1
+    "Tag": 1,
+    "OverlockCount": 2,
+    "Level": 1
   },
   "9502": {
     "Id": 9502,
@@ -3582,7 +4169,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "88",
     "Rarity": 3,
-    "Tag": 1
+    "Tag": 1,
+    "OverlockCount": 1,
+    "Level": 2
   },
   "9503": {
     "Id": 9503,
@@ -3592,7 +4181,8 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "105",
     "Rarity": 2,
-    "Tag": 1
+    "Tag": 1,
+    "Level": 3
   },
   "9504": {
     "Id": 9504,
@@ -3602,7 +4192,8 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "210",
     "Rarity": 1,
-    "Tag": 1
+    "Tag": 1,
+    "Level": 4
   },
   "9601": {
     "Id": 9601,
@@ -3612,7 +4203,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "35",
     "Rarity": 4,
-    "Tag": 1
+    "Tag": 1,
+    "OverlockCount": 2,
+    "Level": 1
   },
   "9602": {
     "Id": 9602,
@@ -3622,7 +4215,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "44",
     "Rarity": 3,
-    "Tag": 1
+    "Tag": 1,
+    "OverlockCount": 1,
+    "Level": 2
   },
   "9603": {
     "Id": 9603,
@@ -3632,7 +4227,8 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "53",
     "Rarity": 2,
-    "Tag": 1
+    "Tag": 1,
+    "Level": 3
   },
   "9604": {
     "Id": 9604,
@@ -3642,7 +4238,8 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "105",
     "Rarity": 1,
-    "Tag": 1
+    "Tag": 1,
+    "Level": 4
   },
   "9701": {
     "Id": 9701,
@@ -3653,7 +4250,9 @@
     "Value": "0.04",
     "Rarity": 4,
     "Tag": 1,
-    "EffectId": 83011
+    "EffectId": 83011,
+    "OverlockCount": 2,
+    "Level": 1
   },
   "9702": {
     "Id": 9702,
@@ -3664,7 +4263,9 @@
     "Value": "0.05",
     "Rarity": 3,
     "Tag": 1,
-    "EffectId": 83012
+    "EffectId": 83012,
+    "OverlockCount": 2,
+    "Level": 2
   },
   "9703": {
     "Id": 9703,
@@ -3675,7 +4276,9 @@
     "Value": "0.06",
     "Rarity": 2,
     "Tag": 1,
-    "EffectId": 83013
+    "EffectId": 83013,
+    "OverlockCount": 1,
+    "Level": 3
   },
   "9704": {
     "Id": 9704,
@@ -3686,7 +4289,8 @@
     "Value": "0.12",
     "Rarity": 1,
     "Tag": 1,
-    "EffectId": 83014
+    "EffectId": 83014,
+    "Level": 4
   },
   "9801": {
     "Id": 9801,
@@ -3697,7 +4301,9 @@
     "Value": "0.04",
     "Rarity": 4,
     "Tag": 1,
-    "EffectId": 83021
+    "EffectId": 83021,
+    "OverlockCount": 2,
+    "Level": 1
   },
   "9802": {
     "Id": 9802,
@@ -3708,7 +4314,9 @@
     "Value": "0.05",
     "Rarity": 3,
     "Tag": 1,
-    "EffectId": 83022
+    "EffectId": 83022,
+    "OverlockCount": 2,
+    "Level": 2
   },
   "9803": {
     "Id": 9803,
@@ -3719,7 +4327,9 @@
     "Value": "0.06",
     "Rarity": 2,
     "Tag": 1,
-    "EffectId": 83023
+    "EffectId": 83023,
+    "OverlockCount": 1,
+    "Level": 3
   },
   "9804": {
     "Id": 9804,
@@ -3730,7 +4340,8 @@
     "Value": "0.12",
     "Rarity": 1,
     "Tag": 1,
-    "EffectId": 83024
+    "EffectId": 83024,
+    "Level": 4
   },
   "9901": {
     "Id": 9901,
@@ -3741,7 +4352,9 @@
     "Value": "0.1",
     "Rarity": 4,
     "Tag": 1,
-    "EffectId": 83031
+    "EffectId": 83031,
+    "OverlockCount": 2,
+    "Level": 1
   },
   "9902": {
     "Id": 9902,
@@ -3752,7 +4365,9 @@
     "Value": "0.125",
     "Rarity": 3,
     "Tag": 1,
-    "EffectId": 83032
+    "EffectId": 83032,
+    "OverlockCount": 1,
+    "Level": 2
   },
   "9903": {
     "Id": 9903,
@@ -3763,7 +4378,8 @@
     "Value": "0.15",
     "Rarity": 2,
     "Tag": 1,
-    "EffectId": 83033
+    "EffectId": 83033,
+    "Level": 3
   },
   "9904": {
     "Id": 9904,
@@ -3774,7 +4390,8 @@
     "Value": "0.3",
     "Rarity": 1,
     "Tag": 1,
-    "EffectId": 83034
+    "EffectId": 83034,
+    "Level": 4
   },
   "10001": {
     "Id": 10001,
@@ -3784,7 +4401,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "0.08",
     "Rarity": 4,
-    "Tag": 1
+    "Tag": 1,
+    "OverlockCount": 2,
+    "Level": 1
   },
   "10002": {
     "Id": 10002,
@@ -3794,7 +4413,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "0.1",
     "Rarity": 3,
-    "Tag": 1
+    "Tag": 1,
+    "OverlockCount": 1,
+    "Level": 2
   },
   "10003": {
     "Id": 10003,
@@ -3804,7 +4425,8 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "0.12",
     "Rarity": 2,
-    "Tag": 1
+    "Tag": 1,
+    "Level": 3
   },
   "10004": {
     "Id": 10004,
@@ -3814,7 +4436,8 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "0.24",
     "Rarity": 1,
-    "Tag": 1
+    "Tag": 1,
+    "Level": 4
   },
   "10101": {
     "Id": 10101,
@@ -3824,7 +4447,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "0.04",
     "Rarity": 4,
-    "Tag": 1
+    "Tag": 1,
+    "OverlockCount": 2,
+    "Level": 1
   },
   "10102": {
     "Id": 10102,
@@ -3834,7 +4459,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "0.05",
     "Rarity": 3,
-    "Tag": 1
+    "Tag": 1,
+    "OverlockCount": 2,
+    "Level": 2
   },
   "10103": {
     "Id": 10103,
@@ -3844,7 +4471,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "0.06",
     "Rarity": 2,
-    "Tag": 1
+    "Tag": 1,
+    "OverlockCount": 1,
+    "Level": 3
   },
   "10104": {
     "Id": 10104,
@@ -3854,7 +4483,8 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "0.12",
     "Rarity": 1,
-    "Tag": 1
+    "Tag": 1,
+    "Level": 4
   },
   "10201": {
     "Id": 10201,
@@ -3864,7 +4494,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "0.04",
     "Rarity": 4,
-    "Tag": 1
+    "Tag": 1,
+    "OverlockCount": 2,
+    "Level": 1
   },
   "10202": {
     "Id": 10202,
@@ -3874,7 +4506,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "0.05",
     "Rarity": 3,
-    "Tag": 1
+    "Tag": 1,
+    "OverlockCount": 2,
+    "Level": 2
   },
   "10203": {
     "Id": 10203,
@@ -3884,7 +4518,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "0.06",
     "Rarity": 2,
-    "Tag": 1
+    "Tag": 1,
+    "OverlockCount": 1,
+    "Level": 3
   },
   "10204": {
     "Id": 10204,
@@ -3894,7 +4530,8 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "0.12",
     "Rarity": 1,
-    "Tag": 1
+    "Tag": 1,
+    "Level": 4
   },
   "10301": {
     "Id": 10301,
@@ -3904,7 +4541,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "0.04",
     "Rarity": 4,
-    "Tag": 1
+    "Tag": 1,
+    "OverlockCount": 2,
+    "Level": 1
   },
   "10302": {
     "Id": 10302,
@@ -3914,7 +4553,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "0.05",
     "Rarity": 3,
-    "Tag": 1
+    "Tag": 1,
+    "OverlockCount": 2,
+    "Level": 2
   },
   "10303": {
     "Id": 10303,
@@ -3924,7 +4565,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "0.06",
     "Rarity": 2,
-    "Tag": 1
+    "Tag": 1,
+    "OverlockCount": 1,
+    "Level": 3
   },
   "10304": {
     "Id": 10304,
@@ -3934,7 +4577,8 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "0.12",
     "Rarity": 1,
-    "Tag": 1
+    "Tag": 1,
+    "Level": 4
   },
   "10401": {
     "Id": 10401,
@@ -3944,7 +4588,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "0.04",
     "Rarity": 4,
-    "Tag": 1
+    "Tag": 1,
+    "OverlockCount": 2,
+    "Level": 1
   },
   "10402": {
     "Id": 10402,
@@ -3954,7 +4600,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "0.05",
     "Rarity": 3,
-    "Tag": 1
+    "Tag": 1,
+    "OverlockCount": 2,
+    "Level": 2
   },
   "10403": {
     "Id": 10403,
@@ -3964,7 +4612,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "0.06",
     "Rarity": 2,
-    "Tag": 1
+    "Tag": 1,
+    "OverlockCount": 1,
+    "Level": 3
   },
   "10404": {
     "Id": 10404,
@@ -3974,7 +4624,8 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "0.12",
     "Rarity": 1,
-    "Tag": 1
+    "Tag": 1,
+    "Level": 4
   },
   "10501": {
     "Id": 10501,
@@ -3984,7 +4635,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "0.04",
     "Rarity": 4,
-    "Tag": 1
+    "Tag": 1,
+    "OverlockCount": 2,
+    "Level": 1
   },
   "10502": {
     "Id": 10502,
@@ -3994,7 +4647,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "0.05",
     "Rarity": 3,
-    "Tag": 1
+    "Tag": 1,
+    "OverlockCount": 2,
+    "Level": 2
   },
   "10503": {
     "Id": 10503,
@@ -4004,7 +4659,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "0.06",
     "Rarity": 2,
-    "Tag": 1
+    "Tag": 1,
+    "OverlockCount": 1,
+    "Level": 3
   },
   "10504": {
     "Id": 10504,
@@ -4014,7 +4671,8 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "0.12",
     "Rarity": 1,
-    "Tag": 1
+    "Tag": 1,
+    "Level": 4
   },
   "10601": {
     "Id": 10601,
@@ -4024,7 +4682,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "0.04",
     "Rarity": 4,
-    "Tag": 1
+    "Tag": 1,
+    "OverlockCount": 2,
+    "Level": 1
   },
   "10602": {
     "Id": 10602,
@@ -4034,7 +4694,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "0.05",
     "Rarity": 3,
-    "Tag": 1
+    "Tag": 1,
+    "OverlockCount": 2,
+    "Level": 2
   },
   "10603": {
     "Id": 10603,
@@ -4044,7 +4706,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "0.06",
     "Rarity": 2,
-    "Tag": 1
+    "Tag": 1,
+    "OverlockCount": 1,
+    "Level": 3
   },
   "10604": {
     "Id": 10604,
@@ -4054,7 +4718,8 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "0.12",
     "Rarity": 1,
-    "Tag": 1
+    "Tag": 1,
+    "Level": 4
   },
   "10701": {
     "Id": 10701,
@@ -4064,7 +4729,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "0.1",
     "Rarity": 4,
-    "Tag": 1
+    "Tag": 1,
+    "OverlockCount": 2,
+    "Level": 1
   },
   "10702": {
     "Id": 10702,
@@ -4074,7 +4741,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "0.125",
     "Rarity": 3,
-    "Tag": 1
+    "Tag": 1,
+    "OverlockCount": 2,
+    "Level": 2
   },
   "10703": {
     "Id": 10703,
@@ -4084,7 +4753,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "0.15",
     "Rarity": 2,
-    "Tag": 1
+    "Tag": 1,
+    "OverlockCount": 1,
+    "Level": 3
   },
   "10704": {
     "Id": 10704,
@@ -4094,7 +4765,8 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "0.3",
     "Rarity": 1,
-    "Tag": 1
+    "Tag": 1,
+    "Level": 4
   },
   "10801": {
     "Id": 10801,
@@ -4104,7 +4776,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "0.07",
     "Rarity": 4,
-    "Tag": 1
+    "Tag": 1,
+    "OverlockCount": 2,
+    "Level": 1
   },
   "10802": {
     "Id": 10802,
@@ -4114,7 +4788,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "0.08",
     "Rarity": 3,
-    "Tag": 1
+    "Tag": 1,
+    "OverlockCount": 2,
+    "Level": 2
   },
   "10803": {
     "Id": 10803,
@@ -4124,7 +4800,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "0.1",
     "Rarity": 2,
-    "Tag": 1
+    "Tag": 1,
+    "OverlockCount": 1,
+    "Level": 3
   },
   "10804": {
     "Id": 10804,
@@ -4134,7 +4812,8 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "0.2",
     "Rarity": 1,
-    "Tag": 1
+    "Tag": 1,
+    "Level": 4
   },
   "10901": {
     "Id": 10901,
@@ -4144,7 +4823,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "0.1",
     "Rarity": 4,
-    "Tag": 1
+    "Tag": 1,
+    "OverlockCount": 2,
+    "Level": 1
   },
   "10902": {
     "Id": 10902,
@@ -4154,7 +4835,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "0.13",
     "Rarity": 3,
-    "Tag": 1
+    "Tag": 1,
+    "OverlockCount": 2,
+    "Level": 2
   },
   "10903": {
     "Id": 10903,
@@ -4164,7 +4847,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "0.15",
     "Rarity": 2,
-    "Tag": 1
+    "Tag": 1,
+    "OverlockCount": 1,
+    "Level": 3
   },
   "10904": {
     "Id": 10904,
@@ -4174,7 +4859,8 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "0.3",
     "Rarity": 1,
-    "Tag": 1
+    "Tag": 1,
+    "Level": 4
   },
   "11001": {
     "Id": 11001,
@@ -4184,7 +4870,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "0.27",
     "Rarity": 4,
-    "Tag": 1
+    "Tag": 1,
+    "OverlockCount": 2,
+    "Level": 1
   },
   "11002": {
     "Id": 11002,
@@ -4194,7 +4882,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "0.33",
     "Rarity": 3,
-    "Tag": 1
+    "Tag": 1,
+    "OverlockCount": 2,
+    "Level": 2
   },
   "11003": {
     "Id": 11003,
@@ -4204,7 +4894,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "0.4",
     "Rarity": 2,
-    "Tag": 1
+    "Tag": 1,
+    "OverlockCount": 1,
+    "Level": 3
   },
   "11004": {
     "Id": 11004,
@@ -4214,7 +4906,8 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "0.8",
     "Rarity": 1,
-    "Tag": 1
+    "Tag": 1,
+    "Level": 4
   },
   "11101": {
     "Id": 11101,
@@ -4224,7 +4917,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "0.07",
     "Rarity": 4,
-    "Tag": 1
+    "Tag": 1,
+    "OverlockCount": 2,
+    "Level": 1
   },
   "11102": {
     "Id": 11102,
@@ -4234,7 +4929,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "0.08",
     "Rarity": 3,
-    "Tag": 1
+    "Tag": 1,
+    "OverlockCount": 2,
+    "Level": 2
   },
   "11103": {
     "Id": 11103,
@@ -4244,7 +4941,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "0.1",
     "Rarity": 2,
-    "Tag": 1
+    "Tag": 1,
+    "OverlockCount": 1,
+    "Level": 3
   },
   "11104": {
     "Id": 11104,
@@ -4254,7 +4953,8 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "0.2",
     "Rarity": 1,
-    "Tag": 1
+    "Tag": 1,
+    "Level": 4
   },
   "11201": {
     "Id": 11201,
@@ -4264,7 +4964,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "0.07",
     "Rarity": 4,
-    "Tag": 1
+    "Tag": 1,
+    "OverlockCount": 2,
+    "Level": 1
   },
   "11202": {
     "Id": 11202,
@@ -4274,7 +4976,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "0.08",
     "Rarity": 3,
-    "Tag": 1
+    "Tag": 1,
+    "OverlockCount": 2,
+    "Level": 2
   },
   "11203": {
     "Id": 11203,
@@ -4284,7 +4988,9 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "0.1",
     "Rarity": 2,
-    "Tag": 1
+    "Tag": 1,
+    "OverlockCount": 1,
+    "Level": 3
   },
   "11204": {
     "Id": 11204,
@@ -4294,6 +5000,7 @@
     "AttrTypeSecondSubtype": 1,
     "Value": "0.2",
     "Rarity": 1,
-    "Tag": 1
+    "Tag": 1,
+    "Level": 4
   }
 }

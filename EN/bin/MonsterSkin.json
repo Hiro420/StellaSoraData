@@ -3226,6 +3226,16 @@
     "ModelScale": 8000,
     "ColliderScale": 10000
   },
+  "5018109": {
+    "Id": 5018109,
+    "MonsterManual": 5018136,
+    "Model": "Actor/Monster/50181ShunYiGuai/50181ShunYiGuai_Actor_fire",
+    "RunAnimationSpd": 50000,
+    "WalkAnimationSpd": 50000,
+    "BarHeight": 10000,
+    "ModelScale": 20000,
+    "ColliderScale": 8000
+  },
   "5020101": {
     "Id": 5020101,
     "MonsterManual": 5020131,
@@ -4613,6 +4623,16 @@
     "ModelScale": 13000,
     "ColliderScale": 10000
   },
+  "5025113": {
+    "Id": 5025113,
+    "MonsterManual": 5025141,
+    "Model": "Actor/Monster/50251ShanDianLieQuan/50251ShanDianLieQuan_Actor_wind",
+    "RunAnimationSpd": 60000,
+    "WalkAnimationSpd": 15000,
+    "BarHeight": 8000,
+    "ModelScale": 15000,
+    "ColliderScale": 10000
+  },
   "5025114": {
     "Id": 5025114,
     "MonsterManual": 5025175,
@@ -4696,7 +4716,7 @@
     "MonsterManual": 5031116,
     "Model": "Actor/Monster/50311DaWuGui/50311DaWuGui_Actor",
     "RunAnimationSpd": 60000,
-    "WalkAnimationSpd": 20000,
+    "WalkAnimationSpd": 60000,
     "BarHeight": 8000,
     "ModelScale": 10000,
     "ColliderScale": 10000
@@ -5008,6 +5028,46 @@
     "ModelScale": 20000,
     "ColliderScale": 10000,
     "ForbiddenBehitRot": true
+  },
+  "1700101": {
+    "Id": 1700101,
+    "MonsterManual": 1700100,
+    "Model": "Actor/Monster/17001ChangFuWeiBing/17001ChangFuWeiBing_Actor",
+    "RunAnimationSpd": 30000,
+    "WalkAnimationSpd": 30000,
+    "BarHeight": 10000,
+    "ModelScale": 13000,
+    "ColliderScale": 10000
+  },
+  "1701101": {
+    "Id": 1701101,
+    "MonsterManual": 1701100,
+    "Model": "Actor/Monster/17011QingNuWeiBing/17011QingNuWeiBing_Actor",
+    "RunAnimationSpd": 30000,
+    "WalkAnimationSpd": 30000,
+    "BarHeight": 10000,
+    "ModelScale": 12000,
+    "ColliderScale": 10000
+  },
+  "1702101": {
+    "Id": 1702101,
+    "MonsterManual": 1702100,
+    "Model": "Actor/Monster/17021ChangQiangQishi/17021ChangQiangQishi_Actor",
+    "RunAnimationSpd": 35000,
+    "WalkAnimationSpd": 35000,
+    "BarHeight": 10000,
+    "ModelScale": 13000,
+    "ColliderScale": 10000
+  },
+  "1703101": {
+    "Id": 1703101,
+    "MonsterManual": 1703100,
+    "Model": "Actor/Monster/17031ZhongNuJingYingQiShi/17031ZhongNuJingYingQiShi_Actor",
+    "RunAnimationSpd": 40000,
+    "WalkAnimationSpd": 40000,
+    "BarHeight": 10000,
+    "ModelScale": 12000,
+    "ColliderScale": 10000
   },
   "5090101": {
     "Id": 5090101,
@@ -5691,8 +5751,8 @@
     "Id": 3090101,
     "MonsterManual": 3090100,
     "Model": "Actor/Monster/30901ChiHou/30901ChiHou_Actor",
-    "RunAnimationSpd": 80000,
-    "WalkAnimationSpd": 20000,
+    "RunAnimationSpd": 60000,
+    "WalkAnimationSpd": 19000,
     "BarHeight": 10000,
     "ModelScale": 11800,
     "ColliderScale": 10000
@@ -5701,7 +5761,7 @@
     "Id": 3091101,
     "MonsterManual": 3091100,
     "Model": "Actor/Monster/30911NuShou/30911NuShou_Actor",
-    "RunAnimationSpd": 50000,
+    "RunAnimationSpd": 47000,
     "WalkAnimationSpd": 20000,
     "BarHeight": 10000,
     "ModelScale": 11800,
@@ -5711,7 +5771,7 @@
     "Id": 3092101,
     "MonsterManual": 3092100,
     "Model": "Actor/Monster/30921JuJiShou/30921JuJiShou_Actor",
-    "RunAnimationSpd": 60000,
+    "RunAnimationSpd": 50000,
     "WalkAnimationSpd": 20000,
     "BarHeight": 10000,
     "ModelScale": 13500,
@@ -5828,6 +5888,15 @@
   "14401111": {
     "Id": 14401111,
     "Model": "Actor/Character/14401/14401_Shadow",
+    "RunAnimationSpd": 35000,
+    "WalkAnimationSpd": 15000,
+    "BarHeight": 10000,
+    "ModelScale": 12500,
+    "ColliderScale": 10000
+  },
+  "14401112": {
+    "Id": 14401112,
+    "Model": "Actor/Character/14403/14403_Shadow",
     "RunAnimationSpd": 35000,
     "WalkAnimationSpd": 15000,
     "BarHeight": 10000,

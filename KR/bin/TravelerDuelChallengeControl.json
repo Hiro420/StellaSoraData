@@ -7,5 +7,18 @@
     "BackGroundSource": "duelquest_1001",
     "OpenTime": "2025-12-23T12:00:00+08:00",
     "EndTime": "2026-01-06T03:59:59+08:00"
+  },
+  "600002": {
+    "Id": 600002,
+    "BossLevelId": 300100,
+    "AffixGroupIds": "[200201,200202,200203,200204,200205,303,306,309,304,312,301,302,314,315,316,320,319,313,305,308,307,318,310,311,317]",
+    "QuestGroupId": 3001,
+    "BackGroundSource": "duelquest_1001",
+    "OpenTime": "2026-04-16T12:00:00+08:00",
+    "EndTime": "2026-04-30T03:59:59+08:00",
+    "HotValueRewardsGroupId": 600002,
+    "TargetGroupId": 600002,
+    "FansLevelGroupId": 600002,
+    "HonorId": 119901
   }
 }

@@ -118,5 +118,29 @@
     "Option3": "DatingBranch.8001.3",
     "Option4": "DatingBranch.8001.4",
     "Option5": "DatingBranch.8001.5"
+  },
+  "17000": {
+    "Id": 17000,
+    "DatingEventType": 6,
+    "DatingEventParams": [
+      17
+    ],
+    "Option1": "DatingBranch.17000.1",
+    "Option2": "DatingBranch.17000.2",
+    "Option3": "DatingBranch.17000.3",
+    "Option4": "DatingBranch.17000.4",
+    "Option5": "DatingBranch.17000.5"
+  },
+  "17001": {
+    "Id": 17001,
+    "DatingEventType": 7,
+    "DatingEventParams": [
+      17
+    ],
+    "Option1": "DatingBranch.17001.1",
+    "Option2": "DatingBranch.17001.2",
+    "Option3": "DatingBranch.17001.3",
+    "Option4": "DatingBranch.17001.4",
+    "Option5": "DatingBranch.17001.5"
   }
 }

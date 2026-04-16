@@ -1,0 +1,577 @@
+{
+  "0": {
+    "TypeAValue": 11
+  },
+  "1": {
+    "Difficulty": 1,
+    "TypeAValue": 12
+  },
+  "2": {
+    "Difficulty": 2,
+    "TypeAValue": 13
+  },
+  "3": {
+    "Difficulty": 3,
+    "TypeAValue": 14
+  },
+  "4": {
+    "Difficulty": 4,
+    "TypeAValue": 15
+  },
+  "5": {
+    "Difficulty": 5,
+    "TypeAValue": 11,
+    "TypeBValue": 1
+  },
+  "6": {
+    "Difficulty": 6,
+    "TypeAValue": 12,
+    "TypeBValue": 1
+  },
+  "7": {
+    "Difficulty": 7,
+    "TypeAValue": 13,
+    "TypeBValue": 1
+  },
+  "8": {
+    "Difficulty": 8,
+    "TypeAValue": 14,
+    "TypeBValue": 1
+  },
+  "9": {
+    "Difficulty": 9,
+    "TypeAValue": 15,
+    "TypeBValue": 1
+  },
+  "10": {
+    "Difficulty": 10,
+    "TypeAValue": 11,
+    "TypeBValue": 2
+  },
+  "11": {
+    "Difficulty": 11,
+    "TypeAValue": 12,
+    "TypeBValue": 2
+  },
+  "12": {
+    "Difficulty": 12,
+    "TypeAValue": 13,
+    "TypeBValue": 2
+  },
+  "13": {
+    "Difficulty": 13,
+    "TypeAValue": 14,
+    "TypeBValue": 2
+  },
+  "14": {
+    "Difficulty": 14,
+    "TypeAValue": 15,
+    "TypeBValue": 2
+  },
+  "15": {
+    "Difficulty": 15,
+    "TypeAValue": 11,
+    "TypeBValue": 3
+  },
+  "16": {
+    "Difficulty": 16,
+    "TypeAValue": 12,
+    "TypeBValue": 3
+  },
+  "17": {
+    "Difficulty": 17,
+    "TypeAValue": 13,
+    "TypeBValue": 3
+  },
+  "18": {
+    "Difficulty": 18,
+    "TypeAValue": 14,
+    "TypeBValue": 3
+  },
+  "19": {
+    "Difficulty": 19,
+    "TypeAValue": 15,
+    "TypeBValue": 3
+  },
+  "20": {
+    "Difficulty": 20,
+    "TypeAValue": 11,
+    "TypeBValue": 4
+  },
+  "21": {
+    "Difficulty": 21,
+    "TypeAValue": 12,
+    "TypeBValue": 4
+  },
+  "22": {
+    "Difficulty": 22,
+    "TypeAValue": 13,
+    "TypeBValue": 4
+  },
+  "23": {
+    "Difficulty": 23,
+    "TypeAValue": 14,
+    "TypeBValue": 4
+  },
+  "24": {
+    "Difficulty": 24,
+    "TypeAValue": 15,
+    "TypeBValue": 4
+  },
+  "25": {
+    "Difficulty": 25,
+    "TypeAValue": 11,
+    "TypeBValue": 1,
+    "TypeCValue": 1
+  },
+  "26": {
+    "Difficulty": 26,
+    "TypeAValue": 12,
+    "TypeBValue": 1,
+    "TypeCValue": 1
+  },
+  "27": {
+    "Difficulty": 27,
+    "TypeAValue": 13,
+    "TypeBValue": 1,
+    "TypeCValue": 1
+  },
+  "28": {
+    "Difficulty": 28,
+    "TypeAValue": 14,
+    "TypeBValue": 1,
+    "TypeCValue": 1
+  },
+  "29": {
+    "Difficulty": 29,
+    "TypeAValue": 15,
+    "TypeBValue": 1,
+    "TypeCValue": 1
+  },
+  "30": {
+    "Difficulty": 30,
+    "TypeAValue": 11,
+    "TypeBValue": 2,
+    "TypeCValue": 1
+  },
+  "31": {
+    "Difficulty": 31,
+    "TypeAValue": 12,
+    "TypeBValue": 2,
+    "TypeCValue": 1
+  },
+  "32": {
+    "Difficulty": 32,
+    "TypeAValue": 13,
+    "TypeBValue": 2,
+    "TypeCValue": 1
+  },
+  "33": {
+    "Difficulty": 33,
+    "TypeAValue": 14,
+    "TypeBValue": 2,
+    "TypeCValue": 1
+  },
+  "34": {
+    "Difficulty": 34,
+    "TypeAValue": 15,
+    "TypeBValue": 2,
+    "TypeCValue": 1
+  },
+  "35": {
+    "Difficulty": 35,
+    "TypeAValue": 11,
+    "TypeBValue": 3,
+    "TypeCValue": 1
+  },
+  "36": {
+    "Difficulty": 36,
+    "TypeAValue": 12,
+    "TypeBValue": 3,
+    "TypeCValue": 1
+  },
+  "37": {
+    "Difficulty": 37,
+    "TypeAValue": 13,
+    "TypeBValue": 3,
+    "TypeCValue": 1
+  },
+  "38": {
+    "Difficulty": 38,
+    "TypeAValue": 14,
+    "TypeBValue": 3,
+    "TypeCValue": 1
+  },
+  "39": {
+    "Difficulty": 39,
+    "TypeAValue": 15,
+    "TypeBValue": 3,
+    "TypeCValue": 1
+  },
+  "40": {
+    "Difficulty": 40,
+    "TypeAValue": 11,
+    "TypeBValue": 4,
+    "TypeCValue": 1
+  },
+  "41": {
+    "Difficulty": 41,
+    "TypeAValue": 12,
+    "TypeBValue": 4,
+    "TypeCValue": 1
+  },
+  "42": {
+    "Difficulty": 42,
+    "TypeAValue": 13,
+    "TypeBValue": 4,
+    "TypeCValue": 1
+  },
+  "43": {
+    "Difficulty": 43,
+    "TypeAValue": 14,
+    "TypeBValue": 4,
+    "TypeCValue": 1
+  },
+  "44": {
+    "Difficulty": 44,
+    "TypeAValue": 15,
+    "TypeBValue": 4,
+    "TypeCValue": 1
+  },
+  "45": {
+    "Difficulty": 45,
+    "TypeAValue": 11,
+    "TypeBValue": 1,
+    "TypeCValue": 2
+  },
+  "46": {
+    "Difficulty": 46,
+    "TypeAValue": 12,
+    "TypeBValue": 1,
+    "TypeCValue": 2
+  },
+  "47": {
+    "Difficulty": 47,
+    "TypeAValue": 13,
+    "TypeBValue": 1,
+    "TypeCValue": 2
+  },
+  "48": {
+    "Difficulty": 48,
+    "TypeAValue": 14,
+    "TypeBValue": 1,
+    "TypeCValue": 2
+  },
+  "49": {
+    "Difficulty": 49,
+    "TypeAValue": 15,
+    "TypeBValue": 1,
+    "TypeCValue": 2
+  },
+  "50": {
+    "Difficulty": 50,
+    "TypeAValue": 11,
+    "TypeBValue": 2,
+    "TypeCValue": 2
+  },
+  "51": {
+    "Difficulty": 51,
+    "TypeAValue": 12,
+    "TypeBValue": 2,
+    "TypeCValue": 2
+  },
+  "52": {
+    "Difficulty": 52,
+    "TypeAValue": 13,
+    "TypeBValue": 2,
+    "TypeCValue": 2
+  },
+  "53": {
+    "Difficulty": 53,
+    "TypeAValue": 14,
+    "TypeBValue": 2,
+    "TypeCValue": 2
+  },
+  "54": {
+    "Difficulty": 54,
+    "TypeAValue": 15,
+    "TypeBValue": 2,
+    "TypeCValue": 2
+  },
+  "55": {
+    "Difficulty": 55,
+    "TypeAValue": 11,
+    "TypeBValue": 3,
+    "TypeCValue": 2
+  },
+  "56": {
+    "Difficulty": 56,
+    "TypeAValue": 12,
+    "TypeBValue": 3,
+    "TypeCValue": 2
+  },
+  "57": {
+    "Difficulty": 57,
+    "TypeAValue": 13,
+    "TypeBValue": 3,
+    "TypeCValue": 2
+  },
+  "58": {
+    "Difficulty": 58,
+    "TypeAValue": 14,
+    "TypeBValue": 3,
+    "TypeCValue": 2
+  },
+  "59": {
+    "Difficulty": 59,
+    "TypeAValue": 15,
+    "TypeBValue": 3,
+    "TypeCValue": 2
+  },
+  "60": {
+    "Difficulty": 60,
+    "TypeAValue": 11,
+    "TypeBValue": 4,
+    "TypeCValue": 2
+  },
+  "61": {
+    "Difficulty": 61,
+    "TypeAValue": 12,
+    "TypeBValue": 4,
+    "TypeCValue": 2
+  },
+  "62": {
+    "Difficulty": 62,
+    "TypeAValue": 13,
+    "TypeBValue": 4,
+    "TypeCValue": 2
+  },
+  "63": {
+    "Difficulty": 63,
+    "TypeAValue": 14,
+    "TypeBValue": 4,
+    "TypeCValue": 2
+  },
+  "64": {
+    "Difficulty": 64,
+    "TypeAValue": 15,
+    "TypeBValue": 4,
+    "TypeCValue": 2
+  },
+  "65": {
+    "Difficulty": 65,
+    "TypeAValue": 11,
+    "TypeBValue": 1,
+    "TypeCValue": 3
+  },
+  "66": {
+    "Difficulty": 66,
+    "TypeAValue": 12,
+    "TypeBValue": 1,
+    "TypeCValue": 3
+  },
+  "67": {
+    "Difficulty": 67,
+    "TypeAValue": 13,
+    "TypeBValue": 1,
+    "TypeCValue": 3
+  },
+  "68": {
+    "Difficulty": 68,
+    "TypeAValue": 14,
+    "TypeBValue": 1,
+    "TypeCValue": 3
+  },
+  "69": {
+    "Difficulty": 69,
+    "TypeAValue": 15,
+    "TypeBValue": 1,
+    "TypeCValue": 3
+  },
+  "70": {
+    "Difficulty": 70,
+    "TypeAValue": 11,
+    "TypeBValue": 2,
+    "TypeCValue": 3
+  },
+  "71": {
+    "Difficulty": 71,
+    "TypeAValue": 12,
+    "TypeBValue": 2,
+    "TypeCValue": 3
+  },
+  "72": {
+    "Difficulty": 72,
+    "TypeAValue": 13,
+    "TypeBValue": 2,
+    "TypeCValue": 3
+  },
+  "73": {
+    "Difficulty": 73,
+    "TypeAValue": 14,
+    "TypeBValue": 2,
+    "TypeCValue": 3
+  },
+  "74": {
+    "Difficulty": 74,
+    "TypeAValue": 15,
+    "TypeBValue": 2,
+    "TypeCValue": 3
+  },
+  "75": {
+    "Difficulty": 75,
+    "TypeAValue": 11,
+    "TypeBValue": 3,
+    "TypeCValue": 3
+  },
+  "76": {
+    "Difficulty": 76,
+    "TypeAValue": 12,
+    "TypeBValue": 3,
+    "TypeCValue": 3
+  },
+  "77": {
+    "Difficulty": 77,
+    "TypeAValue": 13,
+    "TypeBValue": 3,
+    "TypeCValue": 3
+  },
+  "78": {
+    "Difficulty": 78,
+    "TypeAValue": 14,
+    "TypeBValue": 3,
+    "TypeCValue": 3
+  },
+  "79": {
+    "Difficulty": 79,
+    "TypeAValue": 15,
+    "TypeBValue": 3,
+    "TypeCValue": 3
+  },
+  "80": {
+    "Difficulty": 80,
+    "TypeAValue": 11,
+    "TypeBValue": 4,
+    "TypeCValue": 3
+  },
+  "81": {
+    "Difficulty": 81,
+    "TypeAValue": 12,
+    "TypeBValue": 4,
+    "TypeCValue": 3
+  },
+  "82": {
+    "Difficulty": 82,
+    "TypeAValue": 13,
+    "TypeBValue": 4,
+    "TypeCValue": 3
+  },
+  "83": {
+    "Difficulty": 83,
+    "TypeAValue": 14,
+    "TypeBValue": 4,
+    "TypeCValue": 3
+  },
+  "84": {
+    "Difficulty": 84,
+    "TypeAValue": 15,
+    "TypeBValue": 4,
+    "TypeCValue": 3
+  },
+  "85": {
+    "Difficulty": 85,
+    "TypeAValue": 11,
+    "TypeBValue": 5,
+    "TypeCValue": 3
+  },
+  "86": {
+    "Difficulty": 86,
+    "TypeAValue": 12,
+    "TypeBValue": 5,
+    "TypeCValue": 3
+  },
+  "87": {
+    "Difficulty": 87,
+    "TypeAValue": 13,
+    "TypeBValue": 5,
+    "TypeCValue": 3
+  },
+  "88": {
+    "Difficulty": 88,
+    "TypeAValue": 14,
+    "TypeBValue": 5,
+    "TypeCValue": 3
+  },
+  "89": {
+    "Difficulty": 89,
+    "TypeAValue": 15,
+    "TypeBValue": 5,
+    "TypeCValue": 3
+  },
+  "90": {
+    "Difficulty": 90,
+    "TypeAValue": 11,
+    "TypeBValue": 6,
+    "TypeCValue": 3
+  },
+  "91": {
+    "Difficulty": 91,
+    "TypeAValue": 12,
+    "TypeBValue": 6,
+    "TypeCValue": 3
+  },
+  "92": {
+    "Difficulty": 92,
+    "TypeAValue": 13,
+    "TypeBValue": 6,
+    "TypeCValue": 3
+  },
+  "93": {
+    "Difficulty": 93,
+    "TypeAValue": 14,
+    "TypeBValue": 6,
+    "TypeCValue": 3
+  },
+  "94": {
+    "Difficulty": 94,
+    "TypeAValue": 15,
+    "TypeBValue": 6,
+    "TypeCValue": 3
+  },
+  "95": {
+    "Difficulty": 95,
+    "TypeAValue": 11,
+    "TypeBValue": 7,
+    "TypeCValue": 3
+  },
+  "96": {
+    "Difficulty": 96,
+    "TypeAValue": 12,
+    "TypeBValue": 7,
+    "TypeCValue": 3
+  },
+  "97": {
+    "Difficulty": 97,
+    "TypeAValue": 13,
+    "TypeBValue": 7,
+    "TypeCValue": 3
+  },
+  "98": {
+    "Difficulty": 98,
+    "TypeAValue": 14,
+    "TypeBValue": 7,
+    "TypeCValue": 3
+  },
+  "99": {
+    "Difficulty": 99,
+    "TypeAValue": 15,
+    "TypeBValue": 7,
+    "TypeCValue": 3
+  },
+  "100": {
+    "Difficulty": 100,
+    "TypeAValue": 16,
+    "TypeBValue": 7,
+    "TypeCValue": 3
+  }
+}

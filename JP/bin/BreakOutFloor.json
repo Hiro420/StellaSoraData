@@ -322,5 +322,325 @@
       1
     ],
     "IntroCutscene": "EnterCamera_BreakOut"
+  },
+  "82011": {
+    "Id": 82011,
+    "SceneName": "Levels/BreakOut/BreakOut_2_1",
+    "ConfigPrefabName": "BreakOut_2_1",
+    "Theme": 2,
+    "BGM": "breakout_combatNormal_setState",
+    "LeaveTriggerEvent": "amb_endlessTower_all_stop",
+    "MonsterLv": 1,
+    "Time": 120,
+    "Heart": 8,
+    "Score": 1000,
+    "Drops": [
+      131,
+      113,
+      116,
+      114,
+      118,
+      121,
+      117
+    ],
+    "Counts": [
+      8,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "DropParam": [
+      0,
+      50,
+      10,
+      1,
+      1,
+      2,
+      1
+    ],
+    "IntroCutscene": "EnterCamera_BreakOut"
+  },
+  "82012": {
+    "Id": 82012,
+    "SceneName": "Levels/BreakOut/BreakOut_2_2",
+    "ConfigPrefabName": "BreakOut_2_2",
+    "Theme": 2,
+    "BGM": "breakout_combatNormal_setState",
+    "LeaveTriggerEvent": "amb_endlessTower_all_stop",
+    "MonsterLv": 1,
+    "Time": 120,
+    "Heart": 8,
+    "Score": 1000,
+    "Drops": [
+      115,
+      113,
+      116,
+      114,
+      118,
+      121,
+      117
+    ],
+    "Counts": [
+      0,
+      2,
+      8,
+      2,
+      0,
+      0,
+      0
+    ],
+    "DropParam": [
+      0,
+      50,
+      20,
+      1,
+      1,
+      2,
+      1
+    ],
+    "IntroCutscene": "EnterCamera_BreakOut"
+  },
+  "82013": {
+    "Id": 82013,
+    "SceneName": "Levels/BreakOut/BreakOut_2_3",
+    "ConfigPrefabName": "BreakOut_2_3",
+    "Theme": 2,
+    "BGM": "breakout_combatNormal_setState",
+    "LeaveTriggerEvent": "amb_endlessTower_all_stop",
+    "MonsterLv": 1,
+    "Time": 120,
+    "Heart": 8,
+    "Score": 1100,
+    "Drops": [
+      115,
+      113,
+      116,
+      114,
+      118,
+      121,
+      117
+    ],
+    "Counts": [
+      0,
+      2,
+      8,
+      2,
+      0,
+      0,
+      2
+    ],
+    "DropParam": [
+      0,
+      50,
+      20,
+      1,
+      1,
+      2,
+      1
+    ],
+    "IntroCutscene": "EnterCamera_BreakOut"
+  },
+  "82014": {
+    "Id": 82014,
+    "SceneName": "Levels/BreakOut/BreakOut_2_4",
+    "ConfigPrefabName": "BreakOut_2_4",
+    "Theme": 2,
+    "BGM": "breakout_combatNormal_setState",
+    "LeaveTriggerEvent": "amb_endlessTower_all_stop",
+    "MonsterLv": 1,
+    "Time": 120,
+    "Heart": 8,
+    "Score": 1100,
+    "Drops": [
+      115,
+      113,
+      116,
+      114,
+      118,
+      121,
+      117
+    ],
+    "Counts": [
+      2,
+      2,
+      8,
+      2,
+      0,
+      0,
+      2
+    ],
+    "DropParam": [
+      0,
+      50,
+      20,
+      1,
+      1,
+      2,
+      1
+    ],
+    "IntroCutscene": "EnterCamera_BreakOut"
+  },
+  "82015": {
+    "Id": 82015,
+    "SceneName": "Levels/BreakOut/BreakOut_2_5",
+    "ConfigPrefabName": "BreakOut_2_5",
+    "Theme": 2,
+    "BGM": "breakout_combatNormal_setState",
+    "LeaveTriggerEvent": "amb_endlessTower_all_stop",
+    "MonsterLv": 1,
+    "Time": 120,
+    "Heart": 6,
+    "Score": 1800,
+    "Drops": [
+      115,
+      113,
+      116,
+      114,
+      118,
+      121,
+      117
+    ],
+    "Counts": [
+      2,
+      2,
+      8,
+      0,
+      2,
+      2,
+      0
+    ],
+    "DropParam": [
+      0,
+      50,
+      20,
+      1,
+      1,
+      2,
+      1
+    ],
+    "IntroCutscene": "EnterCamera_BreakOut"
+  },
+  "82016": {
+    "Id": 82016,
+    "SceneName": "Levels/BreakOut/BreakOut_2_6",
+    "ConfigPrefabName": "BreakOut_2_6",
+    "Theme": 2,
+    "BGM": "breakout_combatNormal_setState",
+    "LeaveTriggerEvent": "amb_endlessTower_all_stop",
+    "MonsterLv": 1,
+    "Time": 120,
+    "Heart": 6,
+    "Score": 1900,
+    "Drops": [
+      115,
+      113,
+      116,
+      114,
+      118,
+      121,
+      117
+    ],
+    "Counts": [
+      2,
+      2,
+      8,
+      0,
+      2,
+      2,
+      0
+    ],
+    "DropParam": [
+      0,
+      50,
+      20,
+      1,
+      1,
+      2,
+      1
+    ],
+    "IntroCutscene": "EnterCamera_BreakOut"
+  },
+  "82017": {
+    "Id": 82017,
+    "SceneName": "Levels/BreakOut/BreakOut_2_7",
+    "ConfigPrefabName": "BreakOut_2_7",
+    "Theme": 2,
+    "BGM": "breakout_combatNormal_setState",
+    "LeaveTriggerEvent": "amb_endlessTower_all_stop",
+    "MonsterLv": 1,
+    "Time": 120,
+    "Heart": 6,
+    "Score": 2100,
+    "Drops": [
+      115,
+      113,
+      116,
+      114,
+      118,
+      121,
+      117
+    ],
+    "Counts": [
+      1,
+      2,
+      10,
+      2,
+      0,
+      1,
+      1
+    ],
+    "DropParam": [
+      0,
+      50,
+      20,
+      1,
+      1,
+      2,
+      1
+    ],
+    "IntroCutscene": "EnterCamera_BreakOut"
+  },
+  "82018": {
+    "Id": 82018,
+    "SceneName": "Levels/BreakOut/BreakOut_2_8",
+    "ConfigPrefabName": "BreakOut_2_8",
+    "Theme": 2,
+    "BGM": "breakout_combatNormal_setState",
+    "LeaveTriggerEvent": "amb_endlessTower_all_stop",
+    "MonsterLv": 1,
+    "Time": 120,
+    "Heart": 8,
+    "Score": 2500,
+    "Drops": [
+      130,
+      113,
+      116,
+      114,
+      118,
+      121,
+      117
+    ],
+    "Counts": [
+      8,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "DropParam": [
+      20,
+      50,
+      20,
+      1,
+      1,
+      2,
+      1
+    ],
+    "IntroCutscene": "EnterCamera_BreakOut"
   }
 }

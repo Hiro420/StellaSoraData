@@ -186,6 +186,21 @@
     "EndTime": "2026-05-08T11:00:00+08:00",
     "TabBgRes": "Icon/Banner/tab_activity_301031_lang"
   },
+  "301032": {
+    "Id": 301032,
+    "SortId": 6,
+    "ActivityType": 2,
+    "Name": "半周年特殊签到",
+    "PreLimit": 1,
+    "LimitParam": "2",
+    "PlayCond": 1,
+    "PlayCondParams": "2",
+    "StartType": 2,
+    "StartTime": "2026-04-16T12:00:00+08:00",
+    "EndType": 2,
+    "EndTime": "2026-05-08T10:59:59+08:00",
+    "TabBgRes": "Icon/Banner/tab_activity_301032_lang"
+  },
   "201001": {
     "Id": 201001,
     "SortId": 13,
@@ -309,6 +324,17 @@
     "EndTime": "2026-04-07T10:59:59+08:00",
     "TabBgRes": "Icon/Banner/tab_activity_sidestory"
   },
+  "201012": {
+    "Id": 201012,
+    "SortId": 14,
+    "ActivityType": 13,
+    "Name": "诺瓦异闻-焦糖x罗维娜篇",
+    "StartType": 2,
+    "StartTime": "2026-04-27T12:00:00+08:00",
+    "EndType": 2,
+    "EndTime": "2026-05-08T10:59:59+08:00",
+    "TabBgRes": "Icon/Banner/tab_activity_sidestory"
+  },
   "400000": {
     "Id": 400000,
     "MidGroupId": 10100,
@@ -408,6 +434,19 @@
     "StartTime": "2026-03-17T12:00:00+08:00",
     "EndType": 2,
     "EndTime": "2026-03-31T04:00:00+08:00"
+  },
+  "400008": {
+    "Id": 400008,
+    "MidGroupId": 20102,
+    "SortId": 4,
+    "ActivityType": 20,
+    "Name": "月华窃梦人",
+    "ActivityThemeType": 10,
+    "StartType": 2,
+    "StartTime": "2026-04-16T12:00:00+08:00",
+    "EndType": 2,
+    "EndTime": "2026-04-30T04:00:00+08:00",
+    "MiniGameRedDot": 2010204
   },
   "500001": {
     "Id": 500001,
@@ -521,6 +560,22 @@
     "EnterRes": "Icon/Banner/banner_avtivity_m_2",
     "TabBgRes": "Icon/Banner/tab_activity_jointdrill_2"
   },
+  "510004": {
+    "Id": 510004,
+    "SortId": 4,
+    "ActivityType": 7,
+    "Name": "总力战正式Ⅳ期",
+    "PreLimit": 1,
+    "LimitParam": "6",
+    "PlayCond": 1,
+    "PlayCondParams": "10",
+    "StartType": 2,
+    "StartTime": "2026-04-29T12:00:00+08:00",
+    "EndType": 2,
+    "EndTime": "2026-05-08T03:59:59+08:00",
+    "EnterRes": "Icon/Banner/banner_avtivity_m",
+    "TabBgRes": "Icon/Banner/tab_activity_jointdrill"
+  },
   "600001": {
     "Id": 600001,
     "SortId": 8,
@@ -535,6 +590,22 @@
     "EndType": 2,
     "EndTime": "2026-01-13T10:59:59+08:00",
     "EnterRes": "Icon/Banner/banner_travelerduel_r",
+    "HideFromActivityList": true
+  },
+  "600002": {
+    "Id": 600002,
+    "SortId": 8,
+    "ActivityType": 16,
+    "Name": "巅峰秀场",
+    "PreLimit": 1,
+    "LimitParam": "10",
+    "PlayCond": 1,
+    "PlayCondParams": "10",
+    "StartType": 2,
+    "StartTime": "2026-04-16T12:00:00+08:00",
+    "EndType": 2,
+    "EndTime": "2026-05-08T10:59:59+08:00",
+    "EnterRes": "Icon/Banner/banner_travelerduel_r_lang",
     "HideFromActivityList": true
   },
   "700101": {
@@ -711,6 +782,28 @@
     "EndType": 2,
     "EndTime": "2026-04-21T04:00:00+08:00",
     "TabBgRes": "Icon/Banner/tab_activity_trial_156_lang"
+  },
+  "700117": {
+    "Id": 700117,
+    "SortId": 7,
+    "ActivityType": 6,
+    "Name": "浅试身手-乙叶",
+    "StartType": 2,
+    "StartTime": "2026-04-16T12:00:00+08:00",
+    "EndType": 2,
+    "EndTime": "2026-05-08T10:59:59+08:00",
+    "TabBgRes": "Icon/Banner/tab_activity_trial_145_lang"
+  },
+  "700118": {
+    "Id": 700118,
+    "SortId": 7,
+    "ActivityType": 6,
+    "Name": "浅试身手-千都世",
+    "StartType": 2,
+    "StartTime": "2026-04-30T12:00:00+08:00",
+    "EndType": 2,
+    "EndTime": "2026-05-19T04:00:00+08:00",
+    "TabBgRes": "Icon/Banner/tab_activity_trial_144"
   },
   "1010001": {
     "Id": 1010001,
@@ -930,6 +1023,20 @@
     "BannerRes": "banner_PengCard",
     "TabBgRes": "Icon/Banner/tab_activity_PengCard"
   },
+  "800002": {
+    "Id": 800002,
+    "MidGroupId": 20102,
+    "ActivityType": 18,
+    "PreLimit": 1,
+    "LimitParam": "5",
+    "PlayCond": 1,
+    "PlayCondParams": "5",
+    "StartType": 2,
+    "StartTime": "2026-04-16T12:00:00+08:00",
+    "EndType": 2,
+    "EndTime": "2026-04-30T04:00:00+08:00",
+    "MiniGameRedDot": 2010205
+  },
   "1010401": {
     "Id": 1010401,
     "MidGroupId": 10104,
@@ -1110,5 +1217,41 @@
     "StartTime": "2026-03-17T12:00:00+08:00",
     "EndType": 2,
     "EndTime": "2026-04-07T10:59:59+08:00"
+  },
+  "2010201": {
+    "Id": 2010201,
+    "MidGroupId": 20102,
+    "SortId": 8,
+    "ActivityType": 9,
+    "Name": "乙叶战斗关卡",
+    "ActivityThemeType": 10,
+    "StartType": 2,
+    "StartTime": "2026-04-16T12:00:00+08:00",
+    "EndType": 2,
+    "EndTime": "2026-04-30T04:00:00+08:00"
+  },
+  "2010203": {
+    "Id": 2010203,
+    "MidGroupId": 20102,
+    "SortId": 11,
+    "ActivityType": 11,
+    "Name": "乙叶活动任务",
+    "ActivityThemeType": 10,
+    "StartType": 2,
+    "StartTime": "2026-04-16T12:00:00+08:00",
+    "EndType": 2,
+    "EndTime": "2026-05-08T10:59:59+08:00"
+  },
+  "2010204": {
+    "Id": 2010204,
+    "MidGroupId": 20102,
+    "SortId": 12,
+    "ActivityType": 12,
+    "Name": "乙叶活动商店",
+    "ActivityThemeType": 10,
+    "StartType": 2,
+    "StartTime": "2026-04-16T12:00:00+08:00",
+    "EndType": 2,
+    "EndTime": "2026-05-08T10:59:59+08:00"
   }
 }

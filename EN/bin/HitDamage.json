@@ -6210,7 +6210,7 @@
     "LevelData": 5,
     "DistanceType": 1,
     "SourceType": 1,
-    "DamageType": 1,
+    "DamageType": 2,
     "EffectType": 1,
     "ElementType": 2,
     "DamageBonusType": 1,
@@ -6267,7 +6267,7 @@
     "LevelData": 5,
     "DistanceType": 1,
     "SourceType": 1,
-    "DamageType": 1,
+    "DamageType": 2,
     "EffectType": 1,
     "ElementType": 2,
     "DamageBonusType": 1,
@@ -6324,7 +6324,7 @@
     "LevelData": 5,
     "DistanceType": 1,
     "SourceType": 1,
-    "DamageType": 1,
+    "DamageType": 2,
     "EffectType": 1,
     "ElementType": 2,
     "DamageBonusType": 1,
@@ -6381,7 +6381,7 @@
     "LevelData": 5,
     "DistanceType": 1,
     "SourceType": 1,
-    "DamageType": 1,
+    "DamageType": 2,
     "EffectType": 1,
     "ElementType": 2,
     "DamageBonusType": 1,
@@ -12901,7 +12901,8 @@
     "DamageTag": [
       -1625072714,
       -177771554,
-      -2145554104
+      -2145554104,
+      511304939
     ],
     "DamageBonusType": 1,
     "SkillPercentAmend": [
@@ -12964,7 +12965,8 @@
     "DamageTag": [
       -1625072714,
       -177771554,
-      -2145554104
+      -2145554104,
+      511304939
     ],
     "DamageBonusType": 1,
     "SkillPercentAmend": [
@@ -13027,7 +13029,8 @@
     "DamageTag": [
       -1625072714,
       -177771554,
-      -2145554104
+      -2145554104,
+      511304939
     ],
     "DamageBonusType": 1,
     "SkillPercentAmend": [
@@ -13090,7 +13093,8 @@
     "DamageTag": [
       -1625072714,
       -177771554,
-      -2145554104
+      -2145554104,
+      511304939
     ],
     "DamageBonusType": 1,
     "SkillPercentAmend": [
@@ -13153,7 +13157,8 @@
     "DamageTag": [
       -1625072714,
       -177771554,
-      -2145554104
+      -2145554104,
+      511304939
     ],
     "DamageBonusType": 1,
     "SkillPercentAmend": [
@@ -13204,6 +13209,68 @@
     "SkillId": 12510000,
     "SkillSlotType": 5
   },
+  "125100084": {
+    "Id": 125100084,
+    "levelTypeData": 3,
+    "LevelData": 5,
+    "DistanceType": 1,
+    "SourceType": 1,
+    "DamageType": 1,
+    "EffectType": 1,
+    "ElementType": 1,
+    "DamageTag": [
+      -1625072714,
+      -177771554,
+      -2145554104
+    ],
+    "DamageBonusType": 1,
+    "SkillPercentAmend": [
+      210000,
+      242000,
+      273000,
+      368000,
+      397000,
+      426000,
+      485000,
+      510000,
+      536000,
+      586000,
+      628000,
+      670000,
+      712000
+    ],
+    "SkillAbsAmend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "TalentPercentAmend": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "TalentAbsAmend": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "SkillId": 12510000,
+    "SkillSlotType": 5
+  },
   "125100083": {
     "Id": 125100083,
     "levelTypeData": 3,
@@ -13216,7 +13283,8 @@
     "DamageTag": [
       -1625072714,
       -177771554,
-      -2145554104
+      -2145554104,
+      511304939
     ],
     "DamageBonusType": 1,
     "SkillPercentAmend": [
@@ -15723,7 +15791,6 @@
     "Id": 130510001,
     "levelTypeData": 1,
     "LevelData": 513010,
-    "MainOrSupport": 1,
     "DistanceType": 2,
     "SourceType": 1,
     "DamageType": 7,
@@ -16687,23 +16754,24 @@
     "EffectType": 1,
     "ElementType": 1,
     "DamageTag": [
-      -136849249
+      -136849249,
+      918016384
     ],
     "DamageBonusType": 1,
     "SkillPercentAmend": [
-      92000,
-      106000,
-      119000,
-      161000,
-      173000,
-      186000,
-      212000,
-      223000,
-      234000,
-      256000,
-      274000,
+      115000,
+      132000,
+      149000,
+      201000,
+      217000,
+      233000,
+      265000,
+      279000,
       293000,
-      311000
+      320000,
+      343000,
+      366000,
+      389000
     ],
     "SkillAbsAmend": [
       0,
@@ -16748,23 +16816,24 @@
     "EffectType": 1,
     "ElementType": 1,
     "DamageTag": [
-      -136849249
+      -136849249,
+      918016384
     ],
     "DamageBonusType": 1,
     "SkillPercentAmend": [
-      133000,
-      153000,
-      173000,
-      233000,
-      252000,
-      270000,
-      308000,
-      324000,
-      340000,
-      372000,
-      398000,
+      167000,
+      192000,
+      217000,
+      291000,
+      315000,
+      338000,
+      385000,
+      405000,
       425000,
-      451000
+      465000,
+      498000,
+      531000,
+      565000
     ],
     "SkillAbsAmend": [
       0,
@@ -16809,23 +16878,24 @@
     "EffectType": 1,
     "ElementType": 1,
     "DamageTag": [
-      -136849249
+      -136849249,
+      918016384
     ],
     "DamageBonusType": 1,
     "SkillPercentAmend": [
-      113000,
-      129000,
-      146000,
-      197000,
-      213000,
-      229000,
-      260000,
-      274000,
-      287000,
-      314000,
-      337000,
+      141000,
+      162000,
+      183000,
+      246000,
+      266000,
+      286000,
+      325000,
+      342000,
       359000,
-      382000
+      392000,
+      421000,
+      449000,
+      477000
     ],
     "SkillAbsAmend": [
       0,
@@ -16870,23 +16940,24 @@
     "EffectType": 1,
     "ElementType": 1,
     "DamageTag": [
-      -136849249
+      -136849249,
+      918016384
     ],
     "DamageBonusType": 1,
     "SkillPercentAmend": [
-      262000,
-      300000,
-      340000,
-      460000,
-      500000,
-      530000,
-      610000,
-      640000,
+      328000,
+      380000,
+      430000,
+      570000,
+      620000,
       670000,
-      730000,
-      780000,
+      760000,
+      800000,
       840000,
-      890000
+      920000,
+      980000,
+      1050000,
+      1110000
     ],
     "SkillAbsAmend": [
       0,
@@ -16931,23 +17002,24 @@
     "EffectType": 1,
     "ElementType": 1,
     "DamageTag": [
-      -136849249
+      -136849249,
+      918016384
     ],
     "DamageBonusType": 1,
     "SkillPercentAmend": [
-      94000,
-      108000,
-      122000,
-      164000,
-      177000,
-      190000,
-      217000,
-      228000,
-      239000,
-      261000,
-      280000,
+      117000,
+      135000,
+      152000,
+      205000,
+      221000,
+      238000,
+      271000,
+      285000,
       299000,
-      318000
+      327000,
+      350000,
+      374000,
+      397000
     ],
     "SkillAbsAmend": [
       0,
@@ -16992,23 +17064,24 @@
     "EffectType": 1,
     "ElementType": 1,
     "DamageTag": [
-      -136849249
+      -136849249,
+      918016384
     ],
     "DamageBonusType": 1,
     "SkillPercentAmend": [
-      101000,
-      116000,
-      132000,
-      177000,
-      191000,
-      205000,
-      234000,
-      246000,
-      258000,
-      282000,
-      302000,
+      126000,
+      145000,
+      164000,
+      221000,
+      239000,
+      257000,
+      292000,
+      307000,
       323000,
-      343000
+      353000,
+      378000,
+      403000,
+      429000
     ],
     "SkillAbsAmend": [
       0,
@@ -17053,23 +17126,24 @@
     "EffectType": 1,
     "ElementType": 1,
     "DamageTag": [
-      -136849249
+      -136849249,
+      918016384
     ],
     "DamageBonusType": 1,
     "SkillPercentAmend": [
-      202000,
-      233000,
-      263000,
-      354000,
-      382000,
-      410000,
-      467000,
-      491000,
-      516000,
-      564000,
-      605000,
+      253000,
+      291000,
+      329000,
+      442000,
+      478000,
+      513000,
+      584000,
+      614000,
       645000,
-      685000
+      705000,
+      756000,
+      807000,
+      857000
     ],
     "SkillAbsAmend": [
       0,
@@ -17114,7 +17188,8 @@
     "EffectType": 1,
     "ElementType": 1,
     "DamageTag": [
-      -136849249
+      -136849249,
+      1814218827
     ],
     "DamageBonusType": 1,
     "SkillPercentAmend": [
@@ -17175,7 +17250,8 @@
     "EffectType": 1,
     "ElementType": 1,
     "DamageTag": [
-      -136849249
+      -136849249,
+      1814218827
     ],
     "DamageBonusType": 1,
     "SkillPercentAmend": [
@@ -17305,7 +17381,8 @@
       891494606,
       1409885785,
       1642108325,
-      -1932189522
+      -1932189522,
+      -70119368
     ],
     "DamageBonusType": 1,
     "SkillPercentAmend": [
@@ -17370,23 +17447,89 @@
       -136849249,
       1642108325,
       1409885785,
-      -1932189522
+      -1932189522,
+      918016384,
+      -70119368
     ],
     "DamageBonusType": 1,
     "SkillPercentAmend": [
-      152000,
-      175000,
-      197000,
-      266000,
-      287000,
-      308000,
-      351000,
-      369000,
-      387000,
-      423000,
-      454000,
-      484000,
-      514000
+      190000,
+      218000,
+      246000,
+      332000,
+      358000,
+      385000,
+      438000,
+      461000,
+      483000,
+      529000,
+      567000,
+      605000,
+      643000
+    ],
+    "SkillAbsAmend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "TalentPercentAmend": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "TalentAbsAmend": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "SkillId": 14410000,
+    "SkillSlotType": 5
+  },
+  "144310102": {
+    "Id": 144310102,
+    "levelTypeData": 3,
+    "LevelData": 5,
+    "DistanceType": 1,
+    "SourceType": 1,
+    "DamageType": 1,
+    "EffectType": 1,
+    "ElementType": 1,
+    "DamageTag": [
+      -136849249,
+      1642108325,
+      1409885785,
+      -1932189522,
+      1814218827
+    ],
+    "DamageBonusType": 1,
+    "SkillPercentAmend": [
+      190000,
+      218000,
+      246000,
+      332000,
+      358000,
+      385000,
+      438000,
+      461000,
+      483000,
+      529000,
+      567000,
+      605000,
+      643000
     ],
     "SkillAbsAmend": [
       0,
@@ -17435,23 +17578,24 @@
       891494606,
       1409885785,
       1642108325,
-      -1932189522
+      -1932189522,
+      -70119368
     ],
     "DamageBonusType": 1,
     "SkillPercentAmend": [
-      980000,
-      1130000,
-      1270000,
-      1710000,
-      1850000,
-      1990000,
-      2260000,
-      2380000,
-      2500000,
-      2730000,
-      2930000,
-      3120000,
-      3320000
+      1900000,
+      2180000,
+      2470000,
+      3320000,
+      3580000,
+      3850000,
+      4380000,
+      4610000,
+      4840000,
+      5290000,
+      5670000,
+      6050000,
+      6430000
     ],
     "SkillAbsAmend": [
       0,
@@ -17468,7 +17612,7 @@
       0,
       0
     ],
-    "EnergyCharge": 78100,
+    "EnergyCharge": 38600,
     "TalentPercentAmend": [
       0,
       0,
@@ -17498,7 +17642,8 @@
     "ElementType": 1,
     "DamageTag": [
       1642108325,
-      1409885785
+      1409885785,
+      -70119368
     ],
     "DamageBonusType": 1,
     "SkillPercentAmend": [
@@ -17866,7 +18011,8 @@
       -1971903251,
       1409885785,
       1642108325,
-      -1932189522
+      -1932189522,
+      -70119368
     ],
     "DamageBonusType": 1,
     "SkillPercentAmend": [
@@ -17929,7 +18075,8 @@
       -1971903251,
       1409885785,
       1642108325,
-      -1932189522
+      -1932189522,
+      -70119368
     ],
     "DamageBonusType": 1,
     "SkillPercentAmend": [
@@ -17993,23 +18140,90 @@
       1642108325,
       1409885785,
       871371533,
-      856775279
+      856775279,
+      918016384,
+      -70119368
     ],
     "DamageBonusType": 1,
     "SkillPercentAmend": [
-      152000,
-      175000,
-      197000,
-      266000,
-      287000,
-      308000,
-      351000,
-      369000,
-      387000,
-      423000,
-      454000,
-      484000,
-      514000
+      190000,
+      218000,
+      246000,
+      332000,
+      358000,
+      385000,
+      438000,
+      461000,
+      483000,
+      529000,
+      567000,
+      605000,
+      643000
+    ],
+    "SkillAbsAmend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "TalentPercentAmend": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "TalentAbsAmend": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "SkillId": 14410000,
+    "SkillSlotType": 5
+  },
+  "144311102": {
+    "Id": 144311102,
+    "levelTypeData": 3,
+    "LevelData": 5,
+    "DistanceType": 1,
+    "SourceType": 1,
+    "DamageType": 1,
+    "EffectType": 1,
+    "ElementType": 1,
+    "DamageTag": [
+      -136849249,
+      1642108325,
+      1409885785,
+      871371533,
+      856775279,
+      -89134819
+    ],
+    "DamageBonusType": 1,
+    "SkillPercentAmend": [
+      190000,
+      218000,
+      246000,
+      332000,
+      358000,
+      385000,
+      438000,
+      461000,
+      483000,
+      529000,
+      567000,
+      605000,
+      643000
     ],
     "SkillAbsAmend": [
       0,
@@ -18055,7 +18269,8 @@
     "DamageTag": [
       -136849249,
       871371533,
-      856775279
+      856775279,
+      918016384
     ],
     "DamageBonusType": 1,
     "SkillPercentAmend": [
@@ -18117,7 +18332,8 @@
     "DamageTag": [
       -136849249,
       871371533,
-      856775279
+      856775279,
+      918016384
     ],
     "DamageBonusType": 1,
     "SkillPercentAmend": [
@@ -18179,7 +18395,8 @@
     "DamageTag": [
       -136849249,
       871371533,
-      856775279
+      856775279,
+      918016384
     ],
     "DamageBonusType": 1,
     "SkillPercentAmend": [
@@ -18241,7 +18458,8 @@
     "DamageTag": [
       -136849249,
       871371533,
-      856775279
+      856775279,
+      918016384
     ],
     "DamageBonusType": 1,
     "SkillPercentAmend": [
@@ -18303,7 +18521,8 @@
     "DamageTag": [
       -136849249,
       871371533,
-      856775279
+      856775279,
+      918016384
     ],
     "DamageBonusType": 1,
     "SkillPercentAmend": [
@@ -18365,7 +18584,8 @@
     "DamageTag": [
       -136849249,
       871371533,
-      856775279
+      856775279,
+      918016384
     ],
     "DamageBonusType": 1,
     "SkillPercentAmend": [
@@ -18427,7 +18647,8 @@
     "DamageTag": [
       -136849249,
       871371533,
-      856775279
+      856775279,
+      918016384
     ],
     "DamageBonusType": 1,
     "SkillPercentAmend": [
@@ -18489,7 +18710,8 @@
     "DamageTag": [
       -136849249,
       871371533,
-      856775279
+      856775279,
+      -89134819
     ],
     "DamageBonusType": 1,
     "SkillPercentAmend": [
@@ -18551,7 +18773,8 @@
     "DamageTag": [
       -136849249,
       871371533,
-      856775279
+      856775279,
+      -89134819
     ],
     "DamageBonusType": 1,
     "SkillPercentAmend": [
@@ -18682,7 +18905,8 @@
       1409885785,
       -174122358,
       1642108325,
-      856775279
+      856775279,
+      -70119368
     ],
     "DamageBonusType": 1,
     "SkillPercentAmend": [
@@ -18749,23 +18973,24 @@
       1409885785,
       -174122358,
       1642108325,
-      856775279
+      856775279,
+      -70119368
     ],
     "DamageBonusType": 1,
     "SkillPercentAmend": [
-      980000,
-      1130000,
-      1270000,
-      1710000,
-      1850000,
-      1990000,
-      2260000,
-      2380000,
-      2500000,
-      2730000,
-      2930000,
-      3120000,
-      3320000
+      1900000,
+      2180000,
+      2470000,
+      3320000,
+      3580000,
+      3850000,
+      4380000,
+      4610000,
+      4840000,
+      5290000,
+      5670000,
+      6050000,
+      6430000
     ],
     "SkillAbsAmend": [
       0,
@@ -18802,6 +19027,69 @@
   },
   "144311111": {
     "Id": 144311111,
+    "levelTypeData": 3,
+    "LevelData": 2,
+    "MainOrSupport": 1,
+    "DistanceType": 1,
+    "SourceType": 1,
+    "DamageType": 2,
+    "EffectType": 7,
+    "ElementType": 1,
+    "DamageTag": [
+      -136849249,
+      1642108325,
+      1409885785
+    ],
+    "DamageBonusType": 1,
+    "SkillPercentAmend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "SkillAbsAmend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "TalentPercentAmend": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "TalentAbsAmend": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "SkillId": 14410000,
+    "SkillSlotType": 2
+  },
+  "144311112": {
+    "Id": 144311112,
     "levelTypeData": 3,
     "LevelData": 2,
     "MainOrSupport": 1,
@@ -20904,8 +21192,7 @@
     "EffectType": 1,
     "ElementType": 5,
     "DamageTag": [
-      1692410173,
-      -993528560
+      1692410173
     ],
     "DamageBonusType": 1,
     "SkillPercentAmend": [
@@ -20964,8 +21251,7 @@
     "EffectType": 1,
     "ElementType": 5,
     "DamageTag": [
-      1692410173,
-      -993528560
+      1692410173
     ],
     "DamageBonusType": 1,
     "SkillPercentAmend": [
@@ -21024,8 +21310,7 @@
     "EffectType": 1,
     "ElementType": 5,
     "DamageTag": [
-      1692410173,
-      -993528560
+      1692410173
     ],
     "DamageBonusType": 1,
     "SkillPercentAmend": [
@@ -21077,18 +21362,260 @@
   "115120001": {
     "Id": 115120001,
     "levelTypeData": 3,
-    "LevelData": 5,
+    "LevelData": 2,
+    "MainOrSupport": 2,
     "DistanceType": 2,
     "SourceType": 1,
-    "DamageType": 1,
+    "DamageType": 2,
     "EffectType": 1,
     "ElementType": 5,
     "DamageTag": [
-      -2140674138,
-      458558819,
-      142151801,
-      1059562886,
-      109642726,
+      579926532,
+      -1289054857
+    ],
+    "DamageBonusType": 1,
+    "SkillPercentAmend": [
+      159000,
+      175000,
+      191000,
+      207000,
+      222000,
+      238000,
+      254000,
+      270000,
+      286000,
+      302000,
+      318000,
+      334000,
+      350000
+    ],
+    "SkillAbsAmend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "TalentPercentAmend": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "TalentAbsAmend": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "SkillSlotType": 5
+  },
+  "115120002": {
+    "Id": 115120002,
+    "levelTypeData": 3,
+    "LevelData": 2,
+    "MainOrSupport": 2,
+    "DistanceType": 2,
+    "SourceType": 1,
+    "DamageType": 2,
+    "EffectType": 1,
+    "ElementType": 5,
+    "DamageTag": [
+      579926532,
+      -1289054857
+    ],
+    "DamageBonusType": 1,
+    "SkillPercentAmend": [
+      159000,
+      175000,
+      191000,
+      207000,
+      222000,
+      238000,
+      254000,
+      270000,
+      286000,
+      302000,
+      318000,
+      334000,
+      350000
+    ],
+    "SkillAbsAmend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "TalentPercentAmend": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "TalentAbsAmend": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "SkillSlotType": 5
+  },
+  "115120003": {
+    "Id": 115120003,
+    "levelTypeData": 3,
+    "LevelData": 2,
+    "MainOrSupport": 2,
+    "DistanceType": 2,
+    "SourceType": 1,
+    "DamageType": 2,
+    "EffectType": 1,
+    "ElementType": 5,
+    "DamageTag": [
+      579926532,
+      -1289054857
+    ],
+    "DamageBonusType": 1,
+    "SkillPercentAmend": [
+      159000,
+      175000,
+      191000,
+      207000,
+      222000,
+      238000,
+      254000,
+      270000,
+      286000,
+      302000,
+      318000,
+      334000,
+      350000
+    ],
+    "SkillAbsAmend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "TalentPercentAmend": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "TalentAbsAmend": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "SkillSlotType": 5
+  },
+  "115120004": {
+    "Id": 115120004,
+    "levelTypeData": 3,
+    "LevelData": 2,
+    "MainOrSupport": 2,
+    "DistanceType": 2,
+    "SourceType": 1,
+    "DamageType": 2,
+    "EffectType": 1,
+    "ElementType": 5,
+    "DamageTag": [
+      579926532,
+      -1289054857
+    ],
+    "DamageBonusType": 1,
+    "SkillPercentAmend": [
+      159000,
+      175000,
+      191000,
+      207000,
+      222000,
+      238000,
+      254000,
+      270000,
+      286000,
+      302000,
+      318000,
+      334000,
+      350000
+    ],
+    "SkillAbsAmend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "TalentPercentAmend": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "TalentAbsAmend": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "SkillSlotType": 5
+  },
+  "115120005": {
+    "Id": 115120005,
+    "levelTypeData": 3,
+    "LevelData": 2,
+    "MainOrSupport": 2,
+    "DistanceType": 2,
+    "SourceType": 1,
+    "DamageType": 2,
+    "EffectType": 1,
+    "ElementType": 5,
+    "DamageTag": [
+      -1747286272,
+      -1289054857,
       -269834541
     ],
     "DamageBonusType": 1,
@@ -21138,22 +21665,81 @@
     ],
     "SkillSlotType": 5
   },
-  "115122101": {
-    "Id": 115122101,
+  "115122201": {
+    "Id": 115122201,
     "levelTypeData": 3,
-    "LevelData": 5,
+    "LevelData": 2,
+    "MainOrSupport": 2,
     "DistanceType": 2,
     "SourceType": 1,
-    "DamageType": 1,
+    "DamageType": 2,
     "EffectType": 1,
     "ElementType": 5,
     "DamageTag": [
-      -2140674138,
-      458558819,
-      142151801,
-      1059562886,
-      109642726,
+      -1747286272,
+      -1289054857,
       -269834541
+    ],
+    "DamageBonusType": 1,
+    "SkillPercentAmend": [
+      189000,
+      207000,
+      226000,
+      245000,
+      264000,
+      283000,
+      302000,
+      321000,
+      340000,
+      359000,
+      378000,
+      396000,
+      415000
+    ],
+    "SkillAbsAmend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "TalentPercentAmend": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "TalentAbsAmend": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "SkillSlotType": 5
+  },
+  "115122202": {
+    "Id": 115122202,
+    "levelTypeData": 3,
+    "LevelData": 2,
+    "MainOrSupport": 2,
+    "DistanceType": 2,
+    "SourceType": 1,
+    "DamageType": 2,
+    "EffectType": 1,
+    "ElementType": 5,
+    "DamageTag": [
+      -1747286272,
+      -1289054857
     ],
     "DamageBonusType": 1,
     "SkillPercentAmend": [
@@ -21213,11 +21799,191 @@
     "EffectType": 1,
     "ElementType": 5,
     "DamageTag": [
-      -2140674138,
-      458558819,
-      142151801,
-      109642726,
-      -269834541
+      579926532,
+      -1289054857
+    ],
+    "DamageBonusType": 1,
+    "SkillPercentAmend": [
+      280000,
+      310000,
+      340000,
+      370000,
+      400000,
+      430000,
+      450000,
+      480000,
+      510000,
+      540000,
+      570000,
+      600000,
+      620000
+    ],
+    "SkillAbsAmend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "TalentPercentAmend": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "TalentAbsAmend": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "SkillSlotType": 2
+  },
+  "115122302": {
+    "Id": 115122302,
+    "levelTypeData": 3,
+    "LevelData": 2,
+    "MainOrSupport": 2,
+    "DistanceType": 2,
+    "SourceType": 1,
+    "DamageType": 2,
+    "EffectType": 1,
+    "ElementType": 5,
+    "DamageTag": [
+      579926532,
+      -1289054857
+    ],
+    "DamageBonusType": 1,
+    "SkillPercentAmend": [
+      280000,
+      310000,
+      340000,
+      370000,
+      400000,
+      430000,
+      450000,
+      480000,
+      510000,
+      540000,
+      570000,
+      600000,
+      620000
+    ],
+    "SkillAbsAmend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "TalentPercentAmend": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "TalentAbsAmend": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "SkillSlotType": 2
+  },
+  "115122303": {
+    "Id": 115122303,
+    "levelTypeData": 3,
+    "LevelData": 2,
+    "MainOrSupport": 2,
+    "DistanceType": 2,
+    "SourceType": 1,
+    "DamageType": 2,
+    "EffectType": 1,
+    "ElementType": 5,
+    "DamageTag": [
+      579926532,
+      -1289054857
+    ],
+    "DamageBonusType": 1,
+    "SkillPercentAmend": [
+      280000,
+      310000,
+      340000,
+      370000,
+      400000,
+      430000,
+      450000,
+      480000,
+      510000,
+      540000,
+      570000,
+      600000,
+      620000
+    ],
+    "SkillAbsAmend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "TalentPercentAmend": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "TalentAbsAmend": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "SkillSlotType": 2
+  },
+  "115122304": {
+    "Id": 115122304,
+    "levelTypeData": 3,
+    "LevelData": 2,
+    "MainOrSupport": 2,
+    "DistanceType": 2,
+    "SourceType": 1,
+    "DamageType": 2,
+    "EffectType": 1,
+    "ElementType": 5,
+    "DamageTag": [
+      579926532,
+      -1289054857
     ],
     "DamageBonusType": 1,
     "SkillPercentAmend": [
@@ -21277,8 +22043,8 @@
     "EffectType": 1,
     "ElementType": 5,
     "DamageTag": [
-      -2140674138,
-      458558819
+      579926532,
+      -1289054857
     ],
     "DamageBonusType": 1,
     "SkillPercentAmend": [
@@ -21323,10 +22089,10 @@
     ],
     "SkillSlotType": 2
   },
-  "115322701": {
-    "Id": 115322701,
-    "levelTypeData": 1,
-    "LevelData": 511527,
+  "115322402": {
+    "Id": 115322402,
+    "levelTypeData": 3,
+    "LevelData": 2,
     "MainOrSupport": 2,
     "DistanceType": 2,
     "SourceType": 1,
@@ -21334,8 +22100,293 @@
     "EffectType": 1,
     "ElementType": 5,
     "DamageTag": [
-      -2140674138,
-      458558819
+      579926532,
+      -1289054857
+    ],
+    "DamageBonusType": 1,
+    "SkillPercentAmend": [
+      340000,
+      450000,
+      570000,
+      680000,
+      800000,
+      910000,
+      1020000,
+      1140000,
+      1250000
+    ],
+    "SkillAbsAmend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "TalentPercentAmend": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "TalentAbsAmend": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "SkillSlotType": 2
+  },
+  "115322403": {
+    "Id": 115322403,
+    "levelTypeData": 3,
+    "LevelData": 2,
+    "MainOrSupport": 2,
+    "DistanceType": 2,
+    "SourceType": 1,
+    "DamageType": 2,
+    "EffectType": 1,
+    "ElementType": 5,
+    "DamageTag": [
+      579926532,
+      -1289054857
+    ],
+    "DamageBonusType": 1,
+    "SkillPercentAmend": [
+      340000,
+      450000,
+      570000,
+      680000,
+      800000,
+      910000,
+      1020000,
+      1140000,
+      1250000
+    ],
+    "SkillAbsAmend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "TalentPercentAmend": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "TalentAbsAmend": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "SkillSlotType": 2
+  },
+  "115322404": {
+    "Id": 115322404,
+    "levelTypeData": 3,
+    "LevelData": 2,
+    "MainOrSupport": 2,
+    "DistanceType": 2,
+    "SourceType": 1,
+    "DamageType": 2,
+    "EffectType": 1,
+    "ElementType": 5,
+    "DamageTag": [
+      579926532,
+      -1289054857
+    ],
+    "DamageBonusType": 1,
+    "SkillPercentAmend": [
+      340000,
+      450000,
+      570000,
+      680000,
+      800000,
+      910000,
+      1020000,
+      1140000,
+      1250000
+    ],
+    "SkillAbsAmend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "TalentPercentAmend": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "TalentAbsAmend": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "SkillSlotType": 2
+  },
+  "115322405": {
+    "Id": 115322405,
+    "levelTypeData": 3,
+    "LevelData": 2,
+    "MainOrSupport": 2,
+    "DistanceType": 2,
+    "SourceType": 1,
+    "DamageType": 2,
+    "EffectType": 1,
+    "ElementType": 5,
+    "DamageTag": [
+      579926532,
+      -1289054857
+    ],
+    "DamageBonusType": 1,
+    "SkillPercentAmend": [
+      340000,
+      450000,
+      570000,
+      680000,
+      800000,
+      910000,
+      1020000,
+      1140000,
+      1250000
+    ],
+    "SkillAbsAmend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "TalentPercentAmend": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "TalentAbsAmend": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "SkillSlotType": 2
+  },
+  "115322406": {
+    "Id": 115322406,
+    "levelTypeData": 3,
+    "LevelData": 2,
+    "MainOrSupport": 2,
+    "DistanceType": 2,
+    "SourceType": 1,
+    "DamageType": 2,
+    "EffectType": 1,
+    "ElementType": 5,
+    "DamageTag": [
+      579926532,
+      -1289054857
+    ],
+    "DamageBonusType": 1,
+    "SkillPercentAmend": [
+      340000,
+      450000,
+      570000,
+      680000,
+      800000,
+      910000,
+      1020000,
+      1140000,
+      1250000
+    ],
+    "SkillAbsAmend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "TalentPercentAmend": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "TalentAbsAmend": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "SkillSlotType": 2
+  },
+  "115322601": {
+    "Id": 115322601,
+    "levelTypeData": 1,
+    "LevelData": 511526,
+    "DistanceType": 2,
+    "SourceType": 1,
+    "DamageType": 2,
+    "EffectType": 1,
+    "ElementType": 5,
+    "DamageTag": [
+      -1747286272,
+      -1289054857,
+      -269834541
     ],
     "DamageBonusType": 1,
     "SkillPercentAmend": [
@@ -21384,19 +22435,137 @@
     ],
     "SkillSlotType": 2
   },
-  "115322702": {
-    "Id": 115322702,
+  "115322602": {
+    "Id": 115322602,
     "levelTypeData": 1,
-    "LevelData": 511527,
-    "MainOrSupport": 2,
+    "LevelData": 511526,
     "DistanceType": 2,
     "SourceType": 1,
     "DamageType": 2,
     "EffectType": 1,
     "ElementType": 5,
     "DamageTag": [
-      -2140674138,
-      458558819
+      -1747286272,
+      -1289054857,
+      -269834541
+    ],
+    "DamageBonusType": 1,
+    "SkillPercentAmend": [
+      68000,
+      75000,
+      82000,
+      89000,
+      95000,
+      102000,
+      109000,
+      116000,
+      123000,
+      129000,
+      136000,
+      143000,
+      150000
+    ],
+    "SkillAbsAmend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "TalentPercentAmend": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "TalentAbsAmend": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "SkillSlotType": 2
+  },
+  "115322701": {
+    "Id": 115322701,
+    "levelTypeData": 1,
+    "LevelData": 511527,
+    "DistanceType": 2,
+    "SourceType": 1,
+    "DamageType": 2,
+    "EffectType": 1,
+    "ElementType": 5,
+    "DamageTag": [
+      -1289054857
+    ],
+    "DamageBonusType": 1,
+    "SkillPercentAmend": [
+      136000,
+      150000,
+      164000,
+      177000,
+      191000,
+      204000,
+      218000,
+      232000,
+      245000,
+      259000,
+      272000,
+      286000,
+      300000
+    ],
+    "SkillAbsAmend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "TalentPercentAmend": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "TalentAbsAmend": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "SkillSlotType": 2
+  },
+  "115322702": {
+    "Id": 115322702,
+    "levelTypeData": 1,
+    "LevelData": 511527,
+    "DistanceType": 2,
+    "SourceType": 1,
+    "DamageType": 2,
+    "EffectType": 1,
+    "ElementType": 5,
+    "DamageTag": [
+      -1289054857
     ],
     "DamageBonusType": 1,
     "SkillPercentAmend": [
@@ -21455,8 +22624,8 @@
     "EffectType": 1,
     "ElementType": 5,
     "DamageTag": [
-      458558819,
-      109642726
+      579926532,
+      -1289054857
     ],
     "DamageBonusType": 1,
     "SkillPercentAmend": [
@@ -21501,80 +22670,19 @@
     ],
     "SkillSlotType": 2
   },
-  "115323002": {
-    "Id": 115323002,
-    "levelTypeData": 1,
-    "LevelData": 511530,
-    "DistanceType": 2,
-    "SourceType": 1,
-    "DamageType": 2,
-    "EffectType": 1,
-    "ElementType": 5,
-    "DamageTag": [
-      458558819,
-      109642726
-    ],
-    "DamageBonusType": 1,
-    "SkillPercentAmend": [
-      970000,
-      1070000,
-      1160000,
-      1260000,
-      1360000,
-      1460000,
-      1550000,
-      1650000,
-      1750000
-    ],
-    "SkillAbsAmend": [
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0
-    ],
-    "TalentPercentAmend": [
-      0,
-      0,
-      0,
-      0,
-      0
-    ],
-    "TalentAbsAmend": [
-      0,
-      0,
-      0,
-      0,
-      0
-    ],
-    "SkillSlotType": 2
-  },
   "115110001": {
     "Id": 115110001,
     "levelTypeData": 3,
-    "LevelData": 5,
+    "LevelData": 2,
+    "MainOrSupport": 1,
     "DistanceType": 2,
     "SourceType": 1,
     "DamageType": 1,
     "EffectType": 1,
     "ElementType": 5,
     "DamageTag": [
-      1432727317,
-      1147541647,
-      -226170499,
-      -1224951058,
-      -218410706,
-      1242439129,
-      -625934264,
-      1136153074
+      2101859185,
+      1147541647
     ],
     "DamageBonusType": 1,
     "SkillPercentAmend": [
@@ -21627,21 +22735,16 @@
   "115110002": {
     "Id": 115110002,
     "levelTypeData": 3,
-    "LevelData": 5,
+    "LevelData": 2,
+    "MainOrSupport": 1,
     "DistanceType": 2,
     "SourceType": 1,
     "DamageType": 1,
     "EffectType": 1,
     "ElementType": 5,
     "DamageTag": [
-      1432727317,
-      1147541647,
-      -226170499,
-      804645716,
-      -218410706,
-      1242439129,
-      -625934264,
-      1136153074
+      2101859185,
+      1147541647
     ],
     "DamageBonusType": 1,
     "SkillPercentAmend": [
@@ -21694,21 +22797,16 @@
   "115110003": {
     "Id": 115110003,
     "levelTypeData": 3,
-    "LevelData": 5,
+    "LevelData": 2,
+    "MainOrSupport": 1,
     "DistanceType": 2,
     "SourceType": 1,
     "DamageType": 1,
     "EffectType": 1,
     "ElementType": 5,
     "DamageTag": [
-      1432727317,
-      1147541647,
-      -226170499,
-      1492310978,
-      -218410706,
-      1242439129,
-      -625934264,
-      1136153074
+      2101859185,
+      1147541647
     ],
     "DamageBonusType": 1,
     "SkillPercentAmend": [
@@ -21761,21 +22859,16 @@
   "115110004": {
     "Id": 115110004,
     "levelTypeData": 3,
-    "LevelData": 5,
+    "LevelData": 2,
+    "MainOrSupport": 1,
     "DistanceType": 2,
     "SourceType": 1,
     "DamageType": 1,
     "EffectType": 1,
     "ElementType": 5,
     "DamageTag": [
-      1432727317,
-      1147541647,
-      -226170499,
-      -963228063,
-      -218410706,
-      1242439129,
-      -625934264,
-      1136153074
+      2101859185,
+      1147541647
     ],
     "DamageBonusType": 1,
     "SkillPercentAmend": [
@@ -21828,21 +22921,16 @@
   "115110101": {
     "Id": 115110101,
     "levelTypeData": 3,
-    "LevelData": 5,
+    "LevelData": 2,
+    "MainOrSupport": 1,
     "DistanceType": 2,
     "SourceType": 1,
-    "DamageType": 1,
+    "DamageType": 2,
     "EffectType": 1,
     "ElementType": 5,
     "DamageTag": [
-      1432727317,
-      1147541647,
-      -226170499,
-      -1224951058,
-      -218410706,
-      1242439129,
-      -625934264,
-      1136153074
+      2101859185,
+      1147541647
     ],
     "DamageBonusType": 1,
     "SkillPercentAmend": [
@@ -21895,21 +22983,16 @@
   "115110102": {
     "Id": 115110102,
     "levelTypeData": 3,
-    "LevelData": 5,
+    "LevelData": 2,
+    "MainOrSupport": 1,
     "DistanceType": 2,
     "SourceType": 1,
-    "DamageType": 1,
+    "DamageType": 2,
     "EffectType": 1,
     "ElementType": 5,
     "DamageTag": [
-      1432727317,
-      1147541647,
-      -226170499,
-      804645716,
-      -218410706,
-      1242439129,
-      -625934264,
-      1136153074
+      2101859185,
+      1147541647
     ],
     "DamageBonusType": 1,
     "SkillPercentAmend": [
@@ -21962,21 +23045,16 @@
   "115110103": {
     "Id": 115110103,
     "levelTypeData": 3,
-    "LevelData": 5,
+    "LevelData": 2,
+    "MainOrSupport": 1,
     "DistanceType": 2,
     "SourceType": 1,
-    "DamageType": 1,
+    "DamageType": 2,
     "EffectType": 1,
     "ElementType": 5,
     "DamageTag": [
-      1432727317,
-      1147541647,
-      -226170499,
-      1492310978,
-      -218410706,
-      1242439129,
-      -625934264,
-      1136153074
+      2101859185,
+      1147541647
     ],
     "DamageBonusType": 1,
     "SkillPercentAmend": [
@@ -22029,21 +23107,16 @@
   "115110104": {
     "Id": 115110104,
     "levelTypeData": 3,
-    "LevelData": 5,
+    "LevelData": 2,
+    "MainOrSupport": 1,
     "DistanceType": 2,
     "SourceType": 1,
-    "DamageType": 1,
+    "DamageType": 2,
     "EffectType": 1,
     "ElementType": 5,
     "DamageTag": [
-      1432727317,
-      1147541647,
-      -226170499,
-      -963228063,
-      -218410706,
-      1242439129,
-      -625934264,
-      1136153074
+      2101859185,
+      1147541647
     ],
     "DamageBonusType": 1,
     "SkillPercentAmend": [
@@ -22104,11 +23177,8 @@
     "EffectType": 1,
     "ElementType": 5,
     "DamageTag": [
-      1432727317,
-      1147541647,
-      -1152087254,
-      -625934264,
-      1136153074
+      2101859185,
+      1147541647
     ],
     "DamageBonusType": 1,
     "SkillPercentAmend": [
@@ -22168,11 +23238,8 @@
     "EffectType": 1,
     "ElementType": 5,
     "DamageTag": [
-      1432727317,
-      1147541647,
-      -1152087254,
-      -625934264,
-      1136153074
+      2101859185,
+      1147541647
     ],
     "DamageBonusType": 1,
     "SkillPercentAmend": [
@@ -22232,11 +23299,8 @@
     "EffectType": 1,
     "ElementType": 5,
     "DamageTag": [
-      1432727317,
-      1147541647,
-      -1224951058,
-      -625934264,
-      1136153074
+      2101859185,
+      1147541647
     ],
     "DamageBonusType": 1,
     "SkillPercentAmend": [
@@ -22296,11 +23360,8 @@
     "EffectType": 1,
     "ElementType": 5,
     "DamageTag": [
-      1432727317,
-      1147541647,
-      804645716,
-      -625934264,
-      1136153074
+      2101859185,
+      1147541647
     ],
     "DamageBonusType": 1,
     "SkillPercentAmend": [
@@ -22360,11 +23421,8 @@
     "EffectType": 1,
     "ElementType": 5,
     "DamageTag": [
-      1432727317,
-      1147541647,
-      1492310978,
-      -625934264,
-      1136153074
+      2101859185,
+      1147541647
     ],
     "DamageBonusType": 1,
     "SkillPercentAmend": [
@@ -22424,11 +23482,8 @@
     "EffectType": 1,
     "ElementType": 5,
     "DamageTag": [
-      1432727317,
-      1147541647,
-      -963228063,
-      -625934264,
-      1136153074
+      2101859185,
+      1147541647
     ],
     "DamageBonusType": 1,
     "SkillPercentAmend": [
@@ -22487,7 +23542,6 @@
     "EffectType": 1,
     "ElementType": 5,
     "DamageTag": [
-      1432727317,
       1147541647
     ],
     "DamageBonusType": 1,
@@ -22547,10 +23601,8 @@
     "EffectType": 1,
     "ElementType": 5,
     "DamageTag": [
-      1432727317,
-      1147541647,
-      -625934264,
-      1136153074
+      2101859185,
+      1147541647
     ],
     "DamageBonusType": 1,
     "SkillPercentAmend": [
@@ -22609,10 +23661,8 @@
     "EffectType": 1,
     "ElementType": 5,
     "DamageTag": [
-      1432727317,
-      1147541647,
-      -625934264,
-      1136153074
+      2101859185,
+      1147541647
     ],
     "DamageBonusType": 1,
     "SkillPercentAmend": [
@@ -22667,9 +23717,7 @@
     "EffectType": 1,
     "ElementType": 5,
     "DamageTag": [
-      1432727317,
-      1147541647,
-      -625934264
+      1147541647
     ],
     "DamageBonusType": 1,
     "SkillPercentAmend": [
@@ -30682,15 +31730,15 @@
     "ElementType": 6,
     "DamageBonusType": 1,
     "SkillPercentAmend": [
-      13000,
-      17000,
-      22000,
-      26000,
-      30000,
-      34000,
-      39000,
-      43000,
-      47000
+      40000,
+      70000,
+      90000,
+      120000,
+      140000,
+      170000,
+      190000,
+      220000,
+      240000
     ],
     "SkillAbsAmend": [
       0,
@@ -32428,15 +33476,15 @@
     "ElementType": 6,
     "DamageBonusType": 1,
     "SkillPercentAmend": [
-      120000,
-      160000,
-      200000,
-      230000,
-      270000,
-      310000,
-      350000,
-      390000,
-      420000
+      177000,
+      229000,
+      282000,
+      335000,
+      388000,
+      441000,
+      493000,
+      546000,
+      599000
     ],
     "SkillAbsAmend": [
       0,
@@ -32482,19 +33530,19 @@
     ],
     "DamageBonusType": 1,
     "SkillPercentAmend": [
-      120000,
-      132000,
-      144000,
-      156000,
-      168000,
-      180000,
-      192000,
-      204000,
-      216000,
-      228000,
-      240000,
-      252000,
-      264000
+      300000,
+      350000,
+      390000,
+      530000,
+      570000,
+      620000,
+      700000,
+      740000,
+      770000,
+      850000,
+      910000,
+      970000,
+      1030000
     ],
     "SkillAbsAmend": [
       0,
@@ -32511,7 +33559,7 @@
       0,
       0
     ],
-    "EnergyCharge": 20000,
+    "EnergyCharge": 14700,
     "TalentPercentAmend": [
       0,
       0,
@@ -32543,19 +33591,19 @@
     ],
     "DamageBonusType": 1,
     "SkillPercentAmend": [
-      143000,
-      157000,
-      172000,
-      186000,
-      200000,
-      214000,
-      229000,
-      243000,
-      257000,
-      272000,
-      286000,
       300000,
-      315000
+      350000,
+      390000,
+      530000,
+      570000,
+      620000,
+      700000,
+      740000,
+      770000,
+      850000,
+      910000,
+      970000,
+      1030000
     ],
     "SkillAbsAmend": [
       0,
@@ -32572,7 +33620,7 @@
       0,
       0
     ],
-    "EnergyCharge": 20000,
+    "EnergyCharge": 14700,
     "TalentPercentAmend": [
       0,
       0,
@@ -32604,19 +33652,19 @@
     ],
     "DamageBonusType": 1,
     "SkillPercentAmend": [
-      286000,
-      315000,
-      343000,
-      372000,
-      400000,
-      429000,
-      458000,
-      486000,
-      515000,
-      543000,
-      572000,
-      601000,
-      629000
+      101000,
+      116000,
+      132000,
+      177000,
+      191000,
+      205000,
+      234000,
+      246000,
+      258000,
+      282000,
+      302000,
+      323000,
+      343000
     ],
     "SkillAbsAmend": [
       0,
@@ -32633,7 +33681,7 @@
       0,
       0
     ],
-    "EnergyCharge": 20000,
+    "EnergyCharge": 14700,
     "TalentPercentAmend": [
       0,
       0,
@@ -32667,19 +33715,19 @@
     ],
     "DamageBonusType": 1,
     "SkillPercentAmend": [
-      900000,
-      1020000,
-      1130000,
-      1250000,
-      1370000,
-      1480000,
-      1640000,
-      1800000,
-      1960000,
-      2120000,
-      2280000,
-      2440000,
-      2600000
+      1170000,
+      1340000,
+      1520000,
+      2040000,
+      2210000,
+      2370000,
+      2700000,
+      2840000,
+      2980000,
+      3260000,
+      3490000,
+      3720000,
+      3950000
     ],
     "SkillAbsAmend": [
       0,
@@ -32696,7 +33744,7 @@
       0,
       0
     ],
-    "EnergyCharge": 80000,
+    "EnergyCharge": 140800,
     "TalentPercentAmend": [
       0,
       0,
@@ -32721,7 +33769,7 @@
     "MainOrSupport": 1,
     "DistanceType": 2,
     "SourceType": 1,
-    "DamageType": 2,
+    "DamageType": 3,
     "EffectType": 1,
     "ElementType": 6,
     "DamageTag": [
@@ -32729,19 +33777,19 @@
     ],
     "DamageBonusType": 1,
     "SkillPercentAmend": [
-      320000,
-      350000,
-      390000,
-      420000,
-      450000,
-      480000,
-      520000,
-      550000,
-      580000,
-      610000,
-      640000,
-      680000,
-      710000
+      220000,
+      254000,
+      287000,
+      386000,
+      417000,
+      448000,
+      509000,
+      536000,
+      562000,
+      615000,
+      659000,
+      703000,
+      747000
     ],
     "SkillAbsAmend": [
       0,
@@ -32854,19 +33902,19 @@
     ],
     "DamageBonusType": 1,
     "SkillPercentAmend": [
-      171000,
-      188000,
-      205000,
-      257000,
-      274000,
-      291000,
-      325000,
-      342000,
-      359000,
-      393000,
-      411000,
-      428000,
-      445000
+      124000,
+      143000,
+      161000,
+      217000,
+      235000,
+      252000,
+      287000,
+      302000,
+      317000,
+      347000,
+      371000,
+      396000,
+      421000
     ],
     "SkillAbsAmend": [
       0,
@@ -32904,11 +33952,11 @@
   "145300005": {
     "Id": 145300005,
     "levelTypeData": 1,
-    "LevelData": 514705,
+    "LevelData": 514505,
     "MainOrSupport": 1,
     "DistanceType": 2,
     "SourceType": 1,
-    "DamageType": 2,
+    "DamageType": 3,
     "EffectType": 1,
     "ElementType": 6,
     "DamageTag": [
@@ -32916,19 +33964,15 @@
     ],
     "DamageBonusType": 1,
     "SkillPercentAmend": [
-      320000,
-      350000,
-      390000,
-      420000,
-      450000,
-      480000,
-      520000,
-      550000,
-      580000,
-      610000,
-      640000,
-      680000,
-      710000
+      143000,
+      229000,
+      315000,
+      400000,
+      486000,
+      572000,
+      658000,
+      744000,
+      829000
     ],
     "SkillAbsAmend": [
       0,
@@ -32980,19 +34024,19 @@
     ],
     "DamageBonusType": 1,
     "SkillPercentAmend": [
-      232000,
-      255000,
-      278000,
-      302000,
-      325000,
-      348000,
-      371000,
-      394000,
-      418000,
-      441000,
-      464000,
-      487000,
-      510000
+      2270000,
+      2610000,
+      2950000,
+      3980000,
+      4300000,
+      4610000,
+      5250000,
+      5520000,
+      5800000,
+      6340000,
+      6800000,
+      7250000,
+      7700000
     ],
     "SkillAbsAmend": [
       0,
@@ -33043,19 +34087,19 @@
     ],
     "DamageBonusType": 1,
     "SkillPercentAmend": [
-      93000,
-      102000,
-      112000,
-      140000,
-      149000,
-      158000,
-      177000,
-      186000,
-      195000,
-      214000,
-      223000,
-      233000,
-      242000
+      190000,
+      218000,
+      246000,
+      332000,
+      358000,
+      385000,
+      438000,
+      460000,
+      483000,
+      529000,
+      567000,
+      604000,
+      642000
     ],
     "SkillAbsAmend": [
       0,
@@ -33089,72 +34133,10 @@
     "SkillId": 14532000,
     "SkillSlotType": 2
   },
-  "145300008": {
-    "Id": 145300008,
-    "levelTypeData": 3,
-    "LevelData": 2,
-    "MainOrSupport": 2,
-    "DistanceType": 2,
-    "SourceType": 1,
-    "DamageType": 3,
-    "EffectType": 1,
-    "ElementType": 6,
-    "DamageTag": [
-      -1127966687
-    ],
-    "DamageBonusType": 1,
-    "SkillPercentAmend": [
-      320000,
-      350000,
-      390000,
-      420000,
-      450000,
-      480000,
-      520000,
-      550000,
-      580000,
-      610000,
-      640000,
-      680000,
-      710000
-    ],
-    "SkillAbsAmend": [
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0
-    ],
-    "TalentPercentAmend": [
-      0,
-      0,
-      0,
-      0,
-      0
-    ],
-    "TalentAbsAmend": [
-      0,
-      0,
-      0,
-      0,
-      0
-    ],
-    "SkillId": 14532000,
-    "SkillSlotType": 2,
-    "PerkId": 514521
-  },
   "145300009": {
     "Id": 145300009,
     "levelTypeData": 1,
-    "LevelData": 514725,
+    "LevelData": 514525,
     "MainOrSupport": 2,
     "DistanceType": 2,
     "SourceType": 1,
@@ -33166,19 +34148,15 @@
     ],
     "DamageBonusType": 1,
     "SkillPercentAmend": [
-      320000,
-      350000,
-      390000,
-      420000,
-      450000,
-      480000,
-      520000,
-      550000,
-      580000,
       610000,
-      640000,
-      680000,
-      710000
+      980000,
+      1340000,
+      1710000,
+      2070000,
+      2440000,
+      2810000,
+      3170000,
+      3540000
     ],
     "SkillAbsAmend": [
       0,
@@ -33228,19 +34206,19 @@
     ],
     "DamageBonusType": 1,
     "SkillPercentAmend": [
-      232000,
-      255000,
-      278000,
-      302000,
-      325000,
-      348000,
-      371000,
-      394000,
-      418000,
-      441000,
-      464000,
-      487000,
-      510000
+      1100000,
+      1260000,
+      1430000,
+      1920000,
+      2070000,
+      2230000,
+      2530000,
+      2670000,
+      2800000,
+      3060000,
+      3280000,
+      3500000,
+      3720000
     ],
     "SkillAbsAmend": [
       0,
@@ -33286,23 +34264,24 @@
     "EffectType": 1,
     "ElementType": 6,
     "DamageTag": [
-      -1127966687
+      -1127966687,
+      -1535711189
     ],
     "DamageBonusType": 1,
     "SkillPercentAmend": [
-      760000,
-      860000,
-      960000,
-      1060000,
-      1160000,
-      1260000,
-      1390000,
-      1530000,
-      1660000,
-      1800000,
-      1930000,
-      2070000,
-      2200000
+      294000,
+      338000,
+      382000,
+      514000,
+      555000,
+      596000,
+      679000,
+      714000,
+      749000,
+      820000,
+      879000,
+      937000,
+      996000
     ],
     "SkillAbsAmend": [
       0,
@@ -33354,19 +34333,19 @@
     ],
     "DamageBonusType": 1,
     "SkillPercentAmend": [
-      67000,
-      74000,
-      81000,
-      101000,
-      108000,
-      114000,
-      128000,
-      135000,
-      141000,
-      155000,
-      162000,
-      168000,
-      175000
+      1180000,
+      1350000,
+      1530000,
+      2060000,
+      2220000,
+      2390000,
+      2710000,
+      2860000,
+      3000000,
+      3280000,
+      3510000,
+      3750000,
+      3980000
     ],
     "SkillAbsAmend": [
       0,
@@ -33415,19 +34394,19 @@
     ],
     "DamageBonusType": 1,
     "SkillPercentAmend": [
-      7180000,
-      7900000,
-      8620000,
-      10770000,
-      11490000,
-      12210000,
-      13640000,
-      14360000,
-      15080000,
-      16520000,
-      17230000,
-      17950000,
-      18670000
+      2020000,
+      2320000,
+      2630000,
+      3540000,
+      3820000,
+      4100000,
+      4670000,
+      4910000,
+      5150000,
+      5640000,
+      6040000,
+      6450000,
+      6850000
     ],
     "SkillAbsAmend": [
       0,
@@ -33475,19 +34454,19 @@
     ],
     "DamageBonusType": 1,
     "SkillPercentAmend": [
-      3450000,
-      3890000,
-      4340000,
-      4790000,
-      5240000,
-      5690000,
-      6300000,
-      6910000,
-      7530000,
-      8140000,
-      8750000,
-      9370000,
-      9980000
+      760000,
+      870000,
+      990000,
+      1330000,
+      1430000,
+      1540000,
+      1750000,
+      1840000,
+      1930000,
+      2120000,
+      2270000,
+      2420000,
+      2570000
     ],
     "SkillAbsAmend": [
       0,
@@ -33535,19 +34514,19 @@
     ],
     "DamageBonusType": 1,
     "SkillPercentAmend": [
-      10000,
-      10000,
-      90000,
-      100000,
-      109000,
-      118000,
-      131000,
-      144000,
-      156000,
-      169000,
-      182000,
-      194000,
-      207000
+      16000,
+      19000,
+      21000,
+      28000,
+      30000,
+      33000,
+      37000,
+      39000,
+      41000,
+      45000,
+      48000,
+      51000,
+      55000
     ],
     "SkillAbsAmend": [
       0,
@@ -33595,19 +34574,19 @@
     ],
     "DamageBonusType": 1,
     "SkillPercentAmend": [
-      320000,
-      350000,
-      390000,
-      420000,
-      450000,
-      480000,
-      520000,
-      550000,
-      580000,
-      610000,
-      640000,
-      680000,
-      710000
+      860000,
+      990000,
+      1120000,
+      1500000,
+      1630000,
+      1750000,
+      1990000,
+      2090000,
+      2190000,
+      2400000,
+      2570000,
+      2740000,
+      2920000
     ],
     "SkillAbsAmend": [
       0,
@@ -38482,7 +39461,7 @@
       0,
       0
     ],
-    "SkillId": 12310000,
+    "SkillId": 13310000,
     "SkillSlotType": 5
   },
   "133100002": {
@@ -38544,7 +39523,7 @@
       0,
       0
     ],
-    "SkillId": 12310000,
+    "SkillId": 13310000,
     "SkillSlotType": 5
   },
   "133100003": {
@@ -38606,7 +39585,7 @@
       0,
       0
     ],
-    "SkillId": 12310000,
+    "SkillId": 13310000,
     "SkillSlotType": 5
   },
   "133310001": {
@@ -47889,6 +48868,57 @@
     "DamageBonusType": 1,
     "SkillPercentAmend": [
       500000,
+      0
+    ],
+    "SkillAbsAmend": [
+      0,
+      0
+    ]
+  },
+  "8210131": {
+    "Id": 8210131,
+    "DistanceType": 2,
+    "SourceType": 1,
+    "DamageType": 1,
+    "EffectType": 1,
+    "ElementType": 7,
+    "DamageBonusType": 1,
+    "SkillPercentAmend": [
+      1000000,
+      0
+    ],
+    "SkillAbsAmend": [
+      0,
+      0
+    ]
+  },
+  "8210132": {
+    "Id": 8210132,
+    "DistanceType": 2,
+    "SourceType": 1,
+    "DamageType": 1,
+    "EffectType": 1,
+    "ElementType": 7,
+    "DamageBonusType": 1,
+    "SkillPercentAmend": [
+      4000000,
+      0
+    ],
+    "SkillAbsAmend": [
+      0,
+      0
+    ]
+  },
+  "8210141": {
+    "Id": 8210141,
+    "DistanceType": 2,
+    "SourceType": 1,
+    "DamageType": 1,
+    "EffectType": 1,
+    "ElementType": 7,
+    "DamageBonusType": 1,
+    "SkillPercentAmend": [
+      3000000,
       0
     ],
     "SkillAbsAmend": [
@@ -63360,6 +64390,196 @@
     ],
     "SkillId": 5025139
   },
+  "502515001": {
+    "Id": 502515001,
+    "DistanceType": 1,
+    "SourceType": 2,
+    "DamageType": 1,
+    "EffectType": 1,
+    "DamageBonusType": 1,
+    "SkillPercentAmend": [
+      1000000,
+      0
+    ],
+    "SkillAbsAmend": [
+      0,
+      0
+    ],
+    "SkillId": 5025150
+  },
+  "502515101": {
+    "Id": 502515101,
+    "DistanceType": 1,
+    "SourceType": 2,
+    "DamageType": 1,
+    "EffectType": 1,
+    "DamageBonusType": 1,
+    "SkillPercentAmend": [
+      1500000,
+      0
+    ],
+    "SkillAbsAmend": [
+      0,
+      0
+    ],
+    "SkillId": 5025151
+  },
+  "502515401": {
+    "Id": 502515401,
+    "DistanceType": 2,
+    "SourceType": 2,
+    "DamageType": 1,
+    "EffectType": 1,
+    "DamageBonusType": 1,
+    "SkillPercentAmend": [
+      1150000,
+      0
+    ],
+    "SkillAbsAmend": [
+      0,
+      0
+    ],
+    "SkillId": 5025154
+  },
+  "502515301": {
+    "Id": 502515301,
+    "DistanceType": 2,
+    "SourceType": 2,
+    "DamageType": 1,
+    "EffectType": 1,
+    "DamageBonusType": 1,
+    "SkillPercentAmend": [
+      900000,
+      0
+    ],
+    "SkillAbsAmend": [
+      0,
+      0
+    ],
+    "SkillId": 5025153
+  },
+  "502515402": {
+    "Id": 502515402,
+    "DistanceType": 2,
+    "SourceType": 2,
+    "DamageType": 1,
+    "EffectType": 1,
+    "DamageBonusType": 1,
+    "SkillPercentAmend": [
+      500000,
+      0
+    ],
+    "SkillAbsAmend": [
+      0,
+      0
+    ],
+    "SkillId": 5025154,
+    "HitImmunityTime": 5000
+  },
+  "502515501": {
+    "Id": 502515501,
+    "DistanceType": 1,
+    "SourceType": 2,
+    "DamageType": 1,
+    "EffectType": 1,
+    "DamageBonusType": 1,
+    "SkillPercentAmend": [
+      950000,
+      0
+    ],
+    "SkillAbsAmend": [
+      0,
+      0
+    ],
+    "SkillId": 5025155
+  },
+  "502515601": {
+    "Id": 502515601,
+    "DistanceType": 1,
+    "SourceType": 2,
+    "DamageType": 1,
+    "EffectType": 1,
+    "DamageBonusType": 1,
+    "SkillPercentAmend": [
+      1200000,
+      0
+    ],
+    "SkillAbsAmend": [
+      0,
+      0
+    ],
+    "SkillId": 5025156
+  },
+  "502515701": {
+    "Id": 502515701,
+    "DistanceType": 2,
+    "SourceType": 2,
+    "DamageType": 1,
+    "EffectType": 1,
+    "DamageBonusType": 1,
+    "SkillPercentAmend": [
+      1000000,
+      0
+    ],
+    "SkillAbsAmend": [
+      0,
+      0
+    ],
+    "SkillId": 5025157,
+    "HitImmunityTime": 5000
+  },
+  "502515801": {
+    "Id": 502515801,
+    "DistanceType": 1,
+    "SourceType": 2,
+    "DamageType": 1,
+    "EffectType": 1,
+    "DamageBonusType": 1,
+    "SkillPercentAmend": [
+      850000,
+      0
+    ],
+    "SkillAbsAmend": [
+      0,
+      0
+    ],
+    "SkillId": 5025158,
+    "HitImmunityTime": 5000
+  },
+  "502515802": {
+    "Id": 502515802,
+    "DistanceType": 1,
+    "SourceType": 2,
+    "DamageType": 1,
+    "EffectType": 1,
+    "DamageBonusType": 1,
+    "SkillPercentAmend": [
+      900000,
+      0
+    ],
+    "SkillAbsAmend": [
+      0,
+      0
+    ],
+    "SkillId": 5025158
+  },
+  "502515803": {
+    "Id": 502515803,
+    "DistanceType": 2,
+    "SourceType": 2,
+    "DamageType": 1,
+    "EffectType": 6,
+    "DamageBonusType": 1,
+    "SkillPercentAmend": [
+      1100000,
+      0
+    ],
+    "SkillAbsAmend": [
+      0,
+      0
+    ],
+    "SkillId": 5025158
+  },
   "503010201": {
     "Id": 503010201,
     "DistanceType": 2,
@@ -63946,7 +65166,7 @@
     "EffectType": 1,
     "DamageBonusType": 1,
     "SkillPercentAmend": [
-      3000000,
+      2000000,
       0
     ],
     "SkillAbsAmend": [
@@ -63980,14 +65200,15 @@
     "EffectType": 1,
     "DamageBonusType": 1,
     "SkillPercentAmend": [
-      500000,
+      1250000,
       0
     ],
     "SkillAbsAmend": [
       0,
       0
     ],
-    "SkillId": 5018115
+    "SkillId": 5018115,
+    "HitImmunityTime": 5000
   },
   "501811502": {
     "Id": 501811502,
@@ -63997,14 +65218,15 @@
     "EffectType": 1,
     "DamageBonusType": 1,
     "SkillPercentAmend": [
-      500000,
+      1200000,
       0
     ],
     "SkillAbsAmend": [
       0,
       0
     ],
-    "SkillId": 5018115
+    "SkillId": 5018115,
+    "HitImmunityTime": 5000
   },
   "501811801": {
     "Id": 501811801,
@@ -64014,7 +65236,7 @@
     "EffectType": 1,
     "DamageBonusType": 1,
     "SkillPercentAmend": [
-      500000,
+      2500000,
       0
     ],
     "SkillAbsAmend": [
@@ -64038,7 +65260,8 @@
       0,
       0
     ],
-    "SkillId": 5018118
+    "SkillId": 5018118,
+    "HitImmunityTime": 5000
   },
   "501811901": {
     "Id": 501811901,
@@ -64048,14 +65271,15 @@
     "EffectType": 1,
     "DamageBonusType": 1,
     "SkillPercentAmend": [
-      500000,
+      1500000,
       0
     ],
     "SkillAbsAmend": [
       0,
       0
     ],
-    "SkillId": 5018119
+    "SkillId": 5018119,
+    "HitImmunityTime": 5000
   },
   "501811902": {
     "Id": 501811902,
@@ -64065,14 +65289,15 @@
     "EffectType": 1,
     "DamageBonusType": 1,
     "SkillPercentAmend": [
-      500000,
+      1260000,
       0
     ],
     "SkillAbsAmend": [
       0,
       0
     ],
-    "SkillId": 5018119
+    "SkillId": 5018119,
+    "HitImmunityTime": 5000
   },
   "501812601": {
     "Id": 501812601,
@@ -64370,7 +65595,7 @@
     "EffectType": 1,
     "DamageBonusType": 1,
     "SkillPercentAmend": [
-      1000000,
+      1200000,
       0
     ],
     "SkillAbsAmend": [
@@ -64404,7 +65629,7 @@
     "EffectType": 1,
     "DamageBonusType": 1,
     "SkillPercentAmend": [
-      1000000,
+      500000,
       0
     ],
     "SkillAbsAmend": [
@@ -64421,7 +65646,7 @@
     "EffectType": 1,
     "DamageBonusType": 1,
     "SkillPercentAmend": [
-      1000000,
+      500000,
       0
     ],
     "SkillAbsAmend": [
@@ -64438,7 +65663,7 @@
     "EffectType": 1,
     "DamageBonusType": 1,
     "SkillPercentAmend": [
-      1000000,
+      1600000,
       0
     ],
     "SkillAbsAmend": [
@@ -64455,7 +65680,7 @@
     "EffectType": 1,
     "DamageBonusType": 1,
     "SkillPercentAmend": [
-      1000000,
+      600000,
       0
     ],
     "SkillAbsAmend": [
@@ -64472,7 +65697,7 @@
     "EffectType": 1,
     "DamageBonusType": 1,
     "SkillPercentAmend": [
-      1000000,
+      1300000,
       0
     ],
     "SkillAbsAmend": [
@@ -64489,7 +65714,7 @@
     "EffectType": 1,
     "DamageBonusType": 1,
     "SkillPercentAmend": [
-      1000000,
+      1100000,
       0
     ],
     "SkillAbsAmend": [
@@ -64506,14 +65731,15 @@
     "EffectType": 1,
     "DamageBonusType": 1,
     "SkillPercentAmend": [
-      1000000,
+      700000,
       0
     ],
     "SkillAbsAmend": [
       0,
       0
     ],
-    "SkillId": 5017105
+    "SkillId": 5017105,
+    "HitImmunityTime": 3000
   },
   "50171051": {
     "Id": 50171051,
@@ -65386,7 +66612,7 @@
     "EffectType": 1,
     "DamageBonusType": 1,
     "SkillPercentAmend": [
-      900000,
+      950000,
       0
     ],
     "SkillAbsAmend": [
@@ -65403,7 +66629,7 @@
     "EffectType": 1,
     "DamageBonusType": 1,
     "SkillPercentAmend": [
-      950000,
+      1050000,
       0
     ],
     "SkillAbsAmend": [
@@ -65726,7 +66952,7 @@
     "EffectType": 1,
     "DamageBonusType": 1,
     "SkillPercentAmend": [
-      500000,
+      600000,
       0
     ],
     "SkillAbsAmend": [
@@ -65743,7 +66969,7 @@
     "EffectType": 1,
     "DamageBonusType": 1,
     "SkillPercentAmend": [
-      800000,
+      900000,
       0
     ],
     "SkillAbsAmend": [
@@ -65862,7 +67088,7 @@
     "EffectType": 1,
     "DamageBonusType": 1,
     "SkillPercentAmend": [
-      800000,
+      1000000,
       0
     ],
     "SkillAbsAmend": [
@@ -65879,7 +67105,7 @@
     "EffectType": 1,
     "DamageBonusType": 1,
     "SkillPercentAmend": [
-      1000000,
+      1200000,
       0
     ],
     "SkillAbsAmend": [
@@ -65896,7 +67122,7 @@
     "EffectType": 1,
     "DamageBonusType": 1,
     "SkillPercentAmend": [
-      1200000,
+      1100000,
       0
     ],
     "SkillAbsAmend": [
@@ -65913,7 +67139,7 @@
     "EffectType": 1,
     "DamageBonusType": 1,
     "SkillPercentAmend": [
-      1200000,
+      1100000,
       0
     ],
     "SkillAbsAmend": [
@@ -66335,14 +67561,15 @@
     "EffectType": 1,
     "DamageBonusType": 1,
     "SkillPercentAmend": [
-      1000000,
+      550000,
       0
     ],
     "SkillAbsAmend": [
       0,
       0
     ],
-    "SkillId": 3093151
+    "SkillId": 3093151,
+    "HitImmunityTime": 5000
   },
   "30931521": {
     "Id": 30931521,
@@ -66352,7 +67579,41 @@
     "EffectType": 1,
     "DamageBonusType": 1,
     "SkillPercentAmend": [
-      1000000,
+      1300000,
+      0
+    ],
+    "SkillAbsAmend": [
+      0,
+      0
+    ],
+    "SkillId": 3093152
+  },
+  "30931522": {
+    "Id": 30931522,
+    "DistanceType": 2,
+    "SourceType": 2,
+    "DamageType": 1,
+    "EffectType": 1,
+    "DamageBonusType": 1,
+    "SkillPercentAmend": [
+      1400000,
+      0
+    ],
+    "SkillAbsAmend": [
+      0,
+      0
+    ],
+    "SkillId": 3093152
+  },
+  "30931523": {
+    "Id": 30931523,
+    "DistanceType": 2,
+    "SourceType": 2,
+    "DamageType": 1,
+    "EffectType": 1,
+    "DamageBonusType": 1,
+    "SkillPercentAmend": [
+      1500000,
       0
     ],
     "SkillAbsAmend": [
@@ -66377,6 +67638,74 @@
       0
     ],
     "SkillId": 3093154
+  },
+  "30931561": {
+    "Id": 30931561,
+    "DistanceType": 1,
+    "SourceType": 2,
+    "DamageType": 1,
+    "EffectType": 1,
+    "DamageBonusType": 1,
+    "SkillPercentAmend": [
+      650000,
+      0
+    ],
+    "SkillAbsAmend": [
+      0,
+      0
+    ],
+    "SkillId": 3093156
+  },
+  "30931562": {
+    "Id": 30931562,
+    "DistanceType": 1,
+    "SourceType": 2,
+    "DamageType": 1,
+    "EffectType": 1,
+    "DamageBonusType": 1,
+    "SkillPercentAmend": [
+      850000,
+      0
+    ],
+    "SkillAbsAmend": [
+      0,
+      0
+    ],
+    "SkillId": 3093156
+  },
+  "30931621": {
+    "Id": 30931621,
+    "DistanceType": 1,
+    "SourceType": 2,
+    "DamageType": 1,
+    "EffectType": 1,
+    "DamageBonusType": 1,
+    "SkillPercentAmend": [
+      600000,
+      0
+    ],
+    "SkillAbsAmend": [
+      0,
+      0
+    ],
+    "SkillId": 3093162
+  },
+  "30931622": {
+    "Id": 30931622,
+    "DistanceType": 1,
+    "SourceType": 2,
+    "DamageType": 1,
+    "EffectType": 1,
+    "DamageBonusType": 1,
+    "SkillPercentAmend": [
+      900000,
+      0
+    ],
+    "SkillAbsAmend": [
+      0,
+      0
+    ],
+    "SkillId": 3093162
   },
   "30931011": {
     "Id": 30931011,
@@ -66877,6 +68206,24 @@
     "SkillId": 3093118,
     "HitImmunityTime": 7500
   },
+  "30931183": {
+    "Id": 30931183,
+    "DistanceType": 1,
+    "SourceType": 2,
+    "DamageType": 1,
+    "EffectType": 1,
+    "DamageBonusType": 1,
+    "SkillPercentAmend": [
+      500000,
+      0
+    ],
+    "SkillAbsAmend": [
+      0,
+      0
+    ],
+    "SkillId": 3093118,
+    "HitImmunityTime": 7500
+  },
   "30901011": {
     "Id": 30901011,
     "DistanceType": 1,
@@ -66902,7 +68249,7 @@
     "EffectType": 1,
     "DamageBonusType": 1,
     "SkillPercentAmend": [
-      1000000,
+      1200000,
       0
     ],
     "SkillAbsAmend": [
@@ -66919,7 +68266,7 @@
     "EffectType": 1,
     "DamageBonusType": 1,
     "SkillPercentAmend": [
-      1000000,
+      1300000,
       0
     ],
     "SkillAbsAmend": [
@@ -66936,7 +68283,7 @@
     "EffectType": 1,
     "DamageBonusType": 1,
     "SkillPercentAmend": [
-      1000000,
+      1800000,
       0
     ],
     "SkillAbsAmend": [
@@ -66953,7 +68300,7 @@
     "EffectType": 1,
     "DamageBonusType": 1,
     "SkillPercentAmend": [
-      1000000,
+      2400000,
       0
     ],
     "SkillAbsAmend": [
@@ -66961,6 +68308,366 @@
       0
     ],
     "SkillId": 3090107
+  },
+  "30911011": {
+    "Id": 30911011,
+    "DistanceType": 2,
+    "SourceType": 2,
+    "DamageType": 1,
+    "EffectType": 1,
+    "DamageBonusType": 1,
+    "SkillPercentAmend": [
+      1000000,
+      0
+    ],
+    "SkillAbsAmend": [
+      0,
+      0
+    ],
+    "SkillId": 3091101
+  },
+  "30911021": {
+    "Id": 30911021,
+    "DistanceType": 2,
+    "SourceType": 2,
+    "DamageType": 1,
+    "EffectType": 1,
+    "DamageBonusType": 1,
+    "SkillPercentAmend": [
+      1200000,
+      0
+    ],
+    "SkillAbsAmend": [
+      0,
+      0
+    ],
+    "SkillId": 3091102,
+    "HitImmunityTime": 5000
+  },
+  "30911031": {
+    "Id": 30911031,
+    "DistanceType": 2,
+    "SourceType": 2,
+    "DamageType": 1,
+    "EffectType": 1,
+    "DamageBonusType": 1,
+    "SkillPercentAmend": [
+      700000,
+      0
+    ],
+    "SkillAbsAmend": [
+      0,
+      0
+    ],
+    "SkillId": 3091103
+  },
+  "30921011": {
+    "Id": 30921011,
+    "DistanceType": 2,
+    "SourceType": 2,
+    "DamageType": 1,
+    "EffectType": 1,
+    "DamageBonusType": 1,
+    "SkillPercentAmend": [
+      2000000,
+      0
+    ],
+    "SkillAbsAmend": [
+      0,
+      0
+    ],
+    "SkillId": 3092101
+  },
+  "30921021": {
+    "Id": 30921021,
+    "DistanceType": 2,
+    "SourceType": 2,
+    "DamageType": 1,
+    "EffectType": 1,
+    "DamageBonusType": 1,
+    "SkillPercentAmend": [
+      800000,
+      0
+    ],
+    "SkillAbsAmend": [
+      0,
+      0
+    ],
+    "SkillId": 3092102
+  },
+  "17001011": {
+    "Id": 17001011,
+    "DistanceType": 1,
+    "SourceType": 2,
+    "DamageType": 1,
+    "EffectType": 1,
+    "DamageBonusType": 1,
+    "SkillPercentAmend": [
+      1000000,
+      0
+    ],
+    "SkillAbsAmend": [
+      0,
+      0
+    ],
+    "SkillId": 1700101
+  },
+  "17001012": {
+    "Id": 17001012,
+    "DistanceType": 1,
+    "SourceType": 2,
+    "DamageType": 1,
+    "EffectType": 1,
+    "DamageBonusType": 1,
+    "SkillPercentAmend": [
+      1100000,
+      0
+    ],
+    "SkillAbsAmend": [
+      0,
+      0
+    ],
+    "SkillId": 1700101
+  },
+  "17011011": {
+    "Id": 17011011,
+    "DistanceType": 2,
+    "SourceType": 2,
+    "DamageType": 1,
+    "EffectType": 1,
+    "DamageBonusType": 1,
+    "SkillPercentAmend": [
+      900000,
+      0
+    ],
+    "SkillAbsAmend": [
+      0,
+      0
+    ],
+    "SkillId": 1701101
+  },
+  "17011012": {
+    "Id": 17011012,
+    "DistanceType": 2,
+    "SourceType": 2,
+    "DamageType": 1,
+    "EffectType": 1,
+    "DamageBonusType": 1,
+    "SkillPercentAmend": [
+      1050000,
+      0
+    ],
+    "SkillAbsAmend": [
+      0,
+      0
+    ],
+    "SkillId": 1701101
+  },
+  "17021011": {
+    "Id": 17021011,
+    "DistanceType": 1,
+    "SourceType": 2,
+    "DamageType": 1,
+    "EffectType": 1,
+    "DamageBonusType": 1,
+    "SkillPercentAmend": [
+      1000000,
+      0
+    ],
+    "SkillAbsAmend": [
+      0,
+      0
+    ],
+    "SkillId": 1702101
+  },
+  "17021031": {
+    "Id": 17021031,
+    "DistanceType": 1,
+    "SourceType": 2,
+    "DamageType": 1,
+    "EffectType": 1,
+    "DamageBonusType": 1,
+    "SkillPercentAmend": [
+      1100000,
+      0
+    ],
+    "SkillAbsAmend": [
+      0,
+      0
+    ],
+    "SkillId": 1702103
+  },
+  "17021032": {
+    "Id": 17021032,
+    "DistanceType": 1,
+    "SourceType": 2,
+    "DamageType": 1,
+    "EffectType": 1,
+    "DamageBonusType": 1,
+    "SkillPercentAmend": [
+      200000,
+      0
+    ],
+    "SkillAbsAmend": [
+      0,
+      0
+    ],
+    "SkillId": 1702103
+  },
+  "17021033": {
+    "Id": 17021033,
+    "DistanceType": 1,
+    "SourceType": 2,
+    "DamageType": 1,
+    "EffectType": 1,
+    "DamageBonusType": 1,
+    "SkillPercentAmend": [
+      1000000,
+      0
+    ],
+    "SkillAbsAmend": [
+      0,
+      0
+    ],
+    "SkillId": 1702103
+  },
+  "17021034": {
+    "Id": 17021034,
+    "DistanceType": 1,
+    "SourceType": 2,
+    "DamageType": 1,
+    "EffectType": 1,
+    "DamageBonusType": 1,
+    "SkillPercentAmend": [
+      1200000,
+      0
+    ],
+    "SkillAbsAmend": [
+      0,
+      0
+    ],
+    "SkillId": 1702103
+  },
+  "17031011": {
+    "Id": 17031011,
+    "DistanceType": 2,
+    "SourceType": 2,
+    "DamageType": 1,
+    "EffectType": 1,
+    "DamageBonusType": 1,
+    "SkillPercentAmend": [
+      1200000,
+      0
+    ],
+    "SkillAbsAmend": [
+      0,
+      0
+    ],
+    "SkillId": 1703101
+  },
+  "17031012": {
+    "Id": 17031012,
+    "DistanceType": 2,
+    "SourceType": 2,
+    "DamageType": 1,
+    "EffectType": 1,
+    "DamageBonusType": 1,
+    "SkillPercentAmend": [
+      1500000,
+      0
+    ],
+    "SkillAbsAmend": [
+      0,
+      0
+    ],
+    "SkillId": 1703101
+  },
+  "17031013": {
+    "Id": 17031013,
+    "DistanceType": 2,
+    "SourceType": 2,
+    "DamageType": 1,
+    "EffectType": 1,
+    "DamageBonusType": 1,
+    "SkillPercentAmend": [
+      600000,
+      0
+    ],
+    "SkillAbsAmend": [
+      0,
+      0
+    ],
+    "SkillId": 1703101
+  },
+  "17031021": {
+    "Id": 17031021,
+    "DistanceType": 2,
+    "SourceType": 2,
+    "DamageType": 1,
+    "EffectType": 1,
+    "DamageBonusType": 1,
+    "SkillPercentAmend": [
+      1000000,
+      0
+    ],
+    "SkillAbsAmend": [
+      0,
+      0
+    ],
+    "SkillId": 1703102
+  },
+  "17031022": {
+    "Id": 17031022,
+    "DistanceType": 2,
+    "SourceType": 2,
+    "DamageType": 1,
+    "EffectType": 1,
+    "DamageBonusType": 1,
+    "SkillPercentAmend": [
+      1200000,
+      0
+    ],
+    "SkillAbsAmend": [
+      0,
+      0
+    ],
+    "SkillId": 1703102
+  },
+  "99900001": {
+    "Id": 99900001,
+    "DistanceType": 2,
+    "SourceType": 2,
+    "DamageType": 1,
+    "EffectType": 1,
+    "DamageBonusType": 1,
+    "SkillPercentAmend": [
+      500000,
+      0
+    ],
+    "SkillAbsAmend": [
+      0,
+      0
+    ],
+    "SkillId": 9990011,
+    "HitImmunityTime": 5000
+  },
+  "99900002": {
+    "Id": 99900002,
+    "DistanceType": 2,
+    "SourceType": 2,
+    "DamageType": 1,
+    "EffectType": 1,
+    "DamageBonusType": 1,
+    "SkillPercentAmend": [
+      600000,
+      0
+    ],
+    "SkillAbsAmend": [
+      0,
+      0
+    ],
+    "SkillId": 9990011,
+    "HitImmunityTime": 5000
   },
   "1160111": {
     "Id": 1160111,

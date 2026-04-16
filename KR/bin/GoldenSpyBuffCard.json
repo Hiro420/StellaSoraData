@@ -1,0 +1,1172 @@
+{
+  "10111": {
+    "Id": 10111,
+    "Name": "GoldenSpyBuffCard.10111.1",
+    "Label": [
+      1,
+      11,
+      21
+    ],
+    "EffectType": 1,
+    "Params": [
+      1.0,
+      40.0
+    ],
+    "Desc": "GoldenSpyBuffCard.10111.2",
+    "Icon": "icon_buffcard_10111",
+    "BuffType": 1,
+    "MaxCount": 6,
+    "ConnectItems": [
+      1101,
+      1102,
+      1103
+    ]
+  },
+  "10112": {
+    "Id": 10112,
+    "Name": "GoldenSpyBuffCard.10112.1",
+    "Label": [
+      2,
+      11,
+      21
+    ],
+    "EffectType": 1,
+    "Params": [
+      2.0,
+      70.0
+    ],
+    "Desc": "GoldenSpyBuffCard.10112.2",
+    "Icon": "icon_buffcard_10112",
+    "BuffType": 1,
+    "MaxCount": 5,
+    "ConnectItems": [
+      1104,
+      1105,
+      1106
+    ]
+  },
+  "10113": {
+    "Id": 10113,
+    "Name": "GoldenSpyBuffCard.10113.1",
+    "Label": [
+      3,
+      11,
+      21
+    ],
+    "EffectType": 1,
+    "Params": [
+      3.0,
+      150.0
+    ],
+    "Desc": "GoldenSpyBuffCard.10113.2",
+    "Icon": "icon_buffcard_10113",
+    "BuffType": 1,
+    "MaxCount": 3,
+    "ConnectItems": [
+      1107
+    ]
+  },
+  "10114": {
+    "Id": 10114,
+    "Name": "GoldenSpyBuffCard.10114.1",
+    "Label": [
+      4,
+      11,
+      21
+    ],
+    "EffectType": 1,
+    "Params": [
+      4.0,
+      150.0
+    ],
+    "Desc": "GoldenSpyBuffCard.10114.2",
+    "Icon": "icon_buffcard_10114",
+    "BuffType": 1,
+    "MaxCount": 4,
+    "ConnectItems": [
+      1108
+    ]
+  },
+  "10115": {
+    "Id": 10115,
+    "Name": "GoldenSpyBuffCard.10115.1",
+    "Label": [
+      5,
+      11,
+      21
+    ],
+    "EffectType": 1,
+    "Params": [
+      5.0,
+      200.0
+    ],
+    "Desc": "GoldenSpyBuffCard.10115.2",
+    "Icon": "icon_buffcard_10115",
+    "BuffType": 1,
+    "MaxCount": 2,
+    "ConnectItems": [
+      1109
+    ]
+  },
+  "10121": {
+    "Id": 10121,
+    "Name": "GoldenSpyBuffCard.10121.1",
+    "Label": [
+      1,
+      11,
+      22
+    ],
+    "EffectType": 1,
+    "Params": [
+      1.0,
+      40.0
+    ],
+    "Desc": "GoldenSpyBuffCard.10121.2",
+    "Icon": "icon_buffcard_10121",
+    "BuffType": 2,
+    "MaxCount": 5,
+    "ConnectItems": [
+      1101,
+      1102,
+      1103
+    ]
+  },
+  "10122": {
+    "Id": 10122,
+    "Name": "GoldenSpyBuffCard.10122.1",
+    "Label": [
+      2,
+      11,
+      22
+    ],
+    "EffectType": 1,
+    "Params": [
+      2.0,
+      70.0
+    ],
+    "Desc": "GoldenSpyBuffCard.10122.2",
+    "Icon": "icon_buffcard_10122",
+    "BuffType": 2,
+    "MaxCount": 4,
+    "ConnectItems": [
+      1104,
+      1105,
+      1106
+    ]
+  },
+  "10123": {
+    "Id": 10123,
+    "Name": "GoldenSpyBuffCard.10123.1",
+    "Label": [
+      3,
+      11,
+      22
+    ],
+    "EffectType": 1,
+    "Params": [
+      3.0,
+      150.0
+    ],
+    "Desc": "GoldenSpyBuffCard.10123.2",
+    "Icon": "icon_buffcard_10123",
+    "BuffType": 2,
+    "MaxCount": 2,
+    "ConnectItems": [
+      1107
+    ]
+  },
+  "10124": {
+    "Id": 10124,
+    "Name": "GoldenSpyBuffCard.10124.1",
+    "Label": [
+      4,
+      11,
+      22
+    ],
+    "EffectType": 1,
+    "Params": [
+      4.0,
+      150.0
+    ],
+    "Desc": "GoldenSpyBuffCard.10124.2",
+    "Icon": "icon_buffcard_10124",
+    "BuffType": 2,
+    "MaxCount": 3,
+    "ConnectItems": [
+      1108
+    ]
+  },
+  "10125": {
+    "Id": 10125,
+    "Name": "GoldenSpyBuffCard.10125.1",
+    "Label": [
+      5,
+      11,
+      22
+    ],
+    "EffectType": 1,
+    "Params": [
+      5.0,
+      200.0
+    ],
+    "Desc": "GoldenSpyBuffCard.10125.2",
+    "Icon": "icon_buffcard_10125",
+    "BuffType": 2,
+    "MaxCount": 2,
+    "ConnectItems": [
+      1109
+    ]
+  },
+  "10131": {
+    "Id": 10131,
+    "Name": "GoldenSpyBuffCard.10131.1",
+    "Label": [
+      1,
+      11,
+      23
+    ],
+    "EffectType": 1,
+    "Params": [
+      1.0,
+      20.0
+    ],
+    "Desc": "GoldenSpyBuffCard.10131.2",
+    "Icon": "icon_buffcard_10131",
+    "BuffType": 3,
+    "MaxCount": 4,
+    "ConnectItems": [
+      1101,
+      1102,
+      1103
+    ]
+  },
+  "10132": {
+    "Id": 10132,
+    "Name": "GoldenSpyBuffCard.10132.1",
+    "Label": [
+      2,
+      11,
+      23
+    ],
+    "EffectType": 1,
+    "Params": [
+      2.0,
+      30.0
+    ],
+    "Desc": "GoldenSpyBuffCard.10132.2",
+    "Icon": "icon_buffcard_10132",
+    "BuffType": 3,
+    "MaxCount": 3,
+    "ConnectItems": [
+      1104,
+      1105,
+      1106
+    ]
+  },
+  "10133": {
+    "Id": 10133,
+    "Name": "GoldenSpyBuffCard.10133.1",
+    "Label": [
+      3,
+      11,
+      23
+    ],
+    "EffectType": 1,
+    "Params": [
+      3.0,
+      80.0
+    ],
+    "Desc": "GoldenSpyBuffCard.10133.2",
+    "Icon": "icon_buffcard_10133",
+    "BuffType": 3,
+    "MaxCount": 1,
+    "ConnectItems": [
+      1107
+    ]
+  },
+  "10134": {
+    "Id": 10134,
+    "Name": "GoldenSpyBuffCard.10134.1",
+    "Label": [
+      4,
+      11,
+      23
+    ],
+    "EffectType": 1,
+    "Params": [
+      4.0,
+      80.0
+    ],
+    "Desc": "GoldenSpyBuffCard.10134.2",
+    "Icon": "icon_buffcard_10134",
+    "BuffType": 3,
+    "MaxCount": 2,
+    "ConnectItems": [
+      1108
+    ]
+  },
+  "10135": {
+    "Id": 10135,
+    "Name": "GoldenSpyBuffCard.10135.1",
+    "Label": [
+      5,
+      11,
+      23
+    ],
+    "EffectType": 1,
+    "Params": [
+      5.0,
+      100.0
+    ],
+    "Desc": "GoldenSpyBuffCard.10135.2",
+    "Icon": "icon_buffcard_10135",
+    "BuffType": 3,
+    "MaxCount": 1,
+    "ConnectItems": [
+      1109
+    ]
+  },
+  "10211": {
+    "Id": 10211,
+    "Name": "GoldenSpyBuffCard.10211.1",
+    "Label": [
+      1,
+      12,
+      21
+    ],
+    "EffectType": 4,
+    "Params": [
+      1.0,
+      8.0
+    ],
+    "Desc": "GoldenSpyBuffCard.10211.2",
+    "Icon": "icon_buffcard_10211",
+    "BuffType": 1,
+    "MaxCount": 3,
+    "ConnectItems": [
+      1101,
+      1102,
+      1103
+    ]
+  },
+  "10212": {
+    "Id": 10212,
+    "Name": "GoldenSpyBuffCard.10212.1",
+    "Label": [
+      2,
+      12,
+      21
+    ],
+    "EffectType": 4,
+    "Params": [
+      2.0,
+      5.0
+    ],
+    "Desc": "GoldenSpyBuffCard.10212.2",
+    "Icon": "icon_buffcard_10212",
+    "BuffType": 1,
+    "MaxCount": 2,
+    "ConnectItems": [
+      1104,
+      1105,
+      1106
+    ]
+  },
+  "10213": {
+    "Id": 10213,
+    "Name": "GoldenSpyBuffCard.10213.1",
+    "Label": [
+      3,
+      12,
+      21
+    ],
+    "EffectType": 4,
+    "Params": [
+      3.0,
+      3.0
+    ],
+    "Desc": "GoldenSpyBuffCard.10213.2",
+    "Icon": "icon_buffcard_10213",
+    "BuffType": 1,
+    "MaxCount": 1,
+    "ConnectItems": [
+      1107
+    ]
+  },
+  "10214": {
+    "Id": 10214,
+    "Name": "GoldenSpyBuffCard.10214.1",
+    "Label": [
+      4,
+      12,
+      21
+    ],
+    "EffectType": 4,
+    "Params": [
+      4.0,
+      1.0
+    ],
+    "Desc": "GoldenSpyBuffCard.10214.2",
+    "Icon": "icon_buffcard_10214",
+    "BuffType": 1,
+    "MaxCount": 1,
+    "ConnectItems": [
+      1108
+    ]
+  },
+  "10215": {
+    "Id": 10215,
+    "Name": "GoldenSpyBuffCard.10215.1",
+    "Label": [
+      5,
+      12,
+      21
+    ],
+    "EffectType": 4,
+    "Params": [
+      5.0,
+      4.0
+    ],
+    "Desc": "GoldenSpyBuffCard.10215.2",
+    "Icon": "icon_buffcard_10215",
+    "BuffType": 1,
+    "MaxCount": 2,
+    "ConnectItems": [
+      1109
+    ]
+  },
+  "10221": {
+    "Id": 10221,
+    "Name": "GoldenSpyBuffCard.10221.1",
+    "Label": [
+      1,
+      12,
+      22
+    ],
+    "EffectType": 4,
+    "Params": [
+      1.0,
+      8.0
+    ],
+    "Desc": "GoldenSpyBuffCard.10221.2",
+    "Icon": "icon_buffcard_10221",
+    "BuffType": 2,
+    "MaxCount": 3,
+    "ConnectItems": [
+      1101,
+      1102,
+      1103
+    ]
+  },
+  "10222": {
+    "Id": 10222,
+    "Name": "GoldenSpyBuffCard.10222.1",
+    "Label": [
+      2,
+      12,
+      22
+    ],
+    "EffectType": 4,
+    "Params": [
+      2.0,
+      5.0
+    ],
+    "Desc": "GoldenSpyBuffCard.10222.2",
+    "Icon": "icon_buffcard_10222",
+    "BuffType": 2,
+    "MaxCount": 2,
+    "ConnectItems": [
+      1104,
+      1105,
+      1106
+    ]
+  },
+  "10223": {
+    "Id": 10223,
+    "Name": "GoldenSpyBuffCard.10223.1",
+    "Label": [
+      3,
+      12,
+      22
+    ],
+    "EffectType": 4,
+    "Params": [
+      3.0,
+      3.0
+    ],
+    "Desc": "GoldenSpyBuffCard.10223.2",
+    "Icon": "icon_buffcard_10223",
+    "BuffType": 2,
+    "MaxCount": 1,
+    "ConnectItems": [
+      1107
+    ]
+  },
+  "10224": {
+    "Id": 10224,
+    "Name": "GoldenSpyBuffCard.10224.1",
+    "Label": [
+      4,
+      12,
+      22
+    ],
+    "EffectType": 4,
+    "Params": [
+      4.0,
+      1.0
+    ],
+    "Desc": "GoldenSpyBuffCard.10224.2",
+    "Icon": "icon_buffcard_10224",
+    "BuffType": 2,
+    "MaxCount": 1,
+    "ConnectItems": [
+      1108
+    ]
+  },
+  "10225": {
+    "Id": 10225,
+    "Name": "GoldenSpyBuffCard.10225.1",
+    "Label": [
+      5,
+      12,
+      22
+    ],
+    "EffectType": 4,
+    "Params": [
+      5.0,
+      4.0
+    ],
+    "Desc": "GoldenSpyBuffCard.10225.2",
+    "Icon": "icon_buffcard_10225",
+    "BuffType": 2,
+    "MaxCount": 2,
+    "ConnectItems": [
+      1109
+    ]
+  },
+  "10231": {
+    "Id": 10231,
+    "Name": "GoldenSpyBuffCard.10231.1",
+    "Label": [
+      1,
+      12,
+      23
+    ],
+    "EffectType": 4,
+    "Params": [
+      1.0,
+      4.0
+    ],
+    "Desc": "GoldenSpyBuffCard.10231.2",
+    "Icon": "icon_buffcard_10231",
+    "BuffType": 3,
+    "MaxCount": 2,
+    "ConnectItems": [
+      1101,
+      1102,
+      1103
+    ]
+  },
+  "10232": {
+    "Id": 10232,
+    "Name": "GoldenSpyBuffCard.10232.1",
+    "Label": [
+      2,
+      12,
+      23
+    ],
+    "EffectType": 4,
+    "Params": [
+      2.0,
+      3.0
+    ],
+    "Desc": "GoldenSpyBuffCard.10232.2",
+    "Icon": "icon_buffcard_10232",
+    "BuffType": 3,
+    "MaxCount": 1,
+    "ConnectItems": [
+      1104,
+      1105,
+      1106
+    ]
+  },
+  "10233": {
+    "Id": 10233,
+    "Name": "GoldenSpyBuffCard.10233.1",
+    "Label": [
+      3,
+      12,
+      23
+    ],
+    "EffectType": 4,
+    "Params": [
+      3.0,
+      2.0
+    ],
+    "Desc": "GoldenSpyBuffCard.10233.2",
+    "Icon": "icon_buffcard_10233",
+    "BuffType": 3,
+    "MaxCount": 1,
+    "ConnectItems": [
+      1107
+    ]
+  },
+  "10234": {
+    "Id": 10234,
+    "Name": "GoldenSpyBuffCard.10234.1",
+    "Label": [
+      4,
+      12,
+      23
+    ],
+    "EffectType": 4,
+    "Params": [
+      4.0,
+      1.0
+    ],
+    "Desc": "GoldenSpyBuffCard.10234.2",
+    "Icon": "icon_buffcard_10234",
+    "BuffType": 3,
+    "MaxCount": 1,
+    "ConnectItems": [
+      1108
+    ]
+  },
+  "10235": {
+    "Id": 10235,
+    "Name": "GoldenSpyBuffCard.10235.1",
+    "Label": [
+      5,
+      12,
+      23
+    ],
+    "EffectType": 4,
+    "Params": [
+      5.0,
+      2.0
+    ],
+    "Desc": "GoldenSpyBuffCard.10235.2",
+    "Icon": "icon_buffcard_10235",
+    "BuffType": 3,
+    "MaxCount": 1,
+    "ConnectItems": [
+      1109
+    ]
+  },
+  "10311": {
+    "Id": 10311,
+    "Name": "GoldenSpyBuffCard.10311.1",
+    "Label": [
+      6,
+      21
+    ],
+    "EffectType": 2,
+    "Params": [
+      5.0
+    ],
+    "Desc": "GoldenSpyBuffCard.10311.2",
+    "Icon": "icon_buffcard_10311",
+    "BuffType": 1,
+    "MaxCount": 6
+  },
+  "10321": {
+    "Id": 10321,
+    "Name": "GoldenSpyBuffCard.10321.1",
+    "Label": [
+      6,
+      22
+    ],
+    "EffectType": 2,
+    "Params": [
+      4.0
+    ],
+    "Desc": "GoldenSpyBuffCard.10321.2",
+    "Icon": "icon_buffcard_10321",
+    "BuffType": 2,
+    "MaxCount": 4
+  },
+  "10331": {
+    "Id": 10331,
+    "Name": "GoldenSpyBuffCard.10331.1",
+    "Label": [
+      6,
+      23
+    ],
+    "EffectType": 2,
+    "Params": [
+      3.0
+    ],
+    "Desc": "GoldenSpyBuffCard.10331.2",
+    "Icon": "icon_buffcard_10331",
+    "BuffType": 3,
+    "MaxCount": 4
+  },
+  "10411": {
+    "Id": 10411,
+    "Name": "GoldenSpyBuffCard.10411.1",
+    "Label": [
+      6,
+      21
+    ],
+    "EffectType": 3,
+    "Params": [
+      20.0
+    ],
+    "Desc": "GoldenSpyBuffCard.10411.2",
+    "Icon": "icon_buffcard_10411",
+    "BuffType": 1,
+    "MaxCount": 5
+  },
+  "10421": {
+    "Id": 10421,
+    "Name": "GoldenSpyBuffCard.10421.1",
+    "Label": [
+      6,
+      22
+    ],
+    "EffectType": 3,
+    "Params": [
+      10.0
+    ],
+    "Desc": "GoldenSpyBuffCard.10421.2",
+    "Icon": "icon_buffcard_10421",
+    "BuffType": 2,
+    "MaxCount": 5
+  },
+  "10431": {
+    "Id": 10431,
+    "Name": "GoldenSpyBuffCard.10431.1",
+    "Label": [
+      6,
+      23
+    ],
+    "EffectType": 3,
+    "Params": [
+      5.0
+    ],
+    "Desc": "GoldenSpyBuffCard.10431.2",
+    "Icon": "icon_buffcard_10431",
+    "BuffType": 3,
+    "MaxCount": 4
+  },
+  "10541": {
+    "Id": 10541,
+    "Name": "GoldenSpyBuffCard.10541.1",
+    "Label": [
+      9,
+      24
+    ],
+    "EffectType": 5,
+    "Params": [
+      1001.0,
+      1.0
+    ],
+    "Desc": "GoldenSpyBuffCard.10541.2",
+    "Icon": "icon_buffcard_10541",
+    "BuffType": 4,
+    "MaxCount": 3
+  },
+  "10542": {
+    "Id": 10542,
+    "Name": "GoldenSpyBuffCard.10542.1",
+    "Label": [
+      9,
+      24
+    ],
+    "EffectType": 5,
+    "Params": [
+      1002.0,
+      1.0
+    ],
+    "Desc": "GoldenSpyBuffCard.10542.2",
+    "Icon": "icon_buffcard_10542",
+    "BuffType": 4,
+    "MaxCount": 3
+  },
+  "10611": {
+    "Id": 10611,
+    "Name": "GoldenSpyBuffCard.10611.1",
+    "Label": [
+      8,
+      13,
+      21,
+      7
+    ],
+    "EffectType": 6,
+    "Params": [
+      100.0
+    ],
+    "Desc": "GoldenSpyBuffCard.10611.2",
+    "Icon": "icon_buffcard_10611",
+    "BuffType": 1,
+    "MaxCount": 2
+  },
+  "10621": {
+    "Id": 10621,
+    "Name": "GoldenSpyBuffCard.10621.1",
+    "Label": [
+      8,
+      13,
+      22,
+      7
+    ],
+    "EffectType": 6,
+    "Params": [
+      80.0
+    ],
+    "Desc": "GoldenSpyBuffCard.10621.2",
+    "Icon": "icon_buffcard_10621",
+    "BuffType": 2,
+    "MaxCount": 2
+  },
+  "10631": {
+    "Id": 10631,
+    "Name": "GoldenSpyBuffCard.10631.1",
+    "Label": [
+      8,
+      13,
+      23
+    ],
+    "EffectType": 6,
+    "Params": [
+      60.0
+    ],
+    "Desc": "GoldenSpyBuffCard.10631.2",
+    "Icon": "icon_buffcard_10631",
+    "BuffType": 3,
+    "MaxCount": 2
+  },
+  "10711": {
+    "Id": 10711,
+    "Name": "GoldenSpyBuffCard.10711.1",
+    "Label": [
+      8,
+      13,
+      21
+    ],
+    "EffectType": 8,
+    "Params": [
+      2.0
+    ],
+    "Desc": "GoldenSpyBuffCard.10711.2",
+    "Icon": "icon_buffcard_10711",
+    "BuffType": 1,
+    "MaxCount": 3
+  },
+  "10721": {
+    "Id": 10721,
+    "Name": "GoldenSpyBuffCard.10721.1",
+    "Label": [
+      8,
+      13,
+      22
+    ],
+    "EffectType": 8,
+    "Params": [
+      1.5
+    ],
+    "Desc": "GoldenSpyBuffCard.10721.2",
+    "Icon": "icon_buffcard_10721",
+    "BuffType": 2,
+    "MaxCount": 2
+  },
+  "10731": {
+    "Id": 10731,
+    "Name": "GoldenSpyBuffCard.10731.1",
+    "Label": [
+      8,
+      13,
+      23
+    ],
+    "EffectType": 8,
+    "Params": [
+      1.0
+    ],
+    "Desc": "GoldenSpyBuffCard.10731.2",
+    "Icon": "icon_buffcard_10731",
+    "BuffType": 3,
+    "MaxCount": 1
+  },
+  "10811": {
+    "Id": 10811,
+    "Name": "GoldenSpyBuffCard.10811.1",
+    "Label": [
+      8,
+      13,
+      21
+    ],
+    "EffectType": 7,
+    "Params": [
+      3.0
+    ],
+    "Desc": "GoldenSpyBuffCard.10811.2",
+    "Icon": "icon_buffcard_10811",
+    "BuffType": 1,
+    "MaxCount": 2
+  },
+  "10821": {
+    "Id": 10821,
+    "Name": "GoldenSpyBuffCard.10821.1",
+    "Label": [
+      8,
+      13,
+      22
+    ],
+    "EffectType": 7,
+    "Params": [
+      3.0
+    ],
+    "Desc": "GoldenSpyBuffCard.10821.2",
+    "Icon": "icon_buffcard_10821",
+    "BuffType": 2,
+    "MaxCount": 2
+  },
+  "10911": {
+    "Id": 10911,
+    "Name": "GoldenSpyBuffCard.10911.1",
+    "Label": [
+      7,
+      21
+    ],
+    "EffectType": 9,
+    "Params": [
+      10.0
+    ],
+    "Desc": "GoldenSpyBuffCard.10911.2",
+    "Icon": "icon_buffcard_10911",
+    "BuffType": 1,
+    "MaxCount": 5
+  },
+  "11031": {
+    "Id": 11031,
+    "Name": "GoldenSpyBuffCard.11031.1",
+    "Label": [
+      10,
+      23,
+      1
+    ],
+    "EffectType": 10,
+    "Params": [
+      1.0,
+      80.0
+    ],
+    "Desc": "GoldenSpyBuffCard.11031.2",
+    "Icon": "icon_buffcard_11031",
+    "BuffType": 3,
+    "MaxCount": 3,
+    "ConnectItems": [
+      1101,
+      1102,
+      1103
+    ]
+  },
+  "11032": {
+    "Id": 11032,
+    "Name": "GoldenSpyBuffCard.11032.1",
+    "Label": [
+      10,
+      23,
+      2
+    ],
+    "EffectType": 10,
+    "Params": [
+      2.0,
+      80.0
+    ],
+    "Desc": "GoldenSpyBuffCard.11032.2",
+    "Icon": "icon_buffcard_11032",
+    "BuffType": 3,
+    "MaxCount": 3,
+    "ConnectItems": [
+      1104,
+      1105,
+      1106
+    ]
+  },
+  "11033": {
+    "Id": 11033,
+    "Name": "GoldenSpyBuffCard.11033.1",
+    "Label": [
+      10,
+      23,
+      3
+    ],
+    "EffectType": 10,
+    "Params": [
+      3.0,
+      80.0
+    ],
+    "Desc": "GoldenSpyBuffCard.11033.2",
+    "Icon": "icon_buffcard_11033",
+    "BuffType": 3,
+    "MaxCount": 3,
+    "ConnectItems": [
+      1107
+    ]
+  },
+  "11034": {
+    "Id": 11034,
+    "Name": "GoldenSpyBuffCard.11034.1",
+    "Label": [
+      10,
+      23,
+      4
+    ],
+    "EffectType": 10,
+    "Params": [
+      4.0,
+      80.0
+    ],
+    "Desc": "GoldenSpyBuffCard.11034.2",
+    "Icon": "icon_buffcard_11034",
+    "BuffType": 3,
+    "MaxCount": 3,
+    "ConnectItems": [
+      1108
+    ]
+  },
+  "11035": {
+    "Id": 11035,
+    "Name": "GoldenSpyBuffCard.11035.1",
+    "Label": [
+      10,
+      23,
+      5
+    ],
+    "EffectType": 10,
+    "Params": [
+      5.0,
+      80.0
+    ],
+    "Desc": "GoldenSpyBuffCard.11035.2",
+    "Icon": "icon_buffcard_11035",
+    "BuffType": 3,
+    "MaxCount": 3,
+    "ConnectItems": [
+      1109
+    ]
+  },
+  "11036": {
+    "Id": 11036,
+    "Name": "GoldenSpyBuffCard.11036.1",
+    "Label": [
+      10,
+      23,
+      8
+    ],
+    "EffectType": 10,
+    "Params": [
+      8.0,
+      150.0
+    ],
+    "Desc": "GoldenSpyBuffCard.11036.2",
+    "Icon": "icon_buffcard_11036",
+    "BuffType": 3,
+    "MaxCount": 3
+  },
+  "11037": {
+    "Id": 11037,
+    "Name": "GoldenSpyBuffCard.11037.1",
+    "Label": [
+      10,
+      23,
+      6
+    ],
+    "EffectType": 10,
+    "Params": [
+      6.0,
+      150.0
+    ],
+    "Desc": "GoldenSpyBuffCard.11037.2",
+    "Icon": "icon_buffcard_11037",
+    "BuffType": 3,
+    "MaxCount": 3
+  },
+  "11038": {
+    "Id": 11038,
+    "Name": "GoldenSpyBuffCard.11038.1",
+    "Label": [
+      10,
+      23,
+      11
+    ],
+    "EffectType": 10,
+    "Params": [
+      11.0,
+      80.0
+    ],
+    "Desc": "GoldenSpyBuffCard.11038.2",
+    "Icon": "icon_buffcard_11038",
+    "BuffType": 3,
+    "MaxCount": 2
+  },
+  "11039": {
+    "Id": 11039,
+    "Name": "GoldenSpyBuffCard.11039.1",
+    "Label": [
+      10,
+      23,
+      12
+    ],
+    "EffectType": 10,
+    "Params": [
+      12.0,
+      80.0
+    ],
+    "Desc": "GoldenSpyBuffCard.11039.2",
+    "Icon": "icon_buffcard_11039",
+    "BuffType": 3,
+    "MaxCount": 2
+  },
+  "11040": {
+    "Id": 11040,
+    "Name": "GoldenSpyBuffCard.11040.1",
+    "Label": [
+      10,
+      23
+    ],
+    "EffectType": 10,
+    "Params": [
+      7.0,
+      150.0
+    ],
+    "Desc": "GoldenSpyBuffCard.11040.2",
+    "Icon": "icon_buffcard_11040",
+    "BuffType": 3,
+    "MaxCount": 2
+  },
+  "11041": {
+    "Id": 11041,
+    "Name": "GoldenSpyBuffCard.11041.1",
+    "Label": [
+      10,
+      23
+    ],
+    "EffectType": 10,
+    "Params": [
+      10.0,
+      80.0
+    ],
+    "Desc": "GoldenSpyBuffCard.11041.2",
+    "Icon": "icon_buffcard_11041",
+    "BuffType": 3,
+    "MaxCount": 1
+  },
+  "11042": {
+    "Id": 11042,
+    "Name": "GoldenSpyBuffCard.11042.1",
+    "Label": [
+      10,
+      23
+    ],
+    "EffectType": 10,
+    "Params": [
+      23.0,
+      80.0
+    ],
+    "Desc": "GoldenSpyBuffCard.11042.2",
+    "Icon": "icon_buffcard_11042",
+    "BuffType": 3,
+    "MaxCount": 2
+  }
+}

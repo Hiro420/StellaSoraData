@@ -16,5 +16,23 @@
     "AngleThreshold": 5,
     "EndPointTime": 12000,
     "GuideLinePointInterval": 1000
+  },
+  "40000901": {
+    "Id": 40000901,
+    "Speed": 850,
+    "Angle": 45,
+    "SpeedThreshold": 30,
+    "AngleThreshold": 5,
+    "EndPointTime": 15000,
+    "GuideLinePointInterval": 1500
+  },
+  "40000902": {
+    "Id": 40000902,
+    "Speed": 820,
+    "Angle": 60,
+    "SpeedThreshold": 20,
+    "AngleThreshold": 5,
+    "EndPointTime": 12000,
+    "GuideLinePointInterval": 1000
   }
 }

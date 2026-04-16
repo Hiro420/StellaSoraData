@@ -34,5 +34,22 @@
     "Icon": "Icon/MapChallenge/duel_challenge_big_002",
     "Cover": "UI/TravelerDuelLevelSelect/Cover/Cover_Challenge_2001",
     "SkinId": 11901
+  },
+  "300100": {
+    "Id": 300100,
+    "BossId": 3001,
+    "Name": "TravelerDuelBossLevel.300100.1",
+    "Desc": "TravelerDuelBossLevel.300100.2",
+    "SuggestedPower": 90,
+    "RecommendBuildRank": 35,
+    "EET": [
+      6
+    ],
+    "Timelimit": 180,
+    "PreviewMonsterGroupId": 70002,
+    "FloorId": 6006101,
+    "Icon": "Icon/MapChallenge/duel_challenge_big_003",
+    "Cover": "UI/TravelerDuelLevelSelect/Cover/Cover_Challenge_3001",
+    "SkinId": 11501
   }
 }

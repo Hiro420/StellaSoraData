@@ -387,5 +387,394 @@
     "Qty1": 120,
     "Item2": 32000,
     "Qty2": 50
+  },
+  "200101": {
+    "Id": 200101,
+    "QuestGroup": 2001,
+    "Title": "AssistQuest.200101.1",
+    "JumpTo": 75,
+    "Item1": 30003,
+    "Qty1": 4,
+    "Item2": 1,
+    "Qty2": 6000
+  },
+  "200102": {
+    "Id": 200102,
+    "QuestGroup": 2001,
+    "Title": "AssistQuest.200102.1",
+    "JumpTo": 10301,
+    "Item1": 126,
+    "Qty1": 1,
+    "Item2": 82001,
+    "Qty2": 10
+  },
+  "200103": {
+    "Id": 200103,
+    "QuestGroup": 2001,
+    "Title": "AssistQuest.200103.1",
+    "Item1": 30003,
+    "Qty1": 4,
+    "Item2": 1,
+    "Qty2": 22000
+  },
+  "200104": {
+    "Id": 200104,
+    "QuestGroup": 2001,
+    "Title": "AssistQuest.200104.1",
+    "JumpTo": 12601,
+    "Item1": 213016,
+    "Qty1": 1,
+    "Item2": 50003,
+    "Qty2": 1
+  },
+  "200105": {
+    "Id": 200105,
+    "QuestGroup": 2001,
+    "Title": "AssistQuest.200105.1",
+    "JumpTo": 41,
+    "Item1": 82004,
+    "Qty1": 5,
+    "Item2": 81010,
+    "Qty2": 2
+  },
+  "200201": {
+    "Id": 200201,
+    "QuestGroup": 2002,
+    "Title": "AssistQuest.200201.1",
+    "JumpTo": 75,
+    "Item1": 82007,
+    "Qty1": 12,
+    "Item2": 32000,
+    "Qty2": 4
+  },
+  "200202": {
+    "Id": 200202,
+    "QuestGroup": 2002,
+    "Title": "AssistQuest.200202.1",
+    "JumpTo": 10301,
+    "Item1": 30003,
+    "Qty1": 12,
+    "Item2": 1,
+    "Qty2": 20000
+  },
+  "200203": {
+    "Id": 200203,
+    "QuestGroup": 2002,
+    "Title": "AssistQuest.200203.1",
+    "JumpTo": 12601,
+    "Item1": 30003,
+    "Qty1": 12,
+    "Item2": 1,
+    "Qty2": 20000
+  },
+  "200204": {
+    "Id": 200204,
+    "QuestGroup": 2002,
+    "Title": "AssistQuest.200204.1",
+    "JumpTo": 41,
+    "Item1": 50003,
+    "Qty1": 3,
+    "Item2": 81010,
+    "Qty2": 2
+  },
+  "200205": {
+    "Id": 200205,
+    "QuestGroup": 2002,
+    "Title": "AssistQuest.200205.1",
+    "JumpTo": 10801,
+    "Item1": 30003,
+    "Qty1": 16,
+    "Item2": 1,
+    "Qty2": 25000
+  },
+  "200206": {
+    "Id": 200206,
+    "QuestGroup": 2002,
+    "Title": "AssistQuest.200206.1",
+    "JumpTo": 10301,
+    "Item1": 82001,
+    "Qty1": 25,
+    "Item2": 1,
+    "Qty2": 20000
+  },
+  "200207": {
+    "Id": 200207,
+    "QuestGroup": 2002,
+    "Title": "AssistQuest.200207.1",
+    "JumpTo": 12601,
+    "Item1": 82001,
+    "Qty1": 25,
+    "Item2": 1,
+    "Qty2": 20000
+  },
+  "200208": {
+    "Id": 200208,
+    "QuestGroup": 2002,
+    "Title": "AssistQuest.200208.1",
+    "JumpTo": 10801,
+    "Item1": 82001,
+    "Qty1": 25,
+    "Item2": 1,
+    "Qty2": 20000
+  },
+  "200301": {
+    "Id": 200301,
+    "QuestGroup": 2003,
+    "Title": "AssistQuest.200301.1",
+    "JumpTo": 27,
+    "Item1": 82004,
+    "Qty1": 50,
+    "Item2": 50003,
+    "Qty2": 8
+  },
+  "200302": {
+    "Id": 200302,
+    "QuestGroup": 2003,
+    "Title": "AssistQuest.200302.1",
+    "JumpTo": 75,
+    "Item1": 82007,
+    "Qty1": 24,
+    "Item2": 32000,
+    "Qty2": 8
+  },
+  "200303": {
+    "Id": 200303,
+    "QuestGroup": 2003,
+    "Title": "AssistQuest.200303.1",
+    "JumpTo": 41,
+    "Item1": 82004,
+    "Qty1": 80,
+    "Item2": 50003,
+    "Qty2": 18
+  },
+  "200304": {
+    "Id": 200304,
+    "QuestGroup": 2003,
+    "Title": "AssistQuest.200304.1",
+    "JumpTo": 10301,
+    "Item1": 30003,
+    "Qty1": 18,
+    "Item2": 1,
+    "Qty2": 30000
+  },
+  "200305": {
+    "Id": 200305,
+    "QuestGroup": 2003,
+    "Title": "AssistQuest.200305.1",
+    "JumpTo": 12601,
+    "Item1": 30003,
+    "Qty1": 18,
+    "Item2": 1,
+    "Qty2": 30000
+  },
+  "200306": {
+    "Id": 200306,
+    "QuestGroup": 2003,
+    "Title": "AssistQuest.200306.1",
+    "JumpTo": 10801,
+    "Item1": 30003,
+    "Qty1": 18,
+    "Item2": 1,
+    "Qty2": 30000
+  },
+  "200307": {
+    "Id": 200307,
+    "QuestGroup": 2003,
+    "Title": "AssistQuest.200307.1",
+    "JumpTo": 41,
+    "Item1": 82004,
+    "Qty1": 80,
+    "Item2": 1,
+    "Qty2": 50000
+  },
+  "200308": {
+    "Id": 200308,
+    "QuestGroup": 2003,
+    "Title": "AssistQuest.200308.1",
+    "JumpTo": 33,
+    "Item1": 82001,
+    "Qty1": 50,
+    "Item2": 1,
+    "Qty2": 50000
+  },
+  "200309": {
+    "Id": 200309,
+    "QuestGroup": 2003,
+    "Title": "AssistQuest.200309.1",
+    "JumpTo": 10302,
+    "Item1": 82007,
+    "Qty1": 36,
+    "Item2": 32000,
+    "Qty2": 12
+  },
+  "200310": {
+    "Id": 200310,
+    "QuestGroup": 2003,
+    "Title": "AssistQuest.200310.1",
+    "JumpTo": 12602,
+    "Item1": 82007,
+    "Qty1": 36,
+    "Item2": 32000,
+    "Qty2": 12
+  },
+  "200401": {
+    "Id": 200401,
+    "QuestGroup": 2004,
+    "Title": "AssistQuest.200401.1",
+    "JumpTo": 75,
+    "Item1": 50003,
+    "Qty1": 30,
+    "Item2": 1,
+    "Qty2": 100000
+  },
+  "200402": {
+    "Id": 200402,
+    "QuestGroup": 2004,
+    "Title": "AssistQuest.200402.1",
+    "JumpTo": 10301,
+    "Item1": 30003,
+    "Qty1": 26,
+    "Item2": 1,
+    "Qty2": 50000
+  },
+  "200403": {
+    "Id": 200403,
+    "QuestGroup": 2004,
+    "Title": "AssistQuest.200403.1",
+    "JumpTo": 12601,
+    "Item1": 30003,
+    "Qty1": 26,
+    "Item2": 1,
+    "Qty2": 50000
+  },
+  "200404": {
+    "Id": 200404,
+    "QuestGroup": 2004,
+    "Title": "AssistQuest.200404.1",
+    "JumpTo": 10801,
+    "Item1": 30003,
+    "Qty1": 26,
+    "Item2": 1,
+    "Qty2": 50000
+  },
+  "200405": {
+    "Id": 200405,
+    "QuestGroup": 2004,
+    "Title": "AssistQuest.200405.1",
+    "JumpTo": 41,
+    "Item1": 82004,
+    "Qty1": 210,
+    "Item2": 1,
+    "Qty2": 60000
+  },
+  "200406": {
+    "Id": 200406,
+    "QuestGroup": 2004,
+    "Title": "AssistQuest.200406.1",
+    "JumpTo": 33,
+    "Item1": 82001,
+    "Qty1": 120,
+    "Item2": 1,
+    "Qty2": 60000
+  },
+  "200407": {
+    "Id": 200407,
+    "QuestGroup": 2004,
+    "Title": "AssistQuest.200407.1",
+    "JumpTo": 10302,
+    "Item1": 82007,
+    "Qty1": 120,
+    "Item2": 32000,
+    "Qty2": 40
+  },
+  "200408": {
+    "Id": 200408,
+    "QuestGroup": 2004,
+    "Title": "AssistQuest.200408.1",
+    "JumpTo": 12602,
+    "Item1": 82007,
+    "Qty1": 120,
+    "Item2": 32000,
+    "Qty2": 40
+  },
+  "200501": {
+    "Id": 200501,
+    "QuestGroup": 2005,
+    "Title": "AssistQuest.200501.1",
+    "JumpTo": 75,
+    "Item1": 50003,
+    "Qty1": 50,
+    "Item2": 1,
+    "Qty2": 120000
+  },
+  "200502": {
+    "Id": 200502,
+    "QuestGroup": 2005,
+    "Title": "AssistQuest.200502.1",
+    "JumpTo": 10301,
+    "Item1": 30003,
+    "Qty1": 33,
+    "Item2": 1,
+    "Qty2": 100000
+  },
+  "200503": {
+    "Id": 200503,
+    "QuestGroup": 2005,
+    "Title": "AssistQuest.200503.1",
+    "JumpTo": 12601,
+    "Item1": 30003,
+    "Qty1": 33,
+    "Item2": 1,
+    "Qty2": 100000
+  },
+  "200504": {
+    "Id": 200504,
+    "QuestGroup": 2005,
+    "Title": "AssistQuest.200504.1",
+    "JumpTo": 10801,
+    "Item1": 30003,
+    "Qty1": 33,
+    "Item2": 1,
+    "Qty2": 100000
+  },
+  "200505": {
+    "Id": 200505,
+    "QuestGroup": 2005,
+    "Title": "AssistQuest.200505.1",
+    "JumpTo": 41,
+    "Item1": 82004,
+    "Qty1": 460,
+    "Item2": 1,
+    "Qty2": 150000
+  },
+  "200506": {
+    "Id": 200506,
+    "QuestGroup": 2005,
+    "Title": "AssistQuest.200506.1",
+    "JumpTo": 33,
+    "Item1": 82001,
+    "Qty1": 120,
+    "Item2": 1,
+    "Qty2": 150000
+  },
+  "200507": {
+    "Id": 200507,
+    "QuestGroup": 2005,
+    "Title": "AssistQuest.200507.1",
+    "JumpTo": 10302,
+    "Item1": 82007,
+    "Qty1": 120,
+    "Item2": 32000,
+    "Qty2": 50
+  },
+  "200508": {
+    "Id": 200508,
+    "QuestGroup": 2005,
+    "Title": "AssistQuest.200508.1",
+    "JumpTo": 12602,
+    "Item1": 82007,
+    "Qty1": 120,
+    "Item2": 32000,
+    "Qty2": 50
   }
 }

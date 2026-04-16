@@ -1731,6 +1731,58 @@
     "Id": "PenguinCard_Trigger_MultiRatio",
     "Text": "UIText.PenguinCard_Trigger_MultiRatio.1"
   },
+  "PenguinCard_Quest_BuffTitle": {
+    "Id": "PenguinCard_Quest_BuffTitle",
+    "Text": "UIText.PenguinCard_Quest_BuffTitle.1"
+  },
+  "PenguinCard_Quest_LeftTurn": {
+    "Id": "PenguinCard_Quest_LeftTurn",
+    "Text": "UIText.PenguinCard_Quest_LeftTurn.1"
+  },
+  "PenguinCard_Btn_SelectQuest": {
+    "Id": "PenguinCard_Btn_SelectQuest",
+    "Text": "UIText.PenguinCard_Btn_SelectQuest.1"
+  },
+  "PenguinCard_Quest_Success": {
+    "Id": "PenguinCard_Quest_Success",
+    "Text": "UIText.PenguinCard_Quest_Success.1"
+  },
+  "PenguinCard_Quest_Fail": {
+    "Id": "PenguinCard_Quest_Fail",
+    "Text": "UIText.PenguinCard_Quest_Fail.1"
+  },
+  "PenguinCard_Quest_SelectTitle": {
+    "Id": "PenguinCard_Quest_SelectTitle",
+    "Text": "UIText.PenguinCard_Quest_SelectTitle.1"
+  },
+  "PenguinCard_Btn_Start": {
+    "Id": "PenguinCard_Btn_Start",
+    "Text": "UIText.PenguinCard_Btn_Start.1"
+  },
+  "PenguinCard_Start_Turn": {
+    "Id": "PenguinCard_Start_Turn",
+    "Text": "UIText.PenguinCard_Start_Turn.1"
+  },
+  "PenguinCard_Start_Title": {
+    "Id": "PenguinCard_Start_Title",
+    "Text": "UIText.PenguinCard_Start_Title.1"
+  },
+  "PenguinCard_BuffDescSuffix_Turn": {
+    "Id": "PenguinCard_BuffDescSuffix_Turn",
+    "Text": "UIText.PenguinCard_BuffDescSuffix_Turn.1"
+  },
+  "PenguinCard_BuffDescSuffix_Count": {
+    "Id": "PenguinCard_BuffDescSuffix_Count",
+    "Text": "UIText.PenguinCard_BuffDescSuffix_Count.1"
+  },
+  "PenguinCard_Tip_NoneQuest": {
+    "Id": "PenguinCard_Tip_NoneQuest",
+    "Text": "UIText.PenguinCard_Tip_NoneQuest.1"
+  },
+  "PenguinCard_Quest_FailDesc": {
+    "Id": "PenguinCard_Quest_FailDesc",
+    "Text": "UIText.PenguinCard_Quest_FailDesc.1"
+  },
   "OUTFIT_04": {
     "Id": "OUTFIT_04",
     "Text": "UIText.OUTFIT_04.1"
@@ -2659,6 +2711,10 @@
     "Id": "Equipment_MatNotEnough_Roll",
     "Text": "UIText.Equipment_MatNotEnough_Roll.1"
   },
+  "Equipment_MatNotEnough_Upgrade": {
+    "Id": "Equipment_MatNotEnough_Upgrade",
+    "Text": "UIText.Equipment_MatNotEnough_Upgrade.1"
+  },
   "Equipment_RenameEmptyTip": {
     "Id": "Equipment_RenameEmptyTip",
     "Text": "UIText.Equipment_RenameEmptyTip.1"
@@ -2686,6 +2742,30 @@
   "Equipment_CharEquipNone": {
     "Id": "Equipment_CharEquipNone",
     "Text": "UIText.Equipment_CharEquipNone.1"
+  },
+  "Equipment_NeedToSelectAffix": {
+    "Id": "Equipment_NeedToSelectAffix",
+    "Text": "UIText.Equipment_NeedToSelectAffix.1"
+  },
+  "Equipment_UpgradeCountEmpty": {
+    "Id": "Equipment_UpgradeCountEmpty",
+    "Text": "UIText.Equipment_UpgradeCountEmpty.1"
+  },
+  "Equipment_SelectAffixMax": {
+    "Id": "Equipment_SelectAffixMax",
+    "Text": "UIText.Equipment_SelectAffixMax.1"
+  },
+  "Equipment_CanNotRevert": {
+    "Id": "Equipment_CanNotRevert",
+    "Text": "UIText.Equipment_CanNotRevert.1"
+  },
+  "Equipment_UpgradeAfterUnlock": {
+    "Id": "Equipment_UpgradeAfterUnlock",
+    "Text": "UIText.Equipment_UpgradeAfterUnlock.1"
+  },
+  "Equipment_RevertSuccess": {
+    "Id": "Equipment_RevertSuccess",
+    "Text": "UIText.Equipment_RevertSuccess.1"
   },
   "Friend_Card_Save_Failed": {
     "Id": "Friend_Card_Save_Failed",
@@ -2779,6 +2859,10 @@
     "Id": "PenguinCard_Error_EmptyPenguinCard",
     "Text": "UIText.PenguinCard_Error_EmptyPenguinCard.1"
   },
+  "PenguinCard_Error_EmptyQuest": {
+    "Id": "PenguinCard_Error_EmptyQuest",
+    "Text": "UIText.PenguinCard_Error_EmptyQuest.1"
+  },
   "PenguinCard_RollMax": {
     "Id": "PenguinCard_RollMax",
     "Text": "UIText.PenguinCard_RollMax.1"
@@ -2810,6 +2894,94 @@
   "PenguinCard_Level_LockLevelTips": {
     "Id": "PenguinCard_Level_LockLevelTips",
     "Text": "UIText.PenguinCard_Level_LockLevelTips.1"
+  },
+  "Potential_Preselection_Char_Not_Full": {
+    "Id": "Potential_Preselection_Char_Not_Full",
+    "Text": "UIText.Potential_Preselection_Char_Not_Full.1"
+  },
+  "Potential_Preselection_Save_CD": {
+    "Id": "Potential_Preselection_Save_CD",
+    "Text": "UIText.Potential_Preselection_Save_CD.1"
+  },
+  "Potential_Preselection_Abandon_Edit": {
+    "Id": "Potential_Preselection_Abandon_Edit",
+    "Text": "UIText.Potential_Preselection_Abandon_Edit.1"
+  },
+  "Potential_Preselection_Delete_Tip": {
+    "Id": "Potential_Preselection_Delete_Tip",
+    "Text": "UIText.Potential_Preselection_Delete_Tip.1"
+  },
+  "Potential_Preselection_Sepcail_Max": {
+    "Id": "Potential_Preselection_Sepcail_Max",
+    "Text": "UIText.Potential_Preselection_Sepcail_Max.1"
+  },
+  "Potential_Preselection_Char_Lock_Tip": {
+    "Id": "Potential_Preselection_Char_Lock_Tip",
+    "Text": "UIText.Potential_Preselection_Char_Lock_Tip.1"
+  },
+  "Potential_Preselection_Build_Auto": {
+    "Id": "Potential_Preselection_Build_Auto",
+    "Text": "UIText.Potential_Preselection_Build_Auto.1"
+  },
+  "Potential_Preselection_UnSave_Tip": {
+    "Id": "Potential_Preselection_UnSave_Tip",
+    "Text": "UIText.Potential_Preselection_UnSave_Tip.1"
+  },
+  "Potential_Preselection_Char_Change": {
+    "Id": "Potential_Preselection_Char_Change",
+    "Text": "UIText.Potential_Preselection_Char_Change.1"
+  },
+  "Potential_Preselection_Import_Error": {
+    "Id": "Potential_Preselection_Import_Error",
+    "Text": "UIText.Potential_Preselection_Import_Error.1"
+  },
+  "Potential_Preselection_Build_Max": {
+    "Id": "Potential_Preselection_Build_Max",
+    "Text": "UIText.Potential_Preselection_Build_Max.1"
+  },
+  "Potential_Preselection_Delete_Suc": {
+    "Id": "Potential_Preselection_Delete_Suc",
+    "Text": "UIText.Potential_Preselection_Delete_Suc.1"
+  },
+  "Potential_Preselection_Import_Disable": {
+    "Id": "Potential_Preselection_Import_Disable",
+    "Text": "UIText.Potential_Preselection_Import_Disable.1"
+  },
+  "Potential_Preselection_Share_Suc": {
+    "Id": "Potential_Preselection_Share_Suc",
+    "Text": "UIText.Potential_Preselection_Share_Suc.1"
+  },
+  "Potential_Preselection_Share_Fail": {
+    "Id": "Potential_Preselection_Share_Fail",
+    "Text": "UIText.Potential_Preselection_Share_Fail.1"
+  },
+  "Potential_Preselection_Save_Form_Rank": {
+    "Id": "Potential_Preselection_Save_Form_Rank",
+    "Text": "UIText.Potential_Preselection_Save_Form_Rank.1"
+  },
+  "Potential_Preselection_Import_Suc": {
+    "Id": "Potential_Preselection_Import_Suc",
+    "Text": "UIText.Potential_Preselection_Import_Suc.1"
+  },
+  "Potential_Preselection_Select_Suc": {
+    "Id": "Potential_Preselection_Select_Suc",
+    "Text": "UIText.Potential_Preselection_Select_Suc.1"
+  },
+  "Potential_Preselection_Cancel_Suc": {
+    "Id": "Potential_Preselection_Cancel_Suc",
+    "Text": "UIText.Potential_Preselection_Cancel_Suc.1"
+  },
+  "Rank_Build_Detail_Unavailable": {
+    "Id": "Rank_Build_Detail_Unavailable",
+    "Text": "UIText.Rank_Build_Detail_Unavailable.1"
+  },
+  "TD_GetHighestReward": {
+    "Id": "TD_GetHighestReward",
+    "Text": "UIText.TD_GetHighestReward.1"
+  },
+  "GoldenSpy_NoneFrozen": {
+    "Id": "GoldenSpy_NoneFrozen",
+    "Text": "UIText.GoldenSpy_NoneFrozen.1"
   },
   "Level_2_5_1": {
     "Id": "Level_2_5_1",
@@ -3610,6 +3782,10 @@
   "MainView_Build": {
     "Id": "MainView_Build",
     "Text": "UIText.MainView_Build.1"
+  },
+  "MainView_Preselection": {
+    "Id": "MainView_Preselection",
+    "Text": "UIText.MainView_Preselection.1"
   },
   "MainView_Disc": {
     "Id": "MainView_Disc",
@@ -5023,6 +5199,10 @@
     "Id": "ItemStype_13",
     "Text": "UIText.ItemStype_13.1"
   },
+  "ItemStype_15": {
+    "Id": "ItemStype_15",
+    "Text": "UIText.ItemStype_15.1"
+  },
   "ItemStype_17": {
     "Id": "ItemStype_17",
     "Text": "UIText.ItemStype_17.1"
@@ -6319,6 +6499,22 @@
     "Id": "Mall_MonthlyCard_RuleDetail",
     "Text": "UIText.Mall_MonthlyCard_RuleDetail.1"
   },
+  "Mall_Remain_Time_Day": {
+    "Id": "Mall_Remain_Time_Day",
+    "Text": "UIText.Mall_Remain_Time_Day.1"
+  },
+  "Mall_Remain_Time_Hour": {
+    "Id": "Mall_Remain_Time_Hour",
+    "Text": "UIText.Mall_Remain_Time_Hour.1"
+  },
+  "Mall_Remain_Time_Min": {
+    "Id": "Mall_Remain_Time_Min",
+    "Text": "UIText.Mall_Remain_Time_Min.1"
+  },
+  "Mall_Remain_Time_Sec": {
+    "Id": "Mall_Remain_Time_Sec",
+    "Text": "UIText.Mall_Remain_Time_Sec.1"
+  },
   "MonthlyCard_RemainDay": {
     "Id": "MonthlyCard_RemainDay",
     "Text": "UIText.MonthlyCard_RemainDay.1"
@@ -6598,6 +6794,10 @@
   "TD_QusetTitle": {
     "Id": "TD_QusetTitle",
     "Text": "UIText.TD_QusetTitle.1"
+  },
+  "TD_QusetBtn": {
+    "Id": "TD_QusetBtn",
+    "Text": "UIText.TD_QusetBtn.1"
   },
   "TD_LevelTitle": {
     "Id": "TD_LevelTitle",
@@ -7927,10 +8127,6 @@
     "Id": "Equipment_Info_Level",
     "Text": "UIText.Equipment_Info_Level.1"
   },
-  "Equipment_Btn_Upgrade": {
-    "Id": "Equipment_Btn_Upgrade",
-    "Text": "UIText.Equipment_Btn_Upgrade.1"
-  },
   "Equipment_Btn_FastFill": {
     "Id": "Equipment_Btn_FastFill",
     "Text": "UIText.Equipment_Btn_FastFill.1"
@@ -8183,6 +8379,14 @@
     "Id": "Equipment_RollWarning_HighQuality",
     "Text": "UIText.Equipment_RollWarning_HighQuality.1"
   },
+  "Equipment_RollWarning_HasUpgrade": {
+    "Id": "Equipment_RollWarning_HasUpgrade",
+    "Text": "UIText.Equipment_RollWarning_HasUpgrade.1"
+  },
+  "Equipment_ReplaceWarning_HasUpgrade": {
+    "Id": "Equipment_ReplaceWarning_HasUpgrade",
+    "Text": "UIText.Equipment_ReplaceWarning_HasUpgrade.1"
+  },
   "Equipment_AttrPreviewName_1": {
     "Id": "Equipment_AttrPreviewName_1",
     "Text": "UIText.Equipment_AttrPreviewName_1.1"
@@ -8194,6 +8398,66 @@
   "Equipment_AttrPreviewName_3": {
     "Id": "Equipment_AttrPreviewName_3",
     "Text": "UIText.Equipment_AttrPreviewName_3.1"
+  },
+  "Equipment_Btn_Upgrade": {
+    "Id": "Equipment_Btn_Upgrade",
+    "Text": "UIText.Equipment_Btn_Upgrade.1"
+  },
+  "Equipment_Btn_Revert": {
+    "Id": "Equipment_Btn_Revert",
+    "Text": "UIText.Equipment_Btn_Revert.1"
+  },
+  "Equipment_Revert_MainTips": {
+    "Id": "Equipment_Revert_MainTips",
+    "Text": "UIText.Equipment_Revert_MainTips.1"
+  },
+  "Equipment_Revert_SubTips": {
+    "Id": "Equipment_Revert_SubTips",
+    "Text": "UIText.Equipment_Revert_SubTips.1"
+  },
+  "Equipment_Upgrade_MainTips": {
+    "Id": "Equipment_Upgrade_MainTips",
+    "Text": "UIText.Equipment_Upgrade_MainTips.1"
+  },
+  "Equipment_Upgrade_SubTips": {
+    "Id": "Equipment_Upgrade_SubTips",
+    "Text": "UIText.Equipment_Upgrade_SubTips.1"
+  },
+  "Equipment_Upgrade_WindowTitle": {
+    "Id": "Equipment_Upgrade_WindowTitle",
+    "Text": "UIText.Equipment_Upgrade_WindowTitle.1"
+  },
+  "Equipment_Upgrade_CostTitle": {
+    "Id": "Equipment_Upgrade_CostTitle",
+    "Text": "UIText.Equipment_Upgrade_CostTitle.1"
+  },
+  "Equipment_Upgrade_OptionTitle": {
+    "Id": "Equipment_Upgrade_OptionTitle",
+    "Text": "UIText.Equipment_Upgrade_OptionTitle.1"
+  },
+  "Equipment_Upgrade_RevertTitle": {
+    "Id": "Equipment_Upgrade_RevertTitle",
+    "Text": "UIText.Equipment_Upgrade_RevertTitle.1"
+  },
+  "Equipment_Upgrade_MaxLevel": {
+    "Id": "Equipment_Upgrade_MaxLevel",
+    "Text": "UIText.Equipment_Upgrade_MaxLevel.1"
+  },
+  "Equipment_Upgrade_NeedSelect": {
+    "Id": "Equipment_Upgrade_NeedSelect",
+    "Text": "UIText.Equipment_Upgrade_NeedSelect.1"
+  },
+  "Equipment_Upgrade_RevertDesc": {
+    "Id": "Equipment_Upgrade_RevertDesc",
+    "Text": "UIText.Equipment_Upgrade_RevertDesc.1"
+  },
+  "Equipment_Upgrade_MaxLimit": {
+    "Id": "Equipment_Upgrade_MaxLimit",
+    "Text": "UIText.Equipment_Upgrade_MaxLimit.1"
+  },
+  "Equipment_Upgrade_AlterHasNotSameAffix": {
+    "Id": "Equipment_Upgrade_AlterHasNotSameAffix",
+    "Text": "UIText.Equipment_Upgrade_AlterHasNotSameAffix.1"
   },
   "Character_UnExecutable_Skill": {
     "Id": "Character_UnExecutable_Skill",
@@ -12923,6 +13187,10 @@
     "Id": "ActivityLevels_Lock_Sec_Color_Common",
     "Text": "UIText.ActivityLevels_Lock_Sec_Color_Common.1"
   },
+  "ActivityLevels_Lock_LastLV": {
+    "Id": "ActivityLevels_Lock_LastLV",
+    "Text": "UIText.ActivityLevels_Lock_LastLV.1"
+  },
   "VampireEventTips_1": {
     "Id": "VampireEventTips_1",
     "Text": "UIText.VampireEventTips_1.1"
@@ -14179,9 +14447,9 @@
     "Id": "TravelerDuel_FanGift",
     "Text": "UIText.TravelerDuel_FanGift.1"
   },
-  "TravelerDuel_HeatIndicatorTitle": {
-    "Id": "TravelerDuel_HeatIndicatorTitle",
-    "Text": "UIText.TravelerDuel_HeatIndicatorTitle.1"
+  "TravelerDuel_SendGift": {
+    "Id": "TravelerDuel_SendGift",
+    "Text": "UIText.TravelerDuel_SendGift.1"
   },
   "TravelerDuel_AutoFill": {
     "Id": "TravelerDuel_AutoFill",
@@ -14243,6 +14511,10 @@
     "Id": "TD_DuelOnGoing",
     "Text": "UIText.TD_DuelOnGoing.1"
   },
+  "TD_DuelHeatReach": {
+    "Id": "TD_DuelHeatReach",
+    "Text": "UIText.TD_DuelHeatReach.1"
+  },
   "TD_DuelHistoryTitle": {
     "Id": "TD_DuelHistoryTitle",
     "Text": "UIText.TD_DuelHistoryTitle.1"
@@ -14250,5 +14522,429 @@
   "Activity_Mini_Game_10106": {
     "Id": "Activity_Mini_Game_10106",
     "Text": "UIText.Activity_Mini_Game_10106.1"
+  },
+  "Potential_Preselection_List_Empty": {
+    "Id": "Potential_Preselection_List_Empty",
+    "Text": "UIText.Potential_Preselection_List_Empty.1"
+  },
+  "Potential_Preselection_Delete": {
+    "Id": "Potential_Preselection_Delete",
+    "Text": "UIText.Potential_Preselection_Delete.1"
+  },
+  "Potential_Preselection_Import": {
+    "Id": "Potential_Preselection_Import",
+    "Text": "UIText.Potential_Preselection_Import.1"
+  },
+  "Potential_Preselection_Item_Char_Diff": {
+    "Id": "Potential_Preselection_Item_Char_Diff",
+    "Text": "UIText.Potential_Preselection_Item_Char_Diff.1"
+  },
+  "Potential_Preselection_Item_Char_Lock": {
+    "Id": "Potential_Preselection_Item_Char_Lock",
+    "Text": "UIText.Potential_Preselection_Item_Char_Lock.1"
+  },
+  "Potential_Preselection_Create": {
+    "Id": "Potential_Preselection_Create",
+    "Text": "UIText.Potential_Preselection_Create.1"
+  },
+  "Potential_Preselection_Select": {
+    "Id": "Potential_Preselection_Select",
+    "Text": "UIText.Potential_Preselection_Select.1"
+  },
+  "Potential_Preselection_Deleting": {
+    "Id": "Potential_Preselection_Deleting",
+    "Text": "UIText.Potential_Preselection_Deleting.1"
+  },
+  "Potential_Preselection_Select_Char": {
+    "Id": "Potential_Preselection_Select_Char",
+    "Text": "UIText.Potential_Preselection_Select_Char.1"
+  },
+  "Potential_Preselection_Char_Empty": {
+    "Id": "Potential_Preselection_Char_Empty",
+    "Text": "UIText.Potential_Preselection_Char_Empty.1"
+  },
+  "Potential_Preselection_Member": {
+    "Id": "Potential_Preselection_Member",
+    "Text": "UIText.Potential_Preselection_Member.1"
+  },
+  "Potential_Preselection_Share": {
+    "Id": "Potential_Preselection_Share",
+    "Text": "UIText.Potential_Preselection_Share.1"
+  },
+  "Potential_Preselection_Edit": {
+    "Id": "Potential_Preselection_Edit",
+    "Text": "UIText.Potential_Preselection_Edit.1"
+  },
+  "Potential_Preselection_Use": {
+    "Id": "Potential_Preselection_Use",
+    "Text": "UIText.Potential_Preselection_Use.1"
+  },
+  "Potential_Preselection_Cancel": {
+    "Id": "Potential_Preselection_Cancel",
+    "Text": "UIText.Potential_Preselection_Cancel.1"
+  },
+  "Potential_Preselection_Char_Lock": {
+    "Id": "Potential_Preselection_Char_Lock",
+    "Text": "UIText.Potential_Preselection_Char_Lock.1"
+  },
+  "Potential_Preselection_Edit_Abandon": {
+    "Id": "Potential_Preselection_Edit_Abandon",
+    "Text": "UIText.Potential_Preselection_Edit_Abandon.1"
+  },
+  "Potential_Preselection_Edit_Save": {
+    "Id": "Potential_Preselection_Edit_Save",
+    "Text": "UIText.Potential_Preselection_Edit_Save.1"
+  },
+  "Potential_Preselection_Name_Empty": {
+    "Id": "Potential_Preselection_Name_Empty",
+    "Text": "UIText.Potential_Preselection_Name_Empty.1"
+  },
+  "Potential_Preselection_Char_Selected": {
+    "Id": "Potential_Preselection_Char_Selected",
+    "Text": "UIText.Potential_Preselection_Char_Selected.1"
+  },
+  "Potential_Preselection_List_Empty_Filter": {
+    "Id": "Potential_Preselection_List_Empty_Filter",
+    "Text": "UIText.Potential_Preselection_List_Empty_Filter.1"
+  },
+  "Potential_Preselection_Import_Title": {
+    "Id": "Potential_Preselection_Import_Title",
+    "Text": "UIText.Potential_Preselection_Import_Title.1"
+  },
+  "Potential_Preselection_Import_Input": {
+    "Id": "Potential_Preselection_Import_Input",
+    "Text": "UIText.Potential_Preselection_Import_Input.1"
+  },
+  "Potential_Preselection_Change_Name": {
+    "Id": "Potential_Preselection_Change_Name",
+    "Text": "UIText.Potential_Preselection_Change_Name.1"
+  },
+  "Potential_Preselection_Cur_Name": {
+    "Id": "Potential_Preselection_Cur_Name",
+    "Text": "UIText.Potential_Preselection_Cur_Name.1"
+  },
+  "Potential_Preselection_Name_Input": {
+    "Id": "Potential_Preselection_Name_Input",
+    "Text": "UIText.Potential_Preselection_Name_Input.1"
+  },
+  "Potential_Preselection_Name_Init": {
+    "Id": "Potential_Preselection_Name_Init",
+    "Text": "UIText.Potential_Preselection_Name_Init.1"
+  },
+  "Potential_Preselection_Potential_Empty": {
+    "Id": "Potential_Preselection_Potential_Empty",
+    "Text": "UIText.Potential_Preselection_Potential_Empty.1"
+  },
+  "Potential_Preselection_Recommend": {
+    "Id": "Potential_Preselection_Recommend",
+    "Text": "UIText.Potential_Preselection_Recommend.1"
+  },
+  "Potential_Preselection_Recommend_Level": {
+    "Id": "Potential_Preselection_Recommend_Level",
+    "Text": "UIText.Potential_Preselection_Recommend_Level.1"
+  },
+  "Build_Preselection_Empty": {
+    "Id": "Build_Preselection_Empty",
+    "Text": "UIText.Build_Preselection_Empty.1"
+  },
+  "Build_Preselection_CharDiff": {
+    "Id": "Build_Preselection_CharDiff",
+    "Text": "UIText.Build_Preselection_CharDiff.1"
+  },
+  "Build_Preselection_Selected": {
+    "Id": "Build_Preselection_Selected",
+    "Text": "UIText.Build_Preselection_Selected.1"
+  },
+  "Build_Preselection_Btn": {
+    "Id": "Build_Preselection_Btn",
+    "Text": "UIText.Build_Preselection_Btn.1"
+  },
+  "Rank_Build_Save_Preselection": {
+    "Id": "Rank_Build_Save_Preselection",
+    "Text": "UIText.Rank_Build_Save_Preselection.1"
+  },
+  "TD_SelfName": {
+    "Id": "TD_SelfName",
+    "Text": "UIText.TD_SelfName.1"
+  },
+  "TD_HourReward": {
+    "Id": "TD_HourReward",
+    "Text": "UIText.TD_HourReward.1"
+  },
+  "TD_EnemyEffect": {
+    "Id": "TD_EnemyEffect",
+    "Text": "UIText.TD_EnemyEffect.1"
+  },
+  "TD_DifficultyPreviewTitle": {
+    "Id": "TD_DifficultyPreviewTitle",
+    "Text": "UIText.TD_DifficultyPreviewTitle.1"
+  },
+  "GoldenSpyBuffType1": {
+    "Id": "GoldenSpyBuffType1",
+    "Text": "UIText.GoldenSpyBuffType1.1"
+  },
+  "GoldenSpyBuffType2": {
+    "Id": "GoldenSpyBuffType2",
+    "Text": "UIText.GoldenSpyBuffType2.1"
+  },
+  "GoldenSpyBuffType3": {
+    "Id": "GoldenSpyBuffType3",
+    "Text": "UIText.GoldenSpyBuffType3.1"
+  },
+  "GoldenSpyBuffType4": {
+    "Id": "GoldenSpyBuffType4",
+    "Text": "UIText.GoldenSpyBuffType4.1"
+  },
+  "GoldenSpy_Result_Title": {
+    "Id": "GoldenSpy_Result_Title",
+    "Text": "UIText.GoldenSpy_Result_Title.1"
+  },
+  "GoldenSpy_Result_Failure": {
+    "Id": "GoldenSpy_Result_Failure",
+    "Text": "UIText.GoldenSpy_Result_Failure.1"
+  },
+  "GoldenSpy_Result_Finish": {
+    "Id": "GoldenSpy_Result_Finish",
+    "Text": "UIText.GoldenSpy_Result_Finish.1"
+  },
+  "GoldenSpy_Result_Tip": {
+    "Id": "GoldenSpy_Result_Tip",
+    "Text": "UIText.GoldenSpy_Result_Tip.1"
+  },
+  "GoldenSpy_Result_GoNext": {
+    "Id": "GoldenSpy_Result_GoNext",
+    "Text": "UIText.GoldenSpy_Result_GoNext.1"
+  },
+  "GoldenSpy_Result_TotalTargetTitle": {
+    "Id": "GoldenSpy_Result_TotalTargetTitle",
+    "Text": "UIText.GoldenSpy_Result_TotalTargetTitle.1"
+  },
+  "GoldenSpy_Result_GoNextTarget1": {
+    "Id": "GoldenSpy_Result_GoNextTarget1",
+    "Text": "UIText.GoldenSpy_Result_GoNextTarget1.1"
+  },
+  "GoldenSpy_Result_GoNextTarget2": {
+    "Id": "GoldenSpy_Result_GoNextTarget2",
+    "Text": "UIText.GoldenSpy_Result_GoNextTarget2.1"
+  },
+  "GoldenSpy_Result_FinishTarget1": {
+    "Id": "GoldenSpy_Result_FinishTarget1",
+    "Text": "UIText.GoldenSpy_Result_FinishTarget1.1"
+  },
+  "GoldenSpy_Result_FinishTarget2": {
+    "Id": "GoldenSpy_Result_FinishTarget2",
+    "Text": "UIText.GoldenSpy_Result_FinishTarget2.1"
+  },
+  "GoldenSpy_Result_FinishTarget3": {
+    "Id": "GoldenSpy_Result_FinishTarget3",
+    "Text": "UIText.GoldenSpy_Result_FinishTarget3.1"
+  },
+  "GoldenSpy_Result_FinishTarget4": {
+    "Id": "GoldenSpy_Result_FinishTarget4",
+    "Text": "UIText.GoldenSpy_Result_FinishTarget4.1"
+  },
+  "GoldenSpy_Result_TargetValue1": {
+    "Id": "GoldenSpy_Result_TargetValue1",
+    "Text": "UIText.GoldenSpy_Result_TargetValue1.1"
+  },
+  "GoldenSpy_Result_TargetValue2": {
+    "Id": "GoldenSpy_Result_TargetValue2",
+    "Text": "UIText.GoldenSpy_Result_TargetValue2.1"
+  },
+  "GoldenSpy_ToolBox_Title": {
+    "Id": "GoldenSpy_ToolBox_Title",
+    "Text": "UIText.GoldenSpy_ToolBox_Title.1"
+  },
+  "GoldenSpy_Floor": {
+    "Id": "GoldenSpy_Floor",
+    "Text": "UIText.GoldenSpy_Floor.1"
+  },
+  "GoldenSpy_Target": {
+    "Id": "GoldenSpy_Target",
+    "Text": "UIText.GoldenSpy_Target.1"
+  },
+  "GoldenSpy_QuestTitle": {
+    "Id": "GoldenSpy_QuestTitle",
+    "Text": "UIText.GoldenSpy_QuestTitle.1"
+  },
+  "GoldenSpy_LevelGroup_Lock_PreGroup": {
+    "Id": "GoldenSpy_LevelGroup_Lock_PreGroup",
+    "Text": "UIText.GoldenSpy_LevelGroup_Lock_PreGroup.1"
+  },
+  "GoldenSpy_TimeTips": {
+    "Id": "GoldenSpy_TimeTips",
+    "Text": "UIText.GoldenSpy_TimeTips.1"
+  },
+  "GoldenSpy_TotalFloor": {
+    "Id": "GoldenSpy_TotalFloor",
+    "Text": "UIText.GoldenSpy_TotalFloor.1"
+  },
+  "GoldenSpy_HighestScoreTitle": {
+    "Id": "GoldenSpy_HighestScoreTitle",
+    "Text": "UIText.GoldenSpy_HighestScoreTitle.1"
+  },
+  "GoldenSpy_HighestScore": {
+    "Id": "GoldenSpy_HighestScore",
+    "Text": "UIText.GoldenSpy_HighestScore.1"
+  },
+  "GoldenSpy_Go": {
+    "Id": "GoldenSpy_Go",
+    "Text": "UIText.GoldenSpy_Go.1"
+  },
+  "GoldenSpy_LockTips": {
+    "Id": "GoldenSpy_LockTips",
+    "Text": "UIText.GoldenSpy_LockTips.1"
+  },
+  "GoldenSpyBuffState1": {
+    "Id": "GoldenSpyBuffState1",
+    "Text": "UIText.GoldenSpyBuffState1.1"
+  },
+  "GoldenSpyBuffState2": {
+    "Id": "GoldenSpyBuffState2",
+    "Text": "UIText.GoldenSpyBuffState2.1"
+  },
+  "GoldenSpyBoxEmpty": {
+    "Id": "GoldenSpyBoxEmpty",
+    "Text": "UIText.GoldenSpyBoxEmpty.1"
+  },
+  "GoldenSpy_LevelFinish": {
+    "Id": "GoldenSpy_LevelFinish",
+    "Text": "UIText.GoldenSpy_LevelFinish.1"
+  },
+  "StarTower_ResearchPreview": {
+    "Id": "StarTower_ResearchPreview",
+    "Text": "UIText.StarTower_ResearchPreview.1"
+  },
+  "StarTower_ActiveResearch": {
+    "Id": "StarTower_ActiveResearch",
+    "Text": "UIText.StarTower_ActiveResearch.1"
+  },
+  "StarTower_Difficulty": {
+    "Id": "StarTower_Difficulty",
+    "Text": "UIText.StarTower_Difficulty.1"
+  },
+  "STGrowth_NoEffectTip": {
+    "Id": "STGrowth_NoEffectTip",
+    "Text": "UIText.STGrowth_NoEffectTip.1"
+  },
+  "STGrowth_HighestLevelTip": {
+    "Id": "STGrowth_HighestLevelTip",
+    "Text": "UIText.STGrowth_HighestLevelTip.1"
+  },
+  "Rank_Build_Detail_Name": {
+    "Id": "Rank_Build_Detail_Name",
+    "Text": "UIText.Rank_Build_Detail_Name.1"
+  },
+  "CharacterList_Common": {
+    "Id": "CharacterList_Common",
+    "Text": "UIText.CharacterList_Common.1"
+  },
+  "TD_BattleQuestTab": {
+    "Id": "TD_BattleQuestTab",
+    "Text": "UIText.TD_BattleQuestTab.1"
+  },
+  "FormationQuest_UnLock": {
+    "Id": "FormationQuest_UnLock",
+    "Text": "UIText.FormationQuest_UnLock.1"
+  },
+  "CharRechargeSpeed_EnergyEff": {
+    "Id": "CharRechargeSpeed_EnergyEff",
+    "Text": "UIText.CharRechargeSpeed_EnergyEff.1"
+  },
+  "CharRechargeSpeed_EnergyEffDesc": {
+    "Id": "CharRechargeSpeed_EnergyEffDesc",
+    "Text": "UIText.CharRechargeSpeed_EnergyEffDesc.1"
+  },
+  "CharRechargeSpeed_ChargingRate": {
+    "Id": "CharRechargeSpeed_ChargingRate",
+    "Text": "UIText.CharRechargeSpeed_ChargingRate.1"
+  },
+  "CharRechargeSpeed_EnergyConsume": {
+    "Id": "CharRechargeSpeed_EnergyConsume",
+    "Text": "UIText.CharRechargeSpeed_EnergyConsume.1"
+  },
+  "CharRechargeSpeed_SupHigh": {
+    "Id": "CharRechargeSpeed_SupHigh",
+    "Text": "UIText.CharRechargeSpeed_SupHigh.1"
+  },
+  "CharRechargeSpeed_High": {
+    "Id": "CharRechargeSpeed_High",
+    "Text": "UIText.CharRechargeSpeed_High.1"
+  },
+  "CharRechargeSpeed_Mid": {
+    "Id": "CharRechargeSpeed_Mid",
+    "Text": "UIText.CharRechargeSpeed_Mid.1"
+  },
+  "CharRechargeSpeed_Low": {
+    "Id": "CharRechargeSpeed_Low",
+    "Text": "UIText.CharRechargeSpeed_Low.1"
+  },
+  "CharEnergyCostSpeed_SupHigh": {
+    "Id": "CharEnergyCostSpeed_SupHigh",
+    "Text": "UIText.CharEnergyCostSpeed_SupHigh.1"
+  },
+  "CharEnergyCostSpeed_High": {
+    "Id": "CharEnergyCostSpeed_High",
+    "Text": "UIText.CharEnergyCostSpeed_High.1"
+  },
+  "CharEnergyCostSpeed_Mid": {
+    "Id": "CharEnergyCostSpeed_Mid",
+    "Text": "UIText.CharEnergyCostSpeed_Mid.1"
+  },
+  "CharEnergyCostSpeed_Low": {
+    "Id": "CharEnergyCostSpeed_Low",
+    "Text": "UIText.CharEnergyCostSpeed_Low.1"
+  },
+  "Equipment_Upgrade_MaxUpgradeTip": {
+    "Id": "Equipment_Upgrade_MaxUpgradeTip",
+    "Text": "UIText.Equipment_Upgrade_MaxUpgradeTip.1"
+  },
+  "TD_NoDuelHistory": {
+    "Id": "TD_NoDuelHistory",
+    "Text": "UIText.TD_NoDuelHistory.1"
+  },
+  "Activity_Mini_Game_20102": {
+    "Id": "Activity_Mini_Game_20102",
+    "Text": "UIText.Activity_Mini_Game_20102.1"
+  },
+  "Activity_Fate_Card_20102": {
+    "Id": "Activity_Fate_Card_20102",
+    "Text": "UIText.Activity_Fate_Card_20102.1"
+  },
+  "Activity_StoryName_20102": {
+    "Id": "Activity_StoryName_20102",
+    "Text": "UIText.Activity_StoryName_20102.1"
+  },
+  "Story_StoryTitle": {
+    "Id": "Story_StoryTitle",
+    "Text": "UIText.Story_StoryTitle.1"
+  },
+  "Story_BattleTitle": {
+    "Id": "Story_BattleTitle",
+    "Text": "UIText.Story_BattleTitle.1"
+  },
+  "Story_Enter": {
+    "Id": "Story_Enter",
+    "Text": "UIText.Story_Enter.1"
+  },
+  "SetCharacterCommon_Tip": {
+    "Id": "SetCharacterCommon_Tip",
+    "Text": "UIText.SetCharacterCommon_Tip.1"
+  },
+  "OpenCharacterCommonTop_Tip": {
+    "Id": "OpenCharacterCommonTop_Tip",
+    "Text": "UIText.OpenCharacterCommonTop_Tip.1"
+  },
+  "CloseCharacterCommonTop_Tip": {
+    "Id": "CloseCharacterCommonTop_Tip",
+    "Text": "UIText.CloseCharacterCommonTop_Tip.1"
+  },
+  "TrekkerVersus_MaxIdleRewardReached": {
+    "Id": "TrekkerVersus_MaxIdleRewardReached",
+    "Text": "UIText.TrekkerVersus_MaxIdleRewardReached.1"
+  },
+  "TravelerDuel_FanLevelUp": {
+    "Id": "TravelerDuel_FanLevelUp",
+    "Text": "UIText.TravelerDuel_FanLevelUp.1"
   }
 }

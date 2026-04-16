@@ -65,6 +65,12 @@
     "Alias": "BoardNPC.917203.2",
     "DefaultSkinId": 917203
   },
+  "917204": {
+    "Id": 917204,
+    "Name": "BoardNPC.917204.1",
+    "Alias": "BoardNPC.917204.2",
+    "DefaultSkinId": 917204
+  },
   "917301": {
     "Id": 917301,
     "Name": "BoardNPC.917301.1",
@@ -209,6 +215,24 @@
     "Alias": "BoardNPC.7159.2",
     "DefaultSkinId": 715901
   },
+  "7156": {
+    "Id": 7156,
+    "Name": "BoardNPC.7156.1",
+    "Alias": "BoardNPC.7156.2",
+    "DefaultSkinId": 715601
+  },
+  "7144": {
+    "Id": 7144,
+    "Name": "BoardNPC.7144.1",
+    "Alias": "BoardNPC.7144.2",
+    "DefaultSkinId": 714401
+  },
+  "7145": {
+    "Id": 7145,
+    "Name": "BoardNPC.7145.1",
+    "Alias": "BoardNPC.7145.2",
+    "DefaultSkinId": 714501
+  },
   "8159": {
     "Id": 8159,
     "Name": "BoardNPC.8159.1",
@@ -226,5 +250,11 @@
     "Name": "BoardNPC.8130.1",
     "Alias": "BoardNPC.8130.2",
     "DefaultSkinId": 813001
+  },
+  "8145": {
+    "Id": 8145,
+    "Name": "BoardNPC.8145.1",
+    "Alias": "BoardNPC.8145.2",
+    "DefaultSkinId": 814501
   }
 }

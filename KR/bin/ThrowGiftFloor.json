@@ -162,5 +162,169 @@
     "SpeedMax": 1500,
     "AngelMin": -30,
     "Gravity": 700
+  },
+  "40000901": {
+    "Id": 40000901,
+    "SceneName": "_400009/Levels/TemplateLevel1",
+    "ConfigPrefabName": "TemplateLevel1",
+    "GiftNum": 8,
+    "InitialGiftSort": [
+      1,
+      1,
+      1,
+      2,
+      1,
+      1,
+      1,
+      2
+    ],
+    "SpeedMax": 1200,
+    "AngelMin": -30,
+    "Gravity": 800,
+    "GuideLine": [
+      40000901
+    ],
+    "DictionaryID": 400601
+  },
+  "40000902": {
+    "Id": 40000902,
+    "SceneName": "_400009/Levels/TemplateLevel2",
+    "ConfigPrefabName": "TemplateLevel2",
+    "GiftNum": 8,
+    "InitialGiftSort": [
+      2,
+      2,
+      2,
+      3,
+      2,
+      2,
+      2,
+      3
+    ],
+    "SpeedMax": 1200,
+    "AngelMin": -30,
+    "Gravity": 800,
+    "GuideLine": [
+      40000902
+    ],
+    "DictionaryID": 400602
+  },
+  "40000903": {
+    "Id": 40000903,
+    "SceneName": "_400009/Levels/TemplateLevel3",
+    "ConfigPrefabName": "TemplateLevel3",
+    "GiftNum": 8,
+    "InitialGiftSort": [
+      1,
+      2,
+      3,
+      2,
+      1,
+      1,
+      2,
+      3
+    ],
+    "SpeedMax": 1200,
+    "AngelMin": -30,
+    "Gravity": 800,
+    "DictionaryID": 400603
+  },
+  "40000904": {
+    "Id": 40000904,
+    "SceneName": "_400009/Levels/TemplateLevel4",
+    "ConfigPrefabName": "TemplateLevel4",
+    "GiftNum": 8,
+    "InitialGiftSort": [
+      1,
+      2,
+      3,
+      3,
+      1,
+      3,
+      2,
+      1
+    ],
+    "SpeedMax": 1200,
+    "AngelMin": -30,
+    "Gravity": 800
+  },
+  "40000905": {
+    "Id": 40000905,
+    "SceneName": "_400009/Levels/TemplateLevel5",
+    "ConfigPrefabName": "TemplateLevel5",
+    "InitialGiftSort": [
+      1,
+      2,
+      1,
+      2,
+      1
+    ],
+    "GiftRandom": [
+      1,
+      2
+    ],
+    "SpeedMax": 1200,
+    "AngelMin": -30,
+    "Gravity": 800,
+    "DictionaryID": 400604
+  },
+  "40000906": {
+    "Id": 40000906,
+    "SceneName": "_400009/Levels/TemplateLevel6",
+    "ConfigPrefabName": "TemplateLevel6",
+    "InitialGiftSort": [
+      1,
+      2,
+      3,
+      1,
+      2,
+      1
+    ],
+    "GiftRandom": [
+      1,
+      2,
+      3
+    ],
+    "SpeedMax": 1200,
+    "AngelMin": -30,
+    "Gravity": 800
+  },
+  "40000907": {
+    "Id": 40000907,
+    "SceneName": "_400009/Levels/TemplateLevel7",
+    "ConfigPrefabName": "TemplateLevel7",
+    "GiftNum": 10,
+    "InitialGiftSort": [
+      2,
+      1,
+      3,
+      1,
+      2,
+      3,
+      1,
+      2,
+      3,
+      1
+    ],
+    "SpeedMax": 1500,
+    "AngelMin": -30,
+    "Gravity": 700,
+    "DictionaryID": 400605
+  },
+  "40000908": {
+    "Id": 40000908,
+    "SceneName": "_400009/Levels/TemplateLevel8",
+    "ConfigPrefabName": "TemplateLevel8",
+    "InitialGiftSort": [
+      1
+    ],
+    "GiftRandom": [
+      1,
+      2,
+      3
+    ],
+    "SpeedMax": 1500,
+    "AngelMin": -30,
+    "Gravity": 700
   }
 }

@@ -113,6 +113,23 @@
     "EndSceneName": "Levels/Main/Forest_New/Forest_Main_2_5_Victory01",
     "BGM": "music_victory_setState_rogueLike"
   },
+  "20": {
+    "Id": 20,
+    "Theme": 20,
+    "EndSceneName": "Levels/Main/City/City_Main_7_1_Victory01",
+    "BGM": "music_victory_setState_rogueLike"
+  },
+  "21": {
+    "Id": 21,
+    "Theme": 21,
+    "EndSceneName": "Levels/Main/Coast/Coast_Main_7_3_Victory01",
+    "BGM": "music_victory_setState_rogueLike"
+  },
+  "22": {
+    "Id": 22,
+    "Theme": 22,
+    "BGM": "music_victory_setState_rogueLike"
+  },
   "101": {
     "Id": 101,
     "Theme": 101,
@@ -219,6 +236,11 @@
     "Id": 118,
     "Theme": 118,
     "EndSceneName": "Levels/StoryActivity/StoryActivity_9/StoryActivity_HaSaNa_Victory01",
+    "BGM": "music_victory_setState_rogueLike"
+  },
+  "119": {
+    "Id": 119,
+    "Theme": 119,
     "BGM": "music_victory_setState_rogueLike"
   },
   "201": {
@@ -374,6 +396,33 @@
   "441": {
     "Id": 441,
     "Theme": 441,
+    "EndSceneName": "Levels/Main/Coast/Coast_Main_7_3_Victory01",
+    "BGM": "music_victory_setState_rogueLike"
+  },
+  "446": {
+    "Id": 446,
+    "Theme": 446,
+    "EndSceneName": "Levels/Roguelike/Roguelike_2/Roguelike_2_Boss_004_Victory",
+    "BGM": "music_victory_setState_rogueLike"
+  },
+  "451": {
+    "Id": 451,
+    "Theme": 451,
+    "BGM": "music_victory_setState_rogueLike"
+  },
+  "456": {
+    "Id": 456,
+    "Theme": 456,
+    "BGM": "music_victory_setState_rogueLike"
+  },
+  "461": {
+    "Id": 461,
+    "Theme": 461,
+    "BGM": "music_victory_setState_rogueLike"
+  },
+  "466": {
+    "Id": 466,
+    "Theme": 466,
     "BGM": "music_victory_setState_rogueLike"
   },
   "901": {

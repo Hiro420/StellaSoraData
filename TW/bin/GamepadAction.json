@@ -231,5 +231,29 @@
     "XboxIcon": "Icon/Gamepad/XboxOne_Dpad_Right",
     "PlayStationIcon": "Icon/Gamepad/PS4_Dpad_Right",
     "KeyboardIcon": "Icon/Gamepad/D"
+  },
+  "GoldenSpy_Hook": {
+    "Id": "GoldenSpy_Hook",
+    "XboxIcon": "Icon/Gamepad/XboxOne_A",
+    "PlayStationIcon": "Icon/Gamepad/PS4_Cross",
+    "KeyboardIcon": "Icon/Gamepad/Mouse_2"
+  },
+  "GoldenSpy_Boom": {
+    "Id": "GoldenSpy_Boom",
+    "XboxIcon": "Icon/Gamepad/XboxOne_LB",
+    "PlayStationIcon": "Icon/Gamepad/PS4_L1",
+    "KeyboardIcon": "Icon/Gamepad/Q"
+  },
+  "GoldenSpy_Frozen": {
+    "Id": "GoldenSpy_Frozen",
+    "XboxIcon": "Icon/Gamepad/XboxOne_RB",
+    "PlayStationIcon": "Icon/Gamepad/PS4_R1",
+    "KeyboardIcon": "Icon/Gamepad/E"
+  },
+  "GoldenSpy_ToolBox": {
+    "Id": "GoldenSpy_ToolBox",
+    "XboxIcon": "Icon/Gamepad/XboxOne_Y",
+    "PlayStationIcon": "Icon/Gamepad/PS4_Triangle",
+    "KeyboardIcon": "Icon/Gamepad/B"
   }
 }

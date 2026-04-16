@@ -58,5 +58,53 @@
     ],
     "FloorId": 105,
     "ScoreLevel": true
+  },
+  "1021": {
+    "Id": 1021,
+    "ActivityId": 800002,
+    "Name": "ActivityPenguinCardLevel.1021.1",
+    "StarScore": [
+      2000,
+      9990,
+      9999
+    ],
+    "FloorId": 201
+  },
+  "1022": {
+    "Id": 1022,
+    "ActivityId": 800002,
+    "Name": "ActivityPenguinCardLevel.1022.1",
+    "Prev": 1021,
+    "StarScore": [
+      30000,
+      99990,
+      99999
+    ],
+    "FloorId": 202
+  },
+  "1023": {
+    "Id": 1023,
+    "ActivityId": 800002,
+    "Name": "ActivityPenguinCardLevel.1023.1",
+    "Prev": 1022,
+    "StarScore": [
+      50000,
+      99990,
+      99999
+    ],
+    "FloorId": 203
+  },
+  "1024": {
+    "Id": 1024,
+    "ActivityId": 800002,
+    "Name": "ActivityPenguinCardLevel.1024.1",
+    "Prev": 1023,
+    "StarScore": [
+      200000,
+      999990,
+      999999
+    ],
+    "FloorId": 204,
+    "ScoreLevel": true
   }
 }

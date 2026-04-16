@@ -116,6 +116,18 @@
     "Reward2": 1,
     "RewardQty2": 150000
   },
+  "1100": {
+    "Id": 1100,
+    "Title": "StarTowerQuest.1100.1",
+    "TowerQuestType": 1,
+    "PreTowerQuestIds": [
+      1000
+    ],
+    "Reward1": 2,
+    "RewardQty1": 10,
+    "Reward2": 1,
+    "RewardQty2": 150000
+  },
   "101": {
     "Id": 101,
     "Title": "StarTowerQuest.101.1",
@@ -625,5 +637,69 @@
     "RewardQty1": 100,
     "Reward2": 30004,
     "RewardQty2": 4
+  },
+  "1101": {
+    "Id": 1101,
+    "Title": "StarTowerQuest.1101.1",
+    "TowerQuestType": 2,
+    "PreTowerQuestIds": [
+      1000
+    ],
+    "Reward1": 51,
+    "RewardQty1": 240,
+    "Reward2": 30004,
+    "RewardQty2": 5
+  },
+  "1102": {
+    "Id": 1102,
+    "Title": "StarTowerQuest.1102.1",
+    "TowerQuestType": 2,
+    "PreTowerQuestIds": [
+      1000,
+      903
+    ],
+    "Reward1": 51,
+    "RewardQty1": 240,
+    "Reward2": 30004,
+    "RewardQty2": 5
+  },
+  "1103": {
+    "Id": 1103,
+    "Title": "StarTowerQuest.1103.1",
+    "TowerQuestType": 2,
+    "PreTowerQuestIds": [
+      1000,
+      902
+    ],
+    "Reward1": 51,
+    "RewardQty1": 240,
+    "Reward2": 30004,
+    "RewardQty2": 5
+  },
+  "1104": {
+    "Id": 1104,
+    "Title": "StarTowerQuest.1104.1",
+    "TowerQuestType": 2,
+    "PreTowerQuestIds": [
+      1000,
+      904
+    ],
+    "Reward1": 51,
+    "RewardQty1": 240,
+    "Reward2": 30004,
+    "RewardQty2": 5
+  },
+  "1105": {
+    "Id": 1105,
+    "Title": "StarTowerQuest.1105.1",
+    "TowerQuestType": 2,
+    "PreTowerQuestIds": [
+      1000,
+      1004
+    ],
+    "Reward1": 51,
+    "RewardQty1": 240,
+    "Reward2": 30004,
+    "RewardQty2": 5
   }
 }

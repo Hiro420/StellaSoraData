@@ -214,5 +214,41 @@
       199006
     ],
     "OutfitPackageShowItem": 86005
+  },
+  "6": {
+    "ID": 7,
+    "Name": "S6",
+    "StartTime": "2026-05-01T04:00:00+08:00",
+    "EndTime": "2026-05-31T03:59:59+08:00",
+    "LuxuryProductId": "battlepass.98",
+    "LuxuryPrice": 1980,
+    "LuxuryShowPrice": "￥ 1,980",
+    "LuxuryBonusLevel": 10,
+    "LuxuryTid": 101017,
+    "LuxuryQty": 1,
+    "PremiumProductId": "battlepass.58",
+    "PremiumPrice": 1280,
+    "PremiumShowPrice": "￥ 1,280",
+    "ComplementaryProductId": "battlepass.50",
+    "ComplementaryPrice": 980,
+    "ComplementaryShowPrice": "￥ 980",
+    "ComplementaryTid": 101018,
+    "ComplementaryQty": 1,
+    "OriginShowPrice": "￥ 2,260",
+    "CoverColor": "#4a3225",
+    "Cover": 11603,
+    "PremiumShowItems": [
+      199000,
+      199001,
+      199002,
+      199003,
+      199007
+    ],
+    "LuxuryShowItems": [
+      199018,
+      199019,
+      199006
+    ],
+    "OutfitPackageShowItem": 86005
   }
 }

@@ -579,5 +579,39 @@
       1080501,
       1080502
     ]
+  },
+  "2010102": {
+    "Id": 2010102,
+    "Type": 1,
+    "GoalType": [
+      12
+    ],
+    "InitShow": true
+  },
+  "2010201": {
+    "Id": 2010201,
+    "Type": 1,
+    "GoalType": [
+      22
+    ],
+    "InitShow": true
+  },
+  "2020102": {
+    "Id": 2020102,
+    "Type": 1,
+    "GoalType": [
+      23
+    ],
+    "InitShow": true,
+    "PoolType": true,
+    "ItemPool": 10201
+  },
+  "2020201": {
+    "Id": 2020201,
+    "Type": 1,
+    "GoalType": [
+      13
+    ],
+    "InitShow": true
   }
 }

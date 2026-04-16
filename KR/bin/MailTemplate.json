@@ -359,6 +359,26 @@
     "Desc": "MailTemplate.4012.3",
     "Type": 1
   },
+  "4013": {
+    "Id": 4013,
+    "Explanation": "活动结束补偿邮件",
+    "Icon": "Icon/Head/head_12501",
+    "Author": "MailTemplate.4013.1",
+    "LetterPaper": "background2",
+    "Subject": "MailTemplate.4013.2",
+    "Desc": "MailTemplate.4013.3",
+    "Type": 1
+  },
+  "4014": {
+    "Id": 4014,
+    "Explanation": "活动结束补偿邮件",
+    "Icon": "Icon/Head/head_12501",
+    "Author": "MailTemplate.4014.1",
+    "LetterPaper": "background2",
+    "Subject": "MailTemplate.4014.2",
+    "Desc": "MailTemplate.4014.3",
+    "Type": 1
+  },
   "5001": {
     "Id": 5001,
     "Explanation": "问卷调查奖励邮件",
@@ -649,6 +669,36 @@
     "Desc": "MailTemplate.10603.3",
     "Type": 1
   },
+  "20201": {
+    "Id": 20201,
+    "Explanation": "幽夜独舞孤影乱 活动结束倒计时邮件",
+    "Icon": "Icon/Head/head_12501",
+    "Author": "MailTemplate.20201.1",
+    "LetterPaper": "background2",
+    "Subject": "MailTemplate.20201.2",
+    "Desc": "MailTemplate.20201.3",
+    "Type": 1
+  },
+  "20202": {
+    "Id": 20202,
+    "Explanation": "幽夜独舞孤影乱 活动结束货币转换邮件",
+    "Icon": "Icon/Head/head_12501",
+    "Author": "MailTemplate.20202.1",
+    "LetterPaper": "background2",
+    "Subject": "MailTemplate.20202.2",
+    "Desc": "MailTemplate.20202.3",
+    "Type": 1
+  },
+  "20203": {
+    "Id": 20203,
+    "Explanation": "幽夜独舞孤影乱 活动任务结束未领取邮件",
+    "Icon": "Icon/Head/head_12501",
+    "Author": "MailTemplate.20203.1",
+    "LetterPaper": "background2",
+    "Subject": "MailTemplate.20203.2",
+    "Desc": "MailTemplate.20203.3",
+    "Type": 1
+  },
   "9999": {
     "Id": 9999,
     "Explanation": "商品延迟到账提示",
@@ -667,6 +717,16 @@
     "LetterPaper": "background2",
     "Subject": "MailTemplate.910158.2",
     "Desc": "MailTemplate.910158.3",
+    "Type": 1
+  },
+  "910145": {
+    "Id": 910145,
+    "Explanation": "夜樱尽头暗月沉卡池关闭提示",
+    "Icon": "Icon/Head/head_12501",
+    "Author": "MailTemplate.910145.1",
+    "LetterPaper": "background2",
+    "Subject": "MailTemplate.910145.2",
+    "Desc": "MailTemplate.910145.3",
     "Type": 1
   }
 }

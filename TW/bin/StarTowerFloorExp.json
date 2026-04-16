@@ -190,7 +190,7 @@
   },
   "22": {
     "Id": 22,
-    "StarTowerId": 202,
+    "StarTowerId": 109,
     "Stage": 1,
     "NormalExp": 50,
     "EliteExp": 100,
@@ -199,7 +199,7 @@
   },
   "23": {
     "Id": 23,
-    "StarTowerId": 202,
+    "StarTowerId": 109,
     "Stage": 2,
     "NormalExp": 50,
     "EliteExp": 200,
@@ -208,26 +208,26 @@
   },
   "24": {
     "Id": 24,
-    "StarTowerId": 203,
+    "StarTowerId": 109,
+    "Stage": 3,
+    "NormalExp": 50,
+    "EliteExp": 200,
+    "BossExp": 200,
+    "FinalBossExp": 200
+  },
+  "25": {
+    "Id": 25,
+    "StarTowerId": 202,
     "Stage": 1,
     "NormalExp": 50,
     "EliteExp": 100,
     "BossExp": 200,
     "FinalBossExp": 200
   },
-  "25": {
-    "Id": 25,
-    "StarTowerId": 203,
-    "Stage": 2,
-    "NormalExp": 50,
-    "EliteExp": 200,
-    "BossExp": 200,
-    "FinalBossExp": 200
-  },
   "26": {
     "Id": 26,
-    "StarTowerId": 203,
-    "Stage": 3,
+    "StarTowerId": 202,
+    "Stage": 2,
     "NormalExp": 50,
     "EliteExp": 200,
     "BossExp": 200,
@@ -235,7 +235,7 @@
   },
   "27": {
     "Id": 27,
-    "StarTowerId": 204,
+    "StarTowerId": 203,
     "Stage": 1,
     "NormalExp": 50,
     "EliteExp": 100,
@@ -244,7 +244,7 @@
   },
   "28": {
     "Id": 28,
-    "StarTowerId": 204,
+    "StarTowerId": 203,
     "Stage": 2,
     "NormalExp": 50,
     "EliteExp": 200,
@@ -253,7 +253,7 @@
   },
   "29": {
     "Id": 29,
-    "StarTowerId": 204,
+    "StarTowerId": 203,
     "Stage": 3,
     "NormalExp": 50,
     "EliteExp": 200,
@@ -262,7 +262,7 @@
   },
   "30": {
     "Id": 30,
-    "StarTowerId": 205,
+    "StarTowerId": 204,
     "Stage": 1,
     "NormalExp": 50,
     "EliteExp": 100,
@@ -271,7 +271,7 @@
   },
   "31": {
     "Id": 31,
-    "StarTowerId": 205,
+    "StarTowerId": 204,
     "Stage": 2,
     "NormalExp": 50,
     "EliteExp": 200,
@@ -280,7 +280,7 @@
   },
   "32": {
     "Id": 32,
-    "StarTowerId": 205,
+    "StarTowerId": 204,
     "Stage": 3,
     "NormalExp": 50,
     "EliteExp": 200,
@@ -289,7 +289,7 @@
   },
   "33": {
     "Id": 33,
-    "StarTowerId": 206,
+    "StarTowerId": 205,
     "Stage": 1,
     "NormalExp": 50,
     "EliteExp": 100,
@@ -298,7 +298,7 @@
   },
   "34": {
     "Id": 34,
-    "StarTowerId": 206,
+    "StarTowerId": 205,
     "Stage": 2,
     "NormalExp": 50,
     "EliteExp": 200,
@@ -307,7 +307,7 @@
   },
   "35": {
     "Id": 35,
-    "StarTowerId": 206,
+    "StarTowerId": 205,
     "Stage": 3,
     "NormalExp": 50,
     "EliteExp": 200,
@@ -316,7 +316,7 @@
   },
   "36": {
     "Id": 36,
-    "StarTowerId": 207,
+    "StarTowerId": 206,
     "Stage": 1,
     "NormalExp": 50,
     "EliteExp": 100,
@@ -325,7 +325,7 @@
   },
   "37": {
     "Id": 37,
-    "StarTowerId": 207,
+    "StarTowerId": 206,
     "Stage": 2,
     "NormalExp": 50,
     "EliteExp": 200,
@@ -334,7 +334,7 @@
   },
   "38": {
     "Id": 38,
-    "StarTowerId": 207,
+    "StarTowerId": 206,
     "Stage": 3,
     "NormalExp": 50,
     "EliteExp": 200,
@@ -343,7 +343,7 @@
   },
   "39": {
     "Id": 39,
-    "StarTowerId": 208,
+    "StarTowerId": 207,
     "Stage": 1,
     "NormalExp": 50,
     "EliteExp": 100,
@@ -352,7 +352,7 @@
   },
   "40": {
     "Id": 40,
-    "StarTowerId": 208,
+    "StarTowerId": 207,
     "Stage": 2,
     "NormalExp": 50,
     "EliteExp": 200,
@@ -361,7 +361,7 @@
   },
   "41": {
     "Id": 41,
-    "StarTowerId": 208,
+    "StarTowerId": 207,
     "Stage": 3,
     "NormalExp": 50,
     "EliteExp": 200,
@@ -370,7 +370,7 @@
   },
   "42": {
     "Id": 42,
-    "StarTowerId": 302,
+    "StarTowerId": 208,
     "Stage": 1,
     "NormalExp": 50,
     "EliteExp": 100,
@@ -379,7 +379,7 @@
   },
   "43": {
     "Id": 43,
-    "StarTowerId": 302,
+    "StarTowerId": 208,
     "Stage": 2,
     "NormalExp": 50,
     "EliteExp": 200,
@@ -388,26 +388,26 @@
   },
   "44": {
     "Id": 44,
-    "StarTowerId": 303,
+    "StarTowerId": 208,
+    "Stage": 3,
+    "NormalExp": 50,
+    "EliteExp": 200,
+    "BossExp": 200,
+    "FinalBossExp": 200
+  },
+  "45": {
+    "Id": 45,
+    "StarTowerId": 209,
     "Stage": 1,
     "NormalExp": 50,
     "EliteExp": 100,
     "BossExp": 200,
     "FinalBossExp": 200
   },
-  "45": {
-    "Id": 45,
-    "StarTowerId": 303,
-    "Stage": 2,
-    "NormalExp": 50,
-    "EliteExp": 200,
-    "BossExp": 200,
-    "FinalBossExp": 200
-  },
   "46": {
     "Id": 46,
-    "StarTowerId": 303,
-    "Stage": 3,
+    "StarTowerId": 209,
+    "Stage": 2,
     "NormalExp": 50,
     "EliteExp": 200,
     "BossExp": 200,
@@ -415,26 +415,26 @@
   },
   "47": {
     "Id": 47,
-    "StarTowerId": 304,
+    "StarTowerId": 209,
+    "Stage": 3,
+    "NormalExp": 50,
+    "EliteExp": 200,
+    "BossExp": 200,
+    "FinalBossExp": 200
+  },
+  "48": {
+    "Id": 48,
+    "StarTowerId": 302,
     "Stage": 1,
     "NormalExp": 50,
     "EliteExp": 100,
     "BossExp": 200,
     "FinalBossExp": 200
   },
-  "48": {
-    "Id": 48,
-    "StarTowerId": 304,
-    "Stage": 2,
-    "NormalExp": 50,
-    "EliteExp": 200,
-    "BossExp": 200,
-    "FinalBossExp": 200
-  },
   "49": {
     "Id": 49,
-    "StarTowerId": 304,
-    "Stage": 3,
+    "StarTowerId": 302,
+    "Stage": 2,
     "NormalExp": 50,
     "EliteExp": 200,
     "BossExp": 200,
@@ -442,7 +442,7 @@
   },
   "50": {
     "Id": 50,
-    "StarTowerId": 305,
+    "StarTowerId": 303,
     "Stage": 1,
     "NormalExp": 50,
     "EliteExp": 100,
@@ -451,7 +451,7 @@
   },
   "51": {
     "Id": 51,
-    "StarTowerId": 305,
+    "StarTowerId": 303,
     "Stage": 2,
     "NormalExp": 50,
     "EliteExp": 200,
@@ -460,7 +460,7 @@
   },
   "52": {
     "Id": 52,
-    "StarTowerId": 305,
+    "StarTowerId": 303,
     "Stage": 3,
     "NormalExp": 50,
     "EliteExp": 200,
@@ -469,7 +469,7 @@
   },
   "53": {
     "Id": 53,
-    "StarTowerId": 306,
+    "StarTowerId": 304,
     "Stage": 1,
     "NormalExp": 50,
     "EliteExp": 100,
@@ -478,7 +478,7 @@
   },
   "54": {
     "Id": 54,
-    "StarTowerId": 306,
+    "StarTowerId": 304,
     "Stage": 2,
     "NormalExp": 50,
     "EliteExp": 200,
@@ -487,7 +487,7 @@
   },
   "55": {
     "Id": 55,
-    "StarTowerId": 306,
+    "StarTowerId": 304,
     "Stage": 3,
     "NormalExp": 50,
     "EliteExp": 200,
@@ -496,7 +496,7 @@
   },
   "56": {
     "Id": 56,
-    "StarTowerId": 307,
+    "StarTowerId": 305,
     "Stage": 1,
     "NormalExp": 50,
     "EliteExp": 100,
@@ -505,7 +505,7 @@
   },
   "57": {
     "Id": 57,
-    "StarTowerId": 307,
+    "StarTowerId": 305,
     "Stage": 2,
     "NormalExp": 50,
     "EliteExp": 200,
@@ -514,7 +514,7 @@
   },
   "58": {
     "Id": 58,
-    "StarTowerId": 307,
+    "StarTowerId": 305,
     "Stage": 3,
     "NormalExp": 50,
     "EliteExp": 200,
@@ -523,7 +523,7 @@
   },
   "59": {
     "Id": 59,
-    "StarTowerId": 308,
+    "StarTowerId": 306,
     "Stage": 1,
     "NormalExp": 50,
     "EliteExp": 100,
@@ -532,7 +532,7 @@
   },
   "60": {
     "Id": 60,
-    "StarTowerId": 308,
+    "StarTowerId": 306,
     "Stage": 2,
     "NormalExp": 50,
     "EliteExp": 200,
@@ -541,7 +541,7 @@
   },
   "61": {
     "Id": 61,
-    "StarTowerId": 308,
+    "StarTowerId": 306,
     "Stage": 3,
     "NormalExp": 50,
     "EliteExp": 200,
@@ -550,6 +550,87 @@
   },
   "62": {
     "Id": 62,
+    "StarTowerId": 307,
+    "Stage": 1,
+    "NormalExp": 50,
+    "EliteExp": 100,
+    "BossExp": 200,
+    "FinalBossExp": 200
+  },
+  "63": {
+    "Id": 63,
+    "StarTowerId": 307,
+    "Stage": 2,
+    "NormalExp": 50,
+    "EliteExp": 200,
+    "BossExp": 200,
+    "FinalBossExp": 200
+  },
+  "64": {
+    "Id": 64,
+    "StarTowerId": 307,
+    "Stage": 3,
+    "NormalExp": 50,
+    "EliteExp": 200,
+    "BossExp": 200,
+    "FinalBossExp": 200
+  },
+  "65": {
+    "Id": 65,
+    "StarTowerId": 308,
+    "Stage": 1,
+    "NormalExp": 50,
+    "EliteExp": 100,
+    "BossExp": 200,
+    "FinalBossExp": 200
+  },
+  "66": {
+    "Id": 66,
+    "StarTowerId": 308,
+    "Stage": 2,
+    "NormalExp": 50,
+    "EliteExp": 200,
+    "BossExp": 200,
+    "FinalBossExp": 200
+  },
+  "67": {
+    "Id": 67,
+    "StarTowerId": 308,
+    "Stage": 3,
+    "NormalExp": 50,
+    "EliteExp": 200,
+    "BossExp": 200,
+    "FinalBossExp": 200
+  },
+  "68": {
+    "Id": 68,
+    "StarTowerId": 309,
+    "Stage": 1,
+    "NormalExp": 50,
+    "EliteExp": 100,
+    "BossExp": 200,
+    "FinalBossExp": 200
+  },
+  "69": {
+    "Id": 69,
+    "StarTowerId": 309,
+    "Stage": 2,
+    "NormalExp": 50,
+    "EliteExp": 200,
+    "BossExp": 200,
+    "FinalBossExp": 200
+  },
+  "70": {
+    "Id": 70,
+    "StarTowerId": 309,
+    "Stage": 3,
+    "NormalExp": 50,
+    "EliteExp": 200,
+    "BossExp": 200,
+    "FinalBossExp": 200
+  },
+  "71": {
+    "Id": 71,
     "StarTowerId": 401,
     "Stage": 1,
     "NormalExp": 50,

@@ -63,6 +63,14 @@
     "Color": "6A90EB",
     "Icon": "0"
   },
+  "46": {
+    "Id": 46,
+    "Title": "Word.46.1",
+    "Type": 1,
+    "Desc": "Word.46.2",
+    "Color": "6A90EB",
+    "Icon": "0"
+  },
   "66": {
     "Id": 66,
     "Title": "Word.66.1",
@@ -697,7 +705,7 @@
     "Desc": "Word.2027.2",
     "Color": "6A90EB",
     "Icon": "0",
-    "Param1": "HitDamage,DamageNum,141000001",
+    "Param1": "HitDamage,DamageNum,141100005",
     "Param2": "BuffValue,NoLevel,14191011,Time,10K"
   },
   "3001": {
@@ -707,6 +715,15 @@
     "Desc": "Word.3001.2",
     "Color": "6A90EB",
     "Icon": "0"
+  },
+  "3002": {
+    "Id": 3002,
+    "Title": "Word.3002.1",
+    "Type": 1,
+    "Desc": "Word.3002.2",
+    "Color": "6A90EB",
+    "Icon": "0",
+    "Param1": "Buff,LevelUp,5031,Time,10K"
   },
   "3999": {
     "Id": 3999,
@@ -749,6 +766,176 @@
     "Title": "Word.4004.1",
     "Type": 1,
     "Desc": "Word.4004.2",
+    "Color": "6A90EB",
+    "Icon": "0"
+  },
+  "4005": {
+    "Id": 4005,
+    "Title": "Word.4005.1",
+    "Type": 1,
+    "Desc": "Word.4005.2",
+    "Color": "6A90EB",
+    "Icon": "0",
+    "Param1": "Buff,LevelUp,11090000,Time,10K",
+    "Param2": "HitDamage,DamageNum,110000001"
+  },
+  "4006": {
+    "Id": 4006,
+    "Title": "Word.4006.1",
+    "Type": 1,
+    "Desc": "Word.4006.2",
+    "Color": "6A90EB",
+    "Icon": "0",
+    "Param1": "OnceAdditionalAttribute,LevelUp,14405001,AttributeType1,Enum,EAT",
+    "Param2": "OnceAdditionalAttribute,LevelUp,14405001,Value1,10KHdPct"
+  },
+  "4007": {
+    "Id": 4007,
+    "Title": "Word.4007.1",
+    "Type": 1,
+    "Desc": "Word.4007.2",
+    "Color": "6A90EB",
+    "Icon": "0"
+  },
+  "4008": {
+    "Id": 4008,
+    "Title": "Word.4008.1",
+    "Type": 1,
+    "Desc": "Word.4008.2",
+    "Color": "6A90EB",
+    "Icon": "0"
+  },
+  "4009": {
+    "Id": 4009,
+    "Title": "Word.4009.1",
+    "Type": 1,
+    "Desc": "Word.4009.2",
+    "Color": "6A90EB",
+    "Icon": "0",
+    "Param1": "Buff,LevelUp,13590000,Time,10K",
+    "Param2": "HitDamage,DamageNum,135000001"
+  },
+  "4010": {
+    "Id": 4010,
+    "Title": "Word.4010.1",
+    "Type": 1,
+    "Desc": "Word.4010.2",
+    "Color": "6A90EB",
+    "Icon": "0",
+    "Param1": "Buff,LevelUp,13590000,Time,10K",
+    "Param2": "HitDamage,DamageNum,147000001"
+  },
+  "4011": {
+    "Id": 4011,
+    "Title": "Word.4011.1",
+    "Type": 1,
+    "Desc": "Word.4011.2",
+    "Color": "6A90EB",
+    "Icon": "0",
+    "Param1": "HitDamage,DamageNum,112100000"
+  },
+  "4012": {
+    "Id": 4012,
+    "Title": "Word.4012.1",
+    "Type": 1,
+    "Desc": "Word.4012.2",
+    "Color": "6A90EB",
+    "Icon": "0",
+    "Param1": "HitDamage,DamageNum,143000001"
+  },
+  "4013": {
+    "Id": 4013,
+    "Title": "Word.4013.1",
+    "Type": 1,
+    "Desc": "Word.4013.2",
+    "Color": "6A90EB",
+    "Icon": "0"
+  },
+  "4014": {
+    "Id": 4014,
+    "Title": "Word.4014.1",
+    "Type": 1,
+    "Desc": "Word.4014.2",
+    "Color": "6A90EB",
+    "Icon": "0"
+  },
+  "4015": {
+    "Id": 4015,
+    "Title": "Word.4015.1",
+    "Type": 1,
+    "Desc": "Word.4015.2",
+    "Color": "6A90EB",
+    "Icon": "0"
+  },
+  "4016": {
+    "Id": 4016,
+    "Title": "Word.4016.1",
+    "Type": 1,
+    "Desc": "Word.4016.2",
+    "Color": "6A90EB",
+    "Icon": "0"
+  },
+  "4017": {
+    "Id": 4017,
+    "Title": "Word.4017.1",
+    "Type": 1,
+    "Desc": "Word.4017.2",
+    "Color": "6A90EB",
+    "Icon": "0"
+  },
+  "4018": {
+    "Id": 4018,
+    "Title": "Word.4018.1",
+    "Type": 1,
+    "Desc": "Word.4018.2",
+    "Color": "6A90EB",
+    "Icon": "0"
+  },
+  "4019": {
+    "Id": 4019,
+    "Title": "Word.4019.1",
+    "Type": 1,
+    "Desc": "Word.4019.2",
+    "Color": "6A90EB",
+    "Icon": "0"
+  },
+  "4020": {
+    "Id": 4020,
+    "Title": "Word.4020.1",
+    "Type": 1,
+    "Desc": "Word.4020.2",
+    "Color": "6A90EB",
+    "Icon": "0"
+  },
+  "4021": {
+    "Id": 4021,
+    "Title": "Word.4021.1",
+    "Type": 1,
+    "Desc": "Word.4021.2",
+    "Color": "6A90EB",
+    "Icon": "0"
+  },
+  "4022": {
+    "Id": 4022,
+    "Title": "Word.4022.1",
+    "Type": 1,
+    "Desc": "Word.4022.2",
+    "Color": "6A90EB",
+    "Icon": "0"
+  },
+  "4023": {
+    "Id": 4023,
+    "Title": "Word.4023.1",
+    "Type": 1,
+    "Desc": "Word.4023.2",
+    "Color": "6A90EB",
+    "Icon": "0"
+  },
+  "4024": {
+    "Id": 4024,
+    "Title": "Word.4024.1",
+    "Type": 1,
+    "Desc": "Word.4024.2",
     "Color": "6A90EB",
     "Icon": "0"
   },

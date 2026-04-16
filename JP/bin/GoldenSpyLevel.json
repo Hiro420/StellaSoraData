@@ -1,0 +1,156 @@
+{
+  "110101": {
+    "Id": 110101,
+    "LevelType": 1,
+    "LevelName": "GoldenSpyLevel.110101.1",
+    "ConfigId": 10101,
+    "IconPath": "zs_goldenspy_level_01",
+    "FloorList": [
+      11010101
+    ],
+    "Score": 1000,
+    "WinCondDesc": "GoldenSpyLevel.110101.2",
+    "LevelDesc": "GoldenSpyLevel.110101.3",
+    "Skill": "[[1001,1],[1002,1]]",
+    "Item1Id": 2,
+    "Item1Count": 50,
+    "Item2Id": 73109,
+    "Item2Count": 300
+  },
+  "110102": {
+    "Id": 110102,
+    "LevelType": 1,
+    "LevelName": "GoldenSpyLevel.110102.1",
+    "ConfigId": 10101,
+    "IconPath": "zs_goldenspy_level_01",
+    "FloorList": [
+      11010201,
+      11010202
+    ],
+    "PreLevelId": 110101,
+    "Score": 2800,
+    "WinCondDesc": "GoldenSpyLevel.110102.2",
+    "LevelDesc": "GoldenSpyLevel.110102.3",
+    "Skill": "[[1001,2],[1002,2]]",
+    "Item1Id": 2,
+    "Item1Count": 50,
+    "Item2Id": 73109,
+    "Item2Count": 400
+  },
+  "110201": {
+    "Id": 110201,
+    "LevelType": 1,
+    "LevelName": "GoldenSpyLevel.110201.1",
+    "ConfigId": 10101,
+    "IconPath": "zs_goldenspy_level_02",
+    "FloorList": [
+      11020101
+    ],
+    "PreLevelId": 110102,
+    "Score": 1800,
+    "WinCondDesc": "GoldenSpyLevel.110201.2",
+    "LevelDesc": "GoldenSpyLevel.110201.3",
+    "Skill": "[[1001,1],[1002,1]]",
+    "Item1Id": 2,
+    "Item1Count": 100,
+    "Item2Id": 73109,
+    "Item2Count": 600
+  },
+  "110202": {
+    "Id": 110202,
+    "LevelType": 1,
+    "LevelName": "GoldenSpyLevel.110202.1",
+    "ConfigId": 10101,
+    "IconPath": "zs_goldenspy_level_02",
+    "FloorList": [
+      11020201,
+      11020202
+    ],
+    "PreLevelId": 110201,
+    "Score": 2800,
+    "WinCondDesc": "GoldenSpyLevel.110202.2",
+    "LevelDesc": "GoldenSpyLevel.110202.3",
+    "Skill": "[[1001,2],[1002,2]]",
+    "Item1Id": 2,
+    "Item1Count": 100,
+    "Item2Id": 73109,
+    "Item2Count": 800
+  },
+  "110301": {
+    "Id": 110301,
+    "LevelType": 2,
+    "LevelName": "GoldenSpyLevel.110301.1",
+    "ConfigId": 10101,
+    "IconPath": "zs_goldenspy_level_03",
+    "FloorList": [
+      11030101,
+      11030102
+    ],
+    "PreLevelId": 110202,
+    "Score": 2500,
+    "WinCondDesc": "GoldenSpyLevel.110301.2",
+    "BuffCardPoolId": 1311,
+    "LevelDesc": "GoldenSpyLevel.110301.3",
+    "Skill": "[[1001,2],[1002,2]]",
+    "Item1Id": 2,
+    "Item1Count": 100,
+    "Item2Id": 73109,
+    "Item2Count": 1000
+  },
+  "110302": {
+    "Id": 110302,
+    "LevelType": 2,
+    "LevelName": "GoldenSpyLevel.110302.1",
+    "ConfigId": 10101,
+    "IconPath": "zs_goldenspy_level_03",
+    "FloorList": [
+      11030201,
+      11030202,
+      11030203
+    ],
+    "PreLevelId": 110301,
+    "Score": 4000,
+    "WinCondDesc": "GoldenSpyLevel.110302.2",
+    "BuffCardPoolId": 1312,
+    "LevelDesc": "GoldenSpyLevel.110302.3",
+    "Skill": "[[1001,2],[1002,2]]",
+    "Item1Id": 2,
+    "Item1Count": 100,
+    "Item2Id": 73109,
+    "Item2Count": 2000
+  },
+  "110401": {
+    "Id": 110401,
+    "LevelType": 3,
+    "LevelName": "GoldenSpyLevel.110401.1",
+    "ConfigId": 10102,
+    "IconPath": "zs_goldenspy_level_04",
+    "FloorList": [
+      11040101,
+      11040102,
+      11040103,
+      11040104,
+      11040105,
+      11040106,
+      11040107,
+      11040108,
+      11040109,
+      11040110,
+      11040111,
+      11040112,
+      11040113,
+      11040114,
+      11040115
+    ],
+    "PreLevelId": 110302,
+    "Score": 8000,
+    "WinCondDesc": "GoldenSpyLevel.110401.2",
+    "BuffCardPoolId": 1001,
+    "LevelDesc": "GoldenSpyLevel.110401.3",
+    "Skill": "[[1001,3],[1002,3]]",
+    "Item1Id": 2,
+    "Item1Count": 100,
+    "Item2Id": 73109,
+    "Item2Count": 3000
+  }
+}

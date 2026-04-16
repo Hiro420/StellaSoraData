@@ -8,7 +8,10 @@
     "InitialBuyLimit": 1,
     "WeightGroup": 100,
     "PoolId": 1,
-    "Floortips": "PenguinCardFloor.101.1"
+    "QuestTurn": 2,
+    "QuestGroup": 120,
+    "Floortips": "PenguinCardFloor.101.1",
+    "ShowWin": true
   },
   "102": {
     "Id": 102,
@@ -19,7 +22,10 @@
     "InitialBuyLimit": 1,
     "WeightGroup": 102,
     "PoolId": 2,
-    "Floortips": "PenguinCardFloor.102.1"
+    "QuestTurn": 2,
+    "QuestGroup": 120,
+    "Floortips": "PenguinCardFloor.102.1",
+    "ShowWin": true
   },
   "103": {
     "Id": 103,
@@ -30,7 +36,10 @@
     "InitialBuyLimit": 1,
     "WeightGroup": 103,
     "PoolId": 3,
-    "Floortips": "PenguinCardFloor.103.1"
+    "QuestTurn": 2,
+    "QuestGroup": 120,
+    "Floortips": "PenguinCardFloor.103.1",
+    "ShowWin": true
   },
   "104": {
     "Id": 104,
@@ -41,7 +50,10 @@
     "InitialBuyLimit": 1,
     "WeightGroup": 104,
     "PoolId": 4,
-    "Floortips": "PenguinCardFloor.104.1"
+    "QuestTurn": 2,
+    "QuestGroup": 120,
+    "Floortips": "PenguinCardFloor.104.1",
+    "ShowWin": true
   },
   "105": {
     "Id": 105,
@@ -52,6 +64,64 @@
     "InitialBuyLimit": 1,
     "WeightGroup": 100,
     "PoolId": 1,
+    "QuestTurn": 1,
+    "QuestGroup": 120,
     "Floortips": "PenguinCardFloor.105.1"
+  },
+  "201": {
+    "Id": 201,
+    "MaxTurn": 6,
+    "InitialScore": 50,
+    "InitialSlot": 3,
+    "InitialRound": 1,
+    "InitialBuyLimit": 1,
+    "WeightGroup": 100,
+    "PoolId": 1,
+    "QuestTurn": -1,
+    "QuestGroup": 91,
+    "FixedTurn": 1,
+    "Floortips": "PenguinCardFloor.201.1",
+    "ShowWin": true
+  },
+  "202": {
+    "Id": 202,
+    "MaxTurn": 9,
+    "InitialScore": 50,
+    "InitialSlot": 3,
+    "InitialRound": 1,
+    "InitialBuyLimit": 1,
+    "WeightGroup": 200,
+    "PoolId": 1,
+    "QuestTurn": 1,
+    "QuestGroup": 91,
+    "Floortips": "PenguinCardFloor.202.1",
+    "ShowWin": true
+  },
+  "203": {
+    "Id": 203,
+    "MaxTurn": 9,
+    "InitialScore": 50,
+    "InitialSlot": 3,
+    "InitialRound": 1,
+    "InitialBuyLimit": 1,
+    "WeightGroup": 201,
+    "PoolId": 2,
+    "QuestTurn": 1,
+    "QuestGroup": 92,
+    "Floortips": "PenguinCardFloor.203.1",
+    "ShowWin": true
+  },
+  "204": {
+    "Id": 204,
+    "MaxTurn": 10,
+    "InitialScore": 50,
+    "InitialSlot": 3,
+    "InitialRound": 1,
+    "InitialBuyLimit": 1,
+    "WeightGroup": 200,
+    "PoolId": 1,
+    "QuestTurn": 1,
+    "QuestGroup": 101,
+    "Floortips": "PenguinCardFloor.204.1"
   }
 }

@@ -94,7 +94,8 @@
   },
   "MainlineFormation": {
     "Id": "MainlineFormation",
-    "Title": "TopBar.MainlineFormation.1"
+    "Title": "TopBar.MainlineFormation.1",
+    "EntryId": 200302
   },
   "MainlineFormationDisc": {
     "Id": "MainlineFormationDisc",
@@ -864,5 +865,78 @@
     "CoinIds": [
       73108
     ]
+  },
+  "RankBuildDetail": {
+    "Id": "RankBuildDetail",
+    "Title": "TopBar.RankBuildDetail.1"
+  },
+  "TrekkerVersus_600002": {
+    "Id": "TrekkerVersus_600002",
+    "Title": "TopBar.TrekkerVersus_600002.1",
+    "EntryId": 200801
+  },
+  "EquipmentUpgrade": {
+    "Id": "EquipmentUpgrade",
+    "Title": "TopBar.EquipmentUpgrade.1",
+    "HideBack": true,
+    "Coin": true,
+    "CoinIds": [
+      1,
+      35010
+    ],
+    "DelayShow": true
+  },
+  "PotentialPreselectionList": {
+    "Id": "PotentialPreselectionList",
+    "Title": "TopBar.PotentialPreselectionList.1",
+    "EntryId": 200302
+  },
+  "PotentialPreselectionEdit": {
+    "Id": "PotentialPreselectionEdit",
+    "Title": "TopBar.PotentialPreselectionEdit.1",
+    "EntryId": 200302
+  },
+  "ActivityLevelsSelectPanel_20102": {
+    "Id": "ActivityLevelsSelectPanel_20102",
+    "Title": "TopBar.ActivityLevelsSelectPanel_20102.1",
+    "Energy": true
+  },
+  "Task_20102": {
+    "Id": "Task_20102",
+    "Title": "TopBar.Task_20102.1",
+    "Coin": true,
+    "CoinIds": [
+      73109
+    ]
+  },
+  "Shop_20102": {
+    "Id": "Shop_20102",
+    "Title": "TopBar.Shop_20102.1",
+    "Coin": true
+  },
+  "SolodanceThemePanel": {
+    "Id": "SolodanceThemePanel",
+    "Title": "TopBar.SolodanceThemePanel.1",
+    "Coin": true,
+    "CoinIds": [
+      73109
+    ]
+  },
+  "SolodanceStory": {
+    "Id": "SolodanceStory",
+    "Title": "TopBar.SolodanceStory.1"
+  },
+  "GoldenSpyLevelSelectPanel": {
+    "Id": "GoldenSpyLevelSelectPanel",
+    "Title": "TopBar.GoldenSpyLevelSelectPanel.1",
+    "Coin": true,
+    "CoinIds": [
+      73109
+    ]
+  },
+  "ActivityLevelsSelectPanel_10107": {
+    "Id": "ActivityLevelsSelectPanel_10107",
+    "Title": "TopBar.ActivityLevelsSelectPanel_10107.1",
+    "Energy": true
   }
 }

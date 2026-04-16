@@ -1052,6 +1052,84 @@
     "Background": 5,
     "Title": "TalentGroup.13605.1"
   },
+  "13701": {
+    "Id": 13701,
+    "CharId": 137,
+    "NodeLimit": 10,
+    "Background": 1,
+    "Title": "TalentGroup.13701.1"
+  },
+  "13702": {
+    "Id": 13702,
+    "CharId": 137,
+    "PreGroup": 13701,
+    "NodeLimit": 10,
+    "Background": 2,
+    "Title": "TalentGroup.13702.1"
+  },
+  "13703": {
+    "Id": 13703,
+    "CharId": 137,
+    "PreGroup": 13702,
+    "NodeLimit": 10,
+    "Background": 3,
+    "Title": "TalentGroup.13703.1"
+  },
+  "13704": {
+    "Id": 13704,
+    "CharId": 137,
+    "PreGroup": 13703,
+    "NodeLimit": 10,
+    "Background": 4,
+    "Title": "TalentGroup.13704.1"
+  },
+  "13705": {
+    "Id": 13705,
+    "CharId": 137,
+    "PreGroup": 13704,
+    "NodeLimit": 10,
+    "Background": 5,
+    "Title": "TalentGroup.13705.1"
+  },
+  "13901": {
+    "Id": 13901,
+    "CharId": 139,
+    "NodeLimit": 10,
+    "Background": 1,
+    "Title": "TalentGroup.13901.1"
+  },
+  "13902": {
+    "Id": 13902,
+    "CharId": 139,
+    "PreGroup": 13901,
+    "NodeLimit": 10,
+    "Background": 2,
+    "Title": "TalentGroup.13902.1"
+  },
+  "13903": {
+    "Id": 13903,
+    "CharId": 139,
+    "PreGroup": 13902,
+    "NodeLimit": 10,
+    "Background": 3,
+    "Title": "TalentGroup.13903.1"
+  },
+  "13904": {
+    "Id": 13904,
+    "CharId": 139,
+    "PreGroup": 13903,
+    "NodeLimit": 10,
+    "Background": 4,
+    "Title": "TalentGroup.13904.1"
+  },
+  "13905": {
+    "Id": 13905,
+    "CharId": 139,
+    "PreGroup": 13904,
+    "NodeLimit": 10,
+    "Background": 5,
+    "Title": "TalentGroup.13905.1"
+  },
   "14001": {
     "Id": 14001,
     "CharId": 140,
@@ -1481,6 +1559,45 @@
     "Background": 5,
     "Title": "TalentGroup.15605.1"
   },
+  "15701": {
+    "Id": 15701,
+    "CharId": 157,
+    "NodeLimit": 10,
+    "Background": 1,
+    "Title": "TalentGroup.15701.1"
+  },
+  "15702": {
+    "Id": 15702,
+    "CharId": 157,
+    "PreGroup": 15701,
+    "NodeLimit": 10,
+    "Background": 2,
+    "Title": "TalentGroup.15702.1"
+  },
+  "15703": {
+    "Id": 15703,
+    "CharId": 157,
+    "PreGroup": 15702,
+    "NodeLimit": 10,
+    "Background": 3,
+    "Title": "TalentGroup.15703.1"
+  },
+  "15704": {
+    "Id": 15704,
+    "CharId": 157,
+    "PreGroup": 15703,
+    "NodeLimit": 10,
+    "Background": 4,
+    "Title": "TalentGroup.15704.1"
+  },
+  "15705": {
+    "Id": 15705,
+    "CharId": 157,
+    "PreGroup": 15704,
+    "NodeLimit": 10,
+    "Background": 5,
+    "Title": "TalentGroup.15705.1"
+  },
   "15801": {
     "Id": 15801,
     "CharId": 158,
@@ -1558,5 +1675,44 @@
     "NodeLimit": 10,
     "Background": 5,
     "Title": "TalentGroup.15905.1"
+  },
+  "16001": {
+    "Id": 16001,
+    "CharId": 160,
+    "NodeLimit": 10,
+    "Background": 1,
+    "Title": "TalentGroup.16001.1"
+  },
+  "16002": {
+    "Id": 16002,
+    "CharId": 160,
+    "PreGroup": 16001,
+    "NodeLimit": 10,
+    "Background": 2,
+    "Title": "TalentGroup.16002.1"
+  },
+  "16003": {
+    "Id": 16003,
+    "CharId": 160,
+    "PreGroup": 16002,
+    "NodeLimit": 10,
+    "Background": 3,
+    "Title": "TalentGroup.16003.1"
+  },
+  "16004": {
+    "Id": 16004,
+    "CharId": 160,
+    "PreGroup": 16003,
+    "NodeLimit": 10,
+    "Background": 4,
+    "Title": "TalentGroup.16004.1"
+  },
+  "16005": {
+    "Id": 16005,
+    "CharId": 160,
+    "PreGroup": 16004,
+    "NodeLimit": 10,
+    "Background": 5,
+    "Title": "TalentGroup.16005.1"
   }
 }

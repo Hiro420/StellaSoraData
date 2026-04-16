@@ -26,5 +26,14 @@
     "Script": "AIScript.TowerDefenseItem_Herbicide",
     "CardIcon": "UI/Play_TowerDefence/SpriteAtlas/Item/icon_tower_defense_Item_3",
     "Head": "Icon/Item/item_tf_3"
+  },
+  "1031": {
+    "Id": 1031,
+    "Name": "TowerDefenseItem.1031.1",
+    "Des": "TowerDefenseItem.1031.2",
+    "Cd": 6,
+    "Script": "AIScript.TowerDefenseItem_Spray",
+    "CardIcon": "UI/Play_TowerDefence/SpriteAtlas/Item/icon_tower_defense_Item_3",
+    "Head": "Icon/Item/item_tf_3"
   }
 }

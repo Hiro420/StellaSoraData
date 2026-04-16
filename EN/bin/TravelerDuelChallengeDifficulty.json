@@ -1,3604 +1,1206 @@
 {
   "0": {
-    "RecommendBuildRank": 15,
-    "RecommendLevel": 40
+    "RecommendBuildRank": 18,
+    "RecommendLevel": 50
   },
   "1": {
     "Id": 1,
+    "Attr": 1,
     "EffectId": [
-      29001001,
-      29002001,
-      29003001,
-      29004001
+      29011001,
+      29012001,
+      29013001,
+      29014001
     ],
-    "RecommendBuildRank": 15,
-    "RecommendLevel": 40
+    "RecommendBuildRank": 18,
+    "RecommendLevel": 50
   },
   "2": {
     "Id": 2,
+    "Attr": 2,
     "EffectId": [
-      29001002,
-      29002002,
-      29003002,
-      29004002
+      29011002,
+      29012002,
+      29013002,
+      29014002
     ],
-    "RecommendBuildRank": 15,
-    "RecommendLevel": 40
+    "RecommendBuildRank": 18,
+    "RecommendLevel": 50
   },
   "3": {
     "Id": 3,
-    "Attr": 10,
+    "Attr": 3,
     "EffectId": [
-      29001003,
-      29002003,
-      29003003,
-      29004003
+      29011003,
+      29012003,
+      29013003,
+      29014003
     ],
-    "RecommendBuildRank": 15,
-    "RecommendLevel": 40
+    "RecommendBuildRank": 18,
+    "RecommendLevel": 50
   },
   "4": {
     "Id": 4,
-    "Attr": 11,
+    "Attr": 3,
     "EffectId": [
-      29001004,
-      29002004,
-      29003004,
-      29004004
+      29011004,
+      29012004,
+      29013004,
+      29014004
     ],
-    "RecommendBuildRank": 15,
-    "RecommendLevel": 40
+    "RecommendBuildRank": 18,
+    "RecommendLevel": 50
   },
   "5": {
     "Id": 5,
-    "Attr": 12,
+    "Attr": 4,
     "EffectId": [
-      29001005,
-      29002005,
-      29003005,
-      29004005
+      29011005,
+      29012005,
+      29013005,
+      29014005
     ],
-    "RecommendBuildRank": 15,
-    "RecommendLevel": 40
+    "RecommendBuildRank": 18,
+    "RecommendLevel": 50
   },
   "6": {
     "Id": 6,
-    "Attr": 13,
+    "Attr": 4,
     "EffectId": [
-      29001006,
-      29002006,
-      29003006,
-      29004006
+      29011006,
+      29012006,
+      29013006,
+      29014006
     ],
-    "RecommendBuildRank": 15,
-    "RecommendLevel": 40
+    "RecommendBuildRank": 18,
+    "RecommendLevel": 50
   },
   "7": {
     "Id": 7,
-    "Attr": 14,
+    "Attr": 5,
     "EffectId": [
-      29001007,
-      29002007,
-      29003007,
-      29004007
+      29011007,
+      29012007,
+      29013007,
+      29014007
     ],
-    "RecommendBuildRank": 15,
-    "RecommendLevel": 40
+    "RecommendBuildRank": 18,
+    "RecommendLevel": 50
   },
   "8": {
     "Id": 8,
-    "Attr": 15,
+    "Attr": 5,
     "EffectId": [
-      29001008,
-      29002008,
-      29003008,
-      29004008
+      29011008,
+      29012008,
+      29013008,
+      29014008
     ],
-    "RecommendBuildRank": 15,
-    "RecommendLevel": 40
+    "RecommendBuildRank": 18,
+    "RecommendLevel": 50
   },
   "9": {
     "Id": 9,
-    "Attr": 16,
+    "Attr": 6,
     "EffectId": [
-      29001009,
-      29002009,
-      29003009,
-      29004009
+      29011009,
+      29012009,
+      29013009,
+      29014009
     ],
-    "RecommendBuildRank": 15,
-    "RecommendLevel": 40
+    "RecommendBuildRank": 18,
+    "RecommendLevel": 50
   },
   "10": {
     "Id": 10,
-    "Attr": 17,
+    "Attr": 7,
     "EffectId": [
-      29001010,
-      29002010,
-      29003010,
-      29004010
+      29011010,
+      29012010,
+      29013010,
+      29014010
     ],
-    "RecommendBuildRank": 15,
-    "RecommendLevel": 40
+    "RecommendBuildRank": 21,
+    "RecommendLevel": 60
   },
   "11": {
     "Id": 11,
-    "Attr": 18,
+    "Attr": 7,
     "EffectId": [
-      29001011,
-      29002011,
-      29003011,
-      29004011
+      29011011,
+      29012011,
+      29013011,
+      29014011
     ],
-    "RecommendBuildRank": 15,
-    "RecommendLevel": 40
+    "RecommendBuildRank": 21,
+    "RecommendLevel": 60
   },
   "12": {
     "Id": 12,
-    "Attr": 19,
+    "Attr": 8,
     "EffectId": [
-      29001012,
-      29002012,
-      29003012,
-      29004012
+      29011012,
+      29012012,
+      29013012,
+      29014012
     ],
-    "RecommendBuildRank": 15,
-    "RecommendLevel": 40
+    "RecommendBuildRank": 21,
+    "RecommendLevel": 60
   },
   "13": {
     "Id": 13,
-    "Attr": 20,
+    "Attr": 8,
     "EffectId": [
-      29001013,
-      29002013,
-      29003013,
-      29004013
+      29011013,
+      29012013,
+      29013013,
+      29014013
     ],
-    "RecommendBuildRank": 15,
-    "RecommendLevel": 40
+    "RecommendBuildRank": 21,
+    "RecommendLevel": 60
   },
   "14": {
     "Id": 14,
-    "Attr": 21,
+    "Attr": 9,
     "EffectId": [
-      29001014,
-      29002014,
-      29003014,
-      29004014
+      29011014,
+      29012014,
+      29013014,
+      29014014
     ],
-    "RecommendBuildRank": 15,
-    "RecommendLevel": 40
+    "RecommendBuildRank": 21,
+    "RecommendLevel": 60
   },
   "15": {
     "Id": 15,
-    "Attr": 22,
+    "Attr": 9,
     "EffectId": [
-      29001015,
-      29002015,
-      29003015,
-      29004015
+      29011015,
+      29012015,
+      29013015,
+      29014015
     ],
-    "RecommendBuildRank": 15,
-    "RecommendLevel": 40
+    "RecommendBuildRank": 21,
+    "RecommendLevel": 60
   },
   "16": {
     "Id": 16,
-    "Attr": 23,
+    "Attr": 10,
     "EffectId": [
-      29001016,
-      29002016,
-      29003016,
-      29004016
+      29011016,
+      29012016,
+      29013016,
+      29014016
     ],
-    "RecommendBuildRank": 15,
-    "RecommendLevel": 40
+    "RecommendBuildRank": 21,
+    "RecommendLevel": 60
   },
   "17": {
     "Id": 17,
-    "Attr": 24,
+    "Attr": 11,
     "EffectId": [
-      29001017,
-      29002017,
-      29003017,
-      29004017
+      29011017,
+      29012017,
+      29013017,
+      29014017
     ],
-    "RecommendBuildRank": 15,
-    "RecommendLevel": 40
+    "RecommendBuildRank": 21,
+    "RecommendLevel": 60
   },
   "18": {
     "Id": 18,
-    "Attr": 25,
+    "Attr": 11,
     "EffectId": [
-      29001018,
-      29002018,
-      29003018,
-      29004018
+      29011018,
+      29012018,
+      29013018,
+      29014018
     ],
-    "RecommendBuildRank": 15,
-    "RecommendLevel": 40
+    "RecommendBuildRank": 21,
+    "RecommendLevel": 60
   },
   "19": {
     "Id": 19,
-    "Attr": 26,
+    "Attr": 12,
     "EffectId": [
-      29001019,
-      29002019,
-      29003019,
-      29004019
+      29011019,
+      29012019,
+      29013019,
+      29014019
     ],
-    "RecommendBuildRank": 15,
-    "RecommendLevel": 40
+    "RecommendBuildRank": 21,
+    "RecommendLevel": 60
   },
   "20": {
     "Id": 20,
-    "Attr": 27,
+    "Attr": 12,
     "EffectId": [
-      29001020,
-      29002020,
-      29003020,
-      29004020
+      29011020,
+      29012020,
+      29013020,
+      29014020
     ],
-    "RecommendBuildRank": 15,
-    "RecommendLevel": 40
+    "RecommendBuildRank": 21,
+    "RecommendLevel": 60
   },
   "21": {
     "Id": 21,
-    "Attr": 28,
+    "Attr": 13,
     "EffectId": [
-      29001021,
-      29002021,
-      29003021,
-      29004021
+      29011021,
+      29012021,
+      29013021,
+      29014021
     ],
-    "RecommendBuildRank": 15,
-    "RecommendLevel": 40
+    "RecommendBuildRank": 21,
+    "RecommendLevel": 60
   },
   "22": {
     "Id": 22,
-    "Attr": 29,
+    "Attr": 13,
     "EffectId": [
-      29001022,
-      29002022,
-      29003022,
-      29004022
+      29011022,
+      29012022,
+      29013022,
+      29014022
     ],
-    "RecommendBuildRank": 15,
-    "RecommendLevel": 40
+    "RecommendBuildRank": 21,
+    "RecommendLevel": 60
   },
   "23": {
     "Id": 23,
-    "Attr": 30,
+    "Attr": 14,
     "EffectId": [
-      29001023,
-      29002023,
-      29003023,
-      29004023
+      29011023,
+      29012023,
+      29013023,
+      29014023
     ],
-    "RecommendBuildRank": 15,
-    "RecommendLevel": 40
+    "RecommendBuildRank": 21,
+    "RecommendLevel": 60
   },
   "24": {
     "Id": 24,
-    "Attr": 31,
+    "Attr": 14,
     "EffectId": [
-      29001024,
-      29002024,
-      29003024,
-      29004024
+      29011024,
+      29012024,
+      29013024,
+      29014024
     ],
-    "RecommendBuildRank": 15,
-    "RecommendLevel": 40
+    "RecommendBuildRank": 21,
+    "RecommendLevel": 60
   },
   "25": {
     "Id": 25,
-    "Attr": 32,
+    "Attr": 15,
     "EffectId": [
-      29001025,
-      29002025,
-      29003025,
-      29004025
+      29011025,
+      29012025,
+      29013025,
+      29014025
     ],
-    "RecommendBuildRank": 15,
-    "RecommendLevel": 40
+    "RecommendBuildRank": 24,
+    "RecommendLevel": 70
   },
   "26": {
     "Id": 26,
-    "Attr": 33,
+    "Attr": 18,
     "EffectId": [
-      29001026,
-      29002026,
-      29003026,
-      29004026
+      29011026,
+      29012026,
+      29013026,
+      29014026
     ],
-    "RecommendBuildRank": 15,
-    "RecommendLevel": 40
+    "RecommendBuildRank": 24,
+    "RecommendLevel": 70
   },
   "27": {
     "Id": 27,
-    "Attr": 34,
+    "Attr": 20,
     "EffectId": [
-      29001027,
-      29002027,
-      29003027,
-      29004027
+      29011027,
+      29012027,
+      29013027,
+      29014027
     ],
-    "RecommendBuildRank": 15,
-    "RecommendLevel": 40
+    "RecommendBuildRank": 24,
+    "RecommendLevel": 70
   },
   "28": {
     "Id": 28,
-    "Attr": 36,
+    "Attr": 23,
     "EffectId": [
-      29001028,
-      29002028,
-      29003028,
-      29004028
+      29011028,
+      29012028,
+      29013028,
+      29014028
     ],
-    "RecommendBuildRank": 15,
-    "RecommendLevel": 40
+    "RecommendBuildRank": 24,
+    "RecommendLevel": 70
   },
   "29": {
     "Id": 29,
-    "Attr": 38,
+    "Attr": 25,
     "EffectId": [
-      29001029,
-      29002029,
-      29003029,
-      29004029
+      29011029,
+      29012029,
+      29013029,
+      29014029
     ],
-    "RecommendBuildRank": 15,
-    "RecommendLevel": 40
+    "RecommendBuildRank": 24,
+    "RecommendLevel": 70
   },
   "30": {
     "Id": 30,
-    "Attr": 40,
+    "Attr": 28,
     "EffectId": [
-      29001030,
-      29002030,
-      29003030,
-      29004030
+      29011030,
+      29012030,
+      29013030,
+      29014030
     ],
-    "RecommendBuildRank": 18,
-    "RecommendLevel": 50
+    "RecommendBuildRank": 24,
+    "RecommendLevel": 70
   },
   "31": {
     "Id": 31,
-    "Attr": 43,
+    "Attr": 30,
     "EffectId": [
-      29001031,
-      29002031,
-      29003031,
-      29004031
+      29011031,
+      29012031,
+      29013031,
+      29014031
     ],
-    "RecommendBuildRank": 18,
-    "RecommendLevel": 50
+    "RecommendBuildRank": 24,
+    "RecommendLevel": 70
   },
   "32": {
     "Id": 32,
-    "Attr": 46,
+    "Attr": 33,
     "EffectId": [
-      29001032,
-      29002032,
-      29003032,
-      29004032
+      29011032,
+      29012032,
+      29013032,
+      29014032
     ],
-    "RecommendBuildRank": 18,
-    "RecommendLevel": 50
+    "RecommendBuildRank": 24,
+    "RecommendLevel": 70
   },
   "33": {
     "Id": 33,
-    "Attr": 60,
+    "Attr": 35,
     "EffectId": [
-      29001033,
-      29002033,
-      29003033,
-      29004033
+      29011033,
+      29012033,
+      29013033,
+      29014033
     ],
-    "RecommendBuildRank": 18,
-    "RecommendLevel": 50
+    "RecommendBuildRank": 24,
+    "RecommendLevel": 70
   },
   "34": {
     "Id": 34,
-    "Attr": 75,
+    "Attr": 38,
     "EffectId": [
-      29001034,
-      29002034,
-      29003034,
-      29004034
+      29011034,
+      29012034,
+      29013034,
+      29014034
     ],
-    "RecommendBuildRank": 18,
-    "RecommendLevel": 50
+    "RecommendBuildRank": 24,
+    "RecommendLevel": 70
   },
   "35": {
     "Id": 35,
-    "Attr": 90,
+    "Attr": 40,
     "EffectId": [
-      29001035,
-      29002035,
-      29003035,
-      29004035
+      29011035,
+      29012035,
+      29013035,
+      29014035
     ],
-    "RecommendBuildRank": 18,
-    "RecommendLevel": 50
+    "RecommendBuildRank": 24,
+    "RecommendLevel": 70
   },
   "36": {
     "Id": 36,
-    "Attr": 105,
+    "Attr": 42,
     "EffectId": [
-      29001036,
-      29002036,
-      29003036,
-      29004036
+      29011036,
+      29012036,
+      29013036,
+      29014036
     ],
-    "RecommendBuildRank": 18,
-    "RecommendLevel": 50
+    "RecommendBuildRank": 24,
+    "RecommendLevel": 70
   },
   "37": {
     "Id": 37,
-    "Attr": 120,
+    "Attr": 44,
     "EffectId": [
-      29001037,
-      29002037,
-      29003037,
-      29004037
+      29011037,
+      29012037,
+      29013037,
+      29014037
     ],
-    "RecommendBuildRank": 18,
-    "RecommendLevel": 50
+    "RecommendBuildRank": 24,
+    "RecommendLevel": 70
   },
   "38": {
     "Id": 38,
-    "Attr": 135,
+    "Attr": 48,
     "EffectId": [
-      29001038,
-      29002038,
-      29003038,
-      29004038
+      29011038,
+      29012038,
+      29013038,
+      29014038
     ],
-    "RecommendBuildRank": 18,
-    "RecommendLevel": 50
+    "RecommendBuildRank": 24,
+    "RecommendLevel": 70
   },
   "39": {
     "Id": 39,
-    "Attr": 150,
+    "Attr": 50,
     "EffectId": [
-      29001039,
-      29002039,
-      29003039,
-      29004039
+      29011039,
+      29012039,
+      29013039,
+      29014039
     ],
-    "RecommendBuildRank": 18,
-    "RecommendLevel": 50
+    "RecommendBuildRank": 24,
+    "RecommendLevel": 70
   },
   "40": {
     "Id": 40,
-    "Attr": 165,
+    "Attr": 60,
     "EffectId": [
-      29001040,
-      29002040,
-      29003040,
-      29004040
+      29011040,
+      29012040,
+      29013040,
+      29014040
     ],
-    "RecommendBuildRank": 18,
-    "RecommendLevel": 50
+    "RecommendBuildRank": 27,
+    "RecommendLevel": 80
   },
   "41": {
     "Id": 41,
-    "Attr": 180,
+    "Attr": 58,
     "EffectId": [
-      29001041,
-      29002041,
-      29003041,
-      29004041
+      29011041,
+      29012041,
+      29013041,
+      29014041
     ],
-    "RecommendBuildRank": 18,
-    "RecommendLevel": 50
+    "RecommendBuildRank": 27,
+    "RecommendLevel": 80
   },
   "42": {
     "Id": 42,
-    "Attr": 195,
+    "Attr": 62,
     "EffectId": [
-      29001042,
-      29002042,
-      29003042,
-      29004042
+      29011042,
+      29012042,
+      29013042,
+      29014042
     ],
-    "RecommendBuildRank": 18,
-    "RecommendLevel": 50
+    "RecommendBuildRank": 27,
+    "RecommendLevel": 80
   },
   "43": {
     "Id": 43,
-    "Attr": 210,
+    "Attr": 66,
     "EffectId": [
-      29001043,
-      29002043,
-      29003043,
-      29004043
+      29011043,
+      29012043,
+      29013043,
+      29014043
     ],
-    "RecommendBuildRank": 18,
-    "RecommendLevel": 50
+    "RecommendBuildRank": 27,
+    "RecommendLevel": 80
   },
   "44": {
     "Id": 44,
-    "Attr": 225,
+    "Attr": 72,
     "EffectId": [
-      29001044,
-      29002044,
-      29003044,
-      29004044
+      29011044,
+      29012044,
+      29013044,
+      29014044
     ],
-    "RecommendBuildRank": 18,
-    "RecommendLevel": 50
+    "RecommendBuildRank": 27,
+    "RecommendLevel": 80
   },
   "45": {
     "Id": 45,
-    "Attr": 240,
+    "Attr": 76,
     "EffectId": [
-      29001045,
-      29002045,
-      29003045,
-      29004045
+      29011045,
+      29012045,
+      29013045,
+      29014045
     ],
-    "RecommendBuildRank": 18,
-    "RecommendLevel": 50
+    "RecommendBuildRank": 27,
+    "RecommendLevel": 80
   },
   "46": {
     "Id": 46,
-    "Attr": 264,
+    "Attr": 82,
     "EffectId": [
-      29001046,
-      29002046,
-      29003046,
-      29004046
+      29011046,
+      29012046,
+      29013046,
+      29014046
     ],
-    "RecommendBuildRank": 18,
-    "RecommendLevel": 50
+    "RecommendBuildRank": 27,
+    "RecommendLevel": 80
   },
   "47": {
     "Id": 47,
-    "Attr": 288,
+    "Attr": 86,
     "EffectId": [
-      29001047,
-      29002047,
-      29003047,
-      29004047
+      29011047,
+      29012047,
+      29013047,
+      29014047
     ],
-    "RecommendBuildRank": 18,
-    "RecommendLevel": 50
+    "RecommendBuildRank": 27,
+    "RecommendLevel": 80
   },
   "48": {
     "Id": 48,
-    "Attr": 312,
+    "Attr": 92,
     "EffectId": [
-      29001048,
-      29002048,
-      29003048,
-      29004048
+      29011048,
+      29012048,
+      29013048,
+      29014048
     ],
-    "RecommendBuildRank": 18,
-    "RecommendLevel": 50
+    "RecommendBuildRank": 27,
+    "RecommendLevel": 80
   },
   "49": {
     "Id": 49,
-    "Attr": 336,
+    "Attr": 96,
     "EffectId": [
-      29001049,
-      29002049,
-      29003049,
-      29004049
+      29011049,
+      29012049,
+      29013049,
+      29014049
     ],
-    "RecommendBuildRank": 18,
-    "RecommendLevel": 50
+    "RecommendBuildRank": 27,
+    "RecommendLevel": 80
   },
   "50": {
     "Id": 50,
-    "Attr": 360,
+    "Attr": 100,
     "EffectId": [
-      29001050,
-      29002050,
-      29003050,
-      29004050
+      29011050,
+      29012050,
+      29013050,
+      29014050
     ],
-    "RecommendBuildRank": 25,
-    "RecommendLevel": 70
+    "RecommendBuildRank": 27,
+    "RecommendLevel": 80
   },
   "51": {
     "Id": 51,
-    "Attr": 384,
+    "Attr": 106,
     "EffectId": [
-      29001051,
-      29002051,
-      29003051,
-      29004051
+      29011051,
+      29012051,
+      29013051,
+      29014051
     ],
-    "RecommendBuildRank": 25,
-    "RecommendLevel": 70
+    "RecommendBuildRank": 27,
+    "RecommendLevel": 80
   },
   "52": {
     "Id": 52,
-    "Attr": 408,
+    "Attr": 110,
     "EffectId": [
-      29001052,
-      29002052,
-      29003052,
-      29004052
+      29011052,
+      29012052,
+      29013052,
+      29014052
     ],
-    "RecommendBuildRank": 25,
-    "RecommendLevel": 70
+    "RecommendBuildRank": 27,
+    "RecommendLevel": 80
   },
   "53": {
     "Id": 53,
-    "Attr": 432,
+    "Attr": 116,
     "EffectId": [
-      29001053,
-      29002053,
-      29003053,
-      29004053
+      29011053,
+      29012053,
+      29013053,
+      29014053
     ],
-    "RecommendBuildRank": 25,
-    "RecommendLevel": 70
+    "RecommendBuildRank": 27,
+    "RecommendLevel": 80
   },
   "54": {
     "Id": 54,
-    "Attr": 456,
+    "Attr": 120,
     "EffectId": [
-      29001054,
-      29002054,
-      29003054,
-      29004054
+      29011054,
+      29012054,
+      29013054,
+      29014054
     ],
-    "RecommendBuildRank": 25,
-    "RecommendLevel": 70
+    "RecommendBuildRank": 27,
+    "RecommendLevel": 80
   },
   "55": {
     "Id": 55,
-    "Attr": 480,
+    "Attr": 126,
     "EffectId": [
-      29001055,
-      29002055,
-      29003055,
-      29004055
+      29011055,
+      29012055,
+      29013055,
+      29014055
     ],
-    "RecommendBuildRank": 25,
-    "RecommendLevel": 70
+    "RecommendBuildRank": 27,
+    "RecommendLevel": 80
   },
   "56": {
     "Id": 56,
-    "Attr": 504,
+    "Attr": 130,
     "EffectId": [
-      29001056,
-      29002056,
-      29003056,
-      29004056
+      29011056,
+      29012056,
+      29013056,
+      29014056
     ],
-    "RecommendBuildRank": 25,
-    "RecommendLevel": 70
+    "RecommendBuildRank": 27,
+    "RecommendLevel": 80
   },
   "57": {
     "Id": 57,
-    "Attr": 528,
+    "Attr": 136,
     "EffectId": [
-      29001057,
-      29002057,
-      29003057,
-      29004057
+      29011057,
+      29012057,
+      29013057,
+      29014057
     ],
-    "RecommendBuildRank": 25,
-    "RecommendLevel": 70
+    "RecommendBuildRank": 27,
+    "RecommendLevel": 80
   },
   "58": {
     "Id": 58,
-    "Attr": 552,
+    "Attr": 140,
     "EffectId": [
-      29001058,
-      29002058,
-      29003058,
-      29004058
+      29011058,
+      29012058,
+      29013058,
+      29014058
     ],
-    "RecommendBuildRank": 25,
-    "RecommendLevel": 70
+    "RecommendBuildRank": 27,
+    "RecommendLevel": 80
   },
   "59": {
     "Id": 59,
-    "Attr": 576,
+    "Attr": 146,
     "EffectId": [
-      29001059,
-      29002059,
-      29003059,
-      29004059
+      29011059,
+      29012059,
+      29013059,
+      29014059
     ],
-    "RecommendBuildRank": 25,
-    "RecommendLevel": 70
+    "RecommendBuildRank": 27,
+    "RecommendLevel": 80
   },
   "60": {
     "Id": 60,
-    "Attr": 600,
+    "Attr": 150,
     "EffectId": [
-      29001060,
-      29002060,
-      29003060,
-      29004060
+      29011060,
+      29012060,
+      29013060,
+      29014060
     ],
     "RecommendBuildRank": 27,
     "RecommendLevel": 80
   },
   "61": {
     "Id": 61,
-    "Attr": 630,
+    "Attr": 154,
     "EffectId": [
-      29001061,
-      29002061,
-      29003061,
-      29004061
+      29011061,
+      29012061,
+      29013061,
+      29014061
     ],
     "RecommendBuildRank": 27,
     "RecommendLevel": 80
   },
   "62": {
     "Id": 62,
-    "Attr": 660,
+    "Attr": 160,
     "EffectId": [
-      29001062,
-      29002062,
-      29003062,
-      29004062
+      29011062,
+      29012062,
+      29013062,
+      29014062
     ],
     "RecommendBuildRank": 27,
     "RecommendLevel": 80
   },
   "63": {
     "Id": 63,
-    "Attr": 690,
+    "Attr": 164,
     "EffectId": [
-      29001063,
-      29002063,
-      29003063,
-      29004063
+      29011063,
+      29012063,
+      29013063,
+      29014063
     ],
     "RecommendBuildRank": 27,
     "RecommendLevel": 80
   },
   "64": {
     "Id": 64,
-    "Attr": 720,
+    "Attr": 170,
     "EffectId": [
-      29001064,
-      29002064,
-      29003064,
-      29004064
+      29011064,
+      29012064,
+      29013064,
+      29014064
     ],
     "RecommendBuildRank": 27,
     "RecommendLevel": 80
   },
   "65": {
     "Id": 65,
-    "Attr": 750,
+    "Attr": 174,
     "EffectId": [
-      29001065,
-      29002065,
-      29003065,
-      29004065
+      29011065,
+      29012065,
+      29013065,
+      29014065
     ],
     "RecommendBuildRank": 27,
     "RecommendLevel": 80
   },
   "66": {
     "Id": 66,
-    "Attr": 780,
+    "Attr": 180,
     "EffectId": [
-      29001066,
-      29002066,
-      29003066,
-      29004066
+      29011066,
+      29012066,
+      29013066,
+      29014066
     ],
     "RecommendBuildRank": 27,
     "RecommendLevel": 80
   },
   "67": {
     "Id": 67,
-    "Attr": 810,
+    "Attr": 184,
     "EffectId": [
-      29001067,
-      29002067,
-      29003067,
-      29004067
+      29011067,
+      29012067,
+      29013067,
+      29014067
     ],
     "RecommendBuildRank": 27,
     "RecommendLevel": 80
   },
   "68": {
     "Id": 68,
-    "Attr": 840,
+    "Attr": 190,
     "EffectId": [
-      29001068,
-      29002068,
-      29003068,
-      29004068
+      29011068,
+      29012068,
+      29013068,
+      29014068
     ],
     "RecommendBuildRank": 27,
     "RecommendLevel": 80
   },
   "69": {
     "Id": 69,
-    "Attr": 870,
+    "Attr": 194,
     "EffectId": [
-      29001069,
-      29002069,
-      29003069,
-      29004069
+      29011069,
+      29012069,
+      29013069,
+      29014069
     ],
     "RecommendBuildRank": 27,
     "RecommendLevel": 80
   },
   "70": {
     "Id": 70,
-    "Attr": 900,
+    "Attr": 200,
     "EffectId": [
-      29001070,
-      29002070,
-      29003070,
-      29004070
+      29011070,
+      29012070,
+      29013070,
+      29014070
     ],
-    "RecommendBuildRank": 27,
-    "RecommendLevel": 80
+    "RecommendBuildRank": 30,
+    "RecommendLevel": 90
   },
   "71": {
     "Id": 71,
-    "Attr": 930,
+    "Attr": 214,
     "EffectId": [
-      29001071,
-      29002071,
-      29003071,
-      29004071
+      29011071,
+      29012071,
+      29013071,
+      29014071
     ],
-    "RecommendBuildRank": 27,
-    "RecommendLevel": 80
+    "RecommendBuildRank": 30,
+    "RecommendLevel": 90
   },
   "72": {
     "Id": 72,
-    "Attr": 960,
+    "Attr": 230,
     "EffectId": [
-      29001072,
-      29002072,
-      29003072,
-      29004072
+      29011072,
+      29012072,
+      29013072,
+      29014072
     ],
-    "RecommendBuildRank": 27,
-    "RecommendLevel": 80
+    "RecommendBuildRank": 30,
+    "RecommendLevel": 90
   },
   "73": {
     "Id": 73,
-    "Attr": 990,
+    "Attr": 246,
     "EffectId": [
-      29001073,
-      29002073,
-      29003073,
-      29004073
+      29011073,
+      29012073,
+      29013073,
+      29014073
     ],
-    "RecommendBuildRank": 27,
-    "RecommendLevel": 80
+    "RecommendBuildRank": 30,
+    "RecommendLevel": 90
   },
   "74": {
     "Id": 74,
-    "Attr": 1020,
+    "Attr": 262,
     "EffectId": [
-      29001074,
-      29002074,
-      29003074,
-      29004074
+      29011074,
+      29012074,
+      29013074,
+      29014074
     ],
-    "RecommendBuildRank": 27,
-    "RecommendLevel": 80
+    "RecommendBuildRank": 30,
+    "RecommendLevel": 90
   },
   "75": {
     "Id": 75,
-    "Attr": 1050,
+    "Attr": 276,
     "EffectId": [
-      29001075,
-      29002075,
-      29003075,
-      29004075
+      29011075,
+      29012075,
+      29013075,
+      29014075
     ],
-    "RecommendBuildRank": 27,
-    "RecommendLevel": 80
+    "RecommendBuildRank": 30,
+    "RecommendLevel": 90
   },
   "76": {
     "Id": 76,
-    "Attr": 1080,
+    "Attr": 292,
     "EffectId": [
-      29001076,
-      29002076,
-      29003076,
-      29004076
+      29011076,
+      29012076,
+      29013076,
+      29014076
     ],
-    "RecommendBuildRank": 27,
-    "RecommendLevel": 80
+    "RecommendBuildRank": 30,
+    "RecommendLevel": 90
   },
   "77": {
     "Id": 77,
-    "Attr": 1110,
+    "Attr": 308,
     "EffectId": [
-      29001077,
-      29002077,
-      29003077,
-      29004077
+      29011077,
+      29012077,
+      29013077,
+      29014077
     ],
-    "RecommendBuildRank": 27,
-    "RecommendLevel": 80
+    "RecommendBuildRank": 30,
+    "RecommendLevel": 90
   },
   "78": {
     "Id": 78,
-    "Attr": 1140,
+    "Attr": 324,
     "EffectId": [
-      29001078,
-      29002078,
-      29003078,
-      29004078
+      29011078,
+      29012078,
+      29013078,
+      29014078
     ],
-    "RecommendBuildRank": 27,
-    "RecommendLevel": 80
+    "RecommendBuildRank": 30,
+    "RecommendLevel": 90
   },
   "79": {
     "Id": 79,
-    "Attr": 1170,
+    "Attr": 338,
     "EffectId": [
-      29001079,
-      29002079,
-      29003079,
-      29004079
+      29011079,
+      29012079,
+      29013079,
+      29014079
     ],
-    "RecommendBuildRank": 27,
-    "RecommendLevel": 80
+    "RecommendBuildRank": 30,
+    "RecommendLevel": 90
   },
   "80": {
     "Id": 80,
-    "Attr": 1200,
+    "Attr": 354,
     "EffectId": [
-      29001080,
-      29002080,
-      29003080,
-      29004080
+      29011080,
+      29012080,
+      29013080,
+      29014080
     ],
     "RecommendBuildRank": 30,
     "RecommendLevel": 90
   },
   "81": {
     "Id": 81,
-    "Attr": 1260,
+    "Attr": 370,
     "EffectId": [
-      29001081,
-      29002081,
-      29003081,
-      29004081
+      29011081,
+      29012081,
+      29013081,
+      29014081
     ],
-    "RecommendBuildRank": 30,
+    "RecommendBuildRank": 32,
     "RecommendLevel": 90
   },
   "82": {
     "Id": 82,
-    "Attr": 1320,
+    "Attr": 386,
     "EffectId": [
-      29001082,
-      29002082,
-      29003082,
-      29004082
+      29011082,
+      29012082,
+      29013082,
+      29014082
     ],
-    "RecommendBuildRank": 30,
+    "RecommendBuildRank": 32,
     "RecommendLevel": 90
   },
   "83": {
     "Id": 83,
-    "Attr": 1380,
+    "Attr": 402,
     "EffectId": [
-      29001083,
-      29002083,
-      29003083,
-      29004083
+      29011083,
+      29012083,
+      29013083,
+      29014083
     ],
-    "RecommendBuildRank": 30,
+    "RecommendBuildRank": 32,
     "RecommendLevel": 90
   },
   "84": {
     "Id": 84,
-    "Attr": 1440,
+    "Attr": 416,
     "EffectId": [
-      29001084,
-      29002084,
-      29003084,
-      29004084
+      29011084,
+      29012084,
+      29013084,
+      29014084
     ],
-    "RecommendBuildRank": 30,
+    "RecommendBuildRank": 32,
     "RecommendLevel": 90
   },
   "85": {
     "Id": 85,
-    "Attr": 1500,
+    "Attr": 432,
     "EffectId": [
-      29001085,
-      29002085,
-      29003085,
-      29004085
+      29011085,
+      29012085,
+      29013085,
+      29014085
     ],
-    "RecommendBuildRank": 30,
+    "RecommendBuildRank": 34,
     "RecommendLevel": 90
   },
   "86": {
     "Id": 86,
-    "Attr": 1560,
+    "Attr": 448,
     "EffectId": [
-      29001086,
-      29002086,
-      29003086,
-      29004086
+      29011086,
+      29012086,
+      29013086,
+      29014086
     ],
-    "RecommendBuildRank": 30,
+    "RecommendBuildRank": 34,
     "RecommendLevel": 90
   },
   "87": {
     "Id": 87,
-    "Attr": 1620,
+    "Attr": 464,
     "EffectId": [
-      29001087,
-      29002087,
-      29003087,
-      29004087
+      29011087,
+      29012087,
+      29013087,
+      29014087
     ],
-    "RecommendBuildRank": 30,
+    "RecommendBuildRank": 34,
     "RecommendLevel": 90
   },
   "88": {
     "Id": 88,
-    "Attr": 1680,
+    "Attr": 478,
     "EffectId": [
-      29001088,
-      29002088,
-      29003088,
-      29004088
+      29011088,
+      29012088,
+      29013088,
+      29014088
     ],
-    "RecommendBuildRank": 30,
+    "RecommendBuildRank": 34,
     "RecommendLevel": 90
   },
   "89": {
     "Id": 89,
-    "Attr": 1740,
+    "Attr": 494,
     "EffectId": [
-      29001089,
-      29002089,
-      29003089,
-      29004089
+      29011089,
+      29012089,
+      29013089,
+      29014089
     ],
-    "RecommendBuildRank": 30,
+    "RecommendBuildRank": 34,
     "RecommendLevel": 90
   },
   "90": {
     "Id": 90,
-    "Attr": 1800,
+    "Attr": 510,
     "EffectId": [
-      29001090,
-      29002090,
-      29003090,
-      29004090
+      29011090,
+      29012090,
+      29013090,
+      29014090
     ],
-    "RecommendBuildRank": 31,
+    "RecommendBuildRank": 36,
     "RecommendLevel": 90
   },
   "91": {
     "Id": 91,
-    "Attr": 1830,
+    "Attr": 526,
     "EffectId": [
-      29001091,
-      29002091,
-      29003091,
-      29004091
+      29011091,
+      29012091,
+      29013091,
+      29014091
     ],
-    "RecommendBuildRank": 31,
+    "RecommendBuildRank": 36,
     "RecommendLevel": 90
   },
   "92": {
     "Id": 92,
-    "Attr": 1860,
+    "Attr": 542,
     "EffectId": [
-      29001092,
-      29002092,
-      29003092,
-      29004092
+      29011092,
+      29012092,
+      29013092,
+      29014092
     ],
-    "RecommendBuildRank": 31,
+    "RecommendBuildRank": 36,
     "RecommendLevel": 90
   },
   "93": {
     "Id": 93,
-    "Attr": 1890,
+    "Attr": 556,
     "EffectId": [
-      29001093,
-      29002093,
-      29003093,
-      29004093
+      29011093,
+      29012093,
+      29013093,
+      29014093
     ],
-    "RecommendBuildRank": 31,
+    "RecommendBuildRank": 36,
     "RecommendLevel": 90
   },
   "94": {
     "Id": 94,
-    "Attr": 1920,
+    "Attr": 572,
     "EffectId": [
-      29001094,
-      29002094,
-      29003094,
-      29004094
+      29011094,
+      29012094,
+      29013094,
+      29014094
     ],
-    "RecommendBuildRank": 31,
+    "RecommendBuildRank": 36,
     "RecommendLevel": 90
   },
   "95": {
     "Id": 95,
-    "Attr": 1950,
+    "Attr": 588,
     "EffectId": [
-      29001095,
-      29002095,
-      29003095,
-      29004095
+      29011095,
+      29012095,
+      29013095,
+      29014095
     ],
-    "RecommendBuildRank": 31,
+    "RecommendBuildRank": 38,
     "RecommendLevel": 90
   },
   "96": {
     "Id": 96,
-    "Attr": 1980,
+    "Attr": 604,
     "EffectId": [
-      29001096,
-      29002096,
-      29003096,
-      29004096
+      29011096,
+      29012096,
+      29013096,
+      29014096
     ],
-    "RecommendBuildRank": 31,
+    "RecommendBuildRank": 38,
     "RecommendLevel": 90
   },
   "97": {
     "Id": 97,
-    "Attr": 2010,
+    "Attr": 618,
     "EffectId": [
-      29001097,
-      29002097,
-      29003097,
-      29004097
+      29011097,
+      29012097,
+      29013097,
+      29014097
     ],
-    "RecommendBuildRank": 31,
+    "RecommendBuildRank": 38,
     "RecommendLevel": 90
   },
   "98": {
     "Id": 98,
-    "Attr": 2040,
+    "Attr": 634,
     "EffectId": [
-      29001098,
-      29002098,
-      29003098,
-      29004098
+      29011098,
+      29012098,
+      29013098,
+      29014098
     ],
-    "RecommendBuildRank": 31,
+    "RecommendBuildRank": 38,
     "RecommendLevel": 90
   },
   "99": {
     "Id": 99,
-    "Attr": 2070,
+    "Attr": 650,
     "EffectId": [
-      29001099,
-      29002099,
-      29003099,
-      29004099
+      29011099,
+      29012099,
+      29013099,
+      29014099
     ],
-    "RecommendBuildRank": 31,
+    "RecommendBuildRank": 38,
     "RecommendLevel": 90
   },
   "100": {
     "Id": 100,
-    "Attr": 2100,
+    "Attr": 666,
     "EffectId": [
-      29001100,
-      29002100,
-      29003100,
-      29004100
-    ],
-    "RecommendBuildRank": 32,
-    "RecommendLevel": 90
-  },
-  "101": {
-    "Id": 101,
-    "Attr": 2120,
-    "EffectId": [
-      29001101,
-      29002101,
-      29003101,
-      29004101
-    ],
-    "RecommendBuildRank": 32,
-    "RecommendLevel": 90
-  },
-  "102": {
-    "Id": 102,
-    "Attr": 2140,
-    "EffectId": [
-      29001102,
-      29002102,
-      29003102,
-      29004102
-    ],
-    "RecommendBuildRank": 32,
-    "RecommendLevel": 90
-  },
-  "103": {
-    "Id": 103,
-    "Attr": 2160,
-    "EffectId": [
-      29001103,
-      29002103,
-      29003103,
-      29004103
-    ],
-    "RecommendBuildRank": 32,
-    "RecommendLevel": 90
-  },
-  "104": {
-    "Id": 104,
-    "Attr": 2180,
-    "EffectId": [
-      29001104,
-      29002104,
-      29003104,
-      29004104
-    ],
-    "RecommendBuildRank": 32,
-    "RecommendLevel": 90
-  },
-  "105": {
-    "Id": 105,
-    "Attr": 2200,
-    "EffectId": [
-      29001105,
-      29002105,
-      29003105,
-      29004105
-    ],
-    "RecommendBuildRank": 32,
-    "RecommendLevel": 90
-  },
-  "106": {
-    "Id": 106,
-    "Attr": 2220,
-    "EffectId": [
-      29001106,
-      29002106,
-      29003106,
-      29004106
-    ],
-    "RecommendBuildRank": 32,
-    "RecommendLevel": 90
-  },
-  "107": {
-    "Id": 107,
-    "Attr": 2240,
-    "EffectId": [
-      29001107,
-      29002107,
-      29003107,
-      29004107
-    ],
-    "RecommendBuildRank": 32,
-    "RecommendLevel": 90
-  },
-  "108": {
-    "Id": 108,
-    "Attr": 2260,
-    "EffectId": [
-      29001108,
-      29002108,
-      29003108,
-      29004108
-    ],
-    "RecommendBuildRank": 32,
-    "RecommendLevel": 90
-  },
-  "109": {
-    "Id": 109,
-    "Attr": 2280,
-    "EffectId": [
-      29001109,
-      29002109,
-      29003109,
-      29004109
-    ],
-    "RecommendBuildRank": 32,
-    "RecommendLevel": 90
-  },
-  "110": {
-    "Id": 110,
-    "Attr": 2300,
-    "EffectId": [
-      29001110,
-      29002110,
-      29003110,
-      29004110
-    ],
-    "RecommendBuildRank": 33,
-    "RecommendLevel": 90
-  },
-  "111": {
-    "Id": 111,
-    "Attr": 2320,
-    "EffectId": [
-      29001111,
-      29002111,
-      29003111,
-      29004111
-    ],
-    "RecommendBuildRank": 33,
-    "RecommendLevel": 90
-  },
-  "112": {
-    "Id": 112,
-    "Attr": 2340,
-    "EffectId": [
-      29001112,
-      29002112,
-      29003112,
-      29004112
-    ],
-    "RecommendBuildRank": 33,
-    "RecommendLevel": 90
-  },
-  "113": {
-    "Id": 113,
-    "Attr": 2360,
-    "EffectId": [
-      29001113,
-      29002113,
-      29003113,
-      29004113
-    ],
-    "RecommendBuildRank": 33,
-    "RecommendLevel": 90
-  },
-  "114": {
-    "Id": 114,
-    "Attr": 2380,
-    "EffectId": [
-      29001114,
-      29002114,
-      29003114,
-      29004114
-    ],
-    "RecommendBuildRank": 33,
-    "RecommendLevel": 90
-  },
-  "115": {
-    "Id": 115,
-    "Attr": 2400,
-    "EffectId": [
-      29001115,
-      29002115,
-      29003115,
-      29004115
-    ],
-    "RecommendBuildRank": 33,
-    "RecommendLevel": 90
-  },
-  "116": {
-    "Id": 116,
-    "Attr": 2420,
-    "EffectId": [
-      29001116,
-      29002116,
-      29003116,
-      29004116
-    ],
-    "RecommendBuildRank": 33,
-    "RecommendLevel": 90
-  },
-  "117": {
-    "Id": 117,
-    "Attr": 2440,
-    "EffectId": [
-      29001117,
-      29002117,
-      29003117,
-      29004117
-    ],
-    "RecommendBuildRank": 33,
-    "RecommendLevel": 90
-  },
-  "118": {
-    "Id": 118,
-    "Attr": 2460,
-    "EffectId": [
-      29001118,
-      29002118,
-      29003118,
-      29004118
-    ],
-    "RecommendBuildRank": 33,
-    "RecommendLevel": 90
-  },
-  "119": {
-    "Id": 119,
-    "Attr": 2480,
-    "EffectId": [
-      29001119,
-      29002119,
-      29003119,
-      29004119
-    ],
-    "RecommendBuildRank": 33,
-    "RecommendLevel": 90
-  },
-  "120": {
-    "Id": 120,
-    "Attr": 2500,
-    "EffectId": [
-      29001120,
-      29002120,
-      29003120,
-      29004120
-    ],
-    "RecommendBuildRank": 34,
-    "RecommendLevel": 90
-  },
-  "121": {
-    "Id": 121,
-    "Attr": 2510,
-    "EffectId": [
-      29001121,
-      29002121,
-      29003121,
-      29004121
-    ],
-    "RecommendBuildRank": 34,
-    "RecommendLevel": 90
-  },
-  "122": {
-    "Id": 122,
-    "Attr": 2520,
-    "EffectId": [
-      29001122,
-      29002122,
-      29003122,
-      29004122
-    ],
-    "RecommendBuildRank": 34,
-    "RecommendLevel": 90
-  },
-  "123": {
-    "Id": 123,
-    "Attr": 2530,
-    "EffectId": [
-      29001123,
-      29002123,
-      29003123,
-      29004123
-    ],
-    "RecommendBuildRank": 34,
-    "RecommendLevel": 90
-  },
-  "124": {
-    "Id": 124,
-    "Attr": 2540,
-    "EffectId": [
-      29001124,
-      29002124,
-      29003124,
-      29004124
-    ],
-    "RecommendBuildRank": 34,
-    "RecommendLevel": 90
-  },
-  "125": {
-    "Id": 125,
-    "Attr": 2550,
-    "EffectId": [
-      29001125,
-      29002125,
-      29003125,
-      29004125
-    ],
-    "RecommendBuildRank": 34,
-    "RecommendLevel": 90
-  },
-  "126": {
-    "Id": 126,
-    "Attr": 2560,
-    "EffectId": [
-      29001126,
-      29002126,
-      29003126,
-      29004126
-    ],
-    "RecommendBuildRank": 34,
-    "RecommendLevel": 90
-  },
-  "127": {
-    "Id": 127,
-    "Attr": 2570,
-    "EffectId": [
-      29001127,
-      29002127,
-      29003127,
-      29004127
-    ],
-    "RecommendBuildRank": 34,
-    "RecommendLevel": 90
-  },
-  "128": {
-    "Id": 128,
-    "Attr": 2580,
-    "EffectId": [
-      29001128,
-      29002128,
-      29003128,
-      29004128
-    ],
-    "RecommendBuildRank": 34,
-    "RecommendLevel": 90
-  },
-  "129": {
-    "Id": 129,
-    "Attr": 2590,
-    "EffectId": [
-      29001129,
-      29002129,
-      29003129,
-      29004129
-    ],
-    "RecommendBuildRank": 34,
-    "RecommendLevel": 90
-  },
-  "130": {
-    "Id": 130,
-    "Attr": 2600,
-    "EffectId": [
-      29001130,
-      29002130,
-      29003130,
-      29004130
-    ],
-    "RecommendBuildRank": 35,
-    "RecommendLevel": 90
-  },
-  "131": {
-    "Id": 131,
-    "Attr": 2610,
-    "EffectId": [
-      29001131,
-      29002131,
-      29003131,
-      29004131
-    ],
-    "RecommendBuildRank": 35,
-    "RecommendLevel": 90
-  },
-  "132": {
-    "Id": 132,
-    "Attr": 2620,
-    "EffectId": [
-      29001132,
-      29002132,
-      29003132,
-      29004132
-    ],
-    "RecommendBuildRank": 35,
-    "RecommendLevel": 90
-  },
-  "133": {
-    "Id": 133,
-    "Attr": 2630,
-    "EffectId": [
-      29001133,
-      29002133,
-      29003133,
-      29004133
-    ],
-    "RecommendBuildRank": 35,
-    "RecommendLevel": 90
-  },
-  "134": {
-    "Id": 134,
-    "Attr": 2640,
-    "EffectId": [
-      29001134,
-      29002134,
-      29003134,
-      29004134
-    ],
-    "RecommendBuildRank": 35,
-    "RecommendLevel": 90
-  },
-  "135": {
-    "Id": 135,
-    "Attr": 2650,
-    "EffectId": [
-      29001135,
-      29002135,
-      29003135,
-      29004135
-    ],
-    "RecommendBuildRank": 35,
-    "RecommendLevel": 90
-  },
-  "136": {
-    "Id": 136,
-    "Attr": 2660,
-    "EffectId": [
-      29001136,
-      29002136,
-      29003136,
-      29004136
-    ],
-    "RecommendBuildRank": 35,
-    "RecommendLevel": 90
-  },
-  "137": {
-    "Id": 137,
-    "Attr": 2670,
-    "EffectId": [
-      29001137,
-      29002137,
-      29003137,
-      29004137
-    ],
-    "RecommendBuildRank": 35,
-    "RecommendLevel": 90
-  },
-  "138": {
-    "Id": 138,
-    "Attr": 2680,
-    "EffectId": [
-      29001138,
-      29002138,
-      29003138,
-      29004138
-    ],
-    "RecommendBuildRank": 35,
-    "RecommendLevel": 90
-  },
-  "139": {
-    "Id": 139,
-    "Attr": 2690,
-    "EffectId": [
-      29001139,
-      29002139,
-      29003139,
-      29004139
-    ],
-    "RecommendBuildRank": 35,
-    "RecommendLevel": 90
-  },
-  "140": {
-    "Id": 140,
-    "Attr": 2700,
-    "EffectId": [
-      29001140,
-      29002140,
-      29003140,
-      29004140
-    ],
-    "RecommendBuildRank": 36,
-    "RecommendLevel": 90
-  },
-  "141": {
-    "Id": 141,
-    "Attr": 2730,
-    "EffectId": [
-      29001141,
-      29002141,
-      29003141,
-      29004141
-    ],
-    "RecommendBuildRank": 36,
-    "RecommendLevel": 90
-  },
-  "142": {
-    "Id": 142,
-    "Attr": 2760,
-    "EffectId": [
-      29001142,
-      29002142,
-      29003142,
-      29004142
-    ],
-    "RecommendBuildRank": 36,
-    "RecommendLevel": 90
-  },
-  "143": {
-    "Id": 143,
-    "Attr": 2790,
-    "EffectId": [
-      29001143,
-      29002143,
-      29003143,
-      29004143
-    ],
-    "RecommendBuildRank": 36,
-    "RecommendLevel": 90
-  },
-  "144": {
-    "Id": 144,
-    "Attr": 2820,
-    "EffectId": [
-      29001144,
-      29002144,
-      29003144,
-      29004144
-    ],
-    "RecommendBuildRank": 36,
-    "RecommendLevel": 90
-  },
-  "145": {
-    "Id": 145,
-    "Attr": 2850,
-    "EffectId": [
-      29001145,
-      29002145,
-      29003145,
-      29004145
-    ],
-    "RecommendBuildRank": 38,
-    "RecommendLevel": 90
-  },
-  "146": {
-    "Id": 146,
-    "Attr": 2880,
-    "EffectId": [
-      29001146,
-      29002146,
-      29003146,
-      29004146
-    ],
-    "RecommendBuildRank": 38,
-    "RecommendLevel": 90
-  },
-  "147": {
-    "Id": 147,
-    "Attr": 2910,
-    "EffectId": [
-      29001147,
-      29002147,
-      29003147,
-      29004147
-    ],
-    "RecommendBuildRank": 38,
-    "RecommendLevel": 90
-  },
-  "148": {
-    "Id": 148,
-    "Attr": 2940,
-    "EffectId": [
-      29001148,
-      29002148,
-      29003148,
-      29004148
-    ],
-    "RecommendBuildRank": 38,
-    "RecommendLevel": 90
-  },
-  "149": {
-    "Id": 149,
-    "Attr": 2970,
-    "EffectId": [
-      29001149,
-      29002149,
-      29003149,
-      29004149
-    ],
-    "RecommendBuildRank": 38,
-    "RecommendLevel": 90
-  },
-  "150": {
-    "Id": 150,
-    "Attr": 3000,
-    "EffectId": [
-      29001150,
-      29002150,
-      29003150,
-      29004150
+      29011100,
+      29012100,
+      29013100,
+      29014100
     ],
     "RecommendBuildRank": 40,
     "RecommendLevel": 90
-  },
-  "151": {
-    "Id": 151,
-    "Attr": 3024,
-    "EffectId": [
-      29001151,
-      29002151,
-      29003151,
-      29004151
-    ],
-    "RecommendBuildRank": 16,
-    "RecommendLevel": 32
-  },
-  "152": {
-    "Id": 152,
-    "Attr": 3048,
-    "EffectId": [
-      29001152,
-      29002152,
-      29003152,
-      29004152
-    ],
-    "RecommendBuildRank": 16,
-    "RecommendLevel": 32
-  },
-  "153": {
-    "Id": 153,
-    "Attr": 3072,
-    "EffectId": [
-      29001153,
-      29002153,
-      29003153,
-      29004153
-    ],
-    "RecommendBuildRank": 16,
-    "RecommendLevel": 32
-  },
-  "154": {
-    "Id": 154,
-    "Attr": 3096,
-    "EffectId": [
-      29001154,
-      29002154,
-      29003154,
-      29004154
-    ],
-    "RecommendBuildRank": 16,
-    "RecommendLevel": 32
-  },
-  "155": {
-    "Id": 155,
-    "Attr": 3120,
-    "EffectId": [
-      29001155,
-      29002155,
-      29003155,
-      29004155
-    ],
-    "RecommendBuildRank": 16,
-    "RecommendLevel": 32
-  },
-  "156": {
-    "Id": 156,
-    "Attr": 3144,
-    "EffectId": [
-      29001156,
-      29002156,
-      29003156,
-      29004156
-    ],
-    "RecommendBuildRank": 16,
-    "RecommendLevel": 32
-  },
-  "157": {
-    "Id": 157,
-    "Attr": 3168,
-    "EffectId": [
-      29001157,
-      29002157,
-      29003157,
-      29004157
-    ],
-    "RecommendBuildRank": 16,
-    "RecommendLevel": 32
-  },
-  "158": {
-    "Id": 158,
-    "Attr": 3192,
-    "EffectId": [
-      29001158,
-      29002158,
-      29003158,
-      29004158
-    ],
-    "RecommendBuildRank": 16,
-    "RecommendLevel": 32
-  },
-  "159": {
-    "Id": 159,
-    "Attr": 3216,
-    "EffectId": [
-      29001159,
-      29002159,
-      29003159,
-      29004159
-    ],
-    "RecommendBuildRank": 16,
-    "RecommendLevel": 32
-  },
-  "160": {
-    "Id": 160,
-    "Attr": 3240,
-    "EffectId": [
-      29001160,
-      29002160,
-      29003160,
-      29004160
-    ],
-    "RecommendBuildRank": 17,
-    "RecommendLevel": 34
-  },
-  "161": {
-    "Id": 161,
-    "Attr": 3264,
-    "EffectId": [
-      29001161,
-      29002161,
-      29003161,
-      29004161
-    ],
-    "RecommendBuildRank": 17,
-    "RecommendLevel": 34
-  },
-  "162": {
-    "Id": 162,
-    "Attr": 3288,
-    "EffectId": [
-      29001162,
-      29002162,
-      29003162,
-      29004162
-    ],
-    "RecommendBuildRank": 17,
-    "RecommendLevel": 34
-  },
-  "163": {
-    "Id": 163,
-    "Attr": 3312,
-    "EffectId": [
-      29001163,
-      29002163,
-      29003163,
-      29004163
-    ],
-    "RecommendBuildRank": 17,
-    "RecommendLevel": 34
-  },
-  "164": {
-    "Id": 164,
-    "Attr": 3336,
-    "EffectId": [
-      29001164,
-      29002164,
-      29003164,
-      29004164
-    ],
-    "RecommendBuildRank": 17,
-    "RecommendLevel": 34
-  },
-  "165": {
-    "Id": 165,
-    "Attr": 3360,
-    "EffectId": [
-      29001165,
-      29002165,
-      29003165,
-      29004165
-    ],
-    "RecommendBuildRank": 17,
-    "RecommendLevel": 34
-  },
-  "166": {
-    "Id": 166,
-    "Attr": 3384,
-    "EffectId": [
-      29001166,
-      29002166,
-      29003166,
-      29004166
-    ],
-    "RecommendBuildRank": 17,
-    "RecommendLevel": 34
-  },
-  "167": {
-    "Id": 167,
-    "Attr": 3408,
-    "EffectId": [
-      29001167,
-      29002167,
-      29003167,
-      29004167
-    ],
-    "RecommendBuildRank": 17,
-    "RecommendLevel": 34
-  },
-  "168": {
-    "Id": 168,
-    "Attr": 3432,
-    "EffectId": [
-      29001168,
-      29002168,
-      29003168,
-      29004168
-    ],
-    "RecommendBuildRank": 17,
-    "RecommendLevel": 34
-  },
-  "169": {
-    "Id": 169,
-    "Attr": 3456,
-    "EffectId": [
-      29001169,
-      29002169,
-      29003169,
-      29004169
-    ],
-    "RecommendBuildRank": 17,
-    "RecommendLevel": 34
-  },
-  "170": {
-    "Id": 170,
-    "Attr": 3480,
-    "EffectId": [
-      29001170,
-      29002170,
-      29003170,
-      29004170
-    ],
-    "RecommendBuildRank": 18,
-    "RecommendLevel": 36
-  },
-  "171": {
-    "Id": 171,
-    "Attr": 3504,
-    "EffectId": [
-      29001171,
-      29002171,
-      29003171,
-      29004171
-    ],
-    "RecommendBuildRank": 18,
-    "RecommendLevel": 36
-  },
-  "172": {
-    "Id": 172,
-    "Attr": 3528,
-    "EffectId": [
-      29001172,
-      29002172,
-      29003172,
-      29004172
-    ],
-    "RecommendBuildRank": 18,
-    "RecommendLevel": 36
-  },
-  "173": {
-    "Id": 173,
-    "Attr": 3552,
-    "EffectId": [
-      29001173,
-      29002173,
-      29003173,
-      29004173
-    ],
-    "RecommendBuildRank": 18,
-    "RecommendLevel": 36
-  },
-  "174": {
-    "Id": 174,
-    "Attr": 3576,
-    "EffectId": [
-      29001174,
-      29002174,
-      29003174,
-      29004174
-    ],
-    "RecommendBuildRank": 18,
-    "RecommendLevel": 36
-  },
-  "175": {
-    "Id": 175,
-    "Attr": 3600,
-    "EffectId": [
-      29001175,
-      29002175,
-      29003175,
-      29004175
-    ],
-    "RecommendBuildRank": 18,
-    "RecommendLevel": 36
-  },
-  "176": {
-    "Id": 176,
-    "Attr": 3624,
-    "EffectId": [
-      29001176,
-      29002176,
-      29003176,
-      29004176
-    ],
-    "RecommendBuildRank": 18,
-    "RecommendLevel": 36
-  },
-  "177": {
-    "Id": 177,
-    "Attr": 3648,
-    "EffectId": [
-      29001177,
-      29002177,
-      29003177,
-      29004177
-    ],
-    "RecommendBuildRank": 18,
-    "RecommendLevel": 36
-  },
-  "178": {
-    "Id": 178,
-    "Attr": 3672,
-    "EffectId": [
-      29001178,
-      29002178,
-      29003178,
-      29004178
-    ],
-    "RecommendBuildRank": 18,
-    "RecommendLevel": 36
-  },
-  "179": {
-    "Id": 179,
-    "Attr": 3696,
-    "EffectId": [
-      29001179,
-      29002179,
-      29003179,
-      29004179
-    ],
-    "RecommendBuildRank": 18,
-    "RecommendLevel": 36
-  },
-  "180": {
-    "Id": 180,
-    "Attr": 3720,
-    "EffectId": [
-      29001180,
-      29002180,
-      29003180,
-      29004180
-    ],
-    "RecommendBuildRank": 19,
-    "RecommendLevel": 38
-  },
-  "181": {
-    "Id": 181,
-    "Attr": 3744,
-    "EffectId": [
-      29001181,
-      29002181,
-      29003181,
-      29004181
-    ],
-    "RecommendBuildRank": 19,
-    "RecommendLevel": 38
-  },
-  "182": {
-    "Id": 182,
-    "Attr": 3768,
-    "EffectId": [
-      29001182,
-      29002182,
-      29003182,
-      29004182
-    ],
-    "RecommendBuildRank": 19,
-    "RecommendLevel": 38
-  },
-  "183": {
-    "Id": 183,
-    "Attr": 3792,
-    "EffectId": [
-      29001183,
-      29002183,
-      29003183,
-      29004183
-    ],
-    "RecommendBuildRank": 19,
-    "RecommendLevel": 38
-  },
-  "184": {
-    "Id": 184,
-    "Attr": 3816,
-    "EffectId": [
-      29001184,
-      29002184,
-      29003184,
-      29004184
-    ],
-    "RecommendBuildRank": 19,
-    "RecommendLevel": 38
-  },
-  "185": {
-    "Id": 185,
-    "Attr": 3840,
-    "EffectId": [
-      29001185,
-      29002185,
-      29003185,
-      29004185
-    ],
-    "RecommendBuildRank": 19,
-    "RecommendLevel": 38
-  },
-  "186": {
-    "Id": 186,
-    "Attr": 3864,
-    "EffectId": [
-      29001186,
-      29002186,
-      29003186,
-      29004186
-    ],
-    "RecommendBuildRank": 19,
-    "RecommendLevel": 38
-  },
-  "187": {
-    "Id": 187,
-    "Attr": 3888,
-    "EffectId": [
-      29001187,
-      29002187,
-      29003187,
-      29004187
-    ],
-    "RecommendBuildRank": 19,
-    "RecommendLevel": 38
-  },
-  "188": {
-    "Id": 188,
-    "Attr": 3912,
-    "EffectId": [
-      29001188,
-      29002188,
-      29003188,
-      29004188
-    ],
-    "RecommendBuildRank": 19,
-    "RecommendLevel": 38
-  },
-  "189": {
-    "Id": 189,
-    "Attr": 3936,
-    "EffectId": [
-      29001189,
-      29002189,
-      29003189,
-      29004189
-    ],
-    "RecommendBuildRank": 19,
-    "RecommendLevel": 38
-  },
-  "190": {
-    "Id": 190,
-    "Attr": 3960,
-    "EffectId": [
-      29001190,
-      29002190,
-      29003190,
-      29004190
-    ],
-    "RecommendBuildRank": 20,
-    "RecommendLevel": 40
-  },
-  "191": {
-    "Id": 191,
-    "Attr": 3984,
-    "EffectId": [
-      29001191,
-      29002191,
-      29003191,
-      29004191
-    ],
-    "RecommendBuildRank": 20,
-    "RecommendLevel": 40
-  },
-  "192": {
-    "Id": 192,
-    "Attr": 4008,
-    "EffectId": [
-      29001192,
-      29002192,
-      29003192,
-      29004192
-    ],
-    "RecommendBuildRank": 20,
-    "RecommendLevel": 40
-  },
-  "193": {
-    "Id": 193,
-    "Attr": 4032,
-    "EffectId": [
-      29001193,
-      29002193,
-      29003193,
-      29004193
-    ],
-    "RecommendBuildRank": 20,
-    "RecommendLevel": 40
-  },
-  "194": {
-    "Id": 194,
-    "Attr": 4056,
-    "EffectId": [
-      29001194,
-      29002194,
-      29003194,
-      29004194
-    ],
-    "RecommendBuildRank": 20,
-    "RecommendLevel": 40
-  },
-  "195": {
-    "Id": 195,
-    "Attr": 4080,
-    "EffectId": [
-      29001195,
-      29002195,
-      29003195,
-      29004195
-    ],
-    "RecommendBuildRank": 20,
-    "RecommendLevel": 40
-  },
-  "196": {
-    "Id": 196,
-    "Attr": 4104,
-    "EffectId": [
-      29001196,
-      29002196,
-      29003196,
-      29004196
-    ],
-    "RecommendBuildRank": 20,
-    "RecommendLevel": 40
-  },
-  "197": {
-    "Id": 197,
-    "Attr": 4128,
-    "EffectId": [
-      29001197,
-      29002197,
-      29003197,
-      29004197
-    ],
-    "RecommendBuildRank": 20,
-    "RecommendLevel": 40
-  },
-  "198": {
-    "Id": 198,
-    "Attr": 4152,
-    "EffectId": [
-      29001198,
-      29002198,
-      29003198,
-      29004198
-    ],
-    "RecommendBuildRank": 20,
-    "RecommendLevel": 40
-  },
-  "199": {
-    "Id": 199,
-    "Attr": 4176,
-    "EffectId": [
-      29001199,
-      29002199,
-      29003199,
-      29004199
-    ],
-    "RecommendBuildRank": 20,
-    "RecommendLevel": 40
-  },
-  "200": {
-    "Id": 200,
-    "Attr": 4200,
-    "EffectId": [
-      29001200,
-      29002200,
-      29003200,
-      29004200
-    ],
-    "RecommendBuildRank": 21,
-    "RecommendLevel": 42
-  },
-  "201": {
-    "Id": 201,
-    "Attr": 4224,
-    "EffectId": [
-      29001201,
-      29002201,
-      29003201,
-      29004201
-    ],
-    "RecommendBuildRank": 21,
-    "RecommendLevel": 42
-  },
-  "202": {
-    "Id": 202,
-    "Attr": 4248,
-    "EffectId": [
-      29001202,
-      29002202,
-      29003202,
-      29004202
-    ],
-    "RecommendBuildRank": 21,
-    "RecommendLevel": 42
-  },
-  "203": {
-    "Id": 203,
-    "Attr": 4272,
-    "EffectId": [
-      29001203,
-      29002203,
-      29003203,
-      29004203
-    ],
-    "RecommendBuildRank": 21,
-    "RecommendLevel": 42
-  },
-  "204": {
-    "Id": 204,
-    "Attr": 4296,
-    "EffectId": [
-      29001204,
-      29002204,
-      29003204,
-      29004204
-    ],
-    "RecommendBuildRank": 21,
-    "RecommendLevel": 42
-  },
-  "205": {
-    "Id": 205,
-    "Attr": 4320,
-    "EffectId": [
-      29001205,
-      29002205,
-      29003205,
-      29004205
-    ],
-    "RecommendBuildRank": 21,
-    "RecommendLevel": 42
-  },
-  "206": {
-    "Id": 206,
-    "Attr": 4344,
-    "EffectId": [
-      29001206,
-      29002206,
-      29003206,
-      29004206
-    ],
-    "RecommendBuildRank": 21,
-    "RecommendLevel": 42
-  },
-  "207": {
-    "Id": 207,
-    "Attr": 4368,
-    "EffectId": [
-      29001207,
-      29002207,
-      29003207,
-      29004207
-    ],
-    "RecommendBuildRank": 21,
-    "RecommendLevel": 42
-  },
-  "208": {
-    "Id": 208,
-    "Attr": 4392,
-    "EffectId": [
-      29001208,
-      29002208,
-      29003208,
-      29004208
-    ],
-    "RecommendBuildRank": 21,
-    "RecommendLevel": 42
-  },
-  "209": {
-    "Id": 209,
-    "Attr": 4416,
-    "EffectId": [
-      29001209,
-      29002209,
-      29003209,
-      29004209
-    ],
-    "RecommendBuildRank": 21,
-    "RecommendLevel": 42
-  },
-  "210": {
-    "Id": 210,
-    "Attr": 4440,
-    "EffectId": [
-      29001210,
-      29002210,
-      29003210,
-      29004210
-    ],
-    "RecommendBuildRank": 22,
-    "RecommendLevel": 44
-  },
-  "211": {
-    "Id": 211,
-    "Attr": 4464,
-    "EffectId": [
-      29001211,
-      29002211,
-      29003211,
-      29004211
-    ],
-    "RecommendBuildRank": 22,
-    "RecommendLevel": 44
-  },
-  "212": {
-    "Id": 212,
-    "Attr": 4488,
-    "EffectId": [
-      29001212,
-      29002212,
-      29003212,
-      29004212
-    ],
-    "RecommendBuildRank": 22,
-    "RecommendLevel": 44
-  },
-  "213": {
-    "Id": 213,
-    "Attr": 4512,
-    "EffectId": [
-      29001213,
-      29002213,
-      29003213,
-      29004213
-    ],
-    "RecommendBuildRank": 22,
-    "RecommendLevel": 44
-  },
-  "214": {
-    "Id": 214,
-    "Attr": 4536,
-    "EffectId": [
-      29001214,
-      29002214,
-      29003214,
-      29004214
-    ],
-    "RecommendBuildRank": 22,
-    "RecommendLevel": 44
-  },
-  "215": {
-    "Id": 215,
-    "Attr": 4560,
-    "EffectId": [
-      29001215,
-      29002215,
-      29003215,
-      29004215
-    ],
-    "RecommendBuildRank": 22,
-    "RecommendLevel": 44
-  },
-  "216": {
-    "Id": 216,
-    "Attr": 4584,
-    "EffectId": [
-      29001216,
-      29002216,
-      29003216,
-      29004216
-    ],
-    "RecommendBuildRank": 22,
-    "RecommendLevel": 44
-  },
-  "217": {
-    "Id": 217,
-    "Attr": 4608,
-    "EffectId": [
-      29001217,
-      29002217,
-      29003217,
-      29004217
-    ],
-    "RecommendBuildRank": 22,
-    "RecommendLevel": 44
-  },
-  "218": {
-    "Id": 218,
-    "Attr": 4632,
-    "EffectId": [
-      29001218,
-      29002218,
-      29003218,
-      29004218
-    ],
-    "RecommendBuildRank": 22,
-    "RecommendLevel": 44
-  },
-  "219": {
-    "Id": 219,
-    "Attr": 4656,
-    "EffectId": [
-      29001219,
-      29002219,
-      29003219,
-      29004219
-    ],
-    "RecommendBuildRank": 22,
-    "RecommendLevel": 44
-  },
-  "220": {
-    "Id": 220,
-    "Attr": 4680,
-    "EffectId": [
-      29001220,
-      29002220,
-      29003220,
-      29004220
-    ],
-    "RecommendBuildRank": 23,
-    "RecommendLevel": 46
-  },
-  "221": {
-    "Id": 221,
-    "Attr": 4704,
-    "EffectId": [
-      29001221,
-      29002221,
-      29003221,
-      29004221
-    ],
-    "RecommendBuildRank": 23,
-    "RecommendLevel": 46
-  },
-  "222": {
-    "Id": 222,
-    "Attr": 4728,
-    "EffectId": [
-      29001222,
-      29002222,
-      29003222,
-      29004222
-    ],
-    "RecommendBuildRank": 23,
-    "RecommendLevel": 46
-  },
-  "223": {
-    "Id": 223,
-    "Attr": 4752,
-    "EffectId": [
-      29001223,
-      29002223,
-      29003223,
-      29004223
-    ],
-    "RecommendBuildRank": 23,
-    "RecommendLevel": 46
-  },
-  "224": {
-    "Id": 224,
-    "Attr": 4776,
-    "EffectId": [
-      29001224,
-      29002224,
-      29003224,
-      29004224
-    ],
-    "RecommendBuildRank": 23,
-    "RecommendLevel": 46
-  },
-  "225": {
-    "Id": 225,
-    "Attr": 4800,
-    "EffectId": [
-      29001225,
-      29002225,
-      29003225,
-      29004225
-    ],
-    "RecommendBuildRank": 23,
-    "RecommendLevel": 46
-  },
-  "226": {
-    "Id": 226,
-    "Attr": 4824,
-    "EffectId": [
-      29001226,
-      29002226,
-      29003226,
-      29004226
-    ],
-    "RecommendBuildRank": 23,
-    "RecommendLevel": 46
-  },
-  "227": {
-    "Id": 227,
-    "Attr": 4848,
-    "EffectId": [
-      29001227,
-      29002227,
-      29003227,
-      29004227
-    ],
-    "RecommendBuildRank": 23,
-    "RecommendLevel": 46
-  },
-  "228": {
-    "Id": 228,
-    "Attr": 4872,
-    "EffectId": [
-      29001228,
-      29002228,
-      29003228,
-      29004228
-    ],
-    "RecommendBuildRank": 23,
-    "RecommendLevel": 46
-  },
-  "229": {
-    "Id": 229,
-    "Attr": 4896,
-    "EffectId": [
-      29001229,
-      29002229,
-      29003229,
-      29004229
-    ],
-    "RecommendBuildRank": 23,
-    "RecommendLevel": 46
-  },
-  "230": {
-    "Id": 230,
-    "Attr": 4920,
-    "EffectId": [
-      29001230,
-      29002230,
-      29003230,
-      29004230
-    ],
-    "RecommendBuildRank": 24,
-    "RecommendLevel": 48
-  },
-  "231": {
-    "Id": 231,
-    "Attr": 4944,
-    "EffectId": [
-      29001231,
-      29002231,
-      29003231,
-      29004231
-    ],
-    "RecommendBuildRank": 24,
-    "RecommendLevel": 48
-  },
-  "232": {
-    "Id": 232,
-    "Attr": 4968,
-    "EffectId": [
-      29001232,
-      29002232,
-      29003232,
-      29004232
-    ],
-    "RecommendBuildRank": 24,
-    "RecommendLevel": 48
-  },
-  "233": {
-    "Id": 233,
-    "Attr": 4992,
-    "EffectId": [
-      29001233,
-      29002233,
-      29003233,
-      29004233
-    ],
-    "RecommendBuildRank": 24,
-    "RecommendLevel": 48
-  },
-  "234": {
-    "Id": 234,
-    "Attr": 5016,
-    "EffectId": [
-      29001234,
-      29002234,
-      29003234,
-      29004234
-    ],
-    "RecommendBuildRank": 24,
-    "RecommendLevel": 48
-  },
-  "235": {
-    "Id": 235,
-    "Attr": 5040,
-    "EffectId": [
-      29001235,
-      29002235,
-      29003235,
-      29004235
-    ],
-    "RecommendBuildRank": 24,
-    "RecommendLevel": 48
-  },
-  "236": {
-    "Id": 236,
-    "Attr": 5064,
-    "EffectId": [
-      29001236,
-      29002236,
-      29003236,
-      29004236
-    ],
-    "RecommendBuildRank": 24,
-    "RecommendLevel": 48
-  },
-  "237": {
-    "Id": 237,
-    "Attr": 5088,
-    "EffectId": [
-      29001237,
-      29002237,
-      29003237,
-      29004237
-    ],
-    "RecommendBuildRank": 24,
-    "RecommendLevel": 48
-  },
-  "238": {
-    "Id": 238,
-    "Attr": 5112,
-    "EffectId": [
-      29001238,
-      29002238,
-      29003238,
-      29004238
-    ],
-    "RecommendBuildRank": 24,
-    "RecommendLevel": 48
-  },
-  "239": {
-    "Id": 239,
-    "Attr": 5136,
-    "EffectId": [
-      29001239,
-      29002239,
-      29003239,
-      29004239
-    ],
-    "RecommendBuildRank": 24,
-    "RecommendLevel": 48
-  },
-  "240": {
-    "Id": 240,
-    "Attr": 5160,
-    "EffectId": [
-      29001240,
-      29002240,
-      29003240,
-      29004240
-    ],
-    "RecommendBuildRank": 25,
-    "RecommendLevel": 50
-  },
-  "241": {
-    "Id": 241,
-    "Attr": 5184,
-    "EffectId": [
-      29001241,
-      29002241,
-      29003241,
-      29004241
-    ],
-    "RecommendBuildRank": 25,
-    "RecommendLevel": 50
-  },
-  "242": {
-    "Id": 242,
-    "Attr": 5208,
-    "EffectId": [
-      29001242,
-      29002242,
-      29003242,
-      29004242
-    ],
-    "RecommendBuildRank": 25,
-    "RecommendLevel": 50
-  },
-  "243": {
-    "Id": 243,
-    "Attr": 5232,
-    "EffectId": [
-      29001243,
-      29002243,
-      29003243,
-      29004243
-    ],
-    "RecommendBuildRank": 25,
-    "RecommendLevel": 50
-  },
-  "244": {
-    "Id": 244,
-    "Attr": 5256,
-    "EffectId": [
-      29001244,
-      29002244,
-      29003244,
-      29004244
-    ],
-    "RecommendBuildRank": 25,
-    "RecommendLevel": 50
-  },
-  "245": {
-    "Id": 245,
-    "Attr": 5280,
-    "EffectId": [
-      29001245,
-      29002245,
-      29003245,
-      29004245
-    ],
-    "RecommendBuildRank": 25,
-    "RecommendLevel": 50
-  },
-  "246": {
-    "Id": 246,
-    "Attr": 5304,
-    "EffectId": [
-      29001246,
-      29002246,
-      29003246,
-      29004246
-    ],
-    "RecommendBuildRank": 25,
-    "RecommendLevel": 50
-  },
-  "247": {
-    "Id": 247,
-    "Attr": 5328,
-    "EffectId": [
-      29001247,
-      29002247,
-      29003247,
-      29004247
-    ],
-    "RecommendBuildRank": 25,
-    "RecommendLevel": 50
-  },
-  "248": {
-    "Id": 248,
-    "Attr": 5352,
-    "EffectId": [
-      29001248,
-      29002248,
-      29003248,
-      29004248
-    ],
-    "RecommendBuildRank": 25,
-    "RecommendLevel": 50
-  },
-  "249": {
-    "Id": 249,
-    "Attr": 5376,
-    "EffectId": [
-      29001249,
-      29002249,
-      29003249,
-      29004249
-    ],
-    "RecommendBuildRank": 25,
-    "RecommendLevel": 50
-  },
-  "250": {
-    "Id": 250,
-    "Attr": 5400,
-    "EffectId": [
-      29001250,
-      29002250,
-      29003250,
-      29004250
-    ],
-    "RecommendBuildRank": 26,
-    "RecommendLevel": 52
-  },
-  "251": {
-    "Id": 251,
-    "Attr": 5424,
-    "EffectId": [
-      29001251,
-      29002251,
-      29003251,
-      29004251
-    ],
-    "RecommendBuildRank": 26,
-    "RecommendLevel": 52
-  },
-  "252": {
-    "Id": 252,
-    "Attr": 5448,
-    "EffectId": [
-      29001252,
-      29002252,
-      29003252,
-      29004252
-    ],
-    "RecommendBuildRank": 26,
-    "RecommendLevel": 52
-  },
-  "253": {
-    "Id": 253,
-    "Attr": 5472,
-    "EffectId": [
-      29001253,
-      29002253,
-      29003253,
-      29004253
-    ],
-    "RecommendBuildRank": 26,
-    "RecommendLevel": 52
-  },
-  "254": {
-    "Id": 254,
-    "Attr": 5496,
-    "EffectId": [
-      29001254,
-      29002254,
-      29003254,
-      29004254
-    ],
-    "RecommendBuildRank": 26,
-    "RecommendLevel": 52
-  },
-  "255": {
-    "Id": 255,
-    "Attr": 5520,
-    "EffectId": [
-      29001255,
-      29002255,
-      29003255,
-      29004255
-    ],
-    "RecommendBuildRank": 26,
-    "RecommendLevel": 52
-  },
-  "256": {
-    "Id": 256,
-    "Attr": 5544,
-    "EffectId": [
-      29001256,
-      29002256,
-      29003256,
-      29004256
-    ],
-    "RecommendBuildRank": 26,
-    "RecommendLevel": 52
-  },
-  "257": {
-    "Id": 257,
-    "Attr": 5568,
-    "EffectId": [
-      29001257,
-      29002257,
-      29003257,
-      29004257
-    ],
-    "RecommendBuildRank": 26,
-    "RecommendLevel": 52
-  },
-  "258": {
-    "Id": 258,
-    "Attr": 5592,
-    "EffectId": [
-      29001258,
-      29002258,
-      29003258,
-      29004258
-    ],
-    "RecommendBuildRank": 26,
-    "RecommendLevel": 52
-  },
-  "259": {
-    "Id": 259,
-    "Attr": 5616,
-    "EffectId": [
-      29001259,
-      29002259,
-      29003259,
-      29004259
-    ],
-    "RecommendBuildRank": 26,
-    "RecommendLevel": 52
-  },
-  "260": {
-    "Id": 260,
-    "Attr": 5640,
-    "EffectId": [
-      29001260,
-      29002260,
-      29003260,
-      29004260
-    ],
-    "RecommendBuildRank": 27,
-    "RecommendLevel": 54
-  },
-  "261": {
-    "Id": 261,
-    "Attr": 5664,
-    "EffectId": [
-      29001261,
-      29002261,
-      29003261,
-      29004261
-    ],
-    "RecommendBuildRank": 27,
-    "RecommendLevel": 54
-  },
-  "262": {
-    "Id": 262,
-    "Attr": 5688,
-    "EffectId": [
-      29001262,
-      29002262,
-      29003262,
-      29004262
-    ],
-    "RecommendBuildRank": 27,
-    "RecommendLevel": 54
-  },
-  "263": {
-    "Id": 263,
-    "Attr": 5712,
-    "EffectId": [
-      29001263,
-      29002263,
-      29003263,
-      29004263
-    ],
-    "RecommendBuildRank": 27,
-    "RecommendLevel": 54
-  },
-  "264": {
-    "Id": 264,
-    "Attr": 5736,
-    "EffectId": [
-      29001264,
-      29002264,
-      29003264,
-      29004264
-    ],
-    "RecommendBuildRank": 27,
-    "RecommendLevel": 54
-  },
-  "265": {
-    "Id": 265,
-    "Attr": 5760,
-    "EffectId": [
-      29001265,
-      29002265,
-      29003265,
-      29004265
-    ],
-    "RecommendBuildRank": 27,
-    "RecommendLevel": 54
-  },
-  "266": {
-    "Id": 266,
-    "Attr": 5784,
-    "EffectId": [
-      29001266,
-      29002266,
-      29003266,
-      29004266
-    ],
-    "RecommendBuildRank": 27,
-    "RecommendLevel": 54
-  },
-  "267": {
-    "Id": 267,
-    "Attr": 5808,
-    "EffectId": [
-      29001267,
-      29002267,
-      29003267,
-      29004267
-    ],
-    "RecommendBuildRank": 27,
-    "RecommendLevel": 54
-  },
-  "268": {
-    "Id": 268,
-    "Attr": 5832,
-    "EffectId": [
-      29001268,
-      29002268,
-      29003268,
-      29004268
-    ],
-    "RecommendBuildRank": 27,
-    "RecommendLevel": 54
-  },
-  "269": {
-    "Id": 269,
-    "Attr": 5856,
-    "EffectId": [
-      29001269,
-      29002269,
-      29003269,
-      29004269
-    ],
-    "RecommendBuildRank": 27,
-    "RecommendLevel": 54
-  },
-  "270": {
-    "Id": 270,
-    "Attr": 5880,
-    "EffectId": [
-      29001270,
-      29002270,
-      29003270,
-      29004270
-    ],
-    "RecommendBuildRank": 28,
-    "RecommendLevel": 56
-  },
-  "271": {
-    "Id": 271,
-    "Attr": 5904,
-    "EffectId": [
-      29001271,
-      29002271,
-      29003271,
-      29004271
-    ],
-    "RecommendBuildRank": 28,
-    "RecommendLevel": 56
-  },
-  "272": {
-    "Id": 272,
-    "Attr": 5928,
-    "EffectId": [
-      29001272,
-      29002272,
-      29003272,
-      29004272
-    ],
-    "RecommendBuildRank": 28,
-    "RecommendLevel": 56
-  },
-  "273": {
-    "Id": 273,
-    "Attr": 5952,
-    "EffectId": [
-      29001273,
-      29002273,
-      29003273,
-      29004273
-    ],
-    "RecommendBuildRank": 28,
-    "RecommendLevel": 56
-  },
-  "274": {
-    "Id": 274,
-    "Attr": 5976,
-    "EffectId": [
-      29001274,
-      29002274,
-      29003274,
-      29004274
-    ],
-    "RecommendBuildRank": 28,
-    "RecommendLevel": 56
-  },
-  "275": {
-    "Id": 275,
-    "Attr": 6000,
-    "EffectId": [
-      29001275,
-      29002275,
-      29003275,
-      29004275
-    ],
-    "RecommendBuildRank": 28,
-    "RecommendLevel": 56
-  },
-  "276": {
-    "Id": 276,
-    "Attr": 6024,
-    "EffectId": [
-      29001276,
-      29002276,
-      29003276,
-      29004276
-    ],
-    "RecommendBuildRank": 28,
-    "RecommendLevel": 56
-  },
-  "277": {
-    "Id": 277,
-    "Attr": 6048,
-    "EffectId": [
-      29001277,
-      29002277,
-      29003277,
-      29004277
-    ],
-    "RecommendBuildRank": 28,
-    "RecommendLevel": 56
-  },
-  "278": {
-    "Id": 278,
-    "Attr": 6072,
-    "EffectId": [
-      29001278,
-      29002278,
-      29003278,
-      29004278
-    ],
-    "RecommendBuildRank": 28,
-    "RecommendLevel": 56
-  },
-  "279": {
-    "Id": 279,
-    "Attr": 6096,
-    "EffectId": [
-      29001279,
-      29002279,
-      29003279,
-      29004279
-    ],
-    "RecommendBuildRank": 28,
-    "RecommendLevel": 56
-  },
-  "280": {
-    "Id": 280,
-    "Attr": 6120,
-    "EffectId": [
-      29001280,
-      29002280,
-      29003280,
-      29004280
-    ],
-    "RecommendBuildRank": 29,
-    "RecommendLevel": 58
-  },
-  "281": {
-    "Id": 281,
-    "Attr": 6144,
-    "EffectId": [
-      29001281,
-      29002281,
-      29003281,
-      29004281
-    ],
-    "RecommendBuildRank": 29,
-    "RecommendLevel": 58
-  },
-  "282": {
-    "Id": 282,
-    "Attr": 6168,
-    "EffectId": [
-      29001282,
-      29002282,
-      29003282,
-      29004282
-    ],
-    "RecommendBuildRank": 29,
-    "RecommendLevel": 58
-  },
-  "283": {
-    "Id": 283,
-    "Attr": 6192,
-    "EffectId": [
-      29001283,
-      29002283,
-      29003283,
-      29004283
-    ],
-    "RecommendBuildRank": 29,
-    "RecommendLevel": 58
-  },
-  "284": {
-    "Id": 284,
-    "Attr": 6216,
-    "EffectId": [
-      29001284,
-      29002284,
-      29003284,
-      29004284
-    ],
-    "RecommendBuildRank": 29,
-    "RecommendLevel": 58
-  },
-  "285": {
-    "Id": 285,
-    "Attr": 6240,
-    "EffectId": [
-      29001285,
-      29002285,
-      29003285,
-      29004285
-    ],
-    "RecommendBuildRank": 29,
-    "RecommendLevel": 58
-  },
-  "286": {
-    "Id": 286,
-    "Attr": 6264,
-    "EffectId": [
-      29001286,
-      29002286,
-      29003286,
-      29004286
-    ],
-    "RecommendBuildRank": 29,
-    "RecommendLevel": 58
-  },
-  "287": {
-    "Id": 287,
-    "Attr": 6288,
-    "EffectId": [
-      29001287,
-      29002287,
-      29003287,
-      29004287
-    ],
-    "RecommendBuildRank": 29,
-    "RecommendLevel": 58
-  },
-  "288": {
-    "Id": 288,
-    "Attr": 6312,
-    "EffectId": [
-      29001288,
-      29002288,
-      29003288,
-      29004288
-    ],
-    "RecommendBuildRank": 29,
-    "RecommendLevel": 58
-  },
-  "289": {
-    "Id": 289,
-    "Attr": 6336,
-    "EffectId": [
-      29001289,
-      29002289,
-      29003289,
-      29004289
-    ],
-    "RecommendBuildRank": 29,
-    "RecommendLevel": 58
-  },
-  "290": {
-    "Id": 290,
-    "Attr": 6360,
-    "EffectId": [
-      29001290,
-      29002290,
-      29003290,
-      29004290
-    ],
-    "RecommendBuildRank": 30,
-    "RecommendLevel": 60
-  },
-  "291": {
-    "Id": 291,
-    "Attr": 6384,
-    "EffectId": [
-      29001291,
-      29002291,
-      29003291,
-      29004291
-    ],
-    "RecommendBuildRank": 30,
-    "RecommendLevel": 60
-  },
-  "292": {
-    "Id": 292,
-    "Attr": 6408,
-    "EffectId": [
-      29001292,
-      29002292,
-      29003292,
-      29004292
-    ],
-    "RecommendBuildRank": 30,
-    "RecommendLevel": 60
-  },
-  "293": {
-    "Id": 293,
-    "Attr": 6432,
-    "EffectId": [
-      29001293,
-      29002293,
-      29003293,
-      29004293
-    ],
-    "RecommendBuildRank": 30,
-    "RecommendLevel": 60
-  },
-  "294": {
-    "Id": 294,
-    "Attr": 6456,
-    "EffectId": [
-      29001294,
-      29002294,
-      29003294,
-      29004294
-    ],
-    "RecommendBuildRank": 30,
-    "RecommendLevel": 60
-  },
-  "295": {
-    "Id": 295,
-    "Attr": 6480,
-    "EffectId": [
-      29001295,
-      29002295,
-      29003295,
-      29004295
-    ],
-    "RecommendBuildRank": 30,
-    "RecommendLevel": 60
-  },
-  "296": {
-    "Id": 296,
-    "Attr": 6504,
-    "EffectId": [
-      29001296,
-      29002296,
-      29003296,
-      29004296
-    ],
-    "RecommendBuildRank": 30,
-    "RecommendLevel": 60
-  },
-  "297": {
-    "Id": 297,
-    "Attr": 6528,
-    "EffectId": [
-      29001297,
-      29002297,
-      29003297,
-      29004297
-    ],
-    "RecommendBuildRank": 30,
-    "RecommendLevel": 60
-  },
-  "298": {
-    "Id": 298,
-    "Attr": 6552,
-    "EffectId": [
-      29001298,
-      29002298,
-      29003298,
-      29004298
-    ],
-    "RecommendBuildRank": 30,
-    "RecommendLevel": 60
-  },
-  "299": {
-    "Id": 299,
-    "Attr": 6576,
-    "EffectId": [
-      29001299,
-      29002299,
-      29003299,
-      29004299
-    ],
-    "RecommendBuildRank": 30,
-    "RecommendLevel": 60
-  },
-  "300": {
-    "Id": 300,
-    "Attr": 6600,
-    "EffectId": [
-      29001300,
-      29002300,
-      29003300,
-      29004300
-    ],
-    "RecommendBuildRank": 31,
-    "RecommendLevel": 62
   }
 }
