@@ -616,7 +616,7 @@
     },
     "510813": {
       "name": "引火燒身",
-      "briefDesc": "絕招可觸發火系印記：聖焰，觸發時提升攻擊。",
+      "briefDesc": "絕招可觸發火系印記：聖焰，產生「超燃」。觸發時提升攻擊。",
       "type": "main",
       "rarity": 1,
       "imgId": "Common_Potential_Fire_1",
@@ -1354,7 +1354,7 @@
     },
     "511210": {
       "name": "飛沙破石",
-      "briefDesc": "塵沙對同一目標造成傷害時，提升普攻傷害。",
+      "briefDesc": "塵沙對同一目標造成傷害時，提升對其造成的普攻傷害。",
       "type": "main",
       "rarity": 1,
       "imgId": "Common_Potential_4",
@@ -1422,7 +1422,7 @@
     },
     "511225": {
       "name": "蝕風驟裂",
-      "briefDesc": "大劍氣對附帶風系印記：風息的目標，提升技能傷害。",
+      "briefDesc": "提升大劍氣對附帶風系印記：風息的目標造成的技能傷害。",
       "type": "support",
       "rarity": 1,
       "imgId": "11201_Potential_21",
@@ -1431,7 +1431,7 @@
     },
     "511226": {
       "name": "環風聚刃",
-      "briefDesc": "大劍氣的攻擊範圍擴大且技能傷害提升。",
+      "briefDesc": "大劍氣的攻擊範圍擴大且造成的技能傷害提升。",
       "type": "support",
       "rarity": 2,
       "imgId": "11201_Potential_21",
@@ -1440,7 +1440,7 @@
     },
     "511227": {
       "name": "逆風葉障",
-      "briefDesc": "提升大劍氣傷害，並降低目標移速。",
+      "briefDesc": "提升大劍氣造成的技能傷害，並降低目標移速。",
       "type": "support",
       "rarity": 2,
       "imgId": "11201_Potential_21",
@@ -1449,7 +1449,7 @@
     },
     "511228": {
       "name": "群風薈萃",
-      "briefDesc": "小劍氣可觸發風系印記：風息，提升傷害。",
+      "briefDesc": "小劍氣可觸發風系印記：風息，提升造成的技能傷害。",
       "type": "support",
       "rarity": 2,
       "imgId": "Common_Potential_Wind_1",
@@ -1458,7 +1458,7 @@
     },
     "511229": {
       "name": "迅風連舞",
-      "briefDesc": "提升援護技的傷害，提升小劍氣發射速度。",
+      "briefDesc": "提升援護技造成的技能傷害，提升小劍氣發射速度。",
       "type": "support",
       "rarity": 1,
       "imgId": "Common_Potential_01",
@@ -1485,7 +1485,7 @@
     },
     "511232": {
       "name": "破韌環流",
-      "briefDesc": "援護技對菁英以上目標提升傷害。",
+      "briefDesc": "援護技對菁英以上目標提升造成的技能傷害。",
       "type": "support",
       "rarity": 2,
       "imgId": "11201_Potential_24",
@@ -1540,7 +1540,7 @@
     },
     "511302": {
       "name": "碧浪迴旋",
-      "briefDesc": "技能變成發射水刃，對菁英以上目標傷害提升。",
+      "briefDesc": "技能變成發射水刃，對菁英以上目標造成的技能傷害提升。",
       "type": "main",
       "rarity": 0,
       "imgId": "11301_Potential_02",
@@ -1582,7 +1582,7 @@
     },
     "511307": {
       "name": "銀瀑流霞",
-      "briefDesc": "「二式」對寒冷或冰凍目標的傷害提升，目標生命值越低傷害越高。",
+      "briefDesc": "「二式」對寒冷或冰凍目標造成的技能傷害提升，目標生命值越低傷害越高。",
       "type": "main",
       "rarity": 2,
       "imgId": "11301_Potential_02",
@@ -1627,7 +1627,7 @@
     },
     "511312": {
       "name": "海浪滔天",
-      "briefDesc": "師渺普攻對寒冷或冰凍目標造成傷害時，提升攻擊速度和普攻傷害。",
+      "briefDesc": "師渺普攻對附帶寒冷或冰凍目標造成傷害時，提升攻擊速度和普攻傷害。",
       "type": "main",
       "rarity": 2,
       "imgId": "11301_Potential_03",
@@ -1669,7 +1669,7 @@
     },
     "511324": {
       "name": "雨意·霏",
-      "briefDesc": "援護技持續期間，可跟隨主控角色戰鬥，週期性提升水劍傷害。",
+      "briefDesc": "援護技持續期間，可跟隨主控角色戰鬥，週期性提升水劍造成的技能傷害。",
       "type": "support",
       "rarity": 0,
       "imgId": "11301_Potential_24",
@@ -1686,7 +1686,7 @@
     },
     "511326": {
       "name": "萬全準備",
-      "briefDesc": "援護技「仗劍登瀑」可附加減速，傷害提升。",
+      "briefDesc": "援護技「仗劍登瀑」可附加減速，造成的技能傷害提升。",
       "type": "support",
       "rarity": 2,
       "imgId": "11301_Potential_23",
@@ -1758,7 +1758,7 @@
     },
     "511341": {
       "name": "吟詠",
-      "briefDesc": "提升絕招橫掃的傷害範圍。提升對附帶水系印記：水流、寒冷或冰凍目標的絕招傷害。",
+      "briefDesc": "提升絕招橫掃的傷害範圍。提升對附帶水系印記：水流、寒冷或冰凍目標造成的絕招傷害。",
       "type": "common",
       "rarity": 2,
       "imgId": "11301_Potential_41",
@@ -1767,7 +1767,7 @@
     },
     "511342": {
       "name": "凌波",
-      "briefDesc": "絕招對寒冷或冰凍目標的傷害提升，目標生命值越低傷害越高。",
+      "briefDesc": "絕招對寒冷或冰凍目標造成的絕招傷害提升，目標生命值越低傷害越高。",
       "type": "common",
       "rarity": 2,
       "imgId": "Common_Potential_4",
@@ -1819,7 +1819,7 @@
     },
     "511605": {
       "name": "增生枝條",
-      "briefDesc": "提升主控技傷害和種子傷害範圍。",
+      "briefDesc": "提升嶺川技能傷害和種子傷害範圍。",
       "type": "main",
       "rarity": 2,
       "imgId": "11601_Potential_01",
@@ -1828,7 +1828,7 @@
     },
     "511606": {
       "name": "纏繞根鬚",
-      "briefDesc": "種子附加的移速降低效果可疊加，達到最大層數時，提升目標受到的嶺川傷害。",
+      "briefDesc": "種子附加的移速降低效果可疊加，達到最大層數時，目標受到嶺川造成的地系傷害提升。",
       "type": "main",
       "rarity": 2,
       "imgId": "11601_Potential_02",
@@ -1837,7 +1837,7 @@
     },
     "511607": {
       "name": "雙生出芽",
-      "briefDesc": "提升主控技傷害。 主控技和麥豆射手有一定機率額外抛出種子。",
+      "briefDesc": "提升嶺川技能傷害。 主控技和麥豆射手有一定機率額外抛出種子。",
       "type": "main",
       "rarity": 1,
       "imgId": "11601_Potential_02",
@@ -1908,7 +1908,7 @@
     },
     "511622": {
       "name": "草動風吹",
-      "briefDesc": "提升援護技種子雨的傷害，縮短種子雨傷害間隔時間。",
+      "briefDesc": "提升援護技種子雨造成的地系傷害，縮短種子雨傷害間隔時間。",
       "type": "support",
       "rarity": 0,
       "imgId": "11601_Potential_22",
@@ -1916,7 +1916,7 @@
     },
     "511623": {
       "name": "揠苗助長",
-      "briefDesc": "「種球」持續時間延長，傷害提升，可附加地系印記：地脈。",
+      "briefDesc": "「種球」持續時間延長，造成的技能傷害提升，可附加地系印記：地脈。",
       "type": "support",
       "rarity": 0,
       "imgId": "11601_Potential_23",
@@ -1924,7 +1924,7 @@
     },
     "511624": {
       "name": "移花接木",
-      "briefDesc": "提升「種球」傷害和爆炸範圍，「種球」的傷害可再次觸發「種球」。",
+      "briefDesc": "提升「種球」造成的技能傷害和爆炸範圍，「種球」的傷害可再次觸發「種球」。",
       "type": "support",
       "rarity": 0,
       "imgId": "11601_Potential_24",
@@ -1950,7 +1950,7 @@
     },
     "511627": {
       "name": "落英繽紛",
-      "briefDesc": "提升援護技的種子雨傷害和範圍。",
+      "briefDesc": "提升援護技種子雨造成的技能傷害和範圍。",
       "type": "support",
       "rarity": 1,
       "imgId": "11601_Potential_21",
@@ -1959,7 +1959,7 @@
     },
     "511628": {
       "name": "苗壯根深",
-      "briefDesc": "提升嶺川對附加「種球」的目標造成的傷害。",
+      "briefDesc": "嶺川對附帶「種球」的目標造成的地系傷害提升。",
       "type": "support",
       "rarity": 2,
       "imgId": "11601_Potential_23",
@@ -1977,7 +1977,7 @@
     },
     "511630": {
       "name": "爆裂毬果",
-      "briefDesc": "提升「種球」傷害。 「種球」造成傷害時，向最近的目標彈射種子。",
+      "briefDesc": "提升「種球」造成的技能傷害。 「種球」造成傷害時，向最近的目標彈射種子。",
       "type": "support",
       "rarity": 1,
       "imgId": "11601_Potential_24",
@@ -2050,7 +2050,7 @@
     },
     "511702": {
       "name": "儲能·結",
-      "briefDesc": "施放主控技後，提升下次技能傷害。",
+      "briefDesc": "施放主控技後，提升下一次主控技的傷害。",
       "type": "main",
       "rarity": 0,
       "imgId": "11701_Potential_02",
@@ -2128,7 +2128,7 @@
     },
     "511711": {
       "name": "漏電防護",
-      "briefDesc": "絕招可觸發光系印記：光明，觸發時提升攻擊。",
+      "briefDesc": "絕招可觸發光系印記：光明，產生「落雷」，觸發時提升攻擊。",
       "type": "main",
       "rarity": 2,
       "imgId": "Common_Potential_Light_1",
@@ -2250,7 +2250,7 @@
     },
     "511732": {
       "name": "小小店長",
-      "briefDesc": "提升技能傷害。",
+      "briefDesc": "提升璟麟的技能傷害。",
       "type": "support",
       "rarity": 2,
       "imgId": "Common_Potential_11",
@@ -2286,7 +2286,7 @@
     },
     "511743": {
       "name": "四靈之瑞",
-      "briefDesc": "「雷電麒麟」命中附帶光系印記：光明的目標時，提升攻擊。",
+      "briefDesc": "「雷電麒麟」命中附帶光系印記：光明的目標時，提升璟麟攻擊。",
       "type": "common",
       "rarity": 2,
       "imgId": "11701_Potential_41",
@@ -2313,7 +2313,7 @@
     },
     "511803": {
       "name": "影潛侵襲",
-      "briefDesc": "施放主控技獲得「冥能」。普攻消耗「冥能」發射「鐮影」。",
+      "briefDesc": "施放主控技獲得冥能。普攻可消耗冥能發射「鐮影」。",
       "type": "main",
       "rarity": 0,
       "imgId": "11801_Potential_03",
@@ -2321,7 +2321,7 @@
     },
     "511804": {
       "name": "影刃幻動",
-      "briefDesc": "施放普攻最後一段獲得「冥能」。普攻消耗「冥能」發射「鐮影」。",
+      "briefDesc": "施放普攻最後一段獲得冥能。普攻可消耗冥能發射「鐮影」。",
       "type": "main",
       "rarity": 0,
       "imgId": "11801_Potential_04",
@@ -2611,7 +2611,7 @@
     },
     "511908": {
       "name": "遙遠祈福",
-      "briefDesc": "向日葵飛鏢離花原越遠，造成的傷害越高。",
+      "briefDesc": "向日葵飛鏢離花原越遠，造成的技能傷害越高。",
       "type": "main",
       "rarity": 2,
       "imgId": "11901_Potential_03",
@@ -2697,7 +2697,7 @@
     },
     "511925": {
       "name": "小心栽培",
-      "briefDesc": "提升援護技對生命值較高的目標造成的傷害。",
+      "briefDesc": "提升援護技對生命值較高的目標造成的技能傷害。",
       "type": "support",
       "rarity": 2,
       "imgId": "11901_Potential_21",
@@ -2724,7 +2724,7 @@
     },
     "511928": {
       "name": "重點關照",
-      "briefDesc": "提升援護技對菁英以上目標造成的傷害。",
+      "briefDesc": "提升援護技對菁英以上目標造成的技能傷害。",
       "type": "support",
       "rarity": 2,
       "imgId": "11901_Potential_23",
@@ -2760,7 +2760,7 @@
     },
     "511932": {
       "name": "溫柔陷阱",
-      "briefDesc": "任意角色能量全滿時，提升花原援護技傷害。",
+      "briefDesc": "任意角色能量全滿時，提升花原援護技造成的技能傷害。",
       "type": "support",
       "rarity": 2,
       "imgId": "11901_Potential_24",
@@ -2778,7 +2778,7 @@
     },
     "511941": {
       "name": "花影詩",
-      "briefDesc": "分身可跟隨主控角色戰鬥，並提升分身造成的傷害。",
+      "briefDesc": "分身可跟隨主控角色戰鬥，並提升分身的攻擊。",
       "type": "common",
       "rarity": 2,
       "imgId": "Common_Potential_01",
@@ -2875,7 +2875,7 @@
     },
     "512009": {
       "name": "獨門教義",
-      "briefDesc": "卡娜絲提升觸發風系印記：風息的傷害。",
+      "briefDesc": "提升卡娜絲觸發風系印記：風息的傷害。",
       "type": "main",
       "rarity": 2,
       "imgId": "12001_Potential_03",
@@ -2920,7 +2920,7 @@
     },
     "512021": {
       "name": "授予高效的鑽研",
-      "briefDesc": "縮短「花環」的傷害間隔時間。 提升「花環」的傷害。",
+      "briefDesc": "「花環」的傷害間隔時間縮短，且造成的技能傷害提升。",
       "type": "support",
       "rarity": 0,
       "imgId": "12001_Potential_21",
@@ -2928,7 +2928,7 @@
     },
     "512022": {
       "name": "授予質變的結論",
-      "briefDesc": "提升「花環」範圍和傷害。",
+      "briefDesc": "提升「花環」範圍和造成的技能傷害。",
       "type": "support",
       "rarity": 0,
       "imgId": "12001_Potential_22",
@@ -2944,7 +2944,7 @@
     },
     "512024": {
       "name": "授予綻放的美學",
-      "briefDesc": "「花環」以主控角色為中心，每環繞1圈可造成傷害。",
+      "briefDesc": "「花環」以主控角色為中心，每環繞1圈可造成傷害,並附加風系印記：風息。",
       "type": "support",
       "rarity": 0,
       "imgId": "12001_Potential_24",
@@ -2961,7 +2961,7 @@
     },
     "512026": {
       "name": "難題攻堅",
-      "briefDesc": "「花環」對菁英以上目標的傷害提升，可擊退更強大的目標。",
+      "briefDesc": "「花環」對菁英以上目標造成的技能傷害提升，可擊退更強大的目標。",
       "type": "support",
       "rarity": 2,
       "imgId": "12001_Potential_22",
@@ -2970,7 +2970,7 @@
     },
     "512027": {
       "name": "結論剖析",
-      "briefDesc": "「花環」傷害提升，擊破韌性時提升目標的受到的風系傷害。",
+      "briefDesc": "「花環」造成的技能傷害提升，擊破韌性時提升目標的受到的風系傷害。",
       "type": "support",
       "rarity": 1,
       "imgId": "12001_Potential_22",
@@ -2988,7 +2988,7 @@
     },
     "512029": {
       "name": "氣旋加速",
-      "briefDesc": "「花環」每環繞1圈，可提升其後續的技能傷害。",
+      "briefDesc": "「花環」每環繞1圈，可提升其後續造成的技能傷害。",
       "type": "support",
       "rarity": 1,
       "imgId": "12001_Potential_23",
@@ -3062,7 +3062,7 @@
   "123": {
     "512301": {
       "name": "風之吐息",
-      "briefDesc": "如果「泡泡」在場，杏子造成傷害時也能產生「風爆」。產生「風爆」時，將提升全隊的印記傷害。",
+      "briefDesc": "如果泡泡在場，杏子造成傷害時也能產生「風爆」。產生「風爆」時，將提升全隊印記傷害。",
       "type": "main",
       "rarity": 0,
       "imgId": "12301_Potential_01",
@@ -3078,7 +3078,7 @@
     },
     "512303": {
       "name": "炫光漩渦",
-      "briefDesc": "召喚「泡泡」後，「泡泡」能發射雷射光。",
+      "briefDesc": "召喚泡泡後，泡泡一定時間內能發射雷射光。",
       "type": "main",
       "rarity": 0,
       "imgId": "12301_Potential_03",
@@ -3086,7 +3086,7 @@
     },
     "512304": {
       "name": "盛大登場",
-      "briefDesc": "召喚「泡泡」時，可提升隊友的印記傷害。隊友觸發風系印記時，「泡泡」可額外發射雷射光。",
+      "briefDesc": "召喚泡泡時，可提升隊友的印記傷害。隊友觸發風系印記時，泡泡可額外發射雷射光。",
       "type": "main",
       "rarity": 0,
       "imgId": "12301_Potential_04",
@@ -3103,7 +3103,7 @@
     },
     "512306": {
       "name": "循風勇氣",
-      "briefDesc": "「泡泡」在場時，提升杏子的防禦和攻擊速度。",
+      "briefDesc": "泡泡在場時，提升杏子的防禦和攻擊速度。",
       "type": "main",
       "rarity": 1,
       "imgId": "12301_Potential_01",
@@ -3121,7 +3121,7 @@
     },
     "512308": {
       "name": "凌風勢起",
-      "briefDesc": "隊友施放援護技時，提升隨機隊友和「泡泡」的攻擊。",
+      "briefDesc": "隊友施放援護技時，提升隨機隊友和泡泡的攻擊。",
       "type": "main",
       "rarity": 1,
       "imgId": "12301_Potential_03",
@@ -3261,7 +3261,7 @@
     },
     "512331": {
       "name": "暴風斥退",
-      "briefDesc": "提升援護技的傷害。",
+      "briefDesc": "提升援護技造成的技能傷害。",
       "type": "support",
       "rarity": 2,
       "imgId": "12301_Potential_24",
@@ -3543,7 +3543,7 @@
     },
     "512541": {
       "name": "冰蝕漩渦",
-      "briefDesc": "絕招每命中一個目標，提升本次狂化狀態下的暴擊傷害。",
+      "briefDesc": "提升絕招傷害，絕招每命中一個目標，提升本次狂化狀態下的暴擊傷害。",
       "type": "common",
       "rarity": 2,
       "imgId": "12501_Potential_41",
@@ -3827,7 +3827,7 @@
   "127": {
     "512701": {
       "name": "潺流·瀑擊",
-      "briefDesc": "技能傷害提升，額外產生波浪。",
+      "briefDesc": "技能傷害提升，額外產生波浪，可附加水系印記：水流。",
       "type": "main",
       "rarity": 0,
       "imgId": "12701_Potential_01",
@@ -3948,7 +3948,7 @@
     },
     "512722": {
       "name": "絕湧·漣漪",
-      "briefDesc": "「湧盾」持續期間，主控角色造成傷害時會產生波浪。",
+      "briefDesc": "「湧盾」持續期間，主控角色造成傷害時會產生波浪，可附加水系印記：水流。",
       "type": "support",
       "rarity": 0,
       "imgId": "12701_Potential_22",
@@ -3964,7 +3964,7 @@
     },
     "512724": {
       "name": "絕湧·快霆",
-      "briefDesc": "提升「浪域」傷害，可持續擊退目標。",
+      "briefDesc": "提升「浪域」傷害倍率，可持續擊退目標。",
       "type": "support",
       "rarity": 0,
       "imgId": "12701_Potential_24",
@@ -4071,7 +4071,7 @@
     },
     "512743": {
       "name": "魔性之噬",
-      "briefDesc": "絕招對水系印記：水流#/寒冷/冰凍目標造成的傷害提升。",
+      "briefDesc": "絕招對水系印記：水流/寒冷/冰凍目標造成的絕招傷害提升。",
       "type": "common",
       "rarity": 2,
       "imgId": "12701_Potential_41",
@@ -4141,7 +4141,7 @@
     },
     "513008": {
       "name": "潮湧奔流",
-      "briefDesc": "擴大「宣傳人偶」的傷害範圍和僕從傷害。",
+      "briefDesc": "提升「宣傳人偶」的傷害範圍和僕從傷害。",
       "type": "main",
       "rarity": 2,
       "imgId": "13001_Potential_03",
@@ -4345,7 +4345,7 @@
     },
     "513202": {
       "name": "街鬥藝術",
-      "briefDesc": "「勝！爆星連打」觸發光系印記時，強化「二壘安打」。",
+      "briefDesc": "主控技觸發光系印記後，強化「二壘安打」。",
       "type": "main",
       "rarity": 0,
       "imgId": "13201_Potential_02",
@@ -4353,7 +4353,7 @@
     },
     "513203": {
       "name": "板尖妙用",
-      "briefDesc": "提升技能傷害，觸發印記時，目標受到的技能傷害提升。",
+      "briefDesc": "提升主控技的傷害，觸發印記時，目標受到的技能傷害提升。",
       "type": "main",
       "rarity": 0,
       "imgId": "13201_Potential_03",
@@ -4414,7 +4414,7 @@
     },
     "513210": {
       "name": "星雲殘響",
-      "briefDesc": "絕招可觸發光系印記。施放絕招後，提升技能傷害。",
+      "briefDesc": "絕招可觸發光系印記，產生「落雷」。施放絕招後，提升技能傷害。",
       "type": "main",
       "rarity": 2,
       "imgId": "Common_Potential_Light_1",
@@ -4482,7 +4482,7 @@
     },
     "513225": {
       "name": "好球區域",
-      "briefDesc": "對附帶「星芒」目標造成的技能傷害提升。",
+      "briefDesc": "密涅瓦對附帶「星芒」目標造成的技能傷害提升。",
       "type": "support",
       "rarity": 2,
       "imgId": "13201_Potential_21",
@@ -4746,7 +4746,7 @@
     },
     "513326": {
       "name": "芳華·滅盡",
-      "briefDesc": "「花瓣」傷害提升，有一定機率立即消滅普通目標。",
+      "briefDesc": "「花瓣」造成的技能傷害提升，有一定機率立即消滅普通目標。",
       "type": "support",
       "rarity": 2,
       "imgId": "13301_Potential_21",
@@ -4755,7 +4755,7 @@
     },
     "513327": {
       "name": "芳華·盛放",
-      "briefDesc": "「花瓣」傷害提升。 每產生1片「花瓣」，提升夏花風系傷害。",
+      "briefDesc": "「花瓣」造成的技能傷害提升。 每產生1片「花瓣」，提升夏花風系傷害。",
       "type": "support",
       "rarity": 1,
       "imgId": "13301_Potential_21",
@@ -4764,7 +4764,7 @@
     },
     "513328": {
       "name": "花海·薈萃",
-      "briefDesc": "「花海」傷害提升，「花海」範圍內有3個及以上的目標時，傷害額外提升。",
+      "briefDesc": "「花海」造成的技能傷害提升，「花海」範圍內有3個以上的目標時，傷害額外提升。",
       "type": "support",
       "rarity": 2,
       "imgId": "13301_Potential_23",
@@ -4818,7 +4818,7 @@
     },
     "513341": {
       "name": "多重颶風",
-      "briefDesc": "提升絕招傷害和龍捲風數量。",
+      "briefDesc": "提升夏花絕招傷害和絕招中龍捲風數量。",
       "type": "common",
       "rarity": 2,
       "imgId": "13301_Potential_41",
@@ -4836,7 +4836,7 @@
     },
     "513343": {
       "name": "龍捲渦流",
-      "briefDesc": "提升絕招傷害，造成傷害時，提升目標的受到的風系傷害。",
+      "briefDesc": "提升夏花絕招傷害，絕招造成傷害時，提升目標的受到的風系傷害。",
       "type": "common",
       "rarity": 2,
       "imgId": "13301_Potential_41",
@@ -5256,7 +5256,7 @@
     },
     "513526": {
       "name": "凶靈",
-      "briefDesc": "提升「提燈影靈」的僕從傷害。",
+      "briefDesc": "提升「提燈影靈」僕從傷害。",
       "type": "support",
       "rarity": 2,
       "imgId": "13501_Potential_22",
@@ -5443,7 +5443,7 @@
     },
     "514111": {
       "name": "揮毫焚墨",
-      "briefDesc": "絕招可觸發火系印記；每次觸發提升攻擊力。",
+      "briefDesc": "絕招可觸發火系印記，產生「超燃」；每次觸發提升攻擊力。",
       "type": "main",
       "rarity": 2,
       "imgId": "Common_Potential_11",
@@ -5470,7 +5470,7 @@
     },
     "514121": {
       "name": "赤龍·遊聚",
-      "briefDesc": "提升「赤龍」攻擊力和召喚數量。",
+      "briefDesc": "提升「赤龍」的僕從傷害和召喚數量。",
       "type": "support",
       "rarity": 0,
       "imgId": "14101_Potential_21",
@@ -5486,7 +5486,7 @@
     },
     "514123": {
       "name": "符啟·寅虎",
-      "briefDesc": "「赤龍」強化為「寅虎」。",
+      "briefDesc": "「赤龍」強化為「寅虎」。 「寅虎」造成傷害可附加火系印記：聖焰。",
       "type": "support",
       "rarity": 0,
       "imgId": "14101_Potential_23",
@@ -5908,7 +5908,7 @@
     },
     "514306": {
       "name": "與刃共舞",
-      "briefDesc": "提升主控技斬擊造成的傷害。提升風影的普攻傷害。",
+      "briefDesc": "提升主控技斬擊造成的技能傷害。提升風影的普攻傷害。",
       "type": "main",
       "rarity": 2,
       "imgId": "14301_Potential_01",
@@ -6154,7 +6154,7 @@
     },
     "514405": {
       "name": "漱影落振",
-      "briefDesc": "增加千都世的閃避次數，並提升普攻傷害，施放主控技或閃避後可直接施放最後一段普攻。",
+      "briefDesc": "提升千都世的閃避次數和普攻傷害，施放主控技或閃避後可直接施放最後一段普攻。最後一段普攻造成傷害時，獲得「鋒決」：提升千都世部分普攻造成的水系傷害。",
       "type": "main",
       "rarity": 2,
       "imgId": "14401_Potential_02",
@@ -6163,7 +6163,7 @@
     },
     "514406": {
       "name": "亭亭翩舞",
-      "briefDesc": "「騰蛇」造成傷害時，提升普攻傷害。",
+      "briefDesc": "「騰蛇」造成傷害時，提升普攻傷害。同時提升最後一段普攻的水系傷害，施放最後一段普攻後立即清除此增益。",
       "type": "main",
       "rarity": 2,
       "imgId": "14401_Potential_01",
@@ -6190,7 +6190,7 @@
     },
     "514409": {
       "name": "鏡水歸潮",
-      "briefDesc": "提升千都世的技能傷害。 「瀧閃·鱗」消滅目標後，下次「瀧閃」變成「瀧閃·鱗」。",
+      "briefDesc": "提升千都世技能傷害。 「瀧閃·鱗」消滅目標或對菁英以上目標造成傷害時，下次「瀧閃」變成「瀧閃·鱗」。",
       "type": "main",
       "rarity": 2,
       "imgId": "14401_Potential_03",
@@ -6217,7 +6217,7 @@
     },
     "514412": {
       "name": "堅鱗護體",
-      "briefDesc": "提升千都世的攻擊。受擊時，額外提升千都世的攻擊。",
+      "briefDesc": "提升千都世攻擊。受擊或施放主控技時，額外提升千都世攻擊。",
       "type": "main",
       "rarity": 2,
       "imgId": "Common_Potential_4",
@@ -6276,7 +6276,7 @@
     },
     "514426": {
       "name": "雨織刀歌",
-      "briefDesc": "援護技每進行一次高速連斬，提升高速連斬的傷害。",
+      "briefDesc": "援護技每進行一次高速連斬，提升高速連斬造成的技能傷害。",
       "type": "support",
       "rarity": 2,
       "imgId": "14401_Potential_21",
@@ -6312,7 +6312,7 @@
     },
     "514430": {
       "name": "碎影止息",
-      "briefDesc": "提升「鏡影」對生命值低於70%的目標造成的傷害。",
+      "briefDesc": "提升「鏡影」對生命值低於70%的目標造成的技能傷害。",
       "type": "support",
       "rarity": 1,
       "imgId": "14401_Potential_24",
@@ -6371,6 +6371,261 @@
       "rarity": 2,
       "imgId": "14401_Potential_41",
       "id": 514443,
+      "subIcon": "Round"
+    }
+  },
+  "145": {
+    "514501": {
+      "name": "隱約震顫",
+      "briefDesc": "主控技「夜曇」射擊時，產生多次「天誅」。乙葉產生「天誅」時，縮減絕招冷卻時間，獲得能量。",
+      "type": "main",
+      "rarity": 0,
+      "imgId": "14501_Potential_01",
+      "id": 514501
+    },
+    "514502": {
+      "name": "陰翳頌讚",
+      "briefDesc": "主控技「夜曇」移動後擊退周圍目標，同時獲得護盾。此護盾持續期間，乙葉持續獲得能量，同時產生「天誅」。",
+      "type": "main",
+      "rarity": 0,
+      "imgId": "14501_Potential_02",
+      "id": 514502
+    },
+    "514503": {
+      "name": "幽寂迴響",
+      "briefDesc": "主控技「夜曇」發射的子彈可額外彈射多次。",
+      "type": "main",
+      "rarity": 0,
+      "imgId": "14501_Potential_03",
+      "id": 514503
+    },
+    "514504": {
+      "name": "散華之美",
+      "briefDesc": "主控技「夜曇」發射的子彈爆炸可產生多枚小子彈。",
+      "type": "main",
+      "rarity": 0,
+      "imgId": "14501_Potential_04",
+      "id": 514504
+    },
+    "514505": {
+      "name": "微暗深處",
+      "briefDesc": "乙葉普攻造成傷害時，產生「天誅」。",
+      "type": "main",
+      "rarity": 1,
+      "imgId": "14501_Potential_01",
+      "id": 514505,
+      "subIcon": "Diamond"
+    },
+    "514506": {
+      "name": "四時流轉",
+      "briefDesc": "乙葉普攻攻擊時，提升普攻傷害和絕招傷害。",
+      "type": "main",
+      "rarity": 2,
+      "imgId": "Common_Potential_11",
+      "id": 514506,
+      "subIcon": "Triangle"
+    },
+    "514507": {
+      "name": "暗影叩魂",
+      "briefDesc": "施放主控技「夜曇」時，提升乙葉的攻擊速度。",
+      "type": "main",
+      "rarity": 2,
+      "imgId": "Common_Potential_01",
+      "id": 514507,
+      "subIcon": "Round"
+    },
+    "514508": {
+      "name": "薄暗微茫",
+      "briefDesc": "提升主控技「夜曇」可使用次數。施放主控技時，提升乙葉的暗系傷害。",
+      "type": "main",
+      "rarity": 1,
+      "imgId": "14501_Potential_03",
+      "id": 514508,
+      "subIcon": "Diamond"
+    },
+    "514509": {
+      "name": "暮靄降臨",
+      "briefDesc": "提升主控技「夜曇」對附帶暗鎖的目標造成的技能傷害。",
+      "type": "main",
+      "rarity": 2,
+      "imgId": "Common_Potential_23",
+      "id": 514509,
+      "subIcon": "Triangle"
+    },
+    "514510": {
+      "name": "虛燭殘焰",
+      "briefDesc": "主控技「夜曇」移動期間不會受到傷害。提升乙葉的攻擊。",
+      "type": "main",
+      "rarity": 2,
+      "imgId": "Common_Potential_9",
+      "id": 514510,
+      "subIcon": "Round"
+    },
+    "514511": {
+      "name": "潛影迷魂",
+      "briefDesc": "提升乙葉閃避次數。閃避時，提升乙葉的攻擊。",
+      "type": "main",
+      "rarity": 2,
+      "imgId": "Common_Potential_13",
+      "id": 514511,
+      "subIcon": "Diamond"
+    },
+    "514512": {
+      "name": "夜潮奔湧",
+      "briefDesc": "絕招「空華」可觸發暗系印記。提升乙葉的攻擊。",
+      "type": "main",
+      "rarity": 2,
+      "imgId": "Common_Potential_Dark_1",
+      "id": 514512,
+      "subIcon": "Triangle"
+    },
+    "514513": {
+      "name": "影下生花",
+      "briefDesc": "乙葉觸發暗系印記時，提升乙葉的暗系傷害。",
+      "type": "main",
+      "rarity": 1,
+      "imgId": "Common_Potential_Dark_1",
+      "id": 514513,
+      "subIcon": "Round"
+    },
+    "514521": {
+      "name": "寂影成雙",
+      "briefDesc": "提升「離魂」的持續時間。乙葉造成絕招傷害時，縮減絕招冷卻時間，獲得一定能量。提升乙葉的絕招傷害、絕招暴擊率。",
+      "type": "support",
+      "rarity": 0,
+      "imgId": "14501_Potential_21",
+      "id": 514521
+    },
+    "514522": {
+      "name": "暗夜行路",
+      "briefDesc": "暗系主控角色對附帶「離魂」的目標造成傷害時，乙葉產生「天誅」造成範圍傷害，同時乙葉獲得能量。提升乙葉的絕招傷害、絕招暴擊率。",
+      "type": "support",
+      "rarity": 0,
+      "imgId": "14501_Potential_22",
+      "id": 514522
+    },
+    "514523": {
+      "name": "暝色浮波",
+      "briefDesc": "「碎雨」推進時，額外產生轟擊造成範圍傷害。轟擊有機率造成多次傷害。提升「碎雨」造成的防禦穿透力。提升乙葉的技能傷害。",
+      "type": "support",
+      "rarity": 0,
+      "imgId": "14501_Potential_23",
+      "id": 514523
+    },
+    "514524": {
+      "name": "暮雨沾衣",
+      "briefDesc": "全隊都為暗系角色時，額外產生「碎雨」。提升「碎雨」對附帶暗系印記或暗鎖的目標造成的防禦穿透力。提升乙葉的技能傷害。",
+      "type": "support",
+      "rarity": 0,
+      "imgId": "14501_Potential_24",
+      "id": 514524
+    },
+    "514525": {
+      "name": "孤燈搖曳",
+      "briefDesc": "乙葉造成絕招傷害時，有機率發動多次射擊造成傷害。提升乙葉的絕招暴擊率。",
+      "type": "support",
+      "rarity": 1,
+      "imgId": "14501_Potential_25",
+      "id": 514525,
+      "subIcon": "Diamond"
+    },
+    "514526": {
+      "name": "須臾無蹤",
+      "briefDesc": "援護技「破刃」冷卻期間，提升乙葉的絕招傷害。",
+      "type": "support",
+      "rarity": 2,
+      "imgId": "Common_Potential_19",
+      "id": 514526,
+      "subIcon": "Triangle"
+    },
+    "514527": {
+      "name": "空階之上",
+      "briefDesc": "任意暗系角色施放主控技或援護技時，提升乙葉的絕招暴擊率和絕招暴擊傷害。",
+      "type": "support",
+      "rarity": 2,
+      "imgId": "Common_Potential_15",
+      "id": 514527,
+      "subIcon": "Round"
+    },
+    "514528": {
+      "name": "雨織愁痕",
+      "briefDesc": "降低「碎雨」向前推進的速度。提升「碎雨」造成的技能傷害。",
+      "type": "support",
+      "rarity": 1,
+      "imgId": "14501_Potential_23",
+      "id": 514528,
+      "subIcon": "Diamond"
+    },
+    "514529": {
+      "name": "寒霖浸骨",
+      "briefDesc": "「碎雨」造成傷害時，提升目標受到的暗系傷害。",
+      "type": "support",
+      "rarity": 2,
+      "imgId": "Common_Potential_4",
+      "id": 514529,
+      "subIcon": "Triangle"
+    },
+    "514530": {
+      "name": "終期於盡",
+      "briefDesc": "提升「碎雨」對菁英以上目標造成的暗系傷害。",
+      "type": "support",
+      "rarity": 2,
+      "imgId": "Common_Potential_23",
+      "id": 514530,
+      "subIcon": "Round"
+    },
+    "514531": {
+      "name": "暗色蠶食",
+      "briefDesc": "全隊都為暗系角色時，提升暗系角色的暗系傷害。",
+      "type": "support",
+      "rarity": 1,
+      "imgId": "Common_Potential_18",
+      "id": 514531,
+      "subIcon": "Diamond"
+    },
+    "514532": {
+      "name": "湮滅低鳴",
+      "briefDesc": "隊伍中每名暗系角色，提升全隊暗系角色的暗系傷害。",
+      "type": "support",
+      "rarity": 2,
+      "imgId": "Common_Potential_20",
+      "id": 514532,
+      "subIcon": "Triangle"
+    },
+    "514533": {
+      "name": "喪鐘無聲",
+      "briefDesc": "絕招「空華」可附加暗系印記：暗影。提升乙葉的攻擊。",
+      "type": "support",
+      "rarity": 2,
+      "imgId": "Common_Potential_14",
+      "id": 514533,
+      "subIcon": "Round"
+    },
+    "514541": {
+      "name": "花蝕深淵",
+      "briefDesc": "絕招「空華」拋出的花傘可牽引周圍目標。提升乙葉的暗系傷害。",
+      "type": "common",
+      "rarity": 2,
+      "imgId": "14501_Potential_41",
+      "id": 514541,
+      "subIcon": "Diamond"
+    },
+    "514542": {
+      "name": "萬鏡歸暝",
+      "briefDesc": "提升絕招「空華」對附帶暗鎖的目標造成的絕招傷害。",
+      "type": "common",
+      "rarity": 2,
+      "imgId": "14501_Potential_42",
+      "id": 514542,
+      "subIcon": "Triangle"
+    },
+    "514543": {
+      "name": "月下華刃",
+      "briefDesc": "乙葉施放絕招「空華」時，提升攻擊。",
+      "type": "common",
+      "rarity": 2,
+      "imgId": "14501_Potential_42",
+      "id": 514543,
       "subIcon": "Round"
     }
   },
@@ -6445,7 +6700,7 @@
     },
     "514709": {
       "name": "重疊音量",
-      "briefDesc": "焦糖靠近惡魔音響時，提升惡魔音響的傷害。",
+      "briefDesc": "焦糖靠近惡魔音響時，提升惡魔音響的僕從傷害。",
       "type": "main",
       "rarity": 2,
       "imgId": "Common_Potential_Dark_1",
@@ -6490,7 +6745,7 @@
     },
     "514721": {
       "name": "旋律回歸",
-      "briefDesc": "提升援護技的橫掃段數和傷害。",
+      "briefDesc": "提升援護技的橫掃段數和造成的技能傷害。",
       "type": "support",
       "rarity": 0,
       "imgId": "14701_Potential_21",
@@ -6522,7 +6777,7 @@
     },
     "514725": {
       "name": "低音引力",
-      "briefDesc": "提升橫掃的傷害，並可牽引目標。",
+      "briefDesc": "提升橫掃造成的技能傷害，並可牽引目標。",
       "type": "support",
       "rarity": 1,
       "imgId": "14701_Potential_21",
@@ -6531,7 +6786,7 @@
     },
     "514726": {
       "name": "律音波紋",
-      "briefDesc": "擴大橫掃的傷害範圍和提升傷害。",
+      "briefDesc": "擴大橫掃的傷害範圍和提升造成的技能傷害。",
       "type": "support",
       "rarity": 2,
       "imgId": "14701_Potential_22",
@@ -6540,7 +6795,7 @@
     },
     "514727": {
       "name": "扎心銳角",
-      "briefDesc": "提升橫掃對附近目標的傷害。",
+      "briefDesc": "提升橫掃對附近目標造成的技能傷害。",
       "type": "support",
       "rarity": 2,
       "imgId": "14701_Potential_21",
@@ -6558,7 +6813,7 @@
     },
     "514729": {
       "name": "魂音直擊",
-      "briefDesc": "援護技的音符變成攻擊同一目標。對同一目標造成傷害後，提升音符的傷害。",
+      "briefDesc": "援護技的音符變成攻擊同一目標。對同一目標造成傷害後，提升音符造成的技能傷害。",
       "type": "support",
       "rarity": 2,
       "imgId": "14701_Potential_24",
@@ -6567,7 +6822,7 @@
     },
     "514730": {
       "name": "浩室共鳴",
-      "briefDesc": "援護技的音符對菁英以上目標傷害提升。",
+      "briefDesc": "提升援護技的音符對菁英以上目標造成的技能傷害。",
       "type": "support",
       "rarity": 2,
       "imgId": "14701_Potential_24",
@@ -6585,7 +6840,7 @@
     },
     "514732": {
       "name": "惡焰餘灰",
-      "briefDesc": "援護技對附帶暗灼的目標傷害提升。",
+      "briefDesc": "提升援護技對附帶暗灼的目標造成的技能傷害。",
       "type": "support",
       "rarity": 2,
       "imgId": "14701_Potential_24",
@@ -6594,7 +6849,7 @@
     },
     "514733": {
       "name": "黑暗舞會",
-      "briefDesc": "暗系角色提升攻擊力。",
+      "briefDesc": "提升暗系角色的攻擊。",
       "type": "support",
       "rarity": 1,
       "imgId": "Common_Potential_15",
@@ -6603,7 +6858,7 @@
     },
     "514741": {
       "name": "墮天帷幕",
-      "briefDesc": "絕招對附帶暗灼的目標傷害提升。",
+      "briefDesc": "提升絕招技對附帶暗灼的目標造成的絕招傷害。",
       "type": "common",
       "rarity": 2,
       "imgId": "14701_Potential_41",
@@ -6621,7 +6876,7 @@
     },
     "514743": {
       "name": "飛升炫音",
-      "briefDesc": "絕招造成傷害時，其傷害提升。",
+      "briefDesc": "絕招造成傷害時，提升其造成的絕招傷害。",
       "type": "common",
       "rarity": 2,
       "imgId": "14701_Potential_41",
@@ -6691,7 +6946,7 @@
     },
     "514908": {
       "name": "惡意中傷",
-      "briefDesc": "降低「鐵籠」連接目標的移動速度。 提升格芮對移速降低目標的傷害。",
+      "briefDesc": "降低「鐵籠」連接目標的移動速度。 提升格芮對移速降低目標造成的地系傷害。",
       "type": "main",
       "rarity": 2,
       "imgId": "14901_Potential_03",
@@ -6709,7 +6964,7 @@
     },
     "514910": {
       "name": "貫穿傷痛",
-      "briefDesc": "提升「鐵籠」傷害，延長「鐵籠」持續時間。",
+      "briefDesc": "提升「鐵籠」造成的地系傷害，延長「鐵籠」持續時間。",
       "type": "main",
       "rarity": 1,
       "imgId": "14901_Potential_04",
@@ -6727,7 +6982,7 @@
     },
     "514912": {
       "name": "多人遊戲",
-      "briefDesc": "提升「鐵籠」的傷害和連接距離。",
+      "briefDesc": "提升「鐵籠」造成的技能傷害和連接距離。",
       "type": "main",
       "rarity": 2,
       "imgId": "14901_Potential_04",
@@ -6745,7 +7000,7 @@
     },
     "514921": {
       "name": "罪加一等",
-      "briefDesc": "提升援護技的鏈鏟傷害。援護技額外產生鏈鏟，造成傷害。",
+      "briefDesc": "提升援護技鏈鏟造成的技能傷害。援護技額外產生鏈鏟，造成傷害。",
       "type": "support",
       "rarity": 0,
       "imgId": "14901_Potential_21",
@@ -6753,7 +7008,7 @@
     },
     "514922": {
       "name": "絕妙餘興",
-      "briefDesc": "提升援護技的鏈鏟傷害。回收鏈鏟時，每根鏈鏟分別造成傷害。",
+      "briefDesc": "提升援護技鏈鏟造成的技能傷害。回收鏈鏟時，每根鏈鏟分別造成傷害。",
       "type": "support",
       "rarity": 0,
       "imgId": "14901_Potential_22",
@@ -6769,7 +7024,7 @@
     },
     "514924": {
       "name": "震顫地鳴",
-      "briefDesc": "提升援護技的地震波傷害、擴大傷害範圍。",
+      "briefDesc": "提升援護技的地震波造成的技能傷害、擴大其範圍。",
       "type": "support",
       "rarity": 0,
       "imgId": "14901_Potential_24",
@@ -6786,7 +7041,7 @@
     },
     "514926": {
       "name": "六災·征服",
-      "briefDesc": "提升援護技鏈鏟對生命值低於70%的目標造成的傷害。",
+      "briefDesc": "提升援護技鏈鏟對生命值低於70%的目標造成的技能傷害。",
       "type": "support",
       "rarity": 2,
       "imgId": "14901_Potential_21",
@@ -6813,7 +7068,7 @@
     },
     "514929": {
       "name": "六災·死亡",
-      "briefDesc": "提升援護技地震波傷害和破韌效率。",
+      "briefDesc": "提升援護技地震波造成的技能傷害和破韌效率。",
       "type": "support",
       "rarity": 2,
       "imgId": "14901_Potential_24",
@@ -6867,7 +7122,7 @@
     },
     "514942": {
       "name": "四面者宣告祕典",
-      "briefDesc": "提升格芮絕招傷害。我方對目標觸發地系印記時，額外提升格芮對其造成的絕招傷害。",
+      "briefDesc": "提升格芮絕招傷害。己方對目標觸發地系印記時，額外提升格芮對其造成的絕招傷害。",
       "type": "common",
       "rarity": 2,
       "imgId": "14901_Potential_41",
@@ -6946,7 +7201,7 @@
     },
     "515008": {
       "name": "破光",
-      "briefDesc": "菈露普攻對附帶光系印記：光明的目標造成傷害時，提升下次技能傷害。",
+      "briefDesc": "菈露普攻對附帶光系印記：光明的目標造成傷害時，提升下次主控技的傷害。",
       "type": "main",
       "rarity": 2,
       "imgId": "15001_Potential_03",
@@ -7386,7 +7641,7 @@
     },
     "515543": {
       "name": "巨浪歸虛",
-      "briefDesc": "提升希婭絕招傷害，縮短絕招傷害間隔時間。",
+      "briefDesc": "提升希婭絕招造成的光系傷害，縮短絕招傷害間隔時間。",
       "type": "common",
       "rarity": 2,
       "imgId": "15501_Potential_41",
@@ -7429,7 +7684,7 @@
     },
     "515605": {
       "name": "驚嚇擁抱",
-      "briefDesc": "企鵝玩偶移動結束時將撲向目標。提升企鵝玩偶的傷害。",
+      "briefDesc": "企鵝玩偶移動結束時將撲向目標。提升企鵝玩偶的技能傷害。",
       "type": "main",
       "rarity": 1,
       "imgId": "15601_Potential_05",
@@ -7492,7 +7747,7 @@
     },
     "515612": {
       "name": "自然之觸",
-      "briefDesc": "提升全隊地系角色印記傷害。",
+      "briefDesc": "提升全隊地系角色的印記傷害倍率。",
       "type": "main",
       "rarity": 1,
       "imgId": "Common_Potential_Earth_1",
@@ -7587,7 +7842,7 @@
     },
     "515630": {
       "name": "傾情蜜箭",
-      "briefDesc": "提升掃射和愛心箭矢造成的傷害，以及愛心箭矢恢復的生命值。",
+      "briefDesc": "提升掃射和愛心箭矢造成的技能傷害，以及愛心箭矢恢復的生命值。",
       "type": "support",
       "rarity": 2,
       "imgId": "Common_Potential_7",
@@ -7684,7 +7939,7 @@
     },
     "515805": {
       "name": "火鞭烈焰",
-      "briefDesc": "「胡桃上校」和「捲毛大將」對附帶火系印記的目標造成傷害時，有一定機率獲得「士氣」，並提升自身僕從傷害。",
+      "briefDesc": "「胡桃上校」和「捲毛大將」對附帶火系印記的目標造成傷害時，有機率獲得「士氣」，並提升自身僕從傷害。",
       "type": "main",
       "rarity": 2,
       "imgId": "15801_Potential_01",
@@ -7747,7 +8002,7 @@
     },
     "515812": {
       "name": "爵士怒火",
-      "briefDesc": "聖夜菈露變身「菈露爵士」期間，槍械射擊和技能「糖果齊射」可觸發火系印記。 提升聖夜菈露的攻擊。",
+      "briefDesc": "聖夜菈露變身「菈露爵士」期間，槍械射擊和技能「糖果齊射」可觸發火系印記，產生「灼炎」。 提升聖夜菈露的攻擊。",
       "type": "main",
       "rarity": 2,
       "imgId": "Common_Potential_Fire_1",
@@ -8133,7 +8388,7 @@
     },
     "515941": {
       "name": "迷離驚夢",
-      "briefDesc": "絕招對菁英以上目標的傷害提升，同時使普通目標受到魅惑：持續時間結束時造成傷害。",
+      "briefDesc": "絕招對菁英以上目標造成的絕招傷害提升，同時使普通目標受到魅惑：持續時間結束時造成傷害。",
       "type": "common",
       "rarity": 2,
       "imgId": "15901_Potential_41",
@@ -8142,7 +8397,7 @@
     },
     "515942": {
       "name": "餘澤猶在",
-      "briefDesc": "絕招傷害提升，絕招處於冷卻或能量未滿時，隊伍中地系先鋒和均衡角色的攻擊提升。",
+      "briefDesc": "緋春柯洛妮絲絕招傷害提升。絕招處於冷卻或能量未滿時，隊伍中地系先鋒和均衡角色的攻擊提升。",
       "type": "common",
       "rarity": 2,
       "imgId": "15901_Potential_41",

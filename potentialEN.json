@@ -616,7 +616,7 @@
     },
     "510813": {
       "name": "Play with Fire",
-      "briefDesc": "The Ultimate can trigger Ignis Mark: Sacred Flame. When the mark is triggered, increases ATK.",
+      "briefDesc": "The Ultimate can trigger Ignis Mark: Sacred Flame and inflict Incineration. When the mark is triggered, increases ATK.",
       "type": "main",
       "rarity": 1,
       "imgId": "Common_Potential_Fire_1",
@@ -1422,7 +1422,7 @@
     },
     "511225": {
       "name": "Corrosive Breeze",
-      "briefDesc": "When casting Gale Storm, increases the major sword auras' Skill DMG to the targets with Ventus Mark: Breeze.",
+      "briefDesc": "Increases the major sword auras' Skill DMG to the targets with Ventus Mark: Breeze.",
       "type": "support",
       "rarity": 1,
       "imgId": "11201_Potential_21",
@@ -1440,7 +1440,7 @@
     },
     "511227": {
       "name": "Leaf Barrier",
-      "briefDesc": "Increases major sword auras' DMG. Also reduces the target's Movement SPD.",
+      "briefDesc": "Increases major sword auras' Skill DMG. Also reduces the target's Movement SPD.",
       "type": "support",
       "rarity": 2,
       "imgId": "11201_Potential_21",
@@ -1449,7 +1449,7 @@
     },
     "511228": {
       "name": "Gathering Storm",
-      "briefDesc": "Increases minor sword auras' DMG. They can also trigger Ventus Mark: Breeze.",
+      "briefDesc": "Increases minor sword auras' Skill DMG. They can also trigger Ventus Mark: Breeze.",
       "type": "support",
       "rarity": 2,
       "imgId": "Common_Potential_Wind_1",
@@ -1458,7 +1458,7 @@
     },
     "511229": {
       "name": "Dancing Airflow",
-      "briefDesc": "Increases the Support Skill's DMG. Casts minor sword auras faster.",
+      "briefDesc": "Increases the Support Skill's Skill DMG. Casts minor sword auras faster.",
       "type": "support",
       "rarity": 1,
       "imgId": "Common_Potential_01",
@@ -1485,7 +1485,7 @@
     },
     "511232": {
       "name": "Rupture Circulation",
-      "briefDesc": "The Support Skill deals higher DMG to elite or higher-tier targets.",
+      "briefDesc": "The Support Skill deals higher Skill DMG to elite or higher-tier targets.",
       "type": "support",
       "rarity": 2,
       "imgId": "11201_Potential_24",
@@ -1540,7 +1540,7 @@
     },
     "511302": {
       "name": "Wave Swirl",
-      "briefDesc": "When casting the Main Skill, Shimiao unleashes water blades instead, dealing increased DMG to elite or higher-tier targets.",
+      "briefDesc": "When casting the Main Skill, Shimiao unleashes water blades instead, dealing increased Skill DMG to elite or higher-tier targets.",
       "type": "main",
       "rarity": 0,
       "imgId": "11301_Potential_02",
@@ -1582,7 +1582,7 @@
     },
     "511307": {
       "name": "Cascade Glow",
-      "briefDesc": "Phase 2 deals more DMG to targets with Chill/Frozen. The lower the target's HP, the higher the DMG.",
+      "briefDesc": "Phase 2 deals more Skill DMG to targets with Chill/Frozen. The lower the target's HP, the higher the DMG.",
       "type": "main",
       "rarity": 2,
       "imgId": "11301_Potential_02",
@@ -1669,7 +1669,7 @@
     },
     "511324": {
       "name": "Rain Whisper: Light",
-      "briefDesc": "While the Support Skill is active, Shimiao follows the main Trekker and launches attack, increasing her water blades' DMG periodically.",
+      "briefDesc": "While the Support Skill is active, Shimiao follows the Main Trekker and launches attacks, increasing her water blades' Skill DMG periodically.",
       "type": "support",
       "rarity": 0,
       "imgId": "11301_Potential_24",
@@ -1686,7 +1686,7 @@
     },
     "511326": {
       "name": "Full Preparation",
-      "briefDesc": "Aqua Aide (Support Skill) can slow targets and its DMG is increased.",
+      "briefDesc": "Aqua Aide (Support Skill) can slow targets and its Skill DMG is increased.",
       "type": "support",
       "rarity": 2,
       "imgId": "11301_Potential_23",
@@ -1767,7 +1767,7 @@
     },
     "511342": {
       "name": "Wave Rider",
-      "briefDesc": "The Ultimate deals more DMG to targets with Chill/Frozen. The lower the target's HP, the higher the DMG.",
+      "briefDesc": "The Ultimate deals more Ultimate DMG to targets with Chill/Frozen. The lower the target's HP, the higher the DMG.",
       "type": "common",
       "rarity": 2,
       "imgId": "Common_Potential_4",
@@ -1819,7 +1819,7 @@
     },
     "511605": {
       "name": "Overgrowth",
-      "briefDesc": "Increases Main Skill DMG and the seeds' Attack Range.",
+      "briefDesc": "Increases Ridge's Skill DMG and the Attack Range of her seeds.",
       "type": "main",
       "rarity": 2,
       "imgId": "11601_Potential_01",
@@ -1828,7 +1828,7 @@
     },
     "511606": {
       "name": "Vine Snare",
-      "briefDesc": "The Movement SPD reduction from seeds can stack up. Once fully stacked, increases Ridge's DMG to the affected target.",
+      "briefDesc": "The Movement SPD reduction from seeds can stack up. Once fully stacked, increases Ridge's Terra DMG to the affected target.",
       "type": "main",
       "rarity": 2,
       "imgId": "11601_Potential_02",
@@ -1837,7 +1837,7 @@
     },
     "511607": {
       "name": "Twin Sprouts",
-      "briefDesc": "Increases Main Skill DMG.  The Main Skill and Bean Shooter have a chance to toss more seeds.",
+      "briefDesc": "Increases Ridge's Skill DMG. The Main Skill and Bean Shooter have a chance to toss more seeds.",
       "type": "main",
       "rarity": 1,
       "imgId": "11601_Potential_02",
@@ -1908,7 +1908,7 @@
     },
     "511622": {
       "name": "Sense the Stir",
-      "briefDesc": "Increases the DMG of the Support Skill's seed shower and reduces its Attack Interval.",
+      "briefDesc": "Increases the Terra DMG of the Support Skill's seed shower and reduces its Attack Interval.",
       "type": "support",
       "rarity": 0,
       "imgId": "11601_Potential_22",
@@ -1916,7 +1916,7 @@
     },
     "511623": {
       "name": "Hasty Growth",
-      "briefDesc": "Increases Seed Orb's duration and DMG. Can also inflict Terra Mark: Earth Vein.",
+      "briefDesc": "Increases Seed Orb's duration and Skill DMG. Can also inflict Terra Mark: Earth Vein.",
       "type": "support",
       "rarity": 0,
       "imgId": "11601_Potential_23",
@@ -1924,7 +1924,7 @@
     },
     "511624": {
       "name": "Misplaced Bloom",
-      "briefDesc": "Increases Seed Orb's DMG and explosion radius. Dealing DMG can trigger another Seed Orb.",
+      "briefDesc": "Increases Seed Orb's Skill DMG and explosion radius. Dealing DMG can trigger another Seed Orb.",
       "type": "support",
       "rarity": 0,
       "imgId": "11601_Potential_24",
@@ -1950,7 +1950,7 @@
     },
     "511627": {
       "name": "Bouquet Blast",
-      "briefDesc": "Increases the DMG and range of the Support Skill's seed shower.",
+      "briefDesc": "Increases the Skill DMG and range of the Support Skill's seed shower.",
       "type": "support",
       "rarity": 1,
       "imgId": "11601_Potential_21",
@@ -1959,7 +1959,7 @@
     },
     "511628": {
       "name": "Sturdy Foundation",
-      "briefDesc": "Increases Ridge's DMG to target inflicted with Seed Orb.",
+      "briefDesc": "Increases Ridge's Terra DMG to target inflicted with Seed Orb by .",
       "type": "support",
       "rarity": 2,
       "imgId": "11601_Potential_23",
@@ -1977,7 +1977,7 @@
     },
     "511630": {
       "name": "Cone Bomb",
-      "briefDesc": "Increases Seed Orb's DMG.  When Seed Orb deals DMG, fires 1 seed to the nearest target.",
+      "briefDesc": "Increases Seed Orb's Skill DMG. When Seed Orb deals DMG, fires 1 seed to the nearest target.",
       "type": "support",
       "rarity": 1,
       "imgId": "11601_Potential_24",
@@ -2013,7 +2013,7 @@
     },
     "511641": {
       "name": "Seed to Harvest",
-      "briefDesc": "Increases Ultimate DMG and enhances the final strike's ability to break resilience.",
+      "briefDesc": "Increases Ultimate DMG and enhances the final strike's ability to Resilience Break.",
       "type": "common",
       "rarity": 2,
       "imgId": "11601_Potential_41",
@@ -2050,7 +2050,7 @@
     },
     "511702": {
       "name": "Energy Storage: Knot",
-      "briefDesc": "After casting the Main Skill, increases the DMG of the next Skill.",
+      "briefDesc": "After casting the Main Skill, increases the DMG of the next Main Skill.",
       "type": "main",
       "rarity": 0,
       "imgId": "11701_Potential_02",
@@ -2128,7 +2128,7 @@
     },
     "511711": {
       "name": "Leakage Protection",
-      "briefDesc": "The Ultimate can trigger Lux Mark: Radiance. When the mark is triggered, increases ATK.",
+      "briefDesc": "The Ultimate can trigger Lux Mark: Radiance and summon a Thunderbolt. When the mark is triggered, increases ATK.",
       "type": "main",
       "rarity": 2,
       "imgId": "Common_Potential_Light_1",
@@ -2250,7 +2250,7 @@
     },
     "511732": {
       "name": "Little Manager",
-      "briefDesc": "Increases Skill DMG.",
+      "briefDesc": "Increases Jinglin's Skill DMG.",
       "type": "support",
       "rarity": 2,
       "imgId": "Common_Potential_11",
@@ -2286,7 +2286,7 @@
     },
     "511743": {
       "name": "Auspicious Spirit",
-      "briefDesc": "When the Lightning Qilin hits a target with Lux Mark: Radiance, increases ATK.",
+      "briefDesc": "When the Lightning Qilin hits a target with Lux Mark: Radiance, increases Jinglin's ATK.",
       "type": "common",
       "rarity": 2,
       "imgId": "11701_Potential_41",
@@ -2611,7 +2611,7 @@
     },
     "511908": {
       "name": "Distant Prayer",
-      "briefDesc": "The farther the sunflower shuriken is from Nanoha, the more DMG it deals.",
+      "briefDesc": "The farther the sunflower shuriken is from Nanoha, the more Skill DMG it deals.",
       "type": "main",
       "rarity": 2,
       "imgId": "11901_Potential_03",
@@ -2697,7 +2697,7 @@
     },
     "511925": {
       "name": "Tender Nurture",
-      "briefDesc": "Increases the Support Skill's DMG dealt to targets with higher HP.",
+      "briefDesc": "Increases the Support Skill's Skill DMG dealt to targets with higher HP.",
       "type": "support",
       "rarity": 2,
       "imgId": "11901_Potential_21",
@@ -2724,7 +2724,7 @@
     },
     "511928": {
       "name": "VIP Focus",
-      "briefDesc": "Increases the Support Skill's DMG dealt to elite or higher-tier targets.",
+      "briefDesc": "Increases the Support Skill's Skill DMG dealt to elite or higher-tier targets.",
       "type": "support",
       "rarity": 2,
       "imgId": "11901_Potential_23",
@@ -2760,7 +2760,7 @@
     },
     "511932": {
       "name": "Tender Trap",
-      "briefDesc": "When an ally has full Energy, increases Nanoha's Support Skill DMG.",
+      "briefDesc": "When an ally has full Energy, increases Nanoha's Support Skill Skill DMG.",
       "type": "support",
       "rarity": 2,
       "imgId": "11901_Potential_24",
@@ -2778,7 +2778,7 @@
     },
     "511941": {
       "name": "Blossom Rhyme",
-      "briefDesc": "The clones now follow the main Trekker into combat, their DMG increased.",
+      "briefDesc": "The clones now follow the main Trekker into combat, their ATK increased.",
       "type": "common",
       "rarity": 2,
       "imgId": "Common_Potential_01",
@@ -2920,7 +2920,7 @@
     },
     "512021": {
       "name": "Grants Efficient Delving",
-      "briefDesc": "Reduces Laurel Wreath's Attack Interval.  Also increases its DMG.",
+      "briefDesc": "Reduces Laurel Wreath's ATK Interval. Also increases its Skill DMG.",
       "type": "support",
       "rarity": 0,
       "imgId": "12001_Potential_21",
@@ -2928,7 +2928,7 @@
     },
     "512022": {
       "name": "Grants Transformative Insight",
-      "briefDesc": "Increases the DMG and Attack Range of the Laurel Wreath.",
+      "briefDesc": "Increases the Skill DMG and Attack Range of the Laurel Wreath.",
       "type": "support",
       "rarity": 0,
       "imgId": "12001_Potential_22",
@@ -2961,7 +2961,7 @@
     },
     "512026": {
       "name": "Conundrum Solving",
-      "briefDesc": "Increases Laurel Wreath's DMG to elite or higher-tier targets. It can now knock back stronger enemies.",
+      "briefDesc": "Increases Laurel Wreath's Skill DMG to elite or higher-tier targets. It can now knock back stronger enemies.",
       "type": "support",
       "rarity": 2,
       "imgId": "12001_Potential_22",
@@ -2970,7 +2970,7 @@
     },
     "512027": {
       "name": "Conclusion Analysis",
-      "briefDesc": "Increases Laurel Wreath's DMG. After breaking a target's Resilience, increases the target's Ventus DMG Taken.",
+      "briefDesc": "Increases Laurel Wreath's Skill DMG. After breaking a target's Resilience, increases the target's Ventus DMG Taken.",
       "type": "support",
       "rarity": 1,
       "imgId": "12001_Potential_22",
@@ -2988,7 +2988,7 @@
     },
     "512029": {
       "name": "Cyclone Acceleration",
-      "briefDesc": "With each full spin of the Laurel Wreath, increases subsequent DMG of the Skill.",
+      "briefDesc": "With each full spin of the Laurel Wreath, increases subsequent Skill DMG of the Skill.",
       "type": "support",
       "rarity": 1,
       "imgId": "12001_Potential_23",
@@ -3078,7 +3078,7 @@
     },
     "512303": {
       "name": "Dazzling Vortex",
-      "briefDesc": "After Bubble is summoned, it will fire a laser beam.",
+      "briefDesc": "After Bubble is summoned, it will fire a laser beam for a short duration.",
       "type": "main",
       "rarity": 0,
       "imgId": "12301_Potential_03",
@@ -3086,7 +3086,7 @@
     },
     "512304": {
       "name": "Grand Debut",
-      "briefDesc": "When summoning Bubble, increases the squad's Mark DMG. When a squadmate triggers a Ventus Mark, Bubble will fire an additional laser.",
+      "briefDesc": "When summoning Bubble, increases the squad's Mark DMG. When a squadmate triggers a Ventus Mark, Bubble will fire an additional laser beam.",
       "type": "main",
       "rarity": 0,
       "imgId": "12301_Potential_04",
@@ -3261,7 +3261,7 @@
     },
     "512331": {
       "name": "Storm Repel",
-      "briefDesc": "Increases the Support Skill's DMG.",
+      "briefDesc": "Increases the Skill DMG of the Support Skill.",
       "type": "support",
       "rarity": 2,
       "imgId": "12301_Potential_24",
@@ -3543,7 +3543,7 @@
     },
     "512541": {
       "name": "Ice Vortex",
-      "briefDesc": "While Freesia is in Berserk, every time the Ultimate hits a target, increases Freesia's Crit DMG.",
+      "briefDesc": "Increases Ultimate DMG. While Freesia is in Berserk, every time the Ultimate hits a target, increases Freesia's Crit DMG.",
       "type": "common",
       "rarity": 2,
       "imgId": "12501_Potential_41",
@@ -3827,7 +3827,7 @@
   "127": {
     "512701": {
       "name": "Stream: Cascade Strike",
-      "briefDesc": "Increases Skill DMG. Also triggers a surge of waves.",
+      "briefDesc": "Increases Skill DMG. Also triggers an additional surge of waves that inflict Aqua Mark: Torrent.",
       "type": "main",
       "rarity": 0,
       "imgId": "12701_Potential_01",
@@ -3948,7 +3948,7 @@
     },
     "512722": {
       "name": "Surge: Ripple",
-      "briefDesc": "While Surging Shield is active, when the main Trekker deals DMG, creates a surge of waves.",
+      "briefDesc": "While Surging Shield is active, when the Main Trekker deals DMG, creates a surge of waves and inflicts Aqua Mark: Torrent.",
       "type": "support",
       "rarity": 0,
       "imgId": "12701_Potential_22",
@@ -3964,7 +3964,7 @@
     },
     "512724": {
       "name": "Surge: Thunderbolt",
-      "briefDesc": "Increases Tidal Domain's DMG, and can knock back targets repeatedly.",
+      "briefDesc": "Increases Tidal Domain's DMG Multiplier, and can knock back targets repeatedly.",
       "type": "support",
       "rarity": 0,
       "imgId": "12701_Potential_24",
@@ -4071,7 +4071,7 @@
     },
     "512743": {
       "name": "Demonic Devour",
-      "briefDesc": "Increases the Ultimate DMG to targets with Aqua Mark: Torrent/Chill/Frozen.",
+      "briefDesc": "Increases the Ultimate DMG dealt to targets with Aqua Mark: Torrent/Cold/Frozen.",
       "type": "common",
       "rarity": 2,
       "imgId": "12701_Potential_41",
@@ -4345,7 +4345,7 @@
     },
     "513202": {
       "name": "Clan Clash Artistry",
-      "briefDesc": "When Syou: Pulsar Streak triggers a Lux Mark, enhances Two Base Hit.",
+      "briefDesc": "When the Main Skill triggers a Lux Mark, enhances Two Base Hit.",
       "type": "main",
       "rarity": 0,
       "imgId": "13201_Potential_02",
@@ -4353,7 +4353,7 @@
     },
     "513203": {
       "name": "Board Tricks",
-      "briefDesc": "Increases Skill DMG. When triggering a mark, increases the Skill DMG taken by the target.",
+      "briefDesc": "Increases Main Skill DMG. When triggering a mark, increases the Skill DMG taken by the target.",
       "type": "main",
       "rarity": 0,
       "imgId": "13201_Potential_03",
@@ -4414,7 +4414,7 @@
     },
     "513210": {
       "name": "Nebulous Reverb",
-      "briefDesc": "The Ultimate can trigger Lux Mark. After casting the Ultimate, increases Skill DMG.",
+      "briefDesc": "The Ultimate can trigger Lux Mark and summon a Thunderbolt. After casting the Ultimate, increases Skill DMG.",
       "type": "main",
       "rarity": 2,
       "imgId": "Common_Potential_Light_1",
@@ -4482,7 +4482,7 @@
     },
     "513225": {
       "name": "Optimal Hit Zone",
-      "briefDesc": "Increases the Skill DMG dealt to targets inflicted with Astral Hex.",
+      "briefDesc": "Increases Minova's Skill DMG dealt to targets inflicted with Astral Hex.",
       "type": "support",
       "rarity": 2,
       "imgId": "13201_Potential_21",
@@ -4746,7 +4746,7 @@
     },
     "513326": {
       "name": "Youth: Annihilation",
-      "briefDesc": "The Flower Petal has a chance to kill a normal target immediately and its DMG is increased.",
+      "briefDesc": "The Flower Petal has a chance to kill a normal target immediately, and its Skill DMG is increased.",
       "type": "support",
       "rarity": 2,
       "imgId": "13301_Potential_21",
@@ -4755,7 +4755,7 @@
     },
     "513327": {
       "name": "Youth: Blooming",
-      "briefDesc": "Increases Flower Petal's DMG.  For each Flower Petal created, increases Nazuka's Ventus DMG.",
+      "briefDesc": "Increases Flower Petal's Skill DMG. For each Flower Petal created, increases Nazuka's Ventus DMG.",
       "type": "support",
       "rarity": 1,
       "imgId": "13301_Potential_21",
@@ -4764,7 +4764,7 @@
     },
     "513328": {
       "name": "Flower Formation: Convergence",
-      "briefDesc": "Increases Flower Formation's DMG. When there are 2 or more targets caught in Flower Formation, increases its DMG.",
+      "briefDesc": "Increases Flower Formation's Skill DMG. When there are 2 or more targets caught in Flower Formation, increases its DMG.",
       "type": "support",
       "rarity": 2,
       "imgId": "13301_Potential_23",
@@ -4818,7 +4818,7 @@
     },
     "513341": {
       "name": "Multi-Hurricane",
-      "briefDesc": "Increases the Ultimate DMG and the number of tornados.",
+      "briefDesc": "Nazuka can summon more tornados during her Ultimate, and her Ultimate DMG is increased.",
       "type": "common",
       "rarity": 2,
       "imgId": "13301_Potential_41",
@@ -4836,7 +4836,7 @@
     },
     "513343": {
       "name": "Maelstrom",
-      "briefDesc": "Increases Ultimate's DMG. When the Ultimate deals DMG, increases the target's Ventus DMG Taken.",
+      "briefDesc": "Increases Nazuka's Ultimate DMG. When the Ultimate deals DMG, increases the target's Ventus DMG Taken.",
       "type": "common",
       "rarity": 2,
       "imgId": "13301_Potential_41",
@@ -5265,7 +5265,7 @@
     },
     "513527": {
       "name": "Twin Born",
-      "briefDesc": "There is a chance the Support Skill can summon one more Lanterna Phantom.",
+      "briefDesc": "There is a chance the Support Skill can summon extra Lanterna Phantom.",
       "type": "support",
       "rarity": 2,
       "imgId": "Common_Potential_5",
@@ -5443,7 +5443,7 @@
     },
     "514111": {
       "name": "Inkburn Stroke",
-      "briefDesc": "The Ultimate can trigger Ignis Mark. Each time the mark is triggered, increases Chixia's ATK.",
+      "briefDesc": "The Ultimate can trigger Ignis Mark and inflict Incineration. Each time the mark is triggered, increases Chixia's ATK.",
       "type": "main",
       "rarity": 2,
       "imgId": "Common_Potential_11",
@@ -5470,7 +5470,7 @@
     },
     "514121": {
       "name": "Crimson Dragon: Convergence",
-      "briefDesc": "Increases Crimson Dragon's ATK. Chixia can summon more Crimson Dragons.",
+      "briefDesc": "Increases Crimson Dragon's Minion DMG. Chixia can summon more Crimson Dragons.",
       "type": "support",
       "rarity": 0,
       "imgId": "14101_Potential_21",
@@ -5486,7 +5486,7 @@
     },
     "514123": {
       "name": "Sigil Unleashed: Tiger of the East",
-      "briefDesc": "Crimson Dragon transforms into Tiger of the East.",
+      "briefDesc": "Crimson Dragon enhances into Tiger of the East. Tiger of the East's DMG inflicts Ignis Mark: Sacred Flame.",
       "type": "support",
       "rarity": 0,
       "imgId": "14101_Potential_23",
@@ -5908,7 +5908,7 @@
     },
     "514306": {
       "name": "Blade's Waltz",
-      "briefDesc": "Increases the DMG dealt by the Main Skill's slashes. Increases Wraith's Auto Attack DMG.",
+      "briefDesc": "Increases the Skill DMG dealt by the Main Skill's slashes. Increases Wraith's Auto Attack DMG.",
       "type": "main",
       "rarity": 2,
       "imgId": "14301_Potential_01",
@@ -6154,7 +6154,7 @@
     },
     "514405": {
       "name": "Tremble and Fall",
-      "briefDesc": "Chitose can dodge one more time and her Auto Attack DMG is increased. After dodging or casting the Main Skill, she can deliver the last strike of her Auto Attack immediately.",
+      "briefDesc": "Increases Auto Attack DMG and the number of times Chitose can dodge. After dodging or casting the Main Skill, she can deliver the last strike of her Auto Attack immediately, and if this Auto Attack deals damage, she gains Edge: Increases the Aqua DMG dealt by some of Chitose's Auto Attacks.",
       "type": "main",
       "rarity": 2,
       "imgId": "14401_Potential_02",
@@ -6163,7 +6163,7 @@
     },
     "514406": {
       "name": "Dance of Elegance",
-      "briefDesc": "When the Coiling Serpent deals DMG, increases Auto Attack DMG.",
+      "briefDesc": "When the Coiling Serpent deals DMG, increases Auto Attack DMG. Also, increases the Aqua DMG of the last strike of Chitose's Auto Attacks, and this bonus expires after Chitose releases the last strike of her Auto Attacks.",
       "type": "main",
       "rarity": 2,
       "imgId": "14401_Potential_01",
@@ -6190,7 +6190,7 @@
     },
     "514409": {
       "name": "Returning Tide",
-      "briefDesc": "Increases Chitose's Skill DMG. After Torrent Flash: Scale kills a target, the next Torrent Flash becomes Torrent Flash: Scale.",
+      "briefDesc": "Increases Chitose's Skill DMG. After Torrent Flash: Scale kills a target or deals DMG to an elite or higher-tier target, the next Torrent Flash becomes Torrent Flash: Scale.",
       "type": "main",
       "rarity": 2,
       "imgId": "14401_Potential_03",
@@ -6217,7 +6217,7 @@
     },
     "514412": {
       "name": "Adamant Scales",
-      "briefDesc": "Increases Chitose's ATK. When hit, increases Chitose's ATK.",
+      "briefDesc": "Increases Chitose's ATK. When hit or casting the Main Skill, increases Chitose's ATK.",
       "type": "main",
       "rarity": 2,
       "imgId": "Common_Potential_4",
@@ -6276,7 +6276,7 @@
     },
     "514426": {
       "name": "Sing with Steel",
-      "briefDesc": "Every time the Support Skill casts rapid combo slashes, increases their DMG.",
+      "briefDesc": "Every time the Support Skill casts rapid combo slashes, increases their Skill DMG dealt.",
       "type": "support",
       "rarity": 2,
       "imgId": "14401_Potential_21",
@@ -6312,7 +6312,7 @@
     },
     "514430": {
       "name": "Shattered Breath",
-      "briefDesc": "Increases Mirror Images' DMG to targets at less than 70% HP.",
+      "briefDesc": "Increases Mirror Images' Skill DMG to targets at less than 70% HP.",
       "type": "support",
       "rarity": 1,
       "imgId": "14401_Potential_24",
@@ -6371,6 +6371,261 @@
       "rarity": 2,
       "imgId": "14401_Potential_41",
       "id": 514443,
+      "subIcon": "Round"
+    }
+  },
+  "145": {
+    "514501": {
+      "name": "Subtle Tremor",
+      "briefDesc": "When shooting with Nightbloom (Main Skill), summons Doomfall multiple times. Upon summoning Doomfall, reduces Ultimate Cooldown and gains Energy.",
+      "type": "main",
+      "rarity": 0,
+      "imgId": "14501_Potential_01",
+      "id": 514501
+    },
+    "514502": {
+      "name": "Hymn of Gloom",
+      "briefDesc": "Moving with Nightbloom (Main Skill) knocks back nearby targets and gains a Shield. While the Shield lasts, continuously gains Energy and summons Doomfall.",
+      "type": "main",
+      "rarity": 0,
+      "imgId": "14501_Potential_02",
+      "id": 514502
+    },
+    "514503": {
+      "name": "Solemn Echo",
+      "briefDesc": "Bullets fired with Nightbloom (Main Skill) can ricochet multiple additional times.",
+      "type": "main",
+      "rarity": 0,
+      "imgId": "14501_Potential_03",
+      "id": 514503
+    },
+    "514504": {
+      "name": "Petal-Shower Grace",
+      "briefDesc": "The explosion of bullets fired with Nightbloom (Main Skill) can generate multiple small bullets.",
+      "type": "main",
+      "rarity": 0,
+      "imgId": "14501_Potential_04",
+      "id": 514504
+    },
+    "514505": {
+      "name": "Umbral Depth",
+      "briefDesc": "Dealing Auto Attack DMG summons Doomfall.",
+      "type": "main",
+      "rarity": 1,
+      "imgId": "14501_Potential_01",
+      "id": 514505,
+      "subIcon": "Diamond"
+    },
+    "514506": {
+      "name": "Cycle of Four Seasons",
+      "briefDesc": "Otoha's Auto Attack increases Auto Attack DMG and Ultimate DMG.",
+      "type": "main",
+      "rarity": 2,
+      "imgId": "Common_Potential_11",
+      "id": 514506,
+      "subIcon": "Triangle"
+    },
+    "514507": {
+      "name": "Shadow Soulknell",
+      "briefDesc": "When casting Nightbloom (Main Skill), increases Otoha's ATK SPD.",
+      "type": "main",
+      "rarity": 2,
+      "imgId": "Common_Potential_01",
+      "id": 514507,
+      "subIcon": "Round"
+    },
+    "514508": {
+      "name": "Twilight Gleam",
+      "briefDesc": "Increases the uses of Nightbloom (Main Skill). When casting the Main Skill, increases Otoha's Umbra DMG.",
+      "type": "main",
+      "rarity": 1,
+      "imgId": "14501_Potential_03",
+      "id": 514508,
+      "subIcon": "Diamond"
+    },
+    "514509": {
+      "name": "Duskfall",
+      "briefDesc": "Increases Skill DMG dealt by Nightbloom (Main Skill) against targets inflicted with Dark Shackles.",
+      "type": "main",
+      "rarity": 2,
+      "imgId": "Common_Potential_23",
+      "id": 514509,
+      "subIcon": "Triangle"
+    },
+    "514510": {
+      "name": "Fading Candle Flame",
+      "briefDesc": "Immune to DMG while moving during Nightbloom (Main Skill). Increases Otoha's ATK.",
+      "type": "main",
+      "rarity": 2,
+      "imgId": "Common_Potential_9",
+      "id": 514510,
+      "subIcon": "Round"
+    },
+    "514511": {
+      "name": "Bewitching Phantom",
+      "briefDesc": "Increases Otoha's dodges. When dodging, increases her ATK.",
+      "type": "main",
+      "rarity": 2,
+      "imgId": "Common_Potential_13",
+      "id": 514511,
+      "subIcon": "Diamond"
+    },
+    "514512": {
+      "name": "Night Tide Rush",
+      "briefDesc": "Void Blossom (Ultimate) triggers Umbra Mark. Increases Otoha's ATK.",
+      "type": "main",
+      "rarity": 2,
+      "imgId": "Common_Potential_Dark_1",
+      "id": 514512,
+      "subIcon": "Triangle"
+    },
+    "514513": {
+      "name": "Shadow Blossom",
+      "briefDesc": "When Otoha triggers an Umbra Mark, increases her Umbra DMG.",
+      "type": "main",
+      "rarity": 1,
+      "imgId": "Common_Potential_Dark_1",
+      "id": 514513,
+      "subIcon": "Round"
+    },
+    "514521": {
+      "name": "Lonely Twin Shadows",
+      "briefDesc": "Increases Soul Rend duration. When Otoha deals Ultimate DMG, reduces Ultimate Cooldown and gains Energy. Increases Otoha's Ultimate DMG and Ultimate Crit Rate.",
+      "type": "support",
+      "rarity": 0,
+      "imgId": "14501_Potential_21",
+      "id": 514521
+    },
+    "514522": {
+      "name": "Night-Walker",
+      "briefDesc": "When the Main Umbra Trekker deals DMG to a target with Soul Rend, Otoha summons Doomfall, dealing AoE DMG and gaining Energy. Increases Otoha's Ultimate DMG and Ultimate Crit Rate.",
+      "type": "support",
+      "rarity": 0,
+      "imgId": "14501_Potential_22",
+      "id": 514522
+    },
+    "514523": {
+      "name": "Ripple of Shadow",
+      "briefDesc": "When Weeping Sky advances, summons additional bombardments to deal AoE DMG. Bombardments have a chance to deal DMG multiple times. Increases DEF PEN dealt by Weeping Sky. Increases Otoha's Skill DMG.",
+      "type": "support",
+      "rarity": 0,
+      "imgId": "14501_Potential_23",
+      "id": 514523
+    },
+    "514524": {
+      "name": "Evening Rain",
+      "briefDesc": "In an all-Umbra squad, summons additional Weeping Sky. Increases DEF PEN dealt by Weeping Sky to targets inflicted with Umbra Mark or Dark Shackles. Increases Otoha's Skill DMG.",
+      "type": "support",
+      "rarity": 0,
+      "imgId": "14501_Potential_24",
+      "id": 514524
+    },
+    "514525": {
+      "name": "Solitary Lantern",
+      "briefDesc": "When Otoha deals Ultimate DMG, there is a chance to shoot multiple times. Increases Otoha's Ultimate Crit Rate.",
+      "type": "support",
+      "rarity": 1,
+      "imgId": "14501_Potential_25",
+      "id": 514525,
+      "subIcon": "Diamond"
+    },
+    "514526": {
+      "name": "Without A Trace",
+      "briefDesc": "When Shattered Edge (Support Skill) is on cooldown, increases Otoha's Ultimate DMG.",
+      "type": "support",
+      "rarity": 2,
+      "imgId": "Common_Potential_19",
+      "id": 514526,
+      "subIcon": "Triangle"
+    },
+    "514527": {
+      "name": "Hollow Steps",
+      "briefDesc": "When any Umbra Trekker casts a Main Skill or Support Skill, increases Otoha's Ultimate Crit Rate and Ultimate Crit DMG.",
+      "type": "support",
+      "rarity": 2,
+      "imgId": "Common_Potential_15",
+      "id": 514527,
+      "subIcon": "Round"
+    },
+    "514528": {
+      "name": "Rain-Woven Sorrow",
+      "briefDesc": "Reduces the forward movement speed of Weeping Sky and increases its Skill DMG.",
+      "type": "support",
+      "rarity": 1,
+      "imgId": "14501_Potential_23",
+      "id": 514528,
+      "subIcon": "Diamond"
+    },
+    "514529": {
+      "name": "Bone-Chilling Rain",
+      "briefDesc": "When Weeping Sky deals DMG, increases the target's Umbra DMG Taken.",
+      "type": "support",
+      "rarity": 2,
+      "imgId": "Common_Potential_4",
+      "id": 514529,
+      "subIcon": "Triangle"
+    },
+    "514530": {
+      "name": "Inevitable End",
+      "briefDesc": "Increases Weeping Sky's Umbra DMG against elite or higher-tier targets.",
+      "type": "support",
+      "rarity": 2,
+      "imgId": "Common_Potential_23",
+      "id": 514530,
+      "subIcon": "Round"
+    },
+    "514531": {
+      "name": "Devouring Shadow",
+      "briefDesc": "In an all-Umbra squad, increases Umbra Trekkers' Umbra DMG.",
+      "type": "support",
+      "rarity": 1,
+      "imgId": "Common_Potential_18",
+      "id": 514531,
+      "subIcon": "Diamond"
+    },
+    "514532": {
+      "name": "Murmur of Annihilation",
+      "briefDesc": "Each Umbra Trekker in the squad increases all Umbra teammates' Umbra DMG.",
+      "type": "support",
+      "rarity": 2,
+      "imgId": "Common_Potential_20",
+      "id": 514532,
+      "subIcon": "Triangle"
+    },
+    "514533": {
+      "name": "Silent Knell",
+      "briefDesc": "Void Blossom (Ultimate) inflicts Umbra Mark: Gloom. Increases Otoha's ATK.",
+      "type": "support",
+      "rarity": 2,
+      "imgId": "Common_Potential_14",
+      "id": 514533,
+      "subIcon": "Round"
+    },
+    "514541": {
+      "name": "Blossom-Eroded Abyss",
+      "briefDesc": "The parasol thrown by Void Blossom (Ultimate) pulls in nearby targets. Increases Otoha's Umbra DMG.",
+      "type": "common",
+      "rarity": 2,
+      "imgId": "14501_Potential_41",
+      "id": 514541,
+      "subIcon": "Diamond"
+    },
+    "514542": {
+      "name": "Ultimate Darkness",
+      "briefDesc": "Increases the Ultimate DMG dealt by Void Blossom (Ultimate) to targets inflicted with Dark Shackles.",
+      "type": "common",
+      "rarity": 2,
+      "imgId": "14501_Potential_42",
+      "id": 514542,
+      "subIcon": "Triangle"
+    },
+    "514543": {
+      "name": "Moonlit Edge",
+      "briefDesc": "Increases ATK when Otoha casts Void Blossom (Ultimate).",
+      "type": "common",
+      "rarity": 2,
+      "imgId": "14501_Potential_42",
+      "id": 514543,
       "subIcon": "Round"
     }
   },
@@ -6436,7 +6691,7 @@
     },
     "514708": {
       "name": "Fallen Duet",
-      "briefDesc": "When casting the Ultimate, launches Demonic Boombox at the same time.",
+      "briefDesc": "When casting the Ultimate, Demonic Boomboxes play at the same time.",
       "type": "main",
       "rarity": 1,
       "imgId": "14701_Potential_04",
@@ -6445,7 +6700,7 @@
     },
     "514709": {
       "name": "Echo Stack",
-      "briefDesc": "When Caramel is near Demonic Boombox, increases Demonic Boombox DMG.",
+      "briefDesc": "When Caramel is near Demonic Boombox, increases Demonic Boombox's Minion DMG.",
       "type": "main",
       "rarity": 2,
       "imgId": "Common_Potential_Dark_1",
@@ -6490,7 +6745,7 @@
     },
     "514721": {
       "name": "Melody Return",
-      "briefDesc": "Increases the number of horizontal sweeps and DMG of the Support Skill.",
+      "briefDesc": "Increases the number of horizontal sweeps and Skill DMG of the Support Skill.",
       "type": "support",
       "rarity": 0,
       "imgId": "14701_Potential_21",
@@ -6522,7 +6777,7 @@
     },
     "514725": {
       "name": "Bass Gravity",
-      "briefDesc": "Increases of DMG of the horizontal sweeps. Can pull in targets.",
+      "briefDesc": "Increases Skill DMG of the horizontal sweeps. Can pull targets.",
       "type": "support",
       "rarity": 1,
       "imgId": "14701_Potential_21",
@@ -6531,7 +6786,7 @@
     },
     "514726": {
       "name": "Rhythm Waves",
-      "briefDesc": "Increases the Attack Range and DMG of the horizontal sweep.",
+      "briefDesc": "Increases the Attack Range and Skill DMG of the horizontal sweep.",
       "type": "support",
       "rarity": 2,
       "imgId": "14701_Potential_22",
@@ -6540,7 +6795,7 @@
     },
     "514727": {
       "name": "Heart Piercer",
-      "briefDesc": "Increases horizontal sweep's DMG to nearby targets.",
+      "briefDesc": "Increases horizontal sweep's Skill DMG to nearby targets.",
       "type": "support",
       "rarity": 2,
       "imgId": "14701_Potential_21",
@@ -6558,7 +6813,7 @@
     },
     "514729": {
       "name": "Soulstrike Sound",
-      "briefDesc": "The Support Skill's Musical Notes will now attack the same target. After dealing DMG to the same target, increases Musical Notes' DMG.",
+      "briefDesc": "The Support Skill's Notes will now attack the same target. After dealing DMG to the same target, increases the Notes' Skill DMG.",
       "type": "support",
       "rarity": 2,
       "imgId": "14701_Potential_24",
@@ -6567,7 +6822,7 @@
     },
     "514730": {
       "name": "House Resonance",
-      "briefDesc": "Increases DMG of the Support Skill's Musical Notes dealt to elite or higher-tier targets.",
+      "briefDesc": "Increases Skill DMG of the Support Skill's Notes dealt to elite or higher-tier targets.",
       "type": "support",
       "rarity": 2,
       "imgId": "14701_Potential_24",
@@ -6585,7 +6840,7 @@
     },
     "514732": {
       "name": "Blazing Remnant",
-      "briefDesc": "Increases Support Skill DMG to targets inflicted with Umbra Burn.",
+      "briefDesc": "Increases the Support Skill's Skill DMG to targets inflicted with Dark Burn.",
       "type": "support",
       "rarity": 2,
       "imgId": "14701_Potential_24",
@@ -6603,7 +6858,7 @@
     },
     "514741": {
       "name": "Fallen Veil",
-      "briefDesc": "Increases the Ultimate DMG to targets inflicted with Umbra Burn.",
+      "briefDesc": "Increases Ultimate's Ultimate DMG to targets inflicted with Dark Burn.",
       "type": "common",
       "rarity": 2,
       "imgId": "14701_Potential_41",
@@ -6621,7 +6876,7 @@
     },
     "514743": {
       "name": "Ascension Soundflare",
-      "briefDesc": "When the Ultimate deals DMG, increases its DMG.",
+      "briefDesc": "When the Ultimate deals DMG, increases Ultimate DMG it deals.",
       "type": "common",
       "rarity": 2,
       "imgId": "14701_Potential_41",
@@ -6691,7 +6946,7 @@
     },
     "514908": {
       "name": "Slanderous Strike",
-      "briefDesc": "Reduces the Movement SPD of targets linked by the Iron Cage.  Increases Gerie's DMG to slowed targets.",
+      "briefDesc": "Reduces the Movement SPD of targets linked by the Iron Cage. Increases Gerie's Terra DMG to slowed targets.",
       "type": "main",
       "rarity": 2,
       "imgId": "14901_Potential_03",
@@ -6709,7 +6964,7 @@
     },
     "514910": {
       "name": "Piercing Sorrow",
-      "briefDesc": "Increases the DMG and duration of Iron Cage.",
+      "briefDesc": "Increases the Terra DMG and duration of Iron Cage.",
       "type": "main",
       "rarity": 1,
       "imgId": "14901_Potential_04",
@@ -6727,7 +6982,7 @@
     },
     "514912": {
       "name": "Everyone's Invited",
-      "briefDesc": "Increases the DMG and range of Iron Cage.",
+      "briefDesc": "Increases the Skill DMG and range of Iron Cage.",
       "type": "main",
       "rarity": 2,
       "imgId": "14901_Potential_04",
@@ -6745,7 +7000,7 @@
     },
     "514921": {
       "name": "Deeper into Sin",
-      "briefDesc": "Increases the DMG of the Support Skill's chained spades. The Support Skill now conjures up more chained spades to deal DMG.",
+      "briefDesc": "Increases the Skill DMG of the Support Skill's chained spades. The Support Skill now conjures up more chained spades to deal DMG.",
       "type": "support",
       "rarity": 0,
       "imgId": "14901_Potential_21",
@@ -6753,7 +7008,7 @@
     },
     "514922": {
       "name": "Curtain Call",
-      "briefDesc": "Increases the DMG of the Support Skill's chained spades. When the chained spades are withdrawn, each spade deals DMG.",
+      "briefDesc": "Increases the Skill DMG of the Support Skill's chained spades. When the chained spades are withdrawn, each spade deals DMG.",
       "type": "support",
       "rarity": 0,
       "imgId": "14901_Potential_22",
@@ -6769,7 +7024,7 @@
     },
     "514924": {
       "name": "Earthshaker",
-      "briefDesc": "Increases the DMG and Attack Range of the Support Skill's seismic waves.",
+      "briefDesc": "Increases the Skill DMG and Attack Range of the Support Skill's seismic waves.",
       "type": "support",
       "rarity": 0,
       "imgId": "14901_Potential_24",
@@ -6786,7 +7041,7 @@
     },
     "514926": {
       "name": "Hexacalamity: Tyrant's March",
-      "briefDesc": "Increases the DMG of the Support Skill's chained spades to targets at less than 70% HP.",
+      "briefDesc": "Increases the Skill DMG of the Support Skill's chained spades to targets at less than 70% HP.",
       "type": "support",
       "rarity": 2,
       "imgId": "14901_Potential_21",
@@ -6813,7 +7068,7 @@
     },
     "514929": {
       "name": "Hexacalamity: Death",
-      "briefDesc": "Increases the DMG and Resilience Break Efficiency of the Support Skill's seismic waves.",
+      "briefDesc": "Increases the Skill DMG and Resilience Break Efficiency of the Support Skill's seismic waves.",
       "type": "support",
       "rarity": 2,
       "imgId": "14901_Potential_24",
@@ -6946,7 +7201,7 @@
     },
     "515008": {
       "name": "Lightbreaker",
-      "briefDesc": "When Laru's Auto Attack deals DMG to a target inflicted with Lux Mark: Radiance, increases the Skill DMG of her next skill.",
+      "briefDesc": "When Laru's Auto Attack deals DMG to a target inflicted with Lux Mark: Radiance, increases the Skill DMG of her next Main Skill.",
       "type": "main",
       "rarity": 2,
       "imgId": "15001_Potential_03",
@@ -7386,7 +7641,7 @@
     },
     "515543": {
       "name": "Wave to Oblivion",
-      "briefDesc": "Increases Shia's Ultimate DMG and reduces the Ultimate's Attack Interval.",
+      "briefDesc": "Increases Shia's Ultimate Lux DMG and reduces the Ultimate's Attack Interval.",
       "type": "common",
       "rarity": 2,
       "imgId": "15501_Potential_41",
@@ -7429,7 +7684,7 @@
     },
     "515605": {
       "name": "Cuddle of Terror",
-      "briefDesc": "When the penguin plushie stops and pounces on the target. Also increases the penguin plushie's DMG.",
+      "briefDesc": "When the penguin plushie stops, it pounces on the target. Also increases the penguin plushie's Skill DMG.",
       "type": "main",
       "rarity": 1,
       "imgId": "15601_Potential_05",
@@ -7492,7 +7747,7 @@
     },
     "515612": {
       "name": "Touch of Nature",
-      "briefDesc": "Increases all Terra Trekkers' Mark DMG.",
+      "briefDesc": "Increases all Terra Trekkers' Mark DMG Multiplier.",
       "type": "main",
       "rarity": 1,
       "imgId": "Common_Potential_Earth_1",
@@ -7587,7 +7842,7 @@
     },
     "515630": {
       "name": "Honeyed Arrow",
-      "briefDesc": "Increases the barrage and heart arrow's DMG. The heart arrow now restores more HP.",
+      "briefDesc": "Increases the barrage and heart arrow's Skill DMG. The heart arrow now restores more HP.",
       "type": "support",
       "rarity": 2,
       "imgId": "Common_Potential_7",
@@ -7747,7 +8002,7 @@
     },
     "515812": {
       "name": "Jazz of Rage",
-      "briefDesc": "While transformed into Dame Laru, Snowish Laru's shots and Candy Barrage can trigger Ignis Mark. Increases Snowish Laru's ATK.",
+      "briefDesc": "While transformed into Dame Laru, Snowish Laru's shots and Candy Barrage can trigger Ignis Mark and inflict Conflagration. Increases Snowish Laru's ATK.",
       "type": "main",
       "rarity": 2,
       "imgId": "Common_Potential_Fire_1",
@@ -8133,7 +8388,7 @@
     },
     "515941": {
       "name": "Dream Shock",
-      "briefDesc": "Increases Ultimate DMG against elite or higher-tier targets. Additionally inflicts Charm on normal targets, dealing DMG when the effect ends.",
+      "briefDesc": "Increases Ultimate's Ultimate DMG against elite or higher-tier targets. Additionally inflicts Charm on normal targets, dealing DMG when the effect ends.",
       "type": "common",
       "rarity": 2,
       "imgId": "15901_Potential_41",
@@ -8142,7 +8397,7 @@
     },
     "515942": {
       "name": "Lingering Grace",
-      "briefDesc": "Increases Ultimate DMG. While the Ultimate is on cooldown or its Energy is not full, increases the ATK of Terra Vanguards and Versatile Trekkers in the squad.",
+      "briefDesc": "Increases Springseek Coronis's Ultimate DMG. While the Ultimate is on cooldown or its Energy is not full, increases the ATK of Terra Vanguards and Versatile Trekkers in the squad.",
       "type": "common",
       "rarity": 2,
       "imgId": "15901_Potential_41",
