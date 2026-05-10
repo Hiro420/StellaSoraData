@@ -179,5 +179,29 @@
     "Image": "Icon/MapChallenge/boss_Tachie_05",
     "BG": "Image/UIBG/uniseed_basement",
     "SummonLevelUp": true
+  },
+  "16": {
+    "Id": 16,
+    "FloorId": 1001016,
+    "MonsterId": 6310140,
+    "NonDamageScoreGet": 1015,
+    "ScoreBossAbility": 100013,
+    "ScoreGetSwitchGroup": 1008,
+    "Episode": "Icon/MapChallenge/cover_Bossrush_duobitaideng",
+    "Image": "Icon/MapChallenge/boss_Tachie_11",
+    "BG": "ImageAvg/AvgBg/tower_wind_light",
+    "SummonLevelUp": true
+  },
+  "17": {
+    "Id": 17,
+    "FloorId": 1001017,
+    "MonsterId": 6310150,
+    "NonDamageScoreGet": 1013,
+    "ScoreBossAbility": 100014,
+    "ScoreGetSwitchGroup": 1008,
+    "Episode": "Icon/MapChallenge/cover_Bossrush_jinduan",
+    "Image": "Icon/MapChallenge/boss_Tachie_09",
+    "BG": "ImageAvg/AvgBg/tower_wind_light",
+    "SummonLevelUp": true
   }
 }
