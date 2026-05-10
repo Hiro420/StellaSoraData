@@ -834,6 +834,201 @@
       "STm06_05_a"
     ]
   },
+  "801": {
+    "Id": 801,
+    "ConditionId": "CBA07_01",
+    "StoryId_a": [
+      "STm07_01"
+    ]
+  },
+  "802": {
+    "Id": 802,
+    "ConditionId": "CBA07_02",
+    "StoryId_a": [
+      "STm07_07"
+    ]
+  },
+  "803": {
+    "Id": 803,
+    "ConditionId": "CBA07_03",
+    "StoryId_a": [
+      "STm07_15"
+    ]
+  },
+  "804": {
+    "Id": 804,
+    "ConditionId": "C07_01",
+    "StoryId_a": [
+      "STm07_00"
+    ]
+  },
+  "805": {
+    "Id": 805,
+    "ConditionId": "C07_02",
+    "StoryId_a": [
+      "BAm07_01"
+    ]
+  },
+  "806": {
+    "Id": 806,
+    "ConditionId": "C07_03",
+    "StoryId_a": [
+      "STm07_02"
+    ]
+  },
+  "807": {
+    "Id": 807,
+    "ConditionId": "C07_04",
+    "StoryId_a": [
+      "STm07_03"
+    ]
+  },
+  "808": {
+    "Id": 808,
+    "ConditionId": "C07_05_c",
+    "EvIds_a": [
+      "E803"
+    ],
+    "StoryId_a": [
+      "STm07_04"
+    ]
+  },
+  "809": {
+    "Id": 809,
+    "ConditionId": "C07_05_a",
+    "EvIds_a": [
+      "E801"
+    ],
+    "StoryId_a": [
+      "STm07_04"
+    ]
+  },
+  "810": {
+    "Id": 810,
+    "ConditionId": "C07_05_b",
+    "EvIds_a": [
+      "E802"
+    ],
+    "StoryId_a": [
+      "STm07_04"
+    ]
+  },
+  "811": {
+    "Id": 811,
+    "ConditionId": "C07_06_ba",
+    "EvIds_a": [
+      "E804"
+    ],
+    "StoryId_a": [
+      "STm07_05_b"
+    ]
+  },
+  "812": {
+    "Id": 812,
+    "ConditionId": "C07_06_bb",
+    "EvIds_a": [
+      "E805"
+    ],
+    "StoryId_a": [
+      "STm07_05_b"
+    ]
+  },
+  "813": {
+    "Id": 813,
+    "ConditionId": "C07_06_bc",
+    "EvIds_a": [
+      "E806"
+    ],
+    "StoryId_a": [
+      "STm07_05_b"
+    ]
+  },
+  "814": {
+    "Id": 814,
+    "ConditionId": "C07_06_a",
+    "StoryId_a": [
+      "STm07_05_a"
+    ]
+  },
+  "815": {
+    "Id": 815,
+    "ConditionId": "C07_07",
+    "StoryId_a": [
+      "STm07_06_a"
+    ]
+  },
+  "816": {
+    "Id": 816,
+    "ConditionId": "C07_08",
+    "StoryId_a": [
+      "BAm07_02"
+    ]
+  },
+  "817": {
+    "Id": 817,
+    "ConditionId": "C07_09",
+    "StoryId_a": [
+      "STm07_08"
+    ]
+  },
+  "818": {
+    "Id": 818,
+    "ConditionId": "C07_12",
+    "StoryId_a": [
+      "STm07_11"
+    ]
+  },
+  "819": {
+    "Id": 819,
+    "ConditionId": "C07_10",
+    "StoryId_a": [
+      "STm07_09"
+    ]
+  },
+  "820": {
+    "Id": 820,
+    "ConditionId": "C07_11",
+    "StoryId_a": [
+      "STm07_10"
+    ]
+  },
+  "821": {
+    "Id": 821,
+    "ConditionId": "C07_13",
+    "StoryId_a": [
+      "STm07_12"
+    ]
+  },
+  "822": {
+    "Id": 822,
+    "ConditionId": "C07_14",
+    "StoryId_a": [
+      "STm07_13"
+    ]
+  },
+  "823": {
+    "Id": 823,
+    "ConditionId": "C07_15",
+    "StoryId_a": [
+      "STm07_14"
+    ]
+  },
+  "824": {
+    "Id": 824,
+    "ConditionId": "C07_16",
+    "StoryId_a": [
+      "BAm07_03"
+    ]
+  },
+  "825": {
+    "Id": 825,
+    "ConditionId": "C07_17",
+    "StoryId_a": [
+      "STm07_06_ba",
+      "STm07_06_bb",
+      "STm07_06_bc"
+    ]
+  },
   "6501": {
     "Id": 6501,
     "ConditionId": "CBA06x5_01",

@@ -201,6 +201,21 @@
     "EndTime": "2026-05-08T10:59:59+08:00",
     "TabBgRes": "Icon/Banner/tab_activity_301032_lang"
   },
+  "301033": {
+    "Id": 301033,
+    "SortId": 6,
+    "ActivityType": 2,
+    "Name": "主线第7章纪念签到",
+    "PreLimit": 1,
+    "LimitParam": "2",
+    "PlayCond": 1,
+    "PlayCondParams": "2",
+    "StartType": 2,
+    "StartTime": "2026-05-08T12:00:00+08:00",
+    "EndType": 2,
+    "EndTime": "2026-05-22T03:59:59+08:00",
+    "TabBgRes": "Icon/Banner/tab_activity_301033_lang"
+  },
   "201001": {
     "Id": 201001,
     "SortId": 13,
@@ -509,6 +524,22 @@
     "StartTime": "2026-03-31T12:00:00+08:00",
     "EndType": 2,
     "EndTime": "2026-04-07T11:00:00+08:00",
+    "BannerRes": "banner_activity_05",
+    "TabBgRes": "Icon/Banner/tab_activity_05"
+  },
+  "500005": {
+    "Id": 500005,
+    "SortId": 6,
+    "ActivityType": 14,
+    "Name": "BD兑换活动",
+    "PreLimit": 1,
+    "LimitParam": "10",
+    "PlayCond": 1,
+    "PlayCondParams": "10",
+    "StartType": 2,
+    "StartTime": "2026-05-08T12:00:00+08:00",
+    "EndType": 2,
+    "EndTime": "2026-05-14T11:00:00+08:00",
     "BannerRes": "banner_activity_05",
     "TabBgRes": "Icon/Banner/tab_activity_05"
   },

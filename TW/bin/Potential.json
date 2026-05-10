@@ -22842,8 +22842,7 @@
     "Desc": "Potential.511911.2",
     "Param1": "Effect,LevelUp,11951101,EffectTypeParam1,HdPct",
     "Param2": "BuffValue,NoLevel,11951111,Time,10K",
-    "Param3": "Effect,LevelUp,11951101,EffectTypeFirstSubtype,Enum,EAT",
-    "Param4": "BuffValue,NoLevel,11951111,LaminatedNum,Fixed"
+    "Param3": "Effect,LevelUp,11951101,EffectTypeFirstSubtype,Enum,EAT"
   },
   "511912": {
     "Id": 511912,
@@ -23213,7 +23212,6 @@
     "BriefDesc": "Potential.511932.1",
     "Desc": "Potential.511932.2",
     "Param1": "OnceAdditionalAttribute,LevelUp,11953201,Value1,10KHdPct",
-    "Param2": "OnceAdditionalAttribute,LevelUp,11953201,AttributeType1,Enum,EAT",
     "Param3": "OnceAdditionalAttribute,LevelUp,11953201,AttributeType1,Enum,EAT"
   },
   "511933": {
