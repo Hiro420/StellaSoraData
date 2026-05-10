@@ -12,7 +12,7 @@
   "ScoreBossAbility.100005.1": "虚実変転",
   "ScoreBossAbility.100005.2": "首領は「真影状態」と「幻滅状態」を<color=#ec6d21>15秒</color>ごとに切り替える。\n「幻滅状態」中、首領が受ける従者からのダメージが<color=#ec6d21>&Param1&</color>増加する。印の効果が1回発動するたびに、現在の状態の持続時間が<color=#ec6d21>&Param2&</color>秒延長される。この効果は1秒ごとに1回まで発動できる。\n「真影状態」中、首領が受けるスキルダメージが<color=#ec6d21>&Param3&</color>増加する。従者が首領にダメージを与えるたび、現在の状態の継続時間が<color=#ec6d21>&Param4&</color>秒延長される。この効果は1秒ごとに1回まで発動できる。",
   "ScoreBossAbility.100006.1": "引雷招来",
-  "ScoreBossAbility.100006.2": "首領が「落雷」を保有している間、自身の与えるダメージが<color=#ec6d21>&Param4&</color>増加し、3秒ごとに追加で4回小さい範囲にダメージを与える。\n味方が<color=#ec6d21>&Param1&</color>秒以内に、支援巡遊者のスキルで首領に累計<color=#ec6d21>&Param2&</color>回ダメージを与えると、「落雷」は15秒間無効化され、その間首領が支援巡遊者から受けるスキルダメージが<color=#ec6d21>&Param3&</color>増加する。",
+  "ScoreBossAbility.100006.2": "首領が「落雷」を保有している間、自身の与えるダメージが<color=#ec6d21>&Param4&</color>増加し、3秒ごとに追加で4回小範囲にダメージを与える。\n味方が<color=#ec6d21>&Param1&</color>秒以内に、支援巡遊者のスキルで首領に累計<color=#ec6d21>&Param2&</color>回ダメージを与えると、「落雷」は15秒間無効化され、その間首領が支援巡遊者から受けるスキルダメージが<color=#ec6d21>&Param3&</color>増加する。",
   "ScoreBossAbility.100007.1": "勢いに乗って",
   "ScoreBossAbility.100007.2": "首領の与えるダメージが<color=#ec6d21>&Param1&</color>増加する。フィールドに味方の従者が1体存在するごとに、首領の与えるダメージが<color=#ec6d21>&Param2&</color>減少し、さらに被ダメージが<color=#ec6d21>&Param3&</color>増加する。この効果は3回まで重複でき、従者が消滅した後も<color=#ec6d21>&Param4&</color>秒間持続する。",
   "ScoreBossAbility.100008.1": "専念",
@@ -24,5 +24,9 @@
   "ScoreBossAbility.100011.1": "連携強化",
   "ScoreBossAbility.100011.2": "主力巡遊者がスキルを<color=#ec6d21>&Param1&</color>回発動するたびに、<color=#ec6d21>&Param3&</color>秒間、すべての支援巡遊者のスキルダメージ強度が<color=#ec6d21>&Param2&</color>増加する。この効果は再発動時に持続時間が更新され、効果は重複しない。\n支援巡遊者が<color=#ec6d21>&Param4&</color>回ダメージを与えるごとに、<color=#ec6d21>&Param6&</color>秒間、主力巡遊者のスキルダメージ強度が<color=#ec6d21>&Param5&</color>増加する。\nこの効果は再発動時に持続時間が更新され、効果は重複しない。",
   "ScoreBossAbility.100012.1": "破竹の勢い",
-  "ScoreBossAbility.100012.2": "味方が首領にスキルダメージを<color=#ec6d21>&Param7&</color>回与えるごとに、<color=#ec6d21>&Param3&</color>秒間、首領の必殺技被ダメージ強度が<color=#ec6d21>&Param1&</color>増加する。この効果は<color=#ec6d21>&Param2&</color>回まで重複できる。\n味方が首領に印ダメージを<color=#ec6d21>&Param8&</color>回与えるごとに、<color=#ec6d21>&Param6&</color>秒間、首領のスキル被ダメージ強度が<color=#ec6d21>&Param4&</color>増加する。この効果は<color=#ec6d21>&Param5&</color>回まで重複できる。"
+  "ScoreBossAbility.100012.2": "味方が首領にスキルダメージを<color=#ec6d21>&Param7&</color>回与えるごとに、<color=#ec6d21>&Param3&</color>秒間、首領の必殺技被ダメージ強度が<color=#ec6d21>&Param1&</color>増加する。この効果は<color=#ec6d21>&Param2&</color>回まで重複できる。\n味方が首領に印ダメージを<color=#ec6d21>&Param8&</color>回与えるごとに、<color=#ec6d21>&Param6&</color>秒間、首領のスキル被ダメージ強度が<color=#ec6d21>&Param4&</color>増加する。この効果は<color=#ec6d21>&Param5&</color>回まで重複できる。",
+  "ScoreBossAbility.100013.1": "引雷招来",
+  "ScoreBossAbility.100013.2": "首領が「落雷」を保有している間、自身の与えるダメージが<color=#ec6d21>&Param4&</color>増加し、3秒ごとに追加で4回小範囲にダメージを与える。\n味方が<color=#ec6d21>&Param1&</color>秒以内に、首領に印ダメージを累計<color=#ec6d21>&Param2&</color>回与えると、「落雷」は15秒間無効化され、その間首領のスキル被ダメージ強度が<color=#ec6d21>&Param3&</color>増加する。",
+  "ScoreBossAbility.100014.1": "百錬成鋼",
+  "ScoreBossAbility.100014.2": "支援巡遊者がフィールドに<color=#ec6d21>&Param1&</color>秒残るごとに、自身と主力巡遊者は「モメンタム」を1獲得する。\n「モメンタム」1につき、スキルダメージ強度が<color=#ec6d21>&Param2&</color>増加し、通常攻撃ダメージ強度が<color=#ec6d21>&Param5&</color>増加する。この効果は最大<color=#ec6d21>&Param3&</color>回まで重複できる。「モメンタム」は<color=#ec6d21>&Param4&</color>秒間持続し、獲得するたびに持続時間がリセットされる。\n2体の支援巡遊者は、それぞれ独立して主力巡遊者に「モメンタム」を付与できる。重複上限および効果は個別に計算され、同時に存在できる。"
 }
