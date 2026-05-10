@@ -101,5 +101,21 @@
     "UnlockShowStoryId": 6503,
     "OpenTime": "2026-04-16T12:00:00+08:00",
     "StoryPanelId": 431
+  },
+  "8": {
+    "Id": 8,
+    "Type": 1,
+    "WorldClass": 20,
+    "PrevStories": [
+      "STm06x5_10"
+    ],
+    "Index": "07",
+    "Name": "StoryChapter.8.1",
+    "Desc": "StoryChapter.8.2",
+    "ChapterIcon": "Icon/MapChapter/chapter_stage_07",
+    "BannerIcon": "UI/big_sprites/banner_avg_chapter7",
+    "ChapterYear": "StoryChapter.8.3",
+    "UnlockShowStoryId": 804,
+    "OpenTime": "2026-05-08T12:00:00+08:00"
   }
 }
