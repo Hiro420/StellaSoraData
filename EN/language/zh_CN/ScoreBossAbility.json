@@ -24,5 +24,9 @@
   "ScoreBossAbility.100011.1": "协同增势",
   "ScoreBossAbility.100011.2": "主控角色每释放<color=#ec6d21>&Param1&</color>次技能，所有援护角色技能伤害强度增加<color=#ec6d21>&Param2&</color>，持续<color=#ec6d21>&Param3&</color>秒。\n援护角色每造成<color=#ec6d21>&Param4&</color>次伤害，主控角色技能伤害强度增加<color=#ec6d21>&Param5&</color>，持续<color=#ec6d21>&Param6&</color>秒。\n重复触发时，重置时间，不叠加效果。",
   "ScoreBossAbility.100012.1": "连击破势",
-  "ScoreBossAbility.100012.2": "己方每对首领造成<color=#ec6d21>&Param7&</color>次技能伤害，首领受到绝招伤害强度增加<color=#ec6d21>&Param1&</color>，最多叠加<color=#ec6d21>&Param2&</color>层，持续<color=#ec6d21>&Param3&</color>秒。\n己方每对首领造成<color=#ec6d21>&Param8&</color>次印记伤害，首领受到技能伤害强度增加<color=#ec6d21>&Param4&</color>，最多叠加<color=#ec6d21>&Param5&</color>层，持续<color=#ec6d21>&Param6&</color>秒。"
+  "ScoreBossAbility.100012.2": "己方每对首领造成<color=#ec6d21>&Param7&</color>次技能伤害，首领受到绝招伤害强度增加<color=#ec6d21>&Param1&</color>，最多叠加<color=#ec6d21>&Param2&</color>层，持续<color=#ec6d21>&Param3&</color>秒。\n己方每对首领造成<color=#ec6d21>&Param8&</color>次印记伤害，首领受到技能伤害强度增加<color=#ec6d21>&Param4&</color>，最多叠加<color=#ec6d21>&Param5&</color>层，持续<color=#ec6d21>&Param6&</color>秒。",
+  "ScoreBossAbility.100013.1": "引雷入室",
+  "ScoreBossAbility.100013.2": "首领拥有「落雷」时自身造成伤害提升<color=#ec6d21>&Param4&</color>，且每3秒额外造成4次小范围伤害；\n当己方<color=#ec6d21>&Param1&</color>秒内对首领累计造成<color=#ec6d21>&Param2&</color>次印记伤害，使「落雷」失效15秒，期间首领受到的技能伤害强度增加<color=#ec6d21>&Param3&</color>",
+  "ScoreBossAbility.100014.1": "多方雕琢",
+  "ScoreBossAbility.100014.2": "援护角色每驻场<color=#ec6d21>&Param1&</color>秒，为自己与主控角色叠加1层【蓄势】。\n每层【蓄势】提供<color=#ec6d21>&Param2&</color>技能伤害强度和<color=#ec6d21>&Param5&</color>普攻伤害强度，最多叠加<color=#ec6d21>&Param3&</color>层，每次叠加时重置持续时间，持续<color=#ec6d21>&Param4&</color>秒。\n两名援护角色可分别为主控角色叠加【蓄势】，层数上限与效果分别计算，可同时存在。"
 }

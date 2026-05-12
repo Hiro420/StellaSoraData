@@ -1852,6 +1852,448 @@
     "IsLast": true,
     "AvgMotion": "style_21"
   },
+  "801": {
+    "Id": 801,
+    "StoryId": "BAm07_01",
+    "Chapter": 8,
+    "Index": "Story.801.4",
+    "Title": "Story.801.1",
+    "Desc": "Story.801.2",
+    "TrialBuild": 701,
+    "ConditionId": "CBA07_01",
+    "IsBattle": true,
+    "Reward": 102,
+    "RewardDisplay": "[{\"Tid\":2,\"Qty\":30}]",
+    "ParentStoryId": [
+      "STm07_01"
+    ],
+    "FloorId": [
+      1070101
+    ],
+    "PreviewMonsterGroupId": 10701,
+    "Aim": "Story.801.3"
+  },
+  "802": {
+    "Id": 802,
+    "StoryId": "BAm07_02",
+    "Chapter": 8,
+    "Index": "Story.802.4",
+    "Title": "Story.802.1",
+    "Desc": "Story.802.2",
+    "TrialBuild": 702,
+    "ConditionId": "CBA07_02",
+    "IsBattle": true,
+    "Reward": 102,
+    "RewardDisplay": "[{\"Tid\":2,\"Qty\":30}]",
+    "ParentStoryId": [
+      "STm07_07"
+    ],
+    "FloorId": [
+      1070201
+    ],
+    "PreviewMonsterGroupId": 10702,
+    "Aim": "Story.802.3"
+  },
+  "803": {
+    "Id": 803,
+    "StoryId": "BAm07_03",
+    "Chapter": 8,
+    "Index": "Story.803.4",
+    "Title": "Story.803.1",
+    "Desc": "Story.803.2",
+    "TrialBuild": 703,
+    "ConditionId": "CBA07_03",
+    "IsBattle": true,
+    "Reward": 102,
+    "RewardDisplay": "[{\"Tid\":2,\"Qty\":30}]",
+    "ParentStoryId": [
+      "STm07_15"
+    ],
+    "FloorId": [
+      1070301,
+      1070302
+    ],
+    "PreviewMonsterGroupId": 10703,
+    "Aim": "Story.803.3"
+  },
+  "804": {
+    "Id": 804,
+    "StoryId": "STm07_00",
+    "Chapter": 8,
+    "Index": "Story.804.4",
+    "Title": "Story.804.1",
+    "Desc": "Story.804.2",
+    "Reward": 102,
+    "RewardDisplay": "[{\"Tid\":2,\"Qty\":30}]",
+    "AvgLuaName": "STm07_00",
+    "Aim": "Story.804.3",
+    "AvgMotion": "style_21"
+  },
+  "805": {
+    "Id": 805,
+    "StoryId": "STm07_01",
+    "Chapter": 8,
+    "Index": "Story.805.4",
+    "Title": "Story.805.1",
+    "Desc": "Story.805.2",
+    "ConditionId": "C07_01",
+    "Reward": 102,
+    "RewardDisplay": "[{\"Tid\":2,\"Qty\":30}]",
+    "ParentStoryId": [
+      "STm07_00"
+    ],
+    "AvgLuaName": "STm07_01",
+    "Aim": "Story.805.3",
+    "AvgMotion": "style_21"
+  },
+  "806": {
+    "Id": 806,
+    "StoryId": "STm07_02",
+    "Chapter": 8,
+    "Index": "Story.806.4",
+    "Title": "Story.806.1",
+    "Desc": "Story.806.2",
+    "ConditionId": "C07_02",
+    "Reward": 102,
+    "RewardDisplay": "[{\"Tid\":2,\"Qty\":30}]",
+    "ParentStoryId": [
+      "BAm07_01"
+    ],
+    "AvgLuaName": "STm07_02",
+    "Aim": "Story.806.3",
+    "AvgMotion": "style_21"
+  },
+  "807": {
+    "Id": 807,
+    "StoryId": "STm07_03",
+    "Chapter": 8,
+    "Index": "Story.807.4",
+    "Title": "Story.807.1",
+    "Desc": "Story.807.2",
+    "ConditionId": "C07_03",
+    "Reward": 102,
+    "RewardDisplay": "[{\"Tid\":2,\"Qty\":30}]",
+    "ParentStoryId": [
+      "STm07_02"
+    ],
+    "AvgLuaName": "STm07_03",
+    "Aim": "Story.807.3",
+    "AvgMotion": "style_21"
+  },
+  "808": {
+    "Id": 808,
+    "StoryId": "STm07_04",
+    "Chapter": 8,
+    "Index": "Story.808.4",
+    "Title": "Story.808.1",
+    "Desc": "Story.808.2",
+    "ConditionId": "C07_04",
+    "Reward": 102,
+    "RewardDisplay": "[{\"Tid\":2,\"Qty\":30}]",
+    "ParentStoryId": [
+      "STm07_03"
+    ],
+    "HasEvidence": true,
+    "AvgLuaName": "STm07_04",
+    "Aim": "Story.808.3",
+    "AvgMotion": "style_21"
+  },
+  "809": {
+    "Id": 809,
+    "StoryId": "STm07_05_c",
+    "Chapter": 8,
+    "Index": "Story.809.4",
+    "Title": "Story.809.1",
+    "Desc": "Story.809.2",
+    "ConditionId": "C07_05_c",
+    "IsBranch": true,
+    "Reward": 112,
+    "RewardDisplay": "[{\"Tid\":1,\"Qty\":666}]",
+    "ParentStoryId": [
+      "STm07_04"
+    ],
+    "AvgLuaName": "STm07_05_c",
+    "Aim": "Story.809.3",
+    "AvgMotion": "style_21"
+  },
+  "810": {
+    "Id": 810,
+    "StoryId": "STm07_05_a",
+    "Chapter": 8,
+    "Index": "Story.810.4",
+    "Title": "Story.810.1",
+    "Desc": "Story.810.2",
+    "ConditionId": "C07_05_a",
+    "Reward": 102,
+    "RewardDisplay": "[{\"Tid\":2,\"Qty\":30}]",
+    "ParentStoryId": [
+      "STm07_04"
+    ],
+    "AvgLuaName": "STm07_05_a",
+    "Aim": "Story.810.3",
+    "AvgMotion": "style_21"
+  },
+  "811": {
+    "Id": 811,
+    "StoryId": "STm07_05_b",
+    "Chapter": 8,
+    "Index": "Story.811.4",
+    "Title": "Story.811.1",
+    "Desc": "Story.811.2",
+    "ConditionId": "C07_05_b",
+    "Reward": 102,
+    "RewardDisplay": "[{\"Tid\":2,\"Qty\":30}]",
+    "ParentStoryId": [
+      "STm07_04"
+    ],
+    "HasEvidence": true,
+    "AvgLuaName": "STm07_05_b",
+    "Aim": "Story.811.3",
+    "AvgMotion": "style_21"
+  },
+  "812": {
+    "Id": 812,
+    "StoryId": "STm07_06_ba",
+    "Chapter": 8,
+    "Index": "Story.812.4",
+    "Title": "Story.812.1",
+    "Desc": "Story.812.2",
+    "ConditionId": "C07_06_ba",
+    "IsBranch": true,
+    "Reward": 112,
+    "RewardDisplay": "[{\"Tid\":1,\"Qty\":666}]",
+    "ParentStoryId": [
+      "STm07_05_b"
+    ],
+    "AvgLuaName": "STm07_06_ba",
+    "Aim": "Story.812.3",
+    "AvgMotion": "style_21"
+  },
+  "813": {
+    "Id": 813,
+    "StoryId": "STm07_06_bb",
+    "Chapter": 8,
+    "Index": "Story.813.4",
+    "Title": "Story.813.1",
+    "Desc": "Story.813.2",
+    "ConditionId": "C07_06_bb",
+    "IsBranch": true,
+    "Reward": 112,
+    "RewardDisplay": "[{\"Tid\":1,\"Qty\":666}]",
+    "ParentStoryId": [
+      "STm07_05_b"
+    ],
+    "AvgLuaName": "STm07_06_bb",
+    "Aim": "Story.813.3",
+    "AvgMotion": "style_21"
+  },
+  "814": {
+    "Id": 814,
+    "StoryId": "STm07_06_bc",
+    "Chapter": 8,
+    "Index": "Story.814.4",
+    "Title": "Story.814.1",
+    "Desc": "Story.814.2",
+    "ConditionId": "C07_06_bc",
+    "IsBranch": true,
+    "Reward": 112,
+    "RewardDisplay": "[{\"Tid\":1,\"Qty\":666}]",
+    "ParentStoryId": [
+      "STm07_05_b"
+    ],
+    "AvgLuaName": "STm07_06_bc",
+    "Aim": "Story.814.3",
+    "AvgMotion": "style_21"
+  },
+  "815": {
+    "Id": 815,
+    "StoryId": "STm07_06_a",
+    "Chapter": 8,
+    "Index": "Story.815.4",
+    "Title": "Story.815.1",
+    "Desc": "Story.815.2",
+    "ConditionId": "C07_06_a",
+    "Reward": 102,
+    "RewardDisplay": "[{\"Tid\":2,\"Qty\":30}]",
+    "ParentStoryId": [
+      "STm07_05_a"
+    ],
+    "AvgLuaName": "STm07_06_a",
+    "Aim": "Story.815.3",
+    "AvgMotion": "style_21"
+  },
+  "816": {
+    "Id": 816,
+    "StoryId": "STm07_07",
+    "Chapter": 8,
+    "Index": "Story.816.4",
+    "Title": "Story.816.1",
+    "Desc": "Story.816.2",
+    "ConditionId": "C07_07",
+    "Reward": 102,
+    "RewardDisplay": "[{\"Tid\":2,\"Qty\":30}]",
+    "ParentStoryId": [
+      "STm07_06_a"
+    ],
+    "AvgLuaName": "STm07_07",
+    "Aim": "Story.816.3",
+    "AvgMotion": "style_21"
+  },
+  "817": {
+    "Id": 817,
+    "StoryId": "STm07_08",
+    "Chapter": 8,
+    "Index": "Story.817.4",
+    "Title": "Story.817.1",
+    "Desc": "Story.817.2",
+    "ConditionId": "C07_08",
+    "Reward": 102,
+    "RewardDisplay": "[{\"Tid\":2,\"Qty\":30}]",
+    "ParentStoryId": [
+      "BAm07_02"
+    ],
+    "AvgLuaName": "STm07_08",
+    "Aim": "Story.817.3",
+    "AvgMotion": "style_21"
+  },
+  "818": {
+    "Id": 818,
+    "StoryId": "STm07_09",
+    "Chapter": 8,
+    "Index": "Story.818.4",
+    "Title": "Story.818.1",
+    "Desc": "Story.818.2",
+    "ConditionId": "C07_09",
+    "Reward": 102,
+    "RewardDisplay": "[{\"Tid\":2,\"Qty\":30}]",
+    "ParentStoryId": [
+      "STm07_08"
+    ],
+    "AvgLuaName": "STm07_09",
+    "Aim": "Story.818.3",
+    "AvgMotion": "style_21"
+  },
+  "819": {
+    "Id": 819,
+    "StoryId": "STm07_12",
+    "Chapter": 8,
+    "Index": "Story.819.4",
+    "Title": "Story.819.1",
+    "Desc": "Story.819.2",
+    "ConditionId": "C07_12",
+    "Reward": 102,
+    "RewardDisplay": "[{\"Tid\":2,\"Qty\":30}]",
+    "ParentStoryId": [
+      "STm07_08"
+    ],
+    "AvgLuaName": "STm07_12",
+    "Aim": "Story.819.3",
+    "AvgMotion": "style_21"
+  },
+  "820": {
+    "Id": 820,
+    "StoryId": "STm07_10",
+    "Chapter": 8,
+    "Index": "Story.820.4",
+    "Title": "Story.820.1",
+    "Desc": "Story.820.2",
+    "ConditionId": "C07_10",
+    "Reward": 102,
+    "RewardDisplay": "[{\"Tid\":2,\"Qty\":30}]",
+    "ParentStoryId": [
+      "STm07_09"
+    ],
+    "AvgLuaName": "STm07_10",
+    "Aim": "Story.820.3",
+    "AvgMotion": "style_21"
+  },
+  "821": {
+    "Id": 821,
+    "StoryId": "STm07_11",
+    "Chapter": 8,
+    "Index": "Story.821.4",
+    "Title": "Story.821.1",
+    "Desc": "Story.821.2",
+    "ConditionId": "C07_11",
+    "Reward": 102,
+    "RewardDisplay": "[{\"Tid\":2,\"Qty\":30}]",
+    "ParentStoryId": [
+      "STm07_10"
+    ],
+    "AvgLuaName": "STm07_11",
+    "Aim": "Story.821.3",
+    "AvgMotion": "style_21"
+  },
+  "822": {
+    "Id": 822,
+    "StoryId": "STm07_13",
+    "Chapter": 8,
+    "Index": "Story.822.4",
+    "Title": "Story.822.1",
+    "Desc": "Story.822.2",
+    "ConditionId": "C07_13",
+    "Reward": 102,
+    "RewardDisplay": "[{\"Tid\":2,\"Qty\":30}]",
+    "ParentStoryId": [
+      "STm07_12"
+    ],
+    "AvgLuaName": "STm07_13",
+    "Aim": "Story.822.3",
+    "AvgMotion": "style_21"
+  },
+  "823": {
+    "Id": 823,
+    "StoryId": "STm07_14",
+    "Chapter": 8,
+    "Index": "Story.823.4",
+    "Title": "Story.823.1",
+    "Desc": "Story.823.2",
+    "ConditionId": "C07_14",
+    "Reward": 102,
+    "RewardDisplay": "[{\"Tid\":2,\"Qty\":30}]",
+    "ParentStoryId": [
+      "STm07_13"
+    ],
+    "AvgLuaName": "STm07_14",
+    "Aim": "Story.823.3",
+    "AvgMotion": "style_21"
+  },
+  "824": {
+    "Id": 824,
+    "StoryId": "STm07_15",
+    "Chapter": 8,
+    "Index": "Story.824.4",
+    "Title": "Story.824.1",
+    "Desc": "Story.824.2",
+    "ConditionId": "C07_15",
+    "Reward": 102,
+    "RewardDisplay": "[{\"Tid\":2,\"Qty\":30}]",
+    "ParentStoryId": [
+      "STm07_11",
+      "STm07_14"
+    ],
+    "AvgLuaName": "STm07_15",
+    "Aim": "Story.824.3",
+    "AvgMotion": "style_21"
+  },
+  "825": {
+    "Id": 825,
+    "StoryId": "STm07_16",
+    "Chapter": 8,
+    "Index": "Story.825.4",
+    "Title": "Story.825.1",
+    "Desc": "Story.825.2",
+    "ConditionId": "C07_16",
+    "Reward": 104,
+    "RewardDisplay": "[{\"Tid\":2,\"Qty\":50}]",
+    "ParentStoryId": [
+      "BAm07_03"
+    ],
+    "AvgLuaName": "STm07_16",
+    "Aim": "Story.825.3",
+    "IsLast": true,
+    "AvgMotion": "style_21"
+  },
   "6501": {
     "Id": 6501,
     "StoryId": "BAm06x5_01",

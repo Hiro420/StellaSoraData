@@ -620,5 +620,79 @@
     "DisRare": true,
     "NpcId": 7145,
     "VoiceId": -1444835585
+  },
+  "30103301": {
+    "Id": 30103301,
+    "RewardGroupId": 301033,
+    "Order": 1,
+    "RewardId1": 502,
+    "Qty1": 1,
+    "RewardId2": 81009,
+    "Qty2": 2,
+    "RewardDesc": "LoginRewardGroup.30103301.1",
+    "DisRare": true
+  },
+  "30103302": {
+    "Id": 30103302,
+    "RewardGroupId": 301033,
+    "Order": 2,
+    "RewardId1": 503,
+    "Qty1": 1,
+    "RewardId2": 82008,
+    "Qty2": 50,
+    "RewardDesc": "LoginRewardGroup.30103302.1"
+  },
+  "30103303": {
+    "Id": 30103303,
+    "RewardGroupId": 301033,
+    "Order": 3,
+    "RewardId1": 33913,
+    "Qty1": 1,
+    "RewardId2": 81009,
+    "Qty2": 2,
+    "RewardDesc": "LoginRewardGroup.30103303.1",
+    "DisRare": true
+  },
+  "30103304": {
+    "Id": 30103304,
+    "RewardGroupId": 301033,
+    "Order": 4,
+    "RewardId1": 602,
+    "Qty1": 300,
+    "RewardId2": 82002,
+    "Qty2": 50,
+    "RewardDesc": "LoginRewardGroup.30103304.1"
+  },
+  "30103305": {
+    "Id": 30103305,
+    "RewardGroupId": 301033,
+    "Order": 5,
+    "RewardId1": 603,
+    "Qty1": 300,
+    "RewardId2": 81009,
+    "Qty2": 2,
+    "RewardDesc": "LoginRewardGroup.30103305.1",
+    "DisRare": true
+  },
+  "30103306": {
+    "Id": 30103306,
+    "RewardGroupId": 301033,
+    "Order": 6,
+    "RewardId1": 33913,
+    "Qty1": 1,
+    "RewardId2": 82005,
+    "Qty2": 50,
+    "RewardDesc": "LoginRewardGroup.30103306.1"
+  },
+  "30103307": {
+    "Id": 30103307,
+    "RewardGroupId": 301033,
+    "Order": 7,
+    "RewardId1": 35000,
+    "Qty1": 10,
+    "RewardId2": 81009,
+    "Qty2": 2,
+    "RewardDesc": "LoginRewardGroup.30103307.1",
+    "DisRare": true
   }
 }

@@ -24,5 +24,9 @@
   "ScoreBossAbility.100011.1": "협동 작전",
   "ScoreBossAbility.100011.2": "메인 캐릭터가 스킬을 <color=#ec6d21>&Param1&</color>회 시전할 때마다 모든 지원 캐릭터의 스킬 피해 강도가 <color=#ec6d21>&Param2&</color> 증가한다. <color=#ec6d21>&Param3&</color>초간 지속된다.\n지원 캐릭터가 피해를 <color=#ec6d21>&Param4&</color>회 입힐 때마다 메인 캐릭터의 스킬 피해 강도가 <color=#ec6d21>&Param5&</color> 증가한다. <color=#ec6d21>&Param6&</color>초간 지속된다.\n중복으로 발동 시 시간이 초기화되며 중첩되지 않는다.",
   "ScoreBossAbility.100012.1": "지속 공격",
-  "ScoreBossAbility.100012.2": "전체 아군이 보스에게 스킬 피해를 <color=#ec6d21>&Param7&</color>회 입힐 때마다 보스가 받는 필살기 피해 강도가 <color=#ec6d21>&Param1&</color> 증가한다. 최대 <color=#ec6d21>&Param2&</color>스택 중첩되며, <color=#ec6d21>&Param3&</color>초간 지속된다.\n전체 아군이 보스에게 표식 피해를 <color=#ec6d21>&Param8&</color>회 입힐 때마다 보스가 받는 스킬 피해 강도가 <color=#ec6d21>&Param4&</color> 증가한다. 최대 <color=#ec6d21>&Param5&</color>스택 중첩되며, <color=#ec6d21>&Param6&</color>초간 지속된다."
+  "ScoreBossAbility.100012.2": "전체 아군이 보스에게 스킬 피해를 <color=#ec6d21>&Param7&</color>회 입힐 때마다 보스가 받는 필살기 피해 강도가 <color=#ec6d21>&Param1&</color> 증가한다. 최대 <color=#ec6d21>&Param2&</color>스택 중첩되며, <color=#ec6d21>&Param3&</color>초간 지속된다.\n전체 아군이 보스에게 표식 피해를 <color=#ec6d21>&Param8&</color>회 입힐 때마다 보스가 받는 스킬 피해 강도가 <color=#ec6d21>&Param4&</color> 증가한다. 최대 <color=#ec6d21>&Param5&</color>스택 중첩되며, <color=#ec6d21>&Param6&</color>초간 지속된다.",
+  "ScoreBossAbility.100013.1": "낙뢰 유도",
+  "ScoreBossAbility.100013.2": "보스가 「낙뢰」를 보유할 시 자신이 입히는 피해가 <color=#ec6d21>&Param4&</color> 증가한다. 3초마다 추가로 작은 범위 피해를 4회 입힌다. \n전체 아군이 <color=#ec6d21>&Param1&</color>초 동안 보스에게 누적 <color=#ec6d21>&Param2&</color>회의 표식 피해를 입힐 시, 「낙뢰」가 15초간 무효되며 해당 기간 동안 보스가 받는 스킬 피해 강도가 <color=#ec6d21>&Param3&</color> 증가한다.",
+  "ScoreBossAbility.100014.1": "다방면 연마",
+  "ScoreBossAbility.100014.2": "지원 캐릭터가 필드에 <color=#ec6d21>&Param1&</color>초간 존재할 때마다 자신과 메인 캐릭터에게 「기세 축적」 1스택을 제공한다.\n「기세 축적」 1스택마다 스킬 피해 강도 <color=#ec6d21>&Param2&</color>, 일반 공격 피해 강도 <color=#ec6d21>&Param5&</color>를 제공하며, 최대 <color=#ec6d21>&Param3&</color>스택 중첩된다. 중첩될 때마다 지속 시간이 초기화되며, <color=#ec6d21>&Param4&</color>초간 지속된다.\n지원 캐릭터 2명 각자 메인 캐릭터에게 「기세 축적」을 제공할 수 있다. 최대 스택 및 효과는 단독으로 계산되며 동시에 존재할 수 있다."
 }

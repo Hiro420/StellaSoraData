@@ -118,5 +118,21 @@
     "Theme": 118,
     "BGM": "hasaNa_combatBoss_setState",
     "LeaveTriggerEvent": "amb_coast_all_stop"
+  },
+  "1001016": {
+    "Id": 1001016,
+    "SceneName": "Levels/Roguelike/Roguelike_4/Roguelike_4_Boss_002",
+    "ConfigPrefabName": "Roguelike_4_Boss_TaiDeng_BossRush_2",
+    "Theme": 110,
+    "BGM": "roguelike_combatLamp_setState",
+    "LeaveTriggerEvent": "amb_roguelike_all_stop"
+  },
+  "1001017": {
+    "Id": 1001017,
+    "SceneName": "Levels/Roguelike/Roguelike_4/Roguelike_4_Boss_003",
+    "ConfigPrefabName": "Roguelike_4_Boss_JinDuanLiRong_BossRush_2",
+    "Theme": 111,
+    "BGM": "roguelike_combatLiRong_setState",
+    "LeaveTriggerEvent": "amb_roguelike_all_stop"
   }
 }

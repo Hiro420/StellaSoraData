@@ -24,5 +24,9 @@
   "ScoreBossAbility.100011.1": "協同增勢",
   "ScoreBossAbility.100011.2": "主控角色每施放<color=#ec6d21>&Param1&</color>次技能，所有援護角色技能傷害強度增加<color=#ec6d21>&Param2&</color>，持續<color=#ec6d21>&Param3&</color>秒。\n援護角色每造成<color=#ec6d21>&Param4&</color>次傷害，主控角色技能傷害強度增加<color=#ec6d21>&Param5&</color>，持續<color=#ec6d21>&Param6&</color>秒。\n重複觸發時將刷新持續時間，效果不可疊加。",
   "ScoreBossAbility.100012.1": "連擊破勢",
-  "ScoreBossAbility.100012.2": "己方每對首領造成<color=#ec6d21>&Param7&</color>次技能傷害，首領受到絕招傷害強度增加<color=#ec6d21>&Param1&</color>，最高可疊加<color=#ec6d21>&Param2&</color>層，持續<color=#ec6d21>&Param3&</color>秒。\n己方每對首領造成<color=#ec6d21>&Param8&</color>次印記傷害，首領受到技能傷害強度增加<color=#ec6d21>&Param4&</color>，最高可疊加<color=#ec6d21>&Param5&</color>層，持續<color=#ec6d21>&Param6&</color>秒。"
+  "ScoreBossAbility.100012.2": "己方每對首領造成<color=#ec6d21>&Param7&</color>次技能傷害，首領受到絕招傷害強度增加<color=#ec6d21>&Param1&</color>，最高可疊加<color=#ec6d21>&Param2&</color>層，持續<color=#ec6d21>&Param3&</color>秒。\n己方每對首領造成<color=#ec6d21>&Param8&</color>次印記傷害，首領受到技能傷害強度增加<color=#ec6d21>&Param4&</color>，最高可疊加<color=#ec6d21>&Param5&</color>層，持續<color=#ec6d21>&Param6&</color>秒。",
+  "ScoreBossAbility.100013.1": "引雷入室",
+  "ScoreBossAbility.100013.2": "首領擁有「落雷」時，自身造成的傷害提升<color=#ec6d21>&Param4&</color>，且每3秒額外造成4次小範圍傷害；\n當己方在<color=#ec6d21>&Param1&</color>秒內對首領累計造成<color=#ec6d21>&Param2&</color>次印記傷害，可使「落雷」失效15秒，期間首領受到的技能傷害強度提升<color=#ec6d21>&Param3&</color>",
+  "ScoreBossAbility.100014.1": "多方雕琢",
+  "ScoreBossAbility.100014.2": "援護角色每駐場<color=#ec6d21>&Param1&</color>秒，為自己與主控角色疊加1層【蓄勢】。\n每層【蓄勢】提供<color=#ec6d21>&Param2&</color>技能傷害強度與<color=#ec6d21>&Param5&</color>普攻傷害強度，最多疊加<color=#ec6d21>&Param3&</color>層，每次疊加時重置持續時間，持續<color=#ec6d21>&Param4&</color>秒。\n兩名援護角色可分別為主控角色疊加【蓄勢】，層數上限與效果分別計算，且可同時存在。"
 }
