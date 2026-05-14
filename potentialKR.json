@@ -1784,6 +1784,261 @@
       "subIcon": "Round"
     }
   },
+  "115": {
+    "511501": {
+      "name": "빛의 유영·은은한 빛",
+      "briefDesc": "「아발란체·부유포」가 동시에 목표를 공격해 피해를 입힌다. 빛 속성 표식을 발동할 수 있다.",
+      "type": "main",
+      "rarity": 0,
+      "imgId": "11501_Potential_01",
+      "id": 511501
+    },
+    "511502": {
+      "name": "빛의 유영·감싸는 빛",
+      "briefDesc": "「아발란체·부유포」가 동일한 목표에게 여러 차례 피해를 입힌 후, 자신의 &Param3_kr1& 증가한다.",
+      "type": "main",
+      "rarity": 0,
+      "imgId": "11501_Potential_02",
+      "id": 511502
+    },
+    "511503": {
+      "name": "빛의 유영·응축된 빛",
+      "briefDesc": "「아발란체·부유포」가 피해를 입히면 「강렬한 햇빛」을 생성해 목표 위치를 지속적으로 공격한다. 빛 속성 표식을 발동할 수 있다.",
+      "type": "main",
+      "rarity": 0,
+      "imgId": "11501_Potential_03",
+      "id": 511503
+    },
+    "511504": {
+      "name": "빛의 유영·퍼지는 빛",
+      "briefDesc": "「아발란체·부유포」가 발사하는 레이저 빔이 굴절되어, 동시에 여러 목표에게 피해를 입힌다. 빛 속성 표식을 발동할 수 있다.",
+      "type": "main",
+      "rarity": 0,
+      "imgId": "11501_Potential_04",
+      "id": 511504
+    },
+    "511505": {
+      "name": "성흔의 물결",
+      "briefDesc": "「아발란체·부유포」가 보스 또는 정예 목표에게 피해를 입히면 팀 전체의 &Param5_kr1& 증가한다.",
+      "type": "main",
+      "rarity": 2,
+      "imgId": "11501_Potential_01",
+      "id": 511505,
+      "subIcon": "Diamond"
+    },
+    "511506": {
+      "name": "쏟아지는 빛",
+      "briefDesc": "호타루가 포격 형태일 때, 일정 시간마다 「아발란체·부유포」가 목표에게 일제 사격을 가해 추가 피해를 입힌다. 빛 속성 표식을 발동할 수 있다.",
+      "type": "main",
+      "rarity": 1,
+      "imgId": "11501_Potential_06",
+      "id": 511506,
+      "subIcon": "Triangle"
+    },
+    "511507": {
+      "name": "외딴 별의 광채",
+      "briefDesc": "호타루가 고립된 목표에게 입히는 &Param2_kr1& 증가한다.",
+      "type": "main",
+      "rarity": 2,
+      "imgId": "11501_Potential_02",
+      "id": 511507,
+      "subIcon": "Round"
+    },
+    "511508": {
+      "name": "빛의 결집",
+      "briefDesc": "메인 스킬을 시전할 때 에너지 탄환을 발사해 범위 피해를 입힌다. 빛 속성 표식을 발동할 수 있다.",
+      "type": "main",
+      "rarity": 1,
+      "imgId": "11501_Potential_08",
+      "id": 511508,
+      "subIcon": "Diamond"
+    },
+    "511509": {
+      "name": "빛의 리듬",
+      "briefDesc": "일정 시간마다 「아발란체·부유포」가 입히는 &Param3_kr1& 증가한다.",
+      "type": "main",
+      "rarity": 2,
+      "imgId": "11501_Potential_03",
+      "id": 511509,
+      "subIcon": "Triangle"
+    },
+    "511510": {
+      "name": "섬광의 공명",
+      "briefDesc": "「아발란체·부유포」가 빛 속성 표식을 보유한 서로 다른 목표를 명중하면, 팀 전체의 &Param4_kr1& 증가한다.",
+      "type": "main",
+      "rarity": 2,
+      "imgId": "11501_Potential_04",
+      "id": 511510,
+      "subIcon": "Round"
+    },
+    "511511": {
+      "name": "작열하는 빛",
+      "briefDesc": "호타루의 &Param2_kr1& 증가한다.  호타루가 빛 속성 표식을 발동할 때마다, 자신의 &Param3_kr1& 증가한다.",
+      "type": "main",
+      "rarity": 1,
+      "imgId": "Common_Potential_14",
+      "id": 511511,
+      "subIcon": "Diamond"
+    },
+    "511512": {
+      "name": "절대적인 빛",
+      "briefDesc": "필살기가 빛 속성 표식을 발동할 수 있다. 발동 시 자신의 &Param6_kr1& 증가한다.",
+      "type": "main",
+      "rarity": 2,
+      "imgId": "Common_Potential_Light_1",
+      "id": 511512,
+      "subIcon": "Triangle"
+    },
+    "511513": {
+      "name": "잔영의 폭발",
+      "briefDesc": "호타루의 회피 횟수가 증가한다.  회피 후 주변 목표에게 빛 속성 피해를 입히고 기절시킨다. 빛 속성 표식을 발동할 수 있다.",
+      "type": "main",
+      "rarity": 2,
+      "imgId": "Common_Potential_21",
+      "id": 511513,
+      "subIcon": "Round"
+    },
+    "511521": {
+      "name": "휘검·겹쳐진 그림자",
+      "briefDesc": "팀 전체가 빛 속성 캐릭터일 때, 지원 스킬을 시전하면 더 많은 「아발란체·비도」를 추가로 획득한다.  「아발란체·비도」가 피해를 입힐 때마다 자신이 입히는 &Param2_kr4& &Param4_kr1& 증가한다.",
+      "type": "support",
+      "rarity": 0,
+      "imgId": "11501_Potential_21",
+      "id": 511521
+    },
+    "511522": {
+      "name": "휘검·반딧불",
+      "briefDesc": "「아발란체·비도」가 피해를 입힐 때의 &Param1_kr1& 증가한다.  「아발란체·비도」가 피해를 입힐 때마다 범위 피해를 추가로 입히고 빛 속성 표식: 광명을 부여한다.",
+      "type": "support",
+      "rarity": 0,
+      "imgId": "11501_Potential_22",
+      "id": 511522
+    },
+    "511523": {
+      "name": "휘검·찬란한 칼날",
+      "briefDesc": "팀 전체가 빛 속성 캐릭터일 때, 「아발란체·대검」의 공격 범위와 입히는 &Param2_kr1& 증가한다.  「아발란체·대검」이 공격할 때마다 추가 공격을 가해 피해를 입히고, 빛 속성 표식: 광명을 부여한다.",
+      "type": "support",
+      "rarity": 0,
+      "imgId": "11501_Potential_23",
+      "id": 511523
+    },
+    "511524": {
+      "name": "휘검·참격",
+      "briefDesc": "「아발란체·대검」이 일정 횟수 공격한 후, 호타루가 자동으로 「패참」을 시전해 피해를 입히고, 빛 속성 표식: 광명을 부여한다.",
+      "type": "support",
+      "rarity": 0,
+      "imgId": "11501_Potential_24",
+      "id": 511524
+    },
+    "511525": {
+      "name": "빛을 모은 칼날",
+      "briefDesc": "빛 속성 메인 캐릭터가 빛 속성 표식을 발동하거나 광휘를 생성한 후, 호타루의 다음 검격 형태 기간 중 「아발란체·비도」가 입히는 &Param3_kr4& &Param6_kr1& 증가한다.",
+      "type": "support",
+      "rarity": 1,
+      "imgId": "11501_Potential_22",
+      "id": 511525,
+      "subIcon": "Diamond"
+    },
+    "511526": {
+      "name": "성망의 추락",
+      "briefDesc": "빛 속성 메인 캐릭터가 스킬 피해를 입히면, 「아발란체·비도」가 생성되어 목표를 타격해 추가 피해를 입히고, 빛 속성 표식: 광명을 부여한다.  해당 「아발란체·비도」가 피해를 입히면, 목표가 보유한 빛의 장막 스택에 따라 목표의 &Param3_kr1& 증가한다.",
+      "type": "support",
+      "rarity": 2,
+      "imgId": "11501_Potential_26",
+      "id": 511526,
+      "subIcon": "Triangle"
+    },
+    "511527": {
+      "name": "검 끝에 피어난 꽃",
+      "briefDesc": "호타루가 검격 형태 종료 시 모든 아발란체를 조종해 자신 주변의 목표를 타격하여 범위 피해를 입힌다. 또한 빛 속성 표식: 광명을 부여한다.  해당 효과가 피해를 입힐 때마다 호타루의 &Param2_kr1& 증가한다.",
+      "type": "support",
+      "rarity": 2,
+      "imgId": "11501_Potential_27",
+      "id": 511527,
+      "subIcon": "Round"
+    },
+    "511528": {
+      "name": "대검의 잔상",
+      "briefDesc": "호타루가 검격 형태 기간 중, 「아발란체·대검」이 입히는 &Param3_kr1& 시간에 따라 증가한다.  호타루가 목표로부터 멀리 떨어지거나 목표가 없는 경우 자신의 이동 속도가 증가한다.",
+      "type": "support",
+      "rarity": 2,
+      "imgId": "11501_Potential_23",
+      "id": 511528,
+      "subIcon": "Diamond"
+    },
+    "511529": {
+      "name": "빛을 머금은 칼날",
+      "briefDesc": "호타루가 필드에 있을 때, 메인 캐릭터가 빛 속성 표식을 발동하여 낙뢰를 생성하면 호타루가 자신의 &Param6_kr3& 증가시키고, 주변 목표의 &Param2_kr3& 증가시킨다.",
+      "type": "support",
+      "rarity": 2,
+      "imgId": "11501_Potential_24",
+      "id": 511529,
+      "subIcon": "Triangle"
+    },
+    "511530": {
+      "name": "빛의 확산",
+      "briefDesc": "「아발란체·대검」이 피해를 입히면 범위 피해를 추가로 입히고 빛 속성 표식: 광명을 부여한다.",
+      "type": "support",
+      "rarity": 1,
+      "imgId": "11501_Potential_30",
+      "id": 511530,
+      "subIcon": "Round"
+    },
+    "511531": {
+      "name": "절대적 빛의 가호",
+      "briefDesc": "호타루의 필살기로 빛 속성 표식: 광명을 부여할 수 있다.  호타루가 필살기를 시전하면 빛 속성 메인 캐릭터가 보호막을 획득한다.",
+      "type": "support",
+      "rarity": 2,
+      "imgId": "Common_Potential_Light_1",
+      "id": 511531,
+      "subIcon": "Diamond"
+    },
+    "511532": {
+      "name": "천지의 광휘",
+      "briefDesc": "호타루가 지원 스킬을 시전하면, 팀 내 빛 속성 캐릭터의 &Param3_kr1& 증가한다.",
+      "type": "support",
+      "rarity": 2,
+      "imgId": "Common_Potential_11",
+      "id": 511532,
+      "subIcon": "Triangle"
+    },
+    "511533": {
+      "name": "순결의 영역",
+      "briefDesc": "팀 전체가 빛 속성 캐릭터일 때, 팀 전체의 &Param3_kr1& 증가한다.  호타루가 필드에 있을 때 팀 전체의 &Param3_kr1& 추가로 증가한다.",
+      "type": "support",
+      "rarity": 1,
+      "imgId": "Common_Potential_15",
+      "id": 511533,
+      "subIcon": "Round"
+    },
+    "511541": {
+      "name": "잔빛의 따스함",
+      "briefDesc": "호타루가 필살기를 시전한 후, 다음에 스킬을 시전할 때 자신의 &Param3_kr1& 증가한다.",
+      "type": "common",
+      "rarity": 2,
+      "imgId": "11501_Potential_41",
+      "id": 511541,
+      "subIcon": "Diamond"
+    },
+    "511542": {
+      "name": "극한의 찬란한 빛",
+      "briefDesc": "호타루의 필살기가 입히는 &Param3_kr1& 증가한다.",
+      "type": "common",
+      "rarity": 2,
+      "imgId": "11501_Potential_42",
+      "id": 511542,
+      "subIcon": "Triangle"
+    },
+    "511543": {
+      "name": "부서진 별의 잔광",
+      "briefDesc": "호타루의 필살기가 HP가 낮은 목표에게 입히는 &Param4_kr1& 증가한다.",
+      "type": "common",
+      "rarity": 2,
+      "imgId": "11501_Potential_41",
+      "id": 511543,
+      "subIcon": "Round"
+    }
+  },
   "116": {
     "511601": {
       "name": "무성한 가지",
@@ -1828,7 +2083,7 @@
     },
     "511606": {
       "name": "얽혀 있는 뿌리",
-      "briefDesc": "씨앗이 부여하는 이동 속도 감소 효과가 중첩될 수 있다. 최대 스택 중첩 시, 목표가 레이센에게 받는 땅 속성 피해가 증가한다.",
+      "briefDesc": "씨앗이 부여하는 이동 속도 감소 효과가 중첩될 수 있다. 최대 스택 중첩 시, 레이센이 목표에게 입히는 땅 속성 피해가 증가한다.",
       "type": "main",
       "rarity": 2,
       "imgId": "11601_Potential_02",
@@ -2681,7 +2936,7 @@
     },
     "511923": {
       "name": "꽃무리의 시선",
-      "briefDesc": "지원 스킬의 표창이 공격 목표를 추적하고, 입히는 피해가 증가한다.",
+      "briefDesc": "지원 스킬의 표창이 공격 목표를 추적하고, 입히는 스킬 피해가 증가한다.",
       "type": "support",
       "rarity": 0,
       "imgId": "11901_Potential_23",
@@ -6377,7 +6632,7 @@
   "145": {
     "514501": {
       "name": "미세한 전율",
-      "briefDesc": "메인 스킬 「밤에 피는 꽃」 사격 시 「천벌」을 여러 차례 생성한다. 오토하가 「천벌」을 생성할 때 필살기 쿨타임이 감소하며, SP를 획득한다.",
+      "briefDesc": "메인 스킬 「밤에 피는 꽃」 사격 시 「천벌」을 여러 차례 생성하고, 어둠 속성 표식을 발동할 수 있다. 오토하가 「천벌」을 생성할 때 필살기 쿨타임이 감소하며, SP를 획득한다.",
       "type": "main",
       "rarity": 0,
       "imgId": "14501_Potential_01",

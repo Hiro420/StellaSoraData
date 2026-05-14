@@ -1784,6 +1784,261 @@
       "subIcon": "Round"
     }
   },
+  "115": {
+    "511501": {
+      "name": "Firefly Glow: Radiance",
+      "briefDesc": "Avalanche: Floating Cannons attack the target simultaneously, dealing DMG. Can trigger Lux Mark.",
+      "type": "main",
+      "rarity": 0,
+      "imgId": "11501_Potential_01",
+      "id": 511501
+    },
+    "511502": {
+      "name": "Firefly Glow: Luminary",
+      "briefDesc": "After Avalanche: Floating Cannons deal multiple instances of DMG to the same target, increases own Auto Attack DMG.",
+      "type": "main",
+      "rarity": 0,
+      "imgId": "11501_Potential_02",
+      "id": 511502
+    },
+    "511503": {
+      "name": "Firefly Glow: Convergence",
+      "briefDesc": "When dealing DMG, Avalanche: Floating Cannons generate Scorching Sunray that continuously attacks the target's position. Can trigger Lux Mark.",
+      "type": "main",
+      "rarity": 0,
+      "imgId": "11501_Potential_03",
+      "id": 511503
+    },
+    "511504": {
+      "name": "Firefly Glow: Scatter Beam",
+      "briefDesc": "The beams fired by Avalanche: Floating Cannons can refract, simultaneously dealing DMG to multiple targets. Can trigger Lux Mark.",
+      "type": "main",
+      "rarity": 0,
+      "imgId": "11501_Potential_04",
+      "id": 511504
+    },
+    "511505": {
+      "name": "Tide of Starmarks",
+      "briefDesc": "When Avalanche: Floating Cannons deal DMG to the boss or elite targets, increases the squad's ATK.",
+      "type": "main",
+      "rarity": 2,
+      "imgId": "11501_Potential_01",
+      "id": 511505,
+      "subIcon": "Diamond"
+    },
+    "511506": {
+      "name": "Radiant Rainfall",
+      "briefDesc": "While Firefly is in Artillery Form, Avalanche: Floating Cannons periodically fire a volley at the target, dealing bonus DMG. Can trigger Lux Mark.",
+      "type": "main",
+      "rarity": 1,
+      "imgId": "11501_Potential_06",
+      "id": 511506,
+      "subIcon": "Triangle"
+    },
+    "511507": {
+      "name": "Lone Star Gleam",
+      "briefDesc": "Increases Firefly's Auto Attack DMG dealt to lone targets.",
+      "type": "main",
+      "rarity": 2,
+      "imgId": "11501_Potential_02",
+      "id": 511507,
+      "subIcon": "Round"
+    },
+    "511508": {
+      "name": "Astral Album",
+      "briefDesc": "When casting the Main Skill, Firefly shoots an energy round, dealing AoE DMG. Can trigger Lux Mark.",
+      "type": "main",
+      "rarity": 1,
+      "imgId": "11501_Potential_08",
+      "id": 511508,
+      "subIcon": "Diamond"
+    },
+    "511509": {
+      "name": "Luminous Rhythm",
+      "briefDesc": "Increases Skill DMG dealt by Avalanche: Floating Cannons at set intervals.",
+      "type": "main",
+      "rarity": 2,
+      "imgId": "11501_Potential_03",
+      "id": 511509,
+      "subIcon": "Triangle"
+    },
+    "511510": {
+      "name": "Flash Resonance",
+      "briefDesc": "When Avalanche: Floating Cannons hit different targets afflicted with Lux Marks, increases the squad's ATK.",
+      "type": "main",
+      "rarity": 2,
+      "imgId": "11501_Potential_04",
+      "id": 511510,
+      "subIcon": "Round"
+    },
+    "511511": {
+      "name": "Blazing Radiance",
+      "briefDesc": "Increases Firefly's Mark DMG. Every time Firefly triggers Lux Mark, increases own Lux DMG.",
+      "type": "main",
+      "rarity": 1,
+      "imgId": "Common_Potential_14",
+      "id": 511511,
+      "subIcon": "Diamond"
+    },
+    "511512": {
+      "name": "Absolute Brilliance",
+      "briefDesc": "The Ultimate can trigger Lux Mark. When the mark is triggered, increases own ATK.",
+      "type": "main",
+      "rarity": 2,
+      "imgId": "Common_Potential_Light_1",
+      "id": 511512,
+      "subIcon": "Triangle"
+    },
+    "511513": {
+      "name": "Phantom Blast",
+      "briefDesc": "Increases the number of times Firefly can dodge. After dodging, Firefly deals Lux DMG to nearby targets and stuns them. Can trigger Lux Mark.",
+      "type": "main",
+      "rarity": 2,
+      "imgId": "Common_Potential_21",
+      "id": 511513,
+      "subIcon": "Round"
+    },
+    "511521": {
+      "name": "Radiance Blade: Twin Shadow",
+      "briefDesc": "In an all-Lux squad, casting the Support Skill grants additional Avalanche: Flying Blades. Whenever Avalanche: Flying Blade deals DMG, increases own Skill DMG and Skill Crit Rate.",
+      "type": "support",
+      "rarity": 0,
+      "imgId": "11501_Potential_21",
+      "id": 511521
+    },
+    "511522": {
+      "name": "Radiance Blade: Firefly",
+      "briefDesc": "Increases the Skill Crit Rate of Avalanche: Flying Blade when it deals DMG. Whenever Avalanche: Flying Blade deals DMG, it deals additional AoE DMG and inflicts Lux Mark: Radiance.",
+      "type": "support",
+      "rarity": 0,
+      "imgId": "11501_Potential_22",
+      "id": 511522
+    },
+    "511523": {
+      "name": "Radiance Blade: Blazing Edge",
+      "briefDesc": "In an all-Lux squad, increases the attack range and Auto Attack DMG of Avalanche: Giant Sword. Whenever Avalanche: Giant Sword attacks, it triggers an additional attack, dealing DMG and inflicting Lux Mark: Radiance.",
+      "type": "support",
+      "rarity": 0,
+      "imgId": "11501_Potential_23",
+      "id": 511523
+    },
+    "511524": {
+      "name": "Radiance Blade: Pursuing Slash",
+      "briefDesc": "After Avalanche: Giant Sword attacks a certain number of times, Firefly automatically casts Dominating Slash, dealing DMG and inflicting Lux Mark: Radiance.",
+      "type": "support",
+      "rarity": 0,
+      "imgId": "11501_Potential_24",
+      "id": 511524
+    },
+    "511525": {
+      "name": "Lightforged Blade",
+      "briefDesc": "After the Lux Main Trekker triggers Lux Mark and generates Lucent, increases the Skill Crit Rate and Skill DMG of Avalanche: Flying Blade the next time Firefly is in Sword Form.",
+      "type": "support",
+      "rarity": 1,
+      "imgId": "11501_Potential_22",
+      "id": 511525,
+      "subIcon": "Diamond"
+    },
+    "511526": {
+      "name": "Stellar Crash",
+      "briefDesc": "When the Lux Main Trekker deals Skill DMG, generates Avalanche: Flying Blade to strike the target, dealing additional DMG and inflicting Lux Mark: Radiance. When this Avalanche: Flying Blade deals DMG, it increases the target's Lux DMG Taken based on the number of Light Curtain stacks on the target.",
+      "type": "support",
+      "rarity": 2,
+      "imgId": "11501_Potential_26",
+      "id": 511526,
+      "subIcon": "Triangle"
+    },
+    "511527": {
+      "name": "Blade of Falling Petals",
+      "briefDesc": "When Sword Form ends, Firefly commands all Avalanches to strike targets around her, dealing AoE DMG and inflicting Lux Mark: Radiance. Increases Firefly's Skill Crit DMG each time this effect deals DMG.",
+      "type": "support",
+      "rarity": 2,
+      "imgId": "11501_Potential_27",
+      "id": 511527,
+      "subIcon": "Round"
+    },
+    "511528": {
+      "name": "Blade Flash",
+      "briefDesc": "While Firefly is in Sword Form, increases the Auto Attack DMG dealt by Avalanche: Giant Sword over time. Increases Firefly's Movement SPD when she is too far from her target or has no target.",
+      "type": "support",
+      "rarity": 2,
+      "imgId": "11501_Potential_23",
+      "id": 511528,
+      "subIcon": "Diamond"
+    },
+    "511529": {
+      "name": "Luminous Onslaught",
+      "briefDesc": "When the Main Trekker triggers Lux Mark and generates Thunderbolt while Firefly is on the battlefield, increases her own ATK and the Lux DMG Taken of nearby targets.",
+      "type": "support",
+      "rarity": 2,
+      "imgId": "11501_Potential_24",
+      "id": 511529,
+      "subIcon": "Triangle"
+    },
+    "511530": {
+      "name": "Radiant Ripple",
+      "briefDesc": "When Avalanche: Giant Sword deals DMG, it deals additional AoE DMG and inflicts Lux Mark: Radiance.",
+      "type": "support",
+      "rarity": 1,
+      "imgId": "11501_Potential_30",
+      "id": 511530,
+      "subIcon": "Round"
+    },
+    "511531": {
+      "name": "Sanctuary of Light",
+      "briefDesc": "Firefly's Ultimate can inflict Lux Mark: Radiance. When Firefly casts the Ultimate, the Lux Main Trekker gains a shield.",
+      "type": "support",
+      "rarity": 2,
+      "imgId": "Common_Potential_Light_1",
+      "id": 511531,
+      "subIcon": "Diamond"
+    },
+    "511532": {
+      "name": "Cosmic Brilliance",
+      "briefDesc": "When Firefly casts the Support Skill, increases the ATK of Lux Trekkers in the squad.",
+      "type": "support",
+      "rarity": 2,
+      "imgId": "Common_Potential_11",
+      "id": 511532,
+      "subIcon": "Triangle"
+    },
+    "511533": {
+      "name": "Domain of Purity",
+      "briefDesc": "Increases the squad's Lux DMG in an all-Lux squad. When Firefly is on the battlefield, additionally increases the squad's Lux DMG.",
+      "type": "support",
+      "rarity": 1,
+      "imgId": "Common_Potential_15",
+      "id": 511533,
+      "subIcon": "Round"
+    },
+    "511541": {
+      "name": "Persistent Warmth",
+      "briefDesc": "After Firefly casts the Ultimate, increases her Lux DMG the next time she casts a skill.",
+      "type": "common",
+      "rarity": 2,
+      "imgId": "11501_Potential_41",
+      "id": 511541,
+      "subIcon": "Diamond"
+    },
+    "511542": {
+      "name": "Ultimate Radiance",
+      "briefDesc": "Increases the Ultimate DMG dealt by Firefly's Ultimate.",
+      "type": "common",
+      "rarity": 2,
+      "imgId": "11501_Potential_42",
+      "id": 511542,
+      "subIcon": "Triangle"
+    },
+    "511543": {
+      "name": "Radiance of Shattered Stars",
+      "briefDesc": "Increases the Ultimate DMG dealt by Firefly's Ultimate to targets with low HP.",
+      "type": "common",
+      "rarity": 2,
+      "imgId": "11501_Potential_41",
+      "id": 511543,
+      "subIcon": "Round"
+    }
+  },
   "116": {
     "511601": {
       "name": "Let Nature Thrive",
@@ -2681,7 +2936,7 @@
     },
     "511923": {
       "name": "Floral Nexus",
-      "briefDesc": "Shurikens from the Support Skill follow their targets, dealing increased DMG.",
+      "briefDesc": "Shurikens from the Support Skill follow their targets, dealing increased Skill DMG.",
       "type": "support",
       "rarity": 0,
       "imgId": "11901_Potential_23",
@@ -6154,7 +6409,7 @@
     },
     "514405": {
       "name": "Tremble and Fall",
-      "briefDesc": "Increases Auto Attack DMG and the number of times Chitose can dodge. After dodging or casting the Main Skill, she can deliver the last strike of her Auto Attack immediately, and if this Auto Attack deals damage, she gains Edge: Increases the Aqua DMG dealt by some of Chitose's Auto Attacks.",
+      "briefDesc": "Increases the number of times Chitose can dodge and her Auto Attack DMG. After dodging or casting the Main Skill, she can deliver the last strike of her Auto Attack immediately, and if this Auto Attack deals DMG, she gains Edge: Increases the Aqua DMG dealt by some of Chitose's Auto Attacks.",
       "type": "main",
       "rarity": 2,
       "imgId": "14401_Potential_02",
@@ -6377,7 +6632,7 @@
   "145": {
     "514501": {
       "name": "Subtle Tremor",
-      "briefDesc": "When shooting with Nightbloom (Main Skill), summons Doomfall multiple times. Upon summoning Doomfall, reduces Ultimate Cooldown and gains Energy.",
+      "briefDesc": "When shooting with Nightbloom (Main Skill), summons Doomfall multiple times. Can trigger Umbra Mark. Upon summoning Doomfall, reduces Ultimate Cooldown and gains Energy.",
       "type": "main",
       "rarity": 0,
       "imgId": "14501_Potential_01",

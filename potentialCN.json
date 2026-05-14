@@ -1784,6 +1784,261 @@
       "subIcon": "Round"
     }
   },
+  "115": {
+    "511501": {
+      "name": "萤流·拂照",
+      "briefDesc": "「雪崩·浮游炮」同时攻击目标，造成伤害，可触发光系印记。",
+      "type": "main",
+      "rarity": 0,
+      "imgId": "11501_Potential_01",
+      "id": 511501
+    },
+    "511502": {
+      "name": "萤流·拢光",
+      "briefDesc": "「雪崩·浮游炮」持续对相同目标造成多次伤害后，提升自身普攻伤害。",
+      "type": "main",
+      "rarity": 0,
+      "imgId": "11501_Potential_02",
+      "id": 511502
+    },
+    "511503": {
+      "name": "萤流·汇聚",
+      "briefDesc": "「雪崩·浮游炮」造成伤害时，生成「烈日照射」，持续攻击目标位置，可触发光系印记。",
+      "type": "main",
+      "rarity": 0,
+      "imgId": "11501_Potential_03",
+      "id": 511503
+    },
+    "511504": {
+      "name": "萤流·射散",
+      "briefDesc": "「雪崩·浮游炮」发出的射线会折射，同时对多个目标造成伤害，可触发光系印记。",
+      "type": "main",
+      "rarity": 0,
+      "imgId": "11501_Potential_04",
+      "id": 511504
+    },
+    "511505": {
+      "name": "星痕叠潮",
+      "briefDesc": "「雪崩·浮游炮」对首领或精英目标造成伤害时，提升全队攻击。",
+      "type": "main",
+      "rarity": 2,
+      "imgId": "11501_Potential_01",
+      "id": 511505,
+      "subIcon": "Diamond"
+    },
+    "511506": {
+      "name": "光雨倾落",
+      "briefDesc": "火垂在炮击形态期间，每间隔一段时间「雪崩·浮游炮」向目标齐射，造成额外伤害，可触发光系印记。",
+      "type": "main",
+      "rarity": 1,
+      "imgId": "11501_Potential_06",
+      "id": 511506,
+      "subIcon": "Triangle"
+    },
+    "511507": {
+      "name": "孤星独耀",
+      "briefDesc": "提升火垂对孤立的目标造成的普攻伤害。",
+      "type": "main",
+      "rarity": 2,
+      "imgId": "11501_Potential_02",
+      "id": 511507,
+      "subIcon": "Round"
+    },
+    "511508": {
+      "name": "星汨影集",
+      "briefDesc": "施放主控技时发射能量弹，造成范围伤害，可触发光系印记。",
+      "type": "main",
+      "rarity": 1,
+      "imgId": "11501_Potential_08",
+      "id": 511508,
+      "subIcon": "Diamond"
+    },
+    "511509": {
+      "name": "流光律动",
+      "briefDesc": "每间隔一段时间，提升「雪崩·浮游炮」造成的技能伤害。",
+      "type": "main",
+      "rarity": 2,
+      "imgId": "11501_Potential_03",
+      "id": 511509,
+      "subIcon": "Triangle"
+    },
+    "511510": {
+      "name": "闪光共鸣",
+      "briefDesc": "「雪崩·浮游炮」命中不同的附带光系印记的目标时，提升全队攻击。",
+      "type": "main",
+      "rarity": 2,
+      "imgId": "11501_Potential_04",
+      "id": 511510,
+      "subIcon": "Round"
+    },
+    "511511": {
+      "name": "炽烈光明",
+      "briefDesc": "提升火垂印记伤害。 火垂每次触发光系印记时，提升自身光系伤害。",
+      "type": "main",
+      "rarity": 1,
+      "imgId": "Common_Potential_14",
+      "id": 511511,
+      "subIcon": "Diamond"
+    },
+    "511512": {
+      "name": "绝对闪耀",
+      "briefDesc": "绝招可触发光系印记，触发时提升自身攻击。",
+      "type": "main",
+      "rarity": 2,
+      "imgId": "Common_Potential_Light_1",
+      "id": 511512,
+      "subIcon": "Triangle"
+    },
+    "511513": {
+      "name": "残影幻爆",
+      "briefDesc": "增加火垂闪避次数。 闪避后，对附近的目标造成光系伤害并眩晕，可触发光系印记。",
+      "type": "main",
+      "rarity": 2,
+      "imgId": "Common_Potential_21",
+      "id": 511513,
+      "subIcon": "Round"
+    },
+    "511521": {
+      "name": "辉剑·重影",
+      "briefDesc": "当全队均为光系角色时，施放援护技额外获得更多「雪崩·飞刃」。 每当「雪崩·飞刃」造成伤害时，提升自身造成的技能伤害和技能暴击率。",
+      "type": "support",
+      "rarity": 0,
+      "imgId": "11501_Potential_21",
+      "id": 511521
+    },
+    "511522": {
+      "name": "辉剑·萤火",
+      "briefDesc": "提升「雪崩·飞刃」造成伤害时的技能暴击率。 每当「雪崩·飞刃」造成伤害时，额外造成范围伤害，并附加光系印记：光明。",
+      "type": "support",
+      "rarity": 0,
+      "imgId": "11501_Potential_22",
+      "id": 511522
+    },
+    "511523": {
+      "name": "辉剑·煌刃",
+      "briefDesc": "当全队均为光系角色时，提升「雪崩·巨剑」的攻击范围与造成的普攻伤害。 每当「雪崩·巨剑」攻击时，追加额外攻击，造成伤害，并附加光系印记：光明。",
+      "type": "support",
+      "rarity": 0,
+      "imgId": "11501_Potential_23",
+      "id": 511523
+    },
+    "511524": {
+      "name": "辉剑·追斩",
+      "briefDesc": "「雪崩·巨剑」攻击一定次数后，火垂自动施放「霸斩」，造成伤害，并附加光系印记：光明。",
+      "type": "support",
+      "rarity": 0,
+      "imgId": "11501_Potential_24",
+      "id": 511524
+    },
+    "511525": {
+      "name": "积光成刃",
+      "briefDesc": "光系主控角色触发光系印记，以及产生光耀后，火垂下一次剑击形态期间，提升「雪崩·飞刃」造成的技能暴击率和技能伤害。",
+      "type": "support",
+      "rarity": 1,
+      "imgId": "11501_Potential_22",
+      "id": 511525,
+      "subIcon": "Diamond"
+    },
+    "511526": {
+      "name": "星芒坠落",
+      "briefDesc": "光系主控角色造成技能伤害时，产生「雪崩·飞刃」打击目标造成额外伤害，并附加光系印记：光明。 该「雪崩·飞刃」在造成伤害时，根据目标附带的光幕层数，提升目标受到光系伤害。",
+      "type": "support",
+      "rarity": 2,
+      "imgId": "11501_Potential_26",
+      "id": 511526,
+      "subIcon": "Triangle"
+    },
+    "511527": {
+      "name": "归刃散华",
+      "briefDesc": "火垂在剑击形态结束时，操纵所有的雪崩打击自身周围目标造成范围伤害，并附加光系印记：光明。 该效果每次造成伤害时，提升火垂的技能暴击伤害。",
+      "type": "support",
+      "rarity": 2,
+      "imgId": "11501_Potential_27",
+      "id": 511527,
+      "subIcon": "Round"
+    },
+    "511528": {
+      "name": "重剑迅影",
+      "briefDesc": "火垂在剑击形态期间，「雪崩·巨剑」造成的普攻伤害随时间提升。 当火垂距离目标过远或者没有目标时，提升自身移动速度。",
+      "type": "support",
+      "rarity": 2,
+      "imgId": "11501_Potential_23",
+      "id": 511528,
+      "subIcon": "Diamond"
+    },
+    "511529": {
+      "name": "光流蓄锋",
+      "briefDesc": "火垂在场期间，主控角色触发光系印记，产生落雷时，火垂提升自身攻击，同时提升自身附近目标受到光系伤害。",
+      "type": "support",
+      "rarity": 2,
+      "imgId": "11501_Potential_24",
+      "id": 511529,
+      "subIcon": "Triangle"
+    },
+    "511530": {
+      "name": "光涟扩散",
+      "briefDesc": "「雪崩·巨剑」造成伤害时，额外造成范围伤害，并附加光系印记：光明。",
+      "type": "support",
+      "rarity": 1,
+      "imgId": "11501_Potential_30",
+      "id": 511530,
+      "subIcon": "Round"
+    },
+    "511531": {
+      "name": "绝光庇护",
+      "briefDesc": "使火垂的绝招可附加光系印记：光明。 火垂施放绝招时，使光系主控角色获得护盾。",
+      "type": "support",
+      "rarity": 2,
+      "imgId": "Common_Potential_Light_1",
+      "id": 511531,
+      "subIcon": "Diamond"
+    },
+    "511532": {
+      "name": "天地同辉",
+      "briefDesc": "火垂施放援护技时，提升队伍中光系角色的攻击。",
+      "type": "support",
+      "rarity": 2,
+      "imgId": "Common_Potential_11",
+      "id": 511532,
+      "subIcon": "Triangle"
+    },
+    "511533": {
+      "name": "纯洁领域",
+      "briefDesc": "当全队均为光系角色时，提升全队的光系伤害。 当火垂在场时额外提升全队的光系伤害。",
+      "type": "support",
+      "rarity": 1,
+      "imgId": "Common_Potential_15",
+      "id": 511533,
+      "subIcon": "Round"
+    },
+    "511541": {
+      "name": "余辉留温",
+      "briefDesc": "火垂施放绝招后，下次施放技能时提升自身光系伤害。",
+      "type": "common",
+      "rarity": 2,
+      "imgId": "11501_Potential_41",
+      "id": 511541,
+      "subIcon": "Diamond"
+    },
+    "511542": {
+      "name": "极耀明光",
+      "briefDesc": "提升火垂绝招造成的绝招伤害。",
+      "type": "common",
+      "rarity": 2,
+      "imgId": "11501_Potential_42",
+      "id": 511542,
+      "subIcon": "Triangle"
+    },
+    "511543": {
+      "name": "碎星残芒",
+      "briefDesc": "提升火垂绝招对低生命的目标，造成的绝招伤害。",
+      "type": "common",
+      "rarity": 2,
+      "imgId": "11501_Potential_41",
+      "id": 511543,
+      "subIcon": "Round"
+    }
+  },
   "116": {
     "511601": {
       "name": "枝繁叶茂",
@@ -1828,7 +2083,7 @@
     },
     "511606": {
       "name": "缠绕根须",
-      "briefDesc": "种子附加的移速降低效果可叠加，达到最大层数时，目标受到岭川造成的地系伤害提升。",
+      "briefDesc": "种子附加的移速降低效果可叠加，达到最大层数时，岭川对其造成的地系伤害提升。",
       "type": "main",
       "rarity": 2,
       "imgId": "11601_Potential_02",
@@ -2681,7 +2936,7 @@
     },
     "511923": {
       "name": "丛花之眼",
-      "briefDesc": "援护技的飞镖可跟踪攻击目标，造成伤害提升。",
+      "briefDesc": "援护技的飞镖可跟踪攻击目标，造成的技能伤害提升。",
       "type": "support",
       "rarity": 0,
       "imgId": "11901_Potential_23",
@@ -6377,7 +6632,7 @@
   "145": {
     "514501": {
       "name": "隐约震颤",
-      "briefDesc": "主控技「夜昙」射击时，产生多次「天诛」。乙叶产生「天诛」时，缩减绝招冷却时间，获得能量。",
+      "briefDesc": "主控技「夜昙」射击时，产生多次「天诛」，可触发暗系印记。乙叶产生「天诛」时，缩减绝招冷却时间，获得能量。",
       "type": "main",
       "rarity": 0,
       "imgId": "14501_Potential_01",
