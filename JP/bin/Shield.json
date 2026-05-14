@@ -234,11 +234,24 @@
     "TimeSuperposition": 2,
     "NotRemove": true
   },
-  "11532001": {
-    "Id": 11532001,
+  "11531001": {
+    "Id": 11531001,
     "levelTypeData": 1,
-    "LevelData": 511532,
-    "BindEffect": "Actor/Character/13201/Buff/fx_13201_Buff_Support_Skill_P23_StartShield",
+    "LevelData": 511531,
+    "BindEffect": "Actor/Character/11501/Buff/fx_11501_buff_B2_Skill_P31_Shield",
+    "TimeSuperposition": 2,
+    "NotRemove": true
+  },
+  "14010001": {
+    "Id": 14010001,
+    "levelTypeData": 1,
+    "LevelData": 514010,
+    "BindEffect": "Actor/Character/14001/Buff/fx_14001_Buff_Main_Skill_Type_Cannon_P03",
+    "TimeSuperposition": 2,
+    "NotRemove": true
+  },
+  "14003011": {
+    "Id": 14003011,
     "TimeSuperposition": 2,
     "NotRemove": true
   }

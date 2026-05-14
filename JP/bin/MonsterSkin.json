@@ -5777,6 +5777,28 @@
     "ModelScale": 13500,
     "ColliderScale": 10000
   },
+  "3110101": {
+    "Id": 3110101,
+    "MonsterManual": 3110100,
+    "Model": "Actor/Monster/31101GeLeiHuoEn/31101GeLeiHuoEn_Actor",
+    "RunAnimationSpd": 60000,
+    "WalkAnimationSpd": 14000,
+    "BarHeight": 10000,
+    "ModelScale": 15000,
+    "ColliderScale": 10000,
+    "ForbiddenBehitRot": true
+  },
+  "3110201": {
+    "Id": 3110201,
+    "MonsterManual": 3110200,
+    "Model": "Actor/Monster/31102LieQuan/31102LieQuan_Actor",
+    "RunAnimationSpd": 60000,
+    "WalkAnimationSpd": 20000,
+    "BarHeight": 30000,
+    "ModelScale": 15500,
+    "ColliderScale": 5000,
+    "ForbiddenBehitRot": true
+  },
   "11601111": {
     "Id": 11601111,
     "Model": "Actor/Character/11601/11601_PeaShooter_Actor",
@@ -6194,6 +6216,51 @@
   "8010701": {
     "Id": 8010701,
     "Model": "Actor/Character/10701/10701_Actor",
+    "RunAnimationSpd": 40000,
+    "WalkAnimationSpd": 40000,
+    "BarHeight": 10000,
+    "ModelScale": 12500,
+    "ColliderScale": 10000
+  },
+  "8011401": {
+    "Id": 8011401,
+    "Model": "Actor/Character/11401/11401_Actor",
+    "RunAnimationSpd": 40000,
+    "WalkAnimationSpd": 40000,
+    "BarHeight": 10000,
+    "ModelScale": 12500,
+    "ColliderScale": 10000
+  },
+  "8014001": {
+    "Id": 8014001,
+    "Model": "Actor/Character/14001/14001_Actor",
+    "RunAnimationSpd": 40000,
+    "WalkAnimationSpd": 40000,
+    "BarHeight": 10000,
+    "ModelScale": 11500,
+    "ColliderScale": 10000
+  },
+  "8013501": {
+    "Id": 8013501,
+    "Model": "Actor/Character/13501/13501_Actor",
+    "RunAnimationSpd": 40000,
+    "WalkAnimationSpd": 40000,
+    "BarHeight": 10000,
+    "ModelScale": 12500,
+    "ColliderScale": 10000
+  },
+  "8013502": {
+    "Id": 8013502,
+    "Model": "Actor/Character/13501/13501_BoomGhost_Actor",
+    "RunAnimationSpd": 40000,
+    "WalkAnimationSpd": 40000,
+    "BarHeight": 10000,
+    "ModelScale": 10000,
+    "ColliderScale": 10000
+  },
+  "8012601": {
+    "Id": 8012601,
+    "Model": "Actor/Character/12601/12601_Actor",
     "RunAnimationSpd": 40000,
     "WalkAnimationSpd": 40000,
     "BarHeight": 10000,

@@ -1427,5 +1427,522 @@
     "BGM": "amb_coast_combatBoss_setState",
     "LeaveTriggerEvent": "amb_coast_all_stop",
     "IntroCutscene": "fx_m30931_base_born"
+  },
+  "301001": {
+    "Id": 301001,
+    "MonsterLv": 1,
+    "SceneName": "Levels/StoryActivity/StoryActivity_10/StoryActivity_10_002_B_02",
+    "ConfigPrefabName": "StoryActivity_10_002_B_02_N1",
+    "Theme": 446,
+    "BGM": "huoChui_combatNormal_setState",
+    "LeaveTriggerEvent": "amb_huoChui_all_stop"
+  },
+  "301002": {
+    "Id": 301002,
+    "MonsterLv": 2,
+    "SceneName": "Levels/StoryActivity/StoryActivity_10/StoryActivity_10_006_B_01",
+    "ConfigPrefabName": "StoryActivity_10_006_B_01_N2",
+    "Theme": 446,
+    "BGM": "huoChui_combatNormal_setState",
+    "LeaveTriggerEvent": "amb_huoChui_all_stop"
+  },
+  "301003": {
+    "Id": 301003,
+    "MonsterLv": 2,
+    "SceneName": "Levels/StoryActivity/StoryActivity_10/StoryActivity_10_025_B_06",
+    "ConfigPrefabName": "StoryActivity_10_025_B_06_N2",
+    "Theme": 446,
+    "BGM": "huoChui_combatNormal_setState",
+    "LeaveTriggerEvent": "amb_huoChui_all_stop"
+  },
+  "301004": {
+    "Id": 301004,
+    "MonsterLv": 3,
+    "SceneName": "Levels/StoryActivity/StoryActivity_10/StoryActivity_10_020_B_02",
+    "ConfigPrefabName": "StoryActivity_10_020_B_02_N3",
+    "Theme": 446,
+    "BGM": "huoChui_combatNormal_setState",
+    "LeaveTriggerEvent": "amb_huoChui_all_stop"
+  },
+  "301005": {
+    "Id": 301005,
+    "MonsterLv": 3,
+    "SceneName": "Levels/StoryActivity/StoryActivity_10/StoryActivity_10_022_C_01",
+    "ConfigPrefabName": "StoryActivity_10_022_C_01_N3",
+    "Theme": 446,
+    "BGM": "huoChui_combatNormal_setState",
+    "LeaveTriggerEvent": "amb_huoChui_all_stop"
+  },
+  "301006": {
+    "Id": 301006,
+    "MonsterLv": 4,
+    "SceneName": "Levels/StoryActivity/StoryActivity_10/StoryActivity_10_007_B_01",
+    "ConfigPrefabName": "StoryActivity_10_007_B_01_N4",
+    "Theme": 446,
+    "BGM": "huoChui_combatNormal_setState",
+    "LeaveTriggerEvent": "amb_huoChui_all_stop"
+  },
+  "301007": {
+    "Id": 301007,
+    "MonsterLv": 4,
+    "SceneName": "Levels/StoryActivity/StoryActivity_10/StoryActivity_10_025_B_06",
+    "ConfigPrefabName": "StoryActivity_10_025_B_06_N4",
+    "Theme": 446,
+    "BGM": "huoChui_combatNormal_setState",
+    "LeaveTriggerEvent": "amb_huoChui_all_stop"
+  },
+  "301008": {
+    "Id": 301008,
+    "MonsterLv": 4,
+    "SceneName": "Levels/StoryActivity/StoryActivity_10/StoryActivity_10_006_B_01",
+    "ConfigPrefabName": "StoryActivity_10_006_B_01_N4",
+    "Theme": 446,
+    "BGM": "huoChui_combatNormal_setState",
+    "LeaveTriggerEvent": "amb_huoChui_all_stop"
+  },
+  "301009": {
+    "Id": 301009,
+    "MonsterLv": 5,
+    "SceneName": "Levels/StoryActivity/StoryActivity_10/StoryActivity_10_010_A_01",
+    "ConfigPrefabName": "StoryActivity_10_010_A_01_N5",
+    "Theme": 446,
+    "BGM": "huoChui_combatNormal_setState",
+    "LeaveTriggerEvent": "amb_huoChui_all_stop"
+  },
+  "301010": {
+    "Id": 301010,
+    "MonsterLv": 5,
+    "SceneName": "Levels/StoryActivity/StoryActivity_10/StoryActivity_10_020_B_02",
+    "ConfigPrefabName": "StoryActivity_10_020_B_02_N5",
+    "Theme": 446,
+    "BGM": "huoChui_combatNormal_setState",
+    "LeaveTriggerEvent": "amb_huoChui_all_stop"
+  },
+  "301011": {
+    "Id": 301011,
+    "MonsterLv": 6,
+    "SceneName": "Levels/StoryActivity/StoryActivity_10/StoryActivity_10_002_B_02",
+    "ConfigPrefabName": "StoryActivity_10_002_B_02_N6",
+    "Theme": 446,
+    "BGM": "huoChui_combatNormal_setState",
+    "LeaveTriggerEvent": "amb_huoChui_all_stop"
+  },
+  "301012": {
+    "Id": 301012,
+    "MonsterLv": 7,
+    "SceneName": "Levels/StoryActivity/StoryActivity_10/StoryActivity_10_022_C_01",
+    "ConfigPrefabName": "StoryActivity_10_022_C_01_N7",
+    "Theme": 446,
+    "BGM": "huoChui_combatNormal_setState",
+    "LeaveTriggerEvent": "amb_huoChui_all_stop"
+  },
+  "301013": {
+    "Id": 301013,
+    "MonsterLv": 7,
+    "SceneName": "Levels/StoryActivity/StoryActivity_10/StoryActivity_10_006_B_01",
+    "ConfigPrefabName": "StoryActivity_10_006_B_01_N7",
+    "Theme": 446,
+    "BGM": "huoChui_combatNormal_setState",
+    "LeaveTriggerEvent": "amb_huoChui_all_stop"
+  },
+  "301014": {
+    "Id": 301014,
+    "MonsterLv": 8,
+    "SceneName": "Levels/Roguelike/Roguelike_2/Roguelike_2_Boss_004",
+    "ConfigPrefabName": "StoryActivity_10_2_Boss_004_N8",
+    "Theme": 446,
+    "BGM": "huoChui_combatBoss_setState",
+    "LeaveTriggerEvent": "amb_huoChui_all_stop"
+  },
+  "301015": {
+    "Id": 301015,
+    "MonsterLv": 9,
+    "SceneName": "Levels/StoryActivity/StoryActivity_10/StoryActivity_10_025_B_06",
+    "ConfigPrefabName": "StoryActivity_10_025_B_06_N9",
+    "Theme": 446,
+    "BGM": "huoChui_combatNormal_setState",
+    "LeaveTriggerEvent": "amb_huoChui_all_stop"
+  },
+  "301016": {
+    "Id": 301016,
+    "MonsterLv": 9,
+    "SceneName": "Levels/StoryActivity/StoryActivity_10/StoryActivity_10_002_B_02",
+    "ConfigPrefabName": "StoryActivity_10_002_B_02_N9",
+    "Theme": 446,
+    "BGM": "huoChui_combatNormal_setState",
+    "LeaveTriggerEvent": "amb_huoChui_all_stop"
+  },
+  "301017": {
+    "Id": 301017,
+    "MonsterLv": 10,
+    "SceneName": "Levels/StoryActivity/StoryActivity_10/StoryActivity_10_006_B_01",
+    "ConfigPrefabName": "StoryActivity_10_006_B_01_N10",
+    "Theme": 446,
+    "BGM": "huoChui_combatNormal_setState",
+    "LeaveTriggerEvent": "amb_huoChui_all_stop"
+  },
+  "301018": {
+    "Id": 301018,
+    "MonsterLv": 10,
+    "SceneName": "Levels/StoryActivity/StoryActivity_10/StoryActivity_10_007_B_01",
+    "ConfigPrefabName": "StoryActivity_10_007_B_01_N10",
+    "Theme": 446,
+    "BGM": "huoChui_combatNormal_setState",
+    "LeaveTriggerEvent": "amb_huoChui_all_stop"
+  },
+  "301019": {
+    "Id": 301019,
+    "MonsterLv": 10,
+    "SceneName": "Levels/StoryActivity/StoryActivity_10/StoryActivity_10_022_C_01",
+    "ConfigPrefabName": "StoryActivity_10_022_C_01_N10",
+    "Theme": 446,
+    "BGM": "huoChui_combatNormal_setState",
+    "LeaveTriggerEvent": "amb_huoChui_all_stop"
+  },
+  "301020": {
+    "Id": 301020,
+    "MonsterLv": 11,
+    "SceneName": "Levels/StoryActivity/StoryActivity_10/StoryActivity_10_020_B_02",
+    "ConfigPrefabName": "StoryActivity_10_020_B_02_N11",
+    "Theme": 446,
+    "BGM": "huoChui_combatNormal_setState",
+    "LeaveTriggerEvent": "amb_huoChui_all_stop"
+  },
+  "301021": {
+    "Id": 301021,
+    "MonsterLv": 11,
+    "SceneName": "Levels/StoryActivity/StoryActivity_10/StoryActivity_10_010_A_01",
+    "ConfigPrefabName": "StoryActivity_10_010_A_01_N11",
+    "Theme": 446,
+    "BGM": "huoChui_combatNormal_setState",
+    "LeaveTriggerEvent": "amb_huoChui_all_stop"
+  },
+  "301022": {
+    "Id": 301022,
+    "MonsterLv": 12,
+    "SceneName": "Levels/Roguelike/Roguelike_2/Roguelike_2_Boss_004",
+    "ConfigPrefabName": "StoryActivity_10_2_Boss_004_N12",
+    "Theme": 446,
+    "BGM": "huoChui_combatBoss_setState",
+    "LeaveTriggerEvent": "amb_huoChui_all_stop"
+  },
+  "301023": {
+    "Id": 301023,
+    "MonsterLv": 13,
+    "SceneName": "Levels/StoryActivity/StoryActivity_10/StoryActivity_10_002_B_06",
+    "ConfigPrefabName": "StoryActivity_10_002_B_06_H1",
+    "Theme": 446,
+    "BGM": "huoChui_combatNormal_setState",
+    "LeaveTriggerEvent": "amb_huoChui_all_stop"
+  },
+  "301024": {
+    "Id": 301024,
+    "MonsterLv": 14,
+    "SceneName": "Levels/StoryActivity/StoryActivity_10/StoryActivity_10_015_A_01",
+    "ConfigPrefabName": "StoryActivity_10_015_A_01_H2",
+    "Theme": 446,
+    "BGM": "huoChui_combatNormal_setState",
+    "LeaveTriggerEvent": "amb_huoChui_all_stop"
+  },
+  "301025": {
+    "Id": 301025,
+    "MonsterLv": 14,
+    "SceneName": "Levels/StoryActivity/StoryActivity_10/StoryActivity_10_001_B_01",
+    "ConfigPrefabName": "StoryActivity_10_001_B_01_H2",
+    "Theme": 446,
+    "BGM": "huoChui_combatNormal_setState",
+    "LeaveTriggerEvent": "amb_huoChui_all_stop"
+  },
+  "301026": {
+    "Id": 301026,
+    "MonsterLv": 15,
+    "SceneName": "Levels/StoryActivity/StoryActivity_10/StoryActivity_10_012_B_01",
+    "ConfigPrefabName": "StoryActivity_10_012_B_01_H3",
+    "Theme": 446,
+    "BGM": "huoChui_combatNormal_setState",
+    "LeaveTriggerEvent": "amb_huoChui_all_stop"
+  },
+  "301027": {
+    "Id": 301027,
+    "MonsterLv": 15,
+    "SceneName": "Levels/StoryActivity/StoryActivity_10/StoryActivity_10_002_B_06",
+    "ConfigPrefabName": "StoryActivity_10_002_B_06_H3",
+    "Theme": 446,
+    "BGM": "huoChui_combatNormal_setState",
+    "LeaveTriggerEvent": "amb_huoChui_all_stop"
+  },
+  "301028": {
+    "Id": 301028,
+    "MonsterLv": 16,
+    "SceneName": "Levels/Roguelike/Roguelike_2/Roguelike_2_Boss_004",
+    "ConfigPrefabName": "StoryActivity_10_2_Boss_004_H4",
+    "Theme": 446,
+    "BGM": "huoChui_combatBoss_setState",
+    "LeaveTriggerEvent": "amb_huoChui_all_stop"
+  },
+  "301029": {
+    "Id": 301029,
+    "MonsterLv": 17,
+    "SceneName": "Levels/StoryActivity/StoryActivity_10/StoryActivity_10_002_B_06",
+    "ConfigPrefabName": "StoryActivity_10_002_B_06_H5",
+    "Theme": 446,
+    "BGM": "huoChui_combatNormal_setState",
+    "LeaveTriggerEvent": "amb_huoChui_all_stop"
+  },
+  "301030": {
+    "Id": 301030,
+    "MonsterLv": 17,
+    "SceneName": "Levels/StoryActivity/StoryActivity_10/StoryActivity_10_008_A_01",
+    "ConfigPrefabName": "StoryActivity_10_008_A_01_H5",
+    "Theme": 446,
+    "BGM": "huoChui_combatNormal_setState",
+    "LeaveTriggerEvent": "amb_huoChui_all_stop"
+  },
+  "301031": {
+    "Id": 301031,
+    "MonsterLv": 18,
+    "SceneName": "Levels/StoryActivity/StoryActivity_10/StoryActivity_10_012_B_01",
+    "ConfigPrefabName": "StoryActivity_10_012_B_01_H6",
+    "Theme": 446,
+    "BGM": "huoChui_combatNormal_setState",
+    "LeaveTriggerEvent": "amb_huoChui_all_stop"
+  },
+  "301032": {
+    "Id": 301032,
+    "MonsterLv": 18,
+    "SceneName": "Levels/StoryActivity/StoryActivity_10/StoryActivity_10_008_A_01",
+    "ConfigPrefabName": "StoryActivity_10_008_A_01_H6",
+    "Theme": 446,
+    "BGM": "huoChui_combatNormal_setState",
+    "LeaveTriggerEvent": "amb_huoChui_all_stop"
+  },
+  "301033": {
+    "Id": 301033,
+    "MonsterLv": 18,
+    "SceneName": "Levels/StoryActivity/StoryActivity_10/StoryActivity_10_015_A_01",
+    "ConfigPrefabName": "StoryActivity_10_015_A_01_H6",
+    "Theme": 446,
+    "BGM": "huoChui_combatNormal_setState",
+    "LeaveTriggerEvent": "amb_huoChui_all_stop"
+  },
+  "301034": {
+    "Id": 301034,
+    "MonsterLv": 19,
+    "SceneName": "Levels/StoryActivity/StoryActivity_10/StoryActivity_10_002_B_06",
+    "ConfigPrefabName": "StoryActivity_10_002_B_06_H7",
+    "Theme": 446,
+    "BGM": "huoChui_combatNormal_setState",
+    "LeaveTriggerEvent": "amb_huoChui_all_stop"
+  },
+  "301035": {
+    "Id": 301035,
+    "MonsterLv": 19,
+    "SceneName": "Levels/StoryActivity/StoryActivity_10/StoryActivity_10_015_A_01",
+    "ConfigPrefabName": "StoryActivity_10_015_A_01_H7",
+    "Theme": 446,
+    "BGM": "huoChui_combatNormal_setState",
+    "LeaveTriggerEvent": "amb_huoChui_all_stop"
+  },
+  "301036": {
+    "Id": 301036,
+    "MonsterLv": 20,
+    "SceneName": "Levels/Roguelike/Roguelike_2/Roguelike_2_Boss_004",
+    "ConfigPrefabName": "StoryActivity_10_2_Boss_004_H8",
+    "Theme": 446,
+    "BGM": "huoChui_combatBoss_setState",
+    "LeaveTriggerEvent": "amb_huoChui_all_stop"
+  },
+  "301037": {
+    "Id": 301037,
+    "MonsterLv": 21,
+    "SceneName": "Levels/StoryActivity/StoryActivity_10/StoryActivity_10_021_A_01",
+    "ConfigPrefabName": "StoryActivity_10_021_A_01_C1",
+    "Theme": 446,
+    "BGM": "huoChui_combatNormal_setState",
+    "LeaveTriggerEvent": "amb_huoChui_all_stop"
+  },
+  "301038": {
+    "Id": 301038,
+    "MonsterLv": 22,
+    "SceneName": "Levels/StoryActivity/StoryActivity_10/StoryActivity_10_015_B_02",
+    "ConfigPrefabName": "StoryActivity_10_015_B_02_C2",
+    "Theme": 446,
+    "BGM": "huoChui_combatNormal_setState",
+    "LeaveTriggerEvent": "amb_huoChui_all_stop"
+  },
+  "301039": {
+    "Id": 301039,
+    "MonsterLv": 22,
+    "SceneName": "Levels/StoryActivity/StoryActivity_10/StoryActivity_10_009_A_01",
+    "ConfigPrefabName": "StoryActivity_10_009_A_01_C2",
+    "Theme": 446,
+    "BGM": "huoChui_combatNormal_setState",
+    "LeaveTriggerEvent": "amb_huoChui_all_stop"
+  },
+  "301040": {
+    "Id": 301040,
+    "MonsterLv": 22,
+    "SceneName": "Levels/StoryActivity/StoryActivity_10/StoryActivity_10_012_B_02",
+    "ConfigPrefabName": "StoryActivity_10_012_B_02_C2",
+    "Theme": 446,
+    "BGM": "huoChui_combatNormal_setState",
+    "LeaveTriggerEvent": "amb_huoChui_all_stop"
+  },
+  "301041": {
+    "Id": 301041,
+    "MonsterLv": 23,
+    "SceneName": "Levels/StoryActivity/StoryActivity_10/StoryActivity_10_021_A_01",
+    "ConfigPrefabName": "StoryActivity_10_021_A_01_C3",
+    "Theme": 446,
+    "BGM": "huoChui_combatNormal_setState",
+    "LeaveTriggerEvent": "amb_huoChui_all_stop"
+  },
+  "301042": {
+    "Id": 301042,
+    "MonsterLv": 23,
+    "SceneName": "Levels/StoryActivity/StoryActivity_10/StoryActivity_10_012_B_02",
+    "ConfigPrefabName": "StoryActivity_10_012_B_02_C3",
+    "Theme": 446,
+    "BGM": "huoChui_combatNormal_setState",
+    "LeaveTriggerEvent": "amb_huoChui_all_stop"
+  },
+  "301043": {
+    "Id": 301043,
+    "MonsterLv": 24,
+    "SceneName": "Levels/Roguelike/Roguelike_2/Roguelike_2_Boss_004",
+    "ConfigPrefabName": "StoryActivity_10_2_Boss_004_C4",
+    "Theme": 446,
+    "BGM": "huoChui_combatBoss_setState",
+    "LeaveTriggerEvent": "amb_huoChui_all_stop"
+  },
+  "301044": {
+    "Id": 301044,
+    "MonsterLv": 12,
+    "SceneName": "Levels/Roguelike/Roguelike_2/Roguelike_2_Boss_004",
+    "ConfigPrefabName": "StoryActivity_10_2_Boss_004_H4_JuQing",
+    "Theme": 446,
+    "BGM": "huoChui_combatBoss_setState",
+    "LeaveTriggerEvent": "amb_huoChui_all_stop"
+  },
+  "301045": {
+    "Id": 301045,
+    "MonsterLv": 5,
+    "SceneName": "Levels/StoryActivity/StoryActivity_10/StoryActivity_10_021_A_01",
+    "ConfigPrefabName": "StoryActivity_10_021_A_01_C1_JuQing",
+    "Theme": 446,
+    "BGM": "huoChui_combatNormal2_setState",
+    "LeaveTriggerEvent": "amb_huoChui_all_stop"
+  },
+  "309901": {
+    "Id": 309901,
+    "MonsterLv": 1,
+    "SceneName": "Levels/StoryActivity/StoryActivity_1/StoryActivity_1_001_A_01",
+    "ConfigPrefabName": "StoryActivity_001_A_N1",
+    "Theme": 401,
+    "BGM": "swimsuit_combatNormal_setState",
+    "LeaveTriggerEvent": "amb_swimsuit_all_stop"
+  },
+  "309902": {
+    "Id": 309902,
+    "MonsterLv": 2,
+    "SceneName": "Levels/StoryActivity/StoryActivity_1/StoryActivity_1_015_A_01",
+    "ConfigPrefabName": "StoryActivity_015_A_N2",
+    "Theme": 401,
+    "BGM": "swimsuit_combatNormal_setState",
+    "LeaveTriggerEvent": "amb_swimsuit_all_stop"
+  },
+  "309903": {
+    "Id": 309903,
+    "MonsterLv": 3,
+    "SceneName": "Levels/StoryActivity/StoryActivity_1/StoryActivity_1_007_B_01",
+    "ConfigPrefabName": "StoryActivity_007_B_N3",
+    "Theme": 401,
+    "BGM": "swimsuit_combatNormal_setState",
+    "LeaveTriggerEvent": "amb_swimsuit_all_stop"
+  },
+  "309904": {
+    "Id": 309904,
+    "MonsterLv": 4,
+    "SceneName": "Levels/Main/Coast/Coast_Main_7_1",
+    "ConfigPrefabName": "StoryActivity_HaiTu_N4",
+    "Theme": 401,
+    "BGM": "swimsuit_combatNormal_setState",
+    "LeaveTriggerEvent": "amb_swimsuit_all_stop"
+  },
+  "309905": {
+    "Id": 309905,
+    "MonsterLv": 5,
+    "SceneName": "Levels/StoryActivity/StoryActivity_1/StoryActivity_1_001_A_01_Mir",
+    "ConfigPrefabName": "StoryActivity_001_A_N5_Mir",
+    "Mir": true,
+    "Theme": 401,
+    "BGM": "swimsuit_combatNormal_setState",
+    "LeaveTriggerEvent": "amb_swimsuit_all_stop"
+  },
+  "309906": {
+    "Id": 309906,
+    "MonsterLv": 6,
+    "SceneName": "Levels/StoryActivity/StoryActivity_1/StoryActivity_1_011_A_01_Mir",
+    "ConfigPrefabName": "StoryActivity_011_A_N6_Mir",
+    "Mir": true,
+    "Theme": 401,
+    "BGM": "swimsuit_combatNormal_setState",
+    "LeaveTriggerEvent": "amb_swimsuit_all_stop"
+  },
+  "309907": {
+    "Id": 309907,
+    "MonsterLv": 7,
+    "SceneName": "Levels/StoryActivity/StoryActivity_1/StoryActivity_1_007_B_01_Mir",
+    "ConfigPrefabName": "StoryActivity_007_B_N7_Mir",
+    "Mir": true,
+    "Theme": 401,
+    "BGM": "swimsuit_combatNormal_setState",
+    "LeaveTriggerEvent": "amb_swimsuit_all_stop"
+  },
+  "309908": {
+    "Id": 309908,
+    "MonsterLv": 8,
+    "SceneName": "Levels/Main/Coast/Coast_Main_7_1",
+    "ConfigPrefabName": "StoryActivity_HaiTu_N8",
+    "Theme": 15,
+    "BGM": "haiTu_realChallenge_setState",
+    "LeaveTriggerEvent": "amb_roguelike_all_stop"
+  },
+  "309909": {
+    "Id": 309909,
+    "MonsterLv": 9,
+    "SceneName": "Levels/StoryActivity/StoryActivity_1/StoryActivity_1_011_A_01",
+    "ConfigPrefabName": "StoryActivity_011_A_H1",
+    "Theme": 401,
+    "BGM": "swimsuit_combatNormal_setState",
+    "LeaveTriggerEvent": "amb_swimsuit_all_stop"
+  },
+  "309910": {
+    "Id": 309910,
+    "MonsterLv": 10,
+    "SceneName": "Levels/StoryActivity/StoryActivity_1/StoryActivity_1_007_B_01",
+    "ConfigPrefabName": "StoryActivity_007_B_H2",
+    "Theme": 401,
+    "BGM": "swimsuit_combatNormal_setState",
+    "LeaveTriggerEvent": "amb_swimsuit_all_stop"
+  },
+  "309911": {
+    "Id": 309911,
+    "MonsterLv": 11,
+    "SceneName": "Levels/StoryActivity/StoryActivity_1/StoryActivity_1_015_A_01_Mir",
+    "ConfigPrefabName": "StoryActivity_015_A_H3_Mir",
+    "Mir": true,
+    "Theme": 401,
+    "BGM": "swimsuit_combatNormal_setState",
+    "LeaveTriggerEvent": "amb_swimsuit_all_stop"
+  },
+  "309912": {
+    "Id": 309912,
+    "MonsterLv": 12,
+    "SceneName": "Levels/Main/Coast/Coast_Main_7_1",
+    "ConfigPrefabName": "StoryActivity_HaiTu_H4",
+    "Theme": 15,
+    "BGM": "haiTu_realChallenge_setState",
+    "LeaveTriggerEvent": "amb_roguelike_all_stop"
   }
 }
