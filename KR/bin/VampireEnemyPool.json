@@ -2735,28 +2735,28 @@
   "373": {
     "PoolId": 1155,
     "WaveNum": 1,
-    "MonsterLevel": 61,
+    "MonsterLevel": 85,
     "EnemySetID": 115501,
     "WaveKeepTime": 30
   },
   "374": {
     "PoolId": 1155,
     "WaveNum": 2,
-    "MonsterLevel": 62,
+    "MonsterLevel": 86,
     "EnemySetID": 115502,
     "WaveKeepTime": 30
   },
   "375": {
     "PoolId": 1155,
     "WaveNum": 3,
-    "MonsterLevel": 63,
+    "MonsterLevel": 87,
     "EnemySetID": 115511,
     "WaveKeepTime": 30
   },
   "376": {
     "PoolId": 1155,
     "WaveNum": 4,
-    "MonsterLevel": 64,
+    "MonsterLevel": 88,
     "EnemySetID": 115512,
     "WaveKeepTime": 30,
     "PoolType": 1
@@ -2764,21 +2764,21 @@
   "377": {
     "PoolId": 1155,
     "WaveNum": 5,
-    "MonsterLevel": 65,
+    "MonsterLevel": 89,
     "EnemySetID": 115513,
     "WaveKeepTime": 30
   },
   "378": {
     "PoolId": 1155,
     "WaveNum": 6,
-    "MonsterLevel": 66,
+    "MonsterLevel": 90,
     "EnemySetID": 115514,
     "WaveKeepTime": 30
   },
   "379": {
     "PoolId": 1155,
     "WaveNum": 7,
-    "MonsterLevel": 67,
+    "MonsterLevel": 91,
     "EnemySetID": 115515,
     "WaveKeepTime": 60,
     "PoolType": 2
@@ -3873,6 +3873,358 @@
     "WaveNum": 5,
     "MonsterLevel": 84,
     "EnemySetID": 129609,
+    "WaveKeepTime": 60,
+    "PoolType": 2
+  },
+  "529": {
+    "PoolId": 1315,
+    "WaveNum": 1,
+    "MonsterLevel": 61,
+    "EnemySetID": 131501,
+    "WaveKeepTime": 30
+  },
+  "530": {
+    "PoolId": 1315,
+    "WaveNum": 2,
+    "MonsterLevel": 62,
+    "EnemySetID": 131502,
+    "WaveKeepTime": 30
+  },
+  "531": {
+    "PoolId": 1315,
+    "WaveNum": 3,
+    "MonsterLevel": 63,
+    "EnemySetID": 131511,
+    "WaveKeepTime": 30
+  },
+  "532": {
+    "PoolId": 1315,
+    "WaveNum": 4,
+    "MonsterLevel": 64,
+    "EnemySetID": 131512,
+    "WaveKeepTime": 30,
+    "PoolType": 1
+  },
+  "533": {
+    "PoolId": 1315,
+    "WaveNum": 5,
+    "MonsterLevel": 65,
+    "EnemySetID": 131513,
+    "WaveKeepTime": 30
+  },
+  "534": {
+    "PoolId": 1315,
+    "WaveNum": 6,
+    "MonsterLevel": 66,
+    "EnemySetID": 131514,
+    "WaveKeepTime": 30
+  },
+  "535": {
+    "PoolId": 1315,
+    "WaveNum": 7,
+    "MonsterLevel": 67,
+    "EnemySetID": 131515,
+    "WaveKeepTime": 60,
+    "PoolType": 2
+  },
+  "536": {
+    "PoolId": 1316,
+    "WaveNum": 1,
+    "MonsterLevel": 68,
+    "EnemySetID": 131601,
+    "WaveKeepTime": 30
+  },
+  "537": {
+    "PoolId": 1316,
+    "WaveNum": 2,
+    "MonsterLevel": 69,
+    "EnemySetID": 131602,
+    "WaveKeepTime": 30
+  },
+  "538": {
+    "PoolId": 1316,
+    "WaveNum": 3,
+    "MonsterLevel": 70,
+    "EnemySetID": 131606,
+    "WaveKeepTime": 30,
+    "PoolType": 1
+  },
+  "539": {
+    "PoolId": 1316,
+    "WaveNum": 4,
+    "MonsterLevel": 71,
+    "EnemySetID": 131608,
+    "WaveKeepTime": 30
+  },
+  "540": {
+    "PoolId": 1316,
+    "WaveNum": 5,
+    "MonsterLevel": 72,
+    "EnemySetID": 131609,
+    "WaveKeepTime": 60,
+    "PoolType": 2
+  },
+  "541": {
+    "PoolId": 1325,
+    "WaveNum": 1,
+    "MonsterLevel": 61,
+    "EnemySetID": 132501,
+    "WaveKeepTime": 30
+  },
+  "542": {
+    "PoolId": 1325,
+    "WaveNum": 2,
+    "MonsterLevel": 62,
+    "EnemySetID": 132502,
+    "WaveKeepTime": 30
+  },
+  "543": {
+    "PoolId": 1325,
+    "WaveNum": 3,
+    "MonsterLevel": 63,
+    "EnemySetID": 132511,
+    "WaveKeepTime": 30
+  },
+  "544": {
+    "PoolId": 1325,
+    "WaveNum": 4,
+    "MonsterLevel": 64,
+    "EnemySetID": 132512,
+    "WaveKeepTime": 30,
+    "PoolType": 1
+  },
+  "545": {
+    "PoolId": 1325,
+    "WaveNum": 5,
+    "MonsterLevel": 65,
+    "EnemySetID": 132513,
+    "WaveKeepTime": 30
+  },
+  "546": {
+    "PoolId": 1325,
+    "WaveNum": 6,
+    "MonsterLevel": 66,
+    "EnemySetID": 132514,
+    "WaveKeepTime": 30
+  },
+  "547": {
+    "PoolId": 1325,
+    "WaveNum": 7,
+    "MonsterLevel": 67,
+    "EnemySetID": 132515,
+    "WaveKeepTime": 60,
+    "PoolType": 2
+  },
+  "548": {
+    "PoolId": 1326,
+    "WaveNum": 1,
+    "MonsterLevel": 68,
+    "EnemySetID": 132601,
+    "WaveKeepTime": 30
+  },
+  "549": {
+    "PoolId": 1326,
+    "WaveNum": 2,
+    "MonsterLevel": 69,
+    "EnemySetID": 132602,
+    "WaveKeepTime": 30
+  },
+  "550": {
+    "PoolId": 1326,
+    "WaveNum": 3,
+    "MonsterLevel": 70,
+    "EnemySetID": 132606,
+    "WaveKeepTime": 30,
+    "PoolType": 1
+  },
+  "551": {
+    "PoolId": 1326,
+    "WaveNum": 4,
+    "MonsterLevel": 71,
+    "EnemySetID": 132608,
+    "WaveKeepTime": 30
+  },
+  "552": {
+    "PoolId": 1326,
+    "WaveNum": 5,
+    "MonsterLevel": 72,
+    "EnemySetID": 132609,
+    "WaveKeepTime": 60,
+    "PoolType": 2
+  },
+  "553": {
+    "PoolId": 1335,
+    "WaveNum": 1,
+    "MonsterLevel": 61,
+    "EnemySetID": 133501,
+    "WaveKeepTime": 30
+  },
+  "554": {
+    "PoolId": 1335,
+    "WaveNum": 2,
+    "MonsterLevel": 62,
+    "EnemySetID": 133502,
+    "WaveKeepTime": 30
+  },
+  "555": {
+    "PoolId": 1335,
+    "WaveNum": 3,
+    "MonsterLevel": 63,
+    "EnemySetID": 133511,
+    "WaveKeepTime": 30
+  },
+  "556": {
+    "PoolId": 1335,
+    "WaveNum": 4,
+    "MonsterLevel": 64,
+    "EnemySetID": 133512,
+    "WaveKeepTime": 30,
+    "PoolType": 1
+  },
+  "557": {
+    "PoolId": 1335,
+    "WaveNum": 5,
+    "MonsterLevel": 65,
+    "EnemySetID": 133513,
+    "WaveKeepTime": 30
+  },
+  "558": {
+    "PoolId": 1335,
+    "WaveNum": 6,
+    "MonsterLevel": 66,
+    "EnemySetID": 133514,
+    "WaveKeepTime": 30
+  },
+  "559": {
+    "PoolId": 1335,
+    "WaveNum": 7,
+    "MonsterLevel": 67,
+    "EnemySetID": 133515,
+    "WaveKeepTime": 60,
+    "PoolType": 2
+  },
+  "560": {
+    "PoolId": 1336,
+    "WaveNum": 1,
+    "MonsterLevel": 68,
+    "EnemySetID": 133601,
+    "WaveKeepTime": 30
+  },
+  "561": {
+    "PoolId": 1336,
+    "WaveNum": 2,
+    "MonsterLevel": 69,
+    "EnemySetID": 133602,
+    "WaveKeepTime": 30
+  },
+  "562": {
+    "PoolId": 1336,
+    "WaveNum": 3,
+    "MonsterLevel": 70,
+    "EnemySetID": 133606,
+    "WaveKeepTime": 30,
+    "PoolType": 1
+  },
+  "563": {
+    "PoolId": 1336,
+    "WaveNum": 4,
+    "MonsterLevel": 71,
+    "EnemySetID": 133608,
+    "WaveKeepTime": 30
+  },
+  "564": {
+    "PoolId": 1336,
+    "WaveNum": 5,
+    "MonsterLevel": 72,
+    "EnemySetID": 133609,
+    "WaveKeepTime": 60,
+    "PoolType": 2
+  },
+  "565": {
+    "PoolId": 1345,
+    "WaveNum": 1,
+    "MonsterLevel": 61,
+    "EnemySetID": 134501,
+    "WaveKeepTime": 30
+  },
+  "566": {
+    "PoolId": 1345,
+    "WaveNum": 2,
+    "MonsterLevel": 62,
+    "EnemySetID": 134502,
+    "WaveKeepTime": 30
+  },
+  "567": {
+    "PoolId": 1345,
+    "WaveNum": 3,
+    "MonsterLevel": 63,
+    "EnemySetID": 134511,
+    "WaveKeepTime": 30
+  },
+  "568": {
+    "PoolId": 1345,
+    "WaveNum": 4,
+    "MonsterLevel": 64,
+    "EnemySetID": 134512,
+    "WaveKeepTime": 30,
+    "PoolType": 1
+  },
+  "569": {
+    "PoolId": 1345,
+    "WaveNum": 5,
+    "MonsterLevel": 65,
+    "EnemySetID": 134513,
+    "WaveKeepTime": 30
+  },
+  "570": {
+    "PoolId": 1345,
+    "WaveNum": 6,
+    "MonsterLevel": 66,
+    "EnemySetID": 134514,
+    "WaveKeepTime": 30
+  },
+  "571": {
+    "PoolId": 1345,
+    "WaveNum": 7,
+    "MonsterLevel": 67,
+    "EnemySetID": 134515,
+    "WaveKeepTime": 60,
+    "PoolType": 2
+  },
+  "572": {
+    "PoolId": 1346,
+    "WaveNum": 1,
+    "MonsterLevel": 92,
+    "EnemySetID": 134601,
+    "WaveKeepTime": 30
+  },
+  "573": {
+    "PoolId": 1346,
+    "WaveNum": 2,
+    "MonsterLevel": 93,
+    "EnemySetID": 134602,
+    "WaveKeepTime": 30
+  },
+  "574": {
+    "PoolId": 1346,
+    "WaveNum": 3,
+    "MonsterLevel": 94,
+    "EnemySetID": 134606,
+    "WaveKeepTime": 30,
+    "PoolType": 1
+  },
+  "575": {
+    "PoolId": 1346,
+    "WaveNum": 4,
+    "MonsterLevel": 95,
+    "EnemySetID": 134608,
+    "WaveKeepTime": 30
+  },
+  "576": {
+    "PoolId": 1346,
+    "WaveNum": 5,
+    "MonsterLevel": 96,
+    "EnemySetID": 134609,
     "WaveKeepTime": 60,
     "PoolType": 2
   }

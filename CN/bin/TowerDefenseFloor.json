@@ -552,5 +552,49 @@
     "BGM": "towerDefense_farm_combatNormal_setState",
     "LeaveTriggerEvent": "towerDefense_farm_all_stop",
     "IntroCutscene": "EnterCamera_6X12"
+  },
+  "1300": {
+    "Id": 1300,
+    "SceneName": "Levels/TowerDefence/TowerDefence_1_1_Night",
+    "ConfigPrefabName": "TowerDefence_1_0",
+    "MiniMapName": "TDMiniMap_1_1_Night",
+    "LevelScript": "AIScript.TowerDefenseGameplay_1_0",
+    "Durability": 9,
+    "MonsterNum": 9,
+    "TeamGroup": [
+      8010301,
+      8011201
+    ],
+    "InitPlayerNum": 1,
+    "InitPlayers": [
+      8010301
+    ],
+    "BGM": "towerDefense_forest_combatNormal_setState",
+    "LeaveTriggerEvent": "towerDefense_forest_all_stop",
+    "IntroCutscene": "EnterCamera_4X8"
+  },
+  "1301": {
+    "Id": 1301,
+    "SceneName": "Levels/TowerDefence/TowerDefence_1_1",
+    "ConfigPrefabName": "TowerDefence_1_1",
+    "MiniMapName": "TDMiniMap_1_1",
+    "LevelScript": "AIScript.TowerDefenseGameplay_1_1",
+    "Durability": 20,
+    "MonsterNum": 43,
+    "TeamGroup": [
+      8010301,
+      8011201,
+      8011101
+    ],
+    "InitPlayerNum": 3,
+    "InitPlayers": [
+      8010301,
+      8011101,
+      8011201
+    ],
+    "UpgradeSpeed": 1000,
+    "BGM": "towerDefense_forest_combatNormal_setState",
+    "LeaveTriggerEvent": "towerDefense_forest_all_stop",
+    "IntroCutscene": "EnterCamera_4X8"
   }
 }

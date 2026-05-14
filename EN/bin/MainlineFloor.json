@@ -2852,5 +2852,12 @@
     "BGM": "amb_coast_combatBoss_setState",
     "LeaveTriggerEvent": "amb_coast_all_stop",
     "MonsterLv": 1
+  },
+  "9920250": {
+    "Id": 9920250,
+    "SceneName": "Levels/Roguelike/Roguelike_2/Roguelike_2_MiniBoss_005",
+    "ConfigPrefabName": "MiniBoss_FanRongLieQuan_Test",
+    "MonsterLv": 1,
+    "LevelScript": "AIScript.LevelAndGroupController.Level.FanRongDarkAndLieQuanDarkLevelController"
   }
 }

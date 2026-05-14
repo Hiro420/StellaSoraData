@@ -350,6 +350,17 @@
     "EndTime": "2026-05-08T10:59:59+08:00",
     "TabBgRes": "Icon/Banner/tab_activity_sidestory"
   },
+  "201013": {
+    "Id": 201013,
+    "SortId": 14,
+    "ActivityType": 13,
+    "Name": "诺瓦异闻-密涅瓦",
+    "StartType": 2,
+    "StartTime": "2026-05-23T12:00:00+08:00",
+    "EndType": 2,
+    "EndTime": "2026-06-02T10:59:59+08:00",
+    "TabBgRes": "Icon/Banner/tab_activity_sidestory"
+  },
   "400000": {
     "Id": 400000,
     "MidGroupId": 10100,
@@ -463,6 +474,19 @@
     "EndTime": "2026-04-30T04:00:00+08:00",
     "MiniGameRedDot": 2010204
   },
+  "400009": {
+    "Id": 400009,
+    "MidGroupId": 10107,
+    "SortId": 5,
+    "ActivityType": 19,
+    "Name": "豪礼抛物线第2期",
+    "ActivityThemeType": 11,
+    "StartType": 2,
+    "StartTime": "2026-05-14T12:00:00+08:00",
+    "EndType": 2,
+    "EndTime": "2026-05-26T04:00:00+08:00",
+    "MiniGameRedDot": 1070304
+  },
   "500001": {
     "Id": 500001,
     "SortId": 6,
@@ -540,6 +564,38 @@
     "StartTime": "2026-05-08T12:00:00+08:00",
     "EndType": 2,
     "EndTime": "2026-05-14T11:00:00+08:00",
+    "BannerRes": "banner_activity_05",
+    "TabBgRes": "Icon/Banner/tab_activity_05"
+  },
+  "500006": {
+    "Id": 500006,
+    "SortId": 6,
+    "ActivityType": 14,
+    "Name": "BD兑换活动",
+    "PreLimit": 1,
+    "LimitParam": "10",
+    "PlayCond": 1,
+    "PlayCondParams": "10",
+    "StartType": 2,
+    "StartTime": "2026-05-26T12:00:00+08:00",
+    "EndType": 2,
+    "EndTime": "2026-06-02T11:00:00+08:00",
+    "BannerRes": "banner_activity_05",
+    "TabBgRes": "Icon/Banner/tab_activity_05"
+  },
+  "500007": {
+    "Id": 500007,
+    "SortId": 6,
+    "ActivityType": 14,
+    "Name": "BD兑换活动",
+    "PreLimit": 1,
+    "LimitParam": "10",
+    "PlayCond": 1,
+    "PlayCondParams": "10",
+    "StartType": 2,
+    "StartTime": "2026-06-23T12:00:00+08:00",
+    "EndType": 2,
+    "EndTime": "2026-06-30T11:00:00+08:00",
     "BannerRes": "banner_activity_05",
     "TabBgRes": "Icon/Banner/tab_activity_05"
   },
@@ -835,6 +891,28 @@
     "EndType": 2,
     "EndTime": "2026-05-19T04:00:00+08:00",
     "TabBgRes": "Icon/Banner/tab_activity_trial_144"
+  },
+  "700119": {
+    "Id": 700119,
+    "SortId": 7,
+    "ActivityType": 6,
+    "Name": "浅试身手-火垂",
+    "StartType": 2,
+    "StartTime": "2026-05-14T12:00:00+08:00",
+    "EndType": 2,
+    "EndTime": "2026-06-02T10:59:59+08:00",
+    "TabBgRes": "Icon/Banner/tab_activity_trial_115_lang"
+  },
+  "700120": {
+    "Id": 700120,
+    "SortId": 7,
+    "ActivityType": 6,
+    "Name": "浅试身手-希娅",
+    "StartType": 2,
+    "StartTime": "2026-05-26T12:00:00+08:00",
+    "EndType": 2,
+    "EndTime": "2026-06-16T04:00:00+08:00",
+    "TabBgRes": "Icon/Banner/tab_activity_trial_155"
   },
   "1010001": {
     "Id": 1010001,
@@ -1284,5 +1362,98 @@
     "StartTime": "2026-04-16T12:00:00+08:00",
     "EndType": 2,
     "EndTime": "2026-05-08T10:59:59+08:00"
+  },
+  "3010201": {
+    "Id": 3010201,
+    "MidGroupId": 30102,
+    "SortId": 5,
+    "ActivityType": 15,
+    "Name": "缭乱碎晶球第二期",
+    "ActivityThemeType": 12,
+    "PreLimit": 1,
+    "LimitParam": "5",
+    "PlayCond": 1,
+    "PlayCondParams": "5",
+    "StartType": 2,
+    "StartTime": "2026-05-26T12:00:00+08:00",
+    "EndType": 2,
+    "EndTime": "2026-06-02T10:59:59+08:00",
+    "EnterRes": "Icon/Banner/banner_marble_m"
+  },
+  "3010202": {
+    "Id": 3010202,
+    "MidGroupId": 30102,
+    "SortId": 11,
+    "ActivityType": 11,
+    "Name": "缭乱碎晶球任务",
+    "ActivityThemeType": 12,
+    "PreLimit": 1,
+    "LimitParam": "5",
+    "PlayCond": 1,
+    "PlayCondParams": "5",
+    "StartType": 2,
+    "StartTime": "2026-05-26T12:00:00+08:00",
+    "EndType": 2,
+    "EndTime": "2026-06-05T03:59:59+08:00"
+  },
+  "3010203": {
+    "Id": 3010203,
+    "MidGroupId": 30102,
+    "SortId": 12,
+    "ActivityType": 12,
+    "Name": "缭乱碎晶球商店",
+    "ActivityThemeType": 12,
+    "PreLimit": 1,
+    "LimitParam": "5",
+    "PlayCond": 1,
+    "PlayCondParams": "5",
+    "StartType": 2,
+    "StartTime": "2026-05-26T12:00:00+08:00",
+    "EndType": 2,
+    "EndTime": "2026-06-05T03:59:59+08:00"
+  },
+  "1010701": {
+    "Id": 1010701,
+    "MidGroupId": 10107,
+    "ActivityType": 9,
+    "Name": "火垂战斗关卡",
+    "ActivityThemeType": 11,
+    "StartType": 2,
+    "StartTime": "2026-05-14T12:00:00+08:00",
+    "EndType": 2,
+    "EndTime": "2026-05-26T04:00:00+08:00"
+  },
+  "1010702": {
+    "Id": 1010702,
+    "MidGroupId": 10107,
+    "ActivityType": 17,
+    "Name": "火垂剧情故事",
+    "ActivityThemeType": 11,
+    "StartType": 2,
+    "StartTime": "2026-05-14T12:00:00+08:00",
+    "EndType": 2,
+    "EndTime": "2026-05-26T04:00:00+08:00"
+  },
+  "1010703": {
+    "Id": 1010703,
+    "MidGroupId": 10107,
+    "ActivityType": 11,
+    "Name": "火垂活动任务",
+    "ActivityThemeType": 11,
+    "StartType": 2,
+    "StartTime": "2026-05-14T12:00:00+08:00",
+    "EndType": 2,
+    "EndTime": "2026-06-02T10:59:59+08:00"
+  },
+  "1010704": {
+    "Id": 1010704,
+    "MidGroupId": 10107,
+    "ActivityType": 12,
+    "Name": "火垂活动商店",
+    "ActivityThemeType": 11,
+    "StartType": 2,
+    "StartTime": "2026-05-14T12:00:00+08:00",
+    "EndType": 2,
+    "EndTime": "2026-06-02T10:59:59+08:00"
   }
 }

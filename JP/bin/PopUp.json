@@ -169,6 +169,25 @@
     "EndType": 2,
     "EndTime": "2026-05-14T10:59:59+08:00"
   },
+  "12": {
+    "Id": 12,
+    "SortId": 12,
+    "PopUpType": 3,
+    "PopUpRes": "UI/MallPkgPopup/Popup_9",
+    "ScriptName": "OwnPopUp.MallPkgPopupCtrl",
+    "ScriptParams": "[\"pack.11_res\", \"pack.11_gift\", \"pack.11_disc_l\", \"pack.11_role_l\"]",
+    "PopRefreshType": 3,
+    "PopJumpType": 3,
+    "JumpToParams": 18,
+    "StartCondType": 71,
+    "StartCondParams": [
+      2
+    ],
+    "StartType": 2,
+    "StartTime": "2026-05-14T12:00:00+08:00",
+    "EndType": 2,
+    "EndTime": "2026-06-02T10:59:59+08:00"
+  },
   "1000": {
     "Id": 1000,
     "SortId": 1000,
@@ -226,7 +245,7 @@
     "PopUpType": 2,
     "ActivityId": 30101,
     "PopUpRes": "UI_Activity/30101/PopUp",
-    "ScriptName": "ActivityPopUp.ActivityBreakOut_30101PopUpCtrl",
+    "ScriptName": "ActivityPopUp.ActivityBreakOutPopUpCtrl",
     "PopRefreshType": 2,
     "PopJumpType": 2
   },
@@ -267,6 +286,26 @@
     "ActivityId": 20102,
     "PopUpRes": "UI_Activity/20102/PopUp",
     "ScriptName": "ActivityPopUp.ActivitySolodance_20102PopUpCtrl",
+    "PopRefreshType": 2,
+    "PopJumpType": 2
+  },
+  "1010": {
+    "Id": 1010,
+    "SortId": 1010,
+    "PopUpType": 2,
+    "ActivityId": 10107,
+    "PopUpRes": "UI_Activity/10107/PopUp",
+    "ScriptName": "ActivityPopUp.ActivityViewfinder_10107PopUpCtrl",
+    "PopRefreshType": 2,
+    "PopJumpType": 2
+  },
+  "1013": {
+    "Id": 1013,
+    "SortId": 1013,
+    "PopUpType": 2,
+    "ActivityId": 30102,
+    "PopUpRes": "UI_Activity/30102/PopUp",
+    "ScriptName": "ActivityPopUp.ActivityBreakOutPopUpCtrl",
     "PopRefreshType": 2,
     "PopJumpType": 2
   },
