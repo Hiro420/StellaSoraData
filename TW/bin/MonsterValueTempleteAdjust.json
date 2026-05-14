@@ -7207,6 +7207,24 @@
     "DERFix": 250,
     "ToughnessRatio": -10000
   },
+  "6310160": {
+    "Id": 6310160,
+    "TemplateId": 9058,
+    "EET": 6,
+    "ResistEET": [
+      6
+    ],
+    "WeakEET": [
+      5,
+      2
+    ],
+    "WERFix": 750,
+    "FERFix": 250,
+    "SERFix": 750,
+    "AERFix": 750,
+    "LERFix": 250,
+    "DERFix": 2000
+  },
   "7100100": {
     "Id": 7100100,
     "TemplateId": 8610,
@@ -18520,7 +18538,7 @@
     "Id": 6400201,
     "TemplateId": 300,
     "EET": 7,
-    "AtkRatio": 2000,
+    "AtkRatio": 1999,
     "WERFix": 570,
     "FERFix": 570,
     "SERFix": 570,
@@ -19496,7 +19514,18 @@
   },
   "3100001": {
     "Id": 3100001,
-    "TemplateId": 244,
+    "TemplateId": 261,
+    "EET": 7,
+    "WERFix": 570,
+    "FERFix": 570,
+    "SERFix": 570,
+    "AERFix": 570,
+    "LERFix": 570,
+    "DERFix": 570
+  },
+  "3100002": {
+    "Id": 3100002,
+    "TemplateId": 261,
     "EET": 7,
     "WERFix": 570,
     "FERFix": 570,
@@ -19507,7 +19536,18 @@
   },
   "3100011": {
     "Id": 3100011,
-    "TemplateId": 244,
+    "TemplateId": 261,
+    "EET": 7,
+    "WERFix": 570,
+    "FERFix": 570,
+    "SERFix": 570,
+    "AERFix": 570,
+    "LERFix": 570,
+    "DERFix": 570
+  },
+  "3100012": {
+    "Id": 3100012,
+    "TemplateId": 261,
     "EET": 7,
     "WERFix": 570,
     "FERFix": 570,
@@ -19518,7 +19558,18 @@
   },
   "3100021": {
     "Id": 3100021,
-    "TemplateId": 240,
+    "TemplateId": 258,
+    "EET": 7,
+    "WERFix": 570,
+    "FERFix": 570,
+    "SERFix": 570,
+    "AERFix": 570,
+    "LERFix": 570,
+    "DERFix": 570
+  },
+  "3100022": {
+    "Id": 3100022,
+    "TemplateId": 258,
     "EET": 7,
     "WERFix": 570,
     "FERFix": 570,
@@ -19529,7 +19580,7 @@
   },
   "3100031": {
     "Id": 3100031,
-    "TemplateId": 240,
+    "TemplateId": 258,
     "EET": 7,
     "WERFix": 570,
     "FERFix": 570,
@@ -19540,7 +19591,7 @@
   },
   "3100032": {
     "Id": 3100032,
-    "TemplateId": 240,
+    "TemplateId": 257,
     "EET": 7,
     "WERFix": 570,
     "FERFix": 570,
@@ -19551,7 +19602,7 @@
   },
   "3100033": {
     "Id": 3100033,
-    "TemplateId": 240,
+    "TemplateId": 257,
     "EET": 7,
     "WERFix": 570,
     "FERFix": 570,
@@ -19562,7 +19613,7 @@
   },
   "3100034": {
     "Id": 3100034,
-    "TemplateId": 240,
+    "TemplateId": 257,
     "EET": 7,
     "WERFix": 570,
     "FERFix": 570,
@@ -19573,7 +19624,7 @@
   },
   "3100035": {
     "Id": 3100035,
-    "TemplateId": 242,
+    "TemplateId": 259,
     "EET": 7,
     "WERFix": 570,
     "FERFix": 570,
@@ -19584,7 +19635,7 @@
   },
   "3100036": {
     "Id": 3100036,
-    "TemplateId": 242,
+    "TemplateId": 259,
     "EET": 7,
     "WERFix": 570,
     "FERFix": 570,
@@ -19595,7 +19646,7 @@
   },
   "3100037": {
     "Id": 3100037,
-    "TemplateId": 242,
+    "TemplateId": 260,
     "EET": 7,
     "WERFix": 570,
     "FERFix": 570,
@@ -23435,6 +23486,35 @@
     "EET": 5,
     "AtkFix": 20
   },
+  "8011401": {
+    "Id": 8011401,
+    "TemplateId": 80101,
+    "EET": 2,
+    "AtkFix": 20
+  },
+  "8014001": {
+    "Id": 8014001,
+    "TemplateId": 80101,
+    "EET": 3,
+    "AtkFix": 20
+  },
+  "8013501": {
+    "Id": 8013501,
+    "TemplateId": 80101,
+    "EET": 6,
+    "AtkFix": 20
+  },
+  "8013502": {
+    "Id": 8013502,
+    "TemplateId": 80101,
+    "EET": 6,
+    "AtkFix": 20
+  },
+  "8012601": {
+    "Id": 8012601,
+    "TemplateId": 80101,
+    "EET": 2
+  },
   "8069901": {
     "Id": 8069901,
     "TemplateId": 80501,
@@ -23480,6 +23560,16 @@
     "TemplateId": 80701,
     "EET": 7
   },
+  "8079905": {
+    "Id": 8079905,
+    "TemplateId": 80701,
+    "EET": 7
+  },
+  "8079906": {
+    "Id": 8079906,
+    "TemplateId": 80701,
+    "EET": 7
+  },
   "8089901": {
     "Id": 8089901,
     "TemplateId": 80801,
@@ -23497,6 +23587,12 @@
     "TemplateId": 80801,
     "EET": 7,
     "HpRatio": -5000
+  },
+  "8089904": {
+    "Id": 8089904,
+    "TemplateId": 80801,
+    "EET": 7,
+    "HpRatio": -1000
   },
   "8099901": {
     "Id": 8099901,
