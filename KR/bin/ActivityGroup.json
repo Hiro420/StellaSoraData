@@ -392,5 +392,75 @@
     ],
     "DesText": "ActivityGroup.20102.1",
     "TabBgRes": "Icon/Banner/tab_activity_solodance_lang"
+  },
+  "30102": {
+    "Id": 30102,
+    "ActivityGroupType": 3,
+    "ActivityThemeType": 12,
+    "StartTime": "2026-05-26T12:00:00+08:00",
+    "EndTime": "2026-06-02T10:59:59+08:00",
+    "EnterEndTime": "2026-06-05T03:59:59+08:00",
+    "PanelId": 436,
+    "PreLimit": 1,
+    "LimitParam": "5",
+    "StartCondType": 71,
+    "StartCondParams": [
+      5
+    ],
+    "Enter": "{\"Task\":[3010202,2,437],\"Store\":[3010203,4,435],\"Level\":[3010201,5,0]}",
+    "UIAssetsPrefab": "30102",
+    "CtrlName": "ActivityBreakOutCtrl",
+    "RewardsShow": [
+      2,
+      119012,
+      33912,
+      30,
+      82007,
+      32000,
+      1
+    ],
+    "DesText": "ActivityGroup.30102.1",
+    "TabBgRes": "Icon/Banner/tab_activity_marble"
+  },
+  "10107": {
+    "Id": 10107,
+    "ActivityGroupType": 1,
+    "ActivityThemeType": 11,
+    "StartTime": "2026-05-14T12:00:00+08:00",
+    "EndTime": "2026-05-26T04:00:00+08:00",
+    "EnterEndTime": "2026-06-02T10:59:59+08:00",
+    "EnterRes": "Icon/Banner/banner_activity_10107_m_lang",
+    "PanelId": 441,
+    "PreLimit": 1,
+    "LimitParam": "3",
+    "StartCondType": 71,
+    "StartCondParams": [
+      5
+    ],
+    "Enter": "{\"MiniGame\":[400009,1,454],\"Task\":[1010703,2,433],\"AVG\":[1010702,3,442],\"Store\":[1010704,4,434],\"Level\":[1010701,5,432]}",
+    "UIAssetsPrefab": "10107",
+    "CtrlName": "ActivityViewfinderCtrl",
+    "RewardsShow": [
+      2,
+      214003,
+      116010,
+      502,
+      503,
+      35010,
+      21053,
+      35000,
+      20073,
+      32003,
+      21083,
+      30004,
+      50004,
+      30,
+      33022,
+      33062,
+      33072,
+      1
+    ],
+    "DesText": "ActivityGroup.10107.1",
+    "TabBgRes": "Icon/Banner/tab_activity_10107_lang"
   }
 }

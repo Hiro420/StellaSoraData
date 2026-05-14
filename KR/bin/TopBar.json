@@ -304,10 +304,6 @@
     "Id": "StoryChapter",
     "Title": "TopBar.StoryChapter.1"
   },
-  "CharFavourGift": {
-    "Id": "CharFavourGift",
-    "Title": "TopBar.CharFavourGift.1"
-  },
   "DispatchPanel": {
     "Id": "DispatchPanel",
     "Title": "TopBar.DispatchPanel.1"
@@ -367,15 +363,19 @@
     "Id": "TrialLevelSelect",
     "Title": "TopBar.TrialLevelSelect.1"
   },
-  "JointDrillBuildList_1": {
-    "Id": "JointDrillBuildList_1",
-    "Title": "TopBar.JointDrillBuildList_1.1",
+  "JointDrillBuildList_510001": {
+    "Id": "JointDrillBuildList_510001",
+    "Title": "TopBar.JointDrillBuildList_510001.1",
     "EntryId": 201602
   },
-  "JointDrillLevelSelect_1": {
-    "Id": "JointDrillLevelSelect_1",
-    "Title": "TopBar.JointDrillLevelSelect_1.1",
+  "JointDrillLevelSelect_510001": {
+    "Id": "JointDrillLevelSelect_510001",
+    "Title": "TopBar.JointDrillLevelSelect_510001.1",
     "EntryId": 201601
+  },
+  "JointDrillRanking_510001": {
+    "Id": "JointDrillRanking_510001",
+    "Title": "TopBar.JointDrillRanking_510001.1"
   },
   "TowerDefenseCharacterDetailPanel": {
     "Id": "TowerDefenseCharacterDetailPanel",
@@ -407,10 +407,6 @@
     "Id": "ActivityLevelsSelectPanel",
     "Title": "TopBar.ActivityLevelsSelectPanel.1",
     "Energy": true
-  },
-  "JointDrillRanking_1": {
-    "Id": "JointDrillRanking_1",
-    "Title": "TopBar.JointDrillRanking_1.1"
   },
   "SwimTheme": {
     "Id": "SwimTheme",
@@ -747,19 +743,27 @@
       73107
     ]
   },
-  "JointDrillBuildList_2": {
-    "Id": "JointDrillBuildList_2",
-    "Title": "TopBar.JointDrillBuildList_2.1",
+  "ThrowGiftPanel_400009": {
+    "Id": "ThrowGiftPanel_400009",
+    "Title": "TopBar.ThrowGiftPanel_400009.1",
+    "Coin": true,
+    "CoinIds": [
+      73110
+    ]
+  },
+  "JointDrillBuildList_510003": {
+    "Id": "JointDrillBuildList_510003",
+    "Title": "TopBar.JointDrillBuildList_510003.1",
     "EntryId": 201602
   },
-  "JointDrillLevelSelect_2": {
-    "Id": "JointDrillLevelSelect_2",
-    "Title": "TopBar.JointDrillLevelSelect_2.1",
+  "JointDrillLevelSelect_510003": {
+    "Id": "JointDrillLevelSelect_510003",
+    "Title": "TopBar.JointDrillLevelSelect_510003.1",
     "EntryId": 201601
   },
-  "JointDrillRanking_2": {
-    "Id": "JointDrillRanking_2",
-    "Title": "TopBar.JointDrillRanking_2.1"
+  "JointDrillRanking_510003": {
+    "Id": "JointDrillRanking_510003",
+    "Title": "TopBar.JointDrillRanking_510003.1"
   },
   "Shop_10104": {
     "Id": "Shop_10104",
@@ -938,5 +942,55 @@
     "Id": "ActivityLevelsSelectPanel_10107",
     "Title": "TopBar.ActivityLevelsSelectPanel_10107.1",
     "Energy": true
+  },
+  "Task_10107": {
+    "Id": "Task_10107",
+    "Title": "TopBar.Task_10107.1",
+    "Coin": true,
+    "CoinIds": [
+      73110
+    ]
+  },
+  "Shop_10107": {
+    "Id": "Shop_10107",
+    "Title": "TopBar.Shop_10107.1",
+    "Coin": true
+  },
+  "BreakOutThemePanel_S2": {
+    "Id": "BreakOutThemePanel_S2",
+    "Title": "TopBar.BreakOutThemePanel_S2.1",
+    "Coin": true,
+    "CoinIds": [
+      73202
+    ]
+  },
+  "Shop_30102": {
+    "Id": "Shop_30102",
+    "Title": "TopBar.Shop_30102.1",
+    "Coin": true
+  },
+  "Task_30102": {
+    "Id": "Task_30102",
+    "Title": "TopBar.Task_30102.1",
+    "Coin": true,
+    "CoinIds": [
+      73202
+    ]
+  },
+  "BreakOutLevelDetailPanelS2": {
+    "Id": "BreakOutLevelDetailPanelS2",
+    "Title": "TopBar.BreakOutLevelDetailPanelS2.1"
+  },
+  "Main_10107": {
+    "Id": "Main_10107",
+    "Title": "TopBar.Main_10107.1",
+    "Coin": true,
+    "CoinIds": [
+      73110
+    ]
+  },
+  "ViewfinderStory": {
+    "Id": "ViewfinderStory",
+    "Title": "TopBar.ViewfinderStory.1"
   }
 }

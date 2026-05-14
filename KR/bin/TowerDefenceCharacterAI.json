@@ -82,5 +82,29 @@
     "ComboGroupPath": "Character/10701/TowerDefense/Combo/ComboGroup",
     "ActionAIPath": "AIScript.Monster.TowerDefense._10701.Action",
     "ParallelAIPath": "AIScript.Monster.TowerDefense._10701.Parallel"
+  },
+  "8011401": {
+    "Id": 8011401,
+    "ComboGroupPath": "Character/11401/TowerDefense/Combo/ComboGroup",
+    "ActionAIPath": "AIScript.Monster.TowerDefense.TowerCharacterBaseAI",
+    "ParallelAIPath": "AIScript.Monster.TowerDefense._11401.Parallel"
+  },
+  "8014001": {
+    "Id": 8014001,
+    "ComboGroupPath": "Character/14001/TowerDefense/Combo/ComboGroup",
+    "ActionAIPath": "AIScript.Monster.TowerDefense.TowerCharacterBaseAI",
+    "ParallelAIPath": "AIScript.Monster.TowerDefense._14001.Parallel"
+  },
+  "8013501": {
+    "Id": 8013501,
+    "ComboGroupPath": "Character/13501/TowerDefense/Combo/ComboGroup",
+    "ActionAIPath": "AIScript.Monster.TowerDefense.TowerCharacterBaseAI",
+    "ParallelAIPath": "AIScript.Monster.TowerDefense._13501.Parallel"
+  },
+  "8012601": {
+    "Id": 8012601,
+    "ComboGroupPath": "Character/12601/TowerDefense/Combo/ComboGroup",
+    "ActionAIPath": "AIScript.Monster.TowerDefense.TowerCharacterBaseAI",
+    "ParallelAIPath": "AIScript.Monster.TowerDefense._12601.Parallel"
   }
 }
