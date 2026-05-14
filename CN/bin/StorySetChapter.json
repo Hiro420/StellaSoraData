@@ -173,11 +173,24 @@
     "Name": "StorySetChapter.1014.2",
     "LockText": "StorySetChapter.1014.3",
     "IsShow": true,
-    "IsHighLight": true,
     "Icon": "ep_sidestory14_icon",
     "Image": "ep_sidestory14_image",
     "Bg": "ep_sidestory14_bg",
     "Banner": "UI/big_sprites/banner_StorySet_14",
     "TabId": 4
+  },
+  "1015": {
+    "Id": 1015,
+    "OpenTime": "2026-05-26T12:00:00+08:00",
+    "Title": "StorySetChapter.1015.1",
+    "Name": "StorySetChapter.1015.2",
+    "LockText": "StorySetChapter.1015.3",
+    "IsShow": true,
+    "IsHighLight": true,
+    "Icon": "ep_sidestory15_icon",
+    "Image": "ep_sidestory15_image",
+    "Bg": "ep_sidestory15_bg",
+    "Banner": "UI/big_sprites/banner_StorySet_15",
+    "TabId": 5
   }
 }

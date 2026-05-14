@@ -1,951 +1,4 @@
 {
-  "1000": {
-    "Id": 1000,
-    "TemplateId": 1,
-    "AffinityLevelName": "AffinityLevel.1000.1",
-    "AffinityLevelIcon": "Icon/ZZZOther/zs_affinity_01",
-    "AffinityLevelStage": 1
-  },
-  "1001": {
-    "Id": 1001,
-    "AffinityLevel": 1,
-    "NeedExp": 100,
-    "TemplateId": 1,
-    "AffinityLevelName": "AffinityLevel.1001.1",
-    "AffinityLevelIcon": "Icon/ZZZOther/zs_affinity_01",
-    "Effect": [
-      99980001,
-      99980101
-    ],
-    "AffinityLevelStage": 1
-  },
-  "1002": {
-    "Id": 1002,
-    "AffinityLevel": 2,
-    "NeedExp": 200,
-    "TemplateId": 1,
-    "AffinityLevelName": "AffinityLevel.1002.1",
-    "AffinityLevelIcon": "Icon/ZZZOther/zs_affinity_01",
-    "Effect": [
-      99980002,
-      99980102
-    ],
-    "AffinityLevelStage": 1
-  },
-  "1003": {
-    "Id": 1003,
-    "AffinityLevel": 3,
-    "NeedExp": 300,
-    "TemplateId": 1,
-    "AffinityLevelName": "AffinityLevel.1003.1",
-    "AffinityLevelIcon": "Icon/ZZZOther/zs_affinity_01",
-    "Effect": [
-      99980003,
-      99980103
-    ],
-    "AffinityLevelStage": 1
-  },
-  "1004": {
-    "Id": 1004,
-    "AffinityLevel": 4,
-    "NeedExp": 500,
-    "TemplateId": 1,
-    "AffinityLevelName": "AffinityLevel.1004.1",
-    "AffinityLevelIcon": "Icon/ZZZOther/zs_affinity_01",
-    "Effect": [
-      99980004,
-      99980104
-    ],
-    "AffinityLevelStage": 1
-  },
-  "1005": {
-    "Id": 1005,
-    "AffinityLevel": 5,
-    "NeedExp": 900,
-    "TemplateId": 1,
-    "AffinityLevelName": "AffinityLevel.1005.1",
-    "AffinityLevelIcon": "Icon/ZZZOther/zs_affinity_02",
-    "Effect": [
-      99980004,
-      99980104,
-      99980201
-    ],
-    "AffinityLevelStage": 2,
-    "IsKeyAffinityLevel": true
-  },
-  "1006": {
-    "Id": 1006,
-    "AffinityLevel": 6,
-    "NeedExp": 1000,
-    "TemplateId": 1,
-    "AffinityLevelName": "AffinityLevel.1006.1",
-    "AffinityLevelIcon": "Icon/ZZZOther/zs_affinity_02",
-    "Effect": [
-      99980006,
-      99980106,
-      99980201
-    ],
-    "AffinityLevelStage": 2
-  },
-  "1007": {
-    "Id": 1007,
-    "AffinityLevel": 7,
-    "NeedExp": 1000,
-    "TemplateId": 1,
-    "AffinityLevelName": "AffinityLevel.1007.1",
-    "AffinityLevelIcon": "Icon/ZZZOther/zs_affinity_02",
-    "Effect": [
-      99980007,
-      99980107,
-      99980201
-    ],
-    "AffinityLevelStage": 2
-  },
-  "1008": {
-    "Id": 1008,
-    "AffinityLevel": 8,
-    "NeedExp": 1000,
-    "TemplateId": 1,
-    "AffinityLevelName": "AffinityLevel.1008.1",
-    "AffinityLevelIcon": "Icon/ZZZOther/zs_affinity_02",
-    "Effect": [
-      99980008,
-      99980108,
-      99980201
-    ],
-    "AffinityLevelStage": 2
-  },
-  "1009": {
-    "Id": 1009,
-    "AffinityLevel": 9,
-    "NeedExp": 1000,
-    "TemplateId": 1,
-    "AffinityLevelName": "AffinityLevel.1009.1",
-    "AffinityLevelIcon": "Icon/ZZZOther/zs_affinity_02",
-    "Effect": [
-      99980009,
-      99980109,
-      99980201
-    ],
-    "AffinityLevelStage": 2
-  },
-  "1010": {
-    "Id": 1010,
-    "AffinityLevel": 10,
-    "NeedExp": 1000,
-    "TemplateId": 1,
-    "AffinityLevelName": "AffinityLevel.1010.1",
-    "AffinityLevelIcon": "Icon/ZZZOther/zs_affinity_03",
-    "Effect": [
-      99980009,
-      99980109,
-      99980202
-    ],
-    "AffinityLevelStage": 3,
-    "IsKeyAffinityLevel": true
-  },
-  "1011": {
-    "Id": 1011,
-    "AffinityLevel": 11,
-    "NeedExp": 2000,
-    "TemplateId": 1,
-    "AffinityLevelName": "AffinityLevel.1011.1",
-    "AffinityLevelIcon": "Icon/ZZZOther/zs_affinity_03",
-    "Effect": [
-      99980011,
-      99980111,
-      99980202
-    ],
-    "AffinityLevelStage": 3
-  },
-  "1012": {
-    "Id": 1012,
-    "AffinityLevel": 12,
-    "NeedExp": 2000,
-    "TemplateId": 1,
-    "AffinityLevelName": "AffinityLevel.1012.1",
-    "AffinityLevelIcon": "Icon/ZZZOther/zs_affinity_03",
-    "Effect": [
-      99980012,
-      99980112,
-      99980202
-    ],
-    "AffinityLevelStage": 3
-  },
-  "1013": {
-    "Id": 1013,
-    "AffinityLevel": 13,
-    "NeedExp": 2000,
-    "TemplateId": 1,
-    "AffinityLevelName": "AffinityLevel.1013.1",
-    "AffinityLevelIcon": "Icon/ZZZOther/zs_affinity_03",
-    "Effect": [
-      99980013,
-      99980113,
-      99980202
-    ],
-    "AffinityLevelStage": 3
-  },
-  "1014": {
-    "Id": 1014,
-    "AffinityLevel": 14,
-    "NeedExp": 2000,
-    "TemplateId": 1,
-    "AffinityLevelName": "AffinityLevel.1014.1",
-    "AffinityLevelIcon": "Icon/ZZZOther/zs_affinity_03",
-    "Effect": [
-      99980014,
-      99980114,
-      99980202
-    ],
-    "AffinityLevelStage": 3
-  },
-  "1015": {
-    "Id": 1015,
-    "AffinityLevel": 15,
-    "NeedExp": 2000,
-    "TemplateId": 1,
-    "AffinityLevelName": "AffinityLevel.1015.1",
-    "AffinityLevelIcon": "Icon/ZZZOther/zs_affinity_04",
-    "Effect": [
-      99980014,
-      99980114,
-      99980203
-    ],
-    "AffinityLevelStage": 4,
-    "IsKeyAffinityLevel": true
-  },
-  "1016": {
-    "Id": 1016,
-    "AffinityLevel": 16,
-    "NeedExp": 4000,
-    "TemplateId": 1,
-    "AffinityLevelName": "AffinityLevel.1016.1",
-    "AffinityLevelIcon": "Icon/ZZZOther/zs_affinity_04",
-    "Effect": [
-      99980016,
-      99980116,
-      99980203
-    ],
-    "AffinityLevelStage": 4
-  },
-  "1017": {
-    "Id": 1017,
-    "AffinityLevel": 17,
-    "NeedExp": 4000,
-    "TemplateId": 1,
-    "AffinityLevelName": "AffinityLevel.1017.1",
-    "AffinityLevelIcon": "Icon/ZZZOther/zs_affinity_04",
-    "Effect": [
-      99980017,
-      99980117,
-      99980203
-    ],
-    "AffinityLevelStage": 4
-  },
-  "1018": {
-    "Id": 1018,
-    "AffinityLevel": 18,
-    "NeedExp": 4000,
-    "TemplateId": 1,
-    "AffinityLevelName": "AffinityLevel.1018.1",
-    "AffinityLevelIcon": "Icon/ZZZOther/zs_affinity_04",
-    "Effect": [
-      99980018,
-      99980118,
-      99980203
-    ],
-    "AffinityLevelStage": 4
-  },
-  "1019": {
-    "Id": 1019,
-    "AffinityLevel": 19,
-    "NeedExp": 4000,
-    "TemplateId": 1,
-    "AffinityLevelName": "AffinityLevel.1019.1",
-    "AffinityLevelIcon": "Icon/ZZZOther/zs_affinity_04",
-    "Effect": [
-      99980019,
-      99980119,
-      99980203
-    ],
-    "AffinityLevelStage": 4
-  },
-  "1020": {
-    "Id": 1020,
-    "AffinityLevel": 20,
-    "NeedExp": 4000,
-    "TemplateId": 1,
-    "AffinityLevelName": "AffinityLevel.1020.1",
-    "AffinityLevelIcon": "Icon/ZZZOther/zs_affinity_05",
-    "Effect": [
-      99980019,
-      99980119,
-      99980204
-    ],
-    "AffinityLevelStage": 5,
-    "IsKeyAffinityLevel": true
-  },
-  "1021": {
-    "Id": 1021,
-    "AffinityLevel": 21,
-    "NeedExp": 8000,
-    "TemplateId": 1,
-    "AffinityLevelName": "AffinityLevel.1021.1",
-    "AffinityLevelIcon": "Icon/ZZZOther/zs_affinity_05",
-    "Effect": [
-      99980021,
-      99980121,
-      99980204
-    ],
-    "AffinityLevelStage": 5
-  },
-  "1022": {
-    "Id": 1022,
-    "AffinityLevel": 22,
-    "NeedExp": 8000,
-    "TemplateId": 1,
-    "AffinityLevelName": "AffinityLevel.1022.1",
-    "AffinityLevelIcon": "Icon/ZZZOther/zs_affinity_05",
-    "Effect": [
-      99980022,
-      99980122,
-      99980204
-    ],
-    "AffinityLevelStage": 5
-  },
-  "1023": {
-    "Id": 1023,
-    "AffinityLevel": 23,
-    "NeedExp": 8000,
-    "TemplateId": 1,
-    "AffinityLevelName": "AffinityLevel.1023.1",
-    "AffinityLevelIcon": "Icon/ZZZOther/zs_affinity_05",
-    "Effect": [
-      99980023,
-      99980123,
-      99980204
-    ],
-    "AffinityLevelStage": 5
-  },
-  "1024": {
-    "Id": 1024,
-    "AffinityLevel": 24,
-    "NeedExp": 8000,
-    "TemplateId": 1,
-    "AffinityLevelName": "AffinityLevel.1024.1",
-    "AffinityLevelIcon": "Icon/ZZZOther/zs_affinity_05",
-    "Effect": [
-      99980024,
-      99980124,
-      99980204
-    ],
-    "AffinityLevelStage": 5
-  },
-  "1025": {
-    "Id": 1025,
-    "AffinityLevel": 25,
-    "NeedExp": 8000,
-    "TemplateId": 1,
-    "AffinityLevelName": "AffinityLevel.1025.1",
-    "AffinityLevelIcon": "Icon/ZZZOther/zs_affinity_05",
-    "Effect": [
-      99980024,
-      99980124,
-      99980205
-    ],
-    "AffinityLevelStage": 5,
-    "IsKeyAffinityLevel": true
-  },
-  "1026": {
-    "Id": 1026,
-    "AffinityLevel": 26,
-    "NeedExp": 16000,
-    "TemplateId": 1,
-    "AffinityLevelName": "AffinityLevel.1026.1",
-    "AffinityLevelIcon": "Icon/ZZZOther/zs_affinity_05",
-    "Effect": [
-      99980026,
-      99980126,
-      99980205
-    ],
-    "AffinityLevelStage": 5
-  },
-  "1027": {
-    "Id": 1027,
-    "AffinityLevel": 27,
-    "NeedExp": 16000,
-    "TemplateId": 1,
-    "AffinityLevelName": "AffinityLevel.1027.1",
-    "AffinityLevelIcon": "Icon/ZZZOther/zs_affinity_05",
-    "Effect": [
-      99980027,
-      99980127,
-      99980205
-    ],
-    "AffinityLevelStage": 5
-  },
-  "1028": {
-    "Id": 1028,
-    "AffinityLevel": 28,
-    "NeedExp": 16000,
-    "TemplateId": 1,
-    "AffinityLevelName": "AffinityLevel.1028.1",
-    "AffinityLevelIcon": "Icon/ZZZOther/zs_affinity_05",
-    "Effect": [
-      99980028,
-      99980128,
-      99980205
-    ],
-    "AffinityLevelStage": 5
-  },
-  "1029": {
-    "Id": 1029,
-    "AffinityLevel": 29,
-    "NeedExp": 16000,
-    "TemplateId": 1,
-    "AffinityLevelName": "AffinityLevel.1029.1",
-    "AffinityLevelIcon": "Icon/ZZZOther/zs_affinity_05",
-    "Effect": [
-      99980029,
-      99980129,
-      99980205
-    ],
-    "AffinityLevelStage": 5
-  },
-  "1030": {
-    "Id": 1030,
-    "AffinityLevel": 30,
-    "NeedExp": 16000,
-    "TemplateId": 1,
-    "AffinityLevelName": "AffinityLevel.1030.1",
-    "AffinityLevelIcon": "Icon/ZZZOther/zs_affinity_05",
-    "Effect": [
-      99980029,
-      99980129,
-      99980206
-    ],
-    "AffinityLevelStage": 5,
-    "IsKeyAffinityLevel": true
-  },
-  "1031": {
-    "Id": 1031,
-    "AffinityLevel": 31,
-    "NeedExp": 19200,
-    "TemplateId": 1,
-    "AffinityLevelName": "AffinityLevel.1031.1",
-    "AffinityLevelIcon": "Icon/ZZZOther/zs_affinity_05",
-    "Effect": [
-      99980031,
-      99980131,
-      99980206
-    ],
-    "AffinityLevelStage": 5
-  },
-  "1032": {
-    "Id": 1032,
-    "AffinityLevel": 32,
-    "NeedExp": 19200,
-    "TemplateId": 1,
-    "AffinityLevelName": "AffinityLevel.1032.1",
-    "AffinityLevelIcon": "Icon/ZZZOther/zs_affinity_05",
-    "Effect": [
-      99980032,
-      99980132,
-      99980206
-    ],
-    "AffinityLevelStage": 5
-  },
-  "1033": {
-    "Id": 1033,
-    "AffinityLevel": 33,
-    "NeedExp": 19200,
-    "TemplateId": 1,
-    "AffinityLevelName": "AffinityLevel.1033.1",
-    "AffinityLevelIcon": "Icon/ZZZOther/zs_affinity_05",
-    "Effect": [
-      99980033,
-      99980133,
-      99980206
-    ],
-    "AffinityLevelStage": 5
-  },
-  "1034": {
-    "Id": 1034,
-    "AffinityLevel": 34,
-    "NeedExp": 19200,
-    "TemplateId": 1,
-    "AffinityLevelName": "AffinityLevel.1034.1",
-    "AffinityLevelIcon": "Icon/ZZZOther/zs_affinity_05",
-    "Effect": [
-      99980034,
-      99980134,
-      99980206
-    ],
-    "AffinityLevelStage": 5
-  },
-  "1035": {
-    "Id": 1035,
-    "AffinityLevel": 35,
-    "NeedExp": 19200,
-    "TemplateId": 1,
-    "AffinityLevelName": "AffinityLevel.1035.1",
-    "AffinityLevelIcon": "Icon/ZZZOther/zs_affinity_05",
-    "Effect": [
-      99980035,
-      99980135,
-      99980206
-    ],
-    "AffinityLevelStage": 5
-  },
-  "1036": {
-    "Id": 1036,
-    "AffinityLevel": 36,
-    "NeedExp": 23000,
-    "TemplateId": 1,
-    "AffinityLevelName": "AffinityLevel.1036.1",
-    "AffinityLevelIcon": "Icon/ZZZOther/zs_affinity_05",
-    "Effect": [
-      99980036,
-      99980136,
-      99980206
-    ],
-    "AffinityLevelStage": 5
-  },
-  "1037": {
-    "Id": 1037,
-    "AffinityLevel": 37,
-    "NeedExp": 23000,
-    "TemplateId": 1,
-    "AffinityLevelName": "AffinityLevel.1037.1",
-    "AffinityLevelIcon": "Icon/ZZZOther/zs_affinity_05",
-    "Effect": [
-      99980037,
-      99980137,
-      99980206
-    ],
-    "AffinityLevelStage": 5
-  },
-  "1038": {
-    "Id": 1038,
-    "AffinityLevel": 38,
-    "NeedExp": 23000,
-    "TemplateId": 1,
-    "AffinityLevelName": "AffinityLevel.1038.1",
-    "AffinityLevelIcon": "Icon/ZZZOther/zs_affinity_05",
-    "Effect": [
-      99980038,
-      99980138,
-      99980206
-    ],
-    "AffinityLevelStage": 5
-  },
-  "1039": {
-    "Id": 1039,
-    "AffinityLevel": 39,
-    "NeedExp": 23000,
-    "TemplateId": 1,
-    "AffinityLevelName": "AffinityLevel.1039.1",
-    "AffinityLevelIcon": "Icon/ZZZOther/zs_affinity_05",
-    "Effect": [
-      99980039,
-      99980139,
-      99980206
-    ],
-    "AffinityLevelStage": 5
-  },
-  "1040": {
-    "Id": 1040,
-    "AffinityLevel": 40,
-    "NeedExp": 23000,
-    "TemplateId": 1,
-    "AffinityLevelName": "AffinityLevel.1040.1",
-    "AffinityLevelIcon": "Icon/ZZZOther/zs_affinity_05",
-    "Effect": [
-      99980040,
-      99980140,
-      99980206
-    ],
-    "AffinityLevelStage": 5
-  },
-  "1041": {
-    "Id": 1041,
-    "AffinityLevel": 41,
-    "NeedExp": 27600,
-    "TemplateId": 1,
-    "AffinityLevelName": "AffinityLevel.1041.1",
-    "AffinityLevelIcon": "Icon/ZZZOther/zs_affinity_05",
-    "Effect": [
-      99980041,
-      99980141,
-      99980206
-    ],
-    "AffinityLevelStage": 5
-  },
-  "1042": {
-    "Id": 1042,
-    "AffinityLevel": 42,
-    "NeedExp": 27600,
-    "TemplateId": 1,
-    "AffinityLevelName": "AffinityLevel.1042.1",
-    "AffinityLevelIcon": "Icon/ZZZOther/zs_affinity_05",
-    "Effect": [
-      99980042,
-      99980142,
-      99980206
-    ],
-    "AffinityLevelStage": 5
-  },
-  "1043": {
-    "Id": 1043,
-    "AffinityLevel": 43,
-    "NeedExp": 27600,
-    "TemplateId": 1,
-    "AffinityLevelName": "AffinityLevel.1043.1",
-    "AffinityLevelIcon": "Icon/ZZZOther/zs_affinity_05",
-    "Effect": [
-      99980043,
-      99980143,
-      99980206
-    ],
-    "AffinityLevelStage": 5
-  },
-  "1044": {
-    "Id": 1044,
-    "AffinityLevel": 44,
-    "NeedExp": 27600,
-    "TemplateId": 1,
-    "AffinityLevelName": "AffinityLevel.1044.1",
-    "AffinityLevelIcon": "Icon/ZZZOther/zs_affinity_05",
-    "Effect": [
-      99980044,
-      99980144,
-      99980206
-    ],
-    "AffinityLevelStage": 5
-  },
-  "1045": {
-    "Id": 1045,
-    "AffinityLevel": 45,
-    "NeedExp": 27600,
-    "TemplateId": 1,
-    "AffinityLevelName": "AffinityLevel.1045.1",
-    "AffinityLevelIcon": "Icon/ZZZOther/zs_affinity_05",
-    "Effect": [
-      99980045,
-      99980145,
-      99980206
-    ],
-    "AffinityLevelStage": 5
-  },
-  "1046": {
-    "Id": 1046,
-    "AffinityLevel": 46,
-    "NeedExp": 33100,
-    "TemplateId": 1,
-    "AffinityLevelName": "AffinityLevel.1046.1",
-    "AffinityLevelIcon": "Icon/ZZZOther/zs_affinity_05",
-    "Effect": [
-      99980046,
-      99980146,
-      99980206
-    ],
-    "AffinityLevelStage": 5
-  },
-  "1047": {
-    "Id": 1047,
-    "AffinityLevel": 47,
-    "NeedExp": 33100,
-    "TemplateId": 1,
-    "AffinityLevelName": "AffinityLevel.1047.1",
-    "AffinityLevelIcon": "Icon/ZZZOther/zs_affinity_05",
-    "Effect": [
-      99980047,
-      99980147,
-      99980206
-    ],
-    "AffinityLevelStage": 5
-  },
-  "1048": {
-    "Id": 1048,
-    "AffinityLevel": 48,
-    "NeedExp": 33100,
-    "TemplateId": 1,
-    "AffinityLevelName": "AffinityLevel.1048.1",
-    "AffinityLevelIcon": "Icon/ZZZOther/zs_affinity_05",
-    "Effect": [
-      99980048,
-      99980148,
-      99980206
-    ],
-    "AffinityLevelStage": 5
-  },
-  "1049": {
-    "Id": 1049,
-    "AffinityLevel": 49,
-    "NeedExp": 33100,
-    "TemplateId": 1,
-    "AffinityLevelName": "AffinityLevel.1049.1",
-    "AffinityLevelIcon": "Icon/ZZZOther/zs_affinity_05",
-    "Effect": [
-      99980049,
-      99980149,
-      99980206
-    ],
-    "AffinityLevelStage": 5
-  },
-  "1050": {
-    "Id": 1050,
-    "AffinityLevel": 50,
-    "NeedExp": 33100,
-    "TemplateId": 1,
-    "AffinityLevelName": "AffinityLevel.1050.1",
-    "AffinityLevelIcon": "Icon/ZZZOther/zs_affinity_05",
-    "Effect": [
-      99980050,
-      99980150,
-      99980206
-    ],
-    "AffinityLevelStage": 5
-  },
-  "1051": {
-    "Id": 1051,
-    "AffinityLevel": 51,
-    "NeedExp": 33100,
-    "TemplateId": 1,
-    "AffinityLevelName": "AffinityLevel.1051.1",
-    "AffinityLevelIcon": "Icon/ZZZOther/zs_affinity_05",
-    "Effect": [
-      99980050,
-      99980150,
-      99980206
-    ],
-    "AffinityLevelStage": 5
-  },
-  "1052": {
-    "Id": 1052,
-    "AffinityLevel": 52,
-    "NeedExp": 33100,
-    "TemplateId": 1,
-    "AffinityLevelName": "AffinityLevel.1052.1",
-    "AffinityLevelIcon": "Icon/ZZZOther/zs_affinity_05",
-    "Effect": [
-      99980050,
-      99980150,
-      99980206
-    ],
-    "AffinityLevelStage": 5
-  },
-  "1053": {
-    "Id": 1053,
-    "AffinityLevel": 53,
-    "NeedExp": 33100,
-    "TemplateId": 1,
-    "AffinityLevelName": "AffinityLevel.1053.1",
-    "AffinityLevelIcon": "Icon/ZZZOther/zs_affinity_05",
-    "Effect": [
-      99980050,
-      99980150,
-      99980206
-    ],
-    "AffinityLevelStage": 5
-  },
-  "1054": {
-    "Id": 1054,
-    "AffinityLevel": 54,
-    "NeedExp": 33100,
-    "TemplateId": 1,
-    "AffinityLevelName": "AffinityLevel.1054.1",
-    "AffinityLevelIcon": "Icon/ZZZOther/zs_affinity_05",
-    "Effect": [
-      99980050,
-      99980150,
-      99980206
-    ],
-    "AffinityLevelStage": 5
-  },
-  "1055": {
-    "Id": 1055,
-    "AffinityLevel": 55,
-    "NeedExp": 33100,
-    "TemplateId": 1,
-    "AffinityLevelName": "AffinityLevel.1055.1",
-    "AffinityLevelIcon": "Icon/ZZZOther/zs_affinity_05",
-    "Effect": [
-      99980050,
-      99980150,
-      99980206
-    ],
-    "AffinityLevelStage": 5
-  },
-  "1056": {
-    "Id": 1056,
-    "AffinityLevel": 56,
-    "NeedExp": 33100,
-    "TemplateId": 1,
-    "AffinityLevelName": "AffinityLevel.1056.1",
-    "AffinityLevelIcon": "Icon/ZZZOther/zs_affinity_05",
-    "Effect": [
-      99980050,
-      99980150,
-      99980206
-    ],
-    "AffinityLevelStage": 5
-  },
-  "1057": {
-    "Id": 1057,
-    "AffinityLevel": 57,
-    "NeedExp": 33100,
-    "TemplateId": 1,
-    "AffinityLevelName": "AffinityLevel.1057.1",
-    "AffinityLevelIcon": "Icon/ZZZOther/zs_affinity_05",
-    "Effect": [
-      99980050,
-      99980150,
-      99980206
-    ],
-    "AffinityLevelStage": 5
-  },
-  "1058": {
-    "Id": 1058,
-    "AffinityLevel": 58,
-    "NeedExp": 33100,
-    "TemplateId": 1,
-    "AffinityLevelName": "AffinityLevel.1058.1",
-    "AffinityLevelIcon": "Icon/ZZZOther/zs_affinity_05",
-    "Effect": [
-      99980050,
-      99980150,
-      99980206
-    ],
-    "AffinityLevelStage": 5
-  },
-  "1059": {
-    "Id": 1059,
-    "AffinityLevel": 59,
-    "NeedExp": 33100,
-    "TemplateId": 1,
-    "AffinityLevelName": "AffinityLevel.1059.1",
-    "AffinityLevelIcon": "Icon/ZZZOther/zs_affinity_05",
-    "Effect": [
-      99980050,
-      99980150,
-      99980206
-    ],
-    "AffinityLevelStage": 5
-  },
-  "1060": {
-    "Id": 1060,
-    "AffinityLevel": 60,
-    "NeedExp": 33100,
-    "TemplateId": 1,
-    "AffinityLevelName": "AffinityLevel.1060.1",
-    "AffinityLevelIcon": "Icon/ZZZOther/zs_affinity_05",
-    "Effect": [
-      99980050,
-      99980150,
-      99980206
-    ],
-    "AffinityLevelStage": 5
-  },
-  "1061": {
-    "Id": 1061,
-    "AffinityLevel": 61,
-    "NeedExp": 33100,
-    "TemplateId": 1,
-    "AffinityLevelName": "AffinityLevel.1061.1",
-    "AffinityLevelIcon": "Icon/ZZZOther/zs_affinity_05",
-    "Effect": [
-      99980050,
-      99980150,
-      99980206
-    ],
-    "AffinityLevelStage": 5
-  },
-  "1062": {
-    "Id": 1062,
-    "AffinityLevel": 62,
-    "NeedExp": 33100,
-    "TemplateId": 1,
-    "AffinityLevelName": "AffinityLevel.1062.1",
-    "AffinityLevelIcon": "Icon/ZZZOther/zs_affinity_05",
-    "Effect": [
-      99980050,
-      99980150,
-      99980206
-    ],
-    "AffinityLevelStage": 5
-  },
-  "1063": {
-    "Id": 1063,
-    "AffinityLevel": 63,
-    "NeedExp": 33100,
-    "TemplateId": 1,
-    "AffinityLevelName": "AffinityLevel.1063.1",
-    "AffinityLevelIcon": "Icon/ZZZOther/zs_affinity_05",
-    "Effect": [
-      99980050,
-      99980150,
-      99980206
-    ],
-    "AffinityLevelStage": 5
-  },
-  "1064": {
-    "Id": 1064,
-    "AffinityLevel": 64,
-    "NeedExp": 33100,
-    "TemplateId": 1,
-    "AffinityLevelName": "AffinityLevel.1064.1",
-    "AffinityLevelIcon": "Icon/ZZZOther/zs_affinity_05",
-    "Effect": [
-      99980050,
-      99980150,
-      99980206
-    ],
-    "AffinityLevelStage": 5
-  },
-  "1065": {
-    "Id": 1065,
-    "AffinityLevel": 65,
-    "NeedExp": 33100,
-    "TemplateId": 1,
-    "AffinityLevelName": "AffinityLevel.1065.1",
-    "AffinityLevelIcon": "Icon/ZZZOther/zs_affinity_05",
-    "Effect": [
-      99980050,
-      99980150,
-      99980206
-    ],
-    "AffinityLevelStage": 5
-  },
-  "1066": {
-    "Id": 1066,
-    "AffinityLevel": 66,
-    "NeedExp": 33100,
-    "TemplateId": 1,
-    "AffinityLevelName": "AffinityLevel.1066.1",
-    "AffinityLevelIcon": "Icon/ZZZOther/zs_affinity_05",
-    "Effect": [
-      99980050,
-      99980150,
-      99980206
-    ],
-    "AffinityLevelStage": 5
-  },
-  "1067": {
-    "Id": 1067,
-    "AffinityLevel": 67,
-    "NeedExp": 33100,
-    "TemplateId": 1,
-    "AffinityLevelName": "AffinityLevel.1067.1",
-    "AffinityLevelIcon": "Icon/ZZZOther/zs_affinity_05",
-    "Effect": [
-      99980050,
-      99980150,
-      99980206
-    ],
-    "AffinityLevelStage": 5
-  },
   "2000": {
     "Id": 2000,
     "TemplateId": 2,
@@ -1892,5 +945,453 @@
       99880206
     ],
     "AffinityLevelStage": 5
+  },
+  "2068": {
+    "Id": 2068,
+    "AffinityLevel": 68,
+    "NeedExp": 34100,
+    "TemplateId": 2,
+    "AffinityLevelName": "AffinityLevel.2068.1",
+    "AffinityLevelIcon": "Icon/ZZZOther/zs_affinity_06",
+    "Effect": [
+      99880050,
+      99880150,
+      99880206
+    ],
+    "AffinityLevelStage": 6
+  },
+  "2069": {
+    "Id": 2069,
+    "AffinityLevel": 69,
+    "NeedExp": 35100,
+    "TemplateId": 2,
+    "AffinityLevelName": "AffinityLevel.2069.1",
+    "AffinityLevelIcon": "Icon/ZZZOther/zs_affinity_06",
+    "Effect": [
+      99880050,
+      99880150,
+      99880206
+    ],
+    "AffinityLevelStage": 6
+  },
+  "2070": {
+    "Id": 2070,
+    "AffinityLevel": 70,
+    "NeedExp": 36200,
+    "TemplateId": 2,
+    "AffinityLevelName": "AffinityLevel.2070.1",
+    "AffinityLevelIcon": "Icon/ZZZOther/zs_affinity_06",
+    "Effect": [
+      99880050,
+      99880150,
+      99880206
+    ],
+    "AffinityLevelStage": 6
+  },
+  "2071": {
+    "Id": 2071,
+    "AffinityLevel": 71,
+    "NeedExp": 37300,
+    "TemplateId": 2,
+    "AffinityLevelName": "AffinityLevel.2071.1",
+    "AffinityLevelIcon": "Icon/ZZZOther/zs_affinity_06",
+    "Effect": [
+      99880050,
+      99880150,
+      99880206
+    ],
+    "AffinityLevelStage": 6
+  },
+  "2072": {
+    "Id": 2072,
+    "AffinityLevel": 72,
+    "NeedExp": 38400,
+    "TemplateId": 2,
+    "AffinityLevelName": "AffinityLevel.2072.1",
+    "AffinityLevelIcon": "Icon/ZZZOther/zs_affinity_06",
+    "Effect": [
+      99880050,
+      99880150,
+      99880206
+    ],
+    "AffinityLevelStage": 6
+  },
+  "2073": {
+    "Id": 2073,
+    "AffinityLevel": 73,
+    "NeedExp": 39600,
+    "TemplateId": 2,
+    "AffinityLevelName": "AffinityLevel.2073.1",
+    "AffinityLevelIcon": "Icon/ZZZOther/zs_affinity_06",
+    "Effect": [
+      99880050,
+      99880150,
+      99880206
+    ],
+    "AffinityLevelStage": 6
+  },
+  "2074": {
+    "Id": 2074,
+    "AffinityLevel": 74,
+    "NeedExp": 40800,
+    "TemplateId": 2,
+    "AffinityLevelName": "AffinityLevel.2074.1",
+    "AffinityLevelIcon": "Icon/ZZZOther/zs_affinity_06",
+    "Effect": [
+      99880050,
+      99880150,
+      99880206
+    ],
+    "AffinityLevelStage": 6
+  },
+  "2075": {
+    "Id": 2075,
+    "AffinityLevel": 75,
+    "NeedExp": 42000,
+    "TemplateId": 2,
+    "AffinityLevelName": "AffinityLevel.2075.1",
+    "AffinityLevelIcon": "Icon/ZZZOther/zs_affinity_06",
+    "Effect": [
+      99880050,
+      99880150,
+      99880206
+    ],
+    "AffinityLevelStage": 6
+  },
+  "2076": {
+    "Id": 2076,
+    "AffinityLevel": 76,
+    "NeedExp": 43300,
+    "TemplateId": 2,
+    "AffinityLevelName": "AffinityLevel.2076.1",
+    "AffinityLevelIcon": "Icon/ZZZOther/zs_affinity_06",
+    "Effect": [
+      99880050,
+      99880150,
+      99880206
+    ],
+    "AffinityLevelStage": 6
+  },
+  "2077": {
+    "Id": 2077,
+    "AffinityLevel": 77,
+    "NeedExp": 44600,
+    "TemplateId": 2,
+    "AffinityLevelName": "AffinityLevel.2077.1",
+    "AffinityLevelIcon": "Icon/ZZZOther/zs_affinity_06",
+    "Effect": [
+      99880050,
+      99880150,
+      99880206
+    ],
+    "AffinityLevelStage": 6
+  },
+  "2078": {
+    "Id": 2078,
+    "AffinityLevel": 78,
+    "NeedExp": 45900,
+    "TemplateId": 2,
+    "AffinityLevelName": "AffinityLevel.2078.1",
+    "AffinityLevelIcon": "Icon/ZZZOther/zs_affinity_06",
+    "Effect": [
+      99880050,
+      99880150,
+      99880206
+    ],
+    "AffinityLevelStage": 6
+  },
+  "2079": {
+    "Id": 2079,
+    "AffinityLevel": 79,
+    "NeedExp": 47300,
+    "TemplateId": 2,
+    "AffinityLevelName": "AffinityLevel.2079.1",
+    "AffinityLevelIcon": "Icon/ZZZOther/zs_affinity_06",
+    "Effect": [
+      99880050,
+      99880150,
+      99880206
+    ],
+    "AffinityLevelStage": 6
+  },
+  "2080": {
+    "Id": 2080,
+    "AffinityLevel": 80,
+    "NeedExp": 48700,
+    "TemplateId": 2,
+    "AffinityLevelName": "AffinityLevel.2080.1",
+    "AffinityLevelIcon": "Icon/ZZZOther/zs_affinity_06",
+    "Effect": [
+      99880050,
+      99880150,
+      99880206
+    ],
+    "AffinityLevelStage": 6
+  },
+  "2081": {
+    "Id": 2081,
+    "AffinityLevel": 81,
+    "NeedExp": 50200,
+    "TemplateId": 2,
+    "AffinityLevelName": "AffinityLevel.2081.1",
+    "AffinityLevelIcon": "Icon/ZZZOther/zs_affinity_06",
+    "Effect": [
+      99880050,
+      99880150,
+      99880206
+    ],
+    "AffinityLevelStage": 6
+  },
+  "2082": {
+    "Id": 2082,
+    "AffinityLevel": 82,
+    "NeedExp": 51700,
+    "TemplateId": 2,
+    "AffinityLevelName": "AffinityLevel.2082.1",
+    "AffinityLevelIcon": "Icon/ZZZOther/zs_affinity_06",
+    "Effect": [
+      99880050,
+      99880150,
+      99880206
+    ],
+    "AffinityLevelStage": 6
+  },
+  "2083": {
+    "Id": 2083,
+    "AffinityLevel": 83,
+    "NeedExp": 53300,
+    "TemplateId": 2,
+    "AffinityLevelName": "AffinityLevel.2083.1",
+    "AffinityLevelIcon": "Icon/ZZZOther/zs_affinity_06",
+    "Effect": [
+      99880050,
+      99880150,
+      99880206
+    ],
+    "AffinityLevelStage": 6
+  },
+  "2084": {
+    "Id": 2084,
+    "AffinityLevel": 84,
+    "NeedExp": 54900,
+    "TemplateId": 2,
+    "AffinityLevelName": "AffinityLevel.2084.1",
+    "AffinityLevelIcon": "Icon/ZZZOther/zs_affinity_06",
+    "Effect": [
+      99880050,
+      99880150,
+      99880206
+    ],
+    "AffinityLevelStage": 6
+  },
+  "2085": {
+    "Id": 2085,
+    "AffinityLevel": 85,
+    "NeedExp": 56500,
+    "TemplateId": 2,
+    "AffinityLevelName": "AffinityLevel.2085.1",
+    "AffinityLevelIcon": "Icon/ZZZOther/zs_affinity_06",
+    "Effect": [
+      99880050,
+      99880150,
+      99880206
+    ],
+    "AffinityLevelStage": 6
+  },
+  "2086": {
+    "Id": 2086,
+    "AffinityLevel": 86,
+    "NeedExp": 58200,
+    "TemplateId": 2,
+    "AffinityLevelName": "AffinityLevel.2086.1",
+    "AffinityLevelIcon": "Icon/ZZZOther/zs_affinity_06",
+    "Effect": [
+      99880050,
+      99880150,
+      99880206
+    ],
+    "AffinityLevelStage": 6
+  },
+  "2087": {
+    "Id": 2087,
+    "AffinityLevel": 87,
+    "NeedExp": 59900,
+    "TemplateId": 2,
+    "AffinityLevelName": "AffinityLevel.2087.1",
+    "AffinityLevelIcon": "Icon/ZZZOther/zs_affinity_06",
+    "Effect": [
+      99880050,
+      99880150,
+      99880206
+    ],
+    "AffinityLevelStage": 6
+  },
+  "2088": {
+    "Id": 2088,
+    "AffinityLevel": 88,
+    "NeedExp": 61700,
+    "TemplateId": 2,
+    "AffinityLevelName": "AffinityLevel.2088.1",
+    "AffinityLevelIcon": "Icon/ZZZOther/zs_affinity_06",
+    "Effect": [
+      99880050,
+      99880150,
+      99880206
+    ],
+    "AffinityLevelStage": 6
+  },
+  "2089": {
+    "Id": 2089,
+    "AffinityLevel": 89,
+    "NeedExp": 63600,
+    "TemplateId": 2,
+    "AffinityLevelName": "AffinityLevel.2089.1",
+    "AffinityLevelIcon": "Icon/ZZZOther/zs_affinity_06",
+    "Effect": [
+      99880050,
+      99880150,
+      99880206
+    ],
+    "AffinityLevelStage": 6
+  },
+  "2090": {
+    "Id": 2090,
+    "AffinityLevel": 90,
+    "NeedExp": 65500,
+    "TemplateId": 2,
+    "AffinityLevelName": "AffinityLevel.2090.1",
+    "AffinityLevelIcon": "Icon/ZZZOther/zs_affinity_06",
+    "Effect": [
+      99880050,
+      99880150,
+      99880206
+    ],
+    "AffinityLevelStage": 6
+  },
+  "2091": {
+    "Id": 2091,
+    "AffinityLevel": 91,
+    "NeedExp": 67500,
+    "TemplateId": 2,
+    "AffinityLevelName": "AffinityLevel.2091.1",
+    "AffinityLevelIcon": "Icon/ZZZOther/zs_affinity_06",
+    "Effect": [
+      99880050,
+      99880150,
+      99880206
+    ],
+    "AffinityLevelStage": 6
+  },
+  "2092": {
+    "Id": 2092,
+    "AffinityLevel": 92,
+    "NeedExp": 69500,
+    "TemplateId": 2,
+    "AffinityLevelName": "AffinityLevel.2092.1",
+    "AffinityLevelIcon": "Icon/ZZZOther/zs_affinity_06",
+    "Effect": [
+      99880050,
+      99880150,
+      99880206
+    ],
+    "AffinityLevelStage": 6
+  },
+  "2093": {
+    "Id": 2093,
+    "AffinityLevel": 93,
+    "NeedExp": 71600,
+    "TemplateId": 2,
+    "AffinityLevelName": "AffinityLevel.2093.1",
+    "AffinityLevelIcon": "Icon/ZZZOther/zs_affinity_06",
+    "Effect": [
+      99880050,
+      99880150,
+      99880206
+    ],
+    "AffinityLevelStage": 6
+  },
+  "2094": {
+    "Id": 2094,
+    "AffinityLevel": 94,
+    "NeedExp": 73700,
+    "TemplateId": 2,
+    "AffinityLevelName": "AffinityLevel.2094.1",
+    "AffinityLevelIcon": "Icon/ZZZOther/zs_affinity_06",
+    "Effect": [
+      99880050,
+      99880150,
+      99880206
+    ],
+    "AffinityLevelStage": 6
+  },
+  "2095": {
+    "Id": 2095,
+    "AffinityLevel": 95,
+    "NeedExp": 75900,
+    "TemplateId": 2,
+    "AffinityLevelName": "AffinityLevel.2095.1",
+    "AffinityLevelIcon": "Icon/ZZZOther/zs_affinity_06",
+    "Effect": [
+      99880050,
+      99880150,
+      99880206
+    ],
+    "AffinityLevelStage": 6
+  },
+  "2096": {
+    "Id": 2096,
+    "AffinityLevel": 96,
+    "NeedExp": 78200,
+    "TemplateId": 2,
+    "AffinityLevelName": "AffinityLevel.2096.1",
+    "AffinityLevelIcon": "Icon/ZZZOther/zs_affinity_06",
+    "Effect": [
+      99880050,
+      99880150,
+      99880206
+    ],
+    "AffinityLevelStage": 6
+  },
+  "2097": {
+    "Id": 2097,
+    "AffinityLevel": 97,
+    "NeedExp": 80500,
+    "TemplateId": 2,
+    "AffinityLevelName": "AffinityLevel.2097.1",
+    "AffinityLevelIcon": "Icon/ZZZOther/zs_affinity_06",
+    "Effect": [
+      99880050,
+      99880150,
+      99880206
+    ],
+    "AffinityLevelStage": 6
+  },
+  "2098": {
+    "Id": 2098,
+    "AffinityLevel": 98,
+    "NeedExp": 82900,
+    "TemplateId": 2,
+    "AffinityLevelName": "AffinityLevel.2098.1",
+    "AffinityLevelIcon": "Icon/ZZZOther/zs_affinity_06",
+    "Effect": [
+      99880050,
+      99880150,
+      99880206
+    ],
+    "AffinityLevelStage": 6
+  },
+  "2099": {
+    "Id": 2099,
+    "AffinityLevel": 99,
+    "NeedExp": 85400,
+    "TemplateId": 2,
+    "AffinityLevelName": "AffinityLevel.2099.1",
+    "AffinityLevelIcon": "Icon/ZZZOther/zs_affinity_06",
+    "Effect": [
+      99880050,
+      99880150,
+      99880206
+    ],
+    "AffinityLevelStage": 6
   }
 }

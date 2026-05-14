@@ -2446,7 +2446,7 @@
     "BriefDesc": "Potential.512609.1",
     "Desc": "Potential.512609.2",
     "Param1": "Effect,LevelUp,12650901,EffectTypeParam1,HdPct",
-    "Param2": "BuffValue,NoLevel,12650811,Time,10K",
+    "Param2": "BuffValue,NoLevel,12650911,Time,10K",
     "Param3": "BuffValue,NoLevel,12650911,LaminatedNum,Fixed",
     "Param4": "Effect,LevelUp,12650901,EffectTypeFirstSubtype,Enum,EAT"
   },
@@ -2888,7 +2888,7 @@
     "BriefDesc": "Potential.512633.1",
     "Desc": "Potential.512633.2",
     "Param1": "Effect,LevelUp,12653301,EffectTypeParam1,HdPct",
-    "Param2": "Effect,LevelUp,12653101,EffectTypeFirstSubtype,Enum,EAT",
+    "Param2": "Effect,LevelUp,12653301,EffectTypeFirstSubtype,Enum,EAT",
     "Param3": "BuffValue,NoLevel,12653311,Time,10K"
   },
   "512641": {
@@ -8300,8 +8300,7 @@
     "Corner": 3,
     "BriefDesc": "Potential.512743.1",
     "Desc": "Potential.512743.2",
-    "Param1": "OnceAdditionalAttribute,LevelUp,12754301,Value1,10KHdPct",
-    "Param2": "Effect,LevelUp,12754201,EffectTypeFirstSubtype,Enum,EAT"
+    "Param1": "OnceAdditionalAttribute,LevelUp,12754301,Value1,10KHdPct"
   },
   "513001": {
     "Id": 513001,
@@ -12632,8 +12631,12 @@
     "Corner": 1,
     "BriefDesc": "Potential.511511.1",
     "Desc": "Potential.511511.2",
-    "Param1": "OnceAdditionalAttribute,LevelUp,11511001,Value1,10KHdPct",
-    "Param2": "OnceAdditionalAttribute,LevelUp,11511001,AttributeType1,Enum,EAT"
+    "Param1": "Effect,LevelUp,11511001,EffectTypeParam1,HdPct",
+    "Param2": "Effect,LevelUp,11511001,EffectTypeFirstSubtype,Enum,EAT",
+    "Param3": "Effect,LevelUp,11511002,EffectTypeFirstSubtype,Enum,EAT",
+    "Param4": "Effect,LevelUp,11511002,EffectTypeParam1,HdPct",
+    "Param5": "BuffValue,NoLevel,11511012,Time,10K",
+    "Param6": "BuffValue,NoLevel,11511012,LaminatedNum,Fixed"
   },
   "511512": {
     "Id": 511512,
@@ -12659,7 +12662,7 @@
     "Corner": 2,
     "BriefDesc": "Potential.511512.1",
     "Desc": "Potential.511512.2",
-    "Param1": "Skill,NoLevel,11531001,Title,Text",
+    "Param1": "Skill,NoLevel,11540000,Title,Text",
     "Param2": "HitDamage,DamageNum,115000001",
     "Param3": "Effect,LevelUp,11512001,EffectTypeParam1,HdPct",
     "Param4": "BuffValue,NoLevel,11512011,Time,10K",
@@ -12715,7 +12718,12 @@
     "SpFace": "Icon/Potential/Sp_Potential_char_115_01",
     "BriefDesc": "Potential.511521.1",
     "Desc": "Potential.511521.2",
-    "Param1": "Skill,NoLevel,11532001,Title,Text"
+    "Param1": "Skill,NoLevel,11532001,Title,Text",
+    "Param2": "OnceAdditionalAttributeValue,NoLevel,11521011,AttributeType1,Enum,EAT",
+    "Param3": "OnceAdditionalAttribute,LevelUp,11521011,Value1,10KHdPct",
+    "Param4": "OnceAdditionalAttributeValue,NoLevel,11521011,AttributeType2,Enum,EAT",
+    "Param5": "OnceAdditionalAttribute,LevelUp,11521011,Value2,10KHdPct",
+    "Param6": "BuffValue,NoLevel,11521011,LaminatedNum,Fixed"
   },
   "511522": {
     "Id": 511522,
@@ -12738,8 +12746,9 @@
     "SpFace": "Icon/Potential/Sp_Potential_char_115_02",
     "BriefDesc": "Potential.511522.1",
     "Desc": "Potential.511522.2",
-    "Param1": "Skill,NoLevel,11532001,Title,Text",
-    "Param2": "OnceAdditionalAttributeValue,NoLevel,11522011,Value1,10KHdPct"
+    "Param1": "OnceAdditionalAttributeValue,NoLevel,11522011,AttributeType1,Enum,EAT",
+    "Param2": "OnceAdditionalAttributeValue,NoLevel,11522011,Value1,10KHdPct",
+    "Param3": "HitDamage,DamageNum,115122202"
   },
   "511523": {
     "Id": 511523,
@@ -12762,11 +12771,9 @@
     "SpFace": "Icon/Potential/Sp_Potential_char_115_03",
     "BriefDesc": "Potential.511523.1",
     "Desc": "Potential.511523.2",
-    "Param1": "HitDamage,DamageNum,115122301",
-    "Param2": "EffectValue,NoLevel,11523011,EffectTypeParam1,HdPct",
-    "Param3": "BuffValue,NoLevel,11523011,Time,10K",
-    "Param4": "BuffValue,NoLevel,11523011,LaminatedNum,Fixed",
-    "Param5": "EffectValue,NoLevel,11523011,EffectTypeFirstSubtype,Enum,EAT"
+    "Param1": "HitDamage,DamageNum,115122305",
+    "Param2": "OnceAdditionalAttributeValue,NoLevel,11523011,AttributeType1,Enum,EAT",
+    "Param3": "OnceAdditionalAttributeValue,NoLevel,11523011,Value1,10KHdPct"
   },
   "511524": {
     "Id": 511524,
@@ -12789,7 +12796,9 @@
     "SpFace": "Icon/Potential/Sp_Potential_char_115_04",
     "BriefDesc": "Potential.511524.1",
     "Desc": "Potential.511524.2",
-    "Param1": "HitDamage,DamageNum,115322401"
+    "Param1": "HitDamage,DamageNum,115322401",
+    "Param2": "HitDamage,DamageNum,115322402",
+    "Param3": "HitDamage,DamageNum,115322403"
   },
   "511525": {
     "Id": 511525,
@@ -12816,8 +12825,12 @@
     "BriefDesc": "Potential.511525.1",
     "Desc": "Potential.511525.2",
     "Param1": "Skill,NoLevel,11532001,Title,Text",
-    "Param2": "OnceAdditionalAttribute,LevelUp,11525001,Value1,10KHdPct",
-    "Param3": "OnceAdditionalAttribute,LevelUp,11525001,AttributeType1,Enum,EAT"
+    "Param2": "OnceAdditionalAttribute,LevelUp,11525002,Value1,10KHdPct",
+    "Param3": "OnceAdditionalAttribute,LevelUp,11525002,AttributeType1,Enum,EAT",
+    "Param4": "BuffValue,NoLevel,11525011,LaminatedNum,Fixed",
+    "Param5": "OnceAdditionalAttribute,LevelUp,11525001,Value1,10KHdPct",
+    "Param6": "OnceAdditionalAttribute,LevelUp,11525001,AttributeType1,Enum,EAT",
+    "Param7": "BuffValue,NoLevel,11525014,LaminatedNum,Fixed"
   },
   "511526": {
     "Id": 511526,
@@ -12843,10 +12856,13 @@
     "Corner": 2,
     "BriefDesc": "Potential.511526.1",
     "Desc": "Potential.511526.2",
-    "Param1": "OnceAdditionalAttribute,LevelUp,11526001,Value1,10KHdPct",
-    "Param2": "BuffValue,NoLevel,11526011,Time,10K",
-    "Param3": "BuffValue,NoLevel,11526011,LaminatedNum,Fixed",
-    "Param4": "OnceAdditionalAttribute,LevelUp,11526001,AttributeType1,Enum,EAT"
+    "Param1": "Skill,NoLevel,11532001,Title,Text",
+    "Param2": "HitDamage,DamageNum,115322601",
+    "Param3": "Effect,LevelUp,11526001,EffectTypeFirstSubtype,Enum,EAT",
+    "Param4": "Effect,LevelUp,11526001,EffectTypeParam1,HdPct",
+    "Param5": "BuffValue,NoLevel,11526011,Time,10K",
+    "Param6": "BuffValue,NoLevel,11526011,LaminatedNum,Fixed",
+    "Param7": "ScriptParameterValue,NoLevel,11526011,CommonData,10K"
   },
   "511527": {
     "Id": 511527,
@@ -12872,8 +12888,11 @@
     "Corner": 3,
     "BriefDesc": "Potential.511527.1",
     "Desc": "Potential.511527.2",
-    "Param1": "Skill,NoLevel,11532001,Title,Text",
-    "Param2": "HitDamage,DamageNum,115322701"
+    "Param1": "HitDamage,DamageNum,115322701",
+    "Param2": "Effect,LevelUp,11527001,EffectTypeFirstSubtype,Enum,EAT",
+    "Param3": "Effect,LevelUp,11527001,EffectTypeParam1,HdPct",
+    "Param4": "BuffValue,NoLevel,11527011,Time,10K",
+    "Param5": "BuffValue,NoLevel,11527011,LaminatedNum,Fixed"
   },
   "511528": {
     "Id": 511528,
@@ -12899,10 +12918,10 @@
     "Corner": 1,
     "BriefDesc": "Potential.511528.1",
     "Desc": "Potential.511528.2",
-    "Param1": "Effect,LevelUp,11528001,EffectTypeParam1,HdPct",
-    "Param2": "BuffValue,NoLevel,11528011,Time,10K",
-    "Param3": "BuffValue,NoLevel,11528011,LaminatedNum,Fixed",
-    "Param4": "Effect,LevelUp,11528001,EffectTypeFirstSubtype,Enum,EAT"
+    "Param1": "OnceAdditionalAttribute,LevelUp,11528001,Value1,10KHdPct",
+    "Param2": "BuffValue,NoLevel,11528011,LaminatedNum,Fixed",
+    "Param3": "OnceAdditionalAttribute,LevelUp,11528001,AttributeType1,Enum,EAT",
+    "Param4": "EffectValue,NoLevel,11528012,EffectTypeParam1,HdPct"
   },
   "511529": {
     "Id": 511529,
@@ -12928,11 +12947,12 @@
     "Corner": 2,
     "BriefDesc": "Potential.511529.1",
     "Desc": "Potential.511529.2",
-    "Param1": "Skill,NoLevel,11532001,Title,Text",
-    "Param2": "Effect,LevelUp,11529001,EffectTypeParam1,HdPct",
+    "Param1": "Effect,LevelUp,11529001,EffectTypeParam1,HdPct",
+    "Param2": "Effect,LevelUp,11529001,EffectTypeFirstSubtype,Enum,EAT",
     "Param3": "BuffValue,NoLevel,11529011,Time,10K",
     "Param4": "BuffValue,NoLevel,11529011,LaminatedNum,Fixed",
-    "Param5": "Effect,LevelUp,11529001,EffectTypeFirstSubtype,Enum,EAT"
+    "Param5": "Effect,LevelUp,11529002,EffectTypeParam1,HdPct",
+    "Param6": "Effect,LevelUp,11529002,EffectTypeFirstSubtype,Enum,EAT"
   },
   "511530": {
     "Id": 511530,
@@ -12958,9 +12978,8 @@
     "Corner": 3,
     "BriefDesc": "Potential.511530.1",
     "Desc": "Potential.511530.2",
-    "Param1": "Skill,NoLevel,11532001,Title,Text",
-    "Param2": "HitDamage,DamageNum,115323001",
-    "Param3": "HitDamage,DamageNum,115323002"
+    "Param1": "HitDamage,DamageNum,115323001",
+    "Param2": "ScriptParameterValue,NoLevel,11530011,CommonData,10K"
   },
   "511531": {
     "Id": 511531,
@@ -12986,8 +13005,9 @@
     "Corner": 1,
     "BriefDesc": "Potential.511531.1",
     "Desc": "Potential.511531.2",
-    "Param1": "Effect,LevelUp,11531001,EffectTypeParam1,HdPct",
-    "Param2": "Effect,LevelUp,11531001,EffectTypeFirstSubtype,Enum,EAT"
+    "Param1": "Skill,NoLevel,11540000,Title,Text",
+    "Param2": "Shield,LevelUp,11531001,ReferenceScale,10KHdPct",
+    "Param3": "ShieldValue,NoLevel,11531011,Time,10K"
   },
   "511532": {
     "Id": 511532,
@@ -13015,8 +13035,9 @@
     "Desc": "Potential.511532.2",
     "Param1": "Skill,NoLevel,11532001,Title,Text",
     "Param2": "ScriptParameterValue,NoLevel,11532011,CommonData,10K",
-    "Param3": "OnceAdditionalAttribute,LevelUp,11532001,Value1,10KHdPct",
-    "Param4": "OnceAdditionalAttribute,LevelUp,11532001,AttributeType1,Enum,EAT"
+    "Param3": "Effect,LevelUp,11532001,EffectTypeFirstSubtype,Enum,EAT",
+    "Param4": "Effect,LevelUp,11532001,EffectTypeParam1,HdPct",
+    "Param5": "BuffValue,NoLevel,11532011,Time,10K"
   },
   "511533": {
     "Id": 511533,
@@ -13072,7 +13093,8 @@
     "Desc": "Potential.511541.2",
     "Param1": "Skill,NoLevel,11540000,Title,Text",
     "Param2": "Effect,LevelUp,11541001,EffectTypeParam1,HdPct",
-    "Param3": "Effect,LevelUp,11541001,EffectTypeFirstSubtype,Enum,EAT"
+    "Param3": "Effect,LevelUp,11541001,EffectTypeFirstSubtype,Enum,EAT",
+    "Param4": "BuffValue,NoLevel,11541011,Time,10K"
   },
   "511542": {
     "Id": 511542,
@@ -13127,10 +13149,9 @@
     "BriefDesc": "Potential.511543.1",
     "Desc": "Potential.511543.2",
     "Param1": "Skill,NoLevel,11540000,Title,Text",
-    "Param2": "Effect,LevelUp,11543001,EffectTypeParam1,HdPct",
-    "Param3": "BuffValue,NoLevel,11543011,Time,10K",
-    "Param4": "BuffValue,NoLevel,11543011,LaminatedNum,Fixed",
-    "Param5": "Effect,LevelUp,11543001,EffectTypeFirstSubtype,Enum,EAT"
+    "Param2": "ScriptParameterValue,NoLevel,11543011,CommonData,10KPct",
+    "Param3": "OnceAdditionalAttribute,LevelUp,11543001,Value1,10KHdPct",
+    "Param4": "OnceAdditionalAttribute,LevelUp,11543001,AttributeType1,Enum,EAT"
   },
   "511701": {
     "Id": 511701,
@@ -28712,7 +28733,10 @@
     "SpBg": "Icon/Potential/Sp_Potential_bg_01",
     "SpFace": "Icon/Potential/Sp_Potential_char_140_01",
     "BriefDesc": "Potential.514001.1",
-    "Desc": "Potential.514001.2"
+    "Desc": "Potential.514001.2",
+    "Param1": "HitDamage,DamageNum,140501001",
+    "Param2": "OnceAdditionalAttributeValue,NoLevel,14001011,AttributeType1,Enum,EAT",
+    "Param3": "OnceAdditionalAttributeValue,NoLevel,14001011,Value1,10KHdPct"
   },
   "514002": {
     "Id": 514002,
@@ -28734,7 +28758,12 @@
     "SpBg": "Icon/Potential/Sp_Potential_bg_02",
     "SpFace": "Icon/Potential/Sp_Potential_char_140_02",
     "BriefDesc": "Potential.514002.1",
-    "Desc": "Potential.514002.2"
+    "Desc": "Potential.514002.2",
+    "Param1": "BuffValue,NoLevel,14002011,LaminatedNum,Fixed",
+    "Param2": "BuffValue,NoLevel,14002012,Time,10K",
+    "Param3": "HitDamage,DamageNum,140502001",
+    "Param4": "OnceAdditionalAttributeValue,NoLevel,14002011,AttributeType1,Enum,EAT",
+    "Param5": "OnceAdditionalAttributeValue,NoLevel,14002011,Value1,10KHdPct"
   },
   "514003": {
     "Id": 514003,
@@ -28755,9 +28784,12 @@
     "IsEffective": true,
     "SpBg": "Icon/Potential/Sp_Potential_bg_03",
     "SpFace": "Icon/Potential/Sp_Potential_char_140_03",
-    "EffectId1": 14003011,
     "BriefDesc": "Potential.514003.1",
-    "Desc": "Potential.514003.2"
+    "Desc": "Potential.514003.2",
+    "Param1": "HitDamage,DamageNum,140503001",
+    "Param2": "ShieldValue,NoLevel,14003011,ReferenceScale,10KHdPct",
+    "Param3": "OnceAdditionalAttributeValue,NoLevel,14003011,AttributeType1,Enum,EAT",
+    "Param4": "OnceAdditionalAttributeValue,NoLevel,14003011,Value1,10KHdPct"
   },
   "514004": {
     "Id": 514004,
@@ -28779,7 +28811,9 @@
     "SpBg": "Icon/Potential/Sp_Potential_bg_04",
     "SpFace": "Icon/Potential/Sp_Potential_char_140_04",
     "BriefDesc": "Potential.514004.1",
-    "Desc": "Potential.514004.2"
+    "Desc": "Potential.514004.2",
+    "Param1": "OnceAdditionalAttributeValue,NoLevel,14004011,AttributeType1,Enum,EAT",
+    "Param2": "OnceAdditionalAttributeValue,NoLevel,14004011,Value1,10KHdPct"
   },
   "514005": {
     "Id": 514005,
@@ -28804,7 +28838,11 @@
     "IsEffective": true,
     "Corner": 1,
     "BriefDesc": "Potential.514005.1",
-    "Desc": "Potential.514005.2"
+    "Desc": "Potential.514005.2",
+    "Param1": "Effect,LevelUp,14005001,EffectTypeFirstSubtype,Enum,EAT",
+    "Param2": "Effect,LevelUp,14005001,EffectTypeParam1,HdPct",
+    "Param3": "BuffValue,NoLevel,14005011,Time,10K",
+    "Param4": "BuffValue,NoLevel,14005011,LaminatedNum,Fixed"
   },
   "514006": {
     "Id": 514006,
@@ -28828,9 +28866,10 @@
     "EffectGroupId": 14006,
     "IsEffective": true,
     "Corner": 2,
-    "EffectId1": 14006001,
     "BriefDesc": "Potential.514006.1",
-    "Desc": "Potential.514006.2"
+    "Desc": "Potential.514006.2",
+    "Param1": "Effect,LevelUp,14006001,EffectTypeFirstSubtype,Enum,EAT",
+    "Param2": "Effect,LevelUp,14006001,EffectTypeParam1,HdPct"
   },
   "514007": {
     "Id": 514007,
@@ -28854,9 +28893,12 @@
     "EffectGroupId": 14007,
     "IsEffective": true,
     "Corner": 3,
-    "EffectId1": 14007001,
     "BriefDesc": "Potential.514007.1",
-    "Desc": "Potential.514007.2"
+    "Desc": "Potential.514007.2",
+    "Param1": "Effect,LevelUp,14007001,EffectTypeFirstSubtype,Enum,EAT",
+    "Param2": "Effect,LevelUp,14007001,EffectTypeParam1,HdPct",
+    "Param3": "BuffValue,NoLevel,14007011,Time,10K",
+    "Param4": "BuffValue,NoLevel,14007011,LaminatedNum,Fixed"
   },
   "514008": {
     "Id": 514008,
@@ -28881,12 +28923,14 @@
     "IsEffective": true,
     "Corner": 1,
     "BriefDesc": "Potential.514008.1",
-    "Desc": "Potential.514008.2"
+    "Desc": "Potential.514008.2",
+    "Param1": "HitDamage,DamageNum,140508001",
+    "Param2": "HitDamage,DamageNum,140508002"
   },
   "514009": {
     "Id": 514009,
     "CharId": 140,
-    "Build": 3,
+    "Build": 2,
     "BranchType": 3,
     "MaxLevel": 3,
     "ScoreGroupId": 401,
@@ -28906,7 +28950,8 @@
     "IsEffective": true,
     "Corner": 2,
     "BriefDesc": "Potential.514009.1",
-    "Desc": "Potential.514009.2"
+    "Desc": "Potential.514009.2",
+    "Param1": "HitDamage,DamageNum,140509001"
   },
   "514010": {
     "Id": 514010,
@@ -28931,7 +28976,14 @@
     "IsEffective": true,
     "Corner": 3,
     "BriefDesc": "Potential.514010.1",
-    "Desc": "Potential.514010.2"
+    "Desc": "Potential.514010.2",
+    "Param1": "Shield,LevelUp,14010001,ReferenceScale,10KHdPct",
+    "Param2": "Shield,LevelUp,14010001,Time,10K",
+    "Param3": "ScriptParameterValue,NoLevel,14010011,CommonData,10K",
+    "Param4": "Effect,LevelUp,14010002,EffectTypeFirstSubtype,Enum,EAT",
+    "Param5": "Effect,LevelUp,14010002,EffectTypeParam1,HdPct",
+    "Param6": "BuffValue,NoLevel,14010012,Time,10K",
+    "Param7": "BuffValue,NoLevel,14010012,LaminatedNum,Fixed"
   },
   "514011": {
     "Id": 514011,
@@ -28956,12 +29008,16 @@
     "IsEffective": true,
     "Corner": 1,
     "BriefDesc": "Potential.514011.1",
-    "Desc": "Potential.514011.2"
+    "Desc": "Potential.514011.2",
+    "Param1": "Effect,LevelUp,14011001,EffectTypeFirstSubtype,Enum,EAT",
+    "Param2": "Effect,LevelUp,14011001,EffectTypeParam1,HdPct",
+    "Param3": "BuffValue,NoLevel,14011011,Time,10K",
+    "Param4": "HitDamage,DamageNum,140511001"
   },
   "514012": {
     "Id": 514012,
     "CharId": 140,
-    "Build": 2,
+    "Build": 3,
     "BranchType": 3,
     "MaxLevel": 3,
     "ScoreGroupId": 401,
@@ -28981,7 +29037,11 @@
     "IsEffective": true,
     "Corner": 2,
     "BriefDesc": "Potential.514012.1",
-    "Desc": "Potential.514012.2"
+    "Desc": "Potential.514012.2",
+    "Param1": "Effect,LevelUp,14012001,EffectTypeFirstSubtype,Enum,EAT",
+    "Param2": "Effect,LevelUp,14012001,EffectTypeParam1,HdPct",
+    "Param3": "BuffValue,NoLevel,14012011,Time,10K",
+    "Param4": "ScriptParameterValue,NoLevel,14012011,CommonData,10K"
   },
   "514013": {
     "Id": 514013,
@@ -29006,7 +29066,9 @@
     "IsEffective": true,
     "Corner": 3,
     "BriefDesc": "Potential.514013.1",
-    "Desc": "Potential.514013.2"
+    "Desc": "Potential.514013.2",
+    "Param1": "OnceAdditionalAttribute,LevelUp,14013001,AttributeType1,Enum,EAT",
+    "Param2": "OnceAdditionalAttribute,LevelUp,14013001,Value1,10KHdPct"
   },
   "514021": {
     "Id": 514021,
@@ -29028,7 +29090,10 @@
     "SpBg": "Icon/Potential/Sp_Potential_bg_01",
     "SpFace": "Icon/Potential/Sp_Potential_char_140_01",
     "BriefDesc": "Potential.514021.1",
-    "Desc": "Potential.514021.2"
+    "Desc": "Potential.514021.2",
+    "Param1": "Skill,NoLevel,14032000,Title,Text",
+    "Param2": "OnceAdditionalAttributeValue,NoLevel,14021011,AttributeType1,Enum,EAT",
+    "Param3": "OnceAdditionalAttributeValue,NoLevel,14021011,Value1,10KHdPct"
   },
   "514022": {
     "Id": 514022,
@@ -29050,7 +29115,13 @@
     "SpBg": "Icon/Potential/Sp_Potential_bg_02",
     "SpFace": "Icon/Potential/Sp_Potential_char_140_02",
     "BriefDesc": "Potential.514022.1",
-    "Desc": "Potential.514022.2"
+    "Desc": "Potential.514022.2",
+    "Param1": "Skill,NoLevel,14032000,Title,Text",
+    "Param2": "EffectValue,NoLevel,14022012,EffectTypeFirstSubtype,Enum,EAT",
+    "Param3": "EffectValue,NoLevel,14022012,EffectTypeParam1,HdPct",
+    "Param4": "BuffValue,NoLevel,14022012,Time,10K",
+    "Param5": "HitDamage,DamageNum,140522001",
+    "Param6": "HitDamage,DamageNum,140522002"
   },
   "514023": {
     "Id": 514023,
@@ -29072,7 +29143,10 @@
     "SpBg": "Icon/Potential/Sp_Potential_bg_03",
     "SpFace": "Icon/Potential/Sp_Potential_char_140_03",
     "BriefDesc": "Potential.514023.1",
-    "Desc": "Potential.514023.2"
+    "Desc": "Potential.514023.2",
+    "Param1": "Skill,NoLevel,14032000,Title,Text",
+    "Param2": "ScriptParameterValue,NoLevel,14023011,CommonData,10K",
+    "Param3": "HitDamage,DamageNum,140523001"
   },
   "514024": {
     "Id": 514024,
@@ -29094,7 +29168,10 @@
     "SpBg": "Icon/Potential/Sp_Potential_bg_04",
     "SpFace": "Icon/Potential/Sp_Potential_char_140_04",
     "BriefDesc": "Potential.514024.1",
-    "Desc": "Potential.514024.2"
+    "Desc": "Potential.514024.2",
+    "Param2": "HitDamage,DamageNum,140524001",
+    "Param3": "OnceAdditionalAttributeValue,NoLevel,14024011,AttributeType1,Enum,EAT",
+    "Param4": "OnceAdditionalAttributeValue,NoLevel,14024011,Value1,10KHdPct"
   },
   "514025": {
     "Id": 514025,
@@ -29119,7 +29196,9 @@
     "IsEffective": true,
     "Corner": 1,
     "BriefDesc": "Potential.514025.1",
-    "Desc": "Potential.514025.2"
+    "Desc": "Potential.514025.2",
+    "Param1": "Skill,NoLevel,14032000,Title,Text",
+    "Param2": "HitDamage,DamageNum,140525001"
   },
   "514026": {
     "Id": 514026,
@@ -29144,7 +29223,11 @@
     "IsEffective": true,
     "Corner": 2,
     "BriefDesc": "Potential.514026.1",
-    "Desc": "Potential.514026.2"
+    "Desc": "Potential.514026.2",
+    "Param1": "Skill,NoLevel,14032000,Title,Text",
+    "Param2": "Effect,LevelUp,14026001,EffectTypeFirstSubtype,Enum,EAT",
+    "Param3": "Effect,LevelUp,14026001,EffectTypeParam1,HdPct",
+    "Param4": "BuffValue,NoLevel,14026011,Time,10K"
   },
   "514027": {
     "Id": 514027,
@@ -29169,7 +29252,12 @@
     "IsEffective": true,
     "Corner": 3,
     "BriefDesc": "Potential.514027.1",
-    "Desc": "Potential.514027.2"
+    "Desc": "Potential.514027.2",
+    "Param1": "Skill,NoLevel,14032000,Title,Text",
+    "Param2": "Effect,LevelUp,14027001,EffectTypeFirstSubtype,Enum,EAT",
+    "Param3": "Effect,LevelUp,14027001,EffectTypeParam1,HdPct",
+    "Param4": "BuffValue,NoLevel,14027011,Time,10K",
+    "Param5": "BuffValue,NoLevel,14027011,LaminatedNum,Fixed"
   },
   "514028": {
     "Id": 514028,
@@ -29194,7 +29282,9 @@
     "IsEffective": true,
     "Corner": 1,
     "BriefDesc": "Potential.514028.1",
-    "Desc": "Potential.514028.2"
+    "Desc": "Potential.514028.2",
+    "Param1": "OnceAdditionalAttribute,LevelUp,14028001,AttributeType1,Enum,EAT",
+    "Param2": "OnceAdditionalAttribute,LevelUp,14028001,Value1,10KHdPct"
   },
   "514029": {
     "Id": 514029,
@@ -29219,7 +29309,10 @@
     "IsEffective": true,
     "Corner": 2,
     "BriefDesc": "Potential.514029.1",
-    "Desc": "Potential.514029.2"
+    "Desc": "Potential.514029.2",
+    "Param1": "Effect,LevelUp,14029001,EffectTypeFirstSubtype,Enum,EAT",
+    "Param2": "Effect,LevelUp,14029001,EffectTypeParam1,HdPct",
+    "Param3": "BuffValue,NoLevel,14029011,Time,10K"
   },
   "514030": {
     "Id": 514030,
@@ -29244,7 +29337,11 @@
     "IsEffective": true,
     "Corner": 3,
     "BriefDesc": "Potential.514030.1",
-    "Desc": "Potential.514030.2"
+    "Desc": "Potential.514030.2",
+    "Param1": "Skill,NoLevel,14032000,Title,Text",
+    "Param2": "Effect,LevelUp,14030001,EffectTypeFirstSubtype,Enum,EAT",
+    "Param3": "Effect,LevelUp,14030001,EffectTypeParam1,HdPct",
+    "Param4": "BuffValue,NoLevel,14030011,Time,10K"
   },
   "514031": {
     "Id": 514031,
@@ -29269,7 +29366,9 @@
     "IsEffective": true,
     "Corner": 1,
     "BriefDesc": "Potential.514031.1",
-    "Desc": "Potential.514031.2"
+    "Desc": "Potential.514031.2",
+    "Param1": "Effect,LevelUp,14031001,EffectTypeFirstSubtype,Enum,EAT",
+    "Param2": "Effect,LevelUp,14031001,EffectTypeParam1,HdPct"
   },
   "514032": {
     "Id": 514032,
@@ -29294,7 +29393,13 @@
     "IsEffective": true,
     "Corner": 2,
     "BriefDesc": "Potential.514032.1",
-    "Desc": "Potential.514032.2"
+    "Desc": "Potential.514032.2",
+    "Param1": "Skill,NoLevel,14040000,Title,Text",
+    "Param2": "EffectValue,NoLevel,14032011,EffectTypeFirstSubtype,Enum,EAT",
+    "Param3": "EffectValue,NoLevel,14032011,EffectTypeParam1,HdPct",
+    "Param4": "Effect,LevelUp,14032002,EffectTypeFirstSubtype,Enum,EAT",
+    "Param5": "Effect,LevelUp,14032002,EffectTypeParam1,HdPct",
+    "Param6": "BuffValue,NoLevel,14032012,Time,10K"
   },
   "514033": {
     "Id": 514033,
@@ -29319,7 +29424,9 @@
     "IsEffective": true,
     "Corner": 3,
     "BriefDesc": "Potential.514033.1",
-    "Desc": "Potential.514033.2"
+    "Desc": "Potential.514033.2",
+    "Param1": "Effect,LevelUp,14033001,EffectTypeFirstSubtype,Enum,EAT",
+    "Param2": "Effect,LevelUp,14033001,EffectTypeParam1,HdPct"
   },
   "514041": {
     "Id": 514041,
@@ -29344,7 +29451,13 @@
     "IsEffective": true,
     "Corner": 1,
     "BriefDesc": "Potential.514041.1",
-    "Desc": "Potential.514041.2"
+    "Desc": "Potential.514041.2",
+    "Param1": "Skill,NoLevel,14040000,Title,Text",
+    "Param2": "Effect,LevelUp,14041001,EffectTypeFirstSubtype,Enum,EAT",
+    "Param3": "Effect,LevelUp,14041001,EffectTypeParam1,HdPct",
+    "Param4": "BuffValue,NoLevel,14041011,Time,10K",
+    "Param5": "HitDamage,DamageNum,140541001",
+    "Param6": "ScriptParameterValue,NoLevel,14041011,CommonData,10K"
   },
   "514042": {
     "Id": 514042,
@@ -29369,7 +29482,10 @@
     "IsEffective": true,
     "Corner": 2,
     "BriefDesc": "Potential.514042.1",
-    "Desc": "Potential.514042.2"
+    "Desc": "Potential.514042.2",
+    "Param1": "Skill,NoLevel,14040000,Title,Text",
+    "Param2": "BuffValue,NoLevel,14042011,Time,10K",
+    "Param3": "HitDamage,DamageNum,140542001"
   },
   "514043": {
     "Id": 514043,
@@ -29394,7 +29510,10 @@
     "IsEffective": true,
     "Corner": 3,
     "BriefDesc": "Potential.514043.1",
-    "Desc": "Potential.514043.2"
+    "Desc": "Potential.514043.2",
+    "Param1": "Skill,NoLevel,14040000,Title,Text",
+    "Param2": "Effect,LevelUp,14043001,EffectTypeFirstSubtype,Enum,EAT",
+    "Param3": "Effect,LevelUp,14043001,EffectTypeParam1,HdPct"
   },
   "514901": {
     "Id": 514901,

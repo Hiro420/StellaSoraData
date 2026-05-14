@@ -702,6 +702,36 @@
     "Desc": "MailTemplate.20203.3",
     "Type": 1
   },
+  "10701": {
+    "Id": 10701,
+    "Explanation": "穿透心壁的取景框活动结束倒计时邮件",
+    "Icon": "Icon/Head/head_12501",
+    "Author": "MailTemplate.10701.1",
+    "LetterPaper": "background2",
+    "Subject": "MailTemplate.10701.2",
+    "Desc": "MailTemplate.10701.3",
+    "Type": 1
+  },
+  "10702": {
+    "Id": 10702,
+    "Explanation": "穿透心壁的取景框活动结束货币转换邮件",
+    "Icon": "Icon/Head/head_12501",
+    "Author": "MailTemplate.10702.1",
+    "LetterPaper": "background2",
+    "Subject": "MailTemplate.10702.2",
+    "Desc": "MailTemplate.10702.3",
+    "Type": 1
+  },
+  "10703": {
+    "Id": 10703,
+    "Explanation": "穿透心壁的取景框活动任务结束未领取邮件",
+    "Icon": "Icon/Head/head_12501",
+    "Author": "MailTemplate.10703.1",
+    "LetterPaper": "background2",
+    "Subject": "MailTemplate.10703.2",
+    "Desc": "MailTemplate.10703.3",
+    "Type": 1
+  },
   "9999": {
     "Id": 9999,
     "Explanation": "商品延迟到账提示",
