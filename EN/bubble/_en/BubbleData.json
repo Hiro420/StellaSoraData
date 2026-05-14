@@ -16122,15 +16122,2676 @@
             ]
         }
     },
-    "vo_114_combat_ultskill_001": {
+    "vo_115_combat_battleClear_001": {
         "anim": {},
-        "text": {},
-        "time": {}
+        "text": {
+            "female_jp": [
+                "That was fun. But not enough.",
+                "",
+                "",
+                ""
+            ]
+        },
+        "time": {
+            "female_cn": [
+                5.2,
+                0,
+                0,
+                0
+            ],
+            "female_jp": [
+                3.392,
+                0,
+                0,
+                0
+            ]
+        }
+    },
+    "vo_115_combat_battleClear_002": {
+        "anim": {},
+        "text": {
+            "female_jp": [
+                "Eh... Over already?",
+                "",
+                "",
+                ""
+            ]
+        },
+        "time": {
+            "female_cn": [
+                2.438,
+                0,
+                0,
+                0
+            ],
+            "female_jp": [
+                2.249,
+                0,
+                0,
+                0
+            ]
+        }
+    },
+    "vo_115_combat_battleClear_003": {
+        "anim": {},
+        "text": {
+            "female_jp": [
+                "I want to play with toys more.",
+                "",
+                "",
+                ""
+            ]
+        },
+        "time": {
+            "female_cn": [
+                2,
+                0,
+                0,
+                0
+            ],
+            "female_jp": [
+                2.021,
+                0,
+                0,
+                0
+            ]
+        }
+    },
+    "vo_115_combat_chatLvUp_001": {
+        "anim": {},
+        "text": {
+            "female_jp": [
+                "Toys here ... are a little dangerous?",
+                "",
+                "",
+                ""
+            ]
+        },
+        "time": {
+            "female_cn": [
+                4.265,
+                0,
+                0,
+                0
+            ],
+            "female_jp": [
+                4.61,
+                0,
+                0,
+                0
+            ]
+        }
+    },
+    "vo_115_combat_chatNext_001": {
+        "anim": {},
+        "text": {
+            "female_jp": [
+                "A new amusement park...! Exciting!",
+                "",
+                "",
+                ""
+            ]
+        },
+        "time": {
+            "female_cn": [
+                3.774,
+                0,
+                0,
+                0
+            ],
+            "female_jp": [
+                3.287,
+                0,
+                0,
+                0
+            ]
+        }
+    },
+    "vo_115_combat_chat_001": {
+        "anim": {},
+        "text": {
+            "female_jp": [
+                "Sherlock, Sherlock~ Penguin ♪",
+                "",
+                "",
+                ""
+            ]
+        },
+        "time": {
+            "female_cn": [
+                4.106,
+                0,
+                0,
+                0
+            ],
+            "female_jp": [
+                3.122,
+                0,
+                0,
+                0
+            ]
+        }
+    },
+    "vo_115_combat_chat_002": {
+        "anim": {},
+        "text": {
+            "female_jp": [
+                "Don't tell professor that you came to the Monolith with me.",
+                "",
+                "",
+                ""
+            ]
+        },
+        "time": {
+            "female_cn": [
+                6.07,
+                0,
+                0,
+                0
+            ],
+            "female_jp": [
+                4.608,
+                0,
+                0,
+                0
+            ]
+        }
+    },
+    "vo_115_combat_chat_003": {
+        "anim": {},
+        "text": {
+            "female_jp": [
+                "Monoliths are more fun than school.",
+                "",
+                "",
+                ""
+            ]
+        },
+        "time": {
+            "female_cn": [
+                2.5,
+                0,
+                0,
+                0
+            ],
+            "female_jp": [
+                3.119,
+                0,
+                0,
+                0
+            ]
+        }
+    },
+    "vo_115_combat_chat_004": {
+        "anim": {},
+        "text": {
+            "female_jp": [
+                "It's okay, I won't be any trouble. It's our promise.",
+                "",
+                "",
+                ""
+            ]
+        },
+        "time": {
+            "female_cn": [
+                7.14,
+                0,
+                0,
+                0
+            ],
+            "female_jp": [
+                6.538,
+                0,
+                0,
+                0
+            ]
+        }
+    },
+    "vo_115_combat_chat_005": {
+        "anim": {},
+        "text": {
+            "female_cn": [
+                "I know lots of fun places. Follow me.",
+                "",
+                "",
+                ""
+            ],
+            "female_jp": [
+                "I know lots of fun places.",
+                "Follow me.",
+                "",
+                ""
+            ]
+        },
+        "time": {
+            "female_cn": [
+                5.6,
+                0,
+                0,
+                0
+            ],
+            "female_jp": [
+                3.5,
+                5.34,
+                0,
+                0
+            ]
+        }
+    },
+    "vo_115_combat_dead_001": {
+        "anim": {},
+        "text": {
+            "female_jp": [
+                "My head is spinning...",
+                "",
+                "",
+                ""
+            ]
+        },
+        "time": {
+            "female_cn": [
+                3.217,
+                0,
+                0,
+                0
+            ],
+            "female_jp": [
+                2.17,
+                0,
+                0,
+                0
+            ]
+        }
+    },
+    "vo_115_combat_dead_002": {
+        "anim": {},
+        "text": {
+            "female_jp": [
+                "This is boring...",
+                "",
+                "",
+                ""
+            ]
+        },
+        "time": {
+            "female_cn": [
+                3.11,
+                0,
+                0,
+                0
+            ],
+            "female_jp": [
+                1.676,
+                0,
+                0,
+                0
+            ]
+        }
+    },
+    "vo_115_combat_eventRoom_001": {
+        "anim": {},
+        "text": {
+            "female_jp": [
+                "Someone's here. Is it a scary person?",
+                "",
+                "",
+                ""
+            ]
+        },
+        "time": {
+            "female_cn": [
+                4.6,
+                0,
+                0,
+                0
+            ],
+            "female_jp": [
+                3.563,
+                0,
+                0,
+                0
+            ]
+        }
+    },
+    "vo_115_combat_perk_001": {
+        "anim": {},
+        "text": {
+            "female_jp": [
+                "A new ... toy?",
+                "",
+                "",
+                ""
+            ]
+        },
+        "time": {
+            "female_cn": [
+                2,
+                0,
+                0,
+                0
+            ],
+            "female_jp": [
+                2.369,
+                0,
+                0,
+                0
+            ]
+        }
+    },
+    "vo_115_combat_perk_002": {
+        "anim": {},
+        "text": {
+            "female_jp": [
+                "This... I like!",
+                "",
+                "",
+                ""
+            ]
+        },
+        "time": {
+            "female_cn": [
+                2,
+                0,
+                0,
+                0
+            ],
+            "female_jp": [
+                1.729,
+                0,
+                0,
+                0
+            ]
+        }
+    },
+    "vo_115_combat_perk_003": {
+        "anim": {},
+        "text": {
+            "female_jp": [
+                "I'm a good girl. I get ... rewards.",
+                "",
+                "",
+                ""
+            ]
+        },
+        "time": {
+            "female_cn": [
+                5.485,
+                0,
+                0,
+                0
+            ],
+            "female_jp": [
+                4.011,
+                0,
+                0,
+                0
+            ]
+        }
+    },
+    "vo_115_combat_restRoom_001": {
+        "anim": {},
+        "text": {
+            "female_jp": [
+                "Everyone, take a break.",
+                "",
+                "",
+                ""
+            ]
+        },
+        "time": {
+            "female_cn": [
+                3.205,
+                0,
+                0,
+                0
+            ],
+            "female_jp": [
+                1.463,
+                0,
+                0,
+                0
+            ]
+        }
+    },
+    "vo_115_combat_shopRoom_001": {
+        "anim": {},
+        "text": {
+            "female_jp": [
+                "A shop with an employee in green.",
+                "",
+                "",
+                ""
+            ]
+        },
+        "time": {
+            "female_cn": [
+                5.326,
+                0,
+                0,
+                0
+            ],
+            "female_jp": [
+                2.478,
+                0,
+                0,
+                0
+            ]
+        }
+    },
+    "vo_115_combat_subPerk_001": {
+        "anim": {},
+        "text": {
+            "female_jp": [
+                "Hands, holdy holdy. Now you're my friend ♪",
+                "",
+                "",
+                ""
+            ]
+        },
+        "time": {
+            "female_cn": [
+                3.941,
+                0,
+                0,
+                0
+            ],
+            "female_jp": [
+                5.87,
+                0,
+                0,
+                0
+            ]
+        }
+    },
+    "vo_115_combat_subPerk_002": {
+        "anim": {},
+        "text": {
+            "female_jp": [
+                "I'll take you to the sky!",
+                "",
+                "",
+                ""
+            ]
+        },
+        "time": {
+            "female_cn": [
+                2.314,
+                0,
+                0,
+                0
+            ],
+            "female_jp": [
+                2.731,
+                0,
+                0,
+                0
+            ]
+        }
     },
     "vo_115_combat_ultskill_001": {
         "anim": {},
-        "text": {},
-        "time": {}
+        "text": {
+            "female_jp": [
+                "Avalanche, beatdown mode—initiate attack.",
+                "",
+                "",
+                ""
+            ]
+        },
+        "time": {
+            "female_cn": [
+                4.666,
+                0,
+                0,
+                0
+            ],
+            "female_jp": [
+                6.074,
+                0,
+                0,
+                0
+            ]
+        }
+    },
+    "vo_115_combat_ultskill_002": {
+        "anim": {},
+        "text": {
+            "female_jp": [
+                "Unbeatable—Bon Bon Blade.",
+                "",
+                "",
+                ""
+            ]
+        },
+        "time": {
+            "female_cn": [
+                2.984,
+                0,
+                0,
+                0
+            ],
+            "female_jp": [
+                5.857,
+                0,
+                0,
+                0
+            ]
+        }
+    },
+    "vo_115_combat_ultskill_003": {
+        "anim": {},
+        "text": {
+            "female_jp": [
+                "Twinkle, tinkle, I will liven things up.",
+                "",
+                "",
+                ""
+            ]
+        },
+        "time": {
+            "female_cn": [
+                4.438,
+                0,
+                0,
+                0
+            ],
+            "female_jp": [
+                5.738,
+                0,
+                0,
+                0
+            ]
+        }
+    },
+    "vo_115_combat_ultskill_004": {
+        "anim": {},
+        "text": {
+            "female_jp": [
+                "Wanna play together? Then, first it's my turn. Yaah~",
+                "",
+                "",
+                ""
+            ]
+        },
+        "time": {
+            "female_cn": [
+                2.516,
+                0,
+                0,
+                0
+            ],
+            "female_jp": [
+                6.77,
+                0,
+                0,
+                0
+            ]
+        }
+    },
+    "vo_115_ui_affchat1_001": {
+        "anim": {
+            "female_cn": [
+                "presents_a",
+                "special_b",
+                "",
+                ""
+            ],
+            "female_jp": [
+                "presents_b",
+                "",
+                "",
+                ""
+            ]
+        },
+        "text": {
+            "female_jp": [
+                "Professor gave me this scarf. It got dirty so I washed it many times. Now it smells like sunshine.",
+                "",
+                "",
+                ""
+            ]
+        },
+        "time": {
+            "female_cn": [
+                3.8,
+                12.479,
+                0,
+                0
+            ],
+            "female_jp": [
+                9.502,
+                0,
+                0,
+                0
+            ]
+        }
+    },
+    "vo_115_ui_affchat2_001": {
+        "anim": {
+            "female_cn": [
+                "shy_a",
+                "",
+                "",
+                ""
+            ],
+            "female_jp": [
+                "chat_a",
+                "shy_a",
+                "",
+                ""
+            ]
+        },
+        "text": {
+            "female_cn": [
+                "yesterday I saw a tree monster. It had flowers growing on its body. They were very pretty... Here, Tyrant, I got one for you.",
+                "",
+                "",
+                ""
+            ],
+            "female_jp": [
+                "Yesterday I saw a tree monster. It had flowers growing on its body.",
+                "They were very pretty... Here, Tyrant, I got one for you.",
+                "",
+                ""
+            ]
+        },
+        "time": {
+            "female_cn": [
+                10.917,
+                0,
+                0,
+                0
+            ],
+            "female_jp": [
+                6.14,
+                12.299,
+                0,
+                0
+            ]
+        }
+    },
+    "vo_115_ui_affchat3_001": {
+        "anim": {
+            "female_cn": [
+                "think_a",
+                "",
+                "",
+                ""
+            ],
+            "female_jp": [
+                "think_a",
+                "",
+                "",
+                ""
+            ]
+        },
+        "text": {
+            "female_cn": [
+                "People I don't know are talking about nothing but things I don't know. I want friends, but school is boring.",
+                "",
+                "",
+                ""
+            ],
+            "female_jp": [
+                "People I don't know are talking about nothing but things I don't know.",
+                "I want friends, but school is boring.",
+                "",
+                ""
+            ]
+        },
+        "time": {
+            "female_cn": [
+                13.453,
+                0,
+                0,
+                0
+            ],
+            "female_jp": [
+                8.17,
+                12.466,
+                0,
+                0
+            ]
+        }
+    },
+    "vo_115_ui_affchat4_001": {
+        "anim": {
+            "female_cn": [
+                "presents_b",
+                "think_a",
+                "",
+                ""
+            ],
+            "female_jp": [
+                "presents_b",
+                "think_a",
+                "",
+                ""
+            ]
+        },
+        "text": {
+            "female_jp": [
+                "Yesterday, I found a room in the Monolith where lots of Glopos were taking a bath... Ah, I lied.",
+                "Yesterday I was at school, so I know nothing. Glopos? Bath? What do you mean?",
+                "",
+                ""
+            ]
+        },
+        "time": {
+            "female_cn": [
+                8.5,
+                17.736,
+                0,
+                0
+            ],
+            "female_jp": [
+                8.85,
+                19.499,
+                0,
+                0
+            ]
+        }
+    },
+    "vo_115_ui_affchat5_001": {
+        "anim": {
+            "female_cn": [
+                "think_a",
+                "shy_a",
+                "",
+                ""
+            ],
+            "female_jp": [
+                "chat_b",
+                "shy_a",
+                "",
+                ""
+            ]
+        },
+        "text": {
+            "female_jp": [
+                "Petting me is not good. Professor said it will stop me from growing taller.",
+                "But you're my most important friend. So I give you permission to pet me.",
+                "",
+                ""
+            ]
+        },
+        "time": {
+            "female_cn": [
+                14,
+                18.3,
+                0,
+                0
+            ],
+            "female_jp": [
+                6.58,
+                16.753,
+                0,
+                0
+            ]
+        }
+    },
+    "vo_115_ui_afflv1_001": {
+        "anim": {},
+        "text": {
+            "female_jp": [
+                "What do you want? I'll go get it from a Wishing Box for you.",
+                "",
+                "",
+                ""
+            ]
+        },
+        "time": {
+            "female_cn": [
+                8.526,
+                0,
+                0,
+                0
+            ],
+            "female_jp": [
+                5.783,
+                0,
+                0,
+                0
+            ]
+        }
+    },
+    "vo_115_ui_afflv2_001": {
+        "anim": {},
+        "text": {
+            "female_jp": [
+                "Tyrant plays with me, so Tyrant is my best friend. I like playing with Tyrant.",
+                "",
+                "",
+                ""
+            ]
+        },
+        "time": {
+            "female_cn": [
+                12.741,
+                0,
+                0,
+                0
+            ],
+            "female_jp": [
+                8.871,
+                0,
+                0,
+                0
+            ]
+        }
+    },
+    "vo_115_ui_afflv3_001": {
+        "anim": {},
+        "text": {
+            "female_cn": [
+                "Tyrant, do you like stars? I know a good place. When night comes, little stars floaty-floaty everywhere. Let's go see them together next time?",
+                "",
+                "",
+                ""
+            ],
+            "female_jp": [
+                "Tyrant, do you like stars? I know a good place.",
+                "When night comes, little stars floaty-floaty everywhere. Let's go see them together next time?",
+                "",
+                ""
+            ]
+        },
+        "time": {
+            "female_cn": [
+                14.591,
+                0,
+                0,
+                0
+            ],
+            "female_jp": [
+                6.14,
+                13.111,
+                0,
+                0
+            ]
+        }
+    },
+    "vo_115_ui_afflv4_001": {
+        "anim": {},
+        "text": {
+            "female_cn": [
+                "A place you can relax is home? Then the Monolith, the forest, the mountain of Sherlock plushies... And next to Tyrant. They're all my home.",
+                "",
+                "",
+                ""
+            ],
+            "female_jp": [
+                "A place you can relax is home? Then the Monolith, the forest, the mountain of Sherlock plushies...",
+                "And next to Tyrant. They're all my home.",
+                "",
+                ""
+            ]
+        },
+        "time": {
+            "female_cn": [
+                18.297,
+                0,
+                0,
+                0
+            ],
+            "female_jp": [
+                10.38,
+                15.055,
+                0,
+                0
+            ]
+        }
+    },
+    "vo_115_ui_birth_001": {
+        "anim": {
+            "female_cn": [
+                "presents_a",
+                "",
+                "",
+                ""
+            ],
+            "female_jp": [
+                "chat_a",
+                "",
+                "presents_b",
+                ""
+            ]
+        },
+        "text": {
+            "female_cn": [
+                "Professor was telling me. She said today is my birthday. Did I get one more step closer to adulthood? When I become an adult, will I get taller than I am now? My goal is to become bigger than Tyrant!",
+                "",
+                "",
+                ""
+            ],
+            "female_jp": [
+                "Professor was telling me. She said today is my birthday.",
+                "Did I get one more step closer to adulthood? When I become an adult, will I get taller than I am now?",
+                "My goal is to become bigger than Tyrant!",
+                ""
+            ]
+        },
+        "time": {
+            "female_cn": [
+                13.6,
+                0,
+                0,
+                0
+            ],
+            "female_jp": [
+                5.33,
+                15,
+                19.068,
+                0
+            ]
+        }
+    },
+    "vo_115_ui_charup_001": {
+        "anim": {},
+        "text": {
+            "female_jp": [
+                "I finished studying. But I didn't get it at all.",
+                "",
+                "",
+                ""
+            ]
+        },
+        "time": {
+            "female_cn": [
+                4.07,
+                0,
+                0,
+                0
+            ],
+            "female_jp": [
+                5.325,
+                0,
+                0,
+                0
+            ]
+        }
+    },
+    "vo_115_ui_discuss_001": {
+        "anim": {
+            "female_cn": [
+                "presents_a",
+                "think_a",
+                "",
+                ""
+            ],
+            "female_jp": [
+                "presents_a",
+                "think_a",
+                "",
+                ""
+            ]
+        },
+        "text": {
+            "female_jp": [
+                "I got sweets from big sis Amber.",
+                "Why \"big sis\"? That's just what big sis Amber told me. I don't know.",
+                "",
+                ""
+            ]
+        },
+        "time": {
+            "female_cn": [
+                5.7,
+                14.867,
+                0,
+                0
+            ],
+            "female_jp": [
+                3.61,
+                10.667,
+                0,
+                0
+            ]
+        }
+    },
+    "vo_115_ui_discuss_002": {
+        "anim": {
+            "female_cn": [
+                "presents_b",
+                "",
+                "",
+                ""
+            ],
+            "female_jp": [
+                "presents_b",
+                "",
+                "",
+                ""
+            ]
+        },
+        "text": {
+            "female_jp": [
+                "Noya is like a big doggy...==RT==So cute. Should I pet her?",
+                "",
+                "",
+                ""
+            ]
+        },
+        "time": {
+            "female_cn": [
+                4.721,
+                0,
+                0,
+                0
+            ],
+            "female_jp": [
+                6.981,
+                0,
+                0,
+                0
+            ]
+        }
+    },
+    "vo_115_ui_discuss_003": {
+        "anim": {
+            "female_cn": [
+                "chat_b",
+                "",
+                "",
+                ""
+            ],
+            "female_jp": [
+                "chat_b",
+                "",
+                "",
+                ""
+            ]
+        },
+        "text": {
+            "female_jp": [
+                "Iris is like a strict teacher. Scary...",
+                "",
+                "",
+                ""
+            ]
+        },
+        "time": {
+            "female_cn": [
+                10.4,
+                0,
+                0,
+                0
+            ],
+            "female_jp": [
+                4.186,
+                0,
+                0,
+                0
+            ]
+        }
+    },
+    "vo_115_ui_discuss_004": {
+        "anim": {
+            "female_cn": [
+                "presents_a",
+                "",
+                "",
+                ""
+            ],
+            "female_jp": [
+                "presents_a",
+                "",
+                "",
+                ""
+            ]
+        },
+        "text": {
+            "female_cn": [
+                "Professor is a good adult. Takes me out to play and gives me yummy food. She also drives away bad guys and protects me.",
+                "",
+                "",
+                ""
+            ],
+            "female_jp": [
+                "Professor is a good adult. Takes me out to play and gives me yummy food.",
+                "She also drives away bad guys and protects me.",
+                "",
+                ""
+            ]
+        },
+        "time": {
+            "female_cn": [
+                10.933,
+                0,
+                0,
+                0
+            ],
+            "female_jp": [
+                9.55,
+                13.785,
+                0,
+                0
+            ]
+        }
+    },
+    "vo_115_ui_discuss_005": {
+        "anim": {
+            "female_cn": [
+                "chat_b",
+                "think_a",
+                "",
+                ""
+            ],
+            "female_jp": [
+                "chat_b",
+                "",
+                "think_a",
+                ""
+            ]
+        },
+        "text": {
+            "female_cn": [
+                "A person in white clothes with a scythe chased off bad guys and healed my wounds.",
+                "But then... Research? She said she wanted me to help. But what is research? Does it mean she wants to play with me?",
+                "",
+                ""
+            ],
+            "female_jp": [
+                "A person in white clothes with a scythe chased off bad guys and healed my wounds.",
+                "But then... Research? She said she wanted me to help.",
+                "But what is research? Does it mean she wants to play with me?",
+                ""
+            ]
+        },
+        "time": {
+            "female_cn": [
+                13.5,
+                21.606,
+                0,
+                0
+            ],
+            "female_jp": [
+                10.3,
+                16.45,
+                23.365,
+                0
+            ]
+        }
+    },
+    "vo_115_ui_excharup_001": {
+        "anim": {},
+        "text": {
+            "female_jp": [
+                "Firefly, powered up.",
+                "",
+                "",
+                ""
+            ]
+        },
+        "time": {
+            "female_cn": [
+                2,
+                0,
+                0,
+                0
+            ],
+            "female_jp": [
+                2.648,
+                0,
+                0,
+                0
+            ]
+        }
+    },
+    "vo_115_ui_exhang_001": {
+        "anim": {
+            "female_cn": [
+                "shy_a",
+                "",
+                "",
+                ""
+            ],
+            "female_jp": [
+                "think_a",
+                "chat_a",
+                "",
+                ""
+            ]
+        },
+        "text": {
+            "female_cn": [
+                "Everyone's so busy, no one will play with me. I'm bored... But if I am to sneak out and play, now is my chance.",
+                "",
+                "",
+                ""
+            ],
+            "female_jp": [
+                "Everyone's so busy, no one will play with me. I'm bored...",
+                "But if I am to sneak out and play, now is my chance.",
+                "",
+                ""
+            ]
+        },
+        "time": {
+            "female_cn": [
+                11.625,
+                0,
+                0,
+                0
+            ],
+            "female_jp": [
+                7.87,
+                12.891,
+                0,
+                0
+            ]
+        }
+    },
+    "vo_115_ui_fullscreen_001": {
+        "anim": {
+            "female_cn": [
+                "special_a",
+                "",
+                "",
+                ""
+            ],
+            "female_jp": [
+                "special_b",
+                "",
+                "",
+                ""
+            ]
+        },
+        "text": {
+            "female_jp": [
+                "Softy and roundy... ♪ Sherlock is cute, I like ♪",
+                "",
+                "",
+                ""
+            ]
+        },
+        "time": {
+            "female_cn": [
+                12.867,
+                0,
+                0,
+                0
+            ],
+            "female_jp": [
+                6.348,
+                0,
+                0,
+                0
+            ]
+        }
+    },
+    "vo_115_ui_fullscreen_002": {
+        "anim": {
+            "female_cn": [
+                "special_b",
+                "",
+                "",
+                ""
+            ],
+            "female_jp": [
+                "special_b",
+                "",
+                "",
+                ""
+            ]
+        },
+        "text": {
+            "female_jp": [
+                "Fwah... I'm sleepy... I'm going to sleep. Can you tell me a story?",
+                "",
+                "",
+                ""
+            ]
+        },
+        "time": {
+            "female_cn": [
+                12.433,
+                0,
+                0,
+                0
+            ],
+            "female_jp": [
+                9.693,
+                0,
+                0,
+                0
+            ]
+        }
+    },
+    "vo_115_ui_gachaNew_001": {
+        "anim": {},
+        "text": {
+            "female_jp": [
+                "Hm... Are you here to take me back to school? Oh, you're not? Then let's play together!",
+                "",
+                "",
+                ""
+            ]
+        },
+        "time": {
+            "female_cn": [
+                9.05,
+                0,
+                0,
+                0
+            ],
+            "female_jp": [
+                10.654,
+                0,
+                0,
+                0
+            ]
+        }
+    },
+    "vo_115_ui_gacha_001": {
+        "anim": {},
+        "text": {
+            "female_jp": [
+                "Play ... just a little longer? Then I'll go home, really.",
+                "",
+                "",
+                ""
+            ]
+        },
+        "time": {
+            "female_cn": [
+                5.588,
+                0,
+                0,
+                0
+            ],
+            "female_jp": [
+                6.125,
+                0,
+                0,
+                0
+            ]
+        }
+    },
+    "vo_115_ui_greet_001": {
+        "anim": {
+            "female_cn": [
+                "chat_a",
+                "",
+                "",
+                ""
+            ],
+            "female_jp": [
+                "chat_a",
+                "",
+                "",
+                ""
+            ]
+        },
+        "text": {
+            "female_cn": [
+                "What's wrong, Tyrant? Wobbling around, imitating a Glopo? Hm? Just sleepy?",
+                "",
+                "",
+                ""
+            ],
+            "female_jp": [
+                "What's wrong, Tyrant? Wobbling around, imitating a Glopo?",
+                "Hm? Just sleepy?",
+                "",
+                ""
+            ]
+        },
+        "time": {
+            "female_cn": [
+                8.077,
+                0,
+                0,
+                0
+            ],
+            "female_jp": [
+                7.29,
+                10.307,
+                0,
+                0
+            ]
+        }
+    },
+    "vo_115_ui_greet_002": {
+        "anim": {
+            "female_cn": [
+                "presents_b",
+                "",
+                "",
+                ""
+            ],
+            "female_jp": [
+                "presents_b",
+                "",
+                "",
+                ""
+            ]
+        },
+        "text": {
+            "female_jp": [
+                "Tyrant, you wanna play with Sherlock as well?",
+                "",
+                "",
+                ""
+            ]
+        },
+        "time": {
+            "female_cn": [
+                8.416,
+                0,
+                0,
+                0
+            ],
+            "female_jp": [
+                3.373,
+                0,
+                0,
+                0
+            ]
+        }
+    },
+    "vo_115_ui_greetmorn_001": {
+        "anim": {
+            "female_cn": [
+                "presents_a",
+                "",
+                "",
+                ""
+            ],
+            "female_jp": [
+                "presents_a",
+                "",
+                "",
+                ""
+            ]
+        },
+        "text": {
+            "female_jp": [
+                "Get up, get up—",
+                "",
+                "",
+                ""
+            ]
+        },
+        "time": {
+            "female_cn": [
+                4.135,
+                0,
+                0,
+                0
+            ],
+            "female_jp": [
+                2.352,
+                0,
+                0,
+                0
+            ]
+        }
+    },
+    "vo_115_ui_greetnight_001": {
+        "anim": {
+            "female_cn": [
+                "think_a",
+                "",
+                "",
+                ""
+            ],
+            "female_jp": [
+                "think_a",
+                "",
+                "",
+                ""
+            ]
+        },
+        "text": {
+            "female_jp": [
+                "Fwaaah... Sleepy...",
+                "",
+                "",
+                ""
+            ]
+        },
+        "time": {
+            "female_cn": [
+                6.741,
+                0,
+                0,
+                0
+            ],
+            "female_jp": [
+                5.146,
+                0,
+                0,
+                0
+            ]
+        }
+    },
+    "vo_115_ui_greetnoon_001": {
+        "anim": {
+            "female_cn": [
+                "chat_b",
+                "",
+                "",
+                ""
+            ],
+            "female_jp": [
+                "chat_b",
+                "",
+                "",
+                ""
+            ]
+        },
+        "text": {
+            "female_jp": [
+                "Hungry... But I don't want carrots.",
+                "",
+                "",
+                ""
+            ]
+        },
+        "time": {
+            "female_cn": [
+                4.817,
+                0,
+                0,
+                0
+            ],
+            "female_jp": [
+                4.098,
+                0,
+                0,
+                0
+            ]
+        }
+    },
+    "vo_115_ui_hang_001": {
+        "anim": {
+            "female_cn": [
+                "presents_b",
+                "think_a",
+                "",
+                ""
+            ],
+            "female_jp": [
+                "chat_a",
+                "",
+                "",
+                ""
+            ]
+        },
+        "text": {
+            "female_jp": [
+                "Quiet... Ah. Sherlock is over there... Or so I thought, but it's just a bird.",
+                "",
+                "",
+                ""
+            ]
+        },
+        "time": {
+            "female_cn": [
+                8.2,
+                10.8,
+                0,
+                0
+            ],
+            "female_jp": [
+                10.253,
+                0,
+                0,
+                0
+            ]
+        }
+    },
+    "vo_115_ui_hang_002": {
+        "anim": {
+            "female_cn": [
+                "chat_b",
+                "",
+                "",
+                ""
+            ],
+            "female_jp": [
+                "chat_b",
+                "",
+                "",
+                ""
+            ]
+        },
+        "text": {
+            "female_jp": [
+                "Sherlock, are you bored? I'm super bored too.",
+                "",
+                "",
+                ""
+            ]
+        },
+        "time": {
+            "female_cn": [
+                5.463,
+                0,
+                0,
+                0
+            ],
+            "female_jp": [
+                6.695,
+                0,
+                0,
+                0
+            ]
+        }
+    },
+    "vo_115_ui_hfc_001": {
+        "anim": {
+            "female_cn": [
+                "presents_a",
+                "",
+                "",
+                ""
+            ],
+            "female_jp": [
+                "chat_a",
+                "",
+                "",
+                ""
+            ]
+        },
+        "text": {
+            "female_jp": [
+                "What?",
+                "",
+                "",
+                ""
+            ]
+        },
+        "time": {
+            "female_cn": [
+                2,
+                0,
+                0,
+                0
+            ],
+            "female_jp": [
+                1,
+                0,
+                0,
+                0
+            ]
+        }
+    },
+    "vo_115_ui_hfc_002": {
+        "anim": {
+            "female_cn": [
+                "chat_b",
+                "",
+                "",
+                ""
+            ],
+            "female_jp": [
+                "chat_b",
+                "",
+                "",
+                ""
+            ]
+        },
+        "text": {
+            "female_jp": [
+                "My hair will get messy.",
+                "",
+                "",
+                ""
+            ]
+        },
+        "time": {
+            "female_cn": [
+                2.981,
+                0,
+                0,
+                0
+            ],
+            "female_jp": [
+                2.997,
+                0,
+                0,
+                0
+            ]
+        }
+    },
+    "vo_115_ui_logo_001": {
+        "anim": {},
+        "text": {
+            "female_jp": [
+                "Yostar",
+                "",
+                "",
+                ""
+            ]
+        },
+        "time": {
+            "female_cn": [
+                2.473,
+                0,
+                0,
+                0
+            ],
+            "female_jp": [
+                1.08,
+                0,
+                0,
+                0
+            ]
+        }
+    },
+    "vo_115_ui_lose_001": {
+        "anim": {},
+        "text": {
+            "female_jp": [
+                "It hurts...",
+                "",
+                "",
+                ""
+            ]
+        },
+        "time": {
+            "female_cn": [
+                2,
+                0,
+                0,
+                0
+            ],
+            "female_jp": [
+                1,
+                0,
+                0,
+                0
+            ]
+        }
+    },
+    "vo_115_ui_lose_002": {
+        "anim": {},
+        "text": {
+            "female_jp": [
+                "I'm a strong girl...",
+                "",
+                "",
+                ""
+            ]
+        },
+        "time": {
+            "female_cn": [
+                4.639,
+                0,
+                0,
+                0
+            ],
+            "female_jp": [
+                1.578,
+                0,
+                0,
+                0
+            ]
+        }
+    },
+    "vo_115_ui_music_001": {
+        "anim": {},
+        "text": {
+            "female_jp": [
+                "This ... is a nice sound. I like it.",
+                "",
+                "",
+                ""
+            ]
+        },
+        "time": {
+            "female_cn": [
+                3.249,
+                0,
+                0,
+                0
+            ],
+            "female_jp": [
+                3.67,
+                0,
+                0,
+                0
+            ]
+        }
+    },
+    "vo_115_ui_newyear_001": {
+        "anim": {
+            "female_cn": [
+                "special_b",
+                "",
+                "",
+                ""
+            ],
+            "female_jp": [
+                "special_b",
+                "",
+                "",
+                ""
+            ]
+        },
+        "text": {
+            "female_jp": [
+                "The calendar is brand new. The start of a new year. Will you play with me a lot this year too?",
+                "",
+                "",
+                ""
+            ]
+        },
+        "time": {
+            "female_cn": [
+                17.4,
+                0,
+                0,
+                0
+            ],
+            "female_jp": [
+                10.098,
+                0,
+                0,
+                0
+            ]
+        }
+    },
+    "vo_115_ui_posterchat_001": {
+        "anim": {
+            "female_cn": [
+                "think_a",
+                "presents_a",
+                "",
+                ""
+            ],
+            "female_jp": [
+                "think_a",
+                "presents_a",
+                "",
+                ""
+            ]
+        },
+        "text": {
+            "female_jp": [
+                "Are Monoliths dangerous places? No, not at all.",
+                "There are lots of toys and friends. I like it here ♪",
+                "",
+                ""
+            ]
+        },
+        "time": {
+            "female_cn": [
+                12.8,
+                15.535,
+                0,
+                0
+            ],
+            "female_jp": [
+                7.22,
+                15.266,
+                0,
+                0
+            ]
+        }
+    },
+    "vo_115_ui_posterchat_002": {
+        "anim": {
+            "female_cn": [
+                "chat_b",
+                "think_a",
+                "",
+                ""
+            ],
+            "female_jp": [
+                "chat_b",
+                "think_a",
+                "",
+                ""
+            ]
+        },
+        "text": {
+            "female_jp": [
+                "Carrots taste awful... But I have to eat them, or I won't grow taller.",
+                "Professor said so, so I'll endure and ea... Bweh.",
+                "",
+                ""
+            ]
+        },
+        "time": {
+            "female_cn": [
+                11.2,
+                17.85,
+                0,
+                0
+            ],
+            "female_jp": [
+                10.17,
+                16.753,
+                0,
+                0
+            ]
+        }
+    },
+    "vo_115_ui_posterchat_003": {
+        "anim": {
+            "female_cn": [
+                "think_a",
+                "chat_a",
+                "",
+                ""
+            ],
+            "female_jp": [
+                "chat_a",
+                "think_a",
+                "",
+                ""
+            ]
+        },
+        "text": {
+            "female_cn": [
+                "It's not a stray hair. This is my hair.",
+                "But... Sometimes it doesn't listen to me, and wags around on its own... Sigh, what a bother.",
+                "",
+                ""
+            ],
+            "female_jp": [
+                "It's not a stray hair. This is my hair.",
+                "But... Sometimes it doesn't listen to me, and wags around on its own...",
+                "Sigh, what a bother.",
+                ""
+            ]
+        },
+        "time": {
+            "female_cn": [
+                4,
+                12.947,
+                0,
+                0
+            ],
+            "female_jp": [
+                6.29,
+                14.15,
+                16.908,
+                0
+            ]
+        }
+    },
+    "vo_115_ui_posterchat_004": {
+        "anim": {
+            "female_cn": [
+                "presents_b",
+                "",
+                "",
+                ""
+            ],
+            "female_jp": [
+                "presents_b",
+                "",
+                "",
+                ""
+            ]
+        },
+        "text": {
+            "female_jp": [
+                "How do I spend time off? Go to the forest... Go to Monoliths... And play with Sherlock.",
+                "",
+                "",
+                ""
+            ]
+        },
+        "time": {
+            "female_cn": [
+                8.587,
+                0,
+                0,
+                0
+            ],
+            "female_jp": [
+                9.559,
+                0,
+                0,
+                0
+            ]
+        }
+    },
+    "vo_115_ui_posterchat_005": {
+        "anim": {
+            "female_cn": [
+                "special_b",
+                "think_a",
+                "",
+                ""
+            ],
+            "female_jp": [
+                "special_b",
+                "",
+                "",
+                ""
+            ]
+        },
+        "text": {
+            "female_jp": [
+                "Fluffy Sherlock! You're giving this to me? I'm so happy, thank you.",
+                "Return gift... I'll give you next time we meet, is that okay?",
+                "",
+                ""
+            ]
+        },
+        "time": {
+            "female_cn": [
+                4,
+                15.971,
+                0,
+                0
+            ],
+            "female_jp": [
+                8.86,
+                12.16,
+                0,
+                0
+            ]
+        }
+    },
+    "vo_115_ui_posterchat_006": {
+        "anim": {
+            "female_cn": [
+                "chat_a",
+                "",
+                "",
+                ""
+            ],
+            "female_jp": [
+                "chat_a",
+                "",
+                "",
+                ""
+            ]
+        },
+        "text": {
+            "female_cn": [
+                "Doing mean things to people is what bad children do. Professor said so. So I gave bad children spanking.",
+                "",
+                "",
+                ""
+            ],
+            "female_jp": [
+                "Doing mean things to people is what bad children do. Professor said so.",
+                "So I gave bad children spanking.",
+                "",
+                ""
+            ]
+        },
+        "time": {
+            "female_cn": [
+                15.932,
+                0,
+                0,
+                0
+            ],
+            "female_jp": [
+                6.17,
+                10.815,
+                0,
+                0
+            ]
+        }
+    },
+    "vo_115_ui_standee_001": {
+        "anim": {
+            "female_cn": [
+                "presents_a",
+                "",
+                "",
+                ""
+            ],
+            "female_jp": [
+                "presents_a",
+                "think_a",
+                "",
+                ""
+            ]
+        },
+        "text": {
+            "female_cn": [
+                "Wanna try touching Avalanche? Okay. Here—hm? Too heavy to lift up? But it's not heavy at all... Strange.",
+                "",
+                "",
+                ""
+            ],
+            "female_jp": [
+                "Wanna try touching Avalanche? Okay. Here—",
+                "Hm? Too heavy to lift up? But it's not heavy at all... Strange.",
+                "",
+                ""
+            ]
+        },
+        "time": {
+            "female_cn": [
+                9.849,
+                0,
+                0,
+                0
+            ],
+            "female_jp": [
+                7,
+                15.721,
+                0,
+                0
+            ]
+        }
+    },
+    "vo_115_ui_standee_002": {
+        "anim": {
+            "female_cn": [
+                "special_b",
+                "",
+                "",
+                ""
+            ],
+            "female_jp": [
+                "special_b",
+                "",
+                "",
+                ""
+            ]
+        },
+        "text": {
+            "female_jp": [
+                "It's okay. I will protect Tyrant.",
+                "",
+                "",
+                ""
+            ]
+        },
+        "time": {
+            "female_cn": [
+                3.558,
+                0,
+                0,
+                0
+            ],
+            "female_jp": [
+                4.355,
+                0,
+                0,
+                0
+            ]
+        }
+    },
+    "vo_115_ui_swap_001": {
+        "anim": {},
+        "text": {
+            "female_jp": [
+                "Here I go.",
+                "",
+                "",
+                ""
+            ]
+        },
+        "time": {
+            "female_cn": [
+                2.443,
+                0,
+                0,
+                0
+            ],
+            "female_jp": [
+                2.209,
+                0,
+                0,
+                0
+            ]
+        }
+    },
+    "vo_115_ui_swap_002": {
+        "anim": {},
+        "text": {
+            "female_jp": [
+                "Playing—I'm excited.",
+                "",
+                "",
+                ""
+            ]
+        },
+        "time": {
+            "female_cn": [
+                3.904,
+                0,
+                0,
+                0
+            ],
+            "female_jp": [
+                2.394,
+                0,
+                0,
+                0
+            ]
+        }
+    },
+    "vo_115_ui_swap_003": {
+        "anim": {},
+        "text": {
+            "female_jp": [
+                "Going out—so much fun.",
+                "",
+                "",
+                ""
+            ]
+        },
+        "time": {
+            "female_cn": [
+                3.467,
+                0,
+                0,
+                0
+            ],
+            "female_jp": [
+                2.793,
+                0,
+                0,
+                0
+            ]
+        }
+    },
+    "vo_115_ui_swap_004": {
+        "anim": {},
+        "text": {
+            "female_jp": [
+                "Will professor praise me?",
+                "",
+                "",
+                ""
+            ]
+        },
+        "time": {
+            "female_cn": [
+                4.625,
+                0,
+                0,
+                0
+            ],
+            "female_jp": [
+                3.198,
+                0,
+                0,
+                0
+            ]
+        }
+    },
+    "vo_115_ui_thankEx_001": {
+        "anim": {
+            "female_cn": [
+                "special_b",
+                "",
+                "",
+                ""
+            ],
+            "female_jp": [
+                "special_b",
+                "",
+                "",
+                ""
+            ]
+        },
+        "text": {
+            "female_cn": [
+                "Tyrant is always kind to me. So I will be kind to Tyrant too.",
+                "",
+                "",
+                ""
+            ],
+            "female_jp": [
+                "Tyrant is always kind to me.",
+                "So I will be kind to Tyrant too.",
+                "",
+                ""
+            ]
+        },
+        "time": {
+            "female_cn": [
+                6.673,
+                0,
+                0,
+                0
+            ],
+            "female_jp": [
+                4.94,
+                8.795,
+                0,
+                0
+            ]
+        }
+    },
+    "vo_115_ui_thankSmall_001": {
+        "anim": {
+            "female_cn": [
+                "presents_b",
+                "",
+                "",
+                ""
+            ],
+            "female_jp": [
+                "presents_b",
+                "",
+                "",
+                ""
+            ]
+        },
+        "text": {
+            "female_jp": [
+                "A present from Tyrant. My heart's racing. Can't wait.",
+                "",
+                "",
+                ""
+            ]
+        },
+        "time": {
+            "female_cn": [
+                4.1,
+                0,
+                0,
+                0
+            ],
+            "female_jp": [
+                6.536,
+                0,
+                0,
+                0
+            ]
+        }
+    },
+    "vo_115_ui_thank_001": {
+        "anim": {
+            "female_cn": [
+                "shy_a",
+                "",
+                "",
+                ""
+            ],
+            "female_jp": [
+                "shy_a",
+                "",
+                "",
+                ""
+            ]
+        },
+        "text": {
+            "female_jp": [
+                "Tyrant is my friend. I'll treasure this gift, thinking of it as Tyrant.",
+                "",
+                "",
+                ""
+            ]
+        },
+        "time": {
+            "female_cn": [
+                5.081,
+                0,
+                0,
+                0
+            ],
+            "female_jp": [
+                7.425,
+                0,
+                0,
+                0
+            ]
+        }
+    },
+    "vo_115_ui_uniMusic_001": {
+        "anim": {},
+        "text": {
+            "female_jp": [
+                "When did this happen?",
+                "",
+                "",
+                ""
+            ]
+        },
+        "time": {
+            "female_cn": [
+                4.352,
+                0,
+                0,
+                0
+            ],
+            "female_jp": [
+                2.524,
+                0,
+                0,
+                0
+            ]
+        }
+    },
+    "vo_115_ui_unlockCG_001": {
+        "anim": {},
+        "text": {
+            "female_jp": [
+                "Make memories together with me?",
+                "",
+                "",
+                ""
+            ]
+        },
+        "time": {
+            "female_cn": [
+                5.045,
+                0,
+                0,
+                0
+            ],
+            "female_jp": [
+                3.172,
+                0,
+                0,
+                0
+            ]
+        }
+    },
+    "vo_115_ui_unlockLook_001": {
+        "anim": {},
+        "text": {
+            "female_jp": [
+                "I'm not just an ordinary kid. So I can protect Tyrant well.",
+                "",
+                "",
+                ""
+            ]
+        },
+        "time": {
+            "female_cn": [
+                7.883,
+                0,
+                0,
+                0
+            ],
+            "female_jp": [
+                7.632,
+                0,
+                0,
+                0
+            ]
+        }
+    },
+    "vo_115_ui_valentine_001": {
+        "anim": {
+            "female_cn": [
+                "presents_b",
+                "think_a",
+                "",
+                ""
+            ],
+            "female_jp": [
+                "presents_b",
+                "presents_a",
+                "shy_a",
+                ""
+            ]
+        },
+        "text": {
+            "female_cn": [
+                "Today is a special day when you give chocolate to special friends. So... here, a present to you.==RT==",
+                "I couldn't tie the ribbon the way professor taught me very well, but... I did my best to wrap it.",
+                "",
+                ""
+            ],
+            "female_jp": [
+                "Today is a special day when you give chocolate to special friends.",
+                "So... Here, a present, from Firefly to Tyrant.",
+                "I couldn't tie the ribbon the way professor taught me very well, but... I did my best to wrap it.",
+                ""
+            ]
+        },
+        "time": {
+            "female_cn": [
+                13.2,
+                23.5,
+                0,
+                0
+            ],
+            "female_jp": [
+                6.51,
+                14.74,
+                23.486,
+                0
+            ]
+        }
+    },
+    "vo_115_ui_win_001": {
+        "anim": {},
+        "text": {
+            "female_jp": [
+                "Peace? Like this?",
+                "",
+                "",
+                ""
+            ]
+        },
+        "time": {
+            "female_cn": [
+                3.047,
+                0,
+                0,
+                0
+            ],
+            "female_jp": [
+                2.452,
+                0,
+                0,
+                0
+            ]
+        }
+    },
+    "vo_115_ui_win_002": {
+        "anim": {},
+        "text": {
+            "female_jp": [
+                "As a reward, please give me a new toy.",
+                "",
+                "",
+                ""
+            ]
+        },
+        "time": {
+            "female_cn": [
+                4.134,
+                0,
+                0,
+                0
+            ],
+            "female_jp": [
+                3.453,
+                0,
+                0,
+                0
+            ]
+        }
+    },
+    "vo_115_ui_xmas_001": {
+        "anim": {
+            "female_cn": [
+                "presents_a",
+                "",
+                "",
+                ""
+            ],
+            "female_jp": [
+                "chat_a",
+                "presents_a",
+                "",
+                ""
+            ]
+        },
+        "text": {
+            "female_cn": [
+                "It's completely white with snow everywhere ♪ I've been a good girl all year, so will the Snowish Festival Tree Spirit really grant my wish?",
+                "",
+                "",
+                ""
+            ],
+            "female_jp": [
+                "It's completely white with snow everywhere ♪",
+                "I've been a good girl all year, so will the Snowish Festival Tree Spirit really grant my wish?",
+                "",
+                ""
+            ]
+        },
+        "time": {
+            "female_cn": [
+                14,
+                0,
+                0,
+                0
+            ],
+            "female_jp": [
+                4.64,
+                13.099,
+                0,
+                0
+            ]
+        }
+    },
+    "vo_115_ui_yourbirth_001": {
+        "anim": {
+            "female_cn": [
+                "shy_a",
+                "special_b",
+                "",
+                ""
+            ],
+            "female_jp": [
+                "shy_a",
+                "",
+                "presents_b",
+                ""
+            ]
+        },
+        "text": {
+            "female_cn": [
+                "Today is your birthday. So I thought I would prepare a gift.",
+                "But... I don't have money, so instead, I found this in the forest. I don't know what it is, but... It's sparkly and pretty. Are you happy?",
+                "",
+                ""
+            ],
+            "female_jp": [
+                "Today is your birthday. So I thought I would prepare a gift.",
+                "But... I don't have money, so instead, I found this in the forest.",
+                "I don't know what it is, but... It's sparkly and pretty. Are you happy?",
+                ""
+            ]
+        },
+        "time": {
+            "female_cn": [
+                12.5,
+                20.9,
+                0,
+                0
+            ],
+            "female_jp": [
+                7.75,
+                15.53,
+                22.915,
+                0
+            ]
+        }
     },
     "vo_116_combat_battleClear_001": {
         "anim": {},
@@ -91344,6 +94005,508 @@
             ],
             "female_jp": [
                 2,
+                0,
+                0,
+                0
+            ]
+        }
+    },
+    "vo_story_115_001_confirm": {
+        "anim": {
+            "female_cn": [
+                "presents_b",
+                "",
+                "",
+                ""
+            ],
+            "female_jp": [
+                "presents_b",
+                "",
+                "",
+                ""
+            ]
+        },
+        "text": {
+            "female_jp": [
+                "Mhm.",
+                "",
+                "",
+                ""
+            ]
+        },
+        "time": {
+            "female_cn": [
+                2,
+                0,
+                0,
+                0
+            ],
+            "female_jp": [
+                1,
+                0,
+                0,
+                0
+            ]
+        }
+    },
+    "vo_story_115_002_deny": {
+        "anim": {
+            "female_cn": [
+                "chat_b",
+                "",
+                "",
+                ""
+            ],
+            "female_jp": [
+                "chat_b",
+                "",
+                "",
+                ""
+            ]
+        },
+        "text": {
+            "female_jp": [
+                "No.",
+                "",
+                "",
+                ""
+            ]
+        },
+        "time": {
+            "female_cn": [
+                2,
+                0,
+                0,
+                0
+            ],
+            "female_jp": [
+                1,
+                0,
+                0,
+                0
+            ]
+        }
+    },
+    "vo_story_115_003_question": {
+        "anim": {
+            "female_cn": [
+                "think_a",
+                "",
+                "",
+                ""
+            ],
+            "female_jp": [
+                "think_a",
+                "",
+                "",
+                ""
+            ]
+        },
+        "text": {
+            "female_jp": [
+                "Eh?",
+                "",
+                "",
+                ""
+            ]
+        },
+        "time": {
+            "female_cn": [
+                2,
+                0,
+                0,
+                0
+            ],
+            "female_jp": [
+                1,
+                0,
+                0,
+                0
+            ]
+        }
+    },
+    "vo_story_115_004_confuse": {
+        "anim": {
+            "female_cn": [
+                "think_a",
+                "",
+                "",
+                ""
+            ],
+            "female_jp": [
+                "think_a",
+                "",
+                "",
+                ""
+            ]
+        },
+        "text": {
+            "female_jp": [
+                "Hm?",
+                "",
+                "",
+                ""
+            ]
+        },
+        "time": {
+            "female_cn": [
+                2.3,
+                0,
+                0,
+                0
+            ],
+            "female_jp": [
+                1,
+                0,
+                0,
+                0
+            ]
+        }
+    },
+    "vo_story_115_005_sad": {
+        "anim": {
+            "female_cn": [
+                "chat_b",
+                "",
+                "",
+                ""
+            ],
+            "female_jp": [
+                "chat_b",
+                "",
+                "",
+                ""
+            ]
+        },
+        "text": {
+            "female_jp": [
+                "Uugh...",
+                "",
+                "",
+                ""
+            ]
+        },
+        "time": {
+            "female_cn": [
+                2,
+                0,
+                0,
+                0
+            ],
+            "female_jp": [
+                1,
+                0,
+                0,
+                0
+            ]
+        }
+    },
+    "vo_story_115_006_excit": {
+        "anim": {
+            "female_cn": [
+                "presents_b",
+                "",
+                "",
+                ""
+            ],
+            "female_jp": [
+                "presents_a",
+                "",
+                "",
+                ""
+            ]
+        },
+        "text": {
+            "female_jp": [
+                "Ohh...",
+                "",
+                "",
+                ""
+            ]
+        },
+        "time": {
+            "female_cn": [
+                2,
+                0,
+                0,
+                0
+            ],
+            "female_jp": [
+                1,
+                0,
+                0,
+                0
+            ]
+        }
+    },
+    "vo_story_115_007_angry": {
+        "anim": {
+            "female_cn": [
+                "special_a",
+                "",
+                "",
+                ""
+            ],
+            "female_jp": [
+                "special_a",
+                "",
+                "",
+                ""
+            ]
+        },
+        "text": {
+            "female_jp": [
+                "Grr...",
+                "",
+                "",
+                ""
+            ]
+        },
+        "time": {
+            "female_cn": [
+                2,
+                0,
+                0,
+                0
+            ],
+            "female_jp": [
+                1,
+                0,
+                0,
+                0
+            ]
+        }
+    },
+    "vo_story_115_008_happy": {
+        "anim": {
+            "female_cn": [
+                "presents_a",
+                "",
+                "",
+                ""
+            ],
+            "female_jp": [
+                "presents_b",
+                "",
+                "",
+                ""
+            ]
+        },
+        "text": {
+            "female_jp": [
+                "Yay!",
+                "",
+                "",
+                ""
+            ]
+        },
+        "time": {
+            "female_cn": [
+                2,
+                0,
+                0,
+                0
+            ],
+            "female_jp": [
+                1,
+                0,
+                0,
+                0
+            ]
+        }
+    },
+    "vo_story_115_009_sigh": {
+        "anim": {
+            "female_cn": [
+                "chat_b",
+                "",
+                "",
+                ""
+            ],
+            "female_jp": [
+                "chat_b",
+                "",
+                "",
+                ""
+            ]
+        },
+        "text": {
+            "female_jp": [
+                "Sigh...",
+                "",
+                "",
+                ""
+            ]
+        },
+        "time": {
+            "female_cn": [
+                2,
+                0,
+                0,
+                0
+            ],
+            "female_jp": [
+                1,
+                0,
+                0,
+                0
+            ]
+        }
+    },
+    "vo_story_115_010_catchphrase": {
+        "anim": {
+            "female_jp": [
+                "chat_a",
+                "",
+                "",
+                ""
+            ]
+        },
+        "text": {
+            "female_jp": [
+                "Play with me?",
+                "",
+                "",
+                ""
+            ]
+        },
+        "time": {
+            "female_cn": [
+                2,
+                0,
+                0,
+                0
+            ],
+            "female_jp": [
+                1.374,
+                0,
+                0,
+                0
+            ]
+        }
+    },
+    "vo_story_115_011_catchphrase": {
+        "anim": {
+            "female_jp": [
+                "chat_b",
+                "",
+                "",
+                ""
+            ]
+        },
+        "text": {
+            "female_jp": [
+                "I was playing with it, and it broke... Sad...",
+                "",
+                "",
+                ""
+            ]
+        },
+        "time": {
+            "female_cn": [
+                4.661,
+                0,
+                0,
+                0
+            ],
+            "female_jp": [
+                4.906,
+                0,
+                0,
+                0
+            ]
+        }
+    },
+    "vo_story_115_012_catchphrase": {
+        "anim": {
+            "female_jp": [
+                "presents_b",
+                "",
+                "",
+                ""
+            ]
+        },
+        "text": {
+            "female_jp": [
+                "Wanna go to the forest? Then, I'll guide you.",
+                "",
+                "",
+                ""
+            ]
+        },
+        "time": {
+            "female_cn": [
+                3.6,
+                0,
+                0,
+                0
+            ],
+            "female_jp": [
+                4.527,
+                0,
+                0,
+                0
+            ]
+        }
+    },
+    "vo_story_115_013_catchphrase": {
+        "anim": {
+            "female_jp": [
+                "think_a",
+                "",
+                "",
+                ""
+            ]
+        },
+        "text": {
+            "female_jp": [
+                "I'm not picky about food.",
+                "",
+                "",
+                ""
+            ]
+        },
+        "time": {
+            "female_cn": [
+                2,
+                0,
+                0,
+                0
+            ],
+            "female_jp": [
+                4.071,
+                0,
+                0,
+                0
+            ]
+        }
+    },
+    "vo_story_115_014_catchphrase": {
+        "anim": {
+            "female_jp": [
+                "presents_b",
+                "",
+                "",
+                ""
+            ]
+        },
+        "text": {
+            "female_jp": [
+                "Fluff! Fluff!",
+                "",
+                "",
+                ""
+            ]
+        },
+        "time": {
+            "female_cn": [
+                2.95,
+                0,
+                0,
+                0
+            ],
+            "female_jp": [
+                1.72,
                 0,
                 0,
                 0

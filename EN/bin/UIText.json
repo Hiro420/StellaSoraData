@@ -1515,6 +1515,10 @@
     "Id": "PenguinCard_CardLevel",
     "Text": "UIText.PenguinCard_CardLevel.1"
   },
+  "PenguinCard_CardLevelMax": {
+    "Id": "PenguinCard_CardLevelMax",
+    "Text": "UIText.PenguinCard_CardLevelMax.1"
+  },
   "PenguinCard_Btn_NextRound": {
     "Id": "PenguinCard_Btn_NextRound",
     "Text": "UIText.PenguinCard_Btn_NextRound.1"
@@ -2982,6 +2986,10 @@
   "GoldenSpy_NoneFrozen": {
     "Id": "GoldenSpy_NoneFrozen",
     "Text": "UIText.GoldenSpy_NoneFrozen.1"
+  },
+  "StarTower_NPCOption_IllegalOption": {
+    "Id": "StarTower_NPCOption_IllegalOption",
+    "Text": "UIText.StarTower_NPCOption_IllegalOption.1"
   },
   "Level_2_5_1": {
     "Id": "Level_2_5_1",
@@ -14947,8 +14955,16 @@
     "Id": "TravelerDuel_FanLevelUp",
     "Text": "UIText.TravelerDuel_FanLevelUp.1"
   },
+  "BreakOut_Play_Tips": {
+    "Id": "BreakOut_Play_Tips",
+    "Text": "UIText.BreakOut_Play_Tips.1"
+  },
   "Activity_Story_UnlockPreId": {
     "Id": "Activity_Story_UnlockPreId",
     "Text": "UIText.Activity_Story_UnlockPreId.1"
+  },
+  "Potential_ValueMax_HInt": {
+    "Id": "Potential_ValueMax_HInt",
+    "Text": "UIText.Potential_ValueMax_HInt.1"
   }
 }

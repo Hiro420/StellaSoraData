@@ -7741,6 +7741,22 @@
     "TraceDuration": 10000,
     "Activate": true
   },
+  "509130102": {
+    "Id": 509130102,
+    "GroupId": 1,
+    "SkillId": 5091302,
+    "Priority": 1,
+    "Weight": 1,
+    "Rate": 10000,
+    "CD": 99990000,
+    "InitialCDPool": [
+      0
+    ],
+    "ReleaseDistance": 2000000,
+    "ReleaseAngle": 3600000,
+    "TraceDuration": 10000,
+    "Activate": true
+  },
   "509140101": {
     "Id": 509140101,
     "GroupId": 1,
@@ -16889,6 +16905,81 @@
     "ReleaseDistance": 990000,
     "ReleaseAngle": 3600000,
     "TraceDuration": 50000,
+    "Activate": true
+  },
+  "311020100": {
+    "Id": 311020100,
+    "GroupId": 1,
+    "SkillId": 3110201,
+    "Weight": 1,
+    "Rate": 10000,
+    "CD": 50000,
+    "InitialCDPool": [
+      0
+    ],
+    "ReleaseDistance": 100000,
+    "ReleaseAngle": 3600000,
+    "TraceDuration": 10000,
+    "Activate": true
+  },
+  "311020110": {
+    "Id": 311020110,
+    "GroupId": 1,
+    "SkillId": 3110202,
+    "Weight": 1,
+    "Rate": 10000,
+    "CD": 30000,
+    "InitialCDPool": [
+      0
+    ],
+    "ReleaseDistance": 100000,
+    "ReleaseAngle": 3600000,
+    "TraceDuration": 10000,
+    "Activate": true
+  },
+  "311020120": {
+    "Id": 311020120,
+    "GroupId": 1,
+    "SkillId": 3110203,
+    "Weight": 1,
+    "Rate": 10000,
+    "CD": 50000,
+    "InitialCDPool": [
+      0
+    ],
+    "ReleaseDistance": 100000,
+    "ReleaseAngle": 3600000,
+    "TraceDuration": 10000,
+    "Activate": true
+  },
+  "311020130": {
+    "Id": 311020130,
+    "GroupId": 1,
+    "SkillId": 3110204,
+    "Weight": 1,
+    "Rate": 10000,
+    "CD": 50000,
+    "InitialCDPool": [
+      0
+    ],
+    "ReleaseDistance": 100000,
+    "ReleaseAngle": 3600000,
+    "TraceDuration": 10000,
+    "Activate": true
+  },
+  "311020140": {
+    "Id": 311020140,
+    "GroupId": 1,
+    "SkillId": 3110205,
+    "Weight": 1,
+    "Rate": 10000,
+    "CD": 50000,
+    "InitialCDPool": [
+      0
+    ],
+    "ReleaseDistance": 100000,
+    "ReleaseAngle": 3600000,
+    "TraceDuration": 10000,
     "Activate": true
   },
   "11600001": {
