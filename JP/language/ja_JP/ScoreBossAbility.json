@@ -28,5 +28,9 @@
   "ScoreBossAbility.100013.1": "引雷招来",
   "ScoreBossAbility.100013.2": "首領が「落雷」を保有している間、自身の与えるダメージが<color=#ec6d21>&Param4&</color>増加し、3秒ごとに追加で4回小範囲にダメージを与える。\n味方が<color=#ec6d21>&Param1&</color>秒以内に、首領に印ダメージを累計<color=#ec6d21>&Param2&</color>回与えると、「落雷」は15秒間無効化され、その間首領のスキル被ダメージ強度が<color=#ec6d21>&Param3&</color>増加する。",
   "ScoreBossAbility.100014.1": "百錬成鋼",
-  "ScoreBossAbility.100014.2": "支援巡遊者がフィールドに<color=#ec6d21>&Param1&</color>秒残るごとに、自身と主力巡遊者は「モメンタム」を1獲得する。\n「モメンタム」1につき、スキルダメージ強度が<color=#ec6d21>&Param2&</color>増加し、通常攻撃ダメージ強度が<color=#ec6d21>&Param5&</color>増加する。この効果は最大<color=#ec6d21>&Param3&</color>回まで重複できる。「モメンタム」は<color=#ec6d21>&Param4&</color>秒間持続し、獲得するたびに持続時間がリセットされる。\n2体の支援巡遊者は、それぞれ独立して主力巡遊者に「モメンタム」を付与できる。重複上限および効果は個別に計算され、同時に存在できる。"
+  "ScoreBossAbility.100014.2": "支援巡遊者がフィールドに<color=#ec6d21>&Param1&</color>秒残るごとに、自身と主力巡遊者は「モメンタム」を1獲得する。\n「モメンタム」1につき、スキルダメージ強度が<color=#ec6d21>&Param2&</color>増加し、通常攻撃ダメージ強度が<color=#ec6d21>&Param5&</color>増加する。この効果は最大<color=#ec6d21>&Param3&</color>回まで重複できる。「モメンタム」は<color=#ec6d21>&Param4&</color>秒間持続し、獲得するたびに持続時間がリセットされる。\n2体の支援巡遊者は、それぞれ独立して主力巡遊者に「モメンタム」を付与できる。重複上限および効果は個別に計算され、同時に存在できる。",
+  "ScoreBossAbility.100015.1": "男爵の威厳",
+  "ScoreBossAbility.100015.2": "空壺ノ王は戦闘開始時に「レジスト」を1保有しており、5秒ごとに「レジスト」を1獲得する。「レジスト」1につき、空壺ノ王の被ダメージが<color=#ec6d21>&Param1&</color>減少する。この効果は<color=#ec6d21>&Param2&</color>回まで重複できる。\n味方の主力巡遊者が印を発動させた時、空壺ノ王は「レジスト」を1失い、さらにフィールド上の支援巡遊者に「アドレナリン」を1付与する。20秒間、「アドレナリン」1につき、ダメージが<color=#ec6d21>&Param3&</color>増加する。この効果は<color=#ec6d21>&Param4&</color>回まで重複できる。",
+  "ScoreBossAbility.100016.1": "烈風の鼓舞",
+  "ScoreBossAbility.100016.2": "首領が召喚した従者「フワフワバルーン」を<color=#ec6d21>&Param1&</color>体撃破するたびに、鼓舞を獲得し、<color=#ec6d21>&Param3&</color>秒間、チーム全体はスキルダメージ強度が<color=#ec6d21>&Param2&</color>増加する。\n主力巡遊者がスキルを発動するたびに、鼓舞の効果時間が<color=#ec6d21>&Param4&</color>秒延長される（最大<color=#ec6d21>&Param5&</color>秒まで）。"
 }
