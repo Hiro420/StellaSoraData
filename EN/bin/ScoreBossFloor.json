@@ -134,5 +134,13 @@
     "Theme": 111,
     "BGM": "roguelike_combatLiRong_setState",
     "LeaveTriggerEvent": "amb_roguelike_all_stop"
+  },
+  "1001019": {
+    "Id": 1001019,
+    "SceneName": "Levels/Roguelike/Roguelike_4/Roguelike_4_Boss_001",
+    "ConfigPrefabName": "Bossrush_FengShanJi_2",
+    "Theme": 109,
+    "BGM": "roguelike_combatFan_setState",
+    "LeaveTriggerEvent": "amb_roguelike_all_stop"
   }
 }
