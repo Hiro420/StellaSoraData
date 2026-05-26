@@ -7025,6 +7025,12 @@
     "Icon": "Icon/Buff/Icon_CommonBuff_AttackUp",
     "IsShow": true
   },
+  "631016010": {
+    "Id": 631016010,
+    "GroupId": 631016010,
+    "BuffTag1": -840770247,
+    "BindEffect": "FX/Bossrush/Buff/fx_common_buff_actor_strengthen"
+  },
   "100090310": {
     "Id": 100090310,
     "GroupId": 1000901

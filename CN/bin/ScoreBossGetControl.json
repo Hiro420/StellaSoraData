@@ -323,5 +323,37 @@
     "Value1": "675",
     "Value2": "8",
     "Value3": "5400"
+  },
+  "1021": {
+    "Id": 1021,
+    "ScoreBossBehavior": 25,
+    "ScoreBossType": 1,
+    "Name": "ScoreBossGetControl.1021.1",
+    "Desc": "ScoreBossGetControl.1021.2",
+    "IconSource": "Icon/MonsterSkill/Bossrush/Icon_Bossrush_DaGuanZi_004",
+    "OnceScore": 1350,
+    "MaxLimit": 5400,
+    "Param1": "ScoreBossGetControl,NoLevel,1021,Value1,Fixed",
+    "Param2": "ScoreBossGetControl,NoLevel,1021,Value2,Fixed",
+    "Param3": "ScoreBossGetControl,NoLevel,1021,Value3,Fixed",
+    "Value1": "1350",
+    "Value2": "4",
+    "Value3": "5400"
+  },
+  "1022": {
+    "Id": 1022,
+    "ScoreBossBehavior": 19,
+    "ScoreBossType": 1,
+    "Name": "ScoreBossGetControl.1022.1",
+    "Desc": "ScoreBossGetControl.1022.2",
+    "IconSource": "Icon/MonsterSkill/Bossrush/Icon_Bossrush_FengShanJi_002",
+    "OnceScore": 1080,
+    "MaxLimit": 5400,
+    "Param1": "ScoreBossGetControl,NoLevel,1022,Value1,Fixed",
+    "Param2": "ScoreBossGetControl,NoLevel,1022,Value2,Fixed",
+    "Param3": "ScoreBossGetControl,NoLevel,1022,Value3,Fixed",
+    "Value1": "1080",
+    "Value2": "5",
+    "Value3": "5400"
   }
 }
