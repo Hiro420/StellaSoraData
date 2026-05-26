@@ -46165,16 +46165,25 @@
     "EffectType": 12,
     "EffectTypeFirstSubtype": 53,
     "EffectTypeSecondSubtype": 1,
-    "EffectTypeParam1": "-0.15"
+    "EffectTypeParam1": "-0.08"
   },
   "631015020": {
     "Id": 631015020,
     "Tag": "1",
     "EffectRate": 100,
     "EffectType": 12,
-    "EffectTypeFirstSubtype": 1,
+    "EffectTypeFirstSubtype": 51,
     "EffectTypeSecondSubtype": 2,
-    "EffectTypeParam1": "0.2"
+    "EffectTypeParam1": "0.15"
+  },
+  "631016011": {
+    "Id": 631016011,
+    "Tag": "1",
+    "EffectRate": 100,
+    "EffectType": 12,
+    "EffectTypeFirstSubtype": 57,
+    "EffectTypeSecondSubtype": 2,
+    "EffectTypeParam1": "0.4"
   },
   "100010101": {
     "Id": 100010101,
