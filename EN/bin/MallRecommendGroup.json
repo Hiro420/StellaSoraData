@@ -12,11 +12,16 @@
     "Id": "1002",
     "Sort": 2,
     "PackageList": [
-      "pack.11_role",
-      "pack.11_role_s",
-      "pack.11_role_l",
-      "pack.11_gift",
-      "pack.11_res"
+      "pack.12_role",
+      "pack.12_role_s",
+      "pack.12_role_l",
+      "pack.12_gift",
+      "pack.12_res",
+      "pack.12_1_role",
+      "pack.12_1_role_s",
+      "pack.12_1_role_l",
+      "pack.12_1_gift",
+      "pack.12_1_res"
     ],
     "Name": "MallRecommendGroup.1002.1"
   },
@@ -24,9 +29,12 @@
     "Id": "1003",
     "Sort": 3,
     "PackageList": [
-      "pack.11_disc",
-      "pack.11_disc_s",
-      "pack.11_disc_l"
+      "pack.12_disc",
+      "pack.12_disc_s",
+      "pack.12_disc_l",
+      "pack.12_1_disc",
+      "pack.12_1_disc_s",
+      "pack.12_1_disc_l"
     ],
     "Name": "MallRecommendGroup.1003.1"
   },

@@ -758,5 +758,35 @@
     "Subject": "MailTemplate.910145.2",
     "Desc": "MailTemplate.910145.3",
     "Type": 1
+  },
+  "10801": {
+    "Id": 10801,
+    "Explanation": "心跳！柔光狂想曲 活动结束倒计时邮件",
+    "Icon": "Icon/Head/head_12501",
+    "Author": "MailTemplate.10801.1",
+    "LetterPaper": "background2",
+    "Subject": "MailTemplate.10801.2",
+    "Desc": "MailTemplate.10801.3",
+    "Type": 1
+  },
+  "10802": {
+    "Id": 10802,
+    "Explanation": "心跳！柔光狂想曲 活动结束货币转换邮件",
+    "Icon": "Icon/Head/head_12501",
+    "Author": "MailTemplate.10802.1",
+    "LetterPaper": "background2",
+    "Subject": "MailTemplate.10802.2",
+    "Desc": "MailTemplate.10802.3",
+    "Type": 1
+  },
+  "10803": {
+    "Id": 10803,
+    "Explanation": "心跳！柔光狂想曲 活动任务结束未领取邮件",
+    "Icon": "Icon/Head/head_12501",
+    "Author": "MailTemplate.10803.1",
+    "LetterPaper": "background2",
+    "Subject": "MailTemplate.10803.2",
+    "Desc": "MailTemplate.10803.3",
+    "Type": 1
   }
 }

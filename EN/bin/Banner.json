@@ -21,6 +21,17 @@
     "Param5": "0,0,0",
     "Param7": "1"
   },
+  "46": {
+    "Id": 46,
+    "BannerType": 9,
+    "bannerName": "banner_webgame_02_lang",
+    "Param1": "2026-06-23T12:00:00+08:00",
+    "Param2": "2026-07-07T10:59:59+08:00",
+    "Param3": "https://test-magicbox.stellasora.global/",
+    "Param4": "windows,android,ios",
+    "Param5": "0,0,0",
+    "Param7": "1"
+  },
   "2": {
     "Id": 2,
     "BannerType": 4,
@@ -253,5 +264,37 @@
     "Param1": "2026-05-14T12:00:00+08:00",
     "Param2": "2026-06-02T10:59:59+08:00",
     "Param3": "skin.98.10"
+  },
+  "40": {
+    "Id": 40,
+    "BannerType": 5,
+    "bannerName": "banner_pack_1_11_0_lang",
+    "Param1": "2026-06-02T12:00:00+08:00",
+    "Param2": "2026-06-23T10:59:59+08:00",
+    "Param3": "73"
+  },
+  "41": {
+    "Id": 41,
+    "BannerType": 6,
+    "bannerName": "banner_skin_10304_lang",
+    "Param1": "2026-06-02T12:00:00+08:00",
+    "Param2": "2026-06-30T10:59:59+08:00",
+    "Param3": "skin.98.11"
+  },
+  "42": {
+    "Id": 42,
+    "BannerType": 5,
+    "bannerName": "banner_pack_1_11_1_lang",
+    "Param1": "2026-06-16T12:00:00+08:00",
+    "Param2": "2026-07-07T10:59:59+08:00",
+    "Param3": "73"
+  },
+  "43": {
+    "Id": 43,
+    "BannerType": 6,
+    "bannerName": "banner_skin_11903_lang",
+    "Param1": "2026-06-16T12:00:00+08:00",
+    "Param2": "2026-07-07T10:59:59+08:00",
+    "Param3": "skin.98.02.1"
   }
 }
