@@ -15671,7 +15671,7 @@
       631015010
     ],
     "Time": -10000,
-    "LaminatedNum": 5,
+    "LaminatedNum": 10,
     "Num": 1,
     "TimeSuperposition": 2,
     "Timing": 2,
@@ -15686,6 +15686,20 @@
     ],
     "Time": 200000,
     "LaminatedNum": 5,
+    "Num": 1,
+    "TimeSuperposition": 2,
+    "Timing": 2,
+    "ReplaceType": true,
+    "ReplaceMode": true
+  },
+  "631016010": {
+    "Id": 631016010,
+    "Sort": 99,
+    "Effects": [
+      631016011
+    ],
+    "Time": 100000,
+    "LaminatedNum": 1,
     "Num": 1,
     "TimeSuperposition": 2,
     "Timing": 2,

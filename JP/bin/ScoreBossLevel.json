@@ -203,5 +203,29 @@
     "Image": "Icon/MapChallenge/boss_Tachie_09",
     "BG": "ImageAvg/AvgBg/tower_wind_light",
     "SummonLevelUp": true
+  },
+  "18": {
+    "Id": 18,
+    "FloorId": 1001009,
+    "MonsterId": 6310160,
+    "NonDamageScoreGet": 1021,
+    "ScoreBossAbility": 100015,
+    "ScoreGetSwitchGroup": 1010,
+    "Episode": "Icon/MapChallenge/cover_Bossrush_daguanzi",
+    "Image": "Icon/MapChallenge/boss_Tachie_12",
+    "BG": "Image/UIBG/tower_fire_earth",
+    "SummonLevelUp": true
+  },
+  "19": {
+    "Id": 19,
+    "FloorId": 1001019,
+    "MonsterId": 6310170,
+    "NonDamageScoreGet": 1022,
+    "ScoreBossAbility": 100016,
+    "ScoreGetSwitchGroup": 1009,
+    "Episode": "Icon/MapChallenge/cover_Bossrush_fengshanji",
+    "Image": "Icon/MapChallenge/boss_Tachie_10",
+    "BG": "ImageAvg/AvgBg/tower_wind_light",
+    "SummonLevelUp": true
   }
 }

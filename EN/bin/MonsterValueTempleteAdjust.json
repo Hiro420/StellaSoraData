@@ -5706,6 +5706,42 @@
     "LERFix": 250,
     "DERFix": 2000
   },
+  "6310170": {
+    "Id": 6310170,
+    "TemplateId": 9056,
+    "EET": 1,
+    "ResistEET": [
+      1
+    ],
+    "WeakEET": [
+      3,
+      4
+    ],
+    "WERFix": 2000,
+    "FERFix": 750,
+    "SERFix": 250,
+    "AERFix": 250,
+    "LERFix": 750,
+    "DERFix": 750
+  },
+  "6310171": {
+    "Id": 6310171,
+    "TemplateId": 9057,
+    "EET": 1,
+    "ResistEET": [
+      1
+    ],
+    "WeakEET": [
+      3,
+      4
+    ],
+    "WERFix": 2000,
+    "FERFix": 750,
+    "SERFix": 250,
+    "AERFix": 250,
+    "LERFix": 750,
+    "DERFix": 750
+  },
   "7100100": {
     "Id": "7100100",
     "TemplateId": 8610,

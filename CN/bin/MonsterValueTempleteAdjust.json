@@ -7225,6 +7225,42 @@
     "LERFix": 250,
     "DERFix": 2000
   },
+  "6310170": {
+    "Id": 6310170,
+    "TemplateId": 9056,
+    "EET": 1,
+    "ResistEET": [
+      1
+    ],
+    "WeakEET": [
+      3,
+      4
+    ],
+    "WERFix": 2000,
+    "FERFix": 750,
+    "SERFix": 250,
+    "AERFix": 250,
+    "LERFix": 750,
+    "DERFix": 750
+  },
+  "6310171": {
+    "Id": 6310171,
+    "TemplateId": 9057,
+    "EET": 1,
+    "ResistEET": [
+      1
+    ],
+    "WeakEET": [
+      3,
+      4
+    ],
+    "WERFix": 2000,
+    "FERFix": 750,
+    "SERFix": 250,
+    "AERFix": 250,
+    "LERFix": 750,
+    "DERFix": 750
+  },
   "7100100": {
     "Id": 7100100,
     "TemplateId": 8610,
@@ -14408,14 +14444,14 @@
     "TemplateId": 7885,
     "EET": 7,
     "WeakEET": [
-      4,
+      5,
       3
     ],
     "WERFix": 750,
     "FERFix": 750,
     "SERFix": 250,
-    "AERFix": 250,
-    "LERFix": 750,
+    "AERFix": 750,
+    "LERFix": 250,
     "DERFix": 750,
     "ToughnessRatio": -1500
   },
@@ -14424,14 +14460,14 @@
     "TemplateId": 7886,
     "EET": 7,
     "WeakEET": [
-      4,
+      5,
       3
     ],
     "WERFix": 750,
     "FERFix": 750,
     "SERFix": 250,
-    "AERFix": 250,
-    "LERFix": 750,
+    "AERFix": 750,
+    "LERFix": 250,
     "DERFix": 750
   },
   "7010127": {
@@ -14439,14 +14475,14 @@
     "TemplateId": 7885,
     "EET": 7,
     "WeakEET": [
-      4,
+      5,
       3
     ],
     "WERFix": 750,
     "FERFix": 750,
     "SERFix": 250,
-    "AERFix": 250,
-    "LERFix": 750,
+    "AERFix": 750,
+    "LERFix": 250,
     "DERFix": 750,
     "ToughnessRatio": -1500
   },
@@ -14455,15 +14491,15 @@
     "TemplateId": 7887,
     "EET": 7,
     "WeakEET": [
-      4,
+      5,
       3
     ],
     "HpRatio": -2000,
     "WERFix": 750,
     "FERFix": 750,
     "SERFix": 250,
-    "AERFix": 250,
-    "LERFix": 750,
+    "AERFix": 750,
+    "LERFix": 250,
     "DERFix": 750
   },
   "999": {
@@ -19823,6 +19859,182 @@
   "3090081": {
     "Id": 3090081,
     "TemplateId": 253,
+    "EET": 7,
+    "WERFix": 570,
+    "FERFix": 570,
+    "SERFix": 570,
+    "AERFix": 570,
+    "LERFix": 570,
+    "DERFix": 570
+  },
+  "3110001": {
+    "Id": 3110001,
+    "TemplateId": 266,
+    "EET": 7,
+    "WERFix": 570,
+    "FERFix": 570,
+    "SERFix": 570,
+    "AERFix": 570,
+    "LERFix": 570,
+    "DERFix": 570
+  },
+  "3110002": {
+    "Id": 3110002,
+    "TemplateId": 266,
+    "EET": 7,
+    "WERFix": 570,
+    "FERFix": 570,
+    "SERFix": 570,
+    "AERFix": 570,
+    "LERFix": 570,
+    "DERFix": 570
+  },
+  "3110003": {
+    "Id": 3110003,
+    "TemplateId": 266,
+    "EET": 7,
+    "WERFix": 570,
+    "FERFix": 570,
+    "SERFix": 570,
+    "AERFix": 570,
+    "LERFix": 570,
+    "DERFix": 570
+  },
+  "3110004": {
+    "Id": 3110004,
+    "TemplateId": 266,
+    "EET": 7,
+    "WERFix": 570,
+    "FERFix": 570,
+    "SERFix": 570,
+    "AERFix": 570,
+    "LERFix": 570,
+    "DERFix": 570
+  },
+  "3110011": {
+    "Id": 3110011,
+    "TemplateId": 266,
+    "EET": 7,
+    "WERFix": 570,
+    "FERFix": 570,
+    "SERFix": 570,
+    "AERFix": 570,
+    "LERFix": 570,
+    "DERFix": 570
+  },
+  "3110012": {
+    "Id": 3110012,
+    "TemplateId": 266,
+    "EET": 7,
+    "WERFix": 570,
+    "FERFix": 570,
+    "SERFix": 570,
+    "AERFix": 570,
+    "LERFix": 570,
+    "DERFix": 570
+  },
+  "3110013": {
+    "Id": 3110013,
+    "TemplateId": 266,
+    "EET": 7,
+    "WERFix": 570,
+    "FERFix": 570,
+    "SERFix": 570,
+    "AERFix": 570,
+    "LERFix": 570,
+    "DERFix": 570
+  },
+  "3110014": {
+    "Id": 3110014,
+    "TemplateId": 266,
+    "EET": 7,
+    "WERFix": 570,
+    "FERFix": 570,
+    "SERFix": 570,
+    "AERFix": 570,
+    "LERFix": 570,
+    "DERFix": 570
+  },
+  "3110021": {
+    "Id": 3110021,
+    "TemplateId": 267,
+    "EET": 7,
+    "WERFix": 570,
+    "FERFix": 570,
+    "SERFix": 570,
+    "AERFix": 570,
+    "LERFix": 570,
+    "DERFix": 570
+  },
+  "3110031": {
+    "Id": 3110031,
+    "TemplateId": 262,
+    "EET": 7,
+    "WERFix": 570,
+    "FERFix": 570,
+    "SERFix": 570,
+    "AERFix": 570,
+    "LERFix": 570,
+    "DERFix": 570
+  },
+  "3110032": {
+    "Id": 3110032,
+    "TemplateId": 263,
+    "EET": 7,
+    "WERFix": 570,
+    "FERFix": 570,
+    "SERFix": 570,
+    "AERFix": 570,
+    "LERFix": 570,
+    "DERFix": 570
+  },
+  "3110033": {
+    "Id": 3110033,
+    "TemplateId": 264,
+    "EET": 7,
+    "WERFix": 570,
+    "FERFix": 570,
+    "SERFix": 570,
+    "AERFix": 570,
+    "LERFix": 570,
+    "DERFix": 570
+  },
+  "3110034": {
+    "Id": 3110034,
+    "TemplateId": 265,
+    "EET": 7,
+    "WERFix": 570,
+    "FERFix": 570,
+    "SERFix": 570,
+    "AERFix": 570,
+    "LERFix": 570,
+    "DERFix": 570
+  },
+  "3110035": {
+    "Id": 3110035,
+    "TemplateId": 262,
+    "EET": 7,
+    "WERFix": 570,
+    "FERFix": 570,
+    "SERFix": 570,
+    "AERFix": 570,
+    "LERFix": 570,
+    "DERFix": 570
+  },
+  "3110036": {
+    "Id": 3110036,
+    "TemplateId": 263,
+    "EET": 7,
+    "WERFix": 570,
+    "FERFix": 570,
+    "SERFix": 570,
+    "AERFix": 570,
+    "LERFix": 570,
+    "DERFix": 570
+  },
+  "3110037": {
+    "Id": 3110037,
+    "TemplateId": 262,
     "EET": 7,
     "WERFix": 570,
     "FERFix": 570,

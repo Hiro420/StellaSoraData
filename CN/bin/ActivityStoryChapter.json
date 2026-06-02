@@ -1,27 +1,39 @@
 {
-  "20101": {
-    "Id": 20101,
-    "ActivityId": 2010102,
+  "2010102": {
+    "Id": 2010102,
+    "ChapterId": 20101,
     "ActivityGroupType": 2
   },
-  "10104": {
-    "Id": 10104,
-    "ActivityId": 1010402,
+  "1010402": {
+    "Id": 1010402,
+    "ChapterId": 10104,
     "ActivityGroupType": 1
   },
-  "10105": {
-    "Id": 10105,
-    "ActivityId": 1010502,
+  "1010502": {
+    "Id": 1010502,
+    "ChapterId": 10105,
     "ActivityGroupType": 1
   },
-  "10106": {
-    "Id": 10106,
-    "ActivityId": 1010602,
+  "1010602": {
+    "Id": 1010602,
+    "ChapterId": 10106,
     "ActivityGroupType": 1
   },
-  "10107": {
-    "Id": 10107,
-    "ActivityId": 1010702,
+  "1010702": {
+    "Id": 1010702,
+    "ChapterId": 10107,
+    "ActivityGroupType": 1
+  },
+  "1010802": {
+    "Id": 1010802,
+    "ChapterId": 10108,
+    "PersonalityId": 1,
+    "ActivityGroupType": 1,
+    "IsPersonalityTouchMainline": true
+  },
+  "1110002": {
+    "Id": 1110002,
+    "ChapterId": 11100,
     "ActivityGroupType": 1
   }
 }

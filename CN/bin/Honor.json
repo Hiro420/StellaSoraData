@@ -351,6 +351,15 @@
     "SubRes": "Icon/HonorTitle/HonorTitle_116010_S",
     "BGType": 2
   },
+  "116011": {
+    "Id": 116011,
+    "Name": "Honor.116011.1",
+    "Type": 1,
+    "TabType": 3,
+    "MainRes": "Icon/HonorTitle/HonorTitle_116011_L_lang",
+    "SubRes": "Icon/HonorTitle/HonorTitle_116011_S",
+    "BGType": 2
+  },
   "117001": {
     "Id": 117001,
     "Name": "Honor.117001.1",
@@ -457,6 +466,33 @@
     "TabType": 3,
     "MainRes": "Icon/HonorTitle/HonorTitle_117033_L_lang",
     "SubRes": "Icon/HonorTitle/HonorTitle_117033_S",
+    "BGType": 2
+  },
+  "117041": {
+    "Id": 117041,
+    "Name": "Honor.117041.1",
+    "Type": 1,
+    "TabType": 3,
+    "MainRes": "Icon/HonorTitle/HonorTitle_117041_L_lang",
+    "SubRes": "Icon/HonorTitle/HonorTitle_117041_S",
+    "BGType": 2
+  },
+  "117042": {
+    "Id": 117042,
+    "Name": "Honor.117042.1",
+    "Type": 1,
+    "TabType": 3,
+    "MainRes": "Icon/HonorTitle/HonorTitle_117042_L_lang",
+    "SubRes": "Icon/HonorTitle/HonorTitle_117042_S",
+    "BGType": 2
+  },
+  "117043": {
+    "Id": 117043,
+    "Name": "Honor.117043.1",
+    "Type": 1,
+    "TabType": 3,
+    "MainRes": "Icon/HonorTitle/HonorTitle_117043_L_lang",
+    "SubRes": "Icon/HonorTitle/HonorTitle_117043_S",
     "BGType": 2
   },
   "118001": {
@@ -646,6 +682,33 @@
     "TabType": 3,
     "MainRes": "Icon/HonorTitle/HonorTitle_118063_L",
     "SubRes": "Icon/HonorTitle/HonorTitle_118063_S",
+    "BGType": 2
+  },
+  "118071": {
+    "Id": 118071,
+    "Name": "Honor.118071.1",
+    "Type": 1,
+    "TabType": 3,
+    "MainRes": "Icon/HonorTitle/HonorTitle_118071_L",
+    "SubRes": "Icon/HonorTitle/HonorTitle_118071_S",
+    "BGType": 2
+  },
+  "118072": {
+    "Id": 118072,
+    "Name": "Honor.118072.1",
+    "Type": 1,
+    "TabType": 3,
+    "MainRes": "Icon/HonorTitle/HonorTitle_118072_L",
+    "SubRes": "Icon/HonorTitle/HonorTitle_118072_S",
+    "BGType": 2
+  },
+  "118073": {
+    "Id": 118073,
+    "Name": "Honor.118073.1",
+    "Type": 1,
+    "TabType": 3,
+    "MainRes": "Icon/HonorTitle/HonorTitle_118073_L",
+    "SubRes": "Icon/HonorTitle/HonorTitle_118073_S",
     "BGType": 2
   },
   "119011": {
@@ -1006,6 +1069,18 @@
     ],
     "MainRes": "Icon/HonorTitle/HonorTitle_Affinity_136_L",
     "SubRes": "Icon/HonorTitle/HonorTitle_Affinity_136_S",
+    "BGType": 1
+  },
+  "112140": {
+    "Id": 112140,
+    "Name": "Honor.112140.1",
+    "Type": 2,
+    "TabType": 2,
+    "Params": [
+      140
+    ],
+    "MainRes": "Icon/HonorTitle/HonorTitle_Affinity_140_L_lang",
+    "SubRes": "Icon/HonorTitle/HonorTitle_Affinity_140_S",
     "BGType": 1
   },
   "112141": {
