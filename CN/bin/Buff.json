@@ -6122,7 +6122,7 @@
     "GroupId": 14002011,
     "BuffTag1": 485153392,
     "BindEffect": "Actor/Character/14001/Buff/fx_14001_Buff_Main_Skill_Type_Gun_P02",
-    "Icon": "Icon/Buff/Icon_CommonBuff_Bleed",
+    "Icon": "Icon/Buff/Icon_14002",
     "IsShow": true
   },
   "14002012": {
@@ -6130,7 +6130,7 @@
     "GroupId": 14002012,
     "BuffTag1": 485153392,
     "BindEffect": "FX/Buff/fx_buff_crystal",
-    "Icon": "Icon/Buff/Icon_CommonBuff_DefenseDown",
+    "Icon": "Icon/Buff/Icon_LandCrystal",
     "IsShow": true
   },
   "14002013": {
@@ -6150,7 +6150,7 @@
     "Id": 14004011,
     "GroupId": 14004011,
     "BuffTag1": 943565682,
-    "Icon": "Icon/Buff/Icon_CommonBuff_AttackUp",
+    "Icon": "Icon/Buff/Icon_14004",
     "IsShow": true
   },
   "14005011": {
@@ -6199,7 +6199,7 @@
   },
   "14011011": {
     "Id": 14011011,
-    "GroupId": 14010011,
+    "GroupId": 14011011,
     "BuffTag1": 943565682,
     "BuffTag2": -719983267,
     "Icon": "Icon/Buff/Icon_CommonBuff_AttackUp",
@@ -6207,7 +6207,7 @@
   },
   "14012011": {
     "Id": 14012011,
-    "GroupId": 14010011,
+    "GroupId": 14012011,
     "BuffTag1": 943565682,
     "BuffTag2": -719983267,
     "Icon": "Icon/Buff/Icon_CommonBuff_AttackUp",
@@ -6313,6 +6313,30 @@
     "BuffTag2": -719983267,
     "Icon": "Icon/Buff/Icon_CommonBuff_AttackUp",
     "IsShow": true
+  },
+  "14096111": {
+    "Id": 14096111,
+    "GroupId": 14096111,
+    "BuffTag1": 943565682,
+    "BuffTag2": -719983267
+  },
+  "14096211": {
+    "Id": 14096211,
+    "GroupId": 14096211,
+    "BuffTag1": 943565682,
+    "BuffTag2": -719983267
+  },
+  "14096311": {
+    "Id": 14096311,
+    "GroupId": 14096311,
+    "BuffTag1": 943565682,
+    "BuffTag2": -719983267
+  },
+  "14096411": {
+    "Id": 14096411,
+    "GroupId": 14096411,
+    "BuffTag1": 943565682,
+    "BuffTag2": -719983267
   },
   "980131": {
     "Id": 980131,
@@ -8421,7 +8445,7 @@
   "311010000": {
     "Id": 311010000,
     "GroupId": 31101000,
-    "BindEffect": "Actor/Monster/31101GeLeiHuoEn/Buff/fx_m30931_buff_idle"
+    "BindEffect": "Actor/Monster/31101GeLeiHuoEn/Buff/fx_31101GeLeiHuoEn_buff_skill1"
   },
   "311010010": {
     "Id": 311010010,

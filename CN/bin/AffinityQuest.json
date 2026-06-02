@@ -2115,6 +2115,98 @@
     "AffinityExp": 500,
     "Param1": "16"
   },
+  "14001": {
+    "Id": 14001,
+    "Desc": "AffinityQuest.14001.1",
+    "SortId": 2,
+    "CharId": 140,
+    "CompleteCond": 78,
+    "CompleteCondParams": "[140,1]",
+    "AffinityExp": 100,
+    "Param1": "1"
+  },
+  "14002": {
+    "Id": 14002,
+    "Desc": "AffinityQuest.14002.1",
+    "SortId": 5,
+    "CharId": 140,
+    "CompleteCond": 73,
+    "CompleteCondParams": "[1,140]",
+    "AffinityExp": 150,
+    "Param1": "1"
+  },
+  "14003": {
+    "Id": 14003,
+    "Desc": "AffinityQuest.14003.1",
+    "SortId": 1,
+    "CharId": 140,
+    "CompleteCond": 13,
+    "CompleteCondParams": "[140,2]",
+    "AffinityExp": 50,
+    "Param1": "2"
+  },
+  "14004": {
+    "Id": 14004,
+    "Desc": "AffinityQuest.14004.1",
+    "SortId": 3,
+    "CharId": 140,
+    "CompleteCond": 9,
+    "CompleteCondParams": "[140,3]",
+    "AffinityExp": 100,
+    "Param1": "3"
+  },
+  "14005": {
+    "Id": 14005,
+    "Desc": "AffinityQuest.14005.1",
+    "SortId": 4,
+    "CharId": 140,
+    "CompleteCond": 526,
+    "CompleteCondParams": "[140,1,2300]",
+    "AffinityExp": 100,
+    "Param1": "1",
+    "Param2": "6"
+  },
+  "14006": {
+    "Id": 14006,
+    "Desc": "AffinityQuest.14006.1",
+    "SortId": 6,
+    "CharId": 140,
+    "CompleteCond": 13,
+    "CompleteCondParams": "[140,5]",
+    "AffinityExp": 150,
+    "Param1": "5"
+  },
+  "14007": {
+    "Id": 14007,
+    "Desc": "AffinityQuest.14007.1",
+    "SortId": 7,
+    "CharId": 140,
+    "CompleteCond": 79,
+    "CompleteCondParams": "[140,4]",
+    "AffinityExp": 150,
+    "Param1": "4"
+  },
+  "14008": {
+    "Id": 14008,
+    "Desc": "AffinityQuest.14008.1",
+    "SortId": 8,
+    "CharId": 140,
+    "CompleteCond": 526,
+    "CompleteCondParams": "[140,1,8040]",
+    "AffinityExp": 500,
+    "Param1": "1",
+    "Param2": "28"
+  },
+  "14009": {
+    "Id": 14009,
+    "Desc": "AffinityQuest.14009.1",
+    "SortId": 9,
+    "CharId": 140,
+    "CompleteCond": 525,
+    "CompleteCondParams": "[140,16]",
+    "AffinityExp": 500,
+    "Param1": "16"
+  },
   "14101": {
     "Id": 14101,
     "Desc": "AffinityQuest.14101.1",

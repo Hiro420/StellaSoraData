@@ -1,65 +1,58 @@
 {
   "1001": {
     "Id": "1001",
+    "Path": "UI/big_sprites/mallAdv.skin_10304_lang",
+    "Sort": 1,
+    "ItemId": "skin.98.11",
+    "ItemType": 4
+  },
+  "1002": {
+    "Id": "1002",
+    "Path": "UI/big_sprites/mallAdv.skin_11203_lang",
+    "Sort": 2,
+    "ItemId": "skin.98.01.1",
+    "ItemType": 4
+  },
+  "1003": {
+    "Id": "1003",
+    "Path": "UI/big_sprites/mallAdv.skin_11903_lang",
+    "Sort": 3,
+    "ItemId": "skin.98.02.1",
+    "ItemType": 4
+  },
+  "1004": {
+    "Id": "1004",
+    "Path": "UI/big_sprites/mallAdv.skin_13204_lang",
+    "Sort": 4,
+    "ItemId": "skin.98.10",
+    "ItemType": 4
+  },
+  "1005": {
+    "Id": "1005",
+    "Path": "UI/big_sprites/mallAdv.battlepass_12303_lang",
+    "Sort": 5,
+    "ItemId": "8",
+    "ItemType": 2
+  },
+  "1006": {
+    "Id": "1006",
     "Path": "UI/big_sprites/mallAdv.month_01",
     "Sort": 6,
     "ItemId": "401",
     "ItemType": 1
   },
-  "1002": {
-    "Id": "1002",
-    "Path": "UI/big_sprites/mallAdv.battlepass_12303_lang",
-    "Sort": 4,
-    "ItemId": "8",
-    "ItemType": 2
-  },
-  "1003": {
-    "Id": "1003",
-    "Path": "UI/big_sprites/mallAdv.battlepass_11603_lang",
-    "Sort": 5,
-    "ItemId": "7",
-    "ItemType": 2
-  },
-  "1004": {
-    "Id": "1004",
-    "Path": "UI/big_sprites/mallAdv.skin_14403_lang",
-    "Sort": 2,
-    "ItemId": "skin.98.08",
-    "ItemType": 4
-  },
-  "1005": {
-    "Id": "1005",
-    "Path": "UI/big_sprites/mallAdv.skin_15603_lang",
-    "Sort": 3,
-    "ItemId": "skin.98.09",
-    "ItemType": 4
-  },
-  "1006": {
-    "Id": "1006",
-    "Path": "UI/big_sprites/mallAdv.skin_13204_lang",
-    "Sort": 1,
-    "ItemId": "skin.98.10",
-    "ItemType": 4
-  },
   "1007": {
     "Id": "1007",
-    "Path": "UI/big_sprites/mallAdv.gift_05_01_lang",
-    "Sort": 8,
-    "ItemId": "pack.10_role_sel",
+    "Path": "UI/big_sprites/mallAdv.gift_07_lang",
+    "Sort": 7,
+    "ItemId": "pack.12_res",
     "ItemType": 3
   },
   "1008": {
     "Id": "1008",
-    "Path": "UI/big_sprites/mallAdv.gift_05_lang",
-    "Sort": 9,
-    "ItemId": "pack.10_res",
-    "ItemType": 3
-  },
-  "1009": {
-    "Id": "1009",
-    "Path": "UI/big_sprites/mallAdv.gift_06_lang",
-    "Sort": 7,
-    "ItemId": "pack.11_res",
+    "Path": "UI/big_sprites/mallAdv.gift_07_01_lang",
+    "Sort": 8,
+    "ItemId": "pack.12_1_res",
     "ItemType": 3
   }
 }

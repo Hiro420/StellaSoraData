@@ -160,5 +160,117 @@
     "Desc": "ActivityPenguinCardQuest.201010.1",
     "Item1": 1,
     "Qty1": 600000
+  },
+  "103001": {
+    "Id": 103001,
+    "Group": 301,
+    "FinishType": 134,
+    "FinishParams": "[1031,1]",
+    "Desc": "ActivityPenguinCardQuest.103001.1",
+    "Item1": 35001,
+    "Qty1": 100
+  },
+  "103002": {
+    "Id": 103002,
+    "Group": 301,
+    "FinishType": 134,
+    "FinishParams": "[1032,1]",
+    "Desc": "ActivityPenguinCardQuest.103002.1",
+    "Item1": 35002,
+    "Qty1": 100
+  },
+  "103003": {
+    "Id": 103003,
+    "Group": 301,
+    "FinishType": 134,
+    "FinishParams": "[1033,1]",
+    "Desc": "ActivityPenguinCardQuest.103003.1",
+    "Item1": 35003,
+    "Qty1": 100
+  },
+  "103004": {
+    "Id": 103004,
+    "Group": 301,
+    "FinishType": 134,
+    "FinishParams": "[1034,1]",
+    "Desc": "ActivityPenguinCardQuest.103004.1",
+    "Item1": 35000,
+    "Qty1": 20
+  },
+  "203001": {
+    "Id": 203001,
+    "Group": 302,
+    "FinishType": 151,
+    "FinishParams": "[800003,300000]",
+    "Desc": "ActivityPenguinCardQuest.203001.1",
+    "AimNumShow": 300000,
+    "Item1": 1,
+    "Qty1": 1500000
+  },
+  "203002": {
+    "Id": 203002,
+    "Group": 302,
+    "FinishType": 151,
+    "FinishParams": "[800003,600000]",
+    "Desc": "ActivityPenguinCardQuest.203002.1",
+    "AimNumShow": 600000,
+    "Item1": 1,
+    "Qty1": 1500000
+  },
+  "203003": {
+    "Id": 203003,
+    "Group": 302,
+    "FinishType": 151,
+    "FinishParams": "[800003,1000000]",
+    "Desc": "ActivityPenguinCardQuest.203003.1",
+    "AimNumShow": 1000000,
+    "Item1": 1,
+    "Qty1": 1500000
+  },
+  "203004": {
+    "Id": 203004,
+    "Group": 302,
+    "FinishType": 151,
+    "FinishParams": "[800003,2000000]",
+    "Desc": "ActivityPenguinCardQuest.203004.1",
+    "AimNumShow": 2000000,
+    "Item1": 1,
+    "Qty1": 1500000
+  },
+  "303001": {
+    "Id": 303001,
+    "Group": 303,
+    "FinishType": 133,
+    "FinishParams": "[200000]",
+    "Desc": "ActivityPenguinCardQuest.303001.1",
+    "Item1": 35001,
+    "Qty1": 100
+  },
+  "303002": {
+    "Id": 303002,
+    "Group": 303,
+    "FinishType": 133,
+    "FinishParams": "[300000]",
+    "Desc": "ActivityPenguinCardQuest.303002.1",
+    "Item1": 35003,
+    "Qty1": 100
+  },
+  "303003": {
+    "Id": 303003,
+    "Group": 303,
+    "FinishType": 133,
+    "FinishParams": "[400000]",
+    "Desc": "ActivityPenguinCardQuest.303003.1",
+    "Item1": 35002,
+    "Qty1": 100
+  },
+  "303004": {
+    "Id": 303004,
+    "Group": 303,
+    "FinishType": 133,
+    "FinishParams": "[500000]",
+    "Desc": "ActivityPenguinCardQuest.303004.1",
+    "Item1": 503,
+    "Qty1": 5
   }
 }
