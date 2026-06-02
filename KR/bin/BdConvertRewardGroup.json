@@ -790,5 +790,137 @@
     ],
     "Rewards": "{\"72015\":1}",
     "Des": "BdConvertRewardGroup.612.1"
+  },
+  "701": {
+    "Id": 701,
+    "GroupId": 7,
+    "CompleteCond": 48,
+    "CompleteCondParams": [
+      73201,
+      200
+    ],
+    "Rewards": "{\"1\":750000}",
+    "Des": "BdConvertRewardGroup.701.1"
+  },
+  "702": {
+    "Id": 702,
+    "GroupId": 7,
+    "CompleteCond": 48,
+    "CompleteCondParams": [
+      73201,
+      400
+    ],
+    "Rewards": "{\"30004\":50}",
+    "Des": "BdConvertRewardGroup.702.1"
+  },
+  "703": {
+    "Id": 703,
+    "GroupId": 7,
+    "CompleteCond": 48,
+    "CompleteCondParams": [
+      73201,
+      600
+    ],
+    "Rewards": "{\"50004\":80}",
+    "Des": "BdConvertRewardGroup.703.1"
+  },
+  "704": {
+    "Id": 704,
+    "GroupId": 7,
+    "CompleteCond": 48,
+    "CompleteCondParams": [
+      73201,
+      800
+    ],
+    "Rewards": "{\"1\":800000}",
+    "Des": "BdConvertRewardGroup.704.1"
+  },
+  "705": {
+    "Id": 705,
+    "GroupId": 7,
+    "CompleteCond": 48,
+    "CompleteCondParams": [
+      73201,
+      1000
+    ],
+    "Rewards": "{\"82001\":60}",
+    "Des": "BdConvertRewardGroup.705.1"
+  },
+  "706": {
+    "Id": 706,
+    "GroupId": 7,
+    "CompleteCond": 48,
+    "CompleteCondParams": [
+      73201,
+      1200
+    ],
+    "Rewards": "{\"82004\":90}",
+    "Des": "BdConvertRewardGroup.706.1"
+  },
+  "707": {
+    "Id": 707,
+    "GroupId": 7,
+    "CompleteCond": 48,
+    "CompleteCondParams": [
+      73201,
+      1400
+    ],
+    "Rewards": "{\"503\":2}",
+    "Des": "BdConvertRewardGroup.707.1"
+  },
+  "708": {
+    "Id": 708,
+    "GroupId": 7,
+    "CompleteCond": 48,
+    "CompleteCondParams": [
+      73201,
+      1600
+    ],
+    "Rewards": "{\"82001\":60}",
+    "Des": "BdConvertRewardGroup.708.1"
+  },
+  "709": {
+    "Id": 709,
+    "GroupId": 7,
+    "CompleteCond": 48,
+    "CompleteCondParams": [
+      73201,
+      1800
+    ],
+    "Rewards": "{\"82004\":90}",
+    "Des": "BdConvertRewardGroup.709.1"
+  },
+  "710": {
+    "Id": 710,
+    "GroupId": 7,
+    "CompleteCond": 48,
+    "CompleteCondParams": [
+      73201,
+      2000
+    ],
+    "Rewards": "{\"503\":2}",
+    "Des": "BdConvertRewardGroup.710.1"
+  },
+  "711": {
+    "Id": 711,
+    "GroupId": 7,
+    "CompleteCond": 48,
+    "CompleteCondParams": [
+      73201,
+      2200
+    ],
+    "Rewards": "{\"71016\":1}",
+    "Des": "BdConvertRewardGroup.711.1"
+  },
+  "712": {
+    "Id": 712,
+    "GroupId": 7,
+    "CompleteCond": 48,
+    "CompleteCondParams": [
+      73201,
+      2400
+    ],
+    "Rewards": "{\"72016\":1}",
+    "Des": "BdConvertRewardGroup.712.1"
   }
 }
