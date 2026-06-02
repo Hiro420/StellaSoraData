@@ -5609,6 +5609,261 @@
       "subIcon": "Round"
     }
   },
+  "140": {
+    "514001": {
+      "name": "Bunny-Ear Volley",
+      "briefDesc": "When Sparkla is in Bunny Rapid Fire Mode, activates Bunny Rapid Fire to deal damage. Can trigger Terra Mark. When in an All-Terra squad, increases Bunny Rapid Fire's Skill DMG.",
+      "type": "main",
+      "rarity": 0,
+      "imgId": "14001_Potential_01",
+      "id": 514001
+    },
+    "514002": {
+      "name": "Click-Clack Echoes",
+      "briefDesc": "Increases the Skill DMG of Bunny Rapid Fire Mode. When Sparkla deals damage with Bunny Rapid Fire Mode to a target, inflicts Stellar Crystal. At full stack, the target becomes Stellar Crystallized. Stellar Crystallized target will be stunned and immune to Stellar Crystal. When Sparkla deals damage with Bunny Rapid Fire Mode to a Stellar Crystallized target, deals additional damage. Can trigger Terra Mark.",
+      "type": "main",
+      "rarity": 0,
+      "imgId": "14001_Potential_02",
+      "id": 514002
+    },
+    "514003": {
+      "name": "Fluffy Rechamber",
+      "briefDesc": "When Sparkla is in Bunny Jaws Mode, activates Bunny Roar to deal damage. Can trigger Terra Mark. When channeling Bunny Roar, Sparkla cannot move or dodge. When in an All-Terra squad, Sparkla gains a shield while Bunny Roar is active and increases the Skill DMG of Bunny Roar.",
+      "type": "main",
+      "rarity": 0,
+      "imgId": "14001_Potential_03",
+      "id": 514003
+    },
+    "514004": {
+      "name": "Neo Radiance Burst",
+      "briefDesc": "Increases the Skill DMG of Bunny Jaws Mode. When Sparkla is in Bunny Jaws Mode, gains Instant Neo Solution over time. When in Bunny Jaws Mode, Sparkla can consume Instant Neo Solution to fire additional shells. When Bunny Jaws Mode ends, nullifies all Instant Neo Solution.",
+      "type": "main",
+      "rarity": 0,
+      "imgId": "14001_Potential_04",
+      "id": 514004
+    },
+    "514005": {
+      "name": "Leap Barrage",
+      "briefDesc": "When Sparkla triggers Terra Mark in Bunny Rapid Fire Mode, increases her ATK.",
+      "type": "main",
+      "rarity": 2,
+      "imgId": "14001_Potential_01",
+      "id": 514005,
+      "subIcon": "Diamond"
+    },
+    "514006": {
+      "name": "Hover-Rail Volley",
+      "briefDesc": "Bunny Rapid Fire Mode allows Sparkla to levitate. She can attack the target while dashing, and her Skill DMG is increased.",
+      "type": "main",
+      "rarity": 1,
+      "imgId": "14001_Potential_06",
+      "id": 514006,
+      "subIcon": "Triangle"
+    },
+    "514007": {
+      "name": "Clockwork Resonance",
+      "briefDesc": "Each Sparkla's skill cast increases Sparkla's Skill DMG.",
+      "type": "main",
+      "rarity": 2,
+      "imgId": "14001_Potential_01",
+      "id": 514007,
+      "subIcon": "Round"
+    },
+    "514008": {
+      "name": "Cyclone Dial",
+      "briefDesc": "When Sparkla is in Bunny Jaws Mode, each shot deals damage to enemies in front and knocks them back. Can trigger Terra Mark.",
+      "type": "main",
+      "rarity": 2,
+      "imgId": "14001_Potential_08",
+      "id": 514008,
+      "subIcon": "Diamond"
+    },
+    "514009": {
+      "name": "Ticking Aftershock",
+      "briefDesc": "When Sparkla is in Bunny Jaws Mode, gains Super Armor and increases own Skill DMG. After the shells fired in Bunny Jaws Mode explode, Booby Traps are randomly deployed within the blast radius. The traps can deal damage and trigger Terra Mark.",
+      "type": "main",
+      "rarity": 1,
+      "imgId": "14001_Potential_09",
+      "id": 514009,
+      "subIcon": "Triangle"
+    },
+    "514010": {
+      "name": "Static Strike",
+      "briefDesc": "When Sparkla enters Bunny Jaws Mode, gains a shield. When Sparkla remains stationary in Bunny Jaws Mode, increases her ATK.",
+      "type": "main",
+      "rarity": 2,
+      "imgId": "14001_Potential_03",
+      "id": 514010,
+      "subIcon": "Round"
+    },
+    "514011": {
+      "name": "Harmonic Barrage",
+      "briefDesc": "When Sparkla casts the Main Skill to transform, increases her ATK. When the transformation ends, deals DMG to nearby targets. Can trigger Terra Mark.",
+      "type": "main",
+      "rarity": 1,
+      "imgId": "14001_Potential_11",
+      "id": 514011,
+      "subIcon": "Diamond"
+    },
+    "514012": {
+      "name": "Velvet Prowl",
+      "briefDesc": "Sparkla can dodge one more time. After dodging, increases Sparkla's ATK.",
+      "type": "main",
+      "rarity": 2,
+      "imgId": "Common_Potential_21",
+      "id": 514012,
+      "subIcon": "Triangle"
+    },
+    "514013": {
+      "name": "Prism Convergence",
+      "briefDesc": "Increases Sparkla's Terra DMG to distant targets.",
+      "type": "main",
+      "rarity": 2,
+      "imgId": "Common_Potential_10",
+      "id": 514013,
+      "subIcon": "Round"
+    },
+    "514021": {
+      "name": "Bunny Backfire",
+      "briefDesc": "Increases the Skill DMG of the Support Skill. When Sparkla casts the Support Skill in an all-Terra squad, increases the number of Bunny Fireworks fired per volley.",
+      "type": "support",
+      "rarity": 0,
+      "imgId": "14001_Potential_21",
+      "id": 514021
+    },
+    "514022": {
+      "name": "Rolling Support",
+      "briefDesc": "When casting the Bunny Firework, Sparkla gains Energy each time a rocket is fired. When the Support Skill ends, Sparkla consumes all Energy to increase her Skill DMG. She then charges toward the target in her wheelchair, dealing damage.",
+      "type": "support",
+      "rarity": 0,
+      "imgId": "14001_Potential_22",
+      "id": 514022
+    },
+    "514023": {
+      "name": "Covering Fire",
+      "briefDesc": "Increases Sparkla's Auto Attack DMG. When the Support Skill ends, Sparkla follows the Terra Main Trekker and provides fire support, dealing DMG to the target.",
+      "type": "support",
+      "rarity": 0,
+      "imgId": "14001_Potential_23",
+      "id": 514023
+    },
+    "514024": {
+      "name": "Incendiary Volley",
+      "briefDesc": "When Sparkla is on the battlefield, deals DMG to targets every few seconds. For each Terra Trekker in the squad, increases this DMG.",
+      "type": "support",
+      "rarity": 0,
+      "imgId": "14001_Potential_24",
+      "id": 514024
+    },
+    "514025": {
+      "name": "Furball Fusillade",
+      "briefDesc": "When Sparkla casts the Support Skill, deals DMG to nearby targets.",
+      "type": "support",
+      "rarity": 1,
+      "imgId": "14001_Potential_25",
+      "id": 514025,
+      "subIcon": "Diamond"
+    },
+    "514026": {
+      "name": "Bunny Blitz",
+      "briefDesc": "When Sparkla casts the Support Skill, increases her ATK.",
+      "type": "support",
+      "rarity": 2,
+      "imgId": "14001_Potential_21",
+      "id": 514026,
+      "subIcon": "Triangle"
+    },
+    "514027": {
+      "name": "Gauge Overdrive",
+      "briefDesc": "When the Bunny Firework triggers a Terra Mark, increases Sparkla's Terra DMG.",
+      "type": "support",
+      "rarity": 2,
+      "imgId": "14001_Potential_21",
+      "id": 514027,
+      "subIcon": "Round"
+    },
+    "514028": {
+      "name": "Bunny Munitions Boost",
+      "briefDesc": "Sparkla's bullets can pierce through targets, and their Auto Attack DMG is increased.",
+      "type": "support",
+      "rarity": 1,
+      "imgId": "14001_Potential_28",
+      "id": 514028,
+      "subIcon": "Diamond"
+    },
+    "514029": {
+      "name": "Rabbit's Watch",
+      "briefDesc": "While Sparkla is on the battlefield, increases her Auto Attack DMG over time. This effect will be removed when she leaves the battlefield.",
+      "type": "support",
+      "rarity": 2,
+      "imgId": "14001_Potential_23",
+      "id": 514029,
+      "subIcon": "Triangle"
+    },
+    "514030": {
+      "name": "Pressure Surge",
+      "briefDesc": "When the Support Skill ends, increases Sparkla's Auto Attack DMG.",
+      "type": "support",
+      "rarity": 2,
+      "imgId": "14001_Potential_23",
+      "id": 514030,
+      "subIcon": "Round"
+    },
+    "514031": {
+      "name": "Artisan's Pride",
+      "briefDesc": "Increases Sparkla's ATK.",
+      "type": "support",
+      "rarity": 2,
+      "imgId": "Common_Potential_11",
+      "id": 514031,
+      "subIcon": "Diamond"
+    },
+    "514032": {
+      "name": "Prodigy's Oath",
+      "briefDesc": "Increases Sparkla's Skill DMG. When her Ultimate ends, increases Sparkla's Terra DMG.",
+      "type": "support",
+      "rarity": 2,
+      "imgId": "Common_Potential_14",
+      "id": 514032,
+      "subIcon": "Triangle"
+    },
+    "514033": {
+      "name": "Max Overclock",
+      "briefDesc": "Increases the Skill DMG of Terra Trekkers in the squad.",
+      "type": "support",
+      "rarity": 1,
+      "imgId": "Common_Potential_15",
+      "id": 514033,
+      "subIcon": "Round"
+    },
+    "514041": {
+      "name": "Solution Support",
+      "briefDesc": "When the Ultimate ends, drops bottles of Potent Neo Solution on the ground. When the Main Trekker absorbs them, increases their ATK. When a Terra Trekker absorbs 3 bottles of Potent Neo Solution and deals Auto Attack DMG, Sparkla deals additional DMG.",
+      "type": "common",
+      "rarity": 2,
+      "imgId": "14001_Potential_41",
+      "id": 514041,
+      "subIcon": "Diamond"
+    },
+    "514042": {
+      "name": "Wonderland Bound",
+      "briefDesc": "Increases the Attack Range of the Bunny Firework Cannon fired by the Ultimate. Instantly eliminates normal targets within range and deals damage to elite and boss targets over time.",
+      "type": "common",
+      "rarity": 2,
+      "imgId": "14001_Potential_42",
+      "id": 514042,
+      "subIcon": "Triangle"
+    },
+    "514043": {
+      "name": "Leap of Finale",
+      "briefDesc": "When the Ultimate triggers Terra Mark, increases the Ultimate DMG of this Ultimate.",
+      "type": "common",
+      "rarity": 2,
+      "imgId": "14001_Potential_43",
+      "id": 514043,
+      "subIcon": "Round"
+    }
+  },
   "141": {
     "514101": {
       "name": "Sleepless Flame",

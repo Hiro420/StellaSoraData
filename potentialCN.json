@@ -5609,6 +5609,261 @@
       "subIcon": "Round"
     }
   },
+  "140": {
+    "514001": {
+      "name": "跃耳极射",
+      "briefDesc": "斯帕克拉处于兔兔速射模式期间，激活技能「兔兔速射」，造成伤害，可触发地系印记。 当全队均为地系角色时，提升「兔兔速射」造成的技能伤害。",
+      "type": "main",
+      "rarity": 0,
+      "imgId": "14001_Potential_01",
+      "id": 514001
+    },
+    "514002": {
+      "name": "咔哒叠响",
+      "briefDesc": "提升兔兔速射模式造成的技能伤害。 兔兔速射模式对目标造成伤害时附加「星晶」，叠加满层时使目标「星晶化」。 「星晶化」的目标处于眩晕状态，无法被附加「星晶」。 兔兔速射模式对「星晶化」的目标造成伤害时，造成额外伤害，可触发地系印记。",
+      "type": "main",
+      "rarity": 0,
+      "imgId": "14001_Potential_02",
+      "id": 514002
+    },
+    "514003": {
+      "name": "布偶重膛",
+      "briefDesc": "斯帕克拉处于兔兔大开口模式期间，激活技能「兔兔吼」，造成伤害，可触发地系印记。 「兔兔吼」期间无法移动和闪避。 当全队均为地系角色时，「兔兔吼」期间获得护盾，并且提升「兔兔吼」造成的技能伤害。",
+      "type": "main",
+      "rarity": 0,
+      "imgId": "14001_Potential_03",
+      "id": 514003
+    },
+    "514004": {
+      "name": "柔光溢射",
+      "briefDesc": "提升兔兔大开口模式造成的技能伤害。 当斯帕克拉处于兔兔大开口模式期间，随时间获得「速效柔光溶剂」，兔兔大开口模式每次射击时，消耗「速效柔光溶剂」发射更多炮弹。 兔兔大开口模式结束时会清除所有「速效柔光溶剂」。",
+      "type": "main",
+      "rarity": 0,
+      "imgId": "14001_Potential_04",
+      "id": 514004
+    },
+    "514005": {
+      "name": "聚跃极射",
+      "briefDesc": "斯帕克拉处于兔兔速射模式期间，触发地系印记时，提升自身攻击。",
+      "type": "main",
+      "rarity": 2,
+      "imgId": "14001_Potential_01",
+      "id": 514005,
+      "subIcon": "Diamond"
+    },
+    "514006": {
+      "name": "浮轨伴射",
+      "briefDesc": "斯帕克拉处于兔兔速射模式期间变为浮空，疾跑时可以继续攻击目标，并提升造成的技能伤害。",
+      "type": "main",
+      "rarity": 1,
+      "imgId": "14001_Potential_06",
+      "id": 514006,
+      "subIcon": "Triangle"
+    },
+    "514007": {
+      "name": "齿轮叩契",
+      "briefDesc": "斯帕克拉每次施放技能时，提升自身技能伤害。",
+      "type": "main",
+      "rarity": 2,
+      "imgId": "14001_Potential_01",
+      "id": 514007,
+      "subIcon": "Round"
+    },
+    "514008": {
+      "name": "旋钮气浪",
+      "briefDesc": "斯帕克拉处于兔兔大开口模式期间，每次射击时对前方造成伤害并击退目标，可触发地系印记。",
+      "type": "main",
+      "rarity": 2,
+      "imgId": "14001_Potential_08",
+      "id": 514008,
+      "subIcon": "Diamond"
+    },
+    "514009": {
+      "name": "滴答余响",
+      "briefDesc": "斯帕克拉处于兔兔大开口模式期间，获得霸体，提升自身技能伤害。 兔兔大开口模式发射的炮弹爆炸后，会在伤害范围内随机散布「诡雷」，造成伤害，可触发地系印记。",
+      "type": "main",
+      "rarity": 1,
+      "imgId": "14001_Potential_09",
+      "id": 514009,
+      "subIcon": "Triangle"
+    },
+    "514010": {
+      "name": "以静制动",
+      "briefDesc": "斯帕克拉进入兔兔大开口模式时，获得护盾。 斯帕克拉处于兔兔大开口模式期间不移动时，自身攻击不断提升。",
+      "type": "main",
+      "rarity": 2,
+      "imgId": "14001_Potential_03",
+      "id": 514010,
+      "subIcon": "Round"
+    },
+    "514011": {
+      "name": "集束余韵",
+      "briefDesc": "斯帕克拉施放主控技变形时，提升自身攻击。 在变形结束时，对自身周围目标造成伤害，可触发地系印记。",
+      "type": "main",
+      "rarity": 1,
+      "imgId": "14001_Potential_11",
+      "id": 514011,
+      "subIcon": "Diamond"
+    },
+    "514012": {
+      "name": "绒步循影",
+      "briefDesc": "提升斯帕克拉闪避次数。 闪避后，提升斯帕克拉的攻击。",
+      "type": "main",
+      "rarity": 2,
+      "imgId": "Common_Potential_21",
+      "id": 514012,
+      "subIcon": "Triangle"
+    },
+    "514013": {
+      "name": "阔镜聚华",
+      "briefDesc": "提升斯帕克拉对远离自身的目标造成的地系伤害。",
+      "type": "main",
+      "rarity": 2,
+      "imgId": "Common_Potential_10",
+      "id": 514013,
+      "subIcon": "Round"
+    },
+    "514021": {
+      "name": "背兔鸣火",
+      "briefDesc": "提升援护技造成的技能伤害。 当全队为地系角色时，提升援护技每轮发射的「兔兔礼花」数量。",
+      "type": "support",
+      "rarity": 0,
+      "imgId": "14001_Potential_21",
+      "id": 514021
+    },
+    "514022": {
+      "name": "轮辙援护",
+      "briefDesc": "援护技期间每次发射「兔兔礼花」，斯帕克拉都会积蓄能量。 援护技结束时，斯帕克拉将消耗所有能量提升自身技能伤害。 然后驾驶轮椅冲向目标，造成伤害。",
+      "type": "support",
+      "rarity": 0,
+      "imgId": "14001_Potential_22",
+      "id": 514022
+    },
+    "514023": {
+      "name": "火力援护",
+      "briefDesc": "提升斯帕克拉的普攻伤害。 援护技结束后，斯帕克拉会持续跟随地系主控角色，发射子弹攻击目标，造成伤害。",
+      "type": "support",
+      "rarity": 0,
+      "imgId": "14001_Potential_23",
+      "id": 514023
+    },
+    "514024": {
+      "name": "火力投射",
+      "briefDesc": "斯帕克拉在场时，间隔性的对目标造成伤害。 队伍中地系每个地系角色，都会提升该伤害。",
+      "type": "support",
+      "rarity": 0,
+      "imgId": "14001_Potential_24",
+      "id": 514024
+    },
+    "514025": {
+      "name": "兔兔集束",
+      "briefDesc": "斯帕克拉施放援护技时，对自身周围的目标造成伤害。",
+      "type": "support",
+      "rarity": 1,
+      "imgId": "14001_Potential_25",
+      "id": 514025,
+      "subIcon": "Diamond"
+    },
+    "514026": {
+      "name": "协兔爆发",
+      "briefDesc": "斯帕克拉施放援护技时，提升自身的攻击。",
+      "type": "support",
+      "rarity": 2,
+      "imgId": "14001_Potential_21",
+      "id": 514026,
+      "subIcon": "Triangle"
+    },
+    "514027": {
+      "name": "刻度爆表",
+      "briefDesc": "「兔兔礼花」触发地系印记时，提升斯帕克拉的地系伤害。",
+      "type": "support",
+      "rarity": 2,
+      "imgId": "14001_Potential_21",
+      "id": 514027,
+      "subIcon": "Round"
+    },
+    "514028": {
+      "name": "兔兔弹强化",
+      "briefDesc": "斯帕克拉的子弹可穿透目标，并提升其造成的普攻伤害。",
+      "type": "support",
+      "rarity": 1,
+      "imgId": "14001_Potential_28",
+      "id": 514028,
+      "subIcon": "Diamond"
+    },
+    "514029": {
+      "name": "兔子的钟表",
+      "briefDesc": "斯帕克拉在场时，自身的普攻伤害随时间提升。 该效果在斯帕克拉离场时清除。",
+      "type": "support",
+      "rarity": 2,
+      "imgId": "14001_Potential_23",
+      "id": 514029,
+      "subIcon": "Triangle"
+    },
+    "514030": {
+      "name": "膛压渐升",
+      "briefDesc": "援护技结束后，提升斯帕克拉的普攻伤害。",
+      "type": "support",
+      "rarity": 2,
+      "imgId": "14001_Potential_23",
+      "id": 514030,
+      "subIcon": "Round"
+    },
+    "514031": {
+      "name": "工匠的自傲",
+      "briefDesc": "提升斯帕克拉的攻击。",
+      "type": "support",
+      "rarity": 2,
+      "imgId": "Common_Potential_11",
+      "id": 514031,
+      "subIcon": "Diamond"
+    },
+    "514032": {
+      "name": "以天才之名",
+      "briefDesc": "提升斯帕克拉的技能伤害。 绝招结束时，提升斯帕克拉的地系伤害。",
+      "type": "support",
+      "rarity": 2,
+      "imgId": "Common_Potential_14",
+      "id": 514032,
+      "subIcon": "Triangle"
+    },
+    "514033": {
+      "name": "超频运转",
+      "briefDesc": "提升队伍中地系角色的技能伤害。",
+      "type": "support",
+      "rarity": 1,
+      "imgId": "Common_Potential_15",
+      "id": 514033,
+      "subIcon": "Round"
+    },
+    "514041": {
+      "name": "溶剂支援",
+      "briefDesc": "绝招结束时，在地上洒落「强效柔光溶剂」，主控角色吸收后提升其攻击。 当地系角色吸收3瓶「强效柔光溶剂」后，造成普攻伤害时，斯帕克拉附加额外伤害。",
+      "type": "common",
+      "rarity": 2,
+      "imgId": "14001_Potential_41",
+      "id": 514041,
+      "subIcon": "Diamond"
+    },
+    "514042": {
+      "name": "奇境跃壤",
+      "briefDesc": "绝招发射的「兔兔礼花炮」的伤害范围提升，直接消灭范围内普通目标，并对精英和首领目标造成持续伤害。",
+      "type": "common",
+      "rarity": 2,
+      "imgId": "14001_Potential_42",
+      "id": 514042,
+      "subIcon": "Triangle"
+    },
+    "514043": {
+      "name": "跃印终章",
+      "briefDesc": "绝招触发地系印记时，提升本次绝招造成的绝招伤害。",
+      "type": "common",
+      "rarity": 2,
+      "imgId": "14001_Potential_43",
+      "id": 514043,
+      "subIcon": "Round"
+    }
+  },
   "141": {
     "514101": {
       "name": "焰光不眠",

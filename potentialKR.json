@@ -5609,6 +5609,261 @@
       "subIcon": "Round"
     }
   },
+  "140": {
+    "514001": {
+      "name": "쫑긋 사격",
+      "briefDesc": "스파클이 토끼 속사 모드일 때, 스킬 「토끼 속사」가 활성화되어 피해를 입힌다. 땅 속성 표식을 발동할 수 있다.  팀 전체가 땅 속성 캐릭터일 경우 「토끼 속사」가 입히는 &Param2_kr1& 증가한다.",
+      "type": "main",
+      "rarity": 0,
+      "imgId": "14001_Potential_01",
+      "id": 514001
+    },
+    "514002": {
+      "name": "찰칵 연쇄음",
+      "briefDesc": "토끼 속사 모드가 입히는 &Param4_kr1& 증가한다.  토끼 속사 모드가 목표에게 피해를 입히면 「별빛 결정」을 부여하고, 최대 스택이 되면 목표를 「별빛 결정화」 상태로 만든다.  「별빛 결정화」 상태의 목표는 기절 상태에 빠지며, 「별빛 결정」을 부여할 수 없다.  토끼 속사 모드가 「별빛 결정화」 상태의 목표에게 피해를 입히면 추가 피해를 입히며, 땅 속성 표식을 발동할 수 있다.",
+      "type": "main",
+      "rarity": 0,
+      "imgId": "14001_Potential_02",
+      "id": 514002
+    },
+    "514003": {
+      "name": "인형의 묵직한 총성",
+      "briefDesc": "스파클이 토끼 대개방 모드일 때, 스킬 「토끼의 포효」가 활성화되어 피해를 입힌다. 땅 속성 표식을 발동할 수 있다.  「토끼의 포효」 기간 중 이동하거나 회피할 수 없다.  팀 전체가 땅 속성 캐릭터일 경우, 「토끼의 포효」 기간 중 보호막을 획득하고 「토끼의 포효」가 입히는 &Param3_kr1& 증가한다.",
+      "type": "main",
+      "rarity": 0,
+      "imgId": "14001_Potential_03",
+      "id": 514003
+    },
+    "514004": {
+      "name": "무나 오버플로우",
+      "briefDesc": "토끼 대개방 모드가 입히는 &Param1_kr1& 증가한다.  스파클이 토끼 대개방 모드일 때, 시간에 따라 「즉효 무나 용액」을 획득한다. 토끼 대개방 모드 사격 시마다 「즉효 무나 용액」을 소모해 더 많은 포탄을 발사한다.  토끼 대개방 모드 종료 시 모든 「즉효 무나 용액」을 제거한다.",
+      "type": "main",
+      "rarity": 0,
+      "imgId": "14001_Potential_04",
+      "id": 514004
+    },
+    "514005": {
+      "name": "집중 사격",
+      "briefDesc": "스파클이 토끼 속사 모드일 때, 땅 속성 표식을 발동하면 자신의 &Param1_kr1& 증가한다.",
+      "type": "main",
+      "rarity": 2,
+      "imgId": "14001_Potential_01",
+      "id": 514005,
+      "subIcon": "Diamond"
+    },
+    "514006": {
+      "name": "부유 궤도 사격",
+      "briefDesc": "스파클이 토끼 속사 모드일 때, 부유 상태로 변경된다. 빠른 발놀림 시 목표를 지속적으로 공격할 수 있으며, 입히는 &Param1_kr1& 증가한다.",
+      "type": "main",
+      "rarity": 1,
+      "imgId": "14001_Potential_06",
+      "id": 514006,
+      "subIcon": "Triangle"
+    },
+    "514007": {
+      "name": "톱니바퀴의 맞물림",
+      "briefDesc": "스파클이 스킬을 시전할 때마다 자신의 &Param1_kr1& 증가한다.",
+      "type": "main",
+      "rarity": 2,
+      "imgId": "14001_Potential_01",
+      "id": 514007,
+      "subIcon": "Round"
+    },
+    "514008": {
+      "name": "다이얼 기류",
+      "briefDesc": "스파클이 토끼 대개방 모드일 때, 사격할 때마다 전방에 피해를 입히고, 목표를 넉백시킨다. 땅 속성 표식을 발동할 수 있다.",
+      "type": "main",
+      "rarity": 2,
+      "imgId": "14001_Potential_08",
+      "id": 514008,
+      "subIcon": "Diamond"
+    },
+    "514009": {
+      "name": "째깍 잔향",
+      "briefDesc": "스파클이 토끼 대개방 모드일 때, 저지 불가를 획득하며 자신의 &Param2_kr1& 증가한다. 토끼 대개방 모드가 발사하는 포탄의 폭파 후, 피해 범위 내에 랜덤으로 「함정 포탄」을 배치해 피해를 입힌다. 땅 속성 표식을 발동할 수 있다.",
+      "type": "main",
+      "rarity": 1,
+      "imgId": "14001_Potential_09",
+      "id": 514009,
+      "subIcon": "Triangle"
+    },
+    "514010": {
+      "name": "부동의 위엄",
+      "briefDesc": "스파클이 토끼 대개방 모드에 진입하면 보호막을 획득한다.  스파클이 토끼 대개방 모드일 때 이동하지 않으면 자신의 &Param4_kr1& 계속하여 증가한다.",
+      "type": "main",
+      "rarity": 2,
+      "imgId": "14001_Potential_03",
+      "id": 514010,
+      "subIcon": "Round"
+    },
+    "514011": {
+      "name": "집중 폭격의 끝맛",
+      "briefDesc": "스파클이 메인 스킬을 시전하여 변형하면 자신의 &Param1_kr1& 증가한다.  변형 종료 시, 자신 주변의 목표에게 피해를 입힌다. 땅 속성 표식을 발동할 수 있다.",
+      "type": "main",
+      "rarity": 1,
+      "imgId": "14001_Potential_11",
+      "id": 514011,
+      "subIcon": "Diamond"
+    },
+    "514012": {
+      "name": "래빗 스텝",
+      "briefDesc": "스파클의 회피 횟수가 증가한다.  회피 후 스파클의 &Param1_kr1& 증가한다.",
+      "type": "main",
+      "rarity": 2,
+      "imgId": "Common_Potential_21",
+      "id": 514012,
+      "subIcon": "Triangle"
+    },
+    "514013": {
+      "name": "유리에 모인 빛",
+      "briefDesc": "스파클이 자신과 멀리 떨어진 목표에게 입히는 &Param1_kr1& 증가한다.",
+      "type": "main",
+      "rarity": 2,
+      "imgId": "Common_Potential_10",
+      "id": 514013,
+      "subIcon": "Round"
+    },
+    "514021": {
+      "name": "토끼의 폭발",
+      "briefDesc": "지원 스킬이 입히는 &Param2_kr1& 증가한다.  팀 전체가 땅 속성 캐릭터일 때, 지원 스킬로 매회 발사하는 「토끼 폭죽」의 수량이 증가한다.",
+      "type": "support",
+      "rarity": 0,
+      "imgId": "14001_Potential_21",
+      "id": 514021
+    },
+    "514022": {
+      "name": "휠체어의 엄호",
+      "briefDesc": "지원 스킬 기간 중 「토끼 폭죽」을 발사할 때마다 스파클이 SP를 축적한다.  지원 스킬 종료 시 스파클은 모든 SP를 소모해 자신의 &Param2_kr3& 증가시킨다.  이후 휠체어를 움직여 목표에게 돌진하며 피해를 입힌다.",
+      "type": "support",
+      "rarity": 0,
+      "imgId": "14001_Potential_22",
+      "id": 514022
+    },
+    "514023": {
+      "name": "화력 지원",
+      "briefDesc": "스파클의 &Param4_kr1& 증가한다. 지원 스킬 종료 후 스파클은 지속적으로 땅 속성 메인 캐릭터를 따라다니고, 총알을 발사해 목표를 공격하여 피해를 입힌다.",
+      "type": "support",
+      "rarity": 0,
+      "imgId": "14001_Potential_23",
+      "id": 514023
+    },
+    "514024": {
+      "name": "화력 포격",
+      "briefDesc": "스파클이 필드에 있을 때, 주기적으로 목표에게 피해를 입힌다.  팀 내 땅 속성 캐릭터마다 해당 피해가 증가한다.",
+      "type": "support",
+      "rarity": 0,
+      "imgId": "14001_Potential_24",
+      "id": 514024
+    },
+    "514025": {
+      "name": "토끼 집속탄",
+      "briefDesc": "스파클이 지원 스킬을 시전할 때 자신 주변의 목표에게 피해를 입힌다.",
+      "type": "support",
+      "rarity": 1,
+      "imgId": "14001_Potential_25",
+      "id": 514025,
+      "subIcon": "Diamond"
+    },
+    "514026": {
+      "name": "토끼 협동 폭발",
+      "briefDesc": "스파클이 지원 스킬을 시전하면 자신의 &Param2_kr1& 증가한다.",
+      "type": "support",
+      "rarity": 2,
+      "imgId": "14001_Potential_21",
+      "id": 514026,
+      "subIcon": "Triangle"
+    },
+    "514027": {
+      "name": "계측 한계 초과",
+      "briefDesc": "「토끼 폭죽」이 땅 속성 표식을 발동하면 스파클의 &Param2_kr1& 증가한다.",
+      "type": "support",
+      "rarity": 2,
+      "imgId": "14001_Potential_21",
+      "id": 514027,
+      "subIcon": "Round"
+    },
+    "514028": {
+      "name": "토끼탄 강화",
+      "briefDesc": "스파클의 총알이 목표를 관통할 수 있고, 입히는 &Param1_kr1& 증가한다.",
+      "type": "support",
+      "rarity": 1,
+      "imgId": "14001_Potential_28",
+      "id": 514028,
+      "subIcon": "Diamond"
+    },
+    "514029": {
+      "name": "토끼의 시계",
+      "briefDesc": "스파클이 필드에 있을 때 자신의 &Param1_kr1& 시간에 따라 증가한다.  해당 효과는 스파클이 필드를 떠날 때 제거된다.",
+      "type": "support",
+      "rarity": 2,
+      "imgId": "14001_Potential_23",
+      "id": 514029,
+      "subIcon": "Triangle"
+    },
+    "514030": {
+      "name": "압력 상승",
+      "briefDesc": "지원 스킬 종료 후 스파클의 &Param2_kr1& 증가한다.",
+      "type": "support",
+      "rarity": 2,
+      "imgId": "14001_Potential_23",
+      "id": 514030,
+      "subIcon": "Round"
+    },
+    "514031": {
+      "name": "장인의 자부심",
+      "briefDesc": "스파클의 &Param1_kr1& 증가한다.",
+      "type": "support",
+      "rarity": 2,
+      "imgId": "Common_Potential_11",
+      "id": 514031,
+      "subIcon": "Diamond"
+    },
+    "514032": {
+      "name": "천재의 이름으로",
+      "briefDesc": "스파클의 &Param2_kr1& 증가한다.  필살기 종료 시 스파클의 &Param4_kr1& 증가한다.",
+      "type": "support",
+      "rarity": 2,
+      "imgId": "Common_Potential_14",
+      "id": 514032,
+      "subIcon": "Triangle"
+    },
+    "514033": {
+      "name": "과부하 가동",
+      "briefDesc": "팀 내 땅 속성 캐릭터의 &Param1_kr1& 증가한다.",
+      "type": "support",
+      "rarity": 1,
+      "imgId": "Common_Potential_15",
+      "id": 514033,
+      "subIcon": "Round"
+    },
+    "514041": {
+      "name": "용액의 도움",
+      "briefDesc": "필살기 종료 시 지면에 「강력 무나 용액」을 뿌리고, 메인 캐릭터가 흡수한 후 &Param2_kr1& 증가한다.  땅 속성 캐릭터가 「강력 무나 용액」 3병을 흡수한 후, 일반 공격 피해를 입히면 스파클이 추가 피해를 입힌다.",
+      "type": "common",
+      "rarity": 2,
+      "imgId": "14001_Potential_41",
+      "id": 514041,
+      "subIcon": "Diamond"
+    },
+    "514042": {
+      "name": "기묘한 땅",
+      "briefDesc": "필살기가 발사하는 「토끼 폭죽포」의 피해 범위가 증가하고, 범위 내 일반 목표를 바로 처치한다. 또한 정예와 보스 목표에게 지속적으로 피해를 입힌다.",
+      "type": "common",
+      "rarity": 2,
+      "imgId": "14001_Potential_42",
+      "id": 514042,
+      "subIcon": "Triangle"
+    },
+    "514043": {
+      "name": "종결의 낙인",
+      "briefDesc": "필살기가 땅 속성 표식을 발동하면 이번 필살기가 입히는 &Param2_kr1& 증가한다.",
+      "type": "common",
+      "rarity": 2,
+      "imgId": "14001_Potential_43",
+      "id": 514043,
+      "subIcon": "Round"
+    }
+  },
   "141": {
     "514101": {
       "name": "불꽃의 각성",
