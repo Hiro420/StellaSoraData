@@ -1944,5 +1944,248 @@
     "Theme": 15,
     "BGM": "haiTu_realChallenge_setState",
     "LeaveTriggerEvent": "amb_roguelike_all_stop"
+  },
+  "301101": {
+    "Id": 301101,
+    "MonsterLv": 1,
+    "SceneName": "Levels/StoryActivity/StoryActivity_11/StoryActivity_11_006_A_01",
+    "ConfigPrefabName": "StoryActivity_11_006_A_N1",
+    "Theme": 451,
+    "BGM": "mode_rouguang_combatNormal_setState",
+    "LeaveTriggerEvent": "mode_rouguang_all_stop"
+  },
+  "301102": {
+    "Id": 301102,
+    "MonsterLv": 2,
+    "SceneName": "Levels/StoryActivity/StoryActivity_11/StoryActivity_11_009_A_01",
+    "ConfigPrefabName": "StoryActivity_11_009_A_N2",
+    "Theme": 451,
+    "BGM": "mode_rouguang_combatNormal_setState",
+    "LeaveTriggerEvent": "mode_rouguang_all_stop"
+  },
+  "301103": {
+    "Id": 301103,
+    "MonsterLv": 3,
+    "SceneName": "Levels/StoryActivity/StoryActivity_11/StoryActivity_11_008_B_01",
+    "ConfigPrefabName": "StoryActivity_11_008_B_N3",
+    "Theme": 451,
+    "BGM": "mode_rouguang_combatNormal_setState",
+    "LeaveTriggerEvent": "mode_rouguang_all_stop"
+  },
+  "301104": {
+    "Id": 301104,
+    "MonsterLv": 4,
+    "SceneName": "Levels/StoryActivity/StoryActivity_11/StoryActivity_11_013_A_01",
+    "ConfigPrefabName": "StoryActivity_11_013_A_N4",
+    "Theme": 451,
+    "BGM": "mode_rouguang_combatNormal_setState",
+    "LeaveTriggerEvent": "mode_rouguang_all_stop"
+  },
+  "301105": {
+    "Id": 301105,
+    "MonsterLv": 5,
+    "SceneName": "Levels/StoryActivity/StoryActivity_11/StoryActivity_11_009_A_01_Mir",
+    "ConfigPrefabName": "StoryActivity_11_009_A_Mir_N5",
+    "Mir": true,
+    "Theme": 451,
+    "BGM": "mode_rouguang_combatNormal_setState",
+    "LeaveTriggerEvent": "mode_rouguang_all_stop"
+  },
+  "301106": {
+    "Id": 301106,
+    "MonsterLv": 6,
+    "SceneName": "Levels/StoryActivity/StoryActivity_11/StoryActivity_11_013_A_01_Mir",
+    "ConfigPrefabName": "StoryActivity_11_013_A_Mir_N6",
+    "Mir": true,
+    "Theme": 451,
+    "BGM": "mode_rouguang_combatNormal_setState",
+    "LeaveTriggerEvent": "mode_rouguang_all_stop"
+  },
+  "301107": {
+    "Id": 301107,
+    "MonsterLv": 7,
+    "SceneName": "Levels/StoryActivity/StoryActivity_11/StoryActivity_11_009_A_01",
+    "ConfigPrefabName": "StoryActivity_11_009_A_N7",
+    "Theme": 451,
+    "BGM": "mode_rouguang_combatNormal_setState",
+    "LeaveTriggerEvent": "mode_rouguang_all_stop"
+  },
+  "301108": {
+    "Id": 301108,
+    "MonsterLv": 8,
+    "SceneName": "Levels/StoryActivity/StoryActivity_11/StoryActivity_11_006_A_01_Mir",
+    "ConfigPrefabName": "StoryActivity_11_006_A_Mir_N8",
+    "Mir": true,
+    "Theme": 451,
+    "BGM": "mode_rouguang_combatNormal_setState",
+    "LeaveTriggerEvent": "mode_rouguang_all_stop"
+  },
+  "301109": {
+    "Id": 301109,
+    "MonsterLv": 9,
+    "SceneName": "Levels/StoryActivity/StoryActivity_11/StoryActivity_11_008_B_01",
+    "ConfigPrefabName": "StoryActivity_11_008_B_N9",
+    "Theme": 451,
+    "BGM": "mode_rouguang_combatNormal_setState",
+    "LeaveTriggerEvent": "mode_rouguang_all_stop"
+  },
+  "301110": {
+    "Id": 301110,
+    "MonsterLv": 10,
+    "SceneName": "Levels/StoryActivity/StoryActivity_11/StoryActivity_11_006_A_01",
+    "ConfigPrefabName": "StoryActivity_11_006_A_N10",
+    "Theme": 451,
+    "BGM": "mode_rouguang_combatNormal_setState",
+    "LeaveTriggerEvent": "mode_rouguang_all_stop"
+  },
+  "301111": {
+    "Id": 301111,
+    "MonsterLv": 11,
+    "SceneName": "Levels/StoryActivity/StoryActivity_11/StoryActivity_11_013_A_01_Mir",
+    "ConfigPrefabName": "StoryActivity_11_013_A_Mir_N11",
+    "Mir": true,
+    "Theme": 451,
+    "BGM": "mode_rouguang_combatNormal_setState",
+    "LeaveTriggerEvent": "mode_rouguang_all_stop"
+  },
+  "301112": {
+    "Id": 301112,
+    "MonsterLv": 12,
+    "SceneName": "Levels/StoryActivity/StoryActivity_11/StoryActivity_11_Boss_B",
+    "ConfigPrefabName": "StoryActivity_11_Boss_N12",
+    "Theme": 451,
+    "BGM": "mode_rouguang_combatBoss_setState",
+    "LeaveTriggerEvent": "mode_rouguang_all_stop"
+  },
+  "301113": {
+    "Id": 301113,
+    "MonsterLv": 13,
+    "SceneName": "Levels/StoryActivity/StoryActivity_11/StoryActivity_11_008_B_01_Mir",
+    "ConfigPrefabName": "StoryActivity_11_008_B_Mir_H1",
+    "Mir": true,
+    "Theme": 451,
+    "BGM": "mode_rouguang_combatNormal_setState",
+    "LeaveTriggerEvent": "mode_rouguang_all_stop"
+  },
+  "301114": {
+    "Id": 301114,
+    "MonsterLv": 14,
+    "SceneName": "Levels/StoryActivity/StoryActivity_11/StoryActivity_11_006_A_01_Mir",
+    "ConfigPrefabName": "StoryActivity_11_006_A_Mir_H2",
+    "Mir": true,
+    "Theme": 451,
+    "BGM": "mode_rouguang_combatNormal_setState",
+    "LeaveTriggerEvent": "mode_rouguang_all_stop"
+  },
+  "301115": {
+    "Id": 301115,
+    "MonsterLv": 15,
+    "SceneName": "Levels/StoryActivity/StoryActivity_11/StoryActivity_11_009_A_01_Mir",
+    "ConfigPrefabName": "StoryActivity_11_009_A_Mir_H3",
+    "Mir": true,
+    "Theme": 451,
+    "BGM": "mode_rouguang_combatNormal_setState",
+    "LeaveTriggerEvent": "mode_rouguang_all_stop"
+  },
+  "301116": {
+    "Id": 301116,
+    "MonsterLv": 16,
+    "SceneName": "Levels/StoryActivity/StoryActivity_11/StoryActivity_11_Boss_B",
+    "ConfigPrefabName": "StoryActivity_11_Boss_H4",
+    "Theme": 451,
+    "BGM": "mode_rouguang_combatNormal_setState",
+    "LeaveTriggerEvent": "mode_rouguang_all_stop"
+  },
+  "301117": {
+    "Id": 301117,
+    "MonsterLv": 17,
+    "SceneName": "Levels/StoryActivity/StoryActivity_11/StoryActivity_11_008_B_01",
+    "ConfigPrefabName": "StoryActivity_11_008_B_H5",
+    "Theme": 451,
+    "BGM": "mode_rouguang_combatNormal_setState",
+    "LeaveTriggerEvent": "mode_rouguang_all_stop"
+  },
+  "301118": {
+    "Id": 301118,
+    "MonsterLv": 18,
+    "SceneName": "Levels/StoryActivity/StoryActivity_11/StoryActivity_11_009_A_01",
+    "ConfigPrefabName": "StoryActivity_11_009_A_H6",
+    "Theme": 451,
+    "BGM": "mode_rouguang_combatNormal_setState",
+    "LeaveTriggerEvent": "mode_rouguang_all_stop"
+  },
+  "301119": {
+    "Id": 301119,
+    "MonsterLv": 19,
+    "SceneName": "Levels/StoryActivity/StoryActivity_11/StoryActivity_11_013_A_01_Mir",
+    "ConfigPrefabName": "StoryActivity_11_013_A_Mir_H7",
+    "Mir": true,
+    "Theme": 451,
+    "BGM": "mode_rouguang_combatNormal_setState",
+    "LeaveTriggerEvent": "mode_rouguang_all_stop"
+  },
+  "301120": {
+    "Id": 301120,
+    "MonsterLv": 20,
+    "SceneName": "Levels/StoryActivity/StoryActivity_11/StoryActivity_11_Boss_B",
+    "ConfigPrefabName": "StoryActivity_11_Boss_H8",
+    "Theme": 451,
+    "BGM": "mode_rouguang_combatBoss_setState",
+    "LeaveTriggerEvent": "mode_rouguang_all_stop"
+  },
+  "301121": {
+    "Id": 301121,
+    "MonsterLv": 21,
+    "SceneName": "Levels/StoryActivity/StoryActivity_11/StoryActivity_11_009_A_01",
+    "ConfigPrefabName": "StoryActivity_11_009_A_C1",
+    "Theme": 451,
+    "BGM": "mode_rouguang_combatNormal_setState",
+    "LeaveTriggerEvent": "mode_rouguang_all_stop"
+  },
+  "301122": {
+    "Id": 301122,
+    "MonsterLv": 22,
+    "SceneName": "Levels/StoryActivity/StoryActivity_11/StoryActivity_11_013_A_01_Mir",
+    "ConfigPrefabName": "StoryActivity_11_013_A_Mir_C2",
+    "Mir": true,
+    "Theme": 451,
+    "BGM": "mode_rouguang_combatNormal_setState",
+    "LeaveTriggerEvent": "mode_rouguang_all_stop"
+  },
+  "301123": {
+    "Id": 301123,
+    "MonsterLv": 23,
+    "SceneName": "Levels/StoryActivity/StoryActivity_11/StoryActivity_11_006_A_01",
+    "ConfigPrefabName": "StoryActivity_11_006_A_C3",
+    "Theme": 451,
+    "BGM": "mode_rouguang_combatNormal_setState",
+    "LeaveTriggerEvent": "mode_rouguang_all_stop"
+  },
+  "301124": {
+    "Id": 301124,
+    "MonsterLv": 24,
+    "SceneName": "Levels/StoryActivity/StoryActivity_11/StoryActivity_11_Boss_B",
+    "ConfigPrefabName": "StoryActivity_11_Boss_C4",
+    "Theme": 451,
+    "BGM": "mode_rouguang_combatBoss_setState",
+    "LeaveTriggerEvent": "mode_rouguang_all_stop"
+  },
+  "301125": {
+    "Id": 301125,
+    "MonsterLv": 5,
+    "SceneName": "Levels/StoryActivity/StoryActivity_11/StoryActivity_11_009_A_01",
+    "ConfigPrefabName": "StoryActivity_11_009_A_JuQing",
+    "Theme": 451,
+    "BGM": "mode_rouguang_combatNormal_setState",
+    "LeaveTriggerEvent": "mode_rouguang_all_stop"
+  },
+  "301126": {
+    "Id": 301126,
+    "MonsterLv": 7,
+    "SceneName": "Levels/StoryActivity/StoryActivity_11/StoryActivity_11_Boss_B",
+    "ConfigPrefabName": "StoryActivity_11_Boss_JuQing",
+    "Theme": 451,
+    "BGM": "mode_rouguang_combatBoss_setState",
+    "LeaveTriggerEvent": "mode_rouguang_all_stop"
   }
 }

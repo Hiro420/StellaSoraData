@@ -487,6 +487,32 @@
     "EndTime": "2026-05-26T04:00:00+08:00",
     "MiniGameRedDot": 1070304
   },
+  "400010": {
+    "Id": 400010,
+    "MidGroupId": 10108,
+    "SortId": 4,
+    "ActivityType": 4,
+    "Name": "曲奇工坊四期",
+    "ActivityThemeType": 14,
+    "StartType": 2,
+    "StartTime": "2026-06-02T12:00:00+08:00",
+    "EndType": 2,
+    "EndTime": "2026-06-16T04:00:00+08:00",
+    "MiniGameRedDot": 1080304
+  },
+  "400011": {
+    "Id": 400011,
+    "MidGroupId": 11100,
+    "SortId": 4,
+    "ActivityType": 3,
+    "Name": "幸运寻宝铲5期",
+    "ActivityThemeType": 13,
+    "StartType": 2,
+    "StartTime": "2026-06-16T12:00:00+08:00",
+    "EndType": 2,
+    "EndTime": "2026-06-30T04:00:00+08:00",
+    "MiniGameRedDot": 1000314
+  },
   "500001": {
     "Id": 500001,
     "SortId": 6,
@@ -662,6 +688,22 @@
     "EndTime": "2026-05-08T03:59:59+08:00",
     "EnterRes": "Icon/Banner/banner_avtivity_m",
     "TabBgRes": "Icon/Banner/tab_activity_jointdrill"
+  },
+  "510005": {
+    "Id": 510005,
+    "SortId": 4,
+    "ActivityType": 7,
+    "Name": "总力战正式Ⅴ期",
+    "PreLimit": 1,
+    "LimitParam": "6",
+    "PlayCond": 1,
+    "PlayCondParams": "10",
+    "StartType": 2,
+    "StartTime": "2026-06-15T12:00:00+08:00",
+    "EndType": 2,
+    "EndTime": "2026-06-24T03:59:59+08:00",
+    "EnterRes": "Icon/Banner/banner_avtivity_m_2",
+    "TabBgRes": "Icon/Banner/tab_activity_jointdrill_2"
   },
   "600001": {
     "Id": 600001,
@@ -914,6 +956,28 @@
     "EndTime": "2026-06-16T04:00:00+08:00",
     "TabBgRes": "Icon/Banner/tab_activity_trial_155"
   },
+  "700121": {
+    "Id": 700121,
+    "SortId": 7,
+    "ActivityType": 6,
+    "Name": "浅试身手-斯帕克拉",
+    "StartType": 2,
+    "StartTime": "2026-06-02T12:00:00+08:00",
+    "EndType": 2,
+    "EndTime": "2026-06-23T10:59:59+08:00",
+    "TabBgRes": "Icon/Banner/tab_activity_trial_140_lang"
+  },
+  "700122": {
+    "Id": 700122,
+    "SortId": 7,
+    "ActivityType": 6,
+    "Name": "浅试身手-花原",
+    "StartType": 2,
+    "StartTime": "2026-06-16T12:00:00+08:00",
+    "EndType": 2,
+    "EndTime": "2026-07-07T04:00:00+08:00",
+    "TabBgRes": "Icon/Banner/tab_activity_trial_119"
+  },
   "1010001": {
     "Id": 1010001,
     "MidGroupId": 10100,
@@ -1145,6 +1209,20 @@
     "EndType": 2,
     "EndTime": "2026-04-30T04:00:00+08:00",
     "MiniGameRedDot": 2010205
+  },
+  "800003": {
+    "Id": 800003,
+    "ActivityType": 18,
+    "PreLimit": 1,
+    "LimitParam": "5",
+    "PlayCond": 1,
+    "PlayCondParams": "5",
+    "StartType": 2,
+    "StartTime": "2026-06-16T12:00:00+08:00",
+    "EndType": 2,
+    "EndTime": "2026-06-23T10:59:59+08:00",
+    "BannerRes": "banner_PengCard",
+    "TabBgRes": "Icon/Banner/tab_activity_PengCard"
   },
   "1010401": {
     "Id": 1010401,
@@ -1455,5 +1533,101 @@
     "StartTime": "2026-05-14T12:00:00+08:00",
     "EndType": 2,
     "EndTime": "2026-06-02T10:59:59+08:00"
+  },
+  "1010801": {
+    "Id": 1010801,
+    "MidGroupId": 10108,
+    "SortId": 8,
+    "ActivityType": 9,
+    "Name": "斯帕克拉战斗关卡",
+    "ActivityThemeType": 14,
+    "StartType": 2,
+    "StartTime": "2026-06-02T12:00:00+08:00",
+    "EndType": 2,
+    "EndTime": "2026-06-16T04:00:00+08:00"
+  },
+  "1010802": {
+    "Id": 1010802,
+    "MidGroupId": 10108,
+    "SortId": 10,
+    "ActivityType": 17,
+    "Name": "斯帕克拉剧情故事",
+    "ActivityThemeType": 14,
+    "StartType": 2,
+    "StartTime": "2026-06-02T12:00:00+08:00",
+    "EndType": 2,
+    "EndTime": "2026-06-16T04:00:00+08:00"
+  },
+  "1010803": {
+    "Id": 1010803,
+    "MidGroupId": 10108,
+    "SortId": 11,
+    "ActivityType": 11,
+    "Name": "斯帕克拉活动任务",
+    "ActivityThemeType": 14,
+    "StartType": 2,
+    "StartTime": "2026-06-02T12:00:00+08:00",
+    "EndType": 2,
+    "EndTime": "2026-06-23T10:59:59+08:00"
+  },
+  "1010804": {
+    "Id": 1010804,
+    "MidGroupId": 10108,
+    "SortId": 12,
+    "ActivityType": 12,
+    "Name": "斯帕克拉活动商店",
+    "ActivityThemeType": 14,
+    "StartType": 2,
+    "StartTime": "2026-06-02T12:00:00+08:00",
+    "EndType": 2,
+    "EndTime": "2026-06-23T10:59:59+08:00"
+  },
+  "1110001": {
+    "Id": 1110001,
+    "MidGroupId": 11100,
+    "SortId": 8,
+    "ActivityType": 9,
+    "Name": "泳装战斗关卡",
+    "ActivityThemeType": 13,
+    "StartType": 2,
+    "StartTime": "2026-06-16T12:00:00+08:00",
+    "EndType": 2,
+    "EndTime": "2026-06-30T04:00:00+08:00"
+  },
+  "1110002": {
+    "Id": 1110002,
+    "MidGroupId": 11100,
+    "SortId": 10,
+    "ActivityType": 22,
+    "Name": "泳装剧情故事(复刻）",
+    "ActivityThemeType": 13,
+    "StartType": 2,
+    "StartTime": "2026-06-16T12:00:00+08:00",
+    "EndType": 2,
+    "EndTime": "2026-06-30T04:00:00+08:00"
+  },
+  "1110003": {
+    "Id": 1110003,
+    "MidGroupId": 11100,
+    "SortId": 11,
+    "ActivityType": 11,
+    "Name": "泳装活动任务",
+    "ActivityThemeType": 13,
+    "StartType": 2,
+    "StartTime": "2026-06-16T12:00:00+08:00",
+    "EndType": 2,
+    "EndTime": "2026-07-07T10:59:59+08:00"
+  },
+  "1110004": {
+    "Id": 1110004,
+    "MidGroupId": 11100,
+    "SortId": 12,
+    "ActivityType": 12,
+    "Name": "泳装活动商店",
+    "ActivityThemeType": 13,
+    "StartType": 2,
+    "StartTime": "2026-06-16T12:00:00+08:00",
+    "EndType": 2,
+    "EndTime": "2026-07-07T10:59:59+08:00"
   }
 }

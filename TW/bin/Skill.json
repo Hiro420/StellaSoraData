@@ -4480,9 +4480,9 @@
     "Type": 1,
     "BriefDesc": "Skill.14010000.13",
     "Desc": "Skill.14010000.2",
-    "Icon": "Icon/Skill/14901_Normal",
+    "Icon": "Icon/Skill/14001_Normal",
     "MaxLevel": 10,
-    "GetEnergyLimit": 49900,
+    "GetEnergyLimit": 24900,
     "Param1": "HitDamage,DamageNum,140100001,10K",
     "Param2": "HitDamage,DamageNum,140100002,10K",
     "Param3": "HitDamage,DamageNum,140100003,10K"
@@ -4505,10 +4505,10 @@
     "Type": 3,
     "BriefDesc": "Skill.14031000.13",
     "Desc": "Skill.14031000.2",
-    "Icon": "Icon/Skill/14901_Skill_Main",
+    "Icon": "Icon/Skill/14001_Skill_Main",
     "SkillCD": 50000,
     "MaxLevel": 10,
-    "GetEnergyLimit": 551200,
+    "GetEnergyLimit": 669300,
     "Param1": "HitDamage,DamageNum,140310002,10K",
     "Param2": "HitDamage,DamageNum,140310003,10K",
     "Param3": "HitDamage,DamageNum,140000001,10K",
@@ -4533,7 +4533,7 @@
     "Type": 3,
     "BriefDesc": "Skill.14031002.13",
     "Desc": "Skill.14031002.2",
-    "Icon": "Icon/Skill/14901_Skill_Main",
+    "Icon": "Icon/Skill/14001_Skill_Main",
     "SkillCD": 10000,
     "MaxLevel": 10,
     "CheckSkillInterval": true
@@ -4545,7 +4545,7 @@
     "Type": 3,
     "BriefDesc": "Skill.14031003.13",
     "Desc": "Skill.14031003.2",
-    "Icon": "Icon/Skill/14901_Skill_Main",
+    "Icon": "Icon/Skill/14001_Skill_Main",
     "SkillCD": 10000,
     "MaxLevel": 10,
     "CheckSkillInterval": true
@@ -4557,7 +4557,7 @@
     "Type": 3,
     "BriefDesc": "Skill.14031004.13",
     "Desc": "Skill.14031004.2",
-    "Icon": "Icon/Skill/14901_Skill_Main",
+    "Icon": "Icon/Skill/14001_Skill_Main_Tank",
     "SkillCD": 100000,
     "MaxLevel": 10,
     "CheckSkillInterval": true
@@ -4569,7 +4569,7 @@
     "Type": 3,
     "BriefDesc": "Skill.14031011.13",
     "Desc": "Skill.14031011.2",
-    "Icon": "Icon/Skill/14901_Skill_Main",
+    "Icon": "Icon/Skill/14001_Skill_Main_Tank",
     "SkillCD": 10000,
     "MaxLevel": 10,
     "CheckSkillInterval": true
@@ -4581,10 +4581,11 @@
     "Type": 3,
     "BriefDesc": "Skill.14031012.13",
     "Desc": "Skill.14031012.2",
-    "Icon": "Icon/Skill/11601_Skill_Main",
+    "Icon": "Icon/Skill/14001_Skill_Main_Tank",
     "SkillCD": 10000,
     "MaxLevel": 10,
     "UseTimeHint": 100000,
+    "GetEnergyLimit": 80000,
     "CheckSkillInterval": true
   },
   "14031021": {
@@ -4594,7 +4595,7 @@
     "Type": 3,
     "BriefDesc": "Skill.14031021.13",
     "Desc": "Skill.14031021.2",
-    "Icon": "Icon/Skill/14901_Skill_Main",
+    "Icon": "Icon/Skill/14001_Skill_Main_Cannon",
     "SkillCD": 10000,
     "MaxLevel": 10,
     "CheckSkillInterval": true
@@ -4606,9 +4607,10 @@
     "Type": 3,
     "BriefDesc": "Skill.14031022.13",
     "Desc": "Skill.14031022.2",
-    "Icon": "Icon/Skill/11601_Skill_Support",
+    "Icon": "Icon/Skill/14001_Skill_Main_Cannon",
     "SkillCD": 30000,
     "MaxLevel": 10,
+    "GetEnergyLimit": 130000,
     "CheckSkillInterval": true
   },
   "14032000": {
@@ -4618,7 +4620,7 @@
     "Type": 4,
     "BriefDesc": "Skill.14032000.13",
     "Desc": "Skill.14032000.2",
-    "Icon": "Icon/Skill/14901_Skill_Support",
+    "Icon": "Icon/Skill/14001_Skill_Support",
     "SkillCD": 120000,
     "MaxLevel": 10,
     "Param1": "HitDamage,DamageNum,140320002,10K",
@@ -4632,7 +4634,7 @@
     "Type": 5,
     "BriefDesc": "Skill.14040000.13",
     "Desc": "Skill.14040000.2",
-    "Icon": "Icon/Skill/14901_Ultra",
+    "Icon": "Icon/Skill/14001_Ultra",
     "SkillCD": 400000,
     "MaxLevel": 10,
     "UltraEnergy": 3570000,
@@ -19508,7 +19510,7 @@
   "3110102": {
     "Id": 3110102,
     "Title": "Skill.3110102.1",
-    "FCPath": "AIScript.Monster._31101GeLeiHuoEn.Skill01_FastRush",
+    "FCPath": "AIScript.Monster._31101GeLeiHuoEn.Skill_Spawn",
     "Type": 2,
     "BriefDesc": "Skill.3110102.13",
     "Desc": "Skill.3110102.2",
@@ -19517,7 +19519,7 @@
   "3110103": {
     "Id": 3110103,
     "Title": "Skill.3110103.1",
-    "FCPath": "AIScript.Monster._31101GeLeiHuoEn.Skill_Spawn",
+    "FCPath": "AIScript.Monster._31101GeLeiHuoEn.Skill02_Prick",
     "Type": 2,
     "BriefDesc": "Skill.3110103.13",
     "Desc": "Skill.3110103.2",
@@ -19526,10 +19528,55 @@
   "3110104": {
     "Id": 3110104,
     "Title": "Skill.3110104.1",
-    "FCPath": "AIScript.Monster._31101GeLeiHuoEn.Skill02_CastSpell",
+    "FCPath": "AIScript.Monster._31101GeLeiHuoEn.Skill03_Investigate",
     "Type": 2,
     "BriefDesc": "Skill.3110104.13",
     "Desc": "Skill.3110104.2",
+    "MaxLevel": 1
+  },
+  "3110105": {
+    "Id": 3110105,
+    "Title": "Skill.3110105.1",
+    "FCPath": "AIScript.Monster._31101GeLeiHuoEn.Skill04_Hunting",
+    "Type": 2,
+    "BriefDesc": "Skill.3110105.13",
+    "Desc": "Skill.3110105.2",
+    "MaxLevel": 1
+  },
+  "3110106": {
+    "Id": 3110106,
+    "Title": "Skill.3110106.1",
+    "FCPath": "AIScript.Monster._31101GeLeiHuoEn.Skill05_SwordDance",
+    "Type": 2,
+    "BriefDesc": "Skill.3110106.13",
+    "Desc": "Skill.3110106.2",
+    "MaxLevel": 1
+  },
+  "3110107": {
+    "Id": 3110107,
+    "Title": "Skill.3110107.1",
+    "FCPath": "AIScript.Monster._31101GeLeiHuoEn.Wander_Small",
+    "Type": 2,
+    "BriefDesc": "Skill.3110107.13",
+    "Desc": "Skill.3110107.2",
+    "MaxLevel": 1
+  },
+  "3110108": {
+    "Id": 3110108,
+    "Title": "Skill.3110108.1",
+    "FCPath": "AIScript.Monster._31101GeLeiHuoEn.Wander_Big",
+    "Type": 2,
+    "BriefDesc": "Skill.3110108.13",
+    "Desc": "Skill.3110108.2",
+    "MaxLevel": 1
+  },
+  "3110109": {
+    "Id": 3110109,
+    "Title": "Skill.3110109.1",
+    "FCPath": "AIScript.Monster._31101GeLeiHuoEn.Wander",
+    "Type": 2,
+    "BriefDesc": "Skill.3110109.13",
+    "Desc": "Skill.3110109.2",
     "MaxLevel": 1
   },
   "3110201": {
@@ -19571,19 +19618,10 @@
   "3110205": {
     "Id": 3110205,
     "Title": "Skill.3110205.1",
-    "FCPath": "AIScript.Monster._31102LieQuan.Patrol_2",
+    "FCPath": "AIScript.Monster._31102LieQuan.Skill_Spawn",
     "Type": 2,
     "BriefDesc": "Skill.3110205.13",
     "Desc": "Skill.3110205.2",
-    "MaxLevel": 1
-  },
-  "3110206": {
-    "Id": 3110206,
-    "Title": "Skill.3110206.1",
-    "FCPath": "AIScript.Monster._31102LieQuan.Skill_Spawn",
-    "Type": 2,
-    "BriefDesc": "Skill.3110206.13",
-    "Desc": "Skill.3110206.2",
     "MaxLevel": 1
   },
   "5000901": {

@@ -992,5 +992,98 @@
   "ViewfinderStory": {
     "Id": "ViewfinderStory",
     "Title": "TopBar.ViewfinderStory.1"
+  },
+  "Task_10108": {
+    "Id": "Task_10108",
+    "Title": "TopBar.Task_10108.1",
+    "Coin": true,
+    "CoinIds": [
+      73111
+    ]
+  },
+  "Shop_10108": {
+    "Id": "Shop_10108",
+    "Title": "TopBar.Shop_10108.1",
+    "Coin": true
+  },
+  "Main_10108": {
+    "Id": "Main_10108",
+    "Title": "TopBar.Main_10108.1",
+    "Coin": true,
+    "CoinIds": [
+      73111
+    ]
+  },
+  "ActivityLevelsSelectPanel_10108": {
+    "Id": "ActivityLevelsSelectPanel_10108",
+    "Title": "TopBar.ActivityLevelsSelectPanel_10108.1",
+    "Energy": true
+  },
+  "TechStory": {
+    "Id": "TechStory",
+    "Title": "TopBar.TechStory.1"
+  },
+  "CookieGamePanel_400010": {
+    "Id": "CookieGamePanel_400010",
+    "Title": "TopBar.CookieGamePanel_400010.1",
+    "EntryId": 400301,
+    "Coin": true
+  },
+  "CookieBoardPanel_400010": {
+    "Id": "CookieBoardPanel_400010",
+    "Title": "TopBar.CookieBoardPanel_400010.1"
+  },
+  "JointDrillBuildList_510005": {
+    "Id": "JointDrillBuildList_510005",
+    "Title": "TopBar.JointDrillBuildList_510005.1",
+    "EntryId": 201602
+  },
+  "JointDrillLevelSelect_510005": {
+    "Id": "JointDrillLevelSelect_510005",
+    "Title": "TopBar.JointDrillLevelSelect_510005.1",
+    "EntryId": 201601
+  },
+  "JointDrillRanking_510005": {
+    "Id": "JointDrillRanking_510005",
+    "Title": "TopBar.JointDrillRanking_510005.1"
+  },
+  "Task_11100": {
+    "Id": "Task_11100",
+    "Title": "TopBar.Task_11100.1",
+    "Coin": true,
+    "CoinIds": [
+      73101
+    ]
+  },
+  "ActivityLevelsSelectPanel_11100": {
+    "Id": "ActivityLevelsSelectPanel_11100",
+    "Title": "TopBar.ActivityLevelsSelectPanel_11100.1",
+    "Energy": true
+  },
+  "SwimTheme_11100": {
+    "Id": "SwimTheme_11100",
+    "Title": "TopBar.SwimTheme_11100.1",
+    "Coin": true,
+    "CoinIds": [
+      73101
+    ]
+  },
+  "SwimThemeStory_11100": {
+    "Id": "SwimThemeStory_11100",
+    "Title": "TopBar.SwimThemeStory_11100.1"
+  },
+  "Shop_11100": {
+    "Id": "Shop_11100",
+    "Title": "TopBar.Shop_11100.1",
+    "Coin": true
+  },
+  "MiningGame_400011": {
+    "Id": "MiningGame_400011",
+    "Title": "TopBar.MiningGame_400011.1",
+    "EntryId": 400101
+  },
+  "MiningGameGuidePanel_400011": {
+    "Id": "MiningGameGuidePanel_400011",
+    "Title": "TopBar.MiningGameGuidePanel_400011.1"
   }
 }

@@ -20440,7 +20440,9 @@
     "Sort": 1,
     "Nodes": 10,
     "Desc": "Talent.1400116.2",
-    "Param1": "OnceAdditionalAttributeValue,NoLevel,14096111,Value1,10KHdPct"
+    "Param1": "EffectValue,NoLevel,14096111,EffectTypeParam1,HdPct",
+    "Param2": "BuffValue,NoLevel,14096111,Time,10K",
+    "Param3": "BuffValue,NoLevel,14096111,LaminatedNum,Fixed"
   },
   "1400217": {
     "Id": 1400217,
@@ -20582,8 +20584,9 @@
     "Sort": 1,
     "Nodes": 10,
     "Desc": "Talent.1400232.2",
-    "Param1": "OnceAdditionalAttributeValue,NoLevel,14096211,Value1,10KHdPct",
-    "Param2": "OnceAdditionalAttributeValue,NoLevel,14096211,Value1,10KHdPct"
+    "Param1": "EffectValue,NoLevel,14096211,EffectTypeParam1,HdPct",
+    "Param2": "BuffValue,NoLevel,14096211,Time,10K",
+    "Param3": "BuffValue,NoLevel,14096211,LaminatedNum,Fixed"
   },
   "1400333": {
     "Id": 1400333,
@@ -20869,7 +20872,8 @@
     "Nodes": 10,
     "Desc": "Talent.1400464.2",
     "Param1": "EffectValue,NoLevel,14096411,EffectTypeParam1,HdPct",
-    "Param2": "BuffValue,NoLevel,14096411,Time,10K"
+    "Param2": "BuffValue,NoLevel,14096411,Time,10K",
+    "Param3": "BuffValue,NoLevel,14096411,LaminatedNum,Fixed"
   },
   "1400565": {
     "Id": 1400565,

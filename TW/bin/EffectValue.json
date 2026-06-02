@@ -41807,15 +41807,6 @@
     "EffectType": 1,
     "EffectTypeFirstSubtype": 6
   },
-  "14003011": {
-    "Id": 14003011,
-    "Tag": "1",
-    "EffectRate": 100,
-    "EffectType": 12,
-    "EffectTypeFirstSubtype": 2,
-    "EffectTypeSecondSubtype": 1,
-    "EffectTypeParam1": "500"
-  },
   "14005011": {
     "Id": 14005011,
     "Tag": "1",
@@ -41823,7 +41814,7 @@
     "EffectType": 12,
     "EffectTypeFirstSubtype": 1,
     "EffectTypeSecondSubtype": 2,
-    "EffectTypeParam1": "1"
+    "EffectTypeParam1": "0.04"
   },
   "14005021": {
     "Id": 14005021,
@@ -41832,7 +41823,7 @@
     "EffectType": 12,
     "EffectTypeFirstSubtype": 1,
     "EffectTypeSecondSubtype": 2,
-    "EffectTypeParam1": "0.15"
+    "EffectTypeParam1": "0.064"
   },
   "14005031": {
     "Id": 14005031,
@@ -41841,7 +41832,7 @@
     "EffectType": 12,
     "EffectTypeFirstSubtype": 1,
     "EffectTypeSecondSubtype": 2,
-    "EffectTypeParam1": "0.21"
+    "EffectTypeParam1": "0.088"
   },
   "14005041": {
     "Id": 14005041,
@@ -41850,7 +41841,7 @@
     "EffectType": 12,
     "EffectTypeFirstSubtype": 1,
     "EffectTypeSecondSubtype": 2,
-    "EffectTypeParam1": "0.26"
+    "EffectTypeParam1": "0.112"
   },
   "14005051": {
     "Id": 14005051,
@@ -41859,7 +41850,7 @@
     "EffectType": 12,
     "EffectTypeFirstSubtype": 1,
     "EffectTypeSecondSubtype": 2,
-    "EffectTypeParam1": "0.32"
+    "EffectTypeParam1": "0.136"
   },
   "14005061": {
     "Id": 14005061,
@@ -41868,7 +41859,7 @@
     "EffectType": 12,
     "EffectTypeFirstSubtype": 1,
     "EffectTypeSecondSubtype": 2,
-    "EffectTypeParam1": "0.37"
+    "EffectTypeParam1": "0.16"
   },
   "14005071": {
     "Id": 14005071,
@@ -41877,7 +41868,7 @@
     "EffectType": 12,
     "EffectTypeFirstSubtype": 1,
     "EffectTypeSecondSubtype": 2,
-    "EffectTypeParam1": "0.43"
+    "EffectTypeParam1": "0.184"
   },
   "14005081": {
     "Id": 14005081,
@@ -41886,7 +41877,7 @@
     "EffectType": 12,
     "EffectTypeFirstSubtype": 1,
     "EffectTypeSecondSubtype": 2,
-    "EffectTypeParam1": "0.49"
+    "EffectTypeParam1": "0.208"
   },
   "14005091": {
     "Id": 14005091,
@@ -41895,88 +41886,88 @@
     "EffectType": 12,
     "EffectTypeFirstSubtype": 1,
     "EffectTypeSecondSubtype": 2,
-    "EffectTypeParam1": "0.54"
+    "EffectTypeParam1": "0.232"
   },
   "14006011": {
     "Id": 14006011,
     "Tag": "1",
     "EffectRate": 100,
-    "EffectType": 12,
+    "EffectType": 52,
     "EffectTypeFirstSubtype": 57,
-    "EffectTypeSecondSubtype": 1,
-    "EffectTypeParam1": "1"
+    "EffectTypeSecondSubtype": 3,
+    "EffectTypeParam1": "0.31"
   },
   "14006021": {
     "Id": 14006021,
     "Tag": "1",
     "EffectRate": 100,
-    "EffectType": 12,
+    "EffectType": 52,
     "EffectTypeFirstSubtype": 57,
-    "EffectTypeSecondSubtype": 1,
-    "EffectTypeParam1": "0.15"
+    "EffectTypeSecondSubtype": 3,
+    "EffectTypeParam1": "0.5"
   },
   "14006031": {
     "Id": 14006031,
     "Tag": "1",
     "EffectRate": 100,
-    "EffectType": 12,
+    "EffectType": 52,
     "EffectTypeFirstSubtype": 57,
-    "EffectTypeSecondSubtype": 1,
-    "EffectTypeParam1": "0.21"
+    "EffectTypeSecondSubtype": 3,
+    "EffectTypeParam1": "0.69"
   },
   "14006041": {
     "Id": 14006041,
     "Tag": "1",
     "EffectRate": 100,
-    "EffectType": 12,
+    "EffectType": 52,
     "EffectTypeFirstSubtype": 57,
-    "EffectTypeSecondSubtype": 1,
-    "EffectTypeParam1": "0.26"
+    "EffectTypeSecondSubtype": 3,
+    "EffectTypeParam1": "0.87"
   },
   "14006051": {
     "Id": 14006051,
     "Tag": "1",
     "EffectRate": 100,
-    "EffectType": 12,
+    "EffectType": 52,
     "EffectTypeFirstSubtype": 57,
-    "EffectTypeSecondSubtype": 1,
-    "EffectTypeParam1": "0.32"
+    "EffectTypeSecondSubtype": 3,
+    "EffectTypeParam1": "1.06"
   },
   "14006061": {
     "Id": 14006061,
     "Tag": "1",
     "EffectRate": 100,
-    "EffectType": 12,
+    "EffectType": 52,
     "EffectTypeFirstSubtype": 57,
-    "EffectTypeSecondSubtype": 1,
-    "EffectTypeParam1": "0.37"
+    "EffectTypeSecondSubtype": 3,
+    "EffectTypeParam1": "1.25"
   },
   "14006071": {
     "Id": 14006071,
     "Tag": "1",
     "EffectRate": 100,
-    "EffectType": 12,
+    "EffectType": 52,
     "EffectTypeFirstSubtype": 57,
-    "EffectTypeSecondSubtype": 1,
-    "EffectTypeParam1": "0.43"
+    "EffectTypeSecondSubtype": 3,
+    "EffectTypeParam1": "1.43"
   },
   "14006081": {
     "Id": 14006081,
     "Tag": "1",
     "EffectRate": 100,
-    "EffectType": 12,
+    "EffectType": 52,
     "EffectTypeFirstSubtype": 57,
-    "EffectTypeSecondSubtype": 1,
-    "EffectTypeParam1": "0.49"
+    "EffectTypeSecondSubtype": 3,
+    "EffectTypeParam1": "1.62"
   },
   "14006091": {
     "Id": 14006091,
     "Tag": "1",
     "EffectRate": 100,
-    "EffectType": 12,
+    "EffectType": 52,
     "EffectTypeFirstSubtype": 57,
-    "EffectTypeSecondSubtype": 1,
-    "EffectTypeParam1": "0.54"
+    "EffectTypeSecondSubtype": 3,
+    "EffectTypeParam1": "1.81"
   },
   "14006012": {
     "Id": 14006012,
@@ -41991,82 +41982,82 @@
     "Id": 14007011,
     "Tag": "1",
     "EffectRate": 100,
-    "EffectType": 12,
-    "EffectTypeFirstSubtype": 1,
-    "EffectTypeSecondSubtype": 2,
-    "EffectTypeParam1": "1"
+    "EffectType": 52,
+    "EffectTypeFirstSubtype": 57,
+    "EffectTypeSecondSubtype": 3,
+    "EffectTypeParam1": "0.026"
   },
   "14007021": {
     "Id": 14007021,
     "Tag": "1",
     "EffectRate": 100,
-    "EffectType": 12,
-    "EffectTypeFirstSubtype": 1,
-    "EffectTypeSecondSubtype": 2,
-    "EffectTypeParam1": "0.15"
+    "EffectType": 52,
+    "EffectTypeFirstSubtype": 57,
+    "EffectTypeSecondSubtype": 3,
+    "EffectTypeParam1": "0.042"
   },
   "14007031": {
     "Id": 14007031,
     "Tag": "1",
     "EffectRate": 100,
-    "EffectType": 12,
-    "EffectTypeFirstSubtype": 1,
-    "EffectTypeSecondSubtype": 2,
-    "EffectTypeParam1": "0.21"
+    "EffectType": 52,
+    "EffectTypeFirstSubtype": 57,
+    "EffectTypeSecondSubtype": 3,
+    "EffectTypeParam1": "0.058"
   },
   "14007041": {
     "Id": 14007041,
     "Tag": "1",
     "EffectRate": 100,
-    "EffectType": 12,
-    "EffectTypeFirstSubtype": 1,
-    "EffectTypeSecondSubtype": 2,
-    "EffectTypeParam1": "0.26"
+    "EffectType": 52,
+    "EffectTypeFirstSubtype": 57,
+    "EffectTypeSecondSubtype": 3,
+    "EffectTypeParam1": "0.074"
   },
   "14007051": {
     "Id": 14007051,
     "Tag": "1",
     "EffectRate": 100,
-    "EffectType": 12,
-    "EffectTypeFirstSubtype": 1,
-    "EffectTypeSecondSubtype": 2,
-    "EffectTypeParam1": "0.32"
+    "EffectType": 52,
+    "EffectTypeFirstSubtype": 57,
+    "EffectTypeSecondSubtype": 3,
+    "EffectTypeParam1": "0.09"
   },
   "14007061": {
     "Id": 14007061,
     "Tag": "1",
     "EffectRate": 100,
-    "EffectType": 12,
-    "EffectTypeFirstSubtype": 1,
-    "EffectTypeSecondSubtype": 2,
-    "EffectTypeParam1": "0.37"
+    "EffectType": 52,
+    "EffectTypeFirstSubtype": 57,
+    "EffectTypeSecondSubtype": 3,
+    "EffectTypeParam1": "0.106"
   },
   "14007071": {
     "Id": 14007071,
     "Tag": "1",
     "EffectRate": 100,
-    "EffectType": 12,
-    "EffectTypeFirstSubtype": 1,
-    "EffectTypeSecondSubtype": 2,
-    "EffectTypeParam1": "0.43"
+    "EffectType": 52,
+    "EffectTypeFirstSubtype": 57,
+    "EffectTypeSecondSubtype": 3,
+    "EffectTypeParam1": "0.122"
   },
   "14007081": {
     "Id": 14007081,
     "Tag": "1",
     "EffectRate": 100,
-    "EffectType": 12,
-    "EffectTypeFirstSubtype": 1,
-    "EffectTypeSecondSubtype": 2,
-    "EffectTypeParam1": "0.49"
+    "EffectType": 52,
+    "EffectTypeFirstSubtype": 57,
+    "EffectTypeSecondSubtype": 3,
+    "EffectTypeParam1": "0.138"
   },
   "14007091": {
     "Id": 14007091,
     "Tag": "1",
     "EffectRate": 100,
-    "EffectType": 12,
-    "EffectTypeFirstSubtype": 1,
-    "EffectTypeSecondSubtype": 2,
-    "EffectTypeParam1": "0.54"
+    "EffectType": 52,
+    "EffectTypeFirstSubtype": 57,
+    "EffectTypeSecondSubtype": 3,
+    "EffectTypeParam1": "0.154"
   },
   "14009011": {
     "Id": 14009011,
@@ -42080,81 +42071,81 @@
     "Tag": "1",
     "EffectRate": 100,
     "EffectType": 12,
-    "EffectTypeFirstSubtype": 19,
-    "EffectTypeSecondSubtype": 1,
-    "EffectTypeParam1": "1"
+    "EffectTypeFirstSubtype": 1,
+    "EffectTypeSecondSubtype": 2,
+    "EffectTypeParam1": "0.045"
   },
   "14010022": {
     "Id": 14010022,
     "Tag": "1",
     "EffectRate": 100,
     "EffectType": 12,
-    "EffectTypeFirstSubtype": 19,
-    "EffectTypeSecondSubtype": 1,
-    "EffectTypeParam1": "0.15"
+    "EffectTypeFirstSubtype": 1,
+    "EffectTypeSecondSubtype": 2,
+    "EffectTypeParam1": "0.072"
   },
   "14010032": {
     "Id": 14010032,
     "Tag": "1",
     "EffectRate": 100,
     "EffectType": 12,
-    "EffectTypeFirstSubtype": 19,
-    "EffectTypeSecondSubtype": 1,
-    "EffectTypeParam1": "0.21"
+    "EffectTypeFirstSubtype": 1,
+    "EffectTypeSecondSubtype": 2,
+    "EffectTypeParam1": "0.099"
   },
   "14010042": {
     "Id": 14010042,
     "Tag": "1",
     "EffectRate": 100,
     "EffectType": 12,
-    "EffectTypeFirstSubtype": 19,
-    "EffectTypeSecondSubtype": 1,
-    "EffectTypeParam1": "0.26"
+    "EffectTypeFirstSubtype": 1,
+    "EffectTypeSecondSubtype": 2,
+    "EffectTypeParam1": "0.126"
   },
   "14010052": {
     "Id": 14010052,
     "Tag": "1",
     "EffectRate": 100,
     "EffectType": 12,
-    "EffectTypeFirstSubtype": 19,
-    "EffectTypeSecondSubtype": 1,
-    "EffectTypeParam1": "0.32"
+    "EffectTypeFirstSubtype": 1,
+    "EffectTypeSecondSubtype": 2,
+    "EffectTypeParam1": "0.153"
   },
   "14010062": {
     "Id": 14010062,
     "Tag": "1",
     "EffectRate": 100,
     "EffectType": 12,
-    "EffectTypeFirstSubtype": 19,
-    "EffectTypeSecondSubtype": 1,
-    "EffectTypeParam1": "0.37"
+    "EffectTypeFirstSubtype": 1,
+    "EffectTypeSecondSubtype": 2,
+    "EffectTypeParam1": "0.18"
   },
   "14010072": {
     "Id": 14010072,
     "Tag": "1",
     "EffectRate": 100,
     "EffectType": 12,
-    "EffectTypeFirstSubtype": 19,
-    "EffectTypeSecondSubtype": 1,
-    "EffectTypeParam1": "0.43"
+    "EffectTypeFirstSubtype": 1,
+    "EffectTypeSecondSubtype": 2,
+    "EffectTypeParam1": "0.207"
   },
   "14010082": {
     "Id": 14010082,
     "Tag": "1",
     "EffectRate": 100,
     "EffectType": 12,
-    "EffectTypeFirstSubtype": 19,
-    "EffectTypeSecondSubtype": 1,
-    "EffectTypeParam1": "0.49"
+    "EffectTypeFirstSubtype": 1,
+    "EffectTypeSecondSubtype": 2,
+    "EffectTypeParam1": "0.234"
   },
   "14010092": {
     "Id": 14010092,
     "Tag": "1",
     "EffectRate": 100,
     "EffectType": 12,
-    "EffectTypeFirstSubtype": 19,
-    "EffectTypeSecondSubtype": 1,
-    "EffectTypeParam1": "0.54"
+    "EffectTypeFirstSubtype": 1,
+    "EffectTypeSecondSubtype": 2,
+    "EffectTypeParam1": "0.261"
   },
   "14011011": {
     "Id": 14011011,
@@ -42163,7 +42154,7 @@
     "EffectType": 12,
     "EffectTypeFirstSubtype": 1,
     "EffectTypeSecondSubtype": 2,
-    "EffectTypeParam1": "1"
+    "EffectTypeParam1": "0.13"
   },
   "14011021": {
     "Id": 14011021,
@@ -42172,7 +42163,7 @@
     "EffectType": 12,
     "EffectTypeFirstSubtype": 1,
     "EffectTypeSecondSubtype": 2,
-    "EffectTypeParam1": "0.15"
+    "EffectTypeParam1": "0.21"
   },
   "14011031": {
     "Id": 14011031,
@@ -42181,7 +42172,7 @@
     "EffectType": 12,
     "EffectTypeFirstSubtype": 1,
     "EffectTypeSecondSubtype": 2,
-    "EffectTypeParam1": "0.21"
+    "EffectTypeParam1": "0.29"
   },
   "14011041": {
     "Id": 14011041,
@@ -42190,7 +42181,7 @@
     "EffectType": 12,
     "EffectTypeFirstSubtype": 1,
     "EffectTypeSecondSubtype": 2,
-    "EffectTypeParam1": "0.26"
+    "EffectTypeParam1": "0.37"
   },
   "14011051": {
     "Id": 14011051,
@@ -42199,7 +42190,7 @@
     "EffectType": 12,
     "EffectTypeFirstSubtype": 1,
     "EffectTypeSecondSubtype": 2,
-    "EffectTypeParam1": "0.32"
+    "EffectTypeParam1": "0.45"
   },
   "14011061": {
     "Id": 14011061,
@@ -42208,7 +42199,7 @@
     "EffectType": 12,
     "EffectTypeFirstSubtype": 1,
     "EffectTypeSecondSubtype": 2,
-    "EffectTypeParam1": "0.37"
+    "EffectTypeParam1": "0.53"
   },
   "14011071": {
     "Id": 14011071,
@@ -42217,7 +42208,7 @@
     "EffectType": 12,
     "EffectTypeFirstSubtype": 1,
     "EffectTypeSecondSubtype": 2,
-    "EffectTypeParam1": "0.43"
+    "EffectTypeParam1": "0.61"
   },
   "14011081": {
     "Id": 14011081,
@@ -42226,7 +42217,7 @@
     "EffectType": 12,
     "EffectTypeFirstSubtype": 1,
     "EffectTypeSecondSubtype": 2,
-    "EffectTypeParam1": "0.49"
+    "EffectTypeParam1": "0.69"
   },
   "14011091": {
     "Id": 14011091,
@@ -42235,7 +42226,7 @@
     "EffectType": 12,
     "EffectTypeFirstSubtype": 1,
     "EffectTypeSecondSubtype": 2,
-    "EffectTypeParam1": "0.54"
+    "EffectTypeParam1": "0.77"
   },
   "14012011": {
     "Id": 14012011,
@@ -42244,7 +42235,7 @@
     "EffectType": 12,
     "EffectTypeFirstSubtype": 1,
     "EffectTypeSecondSubtype": 2,
-    "EffectTypeParam1": "1"
+    "EffectTypeParam1": "0.1"
   },
   "14012021": {
     "Id": 14012021,
@@ -42253,7 +42244,7 @@
     "EffectType": 12,
     "EffectTypeFirstSubtype": 1,
     "EffectTypeSecondSubtype": 2,
-    "EffectTypeParam1": "0.15"
+    "EffectTypeParam1": "0.17"
   },
   "14012031": {
     "Id": 14012031,
@@ -42262,7 +42253,7 @@
     "EffectType": 12,
     "EffectTypeFirstSubtype": 1,
     "EffectTypeSecondSubtype": 2,
-    "EffectTypeParam1": "0.21"
+    "EffectTypeParam1": "0.23"
   },
   "14012041": {
     "Id": 14012041,
@@ -42271,7 +42262,7 @@
     "EffectType": 12,
     "EffectTypeFirstSubtype": 1,
     "EffectTypeSecondSubtype": 2,
-    "EffectTypeParam1": "0.26"
+    "EffectTypeParam1": "0.29"
   },
   "14012051": {
     "Id": 14012051,
@@ -42280,7 +42271,7 @@
     "EffectType": 12,
     "EffectTypeFirstSubtype": 1,
     "EffectTypeSecondSubtype": 2,
-    "EffectTypeParam1": "0.32"
+    "EffectTypeParam1": "0.35"
   },
   "14012061": {
     "Id": 14012061,
@@ -42289,7 +42280,7 @@
     "EffectType": 12,
     "EffectTypeFirstSubtype": 1,
     "EffectTypeSecondSubtype": 2,
-    "EffectTypeParam1": "0.37"
+    "EffectTypeParam1": "0.41"
   },
   "14012071": {
     "Id": 14012071,
@@ -42298,7 +42289,7 @@
     "EffectType": 12,
     "EffectTypeFirstSubtype": 1,
     "EffectTypeSecondSubtype": 2,
-    "EffectTypeParam1": "0.43"
+    "EffectTypeParam1": "0.48"
   },
   "14012081": {
     "Id": 14012081,
@@ -42307,7 +42298,7 @@
     "EffectType": 12,
     "EffectTypeFirstSubtype": 1,
     "EffectTypeSecondSubtype": 2,
-    "EffectTypeParam1": "0.49"
+    "EffectTypeParam1": "0.54"
   },
   "14012091": {
     "Id": 14012091,
@@ -42316,16 +42307,16 @@
     "EffectType": 12,
     "EffectTypeFirstSubtype": 1,
     "EffectTypeSecondSubtype": 2,
-    "EffectTypeParam1": "0.54"
+    "EffectTypeParam1": "0.6"
   },
   "14022012": {
     "Id": 14022012,
     "Tag": "1",
     "EffectRate": 100,
-    "EffectType": 12,
-    "EffectTypeFirstSubtype": 1,
-    "EffectTypeSecondSubtype": 2,
-    "EffectTypeParam1": "1"
+    "EffectType": 52,
+    "EffectTypeFirstSubtype": 57,
+    "EffectTypeSecondSubtype": 3,
+    "EffectTypeParam1": "0.012"
   },
   "14026011": {
     "Id": 14026011,
@@ -42334,7 +42325,7 @@
     "EffectType": 12,
     "EffectTypeFirstSubtype": 1,
     "EffectTypeSecondSubtype": 2,
-    "EffectTypeParam1": "1"
+    "EffectTypeParam1": "0.2"
   },
   "14026021": {
     "Id": 14026021,
@@ -42343,7 +42334,7 @@
     "EffectType": 12,
     "EffectTypeFirstSubtype": 1,
     "EffectTypeSecondSubtype": 2,
-    "EffectTypeParam1": "0.15"
+    "EffectTypeParam1": "0.32"
   },
   "14026031": {
     "Id": 14026031,
@@ -42352,7 +42343,7 @@
     "EffectType": 12,
     "EffectTypeFirstSubtype": 1,
     "EffectTypeSecondSubtype": 2,
-    "EffectTypeParam1": "0.21"
+    "EffectTypeParam1": "0.44"
   },
   "14026041": {
     "Id": 14026041,
@@ -42361,7 +42352,7 @@
     "EffectType": 12,
     "EffectTypeFirstSubtype": 1,
     "EffectTypeSecondSubtype": 2,
-    "EffectTypeParam1": "0.26"
+    "EffectTypeParam1": "0.56"
   },
   "14026051": {
     "Id": 14026051,
@@ -42370,7 +42361,7 @@
     "EffectType": 12,
     "EffectTypeFirstSubtype": 1,
     "EffectTypeSecondSubtype": 2,
-    "EffectTypeParam1": "0.32"
+    "EffectTypeParam1": "0.68"
   },
   "14026061": {
     "Id": 14026061,
@@ -42379,7 +42370,7 @@
     "EffectType": 12,
     "EffectTypeFirstSubtype": 1,
     "EffectTypeSecondSubtype": 2,
-    "EffectTypeParam1": "0.37"
+    "EffectTypeParam1": "0.8"
   },
   "14026071": {
     "Id": 14026071,
@@ -42388,7 +42379,7 @@
     "EffectType": 12,
     "EffectTypeFirstSubtype": 1,
     "EffectTypeSecondSubtype": 2,
-    "EffectTypeParam1": "0.43"
+    "EffectTypeParam1": "0.92"
   },
   "14026081": {
     "Id": 14026081,
@@ -42397,7 +42388,7 @@
     "EffectType": 12,
     "EffectTypeFirstSubtype": 1,
     "EffectTypeSecondSubtype": 2,
-    "EffectTypeParam1": "0.49"
+    "EffectTypeParam1": "1.04"
   },
   "14026091": {
     "Id": 14026091,
@@ -42406,664 +42397,700 @@
     "EffectType": 12,
     "EffectTypeFirstSubtype": 1,
     "EffectTypeSecondSubtype": 2,
-    "EffectTypeParam1": "0.54"
+    "EffectTypeParam1": "1.16"
   },
   "14027011": {
     "Id": 14027011,
     "Tag": "1",
     "EffectRate": 100,
     "EffectType": 12,
-    "EffectTypeFirstSubtype": 57,
+    "EffectTypeFirstSubtype": 19,
     "EffectTypeSecondSubtype": 1,
-    "EffectTypeParam1": "1"
+    "EffectTypeParam1": "0.042"
   },
   "14027021": {
     "Id": 14027021,
     "Tag": "1",
     "EffectRate": 100,
     "EffectType": 12,
-    "EffectTypeFirstSubtype": 57,
+    "EffectTypeFirstSubtype": 19,
     "EffectTypeSecondSubtype": 1,
-    "EffectTypeParam1": "0.15"
+    "EffectTypeParam1": "0.067"
   },
   "14027031": {
     "Id": 14027031,
     "Tag": "1",
     "EffectRate": 100,
     "EffectType": 12,
-    "EffectTypeFirstSubtype": 57,
+    "EffectTypeFirstSubtype": 19,
     "EffectTypeSecondSubtype": 1,
-    "EffectTypeParam1": "0.21"
+    "EffectTypeParam1": "0.093"
   },
   "14027041": {
     "Id": 14027041,
     "Tag": "1",
     "EffectRate": 100,
     "EffectType": 12,
-    "EffectTypeFirstSubtype": 57,
+    "EffectTypeFirstSubtype": 19,
     "EffectTypeSecondSubtype": 1,
-    "EffectTypeParam1": "0.26"
+    "EffectTypeParam1": "0.118"
   },
   "14027051": {
     "Id": 14027051,
     "Tag": "1",
     "EffectRate": 100,
     "EffectType": 12,
-    "EffectTypeFirstSubtype": 57,
+    "EffectTypeFirstSubtype": 19,
     "EffectTypeSecondSubtype": 1,
-    "EffectTypeParam1": "0.32"
+    "EffectTypeParam1": "0.143"
   },
   "14027061": {
     "Id": 14027061,
     "Tag": "1",
     "EffectRate": 100,
     "EffectType": 12,
-    "EffectTypeFirstSubtype": 57,
+    "EffectTypeFirstSubtype": 19,
     "EffectTypeSecondSubtype": 1,
-    "EffectTypeParam1": "0.37"
+    "EffectTypeParam1": "0.169"
   },
   "14027071": {
     "Id": 14027071,
     "Tag": "1",
     "EffectRate": 100,
     "EffectType": 12,
-    "EffectTypeFirstSubtype": 57,
+    "EffectTypeFirstSubtype": 19,
     "EffectTypeSecondSubtype": 1,
-    "EffectTypeParam1": "0.43"
+    "EffectTypeParam1": "0.194"
   },
   "14027081": {
     "Id": 14027081,
     "Tag": "1",
     "EffectRate": 100,
     "EffectType": 12,
-    "EffectTypeFirstSubtype": 57,
+    "EffectTypeFirstSubtype": 19,
     "EffectTypeSecondSubtype": 1,
-    "EffectTypeParam1": "0.49"
+    "EffectTypeParam1": "0.22"
   },
   "14027091": {
     "Id": 14027091,
     "Tag": "1",
     "EffectRate": 100,
     "EffectType": 12,
-    "EffectTypeFirstSubtype": 57,
+    "EffectTypeFirstSubtype": 19,
     "EffectTypeSecondSubtype": 1,
-    "EffectTypeParam1": "0.54"
+    "EffectTypeParam1": "0.245"
   },
   "14029011": {
     "Id": 14029011,
     "Tag": "1",
     "EffectRate": 100,
-    "EffectType": 12,
-    "EffectTypeFirstSubtype": 1,
-    "EffectTypeSecondSubtype": 2,
-    "EffectTypeParam1": "1"
+    "EffectType": 52,
+    "EffectTypeFirstSubtype": 56,
+    "EffectTypeSecondSubtype": 3,
+    "EffectTypeParam1": "0.007"
   },
   "14029021": {
     "Id": 14029021,
     "Tag": "1",
     "EffectRate": 100,
-    "EffectType": 12,
-    "EffectTypeFirstSubtype": 1,
-    "EffectTypeSecondSubtype": 2,
-    "EffectTypeParam1": "0.15"
+    "EffectType": 52,
+    "EffectTypeFirstSubtype": 56,
+    "EffectTypeSecondSubtype": 3,
+    "EffectTypeParam1": "0.011"
   },
   "14029031": {
     "Id": 14029031,
     "Tag": "1",
     "EffectRate": 100,
-    "EffectType": 12,
-    "EffectTypeFirstSubtype": 1,
-    "EffectTypeSecondSubtype": 2,
-    "EffectTypeParam1": "0.21"
+    "EffectType": 52,
+    "EffectTypeFirstSubtype": 56,
+    "EffectTypeSecondSubtype": 3,
+    "EffectTypeParam1": "0.015"
   },
   "14029041": {
     "Id": 14029041,
     "Tag": "1",
     "EffectRate": 100,
-    "EffectType": 12,
-    "EffectTypeFirstSubtype": 1,
-    "EffectTypeSecondSubtype": 2,
-    "EffectTypeParam1": "0.26"
+    "EffectType": 52,
+    "EffectTypeFirstSubtype": 56,
+    "EffectTypeSecondSubtype": 3,
+    "EffectTypeParam1": "0.019"
   },
   "14029051": {
     "Id": 14029051,
     "Tag": "1",
     "EffectRate": 100,
-    "EffectType": 12,
-    "EffectTypeFirstSubtype": 1,
-    "EffectTypeSecondSubtype": 2,
-    "EffectTypeParam1": "0.32"
+    "EffectType": 52,
+    "EffectTypeFirstSubtype": 56,
+    "EffectTypeSecondSubtype": 3,
+    "EffectTypeParam1": "0.023"
   },
   "14029061": {
     "Id": 14029061,
     "Tag": "1",
     "EffectRate": 100,
-    "EffectType": 12,
-    "EffectTypeFirstSubtype": 1,
-    "EffectTypeSecondSubtype": 2,
-    "EffectTypeParam1": "0.37"
+    "EffectType": 52,
+    "EffectTypeFirstSubtype": 56,
+    "EffectTypeSecondSubtype": 3,
+    "EffectTypeParam1": "0.028"
   },
   "14029071": {
     "Id": 14029071,
     "Tag": "1",
     "EffectRate": 100,
-    "EffectType": 12,
-    "EffectTypeFirstSubtype": 1,
-    "EffectTypeSecondSubtype": 2,
-    "EffectTypeParam1": "0.43"
+    "EffectType": 52,
+    "EffectTypeFirstSubtype": 56,
+    "EffectTypeSecondSubtype": 3,
+    "EffectTypeParam1": "0.032"
   },
   "14029081": {
     "Id": 14029081,
     "Tag": "1",
     "EffectRate": 100,
-    "EffectType": 12,
-    "EffectTypeFirstSubtype": 1,
-    "EffectTypeSecondSubtype": 2,
-    "EffectTypeParam1": "0.49"
+    "EffectType": 52,
+    "EffectTypeFirstSubtype": 56,
+    "EffectTypeSecondSubtype": 3,
+    "EffectTypeParam1": "0.036"
   },
   "14029091": {
     "Id": 14029091,
     "Tag": "1",
     "EffectRate": 100,
-    "EffectType": 12,
-    "EffectTypeFirstSubtype": 1,
-    "EffectTypeSecondSubtype": 2,
-    "EffectTypeParam1": "0.54"
+    "EffectType": 52,
+    "EffectTypeFirstSubtype": 56,
+    "EffectTypeSecondSubtype": 3,
+    "EffectTypeParam1": "0.04"
   },
   "14030011": {
     "Id": 14030011,
     "Tag": "1",
     "EffectRate": 100,
-    "EffectType": 12,
-    "EffectTypeFirstSubtype": 1,
-    "EffectTypeSecondSubtype": 2,
-    "EffectTypeParam1": "1"
+    "EffectType": 52,
+    "EffectTypeFirstSubtype": 56,
+    "EffectTypeSecondSubtype": 3,
+    "EffectTypeParam1": "0.167"
   },
   "14030021": {
     "Id": 14030021,
     "Tag": "1",
     "EffectRate": 100,
-    "EffectType": 12,
-    "EffectTypeFirstSubtype": 1,
-    "EffectTypeSecondSubtype": 2,
-    "EffectTypeParam1": "0.15"
+    "EffectType": 52,
+    "EffectTypeFirstSubtype": 56,
+    "EffectTypeSecondSubtype": 3,
+    "EffectTypeParam1": "0.268"
   },
   "14030031": {
     "Id": 14030031,
     "Tag": "1",
     "EffectRate": 100,
-    "EffectType": 12,
-    "EffectTypeFirstSubtype": 1,
-    "EffectTypeSecondSubtype": 2,
-    "EffectTypeParam1": "0.21"
+    "EffectType": 52,
+    "EffectTypeFirstSubtype": 56,
+    "EffectTypeSecondSubtype": 3,
+    "EffectTypeParam1": "0.368"
   },
   "14030041": {
     "Id": 14030041,
     "Tag": "1",
     "EffectRate": 100,
-    "EffectType": 12,
-    "EffectTypeFirstSubtype": 1,
-    "EffectTypeSecondSubtype": 2,
-    "EffectTypeParam1": "0.26"
+    "EffectType": 52,
+    "EffectTypeFirstSubtype": 56,
+    "EffectTypeSecondSubtype": 3,
+    "EffectTypeParam1": "0.469"
   },
   "14030051": {
     "Id": 14030051,
     "Tag": "1",
     "EffectRate": 100,
-    "EffectType": 12,
-    "EffectTypeFirstSubtype": 1,
-    "EffectTypeSecondSubtype": 2,
-    "EffectTypeParam1": "0.32"
+    "EffectType": 52,
+    "EffectTypeFirstSubtype": 56,
+    "EffectTypeSecondSubtype": 3,
+    "EffectTypeParam1": "0.569"
   },
   "14030061": {
     "Id": 14030061,
     "Tag": "1",
     "EffectRate": 100,
-    "EffectType": 12,
-    "EffectTypeFirstSubtype": 1,
-    "EffectTypeSecondSubtype": 2,
-    "EffectTypeParam1": "0.37"
+    "EffectType": 52,
+    "EffectTypeFirstSubtype": 56,
+    "EffectTypeSecondSubtype": 3,
+    "EffectTypeParam1": "0.67"
   },
   "14030071": {
     "Id": 14030071,
     "Tag": "1",
     "EffectRate": 100,
-    "EffectType": 12,
-    "EffectTypeFirstSubtype": 1,
-    "EffectTypeSecondSubtype": 2,
-    "EffectTypeParam1": "0.43"
+    "EffectType": 52,
+    "EffectTypeFirstSubtype": 56,
+    "EffectTypeSecondSubtype": 3,
+    "EffectTypeParam1": "0.77"
   },
   "14030081": {
     "Id": 14030081,
     "Tag": "1",
     "EffectRate": 100,
-    "EffectType": 12,
-    "EffectTypeFirstSubtype": 1,
-    "EffectTypeSecondSubtype": 2,
-    "EffectTypeParam1": "0.49"
+    "EffectType": 52,
+    "EffectTypeFirstSubtype": 56,
+    "EffectTypeSecondSubtype": 3,
+    "EffectTypeParam1": "0.871"
   },
   "14030091": {
     "Id": 14030091,
     "Tag": "1",
     "EffectRate": 100,
-    "EffectType": 12,
-    "EffectTypeFirstSubtype": 1,
-    "EffectTypeSecondSubtype": 2,
-    "EffectTypeParam1": "0.54"
+    "EffectType": 52,
+    "EffectTypeFirstSubtype": 56,
+    "EffectTypeSecondSubtype": 3,
+    "EffectTypeParam1": "0.971"
   },
   "14031011": {
     "Id": 14031011,
     "Tag": "1",
     "EffectRate": 100,
     "EffectType": 12,
-    "EffectTypeFirstSubtype": 57,
-    "EffectTypeSecondSubtype": 1,
-    "EffectTypeParam1": "1"
+    "EffectTypeFirstSubtype": 1,
+    "EffectTypeSecondSubtype": 2,
+    "EffectTypeParam1": "0.15"
   },
   "14031021": {
     "Id": 14031021,
     "Tag": "1",
     "EffectRate": 100,
     "EffectType": 12,
-    "EffectTypeFirstSubtype": 57,
-    "EffectTypeSecondSubtype": 1,
-    "EffectTypeParam1": "0.15"
+    "EffectTypeFirstSubtype": 1,
+    "EffectTypeSecondSubtype": 2,
+    "EffectTypeParam1": "0.24"
   },
   "14031031": {
     "Id": 14031031,
     "Tag": "1",
     "EffectRate": 100,
     "EffectType": 12,
-    "EffectTypeFirstSubtype": 57,
-    "EffectTypeSecondSubtype": 1,
-    "EffectTypeParam1": "0.21"
+    "EffectTypeFirstSubtype": 1,
+    "EffectTypeSecondSubtype": 2,
+    "EffectTypeParam1": "0.33"
   },
   "14031041": {
     "Id": 14031041,
     "Tag": "1",
     "EffectRate": 100,
     "EffectType": 12,
-    "EffectTypeFirstSubtype": 57,
-    "EffectTypeSecondSubtype": 1,
-    "EffectTypeParam1": "0.26"
+    "EffectTypeFirstSubtype": 1,
+    "EffectTypeSecondSubtype": 2,
+    "EffectTypeParam1": "0.42"
   },
   "14031051": {
     "Id": 14031051,
     "Tag": "1",
     "EffectRate": 100,
     "EffectType": 12,
-    "EffectTypeFirstSubtype": 57,
-    "EffectTypeSecondSubtype": 1,
-    "EffectTypeParam1": "0.32"
+    "EffectTypeFirstSubtype": 1,
+    "EffectTypeSecondSubtype": 2,
+    "EffectTypeParam1": "0.51"
   },
   "14031061": {
     "Id": 14031061,
     "Tag": "1",
     "EffectRate": 100,
     "EffectType": 12,
-    "EffectTypeFirstSubtype": 57,
-    "EffectTypeSecondSubtype": 1,
-    "EffectTypeParam1": "0.37"
+    "EffectTypeFirstSubtype": 1,
+    "EffectTypeSecondSubtype": 2,
+    "EffectTypeParam1": "0.6"
   },
   "14031071": {
     "Id": 14031071,
     "Tag": "1",
     "EffectRate": 100,
     "EffectType": 12,
-    "EffectTypeFirstSubtype": 57,
-    "EffectTypeSecondSubtype": 1,
-    "EffectTypeParam1": "0.43"
+    "EffectTypeFirstSubtype": 1,
+    "EffectTypeSecondSubtype": 2,
+    "EffectTypeParam1": "0.69"
   },
   "14031081": {
     "Id": 14031081,
     "Tag": "1",
     "EffectRate": 100,
     "EffectType": 12,
-    "EffectTypeFirstSubtype": 57,
-    "EffectTypeSecondSubtype": 1,
-    "EffectTypeParam1": "0.49"
+    "EffectTypeFirstSubtype": 1,
+    "EffectTypeSecondSubtype": 2,
+    "EffectTypeParam1": "0.78"
   },
   "14031091": {
     "Id": 14031091,
     "Tag": "1",
     "EffectRate": 100,
     "EffectType": 12,
-    "EffectTypeFirstSubtype": 57,
-    "EffectTypeSecondSubtype": 1,
-    "EffectTypeParam1": "0.54"
+    "EffectTypeFirstSubtype": 1,
+    "EffectTypeSecondSubtype": 2,
+    "EffectTypeParam1": "0.87"
   },
   "14032011": {
     "Id": 14032011,
     "Tag": "1",
     "EffectRate": 100,
-    "EffectType": 12,
+    "EffectType": 52,
     "EffectTypeFirstSubtype": 57,
-    "EffectTypeSecondSubtype": 1,
-    "EffectTypeParam1": "1"
+    "EffectTypeSecondSubtype": 3,
+    "EffectTypeParam1": "0.2"
   },
   "14032012": {
     "Id": 14032012,
     "Tag": "1",
     "EffectRate": 100,
     "EffectType": 12,
-    "EffectTypeFirstSubtype": 1,
-    "EffectTypeSecondSubtype": 2,
-    "EffectTypeParam1": "1"
+    "EffectTypeFirstSubtype": 19,
+    "EffectTypeSecondSubtype": 1,
+    "EffectTypeParam1": "0.24"
   },
   "14032022": {
     "Id": 14032022,
     "Tag": "1",
     "EffectRate": 100,
     "EffectType": 12,
-    "EffectTypeFirstSubtype": 1,
-    "EffectTypeSecondSubtype": 2,
-    "EffectTypeParam1": "0.15"
+    "EffectTypeFirstSubtype": 19,
+    "EffectTypeSecondSubtype": 1,
+    "EffectTypeParam1": "0.384"
   },
   "14032032": {
     "Id": 14032032,
     "Tag": "1",
     "EffectRate": 100,
     "EffectType": 12,
-    "EffectTypeFirstSubtype": 1,
-    "EffectTypeSecondSubtype": 2,
-    "EffectTypeParam1": "0.21"
+    "EffectTypeFirstSubtype": 19,
+    "EffectTypeSecondSubtype": 1,
+    "EffectTypeParam1": "0.528"
   },
   "14032042": {
     "Id": 14032042,
     "Tag": "1",
     "EffectRate": 100,
     "EffectType": 12,
-    "EffectTypeFirstSubtype": 1,
-    "EffectTypeSecondSubtype": 2,
-    "EffectTypeParam1": "0.26"
+    "EffectTypeFirstSubtype": 19,
+    "EffectTypeSecondSubtype": 1,
+    "EffectTypeParam1": "0.672"
   },
   "14032052": {
     "Id": 14032052,
     "Tag": "1",
     "EffectRate": 100,
     "EffectType": 12,
-    "EffectTypeFirstSubtype": 1,
-    "EffectTypeSecondSubtype": 2,
-    "EffectTypeParam1": "0.32"
+    "EffectTypeFirstSubtype": 19,
+    "EffectTypeSecondSubtype": 1,
+    "EffectTypeParam1": "0.816"
   },
   "14032062": {
     "Id": 14032062,
     "Tag": "1",
     "EffectRate": 100,
     "EffectType": 12,
-    "EffectTypeFirstSubtype": 1,
-    "EffectTypeSecondSubtype": 2,
-    "EffectTypeParam1": "0.37"
+    "EffectTypeFirstSubtype": 19,
+    "EffectTypeSecondSubtype": 1,
+    "EffectTypeParam1": "0.96"
   },
   "14032072": {
     "Id": 14032072,
     "Tag": "1",
     "EffectRate": 100,
     "EffectType": 12,
-    "EffectTypeFirstSubtype": 1,
-    "EffectTypeSecondSubtype": 2,
-    "EffectTypeParam1": "0.43"
+    "EffectTypeFirstSubtype": 19,
+    "EffectTypeSecondSubtype": 1,
+    "EffectTypeParam1": "1.104"
   },
   "14032082": {
     "Id": 14032082,
     "Tag": "1",
     "EffectRate": 100,
     "EffectType": 12,
-    "EffectTypeFirstSubtype": 1,
-    "EffectTypeSecondSubtype": 2,
-    "EffectTypeParam1": "0.49"
+    "EffectTypeFirstSubtype": 19,
+    "EffectTypeSecondSubtype": 1,
+    "EffectTypeParam1": "1.248"
   },
   "14032092": {
     "Id": 14032092,
     "Tag": "1",
     "EffectRate": 100,
     "EffectType": 12,
-    "EffectTypeFirstSubtype": 1,
-    "EffectTypeSecondSubtype": 2,
-    "EffectTypeParam1": "0.54"
+    "EffectTypeFirstSubtype": 19,
+    "EffectTypeSecondSubtype": 1,
+    "EffectTypeParam1": "1.392"
   },
   "14033011": {
     "Id": 14033011,
     "Tag": "1",
     "EffectRate": 100,
-    "EffectType": 12,
-    "EffectTypeFirstSubtype": 1,
-    "EffectTypeSecondSubtype": 2,
-    "EffectTypeParam1": "1"
+    "EffectType": 52,
+    "EffectTypeFirstSubtype": 57,
+    "EffectTypeSecondSubtype": 3,
+    "EffectTypeParam1": "0.075"
   },
   "14033021": {
     "Id": 14033021,
     "Tag": "1",
     "EffectRate": 100,
-    "EffectType": 12,
-    "EffectTypeFirstSubtype": 1,
-    "EffectTypeSecondSubtype": 2,
-    "EffectTypeParam1": "0.15"
+    "EffectType": 52,
+    "EffectTypeFirstSubtype": 57,
+    "EffectTypeSecondSubtype": 3,
+    "EffectTypeParam1": "0.12"
   },
   "14033031": {
     "Id": 14033031,
     "Tag": "1",
     "EffectRate": 100,
-    "EffectType": 12,
-    "EffectTypeFirstSubtype": 1,
-    "EffectTypeSecondSubtype": 2,
-    "EffectTypeParam1": "0.21"
+    "EffectType": 52,
+    "EffectTypeFirstSubtype": 57,
+    "EffectTypeSecondSubtype": 3,
+    "EffectTypeParam1": "0.165"
   },
   "14033041": {
     "Id": 14033041,
     "Tag": "1",
     "EffectRate": 100,
-    "EffectType": 12,
-    "EffectTypeFirstSubtype": 1,
-    "EffectTypeSecondSubtype": 2,
-    "EffectTypeParam1": "0.26"
+    "EffectType": 52,
+    "EffectTypeFirstSubtype": 57,
+    "EffectTypeSecondSubtype": 3,
+    "EffectTypeParam1": "0.21"
   },
   "14033051": {
     "Id": 14033051,
     "Tag": "1",
     "EffectRate": 100,
-    "EffectType": 12,
-    "EffectTypeFirstSubtype": 1,
-    "EffectTypeSecondSubtype": 2,
-    "EffectTypeParam1": "0.32"
+    "EffectType": 52,
+    "EffectTypeFirstSubtype": 57,
+    "EffectTypeSecondSubtype": 3,
+    "EffectTypeParam1": "0.255"
   },
   "14033061": {
     "Id": 14033061,
     "Tag": "1",
     "EffectRate": 100,
-    "EffectType": 12,
-    "EffectTypeFirstSubtype": 1,
-    "EffectTypeSecondSubtype": 2,
-    "EffectTypeParam1": "0.37"
+    "EffectType": 52,
+    "EffectTypeFirstSubtype": 57,
+    "EffectTypeSecondSubtype": 3,
+    "EffectTypeParam1": "0.3"
   },
   "14033071": {
     "Id": 14033071,
     "Tag": "1",
     "EffectRate": 100,
-    "EffectType": 12,
-    "EffectTypeFirstSubtype": 1,
-    "EffectTypeSecondSubtype": 2,
-    "EffectTypeParam1": "0.43"
+    "EffectType": 52,
+    "EffectTypeFirstSubtype": 57,
+    "EffectTypeSecondSubtype": 3,
+    "EffectTypeParam1": "0.345"
   },
   "14033081": {
     "Id": 14033081,
     "Tag": "1",
     "EffectRate": 100,
-    "EffectType": 12,
-    "EffectTypeFirstSubtype": 1,
-    "EffectTypeSecondSubtype": 2,
-    "EffectTypeParam1": "0.49"
+    "EffectType": 52,
+    "EffectTypeFirstSubtype": 57,
+    "EffectTypeSecondSubtype": 3,
+    "EffectTypeParam1": "0.39"
   },
   "14033091": {
     "Id": 14033091,
     "Tag": "1",
     "EffectRate": 100,
-    "EffectType": 12,
-    "EffectTypeFirstSubtype": 1,
-    "EffectTypeSecondSubtype": 2,
-    "EffectTypeParam1": "0.54"
+    "EffectType": 52,
+    "EffectTypeFirstSubtype": 57,
+    "EffectTypeSecondSubtype": 3,
+    "EffectTypeParam1": "0.435"
   },
   "14041011": {
     "Id": 14041011,
     "Tag": "1",
     "EffectRate": 100,
     "EffectType": 12,
-    "EffectTypeFirstSubtype": 56,
-    "EffectTypeSecondSubtype": 1,
-    "EffectTypeParam1": "1"
+    "EffectTypeFirstSubtype": 1,
+    "EffectTypeSecondSubtype": 2,
+    "EffectTypeParam1": "0.07"
   },
   "14041021": {
     "Id": 14041021,
     "Tag": "1",
     "EffectRate": 100,
     "EffectType": 12,
-    "EffectTypeFirstSubtype": 56,
-    "EffectTypeSecondSubtype": 1,
-    "EffectTypeParam1": "0.15"
+    "EffectTypeFirstSubtype": 1,
+    "EffectTypeSecondSubtype": 2,
+    "EffectTypeParam1": "0.11"
   },
   "14041031": {
     "Id": 14041031,
     "Tag": "1",
     "EffectRate": 100,
     "EffectType": 12,
-    "EffectTypeFirstSubtype": 56,
-    "EffectTypeSecondSubtype": 1,
-    "EffectTypeParam1": "0.21"
+    "EffectTypeFirstSubtype": 1,
+    "EffectTypeSecondSubtype": 2,
+    "EffectTypeParam1": "0.16"
   },
   "14041041": {
     "Id": 14041041,
     "Tag": "1",
     "EffectRate": 100,
     "EffectType": 12,
-    "EffectTypeFirstSubtype": 56,
-    "EffectTypeSecondSubtype": 1,
-    "EffectTypeParam1": "0.26"
+    "EffectTypeFirstSubtype": 1,
+    "EffectTypeSecondSubtype": 2,
+    "EffectTypeParam1": "0.2"
   },
   "14041051": {
     "Id": 14041051,
     "Tag": "1",
     "EffectRate": 100,
     "EffectType": 12,
-    "EffectTypeFirstSubtype": 56,
-    "EffectTypeSecondSubtype": 1,
-    "EffectTypeParam1": "0.32"
+    "EffectTypeFirstSubtype": 1,
+    "EffectTypeSecondSubtype": 2,
+    "EffectTypeParam1": "0.24"
   },
   "14041061": {
     "Id": 14041061,
     "Tag": "1",
     "EffectRate": 100,
     "EffectType": 12,
-    "EffectTypeFirstSubtype": 56,
-    "EffectTypeSecondSubtype": 1,
-    "EffectTypeParam1": "0.37"
+    "EffectTypeFirstSubtype": 1,
+    "EffectTypeSecondSubtype": 2,
+    "EffectTypeParam1": "0.29"
   },
   "14041071": {
     "Id": 14041071,
     "Tag": "1",
     "EffectRate": 100,
     "EffectType": 12,
-    "EffectTypeFirstSubtype": 56,
-    "EffectTypeSecondSubtype": 1,
-    "EffectTypeParam1": "0.43"
+    "EffectTypeFirstSubtype": 1,
+    "EffectTypeSecondSubtype": 2,
+    "EffectTypeParam1": "0.33"
   },
   "14041081": {
     "Id": 14041081,
     "Tag": "1",
     "EffectRate": 100,
     "EffectType": 12,
-    "EffectTypeFirstSubtype": 56,
-    "EffectTypeSecondSubtype": 1,
-    "EffectTypeParam1": "0.49"
+    "EffectTypeFirstSubtype": 1,
+    "EffectTypeSecondSubtype": 2,
+    "EffectTypeParam1": "0.37"
   },
   "14041091": {
     "Id": 14041091,
     "Tag": "1",
     "EffectRate": 100,
     "EffectType": 12,
-    "EffectTypeFirstSubtype": 56,
-    "EffectTypeSecondSubtype": 1,
-    "EffectTypeParam1": "0.54"
+    "EffectTypeFirstSubtype": 1,
+    "EffectTypeSecondSubtype": 2,
+    "EffectTypeParam1": "0.42"
   },
   "14043011": {
     "Id": 14043011,
     "Tag": "1",
     "EffectRate": 100,
-    "EffectType": 12,
+    "EffectType": 52,
     "EffectTypeFirstSubtype": 58,
-    "EffectTypeSecondSubtype": 1,
-    "EffectTypeParam1": "1"
+    "EffectTypeSecondSubtype": 3,
+    "EffectTypeParam1": "0.03"
   },
   "14043021": {
     "Id": 14043021,
     "Tag": "1",
     "EffectRate": 100,
-    "EffectType": 12,
+    "EffectType": 52,
     "EffectTypeFirstSubtype": 58,
-    "EffectTypeSecondSubtype": 1,
-    "EffectTypeParam1": "0.15"
+    "EffectTypeSecondSubtype": 3,
+    "EffectTypeParam1": "0.05"
   },
   "14043031": {
     "Id": 14043031,
     "Tag": "1",
     "EffectRate": 100,
-    "EffectType": 12,
+    "EffectType": 52,
     "EffectTypeFirstSubtype": 58,
-    "EffectTypeSecondSubtype": 1,
-    "EffectTypeParam1": "0.21"
+    "EffectTypeSecondSubtype": 3,
+    "EffectTypeParam1": "0.07"
   },
   "14043041": {
     "Id": 14043041,
     "Tag": "1",
     "EffectRate": 100,
-    "EffectType": 12,
+    "EffectType": 52,
     "EffectTypeFirstSubtype": 58,
-    "EffectTypeSecondSubtype": 1,
-    "EffectTypeParam1": "0.26"
+    "EffectTypeSecondSubtype": 3,
+    "EffectTypeParam1": "0.09"
   },
   "14043051": {
     "Id": 14043051,
     "Tag": "1",
     "EffectRate": 100,
-    "EffectType": 12,
+    "EffectType": 52,
     "EffectTypeFirstSubtype": 58,
-    "EffectTypeSecondSubtype": 1,
-    "EffectTypeParam1": "0.32"
+    "EffectTypeSecondSubtype": 3,
+    "EffectTypeParam1": "0.11"
   },
   "14043061": {
     "Id": 14043061,
     "Tag": "1",
     "EffectRate": 100,
-    "EffectType": 12,
+    "EffectType": 52,
     "EffectTypeFirstSubtype": 58,
-    "EffectTypeSecondSubtype": 1,
-    "EffectTypeParam1": "0.37"
+    "EffectTypeSecondSubtype": 3,
+    "EffectTypeParam1": "0.13"
   },
   "14043071": {
     "Id": 14043071,
     "Tag": "1",
     "EffectRate": 100,
-    "EffectType": 12,
+    "EffectType": 52,
     "EffectTypeFirstSubtype": 58,
-    "EffectTypeSecondSubtype": 1,
-    "EffectTypeParam1": "0.43"
+    "EffectTypeSecondSubtype": 3,
+    "EffectTypeParam1": "0.15"
   },
   "14043081": {
     "Id": 14043081,
     "Tag": "1",
     "EffectRate": 100,
-    "EffectType": 12,
+    "EffectType": 52,
     "EffectTypeFirstSubtype": 58,
-    "EffectTypeSecondSubtype": 1,
-    "EffectTypeParam1": "0.49"
+    "EffectTypeSecondSubtype": 3,
+    "EffectTypeParam1": "0.17"
   },
   "14043091": {
     "Id": 14043091,
     "Tag": "1",
     "EffectRate": 100,
-    "EffectType": 12,
+    "EffectType": 52,
     "EffectTypeFirstSubtype": 58,
+    "EffectTypeSecondSubtype": 3,
+    "EffectTypeParam1": "0.19"
+  },
+  "14096111": {
+    "Id": 14096111,
+    "Tag": "1",
+    "EffectRate": 100,
+    "EffectType": 12,
+    "EffectTypeFirstSubtype": 1,
+    "EffectTypeSecondSubtype": 2,
+    "EffectTypeParam1": "0.05"
+  },
+  "14096211": {
+    "Id": 14096211,
+    "Tag": "1",
+    "EffectRate": 100,
+    "EffectType": 12,
+    "EffectTypeFirstSubtype": 57,
     "EffectTypeSecondSubtype": 1,
-    "EffectTypeParam1": "0.54"
+    "EffectTypeParam1": "0.038"
+  },
+  "14096311": {
+    "Id": 14096311,
+    "Tag": "1",
+    "EffectRate": 100,
+    "EffectType": 12,
+    "EffectTypeFirstSubtype": 1,
+    "EffectTypeSecondSubtype": 2,
+    "EffectTypeParam1": "0.2"
+  },
+  "14096411": {
+    "Id": 14096411,
+    "Tag": "1",
+    "EffectRate": 100,
+    "EffectType": 12,
+    "EffectTypeFirstSubtype": 19,
+    "EffectTypeSecondSubtype": 1,
+    "EffectTypeParam1": "0.04"
   },
   "81011": {
     "Id": 81011,
@@ -48675,7 +48702,7 @@
     "EffectType": 45,
     "EffectTypeFirstSubtype": 51,
     "EffectTypeSecondSubtype": 1,
-    "EffectTypeParam1": "0.4"
+    "EffectTypeParam1": "0.3"
   },
   "720010022": {
     "Id": 720010022,
@@ -48693,7 +48720,7 @@
     "EffectType": 45,
     "EffectTypeFirstSubtype": 51,
     "EffectTypeSecondSubtype": 1,
-    "EffectTypeParam1": "0.4"
+    "EffectTypeParam1": "0.3"
   },
   "720010032": {
     "Id": 720010032,
@@ -48711,7 +48738,7 @@
     "EffectType": 45,
     "EffectTypeFirstSubtype": 51,
     "EffectTypeSecondSubtype": 1,
-    "EffectTypeParam1": "0.4"
+    "EffectTypeParam1": "0.3"
   },
   "720010042": {
     "Id": 720010042,
@@ -48729,7 +48756,7 @@
     "EffectType": 45,
     "EffectTypeFirstSubtype": 51,
     "EffectTypeSecondSubtype": 1,
-    "EffectTypeParam1": "0.4"
+    "EffectTypeParam1": "0.3"
   },
   "720010052": {
     "Id": 720010052,
@@ -48738,7 +48765,7 @@
     "EffectType": 45,
     "EffectTypeFirstSubtype": 51,
     "EffectTypeSecondSubtype": 1,
-    "EffectTypeParam1": "-25"
+    "EffectTypeParam1": "-0.25"
   },
   "720010061": {
     "Id": 720010061,
@@ -48747,7 +48774,7 @@
     "EffectType": 45,
     "EffectTypeFirstSubtype": 51,
     "EffectTypeSecondSubtype": 1,
-    "EffectTypeParam1": "0.5"
+    "EffectTypeParam1": "0.3"
   },
   "720010062": {
     "Id": 720010062,
@@ -48765,7 +48792,7 @@
     "EffectType": 45,
     "EffectTypeFirstSubtype": 51,
     "EffectTypeSecondSubtype": 1,
-    "EffectTypeParam1": "0.5"
+    "EffectTypeParam1": "0.3"
   },
   "720010072": {
     "Id": 720010072,
@@ -80660,6 +80687,456 @@
   },
   "11590500": {
     "Id": 11590500,
+    "Tag": "1",
+    "EffectRate": 100,
+    "EffectType": 12,
+    "EffectTypeFirstSubtype": 57,
+    "EffectTypeSecondSubtype": 1,
+    "EffectTypeParam1": "0.021"
+  },
+  "14090010": {
+    "Id": 14090010,
+    "Tag": "1",
+    "EffectRate": 100,
+    "EffectType": 12,
+    "EffectTypeFirstSubtype": 1,
+    "EffectTypeSecondSubtype": 1,
+    "EffectTypeParam1": "60"
+  },
+  "14090020": {
+    "Id": 14090020,
+    "Tag": "1",
+    "EffectRate": 100,
+    "EffectType": 12,
+    "EffectTypeFirstSubtype": 2,
+    "EffectTypeSecondSubtype": 1,
+    "EffectTypeParam1": "10"
+  },
+  "14090030": {
+    "Id": 14090030,
+    "Tag": "1",
+    "EffectRate": 100,
+    "EffectType": 12,
+    "EffectTypeFirstSubtype": 3,
+    "EffectTypeSecondSubtype": 1,
+    "EffectTypeParam1": "690"
+  },
+  "14090040": {
+    "Id": 14090040,
+    "Tag": "1",
+    "EffectRate": 100,
+    "EffectType": 12,
+    "EffectTypeFirstSubtype": 1,
+    "EffectTypeSecondSubtype": 2,
+    "EffectTypeParam1": "0.015"
+  },
+  "14090050": {
+    "Id": 14090050,
+    "Tag": "1",
+    "EffectRate": 100,
+    "EffectType": 12,
+    "EffectTypeFirstSubtype": 57,
+    "EffectTypeSecondSubtype": 1,
+    "EffectTypeParam1": "0.021"
+  },
+  "14090060": {
+    "Id": 14090060,
+    "Tag": "1",
+    "EffectRate": 100,
+    "EffectType": 12,
+    "EffectTypeFirstSubtype": 1,
+    "EffectTypeSecondSubtype": 1,
+    "EffectTypeParam1": "60"
+  },
+  "14090070": {
+    "Id": 14090070,
+    "Tag": "1",
+    "EffectRate": 100,
+    "EffectType": 12,
+    "EffectTypeFirstSubtype": 2,
+    "EffectTypeSecondSubtype": 1,
+    "EffectTypeParam1": "10"
+  },
+  "14090080": {
+    "Id": 14090080,
+    "Tag": "1",
+    "EffectRate": 100,
+    "EffectType": 12,
+    "EffectTypeFirstSubtype": 3,
+    "EffectTypeSecondSubtype": 1,
+    "EffectTypeParam1": "690"
+  },
+  "14090090": {
+    "Id": 14090090,
+    "Tag": "1",
+    "EffectRate": 100,
+    "EffectType": 12,
+    "EffectTypeFirstSubtype": 1,
+    "EffectTypeSecondSubtype": 2,
+    "EffectTypeParam1": "0.015"
+  },
+  "14090100": {
+    "Id": 14090100,
+    "Tag": "1",
+    "EffectRate": 100,
+    "EffectType": 12,
+    "EffectTypeFirstSubtype": 57,
+    "EffectTypeSecondSubtype": 1,
+    "EffectTypeParam1": "0.021"
+  },
+  "14090110": {
+    "Id": 14090110,
+    "Tag": "1",
+    "EffectRate": 100,
+    "EffectType": 12,
+    "EffectTypeFirstSubtype": 1,
+    "EffectTypeSecondSubtype": 1,
+    "EffectTypeParam1": "60"
+  },
+  "14090120": {
+    "Id": 14090120,
+    "Tag": "1",
+    "EffectRate": 100,
+    "EffectType": 12,
+    "EffectTypeFirstSubtype": 2,
+    "EffectTypeSecondSubtype": 1,
+    "EffectTypeParam1": "10"
+  },
+  "14090130": {
+    "Id": 14090130,
+    "Tag": "1",
+    "EffectRate": 100,
+    "EffectType": 12,
+    "EffectTypeFirstSubtype": 3,
+    "EffectTypeSecondSubtype": 1,
+    "EffectTypeParam1": "690"
+  },
+  "14090140": {
+    "Id": 14090140,
+    "Tag": "1",
+    "EffectRate": 100,
+    "EffectType": 12,
+    "EffectTypeFirstSubtype": 1,
+    "EffectTypeSecondSubtype": 2,
+    "EffectTypeParam1": "0.015"
+  },
+  "14090150": {
+    "Id": 14090150,
+    "Tag": "1",
+    "EffectRate": 100,
+    "EffectType": 12,
+    "EffectTypeFirstSubtype": 57,
+    "EffectTypeSecondSubtype": 1,
+    "EffectTypeParam1": "0.021"
+  },
+  "14090160": {
+    "Id": 14090160,
+    "Tag": "1",
+    "EffectRate": 100,
+    "EffectType": 12,
+    "EffectTypeFirstSubtype": 1,
+    "EffectTypeSecondSubtype": 1,
+    "EffectTypeParam1": "60"
+  },
+  "14090170": {
+    "Id": 14090170,
+    "Tag": "1",
+    "EffectRate": 100,
+    "EffectType": 12,
+    "EffectTypeFirstSubtype": 2,
+    "EffectTypeSecondSubtype": 1,
+    "EffectTypeParam1": "10"
+  },
+  "14090180": {
+    "Id": 14090180,
+    "Tag": "1",
+    "EffectRate": 100,
+    "EffectType": 12,
+    "EffectTypeFirstSubtype": 3,
+    "EffectTypeSecondSubtype": 1,
+    "EffectTypeParam1": "690"
+  },
+  "14090190": {
+    "Id": 14090190,
+    "Tag": "1",
+    "EffectRate": 100,
+    "EffectType": 12,
+    "EffectTypeFirstSubtype": 1,
+    "EffectTypeSecondSubtype": 2,
+    "EffectTypeParam1": "0.015"
+  },
+  "14090200": {
+    "Id": 14090200,
+    "Tag": "1",
+    "EffectRate": 100,
+    "EffectType": 12,
+    "EffectTypeFirstSubtype": 57,
+    "EffectTypeSecondSubtype": 1,
+    "EffectTypeParam1": "0.021"
+  },
+  "14090210": {
+    "Id": 14090210,
+    "Tag": "1",
+    "EffectRate": 100,
+    "EffectType": 12,
+    "EffectTypeFirstSubtype": 1,
+    "EffectTypeSecondSubtype": 1,
+    "EffectTypeParam1": "60"
+  },
+  "14090220": {
+    "Id": 14090220,
+    "Tag": "1",
+    "EffectRate": 100,
+    "EffectType": 12,
+    "EffectTypeFirstSubtype": 2,
+    "EffectTypeSecondSubtype": 1,
+    "EffectTypeParam1": "10"
+  },
+  "14090230": {
+    "Id": 14090230,
+    "Tag": "1",
+    "EffectRate": 100,
+    "EffectType": 12,
+    "EffectTypeFirstSubtype": 3,
+    "EffectTypeSecondSubtype": 1,
+    "EffectTypeParam1": "690"
+  },
+  "14090240": {
+    "Id": 14090240,
+    "Tag": "1",
+    "EffectRate": 100,
+    "EffectType": 12,
+    "EffectTypeFirstSubtype": 1,
+    "EffectTypeSecondSubtype": 2,
+    "EffectTypeParam1": "0.015"
+  },
+  "14090250": {
+    "Id": 14090250,
+    "Tag": "1",
+    "EffectRate": 100,
+    "EffectType": 12,
+    "EffectTypeFirstSubtype": 57,
+    "EffectTypeSecondSubtype": 1,
+    "EffectTypeParam1": "0.021"
+  },
+  "14090260": {
+    "Id": 14090260,
+    "Tag": "1",
+    "EffectRate": 100,
+    "EffectType": 12,
+    "EffectTypeFirstSubtype": 1,
+    "EffectTypeSecondSubtype": 1,
+    "EffectTypeParam1": "60"
+  },
+  "14090270": {
+    "Id": 14090270,
+    "Tag": "1",
+    "EffectRate": 100,
+    "EffectType": 12,
+    "EffectTypeFirstSubtype": 2,
+    "EffectTypeSecondSubtype": 1,
+    "EffectTypeParam1": "10"
+  },
+  "14090280": {
+    "Id": 14090280,
+    "Tag": "1",
+    "EffectRate": 100,
+    "EffectType": 12,
+    "EffectTypeFirstSubtype": 3,
+    "EffectTypeSecondSubtype": 1,
+    "EffectTypeParam1": "690"
+  },
+  "14090290": {
+    "Id": 14090290,
+    "Tag": "1",
+    "EffectRate": 100,
+    "EffectType": 12,
+    "EffectTypeFirstSubtype": 1,
+    "EffectTypeSecondSubtype": 2,
+    "EffectTypeParam1": "0.015"
+  },
+  "14090300": {
+    "Id": 14090300,
+    "Tag": "1",
+    "EffectRate": 100,
+    "EffectType": 12,
+    "EffectTypeFirstSubtype": 57,
+    "EffectTypeSecondSubtype": 1,
+    "EffectTypeParam1": "0.021"
+  },
+  "14090310": {
+    "Id": 14090310,
+    "Tag": "1",
+    "EffectRate": 100,
+    "EffectType": 12,
+    "EffectTypeFirstSubtype": 1,
+    "EffectTypeSecondSubtype": 1,
+    "EffectTypeParam1": "60"
+  },
+  "14090320": {
+    "Id": 14090320,
+    "Tag": "1",
+    "EffectRate": 100,
+    "EffectType": 12,
+    "EffectTypeFirstSubtype": 2,
+    "EffectTypeSecondSubtype": 1,
+    "EffectTypeParam1": "10"
+  },
+  "14090330": {
+    "Id": 14090330,
+    "Tag": "1",
+    "EffectRate": 100,
+    "EffectType": 12,
+    "EffectTypeFirstSubtype": 3,
+    "EffectTypeSecondSubtype": 1,
+    "EffectTypeParam1": "690"
+  },
+  "14090340": {
+    "Id": 14090340,
+    "Tag": "1",
+    "EffectRate": 100,
+    "EffectType": 12,
+    "EffectTypeFirstSubtype": 1,
+    "EffectTypeSecondSubtype": 2,
+    "EffectTypeParam1": "0.015"
+  },
+  "14090350": {
+    "Id": 14090350,
+    "Tag": "1",
+    "EffectRate": 100,
+    "EffectType": 12,
+    "EffectTypeFirstSubtype": 57,
+    "EffectTypeSecondSubtype": 1,
+    "EffectTypeParam1": "0.021"
+  },
+  "14090360": {
+    "Id": 14090360,
+    "Tag": "1",
+    "EffectRate": 100,
+    "EffectType": 12,
+    "EffectTypeFirstSubtype": 1,
+    "EffectTypeSecondSubtype": 1,
+    "EffectTypeParam1": "60"
+  },
+  "14090370": {
+    "Id": 14090370,
+    "Tag": "1",
+    "EffectRate": 100,
+    "EffectType": 12,
+    "EffectTypeFirstSubtype": 2,
+    "EffectTypeSecondSubtype": 1,
+    "EffectTypeParam1": "10"
+  },
+  "14090380": {
+    "Id": 14090380,
+    "Tag": "1",
+    "EffectRate": 100,
+    "EffectType": 12,
+    "EffectTypeFirstSubtype": 3,
+    "EffectTypeSecondSubtype": 1,
+    "EffectTypeParam1": "690"
+  },
+  "14090390": {
+    "Id": 14090390,
+    "Tag": "1",
+    "EffectRate": 100,
+    "EffectType": 12,
+    "EffectTypeFirstSubtype": 1,
+    "EffectTypeSecondSubtype": 2,
+    "EffectTypeParam1": "0.015"
+  },
+  "14090400": {
+    "Id": 14090400,
+    "Tag": "1",
+    "EffectRate": 100,
+    "EffectType": 12,
+    "EffectTypeFirstSubtype": 57,
+    "EffectTypeSecondSubtype": 1,
+    "EffectTypeParam1": "0.021"
+  },
+  "14090410": {
+    "Id": 14090410,
+    "Tag": "1",
+    "EffectRate": 100,
+    "EffectType": 12,
+    "EffectTypeFirstSubtype": 1,
+    "EffectTypeSecondSubtype": 1,
+    "EffectTypeParam1": "60"
+  },
+  "14090420": {
+    "Id": 14090420,
+    "Tag": "1",
+    "EffectRate": 100,
+    "EffectType": 12,
+    "EffectTypeFirstSubtype": 2,
+    "EffectTypeSecondSubtype": 1,
+    "EffectTypeParam1": "10"
+  },
+  "14090430": {
+    "Id": 14090430,
+    "Tag": "1",
+    "EffectRate": 100,
+    "EffectType": 12,
+    "EffectTypeFirstSubtype": 3,
+    "EffectTypeSecondSubtype": 1,
+    "EffectTypeParam1": "690"
+  },
+  "14090440": {
+    "Id": 14090440,
+    "Tag": "1",
+    "EffectRate": 100,
+    "EffectType": 12,
+    "EffectTypeFirstSubtype": 1,
+    "EffectTypeSecondSubtype": 2,
+    "EffectTypeParam1": "0.015"
+  },
+  "14090450": {
+    "Id": 14090450,
+    "Tag": "1",
+    "EffectRate": 100,
+    "EffectType": 12,
+    "EffectTypeFirstSubtype": 57,
+    "EffectTypeSecondSubtype": 1,
+    "EffectTypeParam1": "0.021"
+  },
+  "14090460": {
+    "Id": 14090460,
+    "Tag": "1",
+    "EffectRate": 100,
+    "EffectType": 12,
+    "EffectTypeFirstSubtype": 1,
+    "EffectTypeSecondSubtype": 1,
+    "EffectTypeParam1": "60"
+  },
+  "14090470": {
+    "Id": 14090470,
+    "Tag": "1",
+    "EffectRate": 100,
+    "EffectType": 12,
+    "EffectTypeFirstSubtype": 2,
+    "EffectTypeSecondSubtype": 1,
+    "EffectTypeParam1": "10"
+  },
+  "14090480": {
+    "Id": 14090480,
+    "Tag": "1",
+    "EffectRate": 100,
+    "EffectType": 12,
+    "EffectTypeFirstSubtype": 3,
+    "EffectTypeSecondSubtype": 1,
+    "EffectTypeParam1": "690"
+  },
+  "14090490": {
+    "Id": 14090490,
+    "Tag": "1",
+    "EffectRate": 100,
+    "EffectType": 12,
+    "EffectTypeFirstSubtype": 1,
+    "EffectTypeSecondSubtype": 2,
+    "EffectTypeParam1": "0.015"
+  },
+  "14090500": {
+    "Id": 14090500,
     "Tag": "1",
     "EffectRate": 100,
     "EffectType": 12,
