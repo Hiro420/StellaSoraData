@@ -1,290 +1,492 @@
 {
-  "103": {
-    "id": 103,
-    "name": "Amber",
-    "star": 4,
-    "element": "Ignis",
-    "class": "Vanguard",
-    "attackType": "Ranged",
-    "tag": ["Vanguard", "Collector", "New Star Guild"]
-  },
-  "107": {
-    "id": 107,
-    "name": "Tilia",
-    "star": 4,
-    "element": "Lux",
-    "class": "Support",
-    "attackType": "Melee",
-    "tag": ["Support", "Steady", "Imperial Guard"]
-  },
-  "108": {
-    "id": 108,
-    "name": "Kasimira",
-    "star": 4,
-    "element": "Ignis",
-    "class": "Versatile",
-    "attackType": "Ranged",
-    "tag": ["Versatile", "Adventurous", "White Cat Troupe"]
-  },
-  "110": {
-    "id": 110,
-    "name": "Firenze",
-    "star": 5,
-    "element": "Umbra",
-    "class": "Vanguard",
-    "attackType": "Melee",
-    "tag": ["Vanguard", "Steady", "United Harvest"]
-  },
-  "111": {
-    "id": 111,
-    "name": "Iris",
-    "star": 4,
-    "element": "Aqua",
-    "class": "Versatile",
-    "attackType": "Ranged",
-    "tag": ["Versatile", "Creative", "New Star Guild"]
-  },
-  "112": {
-    "id": 112,
-    "name": "Noya",
-    "star": 4,
-    "element": "Ventus",
-    "class": "Vanguard",
-    "attackType": "Melee",
-    "tag": ["Vanguard", "Creative", "New Star Guild"]
-  },
-  "113": {
-    "id": 113,
-    "name": "Shimiao",
-    "star": 4,
-    "element": "Aqua",
-    "class": "Vanguard",
-    "attackType": "Melee",
-    "tag": ["Vanguard", "Inquisitive", "Baize Bureau"]
-  },
-  "116": {
-    "id": 116,
-    "name": "Ridge",
-    "star": 4,
-    "element": "Terra",
-    "class": "Versatile",
-    "attackType": "Ranged",
-    "tag": ["Versatile", "Collector", "United Harvest"]
-  },
-  "117": {
-    "id": 117,
-    "name": "Jinglin",
-    "star": 4,
-    "element": "Lux",
-    "class": "Versatile",
-    "attackType": "Ranged",
-    "tag": ["Versatile", "Inquisitive", "Fenghuang Diner"]
-  },
-  "118": {
-    "id": 118,
-    "name": "Coronis",
-    "star": 4,
-    "element": "Umbra",
-    "class": "Versatile",
-    "attackType": "Melee",
-    "tag": ["Versatile", "Adventurous", "Freelance Trekker"]
-  },
-  "119": {
-    "id": 119,
-    "name": "Nanoha",
-    "star": 5,
-    "element": "Ventus",
-    "class": "Vanguard",
-    "attackType": "Ranged",
-    "tag": ["Vanguard", "Inquisitive", "Goodwind Homecare"]
-  },
-  "120": {
-    "id": 120,
-    "name": "Canace",
-    "star": 4,
-    "element": "Ventus",
-    "class": "Versatile",
-    "attackType": "Ranged",
-    "tag": ["Versatile", "Adventurous", "Grace Imperium"]
-  },
-  "123": {
-    "id": 123,
-    "name": "Ann",
-    "star": 4,
-    "element": "Ventus",
-    "class": "Support",
-    "attackType": "Melee",
-    "tag": ["Support", "Adventurous", "Freelance Trekker"]
-  },
-  "125": {
-    "id": 125,
-    "name": "Freesia",
-    "star": 5,
-    "element": "Aqua",
-    "class": "Versatile",
-    "attackType": "Melee",
-    "tag": ["Versatile", "Adventurous", "Post Haste"]
-  },
-  "126": {
-    "id": 126,
-    "name": "Flora",
-    "star": 4,
-    "element": "Ignis",
-    "class": "Support",
-    "attackType": "Ranged",
-    "tag": ["Support", "Collector", "Freelance Trekker"]
-  },
-  "127": {
-    "id": 127,
-    "name": "Teresa",
-    "star": 4,
-    "element": "Aqua",
-    "class": "Support",
-    "attackType": "Melee",
-    "tag": ["Support", "Steady", "Post Haste"]
-  },
-  "130": {
-    "id": 130,
-    "name": "Donna",
-    "star": 5,
-    "element": "Aqua",
-    "class": "Versatile",
-    "attackType": "Ranged",
-    "tag": ["Versatile", "Creative", "Post Haste"]
-  },
-  "132": {
-    "id": 132,
-    "name": "Minova",
-    "star": 5,
-    "element": "Lux",
-    "class": "Versatile",
-    "attackType": "Melee",
-    "tag": ["Versatile", "Steady", "Ashwind Clan"]
-  },
-  "133": {
-    "id": 133,
-    "name": "Nazuka",
-    "star": 5,
-    "element": "Ventus",
-    "class": "Versatile",
-    "attackType": "Ranged",
-    "tag": ["Versatile", "Steady", "Petal Bloom"]
-  },
-  "134": {
-    "id": 134,
-    "name": "Fuyuka",
-    "star": 5,
-    "element": "Ignis",
-    "class": "Vanguard",
-    "attackType": "Melee",
-    "tag": ["Vanguard", "Inquisitive", "Petal Bloom"]
-  },
-  "135": {
-    "id": 135,
-    "name": "Mistique",
-    "star": 5,
-    "element": "Umbra",
-    "class": "Versatile",
-    "attackType": "Ranged",
-    "tag": ["Versatile", "Creative", "Scarlet Sights Media"]
-  },
-  "141": {
-    "id": 141,
-    "name": "Chixia",
-    "star": 5,
-    "element": "Ignis",
-    "class": "Versatile",
-    "attackType": "Melee",
-    "tag": ["Versatile", "Collector", "Yunji Studio"]
-  },
-  "142": {
-    "id": 142,
-    "name": "Cosette",
-    "star": 4,
-    "element": "Umbra",
-    "class": "Support",
-    "attackType": "Melee",
-    "tag": ["Support", "Inquisitive", "Freelance Trekker"]
-  },
-  "143": {
-    "id": 143,
-    "name": "Wraith",
-    "star": 5,
-    "element": "Ventus",
-    "class": "Vanguard",
-    "attackType": "Ranged",
-    "tag": ["Vanguard", "Adventurous", "Grace Imperium"]
-  },
-  "144": {
-    "id": 144,
-    "name": "Chitose",
-    "star": 5,
-    "element": "Aqua",
-    "class": "Vanguard",
-    "attackType": "Melee",
-    "tag": ["Vanguard", "Inquisitive", "Freelance Trekker"]
-  },
-  "147": {
-    "id": 147,
-    "name": "Caramel",
-    "star": 4,
-    "element": "Umbra",
-    "class": "Vanguard",
-    "attackType": "Ranged",
-    "tag": ["Vanguard", "Creative", "Freelance Trekker"]
-  },
-  "149": {
-    "id": 149,
-    "name": "Gerie",
-    "star": 5,
-    "element": "Terra",
-    "class": "Vanguard",
-    "attackType": "Melee",
-    "tag": ["Vanguard", "Inquisitive", "Grace Imperium"]
-  },
-  "150": {
-    "id": 150,
-    "name": "Laru",
-    "star": 4,
-    "element": "Lux",
-    "class": "Vanguard",
-    "attackType": "Melee",
-    "tag": ["Vanguard", "Adventurous", "Grace Imperium"]
-  },
-  "155": {
-    "id": 155,
-    "name": "Shia",
-    "star": 5,
-    "element": "Lux",
-    "class": "Vanguard",
-    "attackType": "Ranged",
-    "tag": ["Vanguard", "Adventurous", "Freelance Trekker"]
-  },
-  "156": {
-    "id": 156,
-    "name": "Nazuna",
-    "star": 5,
-    "element": "Terra",
-    "class": "Support",
-    "attackType": "Ranged",
-    "tag": ["Support", "Collector", "Petal Bloom"]
-  },
-  "158": {
-    "id": 158,
-    "name": "Snowish Laru",
-    "star": 5,
-    "element": "Ignis",
-    "class": "Versatile",
-    "attackType": "Melee",
-    "tag": ["Versatile", "Creative", "Grace Imperium"]
-  },
-  "159": {
-    "id": 159,
-    "name": "Springseek Coronis",
-    "star": 5,
-    "element": "Terra",
-    "class": "Versatile",
-    "attackType": "Ranged",
-    "tag": ["Versatile", "Collector", "Freelance Trekker"]
-  }
+    "103": {
+        "id": 103,
+        "name": {
+            "EN": "Amber",
+            "KR": "코하쿠",
+            "JP": "コハク",
+            "CN": "琥珀",
+            "TW": "琥珀"
+        },
+        "star": 4,
+        "element": "Ignis",
+        "class": "Vanguard",
+        "attackType": "Ranged"
+    },
+    "107": {
+        "id": 107,
+        "name": {
+            "EN": "Tilia",
+            "KR": "틸리아",
+            "JP": "ティリア",
+            "CN": "缇莉娅",
+            "TW": "緹莉婭"
+        },
+        "star": 4,
+        "element": "Lux",
+        "class": "Support",
+        "attackType": "Melee"
+    },
+    "108": {
+        "id": 108,
+        "name": {
+            "EN": "Kasimira",
+            "KR": "카시미라",
+            "JP": "カシミラ",
+            "CN": "卡西米拉",
+            "TW": "卡西米拉"
+        },
+        "star": 4,
+        "element": "Ignis",
+        "class": "Versatile",
+        "attackType": "Ranged"
+    },
+    "110": {
+        "id": 110,
+        "name": {
+            "EN": "Firenze",
+            "KR": "피렌",
+            "JP": "フィレン",
+            "CN": "翡冷翠",
+            "TW": "翡冷翠"
+        },
+        "star": 5,
+        "element": "Umbra",
+        "class": "Vanguard",
+        "attackType": "Melee"
+    },
+    "111": {
+        "id": 111,
+        "name": {
+            "EN": "Iris",
+            "KR": "아야메",
+            "JP": "アヤメ",
+            "CN": "鸢尾",
+            "TW": "鳶尾"
+        },
+        "star": 4,
+        "element": "Aqua",
+        "class": "Versatile",
+        "attackType": "Ranged"
+    },
+    "112": {
+        "id": 112,
+        "name": {
+            "EN": "Noya",
+            "KR": "세이나",
+            "JP": "セイナ",
+            "CN": "尘沙",
+            "TW": "塵沙"
+        },
+        "star": 4,
+        "element": "Ventus",
+        "class": "Vanguard",
+        "attackType": "Melee"
+    },
+    "113": {
+        "id": 113,
+        "name": {
+            "EN": "Shimiao",
+            "KR": "시먀오",
+            "JP": "シーミャオ",
+            "CN": "师渺",
+            "TW": "師渺"
+        },
+        "star": 4,
+        "element": "Aqua",
+        "class": "Vanguard",
+        "attackType": "Melee"
+    },
+    "115": {
+        "id": 115,
+        "name": {
+            "EN": "Firefly",
+            "KR": "호타루",
+            "JP": "ホタル",
+            "CN": "火垂",
+            "TW": "火垂"
+        },
+        "star": 5,
+        "element": "Lux",
+        "class": "Versatile",
+        "attackType": "Ranged"
+    },
+    "116": {
+        "id": 116,
+        "name": {
+            "EN": "Ridge",
+            "KR": "레이센",
+            "JP": "レイセン",
+            "CN": "岭川",
+            "TW": "嶺川"
+        },
+        "star": 4,
+        "element": "Terra",
+        "class": "Versatile",
+        "attackType": "Ranged"
+    },
+    "117": {
+        "id": 117,
+        "name": {
+            "EN": "Jinglin",
+            "KR": "징린",
+            "JP": "ジンリン",
+            "CN": "璟麟",
+            "TW": "璟麟"
+        },
+        "star": 4,
+        "element": "Lux",
+        "class": "Versatile",
+        "attackType": "Ranged"
+    },
+    "118": {
+        "id": 118,
+        "name": {
+            "EN": "Coronis",
+            "KR": "크루니스",
+            "JP": "クルニス",
+            "CN": "科洛妮丝",
+            "TW": "柯洛妮絲"
+        },
+        "star": 4,
+        "element": "Umbra",
+        "class": "Versatile",
+        "attackType": "Melee"
+    },
+    "119": {
+        "id": 119,
+        "name": {
+            "EN": "Nanoha",
+            "KR": "나노하",
+            "JP": "ナノハ",
+            "CN": "花原",
+            "TW": "花原"
+        },
+        "star": 5,
+        "element": "Ventus",
+        "class": "Vanguard",
+        "attackType": "Ranged"
+    },
+    "120": {
+        "id": 120,
+        "name": {
+            "EN": "Canace",
+            "KR": "카나체",
+            "JP": "カナーチェ",
+            "CN": "卡娜丝",
+            "TW": "卡娜絲"
+        },
+        "star": 4,
+        "element": "Ventus",
+        "class": "Versatile",
+        "attackType": "Ranged"
+    },
+    "123": {
+        "id": 123,
+        "name": {
+            "EN": "Ann",
+            "KR": "안즈",
+            "JP": "アンズ",
+            "CN": "杏子",
+            "TW": "杏子"
+        },
+        "star": 4,
+        "element": "Ventus",
+        "class": "Support",
+        "attackType": "Melee"
+    },
+    "125": {
+        "id": 125,
+        "name": {
+            "EN": "Freesia",
+            "KR": "프리지아",
+            "JP": "フリージア",
+            "CN": "苍兰",
+            "TW": "蒼蘭"
+        },
+        "star": 5,
+        "element": "Aqua",
+        "class": "Versatile",
+        "attackType": "Melee"
+    },
+    "126": {
+        "id": 126,
+        "name": {
+            "EN": "Flora",
+            "KR": "플로라",
+            "JP": "フローラ",
+            "CN": "紫槿",
+            "TW": "紫槿"
+        },
+        "star": 4,
+        "element": "Ignis",
+        "class": "Support",
+        "attackType": "Ranged"
+    },
+    "127": {
+        "id": 127,
+        "name": {
+            "EN": "Teresa",
+            "KR": "테레사",
+            "JP": "テレサ",
+            "CN": "特丽莎",
+            "TW": "特麗莎"
+        },
+        "star": 4,
+        "element": "Aqua",
+        "class": "Support",
+        "attackType": "Melee"
+    },
+    "130": {
+        "id": 130,
+        "name": {
+            "EN": "Donna",
+            "KR": "토나",
+            "JP": "トーナ",
+            "CN": "多娜",
+            "TW": "多娜"
+        },
+        "star": 5,
+        "element": "Aqua",
+        "class": "Versatile",
+        "attackType": "Ranged"
+    },
+    "132": {
+        "id": 132,
+        "name": {
+            "EN": "Minova",
+            "KR": "미네르바",
+            "JP": "ミネルバ",
+            "CN": "密涅瓦",
+            "TW": "密涅瓦"
+        },
+        "star": 5,
+        "element": "Lux",
+        "class": "Versatile",
+        "attackType": "Melee"
+    },
+    "133": {
+        "id": 133,
+        "name": {
+            "EN": "Nazuka",
+            "KR": "나츠카",
+            "JP": "ナツカ",
+            "CN": "夏花",
+            "TW": "夏花"
+        },
+        "star": 5,
+        "element": "Ventus",
+        "class": "Versatile",
+        "attackType": "Ranged"
+    },
+    "134": {
+        "id": 134,
+        "name": {
+            "EN": "Fuyuka",
+            "KR": "후유카",
+            "JP": "フユカ",
+            "CN": "冬香",
+            "TW": "冬香"
+        },
+        "star": 5,
+        "element": "Ignis",
+        "class": "Vanguard",
+        "attackType": "Melee"
+    },
+    "135": {
+        "id": 135,
+        "name": {
+            "EN": "Mistique",
+            "KR": "미스티",
+            "JP": "ミスティ",
+            "CN": "雾语",
+            "TW": "霧語"
+        },
+        "star": 5,
+        "element": "Umbra",
+        "class": "Versatile",
+        "attackType": "Ranged"
+    },
+    "140": {
+        "id": 140,
+        "name": {
+            "EN": "Sparkla",
+            "KR": "스파클",
+            "JP": "スパクル",
+            "CN": "斯帕克拉",
+            "TW": "斯帕克拉"
+        },
+        "star": 5,
+        "element": "Terra",
+        "class": "Vanguard",
+        "attackType": "Ranged"
+    },
+    "141": {
+        "id": 141,
+        "name": {
+            "EN": "Chixia",
+            "KR": "치시아",
+            "JP": "チーシア",
+            "CN": "赤霞",
+            "TW": "赤霞"
+        },
+        "star": 5,
+        "element": "Ignis",
+        "class": "Versatile",
+        "attackType": "Melee"
+    },
+    "142": {
+        "id": 142,
+        "name": {
+            "EN": "Cosette",
+            "KR": "코제트",
+            "JP": "コゼット",
+            "CN": "珂赛特",
+            "TW": "珂賽特"
+        },
+        "star": 4,
+        "element": "Umbra",
+        "class": "Support",
+        "attackType": "Melee"
+    },
+    "143": {
+        "id": 143,
+        "name": {
+            "EN": "Wraith",
+            "KR": "레이스",
+            "JP": "レイス",
+            "CN": "风影",
+            "TW": "風影"
+        },
+        "star": 5,
+        "element": "Ventus",
+        "class": "Vanguard",
+        "attackType": "Ranged"
+    },
+    "144": {
+        "id": 144,
+        "name": {
+            "EN": "Chitose",
+            "KR": "치토세",
+            "JP": "チトセ",
+            "CN": "千都世",
+            "TW": "千都世"
+        },
+        "star": 5,
+        "element": "Aqua",
+        "class": "Vanguard",
+        "attackType": "Melee"
+    },
+    "145": {
+        "id": 145,
+        "name": {
+            "EN": "Otoha",
+            "KR": "오토하",
+            "JP": "オトハ",
+            "CN": "乙叶",
+            "TW": "乙葉"
+        },
+        "star": 5,
+        "element": "Umbra",
+        "class": "Versatile",
+        "attackType": "Ranged"
+    },
+    "147": {
+        "id": 147,
+        "name": {
+            "EN": "Caramel",
+            "KR": "캐러멜",
+            "JP": "キャラメル",
+            "CN": "焦糖",
+            "TW": "焦糖"
+        },
+        "star": 4,
+        "element": "Umbra",
+        "class": "Vanguard",
+        "attackType": "Ranged"
+    },
+    "149": {
+        "id": 149,
+        "name": {
+            "EN": "Gerie",
+            "KR": "그레이",
+            "JP": "グレイ",
+            "CN": "格芮",
+            "TW": "格芮"
+        },
+        "star": 5,
+        "element": "Terra",
+        "class": "Vanguard",
+        "attackType": "Melee"
+    },
+    "150": {
+        "id": 150,
+        "name": {
+            "EN": "Laru",
+            "KR": "라루",
+            "JP": "ラール",
+            "CN": "菈露",
+            "TW": "菈露"
+        },
+        "star": 4,
+        "element": "Lux",
+        "class": "Vanguard",
+        "attackType": "Melee"
+    },
+    "155": {
+        "id": 155,
+        "name": {
+            "EN": "Shia",
+            "KR": "시아",
+            "JP": "シア",
+            "CN": "希娅",
+            "TW": "希婭"
+        },
+        "star": 5,
+        "element": "Lux",
+        "class": "Vanguard",
+        "attackType": "Ranged"
+    },
+    "156": {
+        "id": 156,
+        "name": {
+            "EN": "Nazuna",
+            "KR": "나즈나",
+            "JP": "ナズナ",
+            "CN": "小禾",
+            "TW": "小禾"
+        },
+        "star": 5,
+        "element": "Terra",
+        "class": "Support",
+        "attackType": "Ranged"
+    },
+    "158": {
+        "id": 158,
+        "name": {
+            "EN": "Snowish Laru",
+            "KR": "라루(이브)",
+            "JP": "ラール（聖夜）",
+            "CN": "菈露（圣夜）",
+            "TW": "聖夜菈露"
+        },
+        "star": 5,
+        "element": "Ignis",
+        "class": "Versatile",
+        "attackType": "Melee"
+    },
+    "159": {
+        "id": 159,
+        "name": {
+            "EN": "Springseek Coronis",
+            "KR": "크루니스(새해)",
+            "JP": "クルニス（華服）",
+            "CN": "科洛妮丝（新春）",
+            "TW": "緋春柯洛妮絲"
+        },
+        "star": 5,
+        "element": "Terra",
+        "class": "Versatile",
+        "attackType": "Ranged"
+    }
 }
