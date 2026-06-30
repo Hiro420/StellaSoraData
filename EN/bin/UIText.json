@@ -1411,6 +1411,22 @@
     "Id": "Guide_303_3",
     "Text": "UIText.Guide_303_3.1"
   },
+  "Guide_401_1": {
+    "Id": "Guide_401_1",
+    "Text": "UIText.Guide_401_1.1"
+  },
+  "Guide_401_2": {
+    "Id": "Guide_401_2",
+    "Text": "UIText.Guide_401_2.1"
+  },
+  "Guide_401_3": {
+    "Id": "Guide_401_3",
+    "Text": "UIText.Guide_401_3.1"
+  },
+  "Guide_401_4": {
+    "Id": "Guide_401_4",
+    "Text": "UIText.Guide_401_4.1"
+  },
   "Infinity_OpenDay_Type1": {
     "Id": "Infinity_OpenDay_Type1",
     "Text": "UIText.Infinity_OpenDay_Type1.1"
@@ -2987,9 +3003,17 @@
     "Id": "GoldenSpy_NoneFrozen",
     "Text": "UIText.GoldenSpy_NoneFrozen.1"
   },
+  "GoldenSpy_NoneBoom": {
+    "Id": "GoldenSpy_NoneBoom",
+    "Text": "UIText.GoldenSpy_NoneBoom.1"
+  },
   "StarTower_NPCOption_IllegalOption": {
     "Id": "StarTower_NPCOption_IllegalOption",
     "Text": "UIText.StarTower_NPCOption_IllegalOption.1"
+  },
+  "DoubleDrop_Reward_Receive_Tip": {
+    "Id": "DoubleDrop_Reward_Receive_Tip",
+    "Text": "UIText.DoubleDrop_Reward_Receive_Tip.1"
   },
   "Level_2_5_1": {
     "Id": "Level_2_5_1",
@@ -3578,6 +3602,10 @@
   "TowerDefense_Quest_ReceiveNone": {
     "Id": "TowerDefense_Quest_ReceiveNone",
     "Text": "UIText.TowerDefense_Quest_ReceiveNone.1"
+  },
+  "TowerDefense_Monster_Brief": {
+    "Id": "TowerDefense_Monster_Brief",
+    "Text": "UIText.TowerDefense_Monster_Brief.1"
   },
   "Lv": {
     "Id": "Lv",
@@ -6523,6 +6551,10 @@
     "Id": "Mall_Remain_Time_Sec",
     "Text": "UIText.Mall_Remain_Time_Sec.1"
   },
+  "Mall_Package_Buy_Confirm": {
+    "Id": "Mall_Package_Buy_Confirm",
+    "Text": "UIText.Mall_Package_Buy_Confirm.1"
+  },
   "MonthlyCard_RemainDay": {
     "Id": "MonthlyCard_RemainDay",
     "Text": "UIText.MonthlyCard_RemainDay.1"
@@ -8010,6 +8042,10 @@
   "BattlePassQusetDaily": {
     "Id": "BattlePassQusetDaily",
     "Text": "UIText.BattlePassQusetDaily.1"
+  },
+  "BattlePassQuset": {
+    "Id": "BattlePassQuset",
+    "Text": "UIText.BattlePassQuset.1"
   },
   "BattlePassQusetWeeklyHour": {
     "Id": "BattlePassQusetWeeklyHour",
@@ -12967,6 +13003,14 @@
     "Id": "TowerDef_MapInfo",
     "Text": "UIText.TowerDef_MapInfo.1"
   },
+  "TowerDef_Fixed": {
+    "Id": "TowerDef_Fixed",
+    "Text": "UIText.TowerDef_Fixed.1"
+  },
+  "TowerDef_Head": {
+    "Id": "TowerDef_Head",
+    "Text": "UIText.TowerDef_Head.1"
+  },
   "StartowerBook_NPCAffinityTitle": {
     "Id": "StartowerBook_NPCAffinityTitle",
     "Text": "UIText.StartowerBook_NPCAffinityTitle.1"
@@ -13426,6 +13470,34 @@
   "MiningGame_FinishLevel": {
     "Id": "MiningGame_FinishLevel",
     "Text": "UIText.MiningGame_FinishLevel.1"
+  },
+  "MiningGame_RewardPre": {
+    "Id": "MiningGame_RewardPre",
+    "Text": "UIText.MiningGame_RewardPre.1"
+  },
+  "MiningGame_ActDetail": {
+    "Id": "MiningGame_ActDetail",
+    "Text": "UIText.MiningGame_ActDetail.1"
+  },
+  "MiningGame_QuestTitle": {
+    "Id": "MiningGame_QuestTitle",
+    "Text": "UIText.MiningGame_QuestTitle.1"
+  },
+  "MiningGame_Quest_GetAllReward": {
+    "Id": "MiningGame_Quest_GetAllReward",
+    "Text": "UIText.MiningGame_Quest_GetAllReward.1"
+  },
+  "MiningGame_QuestPanelTitle": {
+    "Id": "MiningGame_QuestPanelTitle",
+    "Text": "UIText.MiningGame_QuestPanelTitle.1"
+  },
+  "MiningGame_QuestPanel_CurProcess": {
+    "Id": "MiningGame_QuestPanel_CurProcess",
+    "Text": "UIText.MiningGame_QuestPanel_CurProcess.1"
+  },
+  "MiningGame_Go": {
+    "Id": "MiningGame_Go",
+    "Text": "UIText.MiningGame_Go.1"
   },
   "CharList_Sort_Toggle_Time": {
     "Id": "CharList_Sort_Toggle_Time",
@@ -14819,6 +14891,14 @@
     "Id": "GoldenSpy_LevelFinish",
     "Text": "UIText.GoldenSpy_LevelFinish.1"
   },
+  "GoldenSpy_Refresh_Title": {
+    "Id": "GoldenSpy_Refresh_Title",
+    "Text": "UIText.GoldenSpy_Refresh_Title.1"
+  },
+  "GoldenSpy_Result_GoNext2": {
+    "Id": "GoldenSpy_Result_GoNext2",
+    "Text": "UIText.GoldenSpy_Result_GoNext2.1"
+  },
   "StarTower_ResearchPreview": {
     "Id": "StarTower_ResearchPreview",
     "Text": "UIText.StarTower_ResearchPreview.1"
@@ -14966,6 +15046,54 @@
   "Potential_ValueMax_HInt": {
     "Id": "Potential_ValueMax_HInt",
     "Text": "UIText.Potential_ValueMax_HInt.1"
+  },
+  "Double_Drops_Quest_Title": {
+    "Id": "Double_Drops_Quest_Title",
+    "Text": "UIText.Double_Drops_Quest_Title.1"
+  },
+  "Double_Drops_Quest_Reward_Title": {
+    "Id": "Double_Drops_Quest_Reward_Title",
+    "Text": "UIText.Double_Drops_Quest_Reward_Title.1"
+  },
+  "Double_Drops_Quest_Reward_Receive": {
+    "Id": "Double_Drops_Quest_Reward_Receive",
+    "Text": "UIText.Double_Drops_Quest_Reward_Receive.1"
+  },
+  "Double_Drops_Act_Double_Count": {
+    "Id": "Double_Drops_Act_Double_Count",
+    "Text": "UIText.Double_Drops_Act_Double_Count.1"
+  },
+  "Double_Drops_Double_Count_1": {
+    "Id": "Double_Drops_Double_Count_1",
+    "Text": "UIText.Double_Drops_Double_Count_1.1"
+  },
+  "Double_Drops_Double_Count_2": {
+    "Id": "Double_Drops_Double_Count_2",
+    "Text": "UIText.Double_Drops_Double_Count_2.1"
+  },
+  "Double_Drops_Act_Triple_Count": {
+    "Id": "Double_Drops_Act_Triple_Count",
+    "Text": "UIText.Double_Drops_Act_Triple_Count.1"
+  },
+  "Double_Drops_Triple_Count_1": {
+    "Id": "Double_Drops_Triple_Count_1",
+    "Text": "UIText.Double_Drops_Triple_Count_1.1"
+  },
+  "Double_Drops_Triple_Count_2": {
+    "Id": "Double_Drops_Triple_Count_2",
+    "Text": "UIText.Double_Drops_Triple_Count_2.1"
+  },
+  "Double_Drops_Goto_Instance": {
+    "Id": "Double_Drops_Goto_Instance",
+    "Text": "UIText.Double_Drops_Goto_Instance.1"
+  },
+  "Double_Drops_WorldClass_Lock": {
+    "Id": "Double_Drops_WorldClass_Lock",
+    "Text": "UIText.Double_Drops_WorldClass_Lock.1"
+  },
+  "Activity_Mini_Game_10109": {
+    "Id": "Activity_Mini_Game_10109",
+    "Text": "UIText.Activity_Mini_Game_10109.1"
   },
   "Potential_Recommend_Show": {
     "Id": "Potential_Recommend_Show",

@@ -1539,6 +1539,50 @@
     "Clue": "DatingCharacterEvent.140302.6",
     "Memory": "DatingCharacterEvent.140302.7"
   },
+  "114301": {
+    "Id": 114301,
+    "DatingEventType": 5,
+    "DatingEventParams": [
+      114,
+      6
+    ],
+    "BranchTag": 2,
+    "Affinity": 25,
+    "Reward": [
+      2,
+      10
+    ],
+    "Desc1": "DatingCharacterEvent.114301.1",
+    "Desc2": "DatingCharacterEvent.114301.2",
+    "Desc3": "DatingCharacterEvent.114301.3",
+    "Response": "happy",
+    "CG": "DatingSPCG_114301",
+    "Name": "DatingCharacterEvent.114301.5",
+    "Clue": "DatingCharacterEvent.114301.6",
+    "Memory": "DatingCharacterEvent.114301.7"
+  },
+  "114302": {
+    "Id": 114302,
+    "DatingEventType": 5,
+    "DatingEventParams": [
+      114,
+      7
+    ],
+    "BranchTag": 2,
+    "Affinity": 25,
+    "Reward": [
+      2,
+      10
+    ],
+    "Desc1": "DatingCharacterEvent.114302.1",
+    "Desc2": "DatingCharacterEvent.114302.2",
+    "Desc3": "DatingCharacterEvent.114302.3",
+    "Response": "happy",
+    "CG": "DatingSPCG_114302",
+    "Name": "DatingCharacterEvent.114302.5",
+    "Clue": "DatingCharacterEvent.114302.6",
+    "Memory": "DatingCharacterEvent.114302.7"
+  },
   "125303": {
     "Id": 125303,
     "DatingEventType": 5,

@@ -13,8 +13,30 @@
   "10102": {
     "Id": 10102,
     "MaxAngle": 75,
-    "AngleTime": 1.6,
+    "AngleTime": 1.5,
     "BaseSpeed": 900,
+    "BaseRadius": 45,
+    "BaseFactor": -12.0,
+    "PullSlowWeight": 40,
+    "GetHighValue": 200,
+    "HighValueEffect": 200
+  },
+  "10103": {
+    "Id": 10103,
+    "MaxAngle": 75,
+    "AngleTime": 1.5,
+    "BaseSpeed": 1100,
+    "BaseRadius": 45,
+    "BaseFactor": -13.0,
+    "PullSlowWeight": 40,
+    "GetHighValue": 200,
+    "HighValueEffect": 200
+  },
+  "10104": {
+    "Id": 10104,
+    "MaxAngle": 75,
+    "AngleTime": 1.8,
+    "BaseSpeed": 800,
     "BaseRadius": 45,
     "BaseFactor": -12.0,
     "PullSlowWeight": 40,

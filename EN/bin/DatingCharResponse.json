@@ -377,6 +377,65 @@
     "Words": "DatingCharResponse.11307.1",
     "BubbleEmoji": "avg_emoji_star"
   },
+  "11401": {
+    "Id": 11401,
+    "CharId": 114,
+    "Type": "happy",
+    "VoiceKey": "happy",
+    "Action": "presents_a",
+    "Words": "DatingCharResponse.11401.1"
+  },
+  "11402": {
+    "Id": 11402,
+    "CharId": 114,
+    "Type": "happy2",
+    "VoiceKey": "excit",
+    "Action": "presents_b",
+    "Words": "DatingCharResponse.11402.1"
+  },
+  "11403": {
+    "Id": 11403,
+    "CharId": 114,
+    "Type": "normal",
+    "VoiceKey": "confirm",
+    "Action": "chat_a",
+    "Words": "DatingCharResponse.11403.1",
+    "BubbleEmoji": "avg_emoji_happy"
+  },
+  "11404": {
+    "Id": 11404,
+    "CharId": 114,
+    "Type": "normal2",
+    "VoiceKey": "confirm",
+    "Action": "chat_b",
+    "Words": "DatingCharResponse.11404.1",
+    "BubbleEmoji": "avg_emoji_attention"
+  },
+  "11405": {
+    "Id": 11405,
+    "CharId": 114,
+    "Type": "think",
+    "VoiceKey": "question",
+    "Action": "think_a",
+    "Words": "DatingCharResponse.11405.1"
+  },
+  "11406": {
+    "Id": 11406,
+    "CharId": 114,
+    "Type": "shy",
+    "VoiceKey": "happy",
+    "Action": "shy_a",
+    "Words": "DatingCharResponse.11406.1"
+  },
+  "11407": {
+    "Id": 11407,
+    "CharId": 114,
+    "Type": "greet",
+    "VoiceKey": "greet",
+    "Action": "chat_a",
+    "Words": "DatingCharResponse.11407.1",
+    "BubbleEmoji": "avg_emoji_star"
+  },
   "11501": {
     "Id": 11501,
     "CharId": 115,

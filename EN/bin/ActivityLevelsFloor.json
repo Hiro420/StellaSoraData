@@ -2187,5 +2187,274 @@
     "Theme": 451,
     "BGM": "mode_rouguang_combatBoss_setState",
     "LeaveTriggerEvent": "mode_rouguang_all_stop"
+  },
+  "301201": {
+    "Id": 301201,
+    "MonsterLv": 1,
+    "SceneName": "Levels/StoryActivity/StoryActivity_12/StoryActivity_12_005_B_01",
+    "ConfigPrefabName": "StoryActivity_12_005_B_N1",
+    "Theme": 456,
+    "BGM": "maoYan_combatNormal_setState",
+    "LeaveTriggerEvent": "amb_maoYan_all_stop",
+    "LevelScript": "AIScript.LevelAndGroupController.Level.LevelControllerForMaoyan"
+  },
+  "301202": {
+    "Id": 301202,
+    "MonsterLv": 2,
+    "SceneName": "Levels/StoryActivity/StoryActivity_12/StoryActivity_12_006_A_01",
+    "ConfigPrefabName": "StoryActivity_12_006_A_N2",
+    "Theme": 456,
+    "BGM": "maoYan_combatNormal_setState",
+    "LeaveTriggerEvent": "amb_maoYan_all_stop",
+    "LevelScript": "AIScript.LevelAndGroupController.Level.LevelControllerForMaoyan"
+  },
+  "301203": {
+    "Id": 301203,
+    "MonsterLv": 3,
+    "SceneName": "Levels/StoryActivity/StoryActivity_12/StoryActivity_12_008_B_01_Mir",
+    "ConfigPrefabName": "StoryActivity_12_008_B_Mir_N3",
+    "Mir": true,
+    "Theme": 456,
+    "BGM": "maoYan_combatNormal_setState",
+    "LeaveTriggerEvent": "amb_maoYan_all_stop",
+    "LevelScript": "AIScript.LevelAndGroupController.Level.LevelControllerForMaoyan"
+  },
+  "301204": {
+    "Id": 301204,
+    "MonsterLv": 4,
+    "SceneName": "Levels/StoryActivity/StoryActivity_12/StoryActivity_12_013_A_01",
+    "ConfigPrefabName": "StoryActivity_12_013_A_N4",
+    "Theme": 456,
+    "BGM": "maoYan_combatNormal_setState",
+    "LeaveTriggerEvent": "amb_maoYan_all_stop",
+    "LevelScript": "AIScript.LevelAndGroupController.Level.LevelControllerForMaoyan"
+  },
+  "301205": {
+    "Id": 301205,
+    "MonsterLv": 5,
+    "SceneName": "Levels/StoryActivity/StoryActivity_12/StoryActivity_12_005_B_01_Mir",
+    "ConfigPrefabName": "StoryActivity_12_005_B_Mir_N5",
+    "Mir": true,
+    "Theme": 456,
+    "BGM": "maoYan_combatNormal_setState",
+    "LeaveTriggerEvent": "amb_maoYan_all_stop",
+    "LevelScript": "AIScript.LevelAndGroupController.Level.LevelControllerForMaoyan"
+  },
+  "301206": {
+    "Id": 301206,
+    "MonsterLv": 6,
+    "SceneName": "Levels/StoryActivity/StoryActivity_12/StoryActivity_12_006_A_01_Mir",
+    "ConfigPrefabName": "StoryActivity_12_006_A_Mir_N6",
+    "Mir": true,
+    "Theme": 456,
+    "BGM": "maoYan_combatNormal_setState",
+    "LeaveTriggerEvent": "amb_maoYan_all_stop",
+    "LevelScript": "AIScript.LevelAndGroupController.Level.LevelControllerForMaoyan"
+  },
+  "301207": {
+    "Id": 301207,
+    "MonsterLv": 7,
+    "SceneName": "Levels/StoryActivity/StoryActivity_12/StoryActivity_12_008_B_01",
+    "ConfigPrefabName": "StoryActivity_12_008_B_N7",
+    "Theme": 456,
+    "BGM": "maoYan_combatNormal_setState",
+    "LeaveTriggerEvent": "amb_maoYan_all_stop",
+    "LevelScript": "AIScript.LevelAndGroupController.Level.LevelControllerForMaoyan"
+  },
+  "301208": {
+    "Id": 301208,
+    "MonsterLv": 8,
+    "SceneName": "Levels/StoryActivity/StoryActivity_12/StoryActivity_12_Boss_A",
+    "ConfigPrefabName": "StoryActivity_12_Boss_A_N8",
+    "Theme": 457,
+    "BGM": "maoYan_combatBoss_setState",
+    "LeaveTriggerEvent": "amb_maoYan_all_stop",
+    "LevelScript": "AIScript.LevelAndGroupController.Level.LevelControllerForMaoyan"
+  },
+  "301209": {
+    "Id": 301209,
+    "MonsterLv": 9,
+    "SceneName": "Levels/StoryActivity/StoryActivity_12/StoryActivity_12_008_B_01_Mir",
+    "ConfigPrefabName": "StoryActivity_12_008_B_Mir_N9",
+    "Mir": true,
+    "Theme": 456,
+    "BGM": "maoYan_combatNormal_setState",
+    "LeaveTriggerEvent": "amb_maoYan_all_stop",
+    "LevelScript": "AIScript.LevelAndGroupController.Level.LevelControllerForMaoyan"
+  },
+  "301210": {
+    "Id": 301210,
+    "MonsterLv": 10,
+    "SceneName": "Levels/StoryActivity/StoryActivity_12/StoryActivity_12_006_A_01",
+    "ConfigPrefabName": "StoryActivity_12_006_A_N10",
+    "Theme": 456,
+    "BGM": "maoYan_combatNormal_setState",
+    "LeaveTriggerEvent": "amb_maoYan_all_stop",
+    "LevelScript": "AIScript.LevelAndGroupController.Level.LevelControllerForMaoyan"
+  },
+  "301211": {
+    "Id": 301211,
+    "MonsterLv": 11,
+    "SceneName": "Levels/StoryActivity/StoryActivity_12/StoryActivity_12_005_B_01",
+    "ConfigPrefabName": "StoryActivity_12_005_B_N11",
+    "Theme": 456,
+    "BGM": "maoYan_combatNormal_setState",
+    "LeaveTriggerEvent": "amb_maoYan_all_stop",
+    "LevelScript": "AIScript.LevelAndGroupController.Level.LevelControllerForMaoyan"
+  },
+  "301212": {
+    "Id": 301212,
+    "MonsterLv": 12,
+    "SceneName": "Levels/StoryActivity/StoryActivity_12/StoryActivity_12_Boss_A",
+    "ConfigPrefabName": "StoryActivity_12_Boss_A_N12",
+    "Theme": 457,
+    "BGM": "maoYan_combatBoss_setState",
+    "LeaveTriggerEvent": "amb_maoYan_all_stop",
+    "LevelScript": "AIScript.LevelAndGroupController.Level.LevelControllerForMaoyan"
+  },
+  "301213": {
+    "Id": 301213,
+    "MonsterLv": 13,
+    "SceneName": "Levels/StoryActivity/StoryActivity_12/StoryActivity_12_005_B_01_Mir",
+    "ConfigPrefabName": "StoryActivity_12_005_B_Mir_H1",
+    "Mir": true,
+    "Theme": 456,
+    "BGM": "maoYan_combatNormal_setState",
+    "LeaveTriggerEvent": "amb_maoYan_all_stop",
+    "LevelScript": "AIScript.LevelAndGroupController.Level.LevelControllerForMaoyan"
+  },
+  "301214": {
+    "Id": 301214,
+    "MonsterLv": 14,
+    "SceneName": "Levels/StoryActivity/StoryActivity_12/StoryActivity_12_006_A_01_Mir",
+    "ConfigPrefabName": "StoryActivity_12_006_A_Mir_H2",
+    "Mir": true,
+    "Theme": 456,
+    "BGM": "maoYan_combatNormal_setState",
+    "LeaveTriggerEvent": "amb_maoYan_all_stop",
+    "LevelScript": "AIScript.LevelAndGroupController.Level.LevelControllerForMaoyan"
+  },
+  "301215": {
+    "Id": 301215,
+    "MonsterLv": 15,
+    "SceneName": "Levels/StoryActivity/StoryActivity_12/StoryActivity_12_014_A_01",
+    "ConfigPrefabName": "StoryActivity_12_014_A_H3",
+    "Theme": 456,
+    "BGM": "maoYan_combatNormal_setState",
+    "LeaveTriggerEvent": "amb_maoYan_all_stop",
+    "LevelScript": "AIScript.LevelAndGroupController.Level.LevelControllerForMaoyan"
+  },
+  "301216": {
+    "Id": 301216,
+    "MonsterLv": 16,
+    "SceneName": "Levels/StoryActivity/StoryActivity_12/StoryActivity_12_Boss_A",
+    "ConfigPrefabName": "StoryActivity_12_Boss_A_H4",
+    "Theme": 457,
+    "BGM": "maoYan_combatBoss_setState",
+    "LeaveTriggerEvent": "amb_maoYan_all_stop",
+    "LevelScript": "AIScript.LevelAndGroupController.Level.LevelControllerForMaoyan"
+  },
+  "301217": {
+    "Id": 301217,
+    "MonsterLv": 17,
+    "SceneName": "Levels/StoryActivity/StoryActivity_12/StoryActivity_12_008_B_01",
+    "ConfigPrefabName": "StoryActivity_12_008_B_H5",
+    "Theme": 456,
+    "BGM": "maoYan_combatNormal_setState",
+    "LeaveTriggerEvent": "amb_maoYan_all_stop",
+    "LevelScript": "AIScript.LevelAndGroupController.Level.LevelControllerForMaoyan"
+  },
+  "301218": {
+    "Id": 301218,
+    "MonsterLv": 18,
+    "SceneName": "Levels/StoryActivity/StoryActivity_12/StoryActivity_12_005_B_01",
+    "ConfigPrefabName": "StoryActivity_12_005_B_H6",
+    "Theme": 456,
+    "BGM": "maoYan_combatNormal_setState",
+    "LeaveTriggerEvent": "amb_maoYan_all_stop",
+    "LevelScript": "AIScript.LevelAndGroupController.Level.LevelControllerForMaoyan"
+  },
+  "301219": {
+    "Id": 301219,
+    "MonsterLv": 19,
+    "SceneName": "Levels/StoryActivity/StoryActivity_12/StoryActivity_12_013_A_01_Mir",
+    "ConfigPrefabName": "StoryActivity_12_013_A_Mir_H7",
+    "Mir": true,
+    "Theme": 456,
+    "BGM": "maoYan_combatNormal_setState",
+    "LeaveTriggerEvent": "amb_maoYan_all_stop",
+    "LevelScript": "AIScript.LevelAndGroupController.Level.LevelControllerForMaoyan"
+  },
+  "301220": {
+    "Id": 301220,
+    "MonsterLv": 20,
+    "SceneName": "Levels/StoryActivity/StoryActivity_12/StoryActivity_12_Boss_A",
+    "ConfigPrefabName": "StoryActivity_12_Boss_A_H8",
+    "Theme": 457,
+    "BGM": "maoYan_combatBoss_setState",
+    "LeaveTriggerEvent": "amb_maoYan_all_stop",
+    "LevelScript": "AIScript.LevelAndGroupController.Level.DaWuGuiLevelController_MaoYanActivity"
+  },
+  "301221": {
+    "Id": 301221,
+    "MonsterLv": 21,
+    "SceneName": "Levels/StoryActivity/StoryActivity_12/StoryActivity_12_014_A_01_Mir",
+    "ConfigPrefabName": "StoryActivity_12_014_A_Mir_C1",
+    "Mir": true,
+    "Theme": 456,
+    "BGM": "maoYan_combatNormal_setState",
+    "LeaveTriggerEvent": "amb_maoYan_all_stop",
+    "LevelScript": "AIScript.LevelAndGroupController.Level.LevelControllerForMaoyan"
+  },
+  "301222": {
+    "Id": 301222,
+    "MonsterLv": 22,
+    "SceneName": "Levels/StoryActivity/StoryActivity_12/StoryActivity_12_Boss_A",
+    "ConfigPrefabName": "StoryActivity_12_Boss_A_C2",
+    "Theme": 457,
+    "BGM": "maoYan_combatBoss_setState",
+    "LeaveTriggerEvent": "amb_maoYan_all_stop",
+    "LevelScript": "AIScript.LevelAndGroupController.Level.LevelControllerForMaoyan"
+  },
+  "301223": {
+    "Id": 301223,
+    "MonsterLv": 23,
+    "SceneName": "Levels/StoryActivity/StoryActivity_12/StoryActivity_12_013_A_01",
+    "ConfigPrefabName": "StoryActivity_12_013_A_C3",
+    "Theme": 456,
+    "BGM": "maoYan_combatNormal_setState",
+    "LeaveTriggerEvent": "amb_maoYan_all_stop",
+    "LevelScript": "AIScript.LevelAndGroupController.Level.LevelControllerForMaoyan"
+  },
+  "301224": {
+    "Id": 301224,
+    "MonsterLv": 24,
+    "SceneName": "Levels/StoryActivity/StoryActivity_12/StoryActivity_12_Boss_A",
+    "ConfigPrefabName": "StoryActivity_12_Boss_A_C4",
+    "Theme": 457,
+    "BGM": "maoYan_combatBoss_setState",
+    "LeaveTriggerEvent": "amb_maoYan_all_stop",
+    "LevelScript": "AIScript.LevelAndGroupController.Level.DaWuGuiLevelController_MaoYanActivity"
+  },
+  "301225": {
+    "Id": 301225,
+    "MonsterLv": 15,
+    "SceneName": "Levels/StoryActivity/StoryActivity_12/StoryActivity_12_008_B_01_Mir",
+    "ConfigPrefabName": "StoryActivity_12_008_B_Mir_Story1",
+    "Mir": true,
+    "Theme": 456,
+    "BGM": "maoYan_combatNormal_setState",
+    "LeaveTriggerEvent": "amb_maoYan_all_stop",
+    "LevelScript": "AIScript.LevelAndGroupController.Level.LevelControllerForMaoyan"
+  },
+  "301226": {
+    "Id": 301226,
+    "MonsterLv": 7,
+    "SceneName": "Levels/StoryActivity/StoryActivity_12/StoryActivity_12_Boss_A",
+    "ConfigPrefabName": "StoryActivity_12_Boss_A_Story2",
+    "Theme": 457,
+    "BGM": "maoYan_combatBoss_setState",
+    "LeaveTriggerEvent": "amb_maoYan_all_stop",
+    "LevelScript": "AIScript.LevelAndGroupController.Level.LevelControllerForMaoyan"
   }
 }

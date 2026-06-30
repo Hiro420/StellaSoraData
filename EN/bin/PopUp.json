@@ -226,6 +226,25 @@
     "EndType": 2,
     "EndTime": "2026-07-07T10:59:59+08:00"
   },
+  "15": {
+    "Id": 15,
+    "SortId": 15,
+    "PopUpType": 3,
+    "PopUpRes": "UI/MallPkgPopup/Popup_12",
+    "ScriptName": "OwnPopUp.MallPkgPopupCtrl",
+    "ScriptParams": "[\"pack.13_res\", \"pack.13_gift\", \"pack.13_disc_l\", \"pack.13_role_l\"]",
+    "PopRefreshType": 3,
+    "PopJumpType": 3,
+    "JumpToParams": 18,
+    "StartCondType": 71,
+    "StartCondParams": [
+      2
+    ],
+    "StartType": 2,
+    "StartTime": "2026-06-30T12:00:00+08:00",
+    "EndType": 2,
+    "EndTime": "2026-07-21T10:59:59+08:00"
+  },
   "1000": {
     "Id": 1000,
     "SortId": 1000,
@@ -369,6 +388,16 @@
     "PopRefreshType": 2,
     "PopJumpType": 2
   },
+  "1014": {
+    "Id": 1014,
+    "SortId": 1014,
+    "PopUpType": 2,
+    "ActivityId": 10109,
+    "PopUpRes": "UI_Activity/10109/PopUp",
+    "ScriptName": "ActivityPopUp.ActivityGunStorm_10109PopUpCtrl",
+    "PopRefreshType": 2,
+    "PopJumpType": 2
+  },
   "2005": {
     "Id": 2005,
     "SortId": 2005,
@@ -474,5 +503,29 @@
     "PopRefreshType": 2,
     "PopJumpType": 2,
     "JumpToParams": 149
+  },
+  "2014": {
+    "Id": 2014,
+    "SortId": 3011,
+    "PopUpType": 1,
+    "ActivityId": 103001,
+    "PopUpRes": "UI_Activity/_103001/PopUp",
+    "ScriptName": "ActivityPopUp.ActivityDoubleDrop_103001PopUpCtrl",
+    "PopRefreshType": 2,
+    "PopJumpType": 2
+  },
+  "2017": {
+    "Id": 2017,
+    "SortId": 2011,
+    "PopUpType": 1,
+    "ActivityId": 102004,
+    "PopUpRes": "UI_Activity/TowerDefense/PopUp",
+    "ScriptName": "ActivityPopUp.ActivityTowerDefensePopUpCtrl",
+    "PopRefreshType": 1,
+    "PopJumpType": 2,
+    "StartCondType": 71,
+    "StartCondParams": [
+      1
+    ]
   }
 }

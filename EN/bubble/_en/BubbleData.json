@@ -5358,7 +5358,7 @@
                 0
             ],
             "female_jp": [
-                5,
+                4.87,
                 0,
                 0,
                 0
@@ -16119,6 +16119,2675 @@
                 9,
                 21,
                 28
+            ]
+        }
+    },
+    "vo_114_combat_battleClear_001": {
+        "anim": {},
+        "text": {
+            "female_jp": [
+                "All perfect!",
+                "",
+                "",
+                ""
+            ]
+        },
+        "time": {
+            "female_cn": [
+                2,
+                0,
+                0,
+                0
+            ],
+            "female_jp": [
+                1.589,
+                0,
+                0,
+                0
+            ]
+        }
+    },
+    "vo_114_combat_battleClear_002": {
+        "anim": {},
+        "text": {
+            "female_jp": [
+                "Too weak ♪ That all you got?",
+                "",
+                "",
+                ""
+            ]
+        },
+        "time": {
+            "female_cn": [
+                2,
+                0,
+                0,
+                0
+            ],
+            "female_jp": [
+                3.009,
+                0,
+                0,
+                0
+            ]
+        }
+    },
+    "vo_114_combat_battleClear_003": {
+        "anim": {},
+        "text": {
+            "female_jp": [
+                "Hehe, scared of the great Chaton's true power?",
+                "",
+                "",
+                ""
+            ]
+        },
+        "time": {
+            "female_cn": [
+                3.57,
+                0,
+                0,
+                0
+            ],
+            "female_jp": [
+                3.593,
+                0,
+                0,
+                0
+            ]
+        }
+    },
+    "vo_114_combat_chatLvUp_001": {
+        "anim": {},
+        "text": {
+            "female_jp": [
+                "The difficulty's going up? I won't run or hide!",
+                "",
+                "",
+                ""
+            ]
+        },
+        "time": {
+            "female_cn": [
+                2.214,
+                0,
+                0,
+                0
+            ],
+            "female_jp": [
+                4.036,
+                0,
+                0,
+                0
+            ]
+        }
+    },
+    "vo_114_combat_chatNext_001": {
+        "anim": {},
+        "text": {
+            "female_jp": [
+                "A new stage awaits me! Let's hurry up and go!",
+                "",
+                "",
+                ""
+            ]
+        },
+        "time": {
+            "female_cn": [
+                2.906,
+                0,
+                0,
+                0
+            ],
+            "female_jp": [
+                3.528,
+                0,
+                0,
+                0
+            ]
+        }
+    },
+    "vo_114_combat_chat_001": {
+        "anim": {},
+        "text": {
+            "female_jp": [
+                "I'm bored! I'm bored! I'm booored!!! Let's do something fun!",
+                "",
+                "",
+                ""
+            ]
+        },
+        "time": {
+            "female_cn": [
+                4.036,
+                0,
+                0,
+                0
+            ],
+            "female_jp": [
+                7.028,
+                0,
+                0,
+                0
+            ]
+        }
+    },
+    "vo_114_combat_chat_002": {
+        "anim": {},
+        "text": {
+            "female_jp": [
+                "When I'm with you, it's always win, win, win! ♪ Am I right?",
+                "",
+                "",
+                ""
+            ]
+        },
+        "time": {
+            "female_cn": [
+                3.696,
+                0,
+                0,
+                0
+            ],
+            "female_jp": [
+                5.506,
+                0,
+                0,
+                0
+            ]
+        }
+    },
+    "vo_114_combat_chat_003": {
+        "anim": {},
+        "text": {
+            "female_jp": [
+                "While I'm listening to music, I can focus better ♪",
+                "",
+                "",
+                ""
+            ]
+        },
+        "time": {
+            "female_cn": [
+                3.085,
+                0,
+                0,
+                0
+            ],
+            "female_jp": [
+                4.236,
+                0,
+                0,
+                0
+            ]
+        }
+    },
+    "vo_114_combat_chat_004": {
+        "anim": {},
+        "text": {
+            "female_jp": [
+                "I've been itching to do this ever since we set foot in the Monolith... I'm at my limit! Can I attack?",
+                "",
+                "",
+                ""
+            ]
+        },
+        "time": {
+            "female_cn": [
+                4,
+                0,
+                0,
+                0
+            ],
+            "female_jp": [
+                4.989,
+                0,
+                0,
+                0
+            ]
+        }
+    },
+    "vo_114_combat_chat_005": {
+        "anim": {},
+        "text": {
+            "female_jp": [
+                "Think it's impossible for a sniper to charge? Say that again after you’ve seen the great Chaton's moves!",
+                "",
+                "",
+                ""
+            ]
+        },
+        "time": {
+            "female_cn": [
+                4.191,
+                0,
+                0,
+                0
+            ],
+            "female_jp": [
+                5.921,
+                0,
+                0,
+                0
+            ]
+        }
+    },
+    "vo_114_combat_dead_001": {
+        "anim": {},
+        "text": {
+            "female_jp": [
+                "I ... haven't lost...",
+                "",
+                "",
+                ""
+            ]
+        },
+        "time": {
+            "female_cn": [
+                2.147,
+                0,
+                0,
+                0
+            ],
+            "female_jp": [
+                2.174,
+                0,
+                0,
+                0
+            ]
+        }
+    },
+    "vo_114_combat_dead_002": {
+        "anim": {},
+        "text": {
+            "female_jp": [
+                "The darkness ... will never fade...",
+                "",
+                "",
+                ""
+            ]
+        },
+        "time": {
+            "female_cn": [
+                3.311,
+                0,
+                0,
+                0
+            ],
+            "female_jp": [
+                2.23,
+                0,
+                0,
+                0
+            ]
+        }
+    },
+    "vo_114_combat_eventRoom_001": {
+        "anim": {},
+        "text": {
+            "female_jp": [
+                "Hmm? Is this what you call fate? ♪",
+                "",
+                "",
+                ""
+            ]
+        },
+        "time": {
+            "female_cn": [
+                3.324,
+                0,
+                0,
+                0
+            ],
+            "female_jp": [
+                3.356,
+                0,
+                0,
+                0
+            ]
+        }
+    },
+    "vo_114_combat_perk_001": {
+        "anim": {},
+        "text": {
+            "female_jp": [
+                "Dun-dun-dun! ♪ Tadah!",
+                "",
+                "",
+                ""
+            ]
+        },
+        "time": {
+            "female_cn": [
+                1.633,
+                0,
+                0,
+                0
+            ],
+            "female_jp": [
+                2.553,
+                0,
+                0,
+                0
+            ]
+        }
+    },
+    "vo_114_combat_perk_002": {
+        "anim": {},
+        "text": {
+            "female_jp": [
+                "Ugh... Be still, the dark power coursing through my body!",
+                "",
+                "",
+                ""
+            ]
+        },
+        "time": {
+            "female_cn": [
+                2.844,
+                0,
+                0,
+                0
+            ],
+            "female_jp": [
+                5.313,
+                0,
+                0,
+                0
+            ]
+        }
+    },
+    "vo_114_combat_perk_003": {
+        "anim": {},
+        "text": {
+            "female_jp": [
+                "I got it! The rhythm that leads to victory!",
+                "",
+                "",
+                ""
+            ]
+        },
+        "time": {
+            "female_cn": [
+                2.2,
+                0,
+                0,
+                0
+            ],
+            "female_jp": [
+                3.405,
+                0,
+                0,
+                0
+            ]
+        }
+    },
+    "vo_114_combat_restRoom_001": {
+        "anim": {},
+        "text": {
+            "female_jp": [
+                "Is this the place blessed by the darkness...? Hehe, it certainly looks like a place to rest comfortably ♪",
+                "",
+                "",
+                ""
+            ]
+        },
+        "time": {
+            "female_cn": [
+                4.3,
+                0,
+                0,
+                0
+            ],
+            "female_jp": [
+                7.631,
+                0,
+                0,
+                0
+            ]
+        }
+    },
+    "vo_114_combat_shopRoom_001": {
+        "anim": {},
+        "text": {
+            "female_jp": [
+                "Tyrant! Buy me that drink! Think of it as giving the great Chaton a power-up... Please?",
+                "",
+                "",
+                ""
+            ]
+        },
+        "time": {
+            "female_cn": [
+                8.177,
+                0,
+                0,
+                0
+            ],
+            "female_jp": [
+                6.853,
+                0,
+                0,
+                0
+            ]
+        }
+    },
+    "vo_114_combat_subPerk_001": {
+        "anim": {},
+        "text": {
+            "female_jp": [
+                "The great Chaton has your back—deal the finishing blow! ♪",
+                "",
+                "",
+                ""
+            ]
+        },
+        "time": {
+            "female_cn": [
+                2.834,
+                0,
+                0,
+                0
+            ],
+            "female_jp": [
+                3.755,
+                0,
+                0,
+                0
+            ]
+        }
+    },
+    "vo_114_combat_subPerk_002": {
+        "anim": {},
+        "text": {
+            "female_jp": [
+                "Got to play support sometimes to rack up those endorsements!",
+                "",
+                "",
+                ""
+            ]
+        },
+        "time": {
+            "female_cn": [
+                2,
+                0,
+                0,
+                0
+            ],
+            "female_jp": [
+                3.811,
+                0,
+                0,
+                0
+            ]
+        }
+    },
+    "vo_114_combat_ultskill_001": {
+        "anim": {},
+        "text": {
+            "female_jp": [
+                "Eye of the Demon—limit unleashed. There's no escape for you!",
+                "",
+                "",
+                ""
+            ]
+        },
+        "time": {
+            "female_cn": [
+                3,
+                0,
+                0,
+                0
+            ],
+            "female_jp": [
+                3.777,
+                0,
+                0,
+                0
+            ]
+        }
+    },
+    "vo_114_combat_ultskill_002": {
+        "anim": {},
+        "text": {
+            "female_jp": [
+                "Laser Destroyer, fire! Obliterate everything!",
+                "",
+                "",
+                ""
+            ]
+        },
+        "time": {
+            "female_cn": [
+                3.75,
+                0,
+                0,
+                0
+            ],
+            "female_jp": [
+                4,
+                0,
+                0,
+                0
+            ]
+        }
+    },
+    "vo_114_ui_affchat1_001": {
+        "anim": {
+            "female_cn": [
+                "chat_b",
+                "presents_b",
+                "",
+                ""
+            ],
+            "female_jp": [
+                "chat_b",
+                "",
+                "presents_b",
+                ""
+            ]
+        },
+        "text": {
+            "female_cn": [
+                "Candy hunter of the ancient Bastet-worshipping Nyan Brigade, protector of noble electrowaves, wielder of the ominous Evil Eye, fiercesome sniper rusher and Rhythm Queen par excellence—",
+                "That's me! Clearly the closest rival to the Tyrant!",
+                "",
+                ""
+            ],
+            "female_jp": [
+                "Candy hunter of the ancient bastet-worshipping Nyan Brigade...",
+                "... protector of noble electrowaves, wielder of the ominous Evil Eye, fiercesome sniper rusher...",
+                "... and Rhythm Queen par excellence—that's me!",
+                "Clearly the closest rival to the Tyrant!"
+            ]
+        },
+        "time": {
+            "female_cn": [
+                10.3,
+                17.393,
+                0,
+                0
+            ],
+            "female_jp": [
+                4.68,
+                11.35,
+                16.3,
+                19.206
+            ]
+        }
+    },
+    "vo_114_ui_affchat2_001": {
+        "anim": {
+            "female_cn": [
+                "presents_a",
+                "",
+                "",
+                ""
+            ],
+            "female_jp": [
+                "chat_b",
+                "",
+                "",
+                ""
+            ]
+        },
+        "text": {
+            "female_cn": [
+                "Whatever you need, just say the word! Games, adventures—the great Chaton will ace them all for you!",
+                "",
+                "",
+                ""
+            ],
+            "female_jp": [
+                "Whatever you need, just say the word!",
+                "Games, adventures—the great Chaton will ace them all for you!",
+                "",
+                ""
+            ]
+        },
+        "time": {
+            "female_cn": [
+                3.883,
+                0,
+                0,
+                0
+            ],
+            "female_jp": [
+                2.94,
+                7.419,
+                0,
+                0
+            ]
+        }
+    },
+    "vo_114_ui_affchat3_001": {
+        "anim": {
+            "female_cn": [
+                "chat_b",
+                "",
+                "",
+                ""
+            ],
+            "female_jp": [
+                "chat_b",
+                "",
+                "",
+                ""
+            ]
+        },
+        "text": {
+            "female_cn": [
+                "The thing on the desk? That's a rhythm game chart guide I carefully selected ♪ Try it when you're free sometime. I look forward to your report of the results!",
+                "",
+                "",
+                ""
+            ],
+            "female_jp": [
+                "The thing on the desk? That's a rhythm game chart guide I carefully selected ♪",
+                "Try it when you're free sometime. I look forward to your report of the results!",
+                "",
+                ""
+            ]
+        },
+        "time": {
+            "female_cn": [
+                10.801,
+                0,
+                0,
+                0
+            ],
+            "female_jp": [
+                6.71,
+                11.565,
+                0,
+                0
+            ]
+        }
+    },
+    "vo_114_ui_affchat4_001": {
+        "anim": {
+            "female_cn": [
+                "presents_a",
+                "shy_a",
+                "",
+                ""
+            ],
+            "female_jp": [
+                "presents_a",
+                "",
+                "",
+                ""
+            ]
+        },
+        "text": {
+            "female_jp": [
+                "You know a lot about old legends, right? Tell me, tell me!",
+                "Think of it as giving hints for the great Chaton's awakening!",
+                "",
+                ""
+            ]
+        },
+        "time": {
+            "female_cn": [
+                5.65,
+                11.045,
+                0,
+                0
+            ],
+            "female_jp": [
+                4.48,
+                7.559,
+                0,
+                0
+            ]
+        }
+    },
+    "vo_114_ui_affchat5_001": {
+        "anim": {
+            "female_cn": [
+                "presents_a",
+                "",
+                "",
+                ""
+            ],
+            "female_jp": [
+                "presents_a",
+                "",
+                "",
+                ""
+            ]
+        },
+        "text": {
+            "female_cn": [
+                "If I'm with you, I can surpass any record! So make a pact with me and let's aim for the top together!",
+                "",
+                "",
+                ""
+            ],
+            "female_jp": [
+                "If I'm with you, I can surpass any record!",
+                "So make a pact with me and let's aim for the top together!",
+                "",
+                ""
+            ]
+        },
+        "time": {
+            "female_cn": [
+                8.732,
+                0,
+                0,
+                0
+            ],
+            "female_jp": [
+                4.55,
+                9.809,
+                0,
+                0
+            ]
+        }
+    },
+    "vo_114_ui_afflv1_001": {
+        "anim": {},
+        "text": {
+            "female_cn": [
+                "You are Tyrant, but you can't remember your own past?",
+                "Hehe ♪ In that case, the great Chaton will break those shackles for you! And then, once you've regained your full power, I'll defeat you and earn EXP! How about that?",
+                "",
+                ""
+            ],
+            "female_jp": [
+                "You are Tyrant, but you can't remember your own past?",
+                "Hehe ♪ In that case, the great Chaton will break those shackles for you!",
+                "And then, once you've regained your full power, I'll defeat you and earn EXP! How about that?",
+                ""
+            ]
+        },
+        "time": {
+            "female_cn": [
+                9.7,
+                16.1,
+                0,
+                0
+            ],
+            "female_jp": [
+                4.97,
+                10.62,
+                17.974,
+                0
+            ]
+        }
+    },
+    "vo_114_ui_afflv2_001": {
+        "anim": {},
+        "text": {
+            "female_cn": [
+                "I found the perfect music for you when making your entrance!",
+                "Can you imagine? Emerging from clouds with lightning coursing through them, eyes glowing an ominous red... \"The Ruler of the World!\" is what it feels like, isn't that super cool?",
+                "",
+                ""
+            ],
+            "female_jp": [
+                "I found the perfect music for you when making your entrance!",
+                "Can you imagine? Emerging from clouds with lightning coursing through them, eyes glowing an ominous red...",
+                "\"The Ruler of the World!\" is what it feels like, isn't that super cool?",
+                ""
+            ]
+        },
+        "time": {
+            "female_cn": [
+                5.4,
+                15.817,
+                0,
+                0
+            ],
+            "female_jp": [
+                3.75,
+                11.85,
+                16.854,
+                0
+            ]
+        }
+    },
+    "vo_114_ui_afflv3_001": {
+        "anim": {},
+        "text": {
+            "female_cn": [
+                "This sense of intimidation...! That's it! The Tyrant finally descends in full glory—",
+                "Huh? You won't descend? You haven't remembered anything? In that case... We have to use our last resort. Are you ready?",
+                "",
+                ""
+            ],
+            "female_jp": [
+                "This sense of intimidation...! That's it! The Tyrant finally descends in full glory—",
+                "Huh? You won't descend? You haven't remembered anything?",
+                "In that case... We have to use our last resort. Are you ready?",
+                ""
+            ]
+        },
+        "time": {
+            "female_cn": [
+                10.5,
+                25.444,
+                0,
+                0
+            ],
+            "female_jp": [
+                7.43,
+                14.7,
+                20.838,
+                0
+            ]
+        }
+    },
+    "vo_114_ui_afflv4_001": {
+        "anim": {},
+        "text": {
+            "female_cn": [
+                "Until you get your true power back, I will never give up!",
+                "As long as the dark power does not leave this world, there are many ways for you to make a comeback! The final battle between you and the great Chaton has been destined from time immemorial!",
+                "",
+                ""
+            ],
+            "female_jp": [
+                "Until you get your true power back, I will never give up!",
+                "As long as the dark power does not leave this world, there are many ways for you to make a comeback!",
+                "The final battle between you and the great Chaton has been destined from time immemorial!",
+                ""
+            ]
+        },
+        "time": {
+            "female_cn": [
+                3.5,
+                13.503,
+                0,
+                0
+            ],
+            "female_jp": [
+                5.46,
+                12.41,
+                18.068,
+                0
+            ]
+        }
+    },
+    "vo_114_ui_birth_001": {
+        "anim": {
+            "female_cn": [
+                "presents_b",
+                "",
+                "",
+                ""
+            ],
+            "female_jp": [
+                "presents_b",
+                "",
+                "",
+                ""
+            ]
+        },
+        "text": {
+            "female_cn": [
+                "Today is the day the great Chaton came down to this world ♪ To be able to attend the festivities as a guest instead of an offering, you're super lucky.",
+                "",
+                "",
+                ""
+            ],
+            "female_jp": [
+                "Today is the day the great Chaton came down to this world ♪",
+                "To be able to attend the festivities as a guest instead of an offering, you're super lucky.",
+                "",
+                ""
+            ]
+        },
+        "time": {
+            "female_cn": [
+                11.695,
+                0,
+                0,
+                0
+            ],
+            "female_jp": [
+                3.51,
+                10.782,
+                0,
+                0
+            ]
+        }
+    },
+    "vo_114_ui_charup_001": {
+        "anim": {},
+        "text": {
+            "female_jp": [
+                "One step closer to victory!",
+                "",
+                "",
+                ""
+            ]
+        },
+        "time": {
+            "female_cn": [
+                2.881,
+                0,
+                0,
+                0
+            ],
+            "female_jp": [
+                2.433,
+                0,
+                0,
+                0
+            ]
+        }
+    },
+    "vo_114_ui_discuss_001": {
+        "anim": {
+            "female_cn": [
+                "chat_b",
+                "",
+                "",
+                ""
+            ],
+            "female_jp": [
+                "presents_b",
+                "",
+                "",
+                ""
+            ]
+        },
+        "text": {
+            "female_cn": [
+                "Nobody touch Kasimira! I'm the only one allowed to beat her!",
+                "",
+                "",
+                ""
+            ],
+            "female_jp": [
+                "Nobody touch Kasimira!",
+                "I'm the only one allowed to beat her!",
+                "",
+                ""
+            ]
+        },
+        "time": {
+            "female_cn": [
+                5.275,
+                0,
+                0,
+                0
+            ],
+            "female_jp": [
+                2.86,
+                7.155,
+                0,
+                0
+            ]
+        }
+    },
+    "vo_114_ui_discuss_002": {
+        "anim": {
+            "female_cn": [
+                "presents_b",
+                "chat_a",
+                "chat_b",
+                "special_a"
+            ],
+            "female_jp": [
+                "presents_b",
+                "chat_a",
+                "chat_b",
+                "special_a"
+            ]
+        },
+        "text": {
+            "female_jp": [
+                "How do I break the ice with Amber? \"Amber! Let's continue that duel!\"",
+                "\"Teach me how to make shrimp-flavored fried bugs!\"",
+                "\"Can I borrow your cat for a while?\"",
+                "...What? No to all those?"
+            ]
+        },
+        "time": {
+            "female_cn": [
+                8.1,
+                12.4,
+                16.4,
+                20.586
+            ],
+            "female_jp": [
+                7.43,
+                12.13,
+                16.99,
+                19.461
+            ]
+        }
+    },
+    "vo_114_ui_discuss_003": {
+        "anim": {
+            "female_cn": [
+                "presents_a",
+                "think_a",
+                "",
+                ""
+            ],
+            "female_jp": [
+                "presents_a",
+                "",
+                "think_a",
+                ""
+            ]
+        },
+        "text": {
+            "female_cn": [
+                "Just having Nanoha's sweets makes the tea party luxurious ♪ They're so delicious, I can eat them forev... Gah?!",
+                "It's stuck in my throat... I can't breathe... Wa... Water... Gulp, gulp... Ahh! Whew, I'm back to life...",
+                "",
+                ""
+            ],
+            "female_jp": [
+                "Just having Nanoha's sweets makes the tea party luxurious ♪",
+                "They're so delicious, I can eat them forev... Gah?!",
+                "It's stuck in my throat... I can't breathe... Wa... Water... Gulp, gulp... Ahh! Whew, I'm back to life...",
+                ""
+            ]
+        },
+        "time": {
+            "female_cn": [
+                6.5,
+                16.134,
+                0,
+                0
+            ],
+            "female_jp": [
+                4.45,
+                9.23,
+                21.148,
+                0
+            ]
+        }
+    },
+    "vo_114_ui_discuss_004": {
+        "anim": {
+            "female_cn": [
+                "presents_a",
+                "",
+                "",
+                ""
+            ],
+            "female_jp": [
+                "presents_a",
+                "",
+                "chat_b",
+                ""
+            ]
+        },
+        "text": {
+            "female_cn": [
+                "I know a lot about Minova. The Ashwind Clan is like my second home. Plus, there are so many fun people! Everyone rocks at skateboarding too...",
+                "",
+                "",
+                ""
+            ],
+            "female_jp": [
+                "I know a lot about Minova.",
+                "The Ashwind Clan is like my second home.",
+                "Plus, there are so many fun people! Everyone rocks at skateboarding too...",
+                ""
+            ]
+        },
+        "time": {
+            "female_cn": [
+                7.04,
+                0,
+                0,
+                0
+            ],
+            "female_jp": [
+                2.54,
+                7.23,
+                12.186,
+                0
+            ]
+        }
+    },
+    "vo_114_ui_discuss_005": {
+        "anim": {
+            "female_cn": [
+                "chat_b",
+                "",
+                "",
+                ""
+            ],
+            "female_jp": [
+                "think_a",
+                "",
+                "",
+                ""
+            ]
+        },
+        "text": {
+            "female_cn": [
+                "Don't mess with the people from the Grace Imperium. They put up a friendly front, but who knows what they're really up to?",
+                "",
+                "",
+                ""
+            ],
+            "female_jp": [
+                "Don't mess with the people from the Grace Imperium.",
+                "They put up a friendly front, but who knows what they're really up to?",
+                "",
+                ""
+            ]
+        },
+        "time": {
+            "female_cn": [
+                6.061,
+                0,
+                0,
+                0
+            ],
+            "female_jp": [
+                3.48,
+                7.674,
+                0,
+                0
+            ]
+        }
+    },
+    "vo_114_ui_excharup_001": {
+        "anim": {},
+        "text": {
+            "female_jp": [
+                "Nyahaha! ♪ The great Chaton is unbeatable!",
+                "",
+                "",
+                ""
+            ]
+        },
+        "time": {
+            "female_cn": [
+                3.436,
+                0,
+                0,
+                0
+            ],
+            "female_jp": [
+                3.173,
+                0,
+                0,
+                0
+            ]
+        }
+    },
+    "vo_114_ui_exhang_001": {
+        "anim": {
+            "female_cn": [
+                "presents_b",
+                "",
+                "",
+                ""
+            ],
+            "female_jp": [
+                "think_a",
+                "shy_a",
+                "chat_b",
+                ""
+            ]
+        },
+        "text": {
+            "female_cn": [
+                "Tyrant? Oh no, are you breathing!? T-y-r-a-n-t!! You can't die yet! What would I do if you—just kidding... Hey, wake up already!",
+                "",
+                "",
+                ""
+            ],
+            "female_jp": [
+                "Tyrant? Oh no, are you breathing!? ",
+                "T-y-r-a-n-t! You can't die yet! What would I do if you—",
+                "Just kidding... Hey, wake up already!",
+                ""
+            ]
+        },
+        "time": {
+            "female_cn": [
+                15.846,
+                0,
+                0,
+                0
+            ],
+            "female_jp": [
+                8.43,
+                14.37,
+                18.83,
+                0
+            ]
+        }
+    },
+    "vo_114_ui_fullscreen_001": {
+        "anim": {
+            "female_cn": [
+                "special_a",
+                "",
+                "",
+                ""
+            ],
+            "female_jp": [
+                "special_a",
+                "",
+                "",
+                ""
+            ]
+        },
+        "text": {
+            "female_jp": [
+                "I never thought I'd get to game with you!",
+                "",
+                "",
+                ""
+            ]
+        },
+        "time": {
+            "female_cn": [
+                2.846,
+                0,
+                0,
+                0
+            ],
+            "female_jp": [
+                4.35,
+                0,
+                0,
+                0
+            ]
+        }
+    },
+    "vo_114_ui_fullscreen_002": {
+        "anim": {
+            "female_cn": [
+                "special_b",
+                "",
+                "",
+                ""
+            ],
+            "female_jp": [
+                "special_b",
+                "",
+                "",
+                ""
+            ]
+        },
+        "text": {
+            "female_jp": [
+                "Tyrant, lend me your strength! With your dark power, the great Chaton is invincible!",
+                "",
+                "",
+                ""
+            ]
+        },
+        "time": {
+            "female_cn": [
+                6.773,
+                0,
+                0,
+                0
+            ],
+            "female_jp": [
+                6.527,
+                0,
+                0,
+                0
+            ]
+        }
+    },
+    "vo_114_ui_gachaNew_001": {
+        "anim": {},
+        "text": {
+            "female_jp": [
+                "Hmm, you're the legendary Tyrant? If you really possess dark power, I can become your follower.",
+                "But if you show weakness, I'll turn you into EXP for the great Chaton's awakening. Don't let your guard down ♪",
+                "",
+                ""
+            ]
+        },
+        "time": {
+            "female_cn": [
+                9.9,
+                19.263,
+                0,
+                0
+            ],
+            "female_jp": [
+                9.83,
+                16.547,
+                0,
+                0
+            ]
+        }
+    },
+    "vo_114_ui_gacha_001": {
+        "anim": {},
+        "text": {
+            "female_jp": [
+                "I feel like my bond with you has deepened! Huh? Your thanks isn't necessary.",
+                "After all, this is the result of your dark power and my dark power resonating!",
+                "",
+                ""
+            ]
+        },
+        "time": {
+            "female_cn": [
+                12.14,
+                0,
+                0,
+                0
+            ],
+            "female_jp": [
+                7.88,
+                14.842,
+                0,
+                0
+            ]
+        }
+    },
+    "vo_114_ui_greet_001": {
+        "anim": {
+            "female_cn": [
+                "chat_a",
+                "think_a",
+                "",
+                ""
+            ],
+            "female_jp": [
+                "chat_a",
+                "",
+                "",
+                ""
+            ]
+        },
+        "text": {
+            "female_jp": [
+                "Wah! Did I scare you? Tsk... You could at least act surprised.",
+                "",
+                "",
+                ""
+            ]
+        },
+        "time": {
+            "female_cn": [
+                3.2,
+                6.165,
+                0,
+                0
+            ],
+            "female_jp": [
+                5.478,
+                0,
+                0,
+                0
+            ]
+        }
+    },
+    "vo_114_ui_greet_002": {
+        "anim": {
+            "female_cn": [
+                "presents_a",
+                "",
+                "",
+                ""
+            ],
+            "female_jp": [
+                "chat_b",
+                "",
+                "",
+                ""
+            ]
+        },
+        "text": {
+            "female_jp": [
+                "Rejoice! The Great Chaton, who has plenty of time on her hands, shall honor you as her opponent! ♪",
+                "",
+                "",
+                ""
+            ]
+        },
+        "time": {
+            "female_cn": [
+                4.627,
+                0,
+                0,
+                0
+            ],
+            "female_jp": [
+                5.827,
+                0,
+                0,
+                0
+            ]
+        }
+    },
+    "vo_114_ui_greetmorn_001": {
+        "anim": {
+            "female_cn": [
+                "presents_b",
+                "",
+                "",
+                ""
+            ],
+            "female_jp": [
+                "chat_b",
+                "",
+                "",
+                ""
+            ]
+        },
+        "text": {
+            "female_jp": [
+                "Good morning, Tyrant! Hey, hey, where should we go to play today?",
+                "",
+                "",
+                ""
+            ]
+        },
+        "time": {
+            "female_cn": [
+                4.147,
+                0,
+                0,
+                0
+            ],
+            "female_jp": [
+                3.919,
+                0,
+                0,
+                0
+            ]
+        }
+    },
+    "vo_114_ui_greetnight_001": {
+        "anim": {
+            "female_cn": [
+                "presents_a",
+                "",
+                "",
+                ""
+            ],
+            "female_jp": [
+                "presents_b",
+                "",
+                "",
+                ""
+            ]
+        },
+        "text": {
+            "female_jp": [
+                "Heh... The darkness of the night is truly befitting of the great Chaton!",
+                "",
+                "",
+                ""
+            ]
+        },
+        "time": {
+            "female_cn": [
+                4.448,
+                0,
+                0,
+                0
+            ],
+            "female_jp": [
+                5.044,
+                0,
+                0,
+                0
+            ]
+        }
+    },
+    "vo_114_ui_greetnoon_001": {
+        "anim": {
+            "female_cn": [
+                "think_a",
+                "",
+                "",
+                ""
+            ],
+            "female_jp": [
+                "think_a",
+                "",
+                "",
+                ""
+            ]
+        },
+        "text": {
+            "female_jp": [
+                "... Huh? Was I sleeping? Wait, it's already noon?!",
+                "",
+                "",
+                ""
+            ]
+        },
+        "time": {
+            "female_cn": [
+                7.171,
+                0,
+                0,
+                0
+            ],
+            "female_jp": [
+                5.352,
+                0,
+                0,
+                0
+            ]
+        }
+    },
+    "vo_114_ui_hang_001": {
+        "anim": {
+            "female_cn": [
+                "think_a",
+                "",
+                "",
+                ""
+            ],
+            "female_jp": [
+                "think_a",
+                "",
+                "",
+                ""
+            ]
+        },
+        "text": {
+            "female_jp": [
+                "Aaaaargh! Don't ignore meeeeeee!",
+                "",
+                "",
+                ""
+            ]
+        },
+        "time": {
+            "female_cn": [
+                1.724,
+                0,
+                0,
+                0
+            ],
+            "female_jp": [
+                5.683,
+                0,
+                0,
+                0
+            ]
+        }
+    },
+    "vo_114_ui_hang_002": {
+        "anim": {
+            "female_cn": [
+                "shy_a",
+                "",
+                "",
+                ""
+            ],
+            "female_jp": [
+                "",
+                "chat_a",
+                "",
+                ""
+            ]
+        },
+        "text": {
+            "female_cn": [
+                "Hey, Tyrant... Oh, you fell asleep? Seriously, you seem not the least bit on guard... Well, I guess there's no helping it. The great Chaton will protect you, so rest easy.",
+                "",
+                "",
+                ""
+            ],
+            "female_jp": [
+                "Hey, Tyrant... Oh, you fell asleep? Seriously, you seem not the least bit on guard...",
+                "Well, I guess there's no helping it. The great Chaton will protect you, so rest easy.",
+                "",
+                ""
+            ]
+        },
+        "time": {
+            "female_cn": [
+                11.513,
+                0,
+                0,
+                0
+            ],
+            "female_jp": [
+                10.5,
+                15.961,
+                0,
+                0
+            ]
+        }
+    },
+    "vo_114_ui_hfc_001": {
+        "anim": {
+            "female_cn": [
+                "presents_a",
+                "",
+                "",
+                ""
+            ],
+            "female_jp": [
+                "presents_a",
+                "",
+                "chat_a",
+                ""
+            ]
+        },
+        "text": {
+            "female_cn": [
+                "What is it, what is it? Rhythm practice? Hehe, you won't beat the great Chaton with that kind of speed! Look, get faster! Hey! Hey, ho, hey, ho, hey!",
+                "",
+                "",
+                ""
+            ],
+            "female_jp": [
+                "What is it, what is it? Rhythm practice?",
+                "Hehe, you won't beat the great Chaton with that kind of speed!",
+                "Look, get faster! Hey! Hey, ho, hey, ho, hey!",
+                ""
+            ]
+        },
+        "time": {
+            "female_cn": [
+                6.959,
+                0,
+                0,
+                0
+            ],
+            "female_jp": [
+                3.72,
+                8,
+                12.99,
+                0
+            ]
+        }
+    },
+    "vo_114_ui_hfc_002": {
+        "anim": {
+            "female_cn": [
+                "think_a",
+                "",
+                "",
+                ""
+            ],
+            "female_jp": [
+                "shy_a",
+                "think_a",
+                "",
+                ""
+            ]
+        },
+        "text": {
+            "female_cn": [
+                "The great Chaton has lost, you say...!? No, no, no. That was just practice right now! The next one is the real thing... One more time!",
+                "",
+                "",
+                ""
+            ],
+            "female_jp": [
+                "The great Chaton has lost, you say...!?",
+                "No, no, no. That was just practice right now! The next one is the real thing... One more time!",
+                "",
+                ""
+            ]
+        },
+        "time": {
+            "female_cn": [
+                6.435,
+                0,
+                0,
+                0
+            ],
+            "female_jp": [
+                5.37,
+                11.722,
+                0,
+                0
+            ]
+        }
+    },
+    "vo_114_ui_logo_001": {
+        "anim": {},
+        "text": {
+            "female_jp": [
+                "Yostar",
+                "",
+                "",
+                ""
+            ]
+        },
+        "time": {
+            "female_cn": [
+                2,
+                0,
+                0,
+                0
+            ],
+            "female_jp": [
+                1.176,
+                0,
+                0,
+                0
+            ]
+        }
+    },
+    "vo_114_ui_lose_001": {
+        "anim": {},
+        "text": {
+            "female_jp": [
+                "Ugh... The cost of using too much power...",
+                "",
+                "",
+                ""
+            ]
+        },
+        "time": {
+            "female_cn": [
+                5.296,
+                0,
+                0,
+                0
+            ],
+            "female_jp": [
+                3.28,
+                0,
+                0,
+                0
+            ]
+        }
+    },
+    "vo_114_ui_lose_002": {
+        "anim": {},
+        "text": {
+            "female_jp": [
+                "The great Chaton has not lost!",
+                "",
+                "",
+                ""
+            ]
+        },
+        "time": {
+            "female_cn": [
+                4.396,
+                0,
+                0,
+                0
+            ],
+            "female_jp": [
+                3.157,
+                0,
+                0,
+                0
+            ]
+        }
+    },
+    "vo_114_ui_music_001": {
+        "anim": {},
+        "text": {
+            "female_jp": [
+                "Ooh, such a good song! I could listen to it on repeat!",
+                "",
+                "",
+                ""
+            ]
+        },
+        "time": {
+            "female_cn": [
+                2.727,
+                0,
+                0,
+                0
+            ],
+            "female_jp": [
+                4.905,
+                0,
+                0,
+                0
+            ]
+        }
+    },
+    "vo_114_ui_newyear_001": {
+        "anim": {
+            "female_cn": [
+                "presents_b",
+                "presents_a",
+                "",
+                ""
+            ],
+            "female_jp": [
+                "chat_b",
+                "presents_b",
+                "",
+                ""
+            ]
+        },
+        "text": {
+            "female_jp": [
+                "Tyrant, Happy New Year! Have you decided on your plan for this year? My plan is...",
+                "To completely restore your power and use that dark power to rule the world! Nyahaha!",
+                "",
+                ""
+            ]
+        },
+        "time": {
+            "female_cn": [
+                5.45,
+                14.051,
+                0,
+                0
+            ],
+            "female_jp": [
+                6.78,
+                14.936,
+                0,
+                0
+            ]
+        }
+    },
+    "vo_114_ui_posterchat_001": {
+        "anim": {
+            "female_cn": [
+                "think_a",
+                "shy_a",
+                "",
+                ""
+            ],
+            "female_jp": [
+                "think_a",
+                "chat_b",
+                "",
+                ""
+            ]
+        },
+        "text": {
+            "female_jp": [
+                "I'm tired already today...! My dark power is totally empty...",
+                "Hey, Tyrant, I wanna restore my energy, so give me some sweeet candy?",
+                "",
+                ""
+            ]
+        },
+        "time": {
+            "female_cn": [
+                7.8,
+                13.935,
+                0,
+                0
+            ],
+            "female_jp": [
+                6.18,
+                12.188,
+                0,
+                0
+            ]
+        }
+    },
+    "vo_114_ui_posterchat_002": {
+        "anim": {
+            "female_cn": [
+                "presents_a",
+                "",
+                "",
+                ""
+            ],
+            "female_jp": [
+                "presents_a",
+                "",
+                "",
+                ""
+            ]
+        },
+        "text": {
+            "female_jp": [
+                "I see... To become a true Tyrant, you need your own theme song!",
+                "",
+                "",
+                ""
+            ]
+        },
+        "time": {
+            "female_cn": [
+                8.853,
+                0,
+                0,
+                0
+            ],
+            "female_jp": [
+                6.443,
+                0,
+                0,
+                0
+            ]
+        }
+    },
+    "vo_114_ui_posterchat_003": {
+        "anim": {
+            "female_cn": [
+                "chat_b",
+                "",
+                "",
+                ""
+            ],
+            "female_jp": [
+                "think_a",
+                "",
+                "",
+                ""
+            ]
+        },
+        "text": {
+            "female_cn": [
+                "You think I'm just slacking off and playing games every day?==RT== Wrong, wrong, wrong! The great Chaton's just so efficient that she gets her work done in no time at all!",
+                "",
+                "",
+                ""
+            ],
+            "female_jp": [
+                "You think I'm just slacking off and playing games every day?",
+                "Wrong, wrong, wrong! The great Chaton's just so efficient that she gets her work done in no time at all!",
+                "",
+                ""
+            ]
+        },
+        "time": {
+            "female_cn": [
+                5.687,
+                0,
+                0,
+                0
+            ],
+            "female_jp": [
+                3.8,
+                9.904,
+                0,
+                0
+            ]
+        }
+    },
+    "vo_114_ui_posterchat_004": {
+        "anim": {
+            "female_cn": [
+                "think_a",
+                "shy_a",
+                "",
+                ""
+            ],
+            "female_jp": [
+                "presents_b",
+                "",
+                "presents_a",
+                ""
+            ]
+        },
+        "text": {
+            "female_cn": [
+                "Vegetables grow in sunlight, so they are foods of light. Which means they don't suit the great Chaton, who seeks dark power.",
+                "That's why I want to eat skewers grilled over pure black charcoal!",
+                "",
+                ""
+            ],
+            "female_jp": [
+                "Vegetables grow in sunlight, so they are foods of light.",
+                "Which means they don't suit the great Chaton, who seeks dark power.",
+                "That's why I want to eat skewers grilled over pure black charcoal!",
+                ""
+            ]
+        },
+        "time": {
+            "female_cn": [
+                7.5,
+                12.745,
+                0,
+                0
+            ],
+            "female_jp": [
+                3.96,
+                8.25,
+                12.855,
+                0
+            ]
+        }
+    },
+    "vo_114_ui_posterchat_005": {
+        "anim": {
+            "female_cn": [
+                "presents_a",
+                "",
+                "",
+                ""
+            ],
+            "female_jp": [
+                "presents_a",
+                "",
+                "",
+                ""
+            ]
+        },
+        "text": {
+            "female_cn": [
+                "Snipers can shine on the front lines, too!==RT==An assault sniper... Doesn't that sound awesome? ♪",
+                "",
+                "",
+                ""
+            ],
+            "female_jp": [
+                "Snipers can shine on the front lines, too!",
+                "An assault sniper... Doesn't that sound awesome? ♪",
+                "",
+                ""
+            ]
+        },
+        "time": {
+            "female_cn": [
+                6.227,
+                0,
+                0,
+                0
+            ],
+            "female_jp": [
+                4.07,
+                8.337,
+                0,
+                0
+            ]
+        }
+    },
+    "vo_114_ui_posterchat_006": {
+        "anim": {
+            "female_cn": [
+                "chat_a",
+                "think_a",
+                "",
+                ""
+            ],
+            "female_jp": [
+                "presents_b",
+                "shy_a",
+                "",
+                ""
+            ]
+        },
+        "text": {
+            "female_jp": [
+                "By this melody's blessing, I command you! O rifle, imbued with dark power... Unleash your true power!",
+                "Wait, hey!? Don't take my headphones!",
+                "",
+                ""
+            ]
+        },
+        "time": {
+            "female_cn": [
+                9.5,
+                11.745,
+                0,
+                0
+            ],
+            "female_jp": [
+                9.73,
+                13.411,
+                0,
+                0
+            ]
+        }
+    },
+    "vo_114_ui_standee_001": {
+        "anim": {
+            "female_cn": [
+                "special_a",
+                "",
+                "",
+                ""
+            ],
+            "female_jp": [
+                "special_a",
+                "",
+                "",
+                ""
+            ]
+        },
+        "text": {
+            "female_jp": [
+                "Heh heh! The great Chaton is at one with the dark power today too!",
+                "",
+                "",
+                ""
+            ]
+        },
+        "time": {
+            "female_cn": [
+                3.78,
+                0,
+                0,
+                0
+            ],
+            "female_jp": [
+                5.83,
+                0,
+                0,
+                0
+            ]
+        }
+    },
+    "vo_114_ui_standee_002": {
+        "anim": {
+            "female_cn": [
+                "special_b",
+                "",
+                "",
+                ""
+            ],
+            "female_jp": [
+                "special_b",
+                "",
+                "",
+                ""
+            ]
+        },
+        "text": {
+            "female_cn": [
+                "Music is the vital component that commands the dark power! As soon as a melody rings out, the great Chaton's power surges many times over!",
+                "",
+                "",
+                ""
+            ],
+            "female_jp": [
+                "Music is the vital component that commands the dark power!",
+                "As soon as a melody rings out, the great Chaton's power surges many times over!",
+                "",
+                ""
+            ]
+        },
+        "time": {
+            "female_cn": [
+                7.808,
+                0,
+                0,
+                0
+            ],
+            "female_jp": [
+                4.43,
+                9.835,
+                0,
+                0
+            ]
+        }
+    },
+    "vo_114_ui_swap_001": {
+        "anim": {},
+        "text": {
+            "female_jp": [
+                "Yep yep, should have left everything to me ♪",
+                "",
+                "",
+                ""
+            ]
+        },
+        "time": {
+            "female_cn": [
+                2,
+                0,
+                0,
+                0
+            ],
+            "female_jp": [
+                3.452,
+                0,
+                0,
+                0
+            ]
+        }
+    },
+    "vo_114_ui_swap_002": {
+        "anim": {},
+        "text": {
+            "female_jp": [
+                "The great Chaton is here! Now, let's hear some applause! ♪",
+                "",
+                "",
+                ""
+            ]
+        },
+        "time": {
+            "female_cn": [
+                2.379,
+                0,
+                0,
+                0
+            ],
+            "female_jp": [
+                4.191,
+                0,
+                0,
+                0
+            ]
+        }
+    },
+    "vo_114_ui_swap_003": {
+        "anim": {},
+        "text": {
+            "female_jp": [
+                "With me here, victory's guaranteed! ♪",
+                "",
+                "",
+                ""
+            ]
+        },
+        "time": {
+            "female_cn": [
+                2,
+                0,
+                0,
+                0
+            ],
+            "female_jp": [
+                2.579,
+                0,
+                0,
+                0
+            ]
+        }
+    },
+    "vo_114_ui_swap_004": {
+        "anim": {},
+        "text": {
+            "female_jp": [
+                "The darkness of the abyss is always with me!",
+                "",
+                "",
+                ""
+            ]
+        },
+        "time": {
+            "female_cn": [
+                2,
+                0,
+                0,
+                0
+            ],
+            "female_jp": [
+                4.827,
+                0,
+                0,
+                0
+            ]
+        }
+    },
+    "vo_114_ui_thankEx_001": {
+        "anim": {
+            "female_cn": [
+                "shy_a",
+                "",
+                "",
+                ""
+            ],
+            "female_jp": [
+                "shy_a",
+                "",
+                "",
+                ""
+            ]
+        },
+        "text": {
+            "female_jp": [
+                "The great Chaton's affection has broken through the limit! As expected of the Tyrant! You understand me better than anyone else in the world!",
+                "",
+                "",
+                ""
+            ]
+        },
+        "time": {
+            "female_cn": [
+                4.889,
+                0,
+                0,
+                0
+            ],
+            "female_jp": [
+                7.891,
+                0,
+                0,
+                0
+            ]
+        }
+    },
+    "vo_114_ui_thankSmall_001": {
+        "anim": {
+            "female_cn": [
+                "chat_a",
+                "",
+                "",
+                ""
+            ],
+            "female_jp": [
+                "chat_a",
+                "",
+                "",
+                ""
+            ]
+        },
+        "text": {
+            "female_jp": [
+                "Mhm-mm, looking good! 99 points!",
+                "",
+                "",
+                ""
+            ]
+        },
+        "time": {
+            "female_cn": [
+                3.507,
+                0,
+                0,
+                0
+            ],
+            "female_jp": [
+                3.055,
+                0,
+                0,
+                0
+            ]
+        }
+    },
+    "vo_114_ui_thank_001": {
+        "anim": {
+            "female_cn": [
+                "presents_a",
+                "",
+                "",
+                ""
+            ],
+            "female_jp": [
+                "presents_a",
+                "",
+                "",
+                ""
+            ]
+        },
+        "text": {
+            "female_jp": [
+                "Perfect score! A super high rating from the great Chaton ♪",
+                "",
+                "",
+                ""
+            ]
+        },
+        "time": {
+            "female_cn": [
+                2.434,
+                0,
+                0,
+                0
+            ],
+            "female_jp": [
+                4.954,
+                0,
+                0,
+                0
+            ]
+        }
+    },
+    "vo_114_ui_uniMusic_001": {
+        "anim": {},
+        "text": {
+            "female_cn": [
+                "The past isn't as important as the 'now' and 'future'! So Tyrant, let's make some fun memories together!",
+                "",
+                "",
+                ""
+            ],
+            "female_jp": [
+                "The past isn't as important as the 'now' and 'future'!",
+                "So Tyrant, let's make some fun memories together!",
+                "",
+                ""
+            ]
+        },
+        "time": {
+            "female_cn": [
+                8.573,
+                0,
+                0,
+                0
+            ],
+            "female_jp": [
+                4.31,
+                8.068,
+                0,
+                0
+            ]
+        }
+    },
+    "vo_114_ui_unlockCG_001": {
+        "anim": {},
+        "text": {
+            "female_cn": [
+                "All perfect! This is the great Chaton's true power after receiving Tyrant's blessing! Amazing, right? Come on Tyrant, praise me, praise me ♪",
+                "",
+                "",
+                ""
+            ],
+            "female_jp": [
+                "All perfect! This is the great Chaton's true power after receiving Tyrant's blessing!",
+                "Amazing, right? Come on Tyrant, praise me, praise me ♪",
+                "",
+                ""
+            ]
+        },
+        "time": {
+            "female_cn": [
+                6.492,
+                0,
+                0,
+                0
+            ],
+            "female_jp": [
+                5.85,
+                9.416,
+                0,
+                0
+            ]
+        }
+    },
+    "vo_114_ui_unlockLook_001": {
+        "anim": {},
+        "text": {
+            "female_jp": [
+                "Sealed power, be unleashed here! Nya~haha!",
+                "",
+                "",
+                ""
+            ]
+        },
+        "time": {
+            "female_cn": [
+                4.495,
+                0,
+                0,
+                0
+            ],
+            "female_jp": [
+                6.179,
+                0,
+                0,
+                0
+            ]
+        }
+    },
+    "vo_114_ui_valentine_001": {
+        "anim": {
+            "female_cn": [
+                "presents_b",
+                "think_a",
+                "",
+                ""
+            ],
+            "female_jp": [
+                "presents_b",
+                "shy_a",
+                "",
+                ""
+            ]
+        },
+        "text": {
+            "female_jp": [
+                "This is a dark crystal infused with my dark power! Here, here, try it!",
+                "Huh? It's not black enough to be called a dark crystal? Well, that's because... It was too bitter, so I added milk...",
+                "",
+                ""
+            ]
+        },
+        "time": {
+            "female_cn": [
+                15.2,
+                23.207,
+                0,
+                0
+            ],
+            "female_jp": [
+                7.54,
+                17.955,
+                0,
+                0
+            ]
+        }
+    },
+    "vo_114_ui_win_001": {
+        "anim": {},
+        "text": {
+            "female_jp": [
+                "Yay! High five! ♪",
+                "",
+                "",
+                ""
+            ]
+        },
+        "time": {
+            "female_cn": [
+                2,
+                0,
+                0,
+                0
+            ],
+            "female_jp": [
+                2.817,
+                0,
+                0,
+                0
+            ]
+        }
+    },
+    "vo_114_ui_win_002": {
+        "anim": {},
+        "text": {
+            "female_jp": [
+                "What, we're done already? I wanted to hang out more...",
+                "",
+                "",
+                ""
+            ]
+        },
+        "time": {
+            "female_cn": [
+                3.655,
+                0,
+                0,
+                0
+            ],
+            "female_jp": [
+                4.677,
+                0,
+                0,
+                0
+            ]
+        }
+    },
+    "vo_114_ui_xmas_001": {
+        "anim": {
+            "female_cn": [
+                "presents_b",
+                "chat_b",
+                "",
+                ""
+            ],
+            "female_jp": [
+                "presents_b",
+                "",
+                "chat_b",
+                ""
+            ]
+        },
+        "text": {
+            "female_cn": [
+                "I have the feeling that late tonight, your dark power will reach its peak!",
+                "Which means, as your follower, my power will increase and I may be able to awaken soon...!! All right, Tyrant! Let's meet on the snowfield tonight! And have a serious duel!",
+                "",
+                ""
+            ],
+            "female_jp": [
+                "I have the feeling that late tonight, your dark power will reach its peak!",
+                "Which means, as your follower, my power will increase and I may be able to awaken soon...!!",
+                "All right, Tyrant! Let's meet on the snowfield tonight! And have a serious duel!",
+                ""
+            ]
+        },
+        "time": {
+            "female_cn": [
+                6.1,
+                14.282,
+                0,
+                0
+            ],
+            "female_jp": [
+                6,
+                12.6,
+                18.184,
+                0
+            ]
+        }
+    },
+    "vo_114_ui_yourbirth_001": {
+        "anim": {
+            "female_cn": [
+                "shy_a",
+                "",
+                "",
+                ""
+            ],
+            "female_jp": [
+                "presents_b",
+                "presents_a",
+                "",
+                ""
+            ]
+        },
+        "text": {
+            "female_cn": [
+                "Your birthday celebration represents—the day a new order was born into the world! To celebrate that, I have prepared a special present. Make sure to accept it ♪",
+                "",
+                "",
+                ""
+            ],
+            "female_jp": [
+                "Your birthday celebration represents—the day a new order was born into the world!",
+                "To celebrate that, I have prepared a special present. Make sure to accept it ♪",
+                "",
+                ""
+            ]
+        },
+        "time": {
+            "female_cn": [
+                11.132,
+                0,
+                0,
+                0
+            ],
+            "female_jp": [
+                8.07,
+                13.831,
+                0,
+                0
             ]
         }
     },
@@ -98072,6 +100741,454 @@
             ],
             "female_jp": [
                 2,
+                0,
+                0,
+                0
+            ]
+        }
+    },
+    "vo_story_114_001_confirm": {
+        "anim": {
+            "female_cn": [
+                "chat_a",
+                "",
+                "",
+                ""
+            ],
+            "female_jp": [
+                "chat_a",
+                "",
+                "",
+                ""
+            ]
+        },
+        "text": {
+            "female_jp": [
+                "Um-hm.",
+                "",
+                "",
+                ""
+            ]
+        },
+        "time": {
+            "female_cn": [
+                2,
+                0,
+                0,
+                0
+            ],
+            "female_jp": [
+                1,
+                0,
+                0,
+                0
+            ]
+        }
+    },
+    "vo_story_114_002_deny": {
+        "anim": {
+            "female_cn": [
+                "think_a",
+                "",
+                "",
+                ""
+            ],
+            "female_jp": [
+                "think_a",
+                "",
+                "",
+                ""
+            ]
+        },
+        "text": {
+            "female_jp": [
+                "No!",
+                "",
+                "",
+                ""
+            ]
+        },
+        "time": {
+            "female_cn": [
+                2,
+                0,
+                0,
+                0
+            ],
+            "female_jp": [
+                1,
+                0,
+                0,
+                0
+            ]
+        }
+    },
+    "vo_story_114_003_question": {
+        "anim": {
+            "female_cn": [
+                "special_a",
+                "",
+                "",
+                ""
+            ],
+            "female_jp": [
+                "special_a",
+                "",
+                "",
+                ""
+            ]
+        },
+        "text": {
+            "female_jp": [
+                "Ehhh?",
+                "",
+                "",
+                ""
+            ]
+        },
+        "time": {
+            "female_cn": [
+                2,
+                0,
+                0,
+                0
+            ],
+            "female_jp": [
+                1,
+                0,
+                0,
+                0
+            ]
+        }
+    },
+    "vo_story_114_004_confuse": {
+        "anim": {
+            "female_cn": [
+                "think_a",
+                "",
+                "",
+                ""
+            ],
+            "female_jp": [
+                "special_a",
+                "",
+                "",
+                ""
+            ]
+        },
+        "text": {
+            "female_jp": [
+                "Umm...?",
+                "",
+                "",
+                ""
+            ]
+        },
+        "time": {
+            "female_cn": [
+                2,
+                0,
+                0,
+                0
+            ],
+            "female_jp": [
+                1.072,
+                0,
+                0,
+                0
+            ]
+        }
+    },
+    "vo_story_114_005_sad": {
+        "anim": {
+            "female_jp": [
+                "shy_a",
+                "",
+                "",
+                ""
+            ]
+        },
+        "text": {
+            "female_jp": [
+                "Ungh...",
+                "",
+                "",
+                ""
+            ]
+        },
+        "time": {
+            "female_cn": [
+                2,
+                0,
+                0,
+                0
+            ],
+            "female_jp": [
+                1.669,
+                0,
+                0,
+                0
+            ]
+        }
+    },
+    "vo_story_114_006_excit": {
+        "anim": {
+            "female_cn": [
+                "presents_a",
+                "",
+                "",
+                ""
+            ],
+            "female_jp": [
+                "presents_a",
+                "",
+                "",
+                ""
+            ]
+        },
+        "text": {
+            "female_jp": [
+                "Nice!",
+                "",
+                "",
+                ""
+            ]
+        },
+        "time": {
+            "female_cn": [
+                2,
+                0,
+                0,
+                0
+            ],
+            "female_jp": [
+                1,
+                0,
+                0,
+                0
+            ]
+        }
+    },
+    "vo_story_114_007_angry": {
+        "anim": {
+            "female_cn": [
+                "think_a",
+                "",
+                "",
+                ""
+            ],
+            "female_jp": [
+                "think_a",
+                "",
+                "",
+                ""
+            ]
+        },
+        "text": {
+            "female_jp": [
+                "You'll pay for this!",
+                "",
+                "",
+                ""
+            ]
+        },
+        "time": {
+            "female_cn": [
+                2,
+                0,
+                0,
+                0
+            ],
+            "female_jp": [
+                2.561,
+                0,
+                0,
+                0
+            ]
+        }
+    },
+    "vo_story_114_008_happy": {
+        "anim": {
+            "female_cn": [
+                "presents_a",
+                "",
+                "",
+                ""
+            ],
+            "female_jp": [
+                "presents_a",
+                "",
+                "",
+                ""
+            ]
+        },
+        "text": {
+            "female_jp": [
+                "Yes!",
+                "",
+                "",
+                ""
+            ]
+        },
+        "time": {
+            "female_cn": [
+                2,
+                0,
+                0,
+                0
+            ],
+            "female_jp": [
+                1,
+                0,
+                0,
+                0
+            ]
+        }
+    },
+    "vo_story_114_009_sigh": {
+        "anim": {},
+        "text": {
+            "female_jp": [
+                "Hah...",
+                "",
+                "",
+                ""
+            ]
+        },
+        "time": {
+            "female_cn": [
+                2,
+                0,
+                0,
+                0
+            ],
+            "female_jp": [
+                1.135,
+                0,
+                0,
+                0
+            ]
+        }
+    },
+    "vo_story_114_010_catchphrase": {
+        "anim": {},
+        "text": {
+            "female_jp": [
+                "Unnngh...",
+                "",
+                "",
+                ""
+            ]
+        },
+        "time": {
+            "female_cn": [
+                3.063,
+                0,
+                0,
+                0
+            ],
+            "female_jp": [
+                1.614,
+                0,
+                0,
+                0
+            ]
+        }
+    },
+    "vo_story_114_011_catchphrase": {
+        "anim": {},
+        "text": {
+            "female_jp": [
+                "Easy peasy!",
+                "",
+                "",
+                ""
+            ]
+        },
+        "time": {
+            "female_cn": [
+                2,
+                0,
+                0,
+                0
+            ],
+            "female_jp": [
+                1.086,
+                0,
+                0,
+                0
+            ]
+        }
+    },
+    "vo_story_114_012_catchphrase": {
+        "anim": {},
+        "text": {
+            "female_jp": [
+                "Let's play!",
+                "",
+                "",
+                ""
+            ]
+        },
+        "time": {
+            "female_cn": [
+                2,
+                0,
+                0,
+                0
+            ],
+            "female_jp": [
+                1.086,
+                0,
+                0,
+                0
+            ]
+        }
+    },
+    "vo_story_114_013_catchphrase": {
+        "anim": {},
+        "text": {
+            "female_jp": [
+                "Not too shabby!",
+                "",
+                "",
+                ""
+            ]
+        },
+        "time": {
+            "female_cn": [
+                2,
+                0,
+                0,
+                0
+            ],
+            "female_jp": [
+                1.132,
+                0,
+                0,
+                0
+            ]
+        }
+    },
+    "vo_story_114_014_catchphrase": {
+        "anim": {},
+        "text": {
+            "female_jp": [
+                "I'll win for sure!",
+                "",
+                "",
+                ""
+            ]
+        },
+        "time": {
+            "female_cn": [
+                2,
+                0,
+                0,
+                0
+            ],
+            "female_jp": [
+                1.281,
                 0,
                 0,
                 0

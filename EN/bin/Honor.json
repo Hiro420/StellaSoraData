@@ -360,6 +360,15 @@
     "SubRes": "Icon/HonorTitle/HonorTitle_116011_S",
     "BGType": 2
   },
+  "116012": {
+    "Id": 116012,
+    "Name": "Honor.116012.1",
+    "Type": 1,
+    "TabType": 3,
+    "MainRes": "Icon/HonorTitle/HonorTitle_116012_L_lang",
+    "SubRes": "Icon/HonorTitle/HonorTitle_116012_S",
+    "BGType": 2
+  },
   "117001": {
     "Id": 117001,
     "Name": "Honor.117001.1",
@@ -711,6 +720,33 @@
     "SubRes": "Icon/HonorTitle/HonorTitle_118073_S",
     "BGType": 2
   },
+  "118081": {
+    "Id": 118081,
+    "Name": "Honor.118081.1",
+    "Type": 1,
+    "TabType": 3,
+    "MainRes": "Icon/HonorTitle/HonorTitle_118081_L",
+    "SubRes": "Icon/HonorTitle/HonorTitle_118081_S",
+    "BGType": 2
+  },
+  "118082": {
+    "Id": 118082,
+    "Name": "Honor.118082.1",
+    "Type": 1,
+    "TabType": 3,
+    "MainRes": "Icon/HonorTitle/HonorTitle_118082_L",
+    "SubRes": "Icon/HonorTitle/HonorTitle_118082_S",
+    "BGType": 2
+  },
+  "118083": {
+    "Id": 118083,
+    "Name": "Honor.118083.1",
+    "Type": 1,
+    "TabType": 3,
+    "MainRes": "Icon/HonorTitle/HonorTitle_118083_L",
+    "SubRes": "Icon/HonorTitle/HonorTitle_118083_S",
+    "BGType": 2
+  },
   "119011": {
     "Id": 119011,
     "Name": "Honor.119011.1",
@@ -759,18 +795,6 @@
     "SubRes": "Icon/HonorTitle/HonorTitle_Affinity_103_S",
     "BGType": 1
   },
-  "112106": {
-    "Id": 112106,
-    "Name": "Honor.112106.1",
-    "Type": 2,
-    "TabType": 2,
-    "Params": [
-      106
-    ],
-    "MainRes": "Icon/HonorTitle/HonorTitle_Affinity_106_L",
-    "SubRes": "Icon/HonorTitle/HonorTitle_Affinity_106_S",
-    "BGType": 1
-  },
   "112107": {
     "Id": 112107,
     "Name": "Honor.112107.1",
@@ -793,18 +817,6 @@
     ],
     "MainRes": "Icon/HonorTitle/HonorTitle_Affinity_108_L",
     "SubRes": "Icon/HonorTitle/HonorTitle_Affinity_108_S",
-    "BGType": 1
-  },
-  "112109": {
-    "Id": 112109,
-    "Name": "Honor.112109.1",
-    "Type": 2,
-    "TabType": 2,
-    "Params": [
-      109
-    ],
-    "MainRes": "Icon/HonorTitle/HonorTitle_Affinity_109_L",
-    "SubRes": "Icon/HonorTitle/HonorTitle_Affinity_109_S",
     "BGType": 1
   },
   "112110": {
@@ -987,18 +999,6 @@
     "SubRes": "Icon/HonorTitle/HonorTitle_Affinity_127_S",
     "BGType": 1
   },
-  "112129": {
-    "Id": 112129,
-    "Name": "Honor.112129.1",
-    "Type": 2,
-    "TabType": 2,
-    "Params": [
-      129
-    ],
-    "MainRes": "Icon/HonorTitle/HonorTitle_Affinity_129_L",
-    "SubRes": "Icon/HonorTitle/HonorTitle_Affinity_129_S",
-    "BGType": 1
-  },
   "112130": {
     "Id": 112130,
     "Name": "Honor.112130.1",
@@ -1057,18 +1057,6 @@
     ],
     "MainRes": "Icon/HonorTitle/HonorTitle_Affinity_135_L",
     "SubRes": "Icon/HonorTitle/HonorTitle_Affinity_135_S",
-    "BGType": 1
-  },
-  "112136": {
-    "Id": 112136,
-    "Name": "Honor.112136.1",
-    "Type": 2,
-    "TabType": 2,
-    "Params": [
-      136
-    ],
-    "MainRes": "Icon/HonorTitle/HonorTitle_Affinity_136_L",
-    "SubRes": "Icon/HonorTitle/HonorTitle_Affinity_136_S",
     "BGType": 1
   },
   "112140": {

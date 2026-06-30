@@ -544,5 +544,46 @@
     "DesText": "ActivityGroup.11100.1",
     "TabBgRes": "Icon/Banner/tab_activity_swimsuit",
     "TransitionId": 26
+  },
+  "10109": {
+    "Id": 10109,
+    "ActivityGroupType": 1,
+    "ActivityThemeType": 15,
+    "StartTime": "2026-06-30T12:00:00+08:00",
+    "EndTime": "2026-07-14T04:00:00+08:00",
+    "EnterEndTime": "2026-07-21T10:59:59+08:00",
+    "EnterRes": "Icon/Banner/banner_activity_10109_m_lang",
+    "PanelId": 469,
+    "PreLimit": 1,
+    "LimitParam": "3",
+    "StartCondType": 71,
+    "StartCondParams": [
+      5
+    ],
+    "Enter": "{\"MiniGame\":[400012,1,474],\"Task\":[1010903,2,471],\"AVG\":[1010902,3,470],\"Store\":[1010904,4,472],\"Level\":[1010901,5,468]}",
+    "UIAssetsPrefab": "10109",
+    "CtrlName": "ActivityGunStormCtrl",
+    "RewardsShow": [
+      2,
+      214053,
+      116012,
+      502,
+      503,
+      20023,
+      35010,
+      35000,
+      32013,
+      20083,
+      21073,
+      30004,
+      50004,
+      30,
+      33052,
+      33012,
+      33072,
+      1
+    ],
+    "DesText": "ActivityGroup.10109.1",
+    "TabBgRes": "Icon/Banner/tab_activity_10109_lang"
   }
 }
