@@ -128,6 +128,13 @@
   "22": {
     "Id": 22,
     "Theme": 22,
+    "EndSceneName": "Levels/Main/City/City_Main_7_1_Victory01",
+    "BGM": "music_victory_setState_rogueLike"
+  },
+  "23": {
+    "Id": 23,
+    "Theme": 23,
+    "EndSceneName": "Levels/StoryActivity/StoryActivity_12/StoryActivity_12_Victory01",
     "BGM": "music_victory_setState_rogueLike"
   },
   "101": {
@@ -414,6 +421,13 @@
   "456": {
     "Id": 456,
     "Theme": 456,
+    "EndSceneName": "Levels/StoryActivity/StoryActivity_12/StoryActivity_12_Victory01",
+    "BGM": "music_victory_setState_rogueLike"
+  },
+  "457": {
+    "Id": 457,
+    "Theme": 457,
+    "EndSceneName": "Levels/StoryActivity/StoryActivity_12/StoryActivity_12_Boss_A_Victory01",
     "BGM": "music_victory_setState_rogueLike"
   },
   "461": {

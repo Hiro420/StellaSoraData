@@ -32,5 +32,9 @@
   "ScoreBossAbility.100015.1": "남작의 위엄",
   "ScoreBossAbility.100015.2": "뚜두뚜두 남작은 초기에 「저항」 1스택을 보유하며, 5초마다 「저항」 1스택을 획득한다. 「저항」 1스택마다 뚜두뚜두 남작이 받는 피해가 <color=#ec6d21>&Param1&</color> 감소한다. 최대 <color=#ec6d21>&Param2&</color>스택 중첩된다.\n메인 캐릭터가 표식을 발동하면 뚜두뚜두 남작의 「저항」을 1스택 제거하며, 필드에 있는 지원 캐릭터에게 「증폭」 1스택을 제공한다. 「증폭」 1스택마다 피해가 <color=#ec6d21>&Param3&</color> 증가한다. 최대 <color=#ec6d21>&Param4&</color>스택 중첩되며, 20초간 지속된다.",
   "ScoreBossAbility.100016.1": "질풍의 격동",
-  "ScoreBossAbility.100016.2": "보스 적이 소환하는 소환물 「바람돌이」 <color=#ec6d21>&Param1&</color>마리를 처치할 때마다 「격려」를 획득해 팀 전체에게 <color=#ec6d21>&Param2&</color>의 스킬 피해 강도를 제공한다. <color=#ec6d21>&Param3&</color>초간 지속된다. \n메인 캐릭터가 스킬을 시전할 때마다 「격려」의 현재 지속 시간이 <color=#ec6d21>&Param4&</color>초 연장된다. 최대 <color=#ec6d21>&Param5&</color>초 연장할 수 있다."
+  "ScoreBossAbility.100016.2": "보스 적이 소환하는 소환물 「바람돌이」 <color=#ec6d21>&Param1&</color>마리를 처치할 때마다 「격려」를 획득해 팀 전체에게 <color=#ec6d21>&Param2&</color>의 스킬 피해 강도를 제공한다. <color=#ec6d21>&Param3&</color>초간 지속된다. \n메인 캐릭터가 스킬을 시전할 때마다 「격려」의 현재 지속 시간이 <color=#ec6d21>&Param4&</color>초 연장된다. 최대 <color=#ec6d21>&Param5&</color>초 연장할 수 있다.",
+  "ScoreBossAbility.100017.1": "이열치열",
+  "ScoreBossAbility.100017.2": "보스 적이 「불의 고리」를 보유하여 지속적으로 고리 안에 있는 메인 캐릭터에게 피해를 입힌다.\n메인 캐릭터가 보스 적에게 「원소 표식」 <color=#ec6d21>&Param1&</color>회 발동할 때마다 「강화」를 획득하여 팀 전체의 스킬 피해 강도가 <color=#ec6d21>&Param2&</color> 증가한다. <color=#ec6d21>&Param3&</color>초간 지속된다. 해당 기간 동안 보스 적의 「불의 고리」가 무효화되며 중복으로 발동하지 않는다.",
+  "ScoreBossAbility.100018.1": "약화 공격",
+  "ScoreBossAbility.100018.2": "보스 적은 처음에 일반 공격/스킬/표식 피해에 <color=#ec6d21>&Param1&</color> 피해 감소를 보유한다.\n메인 캐릭터가 임의로 보스 적에게 일반 공격/스킬/표식 피해를 <color=#ec6d21>&Param2&</color>회 입힐 때마다, 보스 적이 해당 유형의 피해에 대한 피해 감소가 <color=#ec6d21>&Param3&</color> 감소한다. 최대 0까지 감소할 수 있다. 이후 다시 발동되면 보스 적이 받는 해당 유형의 피해가 <color=#ec6d21>&Param4&</color> 증가한다. 최대 <color=#ec6d21>&Param5&</color>까지 증가할 수 있다."
 }

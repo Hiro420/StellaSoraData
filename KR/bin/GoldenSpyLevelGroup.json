@@ -39,5 +39,46 @@
       110401
     ],
     "LightName": "GoldenSpyPlatform4"
+  },
+  "201": {
+    "Id": 201,
+    "GroupName": "GoldenSpyLevelGroup.201.1",
+    "IconPath": "db_goldenspy_level_nml_01",
+    "LevelList": [
+      120101,
+      120102
+    ],
+    "LightName": "GoldenSpyPlatform1"
+  },
+  "202": {
+    "Id": 202,
+    "GroupName": "GoldenSpyLevelGroup.202.1",
+    "IconPath": "db_goldenspy_level_nml_02",
+    "LevelList": [
+      120201,
+      120202
+    ],
+    "LightName": "GoldenSpyPlatform2"
+  },
+  "203": {
+    "Id": 203,
+    "DayOpen": 1,
+    "GroupName": "GoldenSpyLevelGroup.203.1",
+    "IconPath": "db_goldenspy_level_nml_03",
+    "LevelList": [
+      120301,
+      120302
+    ],
+    "LightName": "GoldenSpyPlatform3"
+  },
+  "204": {
+    "Id": 204,
+    "DayOpen": 2,
+    "GroupName": "GoldenSpyLevelGroup.204.1",
+    "IconPath": "db_goldenspy_level_nml_04",
+    "LevelList": [
+      120401
+    ],
+    "LightName": "GoldenSpyPlatform4"
   }
 }

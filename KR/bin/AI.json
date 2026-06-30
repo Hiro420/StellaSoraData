@@ -49,7 +49,7 @@
   },
   "11402": {
     "Id": 11402,
-    "FCAction": "AIScript.ActorActionBase",
+    "FCAction": "AIScript.Character._11401.Action_Support",
     "FCGlobal": "AIScript.Character._11401.ParallelScript_Support",
     "FCComboGroup": "Character/11401/Combos/ComboGroup_Char_114"
   },
@@ -353,6 +353,27 @@
     "FCGlobal": "AIScript.Character._15501.ParallelScript_Support",
     "FCComboGroup": "Character/15501/Combos/ComboGroup_Char_155"
   },
+  "16200": {
+    "Id": 16200,
+    "FCSpawn": "Character/16201/Combos/ComboGroup_Char_162",
+    "FCAction": "AIScript.Character._15501.Action",
+    "FCGlobal": "AIScript.Character._15501.ParallelScript",
+    "FCComboGroup": "Character/15501/Combos/ComboGroup_Char_155"
+  },
+  "16201": {
+    "Id": 16201,
+    "FCSpawn": "Character/16201/Combos/ComboGroup_Char_162",
+    "FCAction": "AIScript.Character._15501.Action",
+    "FCGlobal": "AIScript.Character._15501.ParallelScript_MainControl",
+    "FCComboGroup": "Character/15501/Combos/ComboGroup_Char_155"
+  },
+  "16202": {
+    "Id": 16202,
+    "FCSpawn": "Character/16201/Combos/ComboGroup_Char_162",
+    "FCAction": "AIScript.ActorActionBase",
+    "FCGlobal": "AIScript.Character._15501.ParallelScript_Support",
+    "FCComboGroup": "Character/15501/Combos/ComboGroup_Char_155"
+  },
   "11001": {
     "Id": 11001,
     "FCAction": "AIScript.Character._11001.Action",
@@ -418,6 +439,18 @@
     "FCAction": "AIScript.ActorActionBase",
     "FCGlobal": "AIScript.Character._14701.ParallelScript_Support",
     "FCComboGroup": "Character/14701/Combos/ComboGroup_Char_147"
+  },
+  "15701": {
+    "Id": 15701,
+    "FCAction": "AIScript.Character._15701.ActionScript_MainControl",
+    "FCGlobal": "AIScript.Character._15701.ParallelScript_MainControl",
+    "FCComboGroup": "Character/15701/Combos/ComboGroup_Char_157"
+  },
+  "15702": {
+    "Id": 15702,
+    "FCAction": "AIScript.Character._15701.ActionScript_Support",
+    "FCGlobal": "AIScript.Character._15701.ParallelScript_Support",
+    "FCComboGroup": "Character/15701/Combos/ComboGroup_Char_157"
   },
   "11201": {
     "Id": 11201,
