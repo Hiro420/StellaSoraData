@@ -169,6 +169,16 @@
     "Desc": "MailTemplate.2101.3",
     "Type": 1
   },
+  "2121": {
+    "Id": 2121,
+    "Explanation": "紧急悬赏未领取奖励",
+    "Icon": "Icon/Head/head_12501",
+    "Author": "MailTemplate.2121.1",
+    "LetterPaper": "background2",
+    "Subject": "MailTemplate.2121.2",
+    "Desc": "MailTemplate.2121.3",
+    "Type": 1
+  },
   "3011": {
     "Id": 3011,
     "Explanation": "月卡1到期提醒-3天",
@@ -787,6 +797,36 @@
     "LetterPaper": "background2",
     "Subject": "MailTemplate.10803.2",
     "Desc": "MailTemplate.10803.3",
+    "Type": 1
+  },
+  "10901": {
+    "Id": 10901,
+    "Explanation": "枪林弹雨覆黄沙 活动结束倒计时邮件",
+    "Icon": "Icon/Head/head_12501",
+    "Author": "MailTemplate.10901.1",
+    "LetterPaper": "background2",
+    "Subject": "MailTemplate.10901.2",
+    "Desc": "MailTemplate.10901.3",
+    "Type": 1
+  },
+  "10902": {
+    "Id": 10902,
+    "Explanation": "枪林弹雨覆黄沙 活动结束货币转换邮件",
+    "Icon": "Icon/Head/head_12501",
+    "Author": "MailTemplate.10902.1",
+    "LetterPaper": "background2",
+    "Subject": "MailTemplate.10902.2",
+    "Desc": "MailTemplate.10902.3",
+    "Type": 1
+  },
+  "10903": {
+    "Id": 10903,
+    "Explanation": "枪林弹雨覆黄沙 活动任务结束未领取邮件",
+    "Icon": "Icon/Head/head_12501",
+    "Author": "MailTemplate.10903.1",
+    "LetterPaper": "background2",
+    "Subject": "MailTemplate.10903.2",
+    "Desc": "MailTemplate.10903.3",
     "Type": 1
   }
 }

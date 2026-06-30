@@ -6,10 +6,134 @@
       "pack.first",
       "pack.sr"
     ],
-    "Name": "MallRecommendGroup.1001.1"
+    "Name": "MallRecommendGroup.1001.1",
+    "StartTime": "2026-05-14T12:00:00+08:00",
+    "EndTime": "2026-06-02T10:59:59+08:00"
   },
   "1002": {
     "Id": "1002",
+    "Sort": 2,
+    "PackageList": [
+      "pack.11_role",
+      "pack.11_role_s",
+      "pack.11_role_l",
+      "pack.11_gift",
+      "pack.11_res"
+    ],
+    "Name": "MallRecommendGroup.1002.1",
+    "StartTime": "2026-05-14T12:00:00+08:00",
+    "EndTime": "2026-06-02T10:59:59+08:00"
+  },
+  "1003": {
+    "Id": "1003",
+    "Sort": 3,
+    "PackageList": [
+      "pack.11_disc",
+      "pack.11_disc_s",
+      "pack.11_disc_l"
+    ],
+    "Name": "MallRecommendGroup.1003.1",
+    "StartTime": "2026-05-14T12:00:00+08:00",
+    "EndTime": "2026-06-02T10:59:59+08:00"
+  },
+  "1004": {
+    "Id": "1004",
+    "Sort": 5,
+    "PackageList": [
+      "pack.01_role_m",
+      "pack.role",
+      "pack.01_role_w"
+    ],
+    "Name": "MallRecommendGroup.1004.1",
+    "StartTime": "2026-05-14T12:00:00+08:00",
+    "EndTime": "2026-06-02T10:59:59+08:00"
+  },
+  "1005": {
+    "Id": "1005",
+    "Sort": 4,
+    "PackageList": [
+      "pack.01_disc_m",
+      "pack.disc",
+      "pack.01_disc_w"
+    ],
+    "Name": "MallRecommendGroup.1005.1",
+    "StartTime": "2026-05-14T12:00:00+08:00",
+    "EndTime": "2026-06-02T10:59:59+08:00"
+  },
+  "1006": {
+    "Id": "1006",
+    "Sort": 1,
+    "PackageList": [
+      "pack.first",
+      "pack.sr"
+    ],
+    "Name": "MallRecommendGroup.1006.1",
+    "StartTime": "2026-06-02T12:00:00+08:00",
+    "EndTime": "2026-06-16T10:59:59+08:00"
+  },
+  "1007": {
+    "Id": "1007",
+    "Sort": 2,
+    "PackageList": [
+      "pack.12_role",
+      "pack.12_role_s",
+      "pack.12_role_l",
+      "pack.12_gift",
+      "pack.12_res"
+    ],
+    "Name": "MallRecommendGroup.1007.1",
+    "StartTime": "2026-06-02T12:00:00+08:00",
+    "EndTime": "2026-06-16T10:59:59+08:00"
+  },
+  "1008": {
+    "Id": "1008",
+    "Sort": 3,
+    "PackageList": [
+      "pack.12_disc",
+      "pack.12_disc_s",
+      "pack.12_disc_l"
+    ],
+    "Name": "MallRecommendGroup.1008.1",
+    "StartTime": "2026-06-02T12:00:00+08:00",
+    "EndTime": "2026-06-16T10:59:59+08:00"
+  },
+  "1009": {
+    "Id": "1009",
+    "Sort": 5,
+    "PackageList": [
+      "pack.01_role_m",
+      "pack.role",
+      "pack.01_role_w"
+    ],
+    "Name": "MallRecommendGroup.1009.1",
+    "StartTime": "2026-06-02T12:00:00+08:00",
+    "EndTime": "2026-06-16T10:59:59+08:00"
+  },
+  "1010": {
+    "Id": "1010",
+    "Sort": 4,
+    "PackageList": [
+      "pack.01_disc_m",
+      "pack.disc",
+      "pack.01_disc_w"
+    ],
+    "Name": "MallRecommendGroup.1010.1",
+    "StartTime": "2026-06-02T12:00:00+08:00",
+    "EndTime": "2026-06-16T10:59:59+08:00"
+  },
+  "1011": {
+    "Id": "1011",
+    "Sort": 1,
+    "PackageList": [
+      "pack.first",
+      "pack.sr"
+    ],
+    "Name": "MallRecommendGroup.1011.1",
+    "StartTime": "2026-06-16T12:00:00+08:00",
+    "EndTime": "2026-06-30T10:59:59+08:00"
+  },
+  "1012": {
+    "Id": "1012",
     "Sort": 2,
     "PackageList": [
       "pack.12_role",
@@ -23,10 +147,12 @@
       "pack.12_1_gift",
       "pack.12_1_res"
     ],
-    "Name": "MallRecommendGroup.1002.1"
+    "Name": "MallRecommendGroup.1012.1",
+    "StartTime": "2026-06-16T12:00:00+08:00",
+    "EndTime": "2026-06-30T10:59:59+08:00"
   },
-  "1003": {
-    "Id": "1003",
+  "1013": {
+    "Id": "1013",
     "Sort": 3,
     "PackageList": [
       "pack.12_disc",
@@ -36,26 +162,101 @@
       "pack.12_1_disc_s",
       "pack.12_1_disc_l"
     ],
-    "Name": "MallRecommendGroup.1003.1"
+    "Name": "MallRecommendGroup.1013.1",
+    "StartTime": "2026-06-16T12:00:00+08:00",
+    "EndTime": "2026-06-30T10:59:59+08:00"
   },
-  "1004": {
-    "Id": "1004",
+  "1014": {
+    "Id": "1014",
     "Sort": 5,
     "PackageList": [
       "pack.01_role_m",
       "pack.role",
       "pack.01_role_w"
     ],
-    "Name": "MallRecommendGroup.1004.1"
+    "Name": "MallRecommendGroup.1014.1",
+    "StartTime": "2026-06-16T12:00:00+08:00",
+    "EndTime": "2026-06-30T10:59:59+08:00"
   },
-  "1005": {
-    "Id": "1005",
+  "1015": {
+    "Id": "1015",
     "Sort": 4,
     "PackageList": [
       "pack.01_disc_m",
       "pack.disc",
       "pack.01_disc_w"
     ],
-    "Name": "MallRecommendGroup.1005.1"
+    "Name": "MallRecommendGroup.1015.1",
+    "StartTime": "2026-06-16T12:00:00+08:00",
+    "EndTime": "2026-06-30T10:59:59+08:00"
+  },
+  "1016": {
+    "Id": "1016",
+    "Sort": 1,
+    "PackageList": [
+      "pack.first",
+      "pack.sr"
+    ],
+    "Name": "MallRecommendGroup.1016.1",
+    "StartTime": "2026-06-30T12:00:00+08:00",
+    "EndTime": "2026-07-21T10:59:59+08:00"
+  },
+  "1017": {
+    "Id": "1017",
+    "Sort": 2,
+    "PackageList": [
+      "pack.13_role",
+      "pack.13_role_s",
+      "pack.13_role_l",
+      "pack.13_gift",
+      "pack.13_res",
+      "pack.12_1_role",
+      "pack.12_1_role_s",
+      "pack.12_1_role_l",
+      "pack.12_1_gift",
+      "pack.12_1_res"
+    ],
+    "Name": "MallRecommendGroup.1017.1",
+    "StartTime": "2026-06-30T12:00:00+08:00",
+    "EndTime": "2026-07-21T10:59:59+08:00"
+  },
+  "1018": {
+    "Id": "1018",
+    "Sort": 3,
+    "PackageList": [
+      "pack.13_disc",
+      "pack.13_disc_s",
+      "pack.13_disc_l",
+      "pack.12_1_disc",
+      "pack.12_1_disc_s",
+      "pack.12_1_disc_l"
+    ],
+    "Name": "MallRecommendGroup.1018.1",
+    "StartTime": "2026-06-30T12:00:00+08:00",
+    "EndTime": "2026-07-21T10:59:59+08:00"
+  },
+  "1019": {
+    "Id": "1019",
+    "Sort": 5,
+    "PackageList": [
+      "pack.01_role_m",
+      "pack.role",
+      "pack.01_role_w"
+    ],
+    "Name": "MallRecommendGroup.1019.1",
+    "StartTime": "2026-06-30T12:00:00+08:00",
+    "EndTime": "2026-07-21T10:59:59+08:00"
+  },
+  "1020": {
+    "Id": "1020",
+    "Sort": 4,
+    "PackageList": [
+      "pack.01_disc_m",
+      "pack.disc",
+      "pack.01_disc_w"
+    ],
+    "Name": "MallRecommendGroup.1020.1",
+    "StartTime": "2026-06-30T12:00:00+08:00",
+    "EndTime": "2026-07-21T10:59:59+08:00"
   }
 }

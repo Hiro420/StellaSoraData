@@ -210,6 +210,26 @@
     "ModelScale": 10000,
     "ColliderScale": 10000
   },
+  "1000802": {
+    "Id": 1000802,
+    "MonsterManual": 1000841,
+    "Model": "Actor/Monster/10008BuCaoXie/10008BuCaoXie_Actor",
+    "RunAnimationSpd": 40000,
+    "WalkAnimationSpd": 40000,
+    "BarHeight": 8000,
+    "ModelScale": 10000,
+    "ColliderScale": 10000
+  },
+  "1000811": {
+    "Id": 1000811,
+    "MonsterManual": 1000861,
+    "Model": "Actor/Monster/10008BuCaoXie/10008BuCaoXie_Actor_A",
+    "RunAnimationSpd": 40000,
+    "WalkAnimationSpd": 40000,
+    "BarHeight": 8000,
+    "ModelScale": 12500,
+    "ColliderScale": 10000
+  },
   "1000901": {
     "Id": 1000901,
     "Model": "Actor/Monster/10009BanShenCao/10009BanShenCao_Actor",
@@ -4716,7 +4736,7 @@
     "MonsterManual": 5031116,
     "Model": "Actor/Monster/50311DaWuGui/50311DaWuGui_Actor",
     "RunAnimationSpd": 60000,
-    "WalkAnimationSpd": 60000,
+    "WalkAnimationSpd": 15000,
     "BarHeight": 8000,
     "ModelScale": 10000,
     "ColliderScale": 10000
@@ -5729,7 +5749,7 @@
   },
   "3093101": {
     "Id": 3093101,
-    "MonsterManual": 3093100,
+    "MonsterManual": 3093105,
     "Model": "Actor/Monster/30931HaSaNa/30931HaSaNa_Actor",
     "RunAnimationSpd": 75000,
     "WalkAnimationSpd": 29000,
@@ -6071,6 +6091,15 @@
   "15900011": {
     "Id": 15900011,
     "Model": "Actor/Character/15901/15901_Crystal",
+    "RunAnimationSpd": 35000,
+    "WalkAnimationSpd": 15000,
+    "BarHeight": 10000,
+    "ModelScale": 10000,
+    "ColliderScale": 10000
+  },
+  "16000011": {
+    "Id": 16000011,
+    "Model": "Actor/Character/16001/16001_Popoball_Actor",
     "RunAnimationSpd": 35000,
     "WalkAnimationSpd": 15000,
     "BarHeight": 10000,

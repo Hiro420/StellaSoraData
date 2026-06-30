@@ -142,5 +142,21 @@
     "Theme": 109,
     "BGM": "roguelike_combatFan_setState",
     "LeaveTriggerEvent": "amb_roguelike_all_stop"
+  },
+  "1001020": {
+    "Id": 1001020,
+    "SceneName": "Levels/Roguelike/Roguelike_3/Roguelike_3_Boss_003",
+    "ConfigPrefabName": "Roguelike_3_Boss_ChuShi_BossRush_3",
+    "Theme": 107,
+    "BGM": "roguelike_combatChuZi_setState",
+    "LeaveTriggerEvent": "amb_city_all_stop"
+  },
+  "1001021": {
+    "Id": 1001021,
+    "SceneName": "Levels/StoryActivity/StoryActivity_9/StoryActivity_9_Boss_HaSaNa",
+    "ConfigPrefabName": "Bossrush_HaSaNa_2",
+    "Theme": 118,
+    "BGM": "hasaNa_combatBoss_setState",
+    "LeaveTriggerEvent": "amb_coast_all_stop"
   }
 }

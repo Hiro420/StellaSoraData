@@ -869,5 +869,283 @@
     "Desc": "TowerDefenseQuest.75.1",
     "Item1": 2,
     "Qty1": 200
+  },
+  "76": {
+    "Id": 76,
+    "QuestGroupId": 13,
+    "QuestType": 102,
+    "QuestParam": [
+      1401
+    ],
+    "Desc": "TowerDefenseQuest.76.1",
+    "Item1": 32000,
+    "Qty1": 20
+  },
+  "77": {
+    "Id": 77,
+    "QuestGroupId": 13,
+    "QuestType": 102,
+    "QuestParam": [
+      1402
+    ],
+    "Desc": "TowerDefenseQuest.77.1",
+    "Item1": 33912,
+    "Qty1": 10
+  },
+  "78": {
+    "Id": 78,
+    "QuestGroupId": 13,
+    "QuestType": 102,
+    "QuestParam": [
+      1403
+    ],
+    "Desc": "TowerDefenseQuest.78.1",
+    "Item1": 50003,
+    "Qty1": 20
+  },
+  "79": {
+    "Id": 79,
+    "QuestGroupId": 13,
+    "QuestType": 103,
+    "QuestParam": [
+      1403,
+      3
+    ],
+    "Desc": "TowerDefenseQuest.79.1",
+    "Item1": 32000,
+    "Qty1": 20
+  },
+  "80": {
+    "Id": 80,
+    "QuestGroupId": 13,
+    "QuestType": 102,
+    "QuestParam": [
+      1404
+    ],
+    "Desc": "TowerDefenseQuest.80.1",
+    "Item1": 82007,
+    "Qty1": 40
+  },
+  "81": {
+    "Id": 81,
+    "QuestGroupId": 13,
+    "QuestType": 103,
+    "QuestParam": [
+      1404,
+      3
+    ],
+    "Desc": "TowerDefenseQuest.81.1",
+    "Item1": 33912,
+    "Qty1": 10
+  },
+  "82": {
+    "Id": 82,
+    "QuestGroupId": 14,
+    "QuestType": 102,
+    "QuestParam": [
+      1405
+    ],
+    "Desc": "TowerDefenseQuest.82.1",
+    "Item1": 32000,
+    "Qty1": 40
+  },
+  "83": {
+    "Id": 83,
+    "QuestGroupId": 14,
+    "QuestType": 103,
+    "QuestParam": [
+      1405,
+      2
+    ],
+    "Desc": "TowerDefenseQuest.83.1",
+    "Item1": 82007,
+    "Qty1": 60
+  },
+  "84": {
+    "Id": 84,
+    "QuestGroupId": 14,
+    "QuestType": 103,
+    "QuestParam": [
+      1405,
+      3
+    ],
+    "Desc": "TowerDefenseQuest.84.1",
+    "Item1": 50003,
+    "Qty1": 20
+  },
+  "85": {
+    "Id": 85,
+    "QuestGroupId": 14,
+    "QuestType": 102,
+    "QuestParam": [
+      1406
+    ],
+    "Desc": "TowerDefenseQuest.85.1",
+    "Item1": 32000,
+    "Qty1": 40
+  },
+  "86": {
+    "Id": 86,
+    "QuestGroupId": 14,
+    "QuestType": 103,
+    "QuestParam": [
+      1406,
+      2
+    ],
+    "Desc": "TowerDefenseQuest.86.1",
+    "Item1": 82007,
+    "Qty1": 60
+  },
+  "87": {
+    "Id": 87,
+    "QuestGroupId": 14,
+    "QuestType": 103,
+    "QuestParam": [
+      1406,
+      3
+    ],
+    "Desc": "TowerDefenseQuest.87.1",
+    "Item1": 50004,
+    "Qty1": 20
+  },
+  "88": {
+    "Id": 88,
+    "QuestGroupId": 15,
+    "QuestType": 102,
+    "QuestParam": [
+      1407
+    ],
+    "Desc": "TowerDefenseQuest.88.1",
+    "Item1": 32000,
+    "Qty1": 60
+  },
+  "89": {
+    "Id": 89,
+    "QuestGroupId": 15,
+    "QuestType": 103,
+    "QuestParam": [
+      1407,
+      2
+    ],
+    "Desc": "TowerDefenseQuest.89.1",
+    "Item1": 82007,
+    "Qty1": 100
+  },
+  "90": {
+    "Id": 90,
+    "QuestGroupId": 15,
+    "QuestType": 103,
+    "QuestParam": [
+      1407,
+      3
+    ],
+    "Desc": "TowerDefenseQuest.90.1",
+    "Item1": 2,
+    "Qty1": 200
+  },
+  "91": {
+    "Id": 91,
+    "QuestGroupId": 15,
+    "QuestType": 102,
+    "QuestParam": [
+      1408
+    ],
+    "Desc": "TowerDefenseQuest.91.1",
+    "Item1": 32000,
+    "Qty1": 60
+  },
+  "92": {
+    "Id": 92,
+    "QuestGroupId": 15,
+    "QuestType": 103,
+    "QuestParam": [
+      1408,
+      2
+    ],
+    "Desc": "TowerDefenseQuest.92.1",
+    "Item1": 82007,
+    "Qty1": 100
+  },
+  "93": {
+    "Id": 93,
+    "QuestGroupId": 15,
+    "QuestType": 103,
+    "QuestParam": [
+      1408,
+      3
+    ],
+    "Desc": "TowerDefenseQuest.93.1",
+    "Item1": 2,
+    "Qty1": 200
+  },
+  "94": {
+    "Id": 94,
+    "QuestGroupId": 16,
+    "QuestType": 102,
+    "QuestParam": [
+      1409
+    ],
+    "Desc": "TowerDefenseQuest.94.1",
+    "Item1": 32000,
+    "Qty1": 80
+  },
+  "95": {
+    "Id": 95,
+    "QuestGroupId": 16,
+    "QuestType": 103,
+    "QuestParam": [
+      1409,
+      2
+    ],
+    "Desc": "TowerDefenseQuest.95.1",
+    "Item1": 82007,
+    "Qty1": 120
+  },
+  "96": {
+    "Id": 96,
+    "QuestGroupId": 16,
+    "QuestType": 103,
+    "QuestParam": [
+      1409,
+      3
+    ],
+    "Desc": "TowerDefenseQuest.96.1",
+    "Item1": 2,
+    "Qty1": 200
+  },
+  "97": {
+    "Id": 97,
+    "QuestGroupId": 16,
+    "QuestType": 102,
+    "QuestParam": [
+      1410
+    ],
+    "Desc": "TowerDefenseQuest.97.1",
+    "Item1": 32000,
+    "Qty1": 80
+  },
+  "98": {
+    "Id": 98,
+    "QuestGroupId": 16,
+    "QuestType": 103,
+    "QuestParam": [
+      1410,
+      2
+    ],
+    "Desc": "TowerDefenseQuest.98.1",
+    "Item1": 82007,
+    "Qty1": 120
+  },
+  "99": {
+    "Id": 99,
+    "QuestGroupId": 16,
+    "QuestType": 103,
+    "QuestParam": [
+      1410,
+      3
+    ],
+    "Desc": "TowerDefenseQuest.99.1",
+    "Item1": 2,
+    "Qty1": 200
   }
 }
