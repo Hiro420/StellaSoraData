@@ -32,5 +32,9 @@
   "ScoreBossAbility.100015.1": "男爵の威厳",
   "ScoreBossAbility.100015.2": "空壺ノ王は戦闘開始時に「レジスト」を1保有しており、5秒ごとに「レジスト」を1獲得する。「レジスト」1につき、空壺ノ王の被ダメージが<color=#ec6d21>&Param1&</color>減少する。この効果は<color=#ec6d21>&Param2&</color>回まで重複できる。\n味方の主力巡遊者が印を発動させた時、空壺ノ王は「レジスト」を1失い、さらにフィールド上の支援巡遊者に「アドレナリン」を1付与する。20秒間、「アドレナリン」1につき、ダメージが<color=#ec6d21>&Param3&</color>増加する。この効果は<color=#ec6d21>&Param4&</color>回まで重複できる。",
   "ScoreBossAbility.100016.1": "烈風の鼓舞",
-  "ScoreBossAbility.100016.2": "首領が召喚した従者「フワフワバルーン」を<color=#ec6d21>&Param1&</color>体撃破するたびに、鼓舞を獲得し、<color=#ec6d21>&Param3&</color>秒間、チーム全体はスキルダメージ強度が<color=#ec6d21>&Param2&</color>増加する。\n主力巡遊者がスキルを発動するたびに、鼓舞の効果時間が<color=#ec6d21>&Param4&</color>秒延長される（最大<color=#ec6d21>&Param5&</color>秒まで）。"
+  "ScoreBossAbility.100016.2": "首領が召喚した従者「フワフワバルーン」を<color=#ec6d21>&Param1&</color>体撃破するたびに、鼓舞を獲得し、<color=#ec6d21>&Param3&</color>秒間、チーム全体はスキルダメージ強度が<color=#ec6d21>&Param2&</color>増加する。\n主力巡遊者がスキルを発動するたびに、鼓舞の効果時間が<color=#ec6d21>&Param4&</color>秒延長される（最大<color=#ec6d21>&Param5&</color>秒まで）。",
+  "ScoreBossAbility.100017.1": "業火相殺",
+  "ScoreBossAbility.100017.2": "首領は「火の環」を保持しており、範囲内の主力巡遊者に対して、持続的にダメージを与える。\n主力巡遊者が首領に対して、印を<color=#ec6d21>&Param1&</color>回発動させるごとに、「火の力」を獲得する。\n「火の力」：<color=#ec6d21>&Param3&</color>秒間、チーム全体のスキルダメージ強度が<color=#ec6d21>&Param2&</color>増加する。この効果は重複せず、持続中、首領の「火の環」を無効化する。",
+  "ScoreBossAbility.100018.1": "疲弊",
+  "ScoreBossAbility.100018.2": "首領は初期状態において、通常攻撃/スキル/印ダメージに対して<color=#ec6d21>&Param1&</color>の被ダメージ軽減効果を保持する。\n主力巡遊者が首領に通常攻撃/スキル/印ダメージのいずれかを<color=#ec6d21>&Param2&</color>回与えるたびに、首領は該当するダメージタイプに対する被ダメージ軽減効果が<color=#ec6d21>&Param3&</color>減少する。（最大0%まで）\n被ダメージ軽減効果が0%になった後、さらに条件を満たすと、首領は該当するダメージタイプの被ダメージが<color=#ec6d21>&Param4&</color>増加する（最大<color=#ec6d21>&Param5&</color>まで）。"
 }

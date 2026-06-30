@@ -536,5 +536,12 @@
     "PreposeParams": "[303]",
     "ScriptPath": "GuideGroup_304",
     "IsActive": true
+  },
+  "401": {
+    "Id": 401,
+    "GuideDetectionType": 2,
+    "PassiveMsg": "Guide_TowerDefense_401",
+    "ScriptPath": "GuideGroup_401",
+    "IsActive": true
   }
 }

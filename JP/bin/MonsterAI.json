@@ -1249,6 +1249,14 @@
     ],
     "ThinkInterval": 2000
   },
+  "1000811": {
+    "Id": 1000811,
+    "ComboGroupPath": "Monster/10008BuCaoXie/Combo/PurpleElite/ComboGroup",
+    "SpawnShowSkillId": 9999989,
+    "DieSkillId": 9999990,
+    "ActionAIPath": "AIScript.Monster._10008ShaMoXie_Elite.Action",
+    "ThinkInterval": 2000
+  },
   "1100301": {
     "Id": 1100301,
     "ComboGroupPath": "Monster/11003JinZhanNongJi/Combo/ComboGroup",
@@ -7058,22 +7066,9 @@
     "ComboGroupPath": "Monster/70021MaoYan/Combo/ComboGroup",
     "SpawnShowSkillId": 7002119,
     "DieSkillId": 7002118,
-    "ActionBranchIds": [
-      700210110,
-      700210120,
-      700210130,
-      700210210,
-      700210220,
-      700210230,
-      700210240,
-      700210310,
-      700210320,
-      700210330,
-      700210340
-    ],
+    "ActionAIPath": "AIScript.Monster._70021MaoYan.Action_01",
     "ThinkInterval": 2000,
-    "ParallelAIPath": "AIScript.Monster._70021MaoYan.Parallel",
-    "CheckAchievement": true
+    "ParallelAIPath": "AIScript.Monster._70021MaoYan.Parallel"
   },
   "7002102": {
     "Id": 7002102,
@@ -7093,8 +7088,7 @@
       700210330
     ],
     "ThinkInterval": 2000,
-    "ParallelAIPath": "AIScript.Monster._70021MaoYan.Parallel",
-    "CheckAchievement": true
+    "ParallelAIPath": "AIScript.Monster._70021MaoYan.Parallel"
   },
   "7002103": {
     "Id": 7002103,
@@ -7105,8 +7099,7 @@
       700210990
     ],
     "ThinkInterval": 2000,
-    "ParallelAIPath": "AIScript.Monster._70021MaoYan.Parallel",
-    "CheckAchievement": true
+    "ParallelAIPath": "AIScript.Monster._70021MaoYan.Parallel"
   },
   "7002201": {
     "Id": 7002201,
@@ -11383,6 +11376,14 @@
     "SpawnAIPath": "AIScript.Character._15901.Spawn_Summon",
     "ParallelAIPath": "AIScript.Character._15901.Parallel_Summon"
   },
+  "16000011": {
+    "Id": 16000011,
+    "ComboGroupPath": "Character/16001/Combos_Monster/ComboGroup_Char_160_BubbleDoll",
+    "SpawnShowSkillId": 16010011,
+    "DieSkillId": 16010012,
+    "ActionAIPath": "AIScript.Character._16001.ActionScript_Summoned_MainControl",
+    "ParallelAIPath": "AIScript.Character._16001.ParallelScript_Summoned_MainControl"
+  },
   "5003101": {
     "Id": 5003101,
     "ComboGroupPath": "Monster/50031ShuangJian/Combo/ComboGroup",
@@ -11809,7 +11810,27 @@
   },
   "104004": {
     "Id": 104004,
-    "ComboGroupPath": "Monster/50181ShunYiGuai/TowerDefense/Fire/ComboGroup",
+    "ComboGroupPath": "Monster/50181ShunYiGuai/TowerDefense/Fire/ComboGroup_8x4",
+    "SpawnShowSkillId": 8000001,
+    "DieSkillId": 8000002,
+    "ActionAIPath": "AIScript.Monster.TowerDefense.AI_Blink_Fire",
+    "ThinkInterval": 2000,
+    "SpawnAIPath": "AIScript.Monster.TowerDefense.TowerMonsterSpawn",
+    "ParallelAIPath": "AIScript.Monster.TowerDefense.TowerMonsterParalletBase"
+  },
+  "104005": {
+    "Id": 104005,
+    "ComboGroupPath": "Monster/50181ShunYiGuai/TowerDefense/Fire/ComboGroup_10x5",
+    "SpawnShowSkillId": 8000001,
+    "DieSkillId": 8000002,
+    "ActionAIPath": "AIScript.Monster.TowerDefense.AI_Blink_Fire",
+    "ThinkInterval": 2000,
+    "SpawnAIPath": "AIScript.Monster.TowerDefense.TowerMonsterSpawn",
+    "ParallelAIPath": "AIScript.Monster.TowerDefense.TowerMonsterParalletBase"
+  },
+  "104006": {
+    "Id": 104006,
+    "ComboGroupPath": "Monster/50181ShunYiGuai/TowerDefense/Fire/ComboGroup_12x6",
     "SpawnShowSkillId": 8000001,
     "DieSkillId": 8000002,
     "ActionAIPath": "AIScript.Monster.TowerDefense.AI_Blink_Fire",

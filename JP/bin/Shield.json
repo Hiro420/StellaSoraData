@@ -87,6 +87,30 @@
     "Id": 4049006,
     "TimeSuperposition": 2
   },
+  "4053021": {
+    "Id": 4053021,
+    "TimeSuperposition": 2
+  },
+  "4053022": {
+    "Id": 4053022,
+    "TimeSuperposition": 2
+  },
+  "4053023": {
+    "Id": 4053023,
+    "TimeSuperposition": 2
+  },
+  "4053024": {
+    "Id": 4053024,
+    "TimeSuperposition": 2
+  },
+  "4053025": {
+    "Id": 4053025,
+    "TimeSuperposition": 2
+  },
+  "4053026": {
+    "Id": 4053026,
+    "TimeSuperposition": 2
+  },
   "400801": {
     "Id": 400801,
     "TimeSuperposition": 2
@@ -252,6 +276,14 @@
   },
   "14003011": {
     "Id": 14003011,
+    "TimeSuperposition": 2,
+    "NotRemove": true
+  },
+  "16031001": {
+    "Id": 16031001,
+    "levelTypeData": 1,
+    "LevelData": 516031,
+    "BindEffect": "Actor/Character/16001/Buff/fx_16001_buff_Skill_Sup_Bubble",
     "TimeSuperposition": 2,
     "NotRemove": true
   }

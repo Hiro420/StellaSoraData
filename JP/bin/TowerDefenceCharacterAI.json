@@ -104,7 +104,7 @@
   "8012601": {
     "Id": 8012601,
     "ComboGroupPath": "Character/12601/TowerDefense/Combo/ComboGroup",
-    "ActionAIPath": "AIScript.Monster.TowerDefense.TowerCharacterBaseAI",
+    "ActionAIPath": "AIScript.Monster.TowerDefense._12601.Action",
     "ParallelAIPath": "AIScript.Monster.TowerDefense._12601.Parallel"
   }
 }

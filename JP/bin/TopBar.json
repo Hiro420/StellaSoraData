@@ -930,12 +930,20 @@
     "Id": "SolodanceStory",
     "Title": "TopBar.SolodanceStory.1"
   },
-  "GoldenSpyLevelSelectPanel": {
-    "Id": "GoldenSpyLevelSelectPanel",
-    "Title": "TopBar.GoldenSpyLevelSelectPanel.1",
+  "GoldenSpyLevelSelectPanel_400008": {
+    "Id": "GoldenSpyLevelSelectPanel_400008",
+    "Title": "TopBar.GoldenSpyLevelSelectPanel_400008.1",
     "Coin": true,
     "CoinIds": [
       73109
+    ]
+  },
+  "GoldenSpyLevelSelectPanel_400012": {
+    "Id": "GoldenSpyLevelSelectPanel_400012",
+    "Title": "TopBar.GoldenSpyLevelSelectPanel_400012.1",
+    "Coin": true,
+    "CoinIds": [
+      73112
     ]
   },
   "ActivityLevelsSelectPanel_10107": {
@@ -1085,5 +1093,35 @@
   "MiningGameGuidePanel_400011": {
     "Id": "MiningGameGuidePanel_400011",
     "Title": "TopBar.MiningGameGuidePanel_400011.1"
+  },
+  "ActivityLevelsSelectPanel_10109": {
+    "Id": "ActivityLevelsSelectPanel_10109",
+    "Title": "TopBar.ActivityLevelsSelectPanel_10109.1",
+    "Energy": true
+  },
+  "Shop_10109": {
+    "Id": "Shop_10109",
+    "Title": "TopBar.Shop_10109.1",
+    "Coin": true
+  },
+  "Task_10109": {
+    "Id": "Task_10109",
+    "Title": "TopBar.Task_10109.1",
+    "Coin": true,
+    "CoinIds": [
+      73112
+    ]
+  },
+  "GunStormStory_10109": {
+    "Id": "GunStormStory_10109",
+    "Title": "TopBar.GunStormStory_10109.1"
+  },
+  "GunStormPanel": {
+    "Id": "GunStormPanel",
+    "Title": "TopBar.GunStormPanel.1",
+    "Coin": true,
+    "CoinIds": [
+      73112
+    ]
   }
 }

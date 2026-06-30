@@ -355,5 +355,21 @@
     "Value1": "1080",
     "Value2": "5",
     "Value3": "5400"
+  },
+  "1023": {
+    "Id": 1023,
+    "ScoreBossBehavior": 14,
+    "ScoreBossType": 1,
+    "Name": "ScoreBossGetControl.1023.1",
+    "Desc": "ScoreBossGetControl.1023.2",
+    "IconSource": "Icon/MonsterSkill/Bossrush/Icon_Bossrush_HaSaNa_001",
+    "OnceScore": 1350,
+    "MaxLimit": 5400,
+    "Param1": "ScoreBossGetControl,NoLevel,1023,Value1,Fixed",
+    "Param2": "ScoreBossGetControl,NoLevel,1023,Value2,Fixed",
+    "Param3": "ScoreBossGetControl,NoLevel,1023,Value3,Fixed",
+    "Value1": "1350",
+    "Value2": "4",
+    "Value3": "5400"
   }
 }
