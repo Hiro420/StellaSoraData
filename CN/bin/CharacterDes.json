@@ -27,33 +27,6 @@
     "PotentialAssistantContent1": "CharacterDes.103.11",
     "PotentialAssistantContent2": "CharacterDes.103.12"
   },
-  "106": {
-    "Id": 106,
-    "Alias": "CharacterDes.106.2",
-    "CnCv": "CharacterDes.106.1",
-    "JpCv": "CharacterDes.106.8",
-    "CharColor": "#6eb29b",
-    "CharSkillColor": "#6eb29b",
-    "CharDes": "CharacterDes.106.3",
-    "Tag": [
-      102,
-      201,
-      301
-    ],
-    "Force": 2,
-    "PreferTags": [
-      2,
-      5
-    ],
-    "PotentialMain1": "CharacterDes.106.4",
-    "PotentialMain2": "CharacterDes.106.5",
-    "PotentialAssistant1": "CharacterDes.106.6",
-    "PotentialAssistant2": "CharacterDes.106.7",
-    "PotentialMainContent1": "CharacterDes.106.9",
-    "PotentialMainContent2": "CharacterDes.106.10",
-    "PotentialAssistantContent1": "CharacterDes.106.11",
-    "PotentialAssistantContent2": "CharacterDes.106.12"
-  },
   "107": {
     "Id": 107,
     "Alias": "CharacterDes.107.2",
@@ -109,33 +82,6 @@
     "PotentialMainContent2": "CharacterDes.108.10",
     "PotentialAssistantContent1": "CharacterDes.108.11",
     "PotentialAssistantContent2": "CharacterDes.108.12"
-  },
-  "109": {
-    "Id": 109,
-    "Alias": "CharacterDes.109.2",
-    "CnCv": "CharacterDes.109.1",
-    "JpCv": "CharacterDes.109.8",
-    "CharColor": "#ffa8bf",
-    "CharSkillColor": "#ffa8bf",
-    "CharDes": "CharacterDes.109.3",
-    "Tag": [
-      102,
-      201,
-      301
-    ],
-    "Force": 2,
-    "PreferTags": [
-      1,
-      8
-    ],
-    "PotentialMain1": "CharacterDes.109.4",
-    "PotentialMain2": "CharacterDes.109.5",
-    "PotentialAssistant1": "CharacterDes.109.6",
-    "PotentialAssistant2": "CharacterDes.109.7",
-    "PotentialMainContent1": "CharacterDes.109.9",
-    "PotentialMainContent2": "CharacterDes.109.10",
-    "PotentialAssistantContent1": "CharacterDes.109.11",
-    "PotentialAssistantContent2": "CharacterDes.109.12"
   },
   "110": {
     "Id": 110,
@@ -270,7 +216,7 @@
     "PreferTags": [
       1,
       5,
-      6
+      7
     ],
     "HateTags": [
       8
@@ -577,33 +523,6 @@
     "PotentialAssistantContent1": "CharacterDes.127.11",
     "PotentialAssistantContent2": "CharacterDes.127.12"
   },
-  "129": {
-    "Id": 129,
-    "Alias": "CharacterDes.129.2",
-    "CnCv": "CharacterDes.129.1",
-    "JpCv": "CharacterDes.129.8",
-    "CharColor": "#6a6261",
-    "CharSkillColor": "#6a6261",
-    "CharDes": "CharacterDes.129.3",
-    "Tag": [
-      102,
-      201,
-      301
-    ],
-    "Force": 2,
-    "PreferTags": [
-      1,
-      4
-    ],
-    "PotentialMain1": "CharacterDes.129.4",
-    "PotentialMain2": "CharacterDes.129.5",
-    "PotentialAssistant1": "CharacterDes.129.6",
-    "PotentialAssistant2": "CharacterDes.129.7",
-    "PotentialMainContent1": "CharacterDes.129.9",
-    "PotentialMainContent2": "CharacterDes.129.10",
-    "PotentialAssistantContent1": "CharacterDes.129.11",
-    "PotentialAssistantContent2": "CharacterDes.129.12"
-  },
   "130": {
     "Id": 130,
     "Alias": "CharacterDes.130.2",
@@ -762,91 +681,6 @@
     "PotentialMainContent2": "CharacterDes.135.10",
     "PotentialAssistantContent1": "CharacterDes.135.11",
     "PotentialAssistantContent2": "CharacterDes.135.12"
-  },
-  "136": {
-    "Id": 136,
-    "Alias": "CharacterDes.136.2",
-    "CnCv": "CharacterDes.136.1",
-    "JpCv": "CharacterDes.136.8",
-    "CharColor": "#e0dcfb",
-    "CharSkillColor": "#e0dcfb",
-    "CharDes": "CharacterDes.136.3",
-    "Tag": [
-      102,
-      201,
-      315
-    ],
-    "Force": 10,
-    "PreferTags": [
-      2,
-      3,
-      5
-    ],
-    "HateTags": [
-      6
-    ],
-    "PotentialMain1": "CharacterDes.136.4",
-    "PotentialMain2": "CharacterDes.136.5",
-    "PotentialAssistant1": "CharacterDes.136.6",
-    "PotentialAssistant2": "CharacterDes.136.7",
-    "PotentialMainContent1": "CharacterDes.136.9",
-    "PotentialMainContent2": "CharacterDes.136.10",
-    "PotentialAssistantContent1": "CharacterDes.136.11",
-    "PotentialAssistantContent2": "CharacterDes.136.12"
-  },
-  "137": {
-    "Id": 137,
-    "Alias": "CharacterDes.137.2",
-    "CnCv": "CharacterDes.137.1",
-    "JpCv": "CharacterDes.137.8",
-    "CharColor": "#6eb29b",
-    "CharSkillColor": "#6eb29b",
-    "CharDes": "CharacterDes.137.3",
-    "Tag": [
-      102,
-      201,
-      301
-    ],
-    "Force": 2,
-    "PreferTags": [
-      2,
-      5
-    ],
-    "PotentialMain1": "CharacterDes.137.4",
-    "PotentialMain2": "CharacterDes.137.5",
-    "PotentialAssistant1": "CharacterDes.137.6",
-    "PotentialAssistant2": "CharacterDes.137.7",
-    "PotentialMainContent1": "CharacterDes.137.9",
-    "PotentialMainContent2": "CharacterDes.137.10",
-    "PotentialAssistantContent1": "CharacterDes.137.11",
-    "PotentialAssistantContent2": "CharacterDes.137.12"
-  },
-  "139": {
-    "Id": 139,
-    "Alias": "CharacterDes.139.2",
-    "CnCv": "CharacterDes.139.1",
-    "JpCv": "CharacterDes.139.8",
-    "CharColor": "#6eb29b",
-    "CharSkillColor": "#6eb29b",
-    "CharDes": "CharacterDes.139.3",
-    "Tag": [
-      102,
-      201,
-      301
-    ],
-    "Force": 2,
-    "PreferTags": [
-      2,
-      5
-    ],
-    "PotentialMain1": "CharacterDes.139.4",
-    "PotentialMain2": "CharacterDes.139.5",
-    "PotentialAssistant1": "CharacterDes.139.6",
-    "PotentialAssistant2": "CharacterDes.139.7",
-    "PotentialMainContent1": "CharacterDes.139.9",
-    "PotentialMainContent2": "CharacterDes.139.10",
-    "PotentialAssistantContent1": "CharacterDes.139.11",
-    "PotentialAssistantContent2": "CharacterDes.139.12"
   },
   "140": {
     "Id": 140,
@@ -1192,33 +1026,6 @@
     "PotentialAssistantContent1": "CharacterDes.156.11",
     "PotentialAssistantContent2": "CharacterDes.156.12"
   },
-  "157": {
-    "Id": 157,
-    "Alias": "CharacterDes.157.2",
-    "CnCv": "CharacterDes.157.1",
-    "JpCv": "CharacterDes.157.8",
-    "CharColor": "#6eb29b",
-    "CharSkillColor": "#6eb29b",
-    "CharDes": "CharacterDes.157.3",
-    "Tag": [
-      102,
-      201,
-      301
-    ],
-    "Force": 2,
-    "PreferTags": [
-      2,
-      5
-    ],
-    "PotentialMain1": "CharacterDes.157.4",
-    "PotentialMain2": "CharacterDes.157.5",
-    "PotentialAssistant1": "CharacterDes.157.6",
-    "PotentialAssistant2": "CharacterDes.157.7",
-    "PotentialMainContent1": "CharacterDes.157.9",
-    "PotentialMainContent2": "CharacterDes.157.10",
-    "PotentialAssistantContent1": "CharacterDes.157.11",
-    "PotentialAssistantContent2": "CharacterDes.157.12"
-  },
   "158": {
     "Id": 158,
     "Alias": "CharacterDes.158.2",
@@ -1282,32 +1089,5 @@
     "PotentialMainContent2": "CharacterDes.159.10",
     "PotentialAssistantContent1": "CharacterDes.159.11",
     "PotentialAssistantContent2": "CharacterDes.159.12"
-  },
-  "160": {
-    "Id": 160,
-    "Alias": "CharacterDes.160.2",
-    "CnCv": "CharacterDes.160.1",
-    "JpCv": "CharacterDes.160.8",
-    "CharColor": "#6eb29b",
-    "CharSkillColor": "#6eb29b",
-    "CharDes": "CharacterDes.160.3",
-    "Tag": [
-      102,
-      201,
-      301
-    ],
-    "Force": 2,
-    "PreferTags": [
-      2,
-      5
-    ],
-    "PotentialMain1": "CharacterDes.160.4",
-    "PotentialMain2": "CharacterDes.160.5",
-    "PotentialAssistant1": "CharacterDes.160.6",
-    "PotentialAssistant2": "CharacterDes.160.7",
-    "PotentialMainContent1": "CharacterDes.160.9",
-    "PotentialMainContent2": "CharacterDes.160.10",
-    "PotentialAssistantContent1": "CharacterDes.160.11",
-    "PotentialAssistantContent2": "CharacterDes.160.12"
   }
 }

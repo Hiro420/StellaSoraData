@@ -424,46 +424,6 @@
     "MainSkillGroupId": 2010,
     "SubNoteSkillGroupId": 2010
   },
-  "213001": {
-    "Id": 213001,
-    "EET": 7,
-    "DiscBg": "Disc/3001/3001",
-    "StrengthenGroupId": 31,
-    "AttrBaseGroupId": 21002,
-    "AttrExtraGroupId": 201,
-    "PromoteGroupId": 301,
-    "TransformItemId": 223001,
-    "MaxStarTransformItem": [
-      24,
-      40
-    ],
-    "ReadReward": [
-      2,
-      20
-    ],
-    "MainSkillGroupId": 3001,
-    "SubNoteSkillGroupId": 3001
-  },
-  "213002": {
-    "Id": 213002,
-    "EET": 7,
-    "DiscBg": "Disc/3002/3002",
-    "StrengthenGroupId": 31,
-    "AttrBaseGroupId": 21002,
-    "AttrExtraGroupId": 201,
-    "PromoteGroupId": 302,
-    "TransformItemId": 223002,
-    "MaxStarTransformItem": [
-      24,
-      40
-    ],
-    "ReadReward": [
-      2,
-      20
-    ],
-    "MainSkillGroupId": 3002,
-    "SubNoteSkillGroupId": 3002
-  },
   "213003": {
     "Id": 213003,
     "EET": 2,
@@ -1094,132 +1054,6 @@
     "SecondarySkillGroupId1": 30261,
     "SubNoteSkillGroupId": 3026
   },
-  "213027": {
-    "Id": 213027,
-    "EET": 4,
-    "DiscBg": "Disc/3027/3027",
-    "StrengthenGroupId": 31,
-    "AttrBaseGroupId": 21002,
-    "AttrExtraGroupId": 201,
-    "PromoteGroupId": 302,
-    "TransformItemId": 223027,
-    "MaxStarTransformItem": [
-      24,
-      40
-    ],
-    "ReadReward": [
-      2,
-      20
-    ],
-    "MainSkillGroupId": 3008,
-    "SecondarySkillGroupId1": 30081,
-    "SubNoteSkillGroupId": 3008
-  },
-  "213028": {
-    "Id": 213028,
-    "EET": 2,
-    "DiscBg": "Disc/3028/3028",
-    "StrengthenGroupId": 31,
-    "AttrBaseGroupId": 21002,
-    "AttrExtraGroupId": 201,
-    "PromoteGroupId": 303,
-    "TransformItemId": 223028,
-    "MaxStarTransformItem": [
-      24,
-      40
-    ],
-    "ReadReward": [
-      2,
-      20
-    ],
-    "MainSkillGroupId": 3008,
-    "SecondarySkillGroupId1": 30081,
-    "SubNoteSkillGroupId": 3008
-  },
-  "213029": {
-    "Id": 213029,
-    "EET": 5,
-    "DiscBg": "Disc/3029/3029",
-    "StrengthenGroupId": 31,
-    "AttrBaseGroupId": 21002,
-    "AttrExtraGroupId": 201,
-    "PromoteGroupId": 301,
-    "TransformItemId": 223029,
-    "MaxStarTransformItem": [
-      24,
-      40
-    ],
-    "ReadReward": [
-      2,
-      20
-    ],
-    "MainSkillGroupId": 3008,
-    "SecondarySkillGroupId1": 30081,
-    "SubNoteSkillGroupId": 3008
-  },
-  "213030": {
-    "Id": 213030,
-    "EET": 1,
-    "DiscBg": "Disc/3030/3030",
-    "StrengthenGroupId": 31,
-    "AttrBaseGroupId": 21002,
-    "AttrExtraGroupId": 201,
-    "PromoteGroupId": 302,
-    "TransformItemId": 223030,
-    "MaxStarTransformItem": [
-      24,
-      40
-    ],
-    "ReadReward": [
-      2,
-      20
-    ],
-    "MainSkillGroupId": 3008,
-    "SecondarySkillGroupId1": 30081,
-    "SubNoteSkillGroupId": 3008
-  },
-  "213031": {
-    "Id": 213031,
-    "EET": 6,
-    "DiscBg": "Disc/3031/3031",
-    "StrengthenGroupId": 31,
-    "AttrBaseGroupId": 21002,
-    "AttrExtraGroupId": 201,
-    "PromoteGroupId": 303,
-    "TransformItemId": 223031,
-    "MaxStarTransformItem": [
-      24,
-      40
-    ],
-    "ReadReward": [
-      2,
-      20
-    ],
-    "MainSkillGroupId": 3008,
-    "SecondarySkillGroupId1": 30081,
-    "SubNoteSkillGroupId": 3008
-  },
-  "213032": {
-    "Id": 213032,
-    "EET": 3,
-    "DiscBg": "Disc/3032/3032",
-    "StrengthenGroupId": 31,
-    "AttrBaseGroupId": 21002,
-    "AttrExtraGroupId": 201,
-    "PromoteGroupId": 301,
-    "TransformItemId": 223032,
-    "MaxStarTransformItem": [
-      24,
-      40
-    ],
-    "ReadReward": [
-      2,
-      20
-    ],
-    "MainSkillGroupId": 3008,
-    "SecondarySkillGroupId1": 30081,
-    "SubNoteSkillGroupId": 3008
-  },
   "214001": {
     "Id": 214001,
     "EET": 2,
@@ -1732,28 +1566,6 @@
     "SubNoteSkillGroupId": 4023,
     "SkillScript": "AIScript.Disc.Disc_214023"
   },
-  "214025": {
-    "Id": 214025,
-    "EET": 5,
-    "DiscBg": "Disc/4025/4025",
-    "StrengthenGroupId": 41,
-    "AttrBaseGroupId": 21085,
-    "AttrExtraGroupId": 301,
-    "PromoteGroupId": 402,
-    "TransformItemId": 224025,
-    "MaxStarTransformItem": [
-      24,
-      200
-    ],
-    "ReadReward": [
-      2,
-      30
-    ],
-    "MainSkillGroupId": 4025,
-    "SecondarySkillGroupId1": 40251,
-    "SecondarySkillGroupId2": 40252,
-    "SubNoteSkillGroupId": 4025
-  },
   "214026": {
     "Id": 214026,
     "EET": 1,
@@ -1854,32 +1666,6 @@
     "SecondarySkillGroupId2": 40282,
     "SubNoteSkillGroupId": 4028,
     "SkillScript": "AIScript.Disc.Disc_214028"
-  },
-  "214029": {
-    "Id": 214029,
-    "EET": 2,
-    "DiscBg": "Disc/4029/4029",
-    "StrengthenGroupId": 41,
-    "AttrBaseGroupId": 21071,
-    "AttrExtraGroupId": 301,
-    "PromoteGroupId": 401,
-    "TransformItemId": 224029,
-    "MaxStarTransformItem": [
-      24,
-      200
-    ],
-    "ReadReward": [
-      2,
-      30
-    ],
-    "AVGReadReward": [
-      2,
-      30
-    ],
-    "MainSkillGroupId": 4029,
-    "SecondarySkillGroupId1": 40291,
-    "SecondarySkillGroupId2": 40292,
-    "SubNoteSkillGroupId": 4029
   },
   "214030": {
     "Id": 214030,
@@ -1998,50 +1784,6 @@
     "SecondarySkillGroupId2": 40332,
     "SubNoteSkillGroupId": 4033,
     "SkillScript": "AIScript.Disc.Disc_214033"
-  },
-  "214034": {
-    "Id": 214034,
-    "EET": 6,
-    "DiscBg": "Disc/4034/4034",
-    "StrengthenGroupId": 41,
-    "AttrBaseGroupId": 21001,
-    "AttrExtraGroupId": 301,
-    "PromoteGroupId": 403,
-    "TransformItemId": 224034,
-    "MaxStarTransformItem": [
-      24,
-      200
-    ],
-    "ReadReward": [
-      2,
-      30
-    ],
-    "MainSkillGroupId": 4034,
-    "SecondarySkillGroupId1": 40341,
-    "SecondarySkillGroupId2": 40342,
-    "SubNoteSkillGroupId": 4034
-  },
-  "214035": {
-    "Id": 214035,
-    "EET": 5,
-    "DiscBg": "Disc/4035/4035",
-    "StrengthenGroupId": 41,
-    "AttrBaseGroupId": 21001,
-    "AttrExtraGroupId": 301,
-    "PromoteGroupId": 401,
-    "TransformItemId": 224035,
-    "MaxStarTransformItem": [
-      24,
-      200
-    ],
-    "ReadReward": [
-      2,
-      30
-    ],
-    "MainSkillGroupId": 4035,
-    "SecondarySkillGroupId1": 40351,
-    "SecondarySkillGroupId2": 40352,
-    "SubNoteSkillGroupId": 4035
   },
   "214036": {
     "Id": 214036,
@@ -2843,5 +2585,69 @@
     "SecondarySkillGroupId2": 40522,
     "SubNoteSkillGroupId": 4052,
     "SkillScript": "AIScript.Disc.Disc_214052"
+  },
+  "214029": {
+    "Id": 214029,
+    "EET": 2,
+    "Tags": [
+      803,
+      807,
+      823
+    ],
+    "Visible": true,
+    "Available": true,
+    "DiscBg": "Disc/4029/4029",
+    "StrengthenGroupId": 41,
+    "AttrBaseGroupId": 21071,
+    "AttrExtraGroupId": 301,
+    "PromoteGroupId": 402,
+    "TransformItemId": 224029,
+    "MaxStarTransformItem": [
+      24,
+      200
+    ],
+    "ReadReward": [
+      2,
+      30
+    ],
+    "AVGReadReward": [
+      2,
+      30
+    ],
+    "MainSkillGroupId": 4029,
+    "SecondarySkillGroupId1": 40291,
+    "SecondarySkillGroupId2": 40292,
+    "SubNoteSkillGroupId": 4029,
+    "SkillScript": "AIScript.Disc.Disc_214029"
+  },
+  "214053": {
+    "Id": 214053,
+    "EET": 2,
+    "Tags": [
+      803,
+      808,
+      810
+    ],
+    "Visible": true,
+    "Available": true,
+    "DiscBg": "Disc/4053/4053",
+    "StrengthenGroupId": 41,
+    "AttrBaseGroupId": 21101,
+    "AttrExtraGroupId": 301,
+    "PromoteGroupId": 403,
+    "TransformItemId": 224053,
+    "MaxStarTransformItem": [
+      24,
+      200
+    ],
+    "ReadReward": [
+      2,
+      30
+    ],
+    "MainSkillGroupId": 4053,
+    "SecondarySkillGroupId1": 40531,
+    "SecondarySkillGroupId2": 40532,
+    "SubNoteSkillGroupId": 4053,
+    "SkillScript": "AIScript.Disc.Disc_214053"
   }
 }

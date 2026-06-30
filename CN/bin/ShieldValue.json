@@ -188,6 +188,60 @@
     "ShieldLaminatedNum": 1,
     "TimeSuperposition": 2
   },
+  "4053021": {
+    "Id": 4053021,
+    "ReferenceTarget": 2,
+    "ReferenceAttrib": 4,
+    "ReferenceScale": 200,
+    "Time": 200000,
+    "ShieldLaminatedNum": 3,
+    "TimeSuperposition": 2
+  },
+  "4053022": {
+    "Id": 4053022,
+    "ReferenceTarget": 2,
+    "ReferenceAttrib": 4,
+    "ReferenceScale": 240,
+    "Time": 200000,
+    "ShieldLaminatedNum": 3,
+    "TimeSuperposition": 2
+  },
+  "4053023": {
+    "Id": 4053023,
+    "ReferenceTarget": 2,
+    "ReferenceAttrib": 4,
+    "ReferenceScale": 280,
+    "Time": 200000,
+    "ShieldLaminatedNum": 3,
+    "TimeSuperposition": 2
+  },
+  "4053024": {
+    "Id": 4053024,
+    "ReferenceTarget": 2,
+    "ReferenceAttrib": 4,
+    "ReferenceScale": 320,
+    "Time": 200000,
+    "ShieldLaminatedNum": 3,
+    "TimeSuperposition": 2
+  },
+  "4053025": {
+    "Id": 4053025,
+    "ReferenceTarget": 2,
+    "ReferenceAttrib": 4,
+    "ReferenceScale": 360,
+    "Time": 200000,
+    "ShieldLaminatedNum": 3,
+    "TimeSuperposition": 2
+  },
+  "4053026": {
+    "Id": 4053026,
+    "ReferenceTarget": 2,
+    "ReferenceAttrib": 4,
+    "ReferenceScale": 400,
+    "Time": 200000,
+    "ShieldLaminatedNum": 3,
+    "TimeSuperposition": 2
+  },
   "400801": {
     "Id": 400801,
     "ReferenceTarget": 2,
@@ -1763,5 +1817,95 @@
     "Time": 30000,
     "ShieldLaminatedNum": 1,
     "TimeSuperposition": 2
+  },
+  "16031011": {
+    "Id": 16031011,
+    "ReferenceTarget": 1,
+    "ReferenceAttrib": 3,
+    "ReferenceScale": 4500,
+    "Time": 50000,
+    "ShieldLaminatedNum": 1,
+    "TimeSuperposition": 2,
+    "NotRemove": true
+  },
+  "16031021": {
+    "Id": 16031021,
+    "ReferenceTarget": 1,
+    "ReferenceAttrib": 3,
+    "ReferenceScale": 4870,
+    "Time": 50000,
+    "ShieldLaminatedNum": 1,
+    "TimeSuperposition": 2,
+    "NotRemove": true
+  },
+  "16031031": {
+    "Id": 16031031,
+    "ReferenceTarget": 1,
+    "ReferenceAttrib": 3,
+    "ReferenceScale": 5250,
+    "Time": 50000,
+    "ShieldLaminatedNum": 1,
+    "TimeSuperposition": 2,
+    "NotRemove": true
+  },
+  "16031041": {
+    "Id": 16031041,
+    "ReferenceTarget": 1,
+    "ReferenceAttrib": 3,
+    "ReferenceScale": 5620,
+    "Time": 50000,
+    "ShieldLaminatedNum": 1,
+    "TimeSuperposition": 2,
+    "NotRemove": true
+  },
+  "16031051": {
+    "Id": 16031051,
+    "ReferenceTarget": 1,
+    "ReferenceAttrib": 3,
+    "ReferenceScale": 6000,
+    "Time": 50000,
+    "ShieldLaminatedNum": 1,
+    "TimeSuperposition": 2,
+    "NotRemove": true
+  },
+  "16031061": {
+    "Id": 16031061,
+    "ReferenceTarget": 1,
+    "ReferenceAttrib": 3,
+    "ReferenceScale": 6370,
+    "Time": 50000,
+    "ShieldLaminatedNum": 1,
+    "TimeSuperposition": 2,
+    "NotRemove": true
+  },
+  "16031071": {
+    "Id": 16031071,
+    "ReferenceTarget": 1,
+    "ReferenceAttrib": 3,
+    "ReferenceScale": 6750,
+    "Time": 50000,
+    "ShieldLaminatedNum": 1,
+    "TimeSuperposition": 2,
+    "NotRemove": true
+  },
+  "16031081": {
+    "Id": 16031081,
+    "ReferenceTarget": 1,
+    "ReferenceAttrib": 3,
+    "ReferenceScale": 7120,
+    "Time": 50000,
+    "ShieldLaminatedNum": 1,
+    "TimeSuperposition": 2,
+    "NotRemove": true
+  },
+  "16031091": {
+    "Id": 16031091,
+    "ReferenceTarget": 1,
+    "ReferenceAttrib": 3,
+    "ReferenceScale": 7500,
+    "Time": 50000,
+    "ShieldLaminatedNum": 1,
+    "TimeSuperposition": 2,
+    "NotRemove": true
   }
 }

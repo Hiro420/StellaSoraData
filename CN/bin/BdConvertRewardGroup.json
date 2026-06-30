@@ -922,5 +922,137 @@
     ],
     "Rewards": "{\"72016\":1}",
     "Des": "BdConvertRewardGroup.712.1"
+  },
+  "801": {
+    "Id": 801,
+    "GroupId": 8,
+    "CompleteCond": 48,
+    "CompleteCondParams": [
+      73201,
+      200
+    ],
+    "Rewards": "{\"1\":750000}",
+    "Des": "BdConvertRewardGroup.801.1"
+  },
+  "802": {
+    "Id": 802,
+    "GroupId": 8,
+    "CompleteCond": 48,
+    "CompleteCondParams": [
+      73201,
+      400
+    ],
+    "Rewards": "{\"30004\":50}",
+    "Des": "BdConvertRewardGroup.802.1"
+  },
+  "803": {
+    "Id": 803,
+    "GroupId": 8,
+    "CompleteCond": 48,
+    "CompleteCondParams": [
+      73201,
+      600
+    ],
+    "Rewards": "{\"50004\":80}",
+    "Des": "BdConvertRewardGroup.803.1"
+  },
+  "804": {
+    "Id": 804,
+    "GroupId": 8,
+    "CompleteCond": 48,
+    "CompleteCondParams": [
+      73201,
+      800
+    ],
+    "Rewards": "{\"1\":800000}",
+    "Des": "BdConvertRewardGroup.804.1"
+  },
+  "805": {
+    "Id": 805,
+    "GroupId": 8,
+    "CompleteCond": 48,
+    "CompleteCondParams": [
+      73201,
+      1000
+    ],
+    "Rewards": "{\"82001\":60}",
+    "Des": "BdConvertRewardGroup.805.1"
+  },
+  "806": {
+    "Id": 806,
+    "GroupId": 8,
+    "CompleteCond": 48,
+    "CompleteCondParams": [
+      73201,
+      1200
+    ],
+    "Rewards": "{\"82004\":90}",
+    "Des": "BdConvertRewardGroup.806.1"
+  },
+  "807": {
+    "Id": 807,
+    "GroupId": 8,
+    "CompleteCond": 48,
+    "CompleteCondParams": [
+      73201,
+      1400
+    ],
+    "Rewards": "{\"503\":2}",
+    "Des": "BdConvertRewardGroup.807.1"
+  },
+  "808": {
+    "Id": 808,
+    "GroupId": 8,
+    "CompleteCond": 48,
+    "CompleteCondParams": [
+      73201,
+      1600
+    ],
+    "Rewards": "{\"82001\":60}",
+    "Des": "BdConvertRewardGroup.808.1"
+  },
+  "809": {
+    "Id": 809,
+    "GroupId": 8,
+    "CompleteCond": 48,
+    "CompleteCondParams": [
+      73201,
+      1800
+    ],
+    "Rewards": "{\"82004\":90}",
+    "Des": "BdConvertRewardGroup.809.1"
+  },
+  "810": {
+    "Id": 810,
+    "GroupId": 8,
+    "CompleteCond": 48,
+    "CompleteCondParams": [
+      73201,
+      2000
+    ],
+    "Rewards": "{\"503\":2}",
+    "Des": "BdConvertRewardGroup.810.1"
+  },
+  "811": {
+    "Id": 811,
+    "GroupId": 8,
+    "CompleteCond": 48,
+    "CompleteCondParams": [
+      73201,
+      2200
+    ],
+    "Rewards": "{\"71018\":1}",
+    "Des": "BdConvertRewardGroup.811.1"
+  },
+  "812": {
+    "Id": 812,
+    "GroupId": 8,
+    "CompleteCond": 48,
+    "CompleteCondParams": [
+      73201,
+      2400
+    ],
+    "Rewards": "{\"72018\":1}",
+    "Des": "BdConvertRewardGroup.812.1"
   }
 }

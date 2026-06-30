@@ -74,6 +74,37 @@
     "EnterRes": "Icon/Banner/banner_avtivity_towerdef_m",
     "TabBgRes": "Icon/Banner/tab_activity_towerdef"
   },
+  "102004": {
+    "Id": 102004,
+    "SortId": 5,
+    "ActivityType": 5,
+    "Name": "塔防",
+    "PreLimit": 1,
+    "LimitParam": "5",
+    "PlayCond": 1,
+    "PlayCondParams": "5",
+    "StartType": 2,
+    "StartTime": "2026-07-14T12:00:00+08:00",
+    "EndType": 2,
+    "EndTime": "2026-07-21T11:00:00+08:00",
+    "EnterRes": "Icon/Banner/banner_avtivity_towerdef_m",
+    "TabBgRes": "Icon/Banner/tab_activity_towerdef"
+  },
+  "103001": {
+    "Id": 103001,
+    "SortId": 5,
+    "ActivityType": 21,
+    "Name": "紧急悬赏",
+    "PreLimit": 1,
+    "LimitParam": "3",
+    "PlayCond": 1,
+    "PlayCondParams": "3",
+    "StartType": 2,
+    "StartTime": "2026-07-14T04:00:00+08:00",
+    "EndType": 2,
+    "EndTime": "2026-07-21T03:59:59+08:00",
+    "TabBgRes": "Icon/Banner/tab_activity_103001_lang"
+  },
   "301001": {
     "Id": 301001,
     "SortId": 3,
@@ -361,6 +392,17 @@
     "EndTime": "2026-06-02T10:59:59+08:00",
     "TabBgRes": "Icon/Banner/tab_activity_sidestory"
   },
+  "201014": {
+    "Id": 201014,
+    "SortId": 14,
+    "ActivityType": 13,
+    "Name": "诺瓦异闻-薇洛的铺垫",
+    "StartType": 2,
+    "StartTime": "2026-07-11T12:00:00+08:00",
+    "EndType": 2,
+    "EndTime": "2026-07-21T10:59:59+08:00",
+    "TabBgRes": "Icon/Banner/tab_activity_sidestory"
+  },
   "400000": {
     "Id": 400000,
     "MidGroupId": 10100,
@@ -513,6 +555,19 @@
     "EndTime": "2026-06-30T04:00:00+08:00",
     "MiniGameRedDot": 1000314
   },
+  "400012": {
+    "Id": 400012,
+    "MidGroupId": 10109,
+    "SortId": 4,
+    "ActivityType": 20,
+    "Name": "月华窃梦人",
+    "ActivityThemeType": 15,
+    "StartType": 2,
+    "StartTime": "2026-06-30T12:00:00+08:00",
+    "EndType": 2,
+    "EndTime": "2026-07-14T04:00:00+08:00",
+    "MiniGameRedDot": 1090304
+  },
   "500001": {
     "Id": 500001,
     "SortId": 6,
@@ -622,6 +677,22 @@
     "StartTime": "2026-06-23T12:00:00+08:00",
     "EndType": 2,
     "EndTime": "2026-06-30T11:00:00+08:00",
+    "BannerRes": "banner_activity_05",
+    "TabBgRes": "Icon/Banner/tab_activity_05"
+  },
+  "500008": {
+    "Id": 500008,
+    "SortId": 6,
+    "ActivityType": 14,
+    "Name": "BD兑换活动",
+    "PreLimit": 1,
+    "LimitParam": "10",
+    "PlayCond": 1,
+    "PlayCondParams": "10",
+    "StartType": 2,
+    "StartTime": "2026-07-14T12:00:00+08:00",
+    "EndType": 2,
+    "EndTime": "2026-07-21T11:00:00+08:00",
     "BannerRes": "banner_activity_05",
     "TabBgRes": "Icon/Banner/tab_activity_05"
   },
@@ -977,6 +1048,28 @@
     "EndType": 2,
     "EndTime": "2026-07-07T04:00:00+08:00",
     "TabBgRes": "Icon/Banner/tab_activity_trial_119"
+  },
+  "700123": {
+    "Id": 700123,
+    "SortId": 7,
+    "ActivityType": 6,
+    "Name": "浅试身手-猫眼",
+    "StartType": 2,
+    "StartTime": "2026-06-30T12:00:00+08:00",
+    "EndType": 2,
+    "EndTime": "2026-07-21T10:59:59+08:00",
+    "TabBgRes": "Icon/Banner/tab_activity_trial_114_lang"
+  },
+  "700124": {
+    "Id": 700124,
+    "SortId": 7,
+    "ActivityType": 6,
+    "Name": "浅试身手-赤霞",
+    "StartType": 2,
+    "StartTime": "2026-07-14T12:00:00+08:00",
+    "EndType": 2,
+    "EndTime": "2026-08-04T04:00:00+08:00",
+    "TabBgRes": "Icon/Banner/tab_activity_trial_141"
   },
   "1010001": {
     "Id": 1010001,
@@ -1599,7 +1692,7 @@
     "MidGroupId": 11100,
     "SortId": 10,
     "ActivityType": 22,
-    "Name": "泳装剧情故事(复刻）",
+    "Name": "泳装剧情故事",
     "ActivityThemeType": 13,
     "StartType": 2,
     "StartTime": "2026-06-16T12:00:00+08:00",
@@ -1629,5 +1722,53 @@
     "StartTime": "2026-06-16T12:00:00+08:00",
     "EndType": 2,
     "EndTime": "2026-07-07T10:59:59+08:00"
+  },
+  "1010901": {
+    "Id": 1010901,
+    "MidGroupId": 10109,
+    "SortId": 8,
+    "ActivityType": 9,
+    "Name": "猫眼战斗关卡",
+    "ActivityThemeType": 15,
+    "StartType": 2,
+    "StartTime": "2026-06-30T12:00:00+08:00",
+    "EndType": 2,
+    "EndTime": "2026-07-14T04:00:00+08:00"
+  },
+  "1010902": {
+    "Id": 1010902,
+    "MidGroupId": 10109,
+    "SortId": 10,
+    "ActivityType": 17,
+    "Name": "猫眼剧情故事",
+    "ActivityThemeType": 15,
+    "StartType": 2,
+    "StartTime": "2026-06-30T12:00:00+08:00",
+    "EndType": 2,
+    "EndTime": "2026-07-14T04:00:00+08:00"
+  },
+  "1010903": {
+    "Id": 1010903,
+    "MidGroupId": 10109,
+    "SortId": 11,
+    "ActivityType": 11,
+    "Name": "猫眼活动任务",
+    "ActivityThemeType": 15,
+    "StartType": 2,
+    "StartTime": "2026-06-30T12:00:00+08:00",
+    "EndType": 2,
+    "EndTime": "2026-07-21T10:59:59+08:00"
+  },
+  "1010904": {
+    "Id": 1010904,
+    "MidGroupId": 10109,
+    "SortId": 12,
+    "ActivityType": 12,
+    "Name": "猫眼活动商店",
+    "ActivityThemeType": 15,
+    "StartType": 2,
+    "StartTime": "2026-06-30T12:00:00+08:00",
+    "EndType": 2,
+    "EndTime": "2026-07-21T10:59:59+08:00"
   }
 }

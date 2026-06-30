@@ -71,6 +71,17 @@
     "Param5": "0,0,0",
     "Param7": "1"
   },
+  "50": {
+    "Id": 50,
+    "BannerType": 9,
+    "bannerName": "banner_merchandise_03_lang",
+    "Param1": "2026-06-30T12:00:00+08:00",
+    "Param2": "2026-07-12T23:59:59+08:00",
+    "Param3": "https://youxingmw.tmall.com/shop/view_shop.htm?appUid=RAzN8HWM8XYPmLHjb41S6paoAHmeDB54e9nhKmT2MKEebJHoTVf&spm=a21n57.1.hoverItem.1",
+    "Param4": "windows,android,ios",
+    "Param5": "1,1,1",
+    "Param7": "1"
+  },
   "2": {
     "Id": 2,
     "BannerType": 4,
@@ -335,5 +346,21 @@
     "Param1": "2026-06-16T12:00:00+08:00",
     "Param2": "2026-07-07T10:59:59+08:00",
     "Param3": "skin.98.02.1"
+  },
+  "44": {
+    "Id": 44,
+    "BannerType": 5,
+    "bannerName": "banner_pack_12_lang",
+    "Param1": "2026-06-30T12:00:00+08:00",
+    "Param2": "2026-07-21T10:59:59+08:00",
+    "Param3": "73"
+  },
+  "45": {
+    "Id": 45,
+    "BannerType": 6,
+    "bannerName": "banner_skin_14103_lang",
+    "Param1": "2026-06-30T12:00:00+08:00",
+    "Param2": "2026-07-21T10:59:59+08:00",
+    "Param3": "skin.98.12"
   }
 }

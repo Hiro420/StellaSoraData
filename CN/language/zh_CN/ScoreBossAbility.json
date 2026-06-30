@@ -32,5 +32,9 @@
   "ScoreBossAbility.100015.1": "男爵威严",
   "ScoreBossAbility.100015.2": "热嘟噗噜男爵初始拥有1层「抵御」，且每5秒获得1层「抵御」，每层「抵御」使热嘟噗噜男爵受到的伤害降低<color=#ec6d21>&Param1&</color>，最多叠加<color=#ec6d21>&Param2&</color>层。\n当己方主控角色触发印记后，可移除热嘟噗噜男爵1层「抵御」，并为在场援护角色提供1层「增幅」，每层「增幅」提高<color=#ec6d21>&Param3&</color>伤害，最多叠加<color=#ec6d21>&Param4&</color>层，持续20秒。",
   "ScoreBossAbility.100016.1": "破风激昂",
-  "ScoreBossAbility.100016.2": "每击破<color=#ec6d21>&Param1&</color>只首领敌人召唤的仆从「风鼓仔」可获得【鼓舞】，为全队提供<color=#ec6d21>&Param2&</color>技能伤害强度，持续<color=#ec6d21>&Param3&</color>秒。\n每当主控角色释放技能时，【鼓舞】的当前持续时长延长<color=#ec6d21>&Param4&</color>秒（最大不超过<color=#ec6d21>&Param5&</color>秒）。"
+  "ScoreBossAbility.100016.2": "每击破<color=#ec6d21>&Param1&</color>只首领敌人召唤的仆从「风鼓仔」可获得【鼓舞】，为全队提供<color=#ec6d21>&Param2&</color>技能伤害强度，持续<color=#ec6d21>&Param3&</color>秒。\n每当主控角色释放技能时，【鼓舞】的当前持续时长延长<color=#ec6d21>&Param4&</color>秒（最大不超过<color=#ec6d21>&Param5&</color>秒）。",
+  "ScoreBossAbility.100017.1": "以火攻火",
+  "ScoreBossAbility.100017.2": "首领敌人拥有「火环」，持续对环内的主控角色造成伤害。\n主控角色每对首领敌人触发<color=#ec6d21>&Param1&</color>次「元素印记」，可获得「强化」：全队提升<color=#ec6d21>&Param2&</color>技能伤害强度，持续<color=#ec6d21>&Param3&</color>秒，在此期间首领敌人「火环」失效，且不会重复触发。",
+  "ScoreBossAbility.100018.1": "受击疲劳",
+  "ScoreBossAbility.100018.2": "首领敌人初始对普攻/技能/印记伤害具有<color=#ec6d21>&Param1&</color>伤害减免。\n主控角色每对首领敌人造成<color=#ec6d21>&Param2&</color>次任意普攻/技能/印记伤害，首领敌人对该类型的伤害减免降低<color=#ec6d21>&Param3&</color>，直至降低为0。此后再次触发时，首领敌人受到该类型伤害提升<color=#ec6d21>&Param4&</color>，最高不超过<color=#ec6d21>&Param5&</color>。"
 }

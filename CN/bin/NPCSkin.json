@@ -628,5 +628,19 @@
     "L2D": "Actor2D/Character/14001/14001_L.prefab",
     "InteractiveAction": true,
     "InteractiveActionId": 10003
+  },
+  "811401": {
+    "Id": 811401,
+    "IsShow": true,
+    "CharId": 8114,
+    "Type": 1,
+    "SourceDesc": 1,
+    "ModelScale": 10000,
+    "Model": "Actor/Character/11401/11401_Actor",
+    "Portrait": "Actor2D/Character/11401/11401_a.spriteatlas",
+    "Offset": "Actor2D/NPC/814001/814001.asset",
+    "L2D": "Actor2D/Character/11401/11401_L.prefab",
+    "InteractiveAction": true,
+    "InteractiveActionId": 10003
   }
 }
