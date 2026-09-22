@@ -36,11 +36,11 @@
   "JointDrillAffix.10031.1": "Cycle of Creation",
   "JointDrillAffix.10031.2": "In Phase 1, Coppelius fights while Olympia periodically moves to the arena's edge to support Coppelius and unleash AoE attacks.\nIn Phase 2, Coppelius leaves the field, and you face Olympia alone.",
   "JointDrillAffix.10032.1": "Arcane Energy Interception",
-  "JointDrillAffix.10032.2": "Arcane Puppets generate arcane beams that channel arcane energy into the boss enemy. If uninterrupted long enough, the boss enemy gains an Arcane Barrier.\nThe Main Trekker can block the beams to stop the charge and gain buffs.\nDefeating Arcane Puppets grants your squad a temporary buff.",
+  "JointDrillAffix.10032.2": "Arcane Puppets generate arcane beams that channel arcane energy into the boss target. If left uninterrupted for long enough, the boss target gains an Arcane Barrier that reduces their DMG Taken. The Main Trekker can block the beams to interrupt charging and gradually remove Arcane Barrier stacks. While blocking the beams, the squad's DMG dealt is increased.  Defeating Arcane Puppets also increases the squad's DMG dealt for a period of time.",
   "JointDrillAffix.10033.1": "Free-Floating Core",
-  "JointDrillAffix.10033.2": "Olympia absorbs nearby Free-Floating Cores, detonating them to deal AoE DMG. Absorbing enough grants her an Arcane Barrier. If the Main Trekker touches a Core first, they absorb it instead and gain a temporary buff.",
+  "JointDrillAffix.10033.2": "Olympia absorbs nearby Free-Floating Cores, detonating them to deal AoE DMG. Absorbing enough grants the boss target an Arcane Barrier that reduces the DMG Taken of the boss target. If the Main Trekker touches a Core first, they absorb it instead and increase the squad's DMG dealt for a period of time.",
   "JointDrillAffix.10034.1": "Royal Guard Puppet",
-  "JointDrillAffix.10034.2": "Royal Guard Puppets attack as commanded by the boss enemy and cannot be targeted.",
+  "JointDrillAffix.10034.2": "Royal Guard Puppets attack as commanded by the boss target and cannot be targeted.",
   "JointDrillAffix.10035.1": "Arcane Collapse",
   "JointDrillAffix.10035.2": "Olympia creates damaging zones around the arena and repeatedly casts Arcane Collapse, knocking the Main Trekker back in set directions.",
   "JointDrillAffix.10036.1": "Puppet Blade Dance",
@@ -48,5 +48,5 @@
   "JointDrillAffix.10037.1": "Arcane Surge",
   "JointDrillAffix.10037.2": "Olympia continuously absorbs free-floating arcane energy from the field to charge herself, steadily increasing her arcane energy.",
   "JointDrillAffix.10038.1": "Arcane Barrier",
-  "JointDrillAffix.10038.2": "After gaining enough arcane energy, Olympia grants an Arcane Barrier to herself or Coppelius."
+  "JointDrillAffix.10038.2": "After gaining enough arcane energy, Olympia grants an Arcane Barrier to herself or Coppelius that reduces the DMG Taken of the boss target."
 }
