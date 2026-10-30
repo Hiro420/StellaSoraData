@@ -18355,6 +18355,71 @@
     "ReplaceType": true,
     "ReplaceMode": true
   },
+  "631027010": {
+    "Id": 631027010,
+    "Effects": [
+      631027010
+    ],
+    "Time": 30000,
+    "LaminatedNum": 5,
+    "Num": 1,
+    "TimeSuperposition": 2,
+    "Timing": 2,
+    "ReplaceType": true,
+    "ReplaceMode": true
+  },
+  "631027020": {
+    "Id": 631027020,
+    "Effects": [
+      631027020
+    ],
+    "Time": -10000,
+    "LaminatedNum": 1,
+    "Num": 1,
+    "TimeSuperposition": 2,
+    "Timing": 1,
+    "ReplaceType": true,
+    "ReplaceMode": true
+  },
+  "631027030": {
+    "Id": 631027030,
+    "Effects": [
+      631027030
+    ],
+    "Time": -10000,
+    "LaminatedNum": 1,
+    "Num": 1,
+    "TimeSuperposition": 2,
+    "Timing": 1,
+    "ReplaceType": true,
+    "ReplaceMode": true
+  },
+  "631028010": {
+    "Id": 631028010,
+    "Effects": [
+      631028010
+    ],
+    "Time": 150000,
+    "LaminatedNum": 4,
+    "Num": 1,
+    "TimeSuperposition": 2,
+    "Timing": 1,
+    "ReplaceType": true,
+    "ReplaceMode": true
+  },
+  "631028020": {
+    "Id": 631028020,
+    "Effects": [
+      631028020
+    ],
+    "Time": 150000,
+    "LaminatedNum": 4,
+    "Num": 1,
+    "TimeSuperposition": 2,
+    "Timing": 1,
+    "ReplaceType": true,
+    "ReplaceMode": true
+  },
   "100090310": {
     "Id": 100090310,
     "Sort": 99,

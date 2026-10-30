@@ -663,14 +663,11 @@
   },
   "521": {
     "Id": 521,
-    "GuideDetectionType": 1,
-    "GuidePrepose": 1,
-    "PreposeParams": "[24]",
-    "GuidePrepose2": 4,
-    "PreposeParams2": "[35]",
-    "GuideTrigger": 3,
-    "TriggerParams": "[10]",
-    "TowerState": true,
+    "GuideDetectionType": 2,
+    "PassiveMsg": "Guide_DormEnter",
+    "GuidePrepose": 4,
+    "PreposeParams": "[35]",
+    "GuideTrigger": 4,
     "ScriptPath": "GuideGroup_521",
     "IsActive": true
   },
@@ -683,7 +680,6 @@
     "GuidePrepose2": 8,
     "PreposeParams2": "[500010]",
     "GuideTrigger": 4,
-    "TowerState": true,
     "ScriptPath": "GuideGroup_522",
     "IsActive": true
   },
@@ -696,7 +692,6 @@
     "GuidePrepose2": 8,
     "PreposeParams2": "[500011]",
     "GuideTrigger": 4,
-    "TowerState": true,
     "ScriptPath": "GuideGroup_523",
     "IsActive": true
   },
@@ -709,7 +704,6 @@
     "GuidePrepose2": 8,
     "PreposeParams2": "[500012]",
     "GuideTrigger": 4,
-    "TowerState": true,
     "ScriptPath": "GuideGroup_524",
     "IsActive": true
   },
@@ -722,7 +716,6 @@
     "GuidePrepose2": 8,
     "PreposeParams2": "[500013]",
     "GuideTrigger": 4,
-    "TowerState": true,
     "ScriptPath": "GuideGroup_525",
     "IsActive": true
   },
@@ -735,7 +728,6 @@
     "GuidePrepose2": 9,
     "PreposeParams2": "[50001]",
     "GuideTrigger": 4,
-    "TowerState": true,
     "ScriptPath": "GuideGroup_526",
     "IsActive": true
   },
@@ -748,7 +740,6 @@
     "GuidePrepose2": 9,
     "PreposeParams2": "[50002]",
     "GuideTrigger": 4,
-    "TowerState": true,
     "ScriptPath": "GuideGroup_527",
     "IsActive": true
   },
@@ -759,7 +750,6 @@
     "GuidePrepose": 1,
     "PreposeParams": "[527]",
     "GuideTrigger": 4,
-    "TowerState": true,
     "ScriptPath": "GuideGroup_528",
     "IsActive": true
   }
