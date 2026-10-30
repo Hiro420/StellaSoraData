@@ -2693,6 +2693,36 @@
     "EffectScaleValue": 10000,
     "TrialGroup": 14403
   },
+  "14404": {
+    "Id": 14404,
+    "Name": "CharacterSkin.14404.1",
+    "Desc": "CharacterSkin.14404.2",
+    "CharId": 144,
+    "Type": 3,
+    "SourceDesc": 7,
+    "SkinExtraTag": [
+      4
+    ],
+    "Transform": "{\"1\":100}",
+    "WalkAnimationSpd": 22500,
+    "RunAnimationSpd": 50000,
+    "SpRunAnimationSpd": 72500,
+    "ModelScale": 12500,
+    "ColliderScale": 10000,
+    "ModelShowScale": 10000,
+    "ModelEndScale": 10000,
+    "Icon": "Icon/Head/head_14404",
+    "Portrait": "Actor2D/Character/14404/14404_a.spriteatlas",
+    "Bg": "Image/CharBg/tanikaze_court_night_snow",
+    "Offset": "Actor2D/Character/14404/14404.asset",
+    "L2D": "Actor2D/Character/14404/14404_L.prefab",
+    "CharacterCG": 14401,
+    "Model": "Actor/Character/14401/14401_Actor",
+    "Model_Show": "Actor/Character/14401/Timeline/14401_Ready",
+    "Model_End": "Actor/Character/14401/Timeline/14401_Victory",
+    "GachaL2D": "Actor2D/Character/14401/14401_LF.prefab",
+    "EffectScaleValue": 10000
+  },
   "14501": {
     "Id": 14501,
     "Name": "CharacterSkin.14501.1",

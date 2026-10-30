@@ -2039,8 +2039,7 @@
   "12751311": {
     "Id": 12751311,
     "GroupId": 12751311,
-    "BuffTag1": 943565682,
-    "NotRemove": true
+    "BuffTag1": 943565682
   },
   "12752111": {
     "Id": 12752111,
@@ -2485,8 +2484,7 @@
     "GroupId": 14433011,
     "BuffTag1": 943565682,
     "Icon": "Icon/Buff/Icon_CommonBuff_AttackUp",
-    "IsShow": true,
-    "NotRemove": true
+    "IsShow": true
   },
   "14496111": {
     "Id": 14496111,
@@ -4274,8 +4272,7 @@
   },
   "16212011": {
     "Id": 16212011,
-    "GroupId": 16212011,
-    "NotRemove": true
+    "GroupId": 16212011
   },
   "16225011": {
     "Id": 16225011,
@@ -4308,8 +4305,7 @@
     "Id": 16231011,
     "GroupId": 16231011,
     "Icon": "Icon/Buff/Icon_CommonBuff_AttackUp",
-    "IsShow": true,
-    "NotRemove": true
+    "IsShow": true
   },
   "16232011": {
     "Id": 16232011,
@@ -8316,6 +8312,47 @@
     "Id": 631025050,
     "GroupId": 631025050,
     "Icon": "Icon/Buff/Icon_CommonBuff_DefenseDown",
+    "IsShow": true,
+    "BuffNumEffectLevel": [
+      0
+    ]
+  },
+  "631027010": {
+    "Id": 631027010,
+    "GroupId": 631027010,
+    "Icon": "Icon/Buff/Icon_CommonBuff_SkillDamageDown",
+    "IsShow": true,
+    "BuffNumEffectLevel": [
+      0
+    ]
+  },
+  "631027020": {
+    "Id": 631027020,
+    "GroupId": 631027020,
+    "BuffNumEffectLevel": [
+      0
+    ]
+  },
+  "631027030": {
+    "Id": 631027030,
+    "GroupId": 631027030,
+    "BuffNumEffectLevel": [
+      0
+    ]
+  },
+  "631028010": {
+    "Id": 631028010,
+    "GroupId": 631028010,
+    "Icon": "Icon/Buff/Icon_CommonBuff_MarkDamageDown",
+    "IsShow": true,
+    "BuffNumEffectLevel": [
+      0
+    ]
+  },
+  "631028020": {
+    "Id": 631028020,
+    "GroupId": 631028020,
+    "Icon": "Icon/Buff/Icon_CommonBuff_SkillDamageDown",
     "IsShow": true,
     "BuffNumEffectLevel": [
       0
