@@ -436,5 +436,42 @@
       199006
     ],
     "OutfitPackageShowItem": 86005
+  },
+  "12": {
+    "ID": 13,
+    "Name": "S13",
+    "StartTime": "2026-11-01T04:00:00+08:00",
+    "EndTime": "2026-11-30T03:59:59+08:00",
+    "LuxuryProductId": "battlepass.98",
+    "LuxuryPrice": 19000,
+    "LuxuryShowPrice": "₩ 19,000",
+    "LuxuryBonusLevel": 10,
+    "LuxuryTid": 101029,
+    "LuxuryQty": 1,
+    "PremiumProductId": "battlepass.58",
+    "PremiumPrice": 11000,
+    "PremiumShowPrice": "₩ 11,000",
+    "ComplementaryProductId": "battlepass.50",
+    "ComplementaryPrice": 9900,
+    "ComplementaryShowPrice": "₩ 9,900",
+    "ComplementaryTid": 101030,
+    "ComplementaryQty": 1,
+    "OriginShowPrice": "₩ 20,900",
+    "CoverColor": "#3481e1",
+    "Cover": 14404,
+    "PremiumShowItems": [
+      199000,
+      199001,
+      199020,
+      199002,
+      199003,
+      199007
+    ],
+    "LuxuryShowItems": [
+      199031,
+      199032,
+      199006
+    ],
+    "OutfitPackageShowItem": 86005
   }
 }
