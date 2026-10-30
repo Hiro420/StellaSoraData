@@ -1555,25 +1555,25 @@
       "STm10001_13"
     ]
   },
-  "1116": {
-    "Id": 1116,
-    "ConditionId": "Cm10001_BT02",
-    "StoryId_a": [
-      "STm10001_14"
-    ]
-  },
   "1117": {
     "Id": 1117,
     "ConditionId": "Cm10001_15",
     "StoryId_a": [
-      "BAm10001_BT02"
+      "STm10001_14"
+    ]
+  },
+  "1116": {
+    "Id": 1116,
+    "ConditionId": "Cm10001_BT02",
+    "StoryId_a": [
+      "STm10001_15"
     ]
   },
   "1118": {
     "Id": 1118,
     "ConditionId": "Cm10001_16",
     "StoryId_a": [
-      "STm10001_15"
+      "BAm10001_BT02"
     ]
   },
   "1119": {
@@ -1613,9 +1613,16 @@
   },
   "1124": {
     "Id": 1124,
-    "ConditionId": "Cm10001_ED",
+    "ConditionId": "Cm10001_21",
     "StoryId_a": [
       "STm10001_20"
+    ]
+  },
+  "1125": {
+    "Id": 1125,
+    "ConditionId": "Cm10001_ED",
+    "StoryId_a": [
+      "STm10001_21"
     ]
   },
   "6501": {

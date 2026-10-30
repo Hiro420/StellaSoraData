@@ -28074,6 +28074,32 @@
     "UseArgs": "{\"101028\":1}",
     "Icon": "Icon/Item/item_22"
   },
+  "101029": {
+    "Id": 101029,
+    "Title": "Item.101029.1",
+    "Desc": "Item.101029.2",
+    "Literary": "Item.101029.3",
+    "Type": 2,
+    "Stype": 2,
+    "Rarity": 3,
+    "UseMode": 2,
+    "UseAction": 1,
+    "UseArgs": "{\"101029\":1}",
+    "Icon": "Icon/Item/item_22"
+  },
+  "101030": {
+    "Id": 101030,
+    "Title": "Item.101030.1",
+    "Desc": "Item.101030.2",
+    "Literary": "Item.101030.3",
+    "Type": 2,
+    "Stype": 2,
+    "Rarity": 3,
+    "UseMode": 2,
+    "UseAction": 1,
+    "UseArgs": "{\"101030\":1}",
+    "Icon": "Icon/Item/item_22"
+  },
   "199000": {
     "Id": 199000,
     "Title": "Item.199000.1",
@@ -28383,6 +28409,26 @@
     "Stype": 2,
     "Rarity": 1,
     "Icon": "Icon/PlayerHead/playerhead_130012_XXL"
+  },
+  "199031": {
+    "Id": 199031,
+    "Title": "Item.199031.1",
+    "Desc": "Item.199031.2",
+    "Literary": "Item.199031.3",
+    "Type": 2,
+    "Stype": 2,
+    "Rarity": 1,
+    "Icon": "Icon/Head/head_14404_XXL"
+  },
+  "199032": {
+    "Id": 199032,
+    "Title": "Item.199032.1",
+    "Desc": "Item.199032.2",
+    "Literary": "Item.199032.3",
+    "Type": 2,
+    "Stype": 2,
+    "Rarity": 1,
+    "Icon": "Icon/PlayerHead/playerhead_130013_XXL"
   },
   "111001": {
     "Id": 111001,
@@ -30709,6 +30755,18 @@
     "DisHaving": true,
     "Icon": "Icon/PlayerHead/playerhead_130012_XXL"
   },
+  "130013": {
+    "Id": 130013,
+    "Title": "Item.130013.1",
+    "Desc": "Item.130013.2",
+    "Literary": "Item.130013.3",
+    "Type": 14,
+    "Stype": 45,
+    "Rarity": 2,
+    "Display": true,
+    "DisHaving": true,
+    "Icon": "Icon/PlayerHead/playerhead_130013_XXL"
+  },
   "131001": {
     "Id": 131001,
     "Title": "Item.131001.1",
@@ -32424,6 +32482,17 @@
     "Rarity": 1,
     "DisHaving": true,
     "Icon": "Icon/Head/head_14403_XXL"
+  },
+  "14404": {
+    "Id": 14404,
+    "Title": "Item.14404.1",
+    "Desc": "Item.14404.2",
+    "Literary": "Item.14404.3",
+    "Type": 10,
+    "Stype": 46,
+    "Rarity": 1,
+    "DisHaving": true,
+    "Icon": "Icon/Head/head_14404_XXL"
   },
   "14501": {
     "Id": 14501,

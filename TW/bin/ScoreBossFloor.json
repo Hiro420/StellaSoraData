@@ -240,5 +240,21 @@
     "Theme": 105,
     "BGM": "roguelike_combatShasha_setState",
     "LeaveTriggerEvent": "amb_roguelike_all_stop"
+  },
+  "1001032": {
+    "Id": 1001032,
+    "SceneName": "Levels/Roguelike/Roguelike_3/Roguelike_3_Boss_001",
+    "ConfigPrefabName": "RegionBoss_DaGuanZi_BossRush_13",
+    "Theme": 106,
+    "BGM": "roguelike_combatGuanzi_setState",
+    "LeaveTriggerEvent": "amb_roguelike_all_stop"
+  },
+  "1001033": {
+    "Id": 1001033,
+    "SceneName": "Levels/Main/Company/Company_Main_6_2",
+    "ConfigPrefabName": "RegionBoss_FengCao_BossRush_13",
+    "Theme": 14,
+    "BGM": "fengCao_combatBoss_setState",
+    "LeaveTriggerEvent": "amb_city_all_stop"
   }
 }
