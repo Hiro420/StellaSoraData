@@ -21650,8 +21650,11 @@
     "Desc": "Item.516.2",
     "Literary": "Item.516.3",
     "Type": 2,
-    "Stype": 2,
+    "Stype": 32,
     "Rarity": 1,
+    "UseMode": 1,
+    "UseAction": 3,
+    "UseArgs": "{\"503\":1}",
     "Display": true,
     "Icon": "Icon/Item/item_515",
     "Icon2": "Icon/ZZZOther/item_515_small"
@@ -23845,6 +23848,17 @@
     "DisHaving": true,
     "Icon": "Icon/Item/item_70001"
   },
+  "71027": {
+    "Id": 71027,
+    "Title": "Item.71027.1",
+    "Desc": "Item.71027.2",
+    "Literary": "Item.71027.3",
+    "Type": 12,
+    "Stype": 2,
+    "Rarity": 2,
+    "DisHaving": true,
+    "Icon": "Icon/Item/item_70001"
+  },
   "71028": {
     "Id": 71028,
     "Title": "Item.71028.1",
@@ -24147,6 +24161,17 @@
     "Title": "Item.72026.1",
     "Desc": "Item.72026.2",
     "Literary": "Item.72026.3",
+    "Type": 12,
+    "Stype": 2,
+    "Rarity": 2,
+    "DisHaving": true,
+    "Icon": "Icon/Item/item_70001"
+  },
+  "72027": {
+    "Id": 72027,
+    "Title": "Item.72027.1",
+    "Desc": "Item.72027.2",
+    "Literary": "Item.72027.3",
     "Type": 12,
     "Stype": 2,
     "Rarity": 2,

@@ -224,6 +224,21 @@
     "EndTime": "2026-11-10T03:59:59+08:00",
     "TabBgRes": "Icon/Banner/tab_activity_103001_lang"
   },
+  "103012": {
+    "Id": 103012,
+    "SortId": 5,
+    "ActivityType": 21,
+    "Name": "紧急悬赏（短期3天 临时插入）",
+    "PreLimit": 1,
+    "LimitParam": "3",
+    "PlayCond": 1,
+    "PlayCondParams": "3",
+    "StartType": 2,
+    "StartTime": "2026-11-10T04:00:00+08:00",
+    "EndType": 2,
+    "EndTime": "2026-11-13T03:59:59+08:00",
+    "TabBgRes": "Icon/Banner/tab_activity_103001_lang"
+  },
   "301001": {
     "Id": 301001,
     "SortId": 3,
@@ -444,6 +459,21 @@
     "TabBgRes": "Icon/Banner/tab_activity_301053_lang",
     "EntranceId": 1001
   },
+  "301054": {
+    "Id": 301054,
+    "SortId": 6,
+    "ActivityType": 2,
+    "Name": "星途一载 · 特别致谢纪念签到活动",
+    "PreLimit": 1,
+    "LimitParam": "2",
+    "PlayCond": 1,
+    "PlayCondParams": "2",
+    "StartType": 2,
+    "StartTime": "2026-11-10T11:00:00+08:00",
+    "EndType": 2,
+    "EndTime": "2026-12-04T10:59:59+08:00",
+    "TabBgRes": "Icon/Banner/tab_activity_301054_lang"
+  },
   "302001": {
     "Id": 302001,
     "SortId": 1,
@@ -663,6 +693,37 @@
     "EndTime": "2026-11-10T10:59:59+08:00",
     "TabBgRes": "Icon/Banner/tab_activity_201018_lang",
     "EntranceId": 1001
+  },
+  "201021": {
+    "Id": 201021,
+    "SortId": 14,
+    "ActivityType": 13,
+    "Name": "一周年过去篇尘沙主线",
+    "SpecialParam": "ShowInMainUI",
+    "PreLimit": 1,
+    "LimitParam": "5",
+    "PlayCond": 1,
+    "PlayCondParams": "5",
+    "StartType": 2,
+    "StartTime": "2026-11-10T11:00:00+08:00",
+    "EndType": 2,
+    "EndTime": "2026-12-04T10:59:59+08:00",
+    "TabBgRes": "Icon/Banner/tab_activity_201021_lang"
+  },
+  "201022": {
+    "Id": 201022,
+    "SortId": 13,
+    "ActivityType": 13,
+    "Name": "心危盛典",
+    "PreLimit": 1,
+    "LimitParam": "3",
+    "PlayCond": 1,
+    "PlayCondParams": "4",
+    "StartType": 2,
+    "StartTime": "2026-11-10T11:00:00+08:00",
+    "EndType": 2,
+    "EndTime": "2026-11-13T10:59:59+08:00",
+    "TabBgRes": "Icon/Banner/tab_activity_infinitytower"
   },
   "400000": {
     "Id": 400000,
@@ -1098,6 +1159,22 @@
     "StartTime": "2026-11-03T12:00:00+08:00",
     "EndType": 2,
     "EndTime": "2026-11-10T11:00:00+08:00",
+    "BannerRes": "banner_activity_05",
+    "TabBgRes": "Icon/Banner/tab_activity_05"
+  },
+  "500013": {
+    "Id": 500013,
+    "SortId": 6,
+    "ActivityType": 14,
+    "Name": "BD兑换活动",
+    "PreLimit": 1,
+    "LimitParam": "10",
+    "PlayCond": 1,
+    "PlayCondParams": "10",
+    "StartType": 2,
+    "StartTime": "2026-11-10T12:00:00+08:00",
+    "EndType": 2,
+    "EndTime": "2026-11-17T11:00:00+08:00",
     "BannerRes": "banner_activity_05",
     "TabBgRes": "Icon/Banner/tab_activity_05"
   },

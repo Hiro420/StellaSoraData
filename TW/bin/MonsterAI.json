@@ -12065,6 +12065,26 @@
     "DieSkillId": 7201591,
     "ActionAIPath": "AIScript.Monster._73001KuiLeiShi_Mainline.Action_JiGuangQiuPatrol"
   },
+  "7201381": {
+    "Id": 7201381,
+    "ComboGroupPath": "Monster/72014RenOu_Shiti/Combo/Maline10_1/ComboGroup",
+    "SpawnShowSkillId": 7201499,
+    "DieSkillId": 7201498,
+    "ActionAIPath": "AIScript.Monster._72014KuiLeiShiTi.Action"
+  },
+  "7201382": {
+    "Id": 7201382,
+    "ComboGroupPath": "Monster/72014RenOu_Shiti/Combo/Maline10_1/ComboGroup",
+    "SpawnShowSkillId": 7201609,
+    "DieSkillId": 9999990
+  },
+  "7201383": {
+    "Id": 7201383,
+    "ComboGroupPath": "Monster/72014RenOu_Shiti/Combo/Maline10_1/ComboGroup",
+    "SpawnShowSkillId": 7201590,
+    "DieSkillId": 7201498,
+    "ActionAIPath": "AIScript.Monster._72014KuiLeiShiTi.Action"
+  },
   "7006101": {
     "Id": 7006101,
     "ComboGroupPath": "Monster/70061WuYu/Combo/WuYu/ComboGroup",
@@ -12152,6 +12172,14 @@
     "ActionAIPath": "AIScript.Monster._72015KuiLeiBiaoQiang.Action_Activity",
     "ThinkInterval": 2000
   },
+  "7201502": {
+    "Id": 7201502,
+    "ComboGroupPath": "Monster/72015RenOu_BiaoQiang/Combo/ComboGroup",
+    "SpawnShowSkillId": 9999989,
+    "DieSkillId": 9999990,
+    "ActionAIPath": "AIScript.Monster._72015KuiLeiBiaoQiang.Action",
+    "ThinkInterval": 2000
+  },
   "7201503": {
     "Id": 7201503,
     "ComboGroupPath": "Monster/72015RenOu_BiaoQiang/Combo/ComboGroup",
@@ -12168,12 +12196,28 @@
     "ActionAIPath": "AIScript.Monster._72015KuiLeiBiaoQiang.Action_Activity",
     "ThinkInterval": 2000
   },
+  "7201505": {
+    "Id": 7201505,
+    "ComboGroupPath": "Monster/72015RenOu_BiaoQiang/Combo/ComboGroup",
+    "SpawnShowSkillId": 7201590,
+    "DieSkillId": 9999990,
+    "ActionAIPath": "AIScript.Monster._72015KuiLeiBiaoQiang.Action",
+    "ThinkInterval": 2000
+  },
   "7201601": {
     "Id": 7201601,
     "ComboGroupPath": "Monster/72016RenOu_JuNu/Combo/ComboGroup",
     "SpawnShowSkillId": 9999989,
     "DieSkillId": 9999990,
     "ActionAIPath": "AIScript.Monster._72016KuiLeiJuNu.Action_Activity",
+    "ThinkInterval": 2000
+  },
+  "7201602": {
+    "Id": 7201602,
+    "ComboGroupPath": "Monster/72016RenOu_JuNu/Combo/ComboGroup",
+    "SpawnShowSkillId": 9999989,
+    "DieSkillId": 9999990,
+    "ActionAIPath": "AIScript.Monster._72016KuiLeiJuNu.Action",
     "ThinkInterval": 2000
   },
   "7201603": {
@@ -12190,6 +12234,22 @@
     "SpawnShowSkillId": 7201590,
     "DieSkillId": 9999990,
     "ActionAIPath": "AIScript.Monster._72016KuiLeiJuNu.Action_Activity",
+    "ThinkInterval": 2000
+  },
+  "7201605": {
+    "Id": 7201605,
+    "ComboGroupPath": "Monster/72016RenOu_JuNu/Combo/ComboGroup",
+    "SpawnShowSkillId": 9999989,
+    "DieSkillId": 9999990,
+    "ActionAIPath": "AIScript.Monster._72016KuiLeiJuNu.Action_10_2KeepShooting",
+    "ThinkInterval": 2000
+  },
+  "7201606": {
+    "Id": 7201606,
+    "ComboGroupPath": "Monster/72016RenOu_JuNu/Combo/ComboGroup",
+    "SpawnShowSkillId": 7201590,
+    "DieSkillId": 9999990,
+    "ActionAIPath": "AIScript.Monster._72016KuiLeiJuNu.Action",
     "ThinkInterval": 2000
   },
   "9000201": {

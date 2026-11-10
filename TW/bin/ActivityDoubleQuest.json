@@ -376,5 +376,32 @@
     "QuestParams": "[1200]",
     "ItemId": 82007,
     "ItemQty": 60
+  },
+  "112001": {
+    "Id": 112001,
+    "ActivityId": 103012,
+    "Desc": "ActivityDoubleQuest.112001.1",
+    "QuestType": 39,
+    "QuestParams": "[200]",
+    "ItemId": 1,
+    "ItemQty": 60000
+  },
+  "112002": {
+    "Id": 112002,
+    "ActivityId": 103012,
+    "Desc": "ActivityDoubleQuest.112002.1",
+    "QuestType": 39,
+    "QuestParams": "[300]",
+    "ItemId": 32000,
+    "ItemQty": 25
+  },
+  "112003": {
+    "Id": 112003,
+    "ActivityId": 103012,
+    "Desc": "ActivityDoubleQuest.112003.1",
+    "QuestType": 39,
+    "QuestParams": "[400]",
+    "ItemId": 82007,
+    "ItemQty": 60
   }
 }

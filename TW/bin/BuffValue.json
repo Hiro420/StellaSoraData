@@ -22731,6 +22731,39 @@
     "ReplaceType": true,
     "ReplaceMode": true
   },
+  "720140110": {
+    "Id": 720140110,
+    "Time": 200000,
+    "LaminatedNum": 1,
+    "Num": 1,
+    "TimeSuperposition": 2,
+    "Timing": 2,
+    "ReplaceType": true,
+    "ReplaceMode": true
+  },
+  "720140120": {
+    "Id": 720140120,
+    "Time": 150000,
+    "LaminatedNum": 1,
+    "Num": 1,
+    "TimeSuperposition": 2,
+    "Timing": 2,
+    "ReplaceType": true,
+    "ReplaceMode": true
+  },
+  "720140130": {
+    "Id": 720140130,
+    "Effects": [
+      720140130
+    ],
+    "Time": 100000,
+    "LaminatedNum": 1,
+    "Num": 1,
+    "TimeSuperposition": 2,
+    "Timing": 1,
+    "ReplaceType": true,
+    "ReplaceMode": true
+  },
   "720140140": {
     "Id": 720140140,
     "Effects": [

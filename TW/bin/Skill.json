@@ -21969,6 +21969,39 @@
     "Desc": "Skill.7201377.2",
     "MaxLevel": 1
   },
+  "7201381": {
+    "Id": 7201381,
+    "Title": "Skill.7201381.1",
+    "FCPath": "AIScript.Monster._72014KuiLeiShiTi.Skill_PaiDi",
+    "Type": 2,
+    "BriefDesc": "Skill.7201381.13",
+    "Desc": "Skill.7201381.2",
+    "MaxLevel": 1
+  },
+  "7201382": {
+    "Id": 7201382,
+    "Title": "Skill.7201382.1",
+    "FCPath": "AIScript.Monster._72014KuiLeiShiTi.Skill_QiangHuaBiaoQiang",
+    "Type": 2,
+    "BriefDesc": "Skill.7201382.13",
+    "Desc": "Skill.7201382.2"
+  },
+  "7201383": {
+    "Id": 7201383,
+    "Title": "Skill.7201383.1",
+    "FCPath": "AIScript.Monster._72014KuiLeiShiTi.Skill_QiangHuaJuNu",
+    "Type": 2,
+    "BriefDesc": "Skill.7201383.13",
+    "Desc": "Skill.7201383.2"
+  },
+  "7201384": {
+    "Id": 7201384,
+    "Title": "Skill.7201384.1",
+    "FCPath": "AIScript.Monster._72014KuiLeiShiTi.Skill_QuanTiQiangHua",
+    "Type": 2,
+    "BriefDesc": "Skill.7201384.13",
+    "Desc": "Skill.7201384.2"
+  },
   "7006110": {
     "Id": 7006110,
     "Title": "Skill.7006110.1",
@@ -22365,6 +22398,24 @@
     "Desc": "Skill.7201503.2",
     "MaxLevel": 1
   },
+  "7201504": {
+    "Id": 7201504,
+    "Title": "Skill.7201504.1",
+    "FCPath": "AIScript.Monster._72015KuiLeiBiaoQiang.Skill_FeiYueLianZhan",
+    "Type": 2,
+    "BriefDesc": "Skill.7201504.13",
+    "Desc": "Skill.7201504.2",
+    "MaxLevel": 1
+  },
+  "7201505": {
+    "Id": 7201505,
+    "Title": "Skill.7201505.1",
+    "FCPath": "AIScript.Monster._72015KuiLeiBiaoQiang.Skill_QiangHua_BiaoQiang",
+    "Type": 2,
+    "BriefDesc": "Skill.7201505.13",
+    "Desc": "Skill.7201505.2",
+    "MaxLevel": 1
+  },
   "7201590": {
     "Id": 7201590,
     "Title": "Skill.7201590.1",
@@ -22426,6 +22477,51 @@
     "Type": 2,
     "BriefDesc": "Skill.7201605.13",
     "Desc": "Skill.7201605.2",
+    "MaxLevel": 1
+  },
+  "7201606": {
+    "Id": 7201606,
+    "Title": "Skill.7201606.1",
+    "FCPath": "AIScript.Monster._72016KuiLeiJuNu.Skill_SiXianLianShe",
+    "Type": 2,
+    "BriefDesc": "Skill.7201606.13",
+    "Desc": "Skill.7201606.2",
+    "MaxLevel": 1
+  },
+  "7201607": {
+    "Id": 7201607,
+    "Title": "Skill.7201607.1",
+    "FCPath": "AIScript.Monster._72016KuiLeiJuNu.Skill_QiangHua_JuNu",
+    "Type": 2,
+    "BriefDesc": "Skill.7201607.13",
+    "Desc": "Skill.7201607.2",
+    "MaxLevel": 1
+  },
+  "7201608": {
+    "Id": 7201608,
+    "Title": "Skill.7201608.1",
+    "FCPath": "AIScript.Monster._72016KuiLeiJuNu.Skill_BaoZhaXianJing_MiniBoss",
+    "Type": 2,
+    "BriefDesc": "Skill.7201608.13",
+    "Desc": "Skill.7201608.2",
+    "MaxLevel": 1
+  },
+  "7201609": {
+    "Id": 7201609,
+    "Title": "Skill.7201609.1",
+    "FCPath": "AIScript.Monster._72016KuiLeiJuNu.Skill_Lifecycle_BaoZhaXianJing",
+    "Type": 2,
+    "BriefDesc": "Skill.7201609.13",
+    "Desc": "Skill.7201609.2",
+    "MaxLevel": 1
+  },
+  "7201610": {
+    "Id": 7201610,
+    "Title": "Skill.7201610.1",
+    "FCPath": "AIScript.Monster._72016KuiLeiJuNu.Skill_HouTui",
+    "Type": 2,
+    "BriefDesc": "Skill.7201610.13",
+    "Desc": "Skill.7201610.2",
     "MaxLevel": 1
   },
   "9000201": {

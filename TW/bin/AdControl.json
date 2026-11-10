@@ -155,5 +155,22 @@
     "IncludeAct": [
       302001
     ]
+  },
+  "201021": {
+    "Id": 201021,
+    "UIAssets": "_201021/mainLineStory_act_02",
+    "CtrlName": "MainLineStoryActCtrl",
+    "StartTime": "2026-11-10T11:00:00+08:00",
+    "JumpTo": [
+      5006
+    ]
+  },
+  "201022": {
+    "Id": 201022,
+    "UIAssets": "Advertise/infinityTower_act_01",
+    "CtrlName": "InfinityTowerActCtrl",
+    "JumpTo": [
+      42
+    ]
   }
 }
