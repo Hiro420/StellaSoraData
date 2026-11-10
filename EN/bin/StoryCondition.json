@@ -1592,23 +1592,23 @@
   },
   "1121": {
     "Id": 1121,
-    "ConditionId": "Cm10001_BT03",
+    "ConditionId": "Cm10001_19",
     "StoryId_a": [
       "STm10001_18"
     ]
   },
   "1122": {
     "Id": 1122,
-    "ConditionId": "Cm10001_19",
+    "ConditionId": "Cm10001_BT03",
     "StoryId_a": [
-      "BAm10001_BT03"
+      "STm10001_19"
     ]
   },
   "1123": {
     "Id": 1123,
     "ConditionId": "Cm10001_20",
     "StoryId_a": [
-      "STm10001_19"
+      "BAm10001_BT03"
     ]
   },
   "1124": {
