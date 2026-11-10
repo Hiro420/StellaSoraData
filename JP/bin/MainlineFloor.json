@@ -583,6 +583,16 @@
     "LeaveTriggerEvent": "amb_forest_all_stop",
     "MonsterLv": 6
   },
+  "1100201": {
+    "Id": 1100201,
+    "SceneName": "Levels/Main/Ruin/Ruin_Main_10_2",
+    "ConfigPrefabName": "Ruin_Main_10_2",
+    "Theme": 31,
+    "BGM": "prologue_combatNormal_setState",
+    "LeaveTriggerEvent": "amb_prologue_all_stop",
+    "MonsterLv": 6,
+    "LevelScript": "AIScript.LevelAndGroupController.Level.MiniBossRenOuLevelController"
+  },
   "1100301": {
     "Id": 1100301,
     "SceneName": "Levels/JointDrill/JointDrill_03/JointDrill_03",
