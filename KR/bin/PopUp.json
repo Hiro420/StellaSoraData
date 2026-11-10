@@ -806,5 +806,15 @@
     "StartCondParams": [
       1
     ]
+  },
+  "2031": {
+    "Id": 2031,
+    "SortId": 3011,
+    "PopUpType": 1,
+    "ActivityId": 103012,
+    "PopUpRes": "UI_Activity/_103001/PopUp",
+    "ScriptName": "ActivityPopUp.ActivityDoubleDrop_103001PopUpCtrl",
+    "PopRefreshType": 2,
+    "PopJumpType": 2
   }
 }
