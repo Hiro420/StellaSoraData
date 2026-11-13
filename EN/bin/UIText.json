@@ -3395,6 +3395,10 @@
     "Id": "Soldier_Result_Recommend_Tips",
     "Text": "UIText.Soldier_Result_Recommend_Tips.1"
   },
+  "Soldier_Recommend_AlreadyCollected": {
+    "Id": "Soldier_Recommend_AlreadyCollected",
+    "Text": "UIText.Soldier_Recommend_AlreadyCollected.1"
+  },
   "AutoDecision_DefualtPresetName": {
     "Id": "AutoDecision_DefualtPresetName",
     "Text": "UIText.AutoDecision_DefualtPresetName.1"
@@ -18243,9 +18247,49 @@
     "Id": "Guide_Mission_NotOpen",
     "Text": "UIText.Guide_Mission_NotOpen.1"
   },
+  "ActivityNew_Remain_Time_Day": {
+    "Id": "ActivityNew_Remain_Time_Day",
+    "Text": "UIText.ActivityNew_Remain_Time_Day.1"
+  },
+  "ActivityNew_Remain_Time_Hour": {
+    "Id": "ActivityNew_Remain_Time_Hour",
+    "Text": "UIText.ActivityNew_Remain_Time_Hour.1"
+  },
+  "ActivityNew_Remain_Time_Min": {
+    "Id": "ActivityNew_Remain_Time_Min",
+    "Text": "UIText.ActivityNew_Remain_Time_Min.1"
+  },
+  "ActivityNew_Remain_Time_Sec": {
+    "Id": "ActivityNew_Remain_Time_Sec",
+    "Text": "UIText.ActivityNew_Remain_Time_Sec.1"
+  },
+  "BuildDetail_Dislike1": {
+    "Id": "BuildDetail_Dislike1",
+    "Text": "UIText.BuildDetail_Dislike1.1"
+  },
+  "BuildDetail_Dislike2": {
+    "Id": "BuildDetail_Dislike2",
+    "Text": "UIText.BuildDetail_Dislike2.1"
+  },
+  "RoguelikeBuild_Manage_DD_Unlock": {
+    "Id": "RoguelikeBuild_Manage_DD_Unlock",
+    "Text": "UIText.RoguelikeBuild_Manage_DD_Unlock.1"
+  },
+  "RoguelikeBuild_Manage_DD_Dislike": {
+    "Id": "RoguelikeBuild_Manage_DD_Dislike",
+    "Text": "UIText.RoguelikeBuild_Manage_DD_Dislike.1"
+  },
+  "Build_UnableDislike": {
+    "Id": "Build_UnableDislike",
+    "Text": "UIText.Build_UnableDislike.1"
+  },
   "MainView_MainStoryPreview": {
     "Id": "MainView_MainStoryPreview",
     "Text": "UIText.MainView_MainStoryPreview.1"
+  },
+  "BuildModifier_DislikeHint": {
+    "Id": "BuildModifier_DislikeHint",
+    "Text": "UIText.BuildModifier_DislikeHint.1"
   },
   "Dorm_Default_MusicName": {
     "Id": "Dorm_Default_MusicName",

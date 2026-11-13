@@ -3926,5 +3926,276 @@
     "Theme": 481,
     "BGM": "Ruin_combatBoss_setState",
     "LeaveTriggerEvent": "amb_Ruin_all_stop"
+  },
+  "301801": {
+    "Id": 301801,
+    "MonsterLv": 1,
+    "SceneName": "Levels/StoryActivity/StoryActivity_18/StoryActivity_18_001_A_01",
+    "ConfigPrefabName": "StoryActivity_18_001_A_N1",
+    "Theme": 486,
+    "BGM": "forest_explore_setState",
+    "LeaveTriggerEvent": "amb_forest_all_stop",
+    "LevelScript": "AIScript.LevelAndGroupController.Level.DcValueActivity_LevelController"
+  },
+  "301802": {
+    "Id": 301802,
+    "MonsterLv": 2,
+    "SceneName": "Levels/StoryActivity/StoryActivity_18/StoryActivity_18_009_A_01",
+    "ConfigPrefabName": "StoryActivity_18_009_A_N2",
+    "Theme": 486,
+    "BGM": "forest_explore_setState",
+    "LeaveTriggerEvent": "amb_forest_all_stop",
+    "LevelScript": "AIScript.LevelAndGroupController.Level.DcValueActivity_LevelController"
+  },
+  "301803": {
+    "Id": 301803,
+    "MonsterLv": 3,
+    "SceneName": "Levels/StoryActivity/StoryActivity_18/StoryActivity_18_010_B_01",
+    "ConfigPrefabName": "StoryActivity_18_010_B_N3",
+    "Theme": 486,
+    "BGM": "forest_explore_setState",
+    "LeaveTriggerEvent": "amb_forest_all_stop",
+    "LevelScript": "AIScript.LevelAndGroupController.Level.DcValueActivity_LevelController"
+  },
+  "301804": {
+    "Id": 301804,
+    "MonsterLv": 4,
+    "SceneName": "Levels/StoryActivity/StoryActivity_18/StoryActivity_18_011_A_01",
+    "ConfigPrefabName": "StoryActivity_18_011_A_N4",
+    "Theme": 486,
+    "BGM": "forest_explore_setState",
+    "LeaveTriggerEvent": "amb_forest_all_stop",
+    "LevelScript": "AIScript.LevelAndGroupController.Level.DcValueActivity_LevelController"
+  },
+  "301805": {
+    "Id": 301805,
+    "MonsterLv": 5,
+    "SceneName": "Levels/StoryActivity/StoryActivity_18/StoryActivity_18_015_A_01",
+    "ConfigPrefabName": "StoryActivity_18_015_A_N5",
+    "Theme": 486,
+    "BGM": "forest_explore_setState",
+    "LeaveTriggerEvent": "amb_forest_all_stop",
+    "LevelScript": "AIScript.LevelAndGroupController.Level.DcValueActivity_LevelController"
+  },
+  "301806": {
+    "Id": 301806,
+    "MonsterLv": 6,
+    "SceneName": "Levels/StoryActivity/StoryActivity_18/StoryActivity_18_009_A_01_Mir",
+    "ConfigPrefabName": "StoryActivity_18_009_A_Mir_N6",
+    "Mir": true,
+    "Theme": 486,
+    "BGM": "forest_explore_setState",
+    "LeaveTriggerEvent": "amb_forest_all_stop",
+    "LevelScript": "AIScript.LevelAndGroupController.Level.DcValueActivity_LevelController"
+  },
+  "301807": {
+    "Id": 301807,
+    "MonsterLv": 7,
+    "SceneName": "Levels/StoryActivity/StoryActivity_18/StoryActivity_18_001_A_01_Mir",
+    "ConfigPrefabName": "StoryActivity_18_001_A_Mir_N7",
+    "Mir": true,
+    "Theme": 486,
+    "BGM": "forest_explore_setState",
+    "LeaveTriggerEvent": "amb_forest_all_stop",
+    "LevelScript": "AIScript.LevelAndGroupController.Level.DcValueActivity_LevelController"
+  },
+  "301808": {
+    "Id": 301808,
+    "MonsterLv": 8,
+    "SceneName": "Levels/StoryActivity/StoryActivity_18/StoryActivity_18_010_B_01_Mir",
+    "ConfigPrefabName": "StoryActivity_18_010_B_Mir_N8",
+    "Mir": true,
+    "Theme": 486,
+    "BGM": "forest_explore_setState",
+    "LeaveTriggerEvent": "amb_forest_all_stop",
+    "LevelScript": "AIScript.LevelAndGroupController.Level.DcValueActivity_LevelController"
+  },
+  "301809": {
+    "Id": 301809,
+    "MonsterLv": 9,
+    "SceneName": "Levels/StoryActivity/StoryActivity_18/StoryActivity_18_015_A_01_Mir",
+    "ConfigPrefabName": "StoryActivity_18_015_A_Mir_N9",
+    "Mir": true,
+    "Theme": 486,
+    "BGM": "forest_explore_setState",
+    "LeaveTriggerEvent": "amb_forest_all_stop",
+    "LevelScript": "AIScript.LevelAndGroupController.Level.DcValueActivity_LevelController"
+  },
+  "301810": {
+    "Id": 301810,
+    "MonsterLv": 10,
+    "SceneName": "Levels/StoryActivity/StoryActivity_18/StoryActivity_18_011_A_01_Mir",
+    "ConfigPrefabName": "StoryActivity_18_011_A_Mir_N10",
+    "Mir": true,
+    "Theme": 486,
+    "BGM": "forest_explore_setState",
+    "LeaveTriggerEvent": "amb_forest_all_stop",
+    "LevelScript": "AIScript.LevelAndGroupController.Level.DcValueActivity_LevelController"
+  },
+  "301811": {
+    "Id": 301811,
+    "MonsterLv": 11,
+    "SceneName": "Levels/StoryActivity/StoryActivity_18/StoryActivity_18_009_A_01",
+    "ConfigPrefabName": "StoryActivity_18_009_A_N11",
+    "Theme": 486,
+    "BGM": "forest_explore_setState",
+    "LeaveTriggerEvent": "amb_forest_all_stop",
+    "LevelScript": "AIScript.LevelAndGroupController.Level.DcValueActivity_LevelController"
+  },
+  "301812": {
+    "Id": 301812,
+    "MonsterLv": 12,
+    "SceneName": "Levels/StoryActivity/StoryActivity_18/StoryActivity_18_Boss_A_01",
+    "ConfigPrefabName": "StoryActivity_18_Boss_A_N12",
+    "Theme": 120,
+    "BGM": "amb_10113_combatBoss_setState",
+    "LeaveTriggerEvent": "amb_10113_all_stop",
+    "IntroCutscene": "fx_m31801_base_Born_TL"
+  },
+  "301813": {
+    "Id": 301813,
+    "MonsterLv": 13,
+    "SceneName": "Levels/StoryActivity/StoryActivity_18/StoryActivity_18_010_B_01_Mir",
+    "ConfigPrefabName": "StoryActivity_18_010_B_Mir_H1",
+    "Mir": true,
+    "Theme": 486,
+    "BGM": "forest_explore_setState",
+    "LeaveTriggerEvent": "amb_forest_all_stop",
+    "LevelScript": "AIScript.LevelAndGroupController.Level.DcValueActivity_LevelController"
+  },
+  "301814": {
+    "Id": 301814,
+    "MonsterLv": 14,
+    "SceneName": "Levels/StoryActivity/StoryActivity_18/StoryActivity_18_015_A_01_Mir",
+    "ConfigPrefabName": "StoryActivity_18_015_A_Mir_H2",
+    "Mir": true,
+    "Theme": 486,
+    "BGM": "forest_explore_setState",
+    "LeaveTriggerEvent": "amb_forest_all_stop",
+    "LevelScript": "AIScript.LevelAndGroupController.Level.DcValueActivity_LevelController"
+  },
+  "301815": {
+    "Id": 301815,
+    "MonsterLv": 15,
+    "SceneName": "Levels/StoryActivity/StoryActivity_18/StoryActivity_18_009_A_01",
+    "ConfigPrefabName": "StoryActivity_18_009_A_H3",
+    "Theme": 486,
+    "BGM": "forest_explore_setState",
+    "LeaveTriggerEvent": "amb_forest_all_stop",
+    "LevelScript": "AIScript.LevelAndGroupController.Level.DcValueActivity_LevelController"
+  },
+  "301816": {
+    "Id": 301816,
+    "MonsterLv": 16,
+    "SceneName": "Levels/StoryActivity/StoryActivity_18/StoryActivity_18_011_A_01",
+    "ConfigPrefabName": "StoryActivity_18_011_A_H4",
+    "Theme": 486,
+    "BGM": "forest_explore_setState",
+    "LeaveTriggerEvent": "amb_forest_all_stop",
+    "LevelScript": "AIScript.LevelAndGroupController.Level.DcValueActivity_LevelController"
+  },
+  "301817": {
+    "Id": 301817,
+    "MonsterLv": 17,
+    "SceneName": "Levels/StoryActivity/StoryActivity_18/StoryActivity_18_001_A_01_Mir",
+    "ConfigPrefabName": "StoryActivity_18_001_A_Mir_H5",
+    "Mir": true,
+    "Theme": 486,
+    "BGM": "forest_explore_setState",
+    "LeaveTriggerEvent": "amb_forest_all_stop",
+    "LevelScript": "AIScript.LevelAndGroupController.Level.DcValueActivity_LevelController"
+  },
+  "301818": {
+    "Id": 301818,
+    "MonsterLv": 18,
+    "SceneName": "Levels/StoryActivity/StoryActivity_18/StoryActivity_18_011_A_01_Mir",
+    "ConfigPrefabName": "StoryActivity_18_011_A_Mir_H6",
+    "Mir": true,
+    "Theme": 486,
+    "BGM": "forest_explore_setState",
+    "LeaveTriggerEvent": "amb_forest_all_stop",
+    "LevelScript": "AIScript.LevelAndGroupController.Level.DcValueActivity_LevelController"
+  },
+  "301819": {
+    "Id": 301819,
+    "MonsterLv": 19,
+    "SceneName": "Levels/StoryActivity/StoryActivity_18/StoryActivity_18_015_A_01",
+    "ConfigPrefabName": "StoryActivity_18_015_A_H7",
+    "Theme": 486,
+    "BGM": "forest_explore_setState",
+    "LeaveTriggerEvent": "amb_forest_all_stop",
+    "LevelScript": "AIScript.LevelAndGroupController.Level.DcValueActivity_LevelController"
+  },
+  "301820": {
+    "Id": 301820,
+    "MonsterLv": 20,
+    "SceneName": "Levels/StoryActivity/StoryActivity_18/StoryActivity_18_Boss_A_01",
+    "ConfigPrefabName": "StoryActivity_18_Boss_A_H8",
+    "Theme": 120,
+    "BGM": "amb_10113_combatBoss_setState",
+    "LeaveTriggerEvent": "amb_10113_all_stop",
+    "IntroCutscene": "fx_m31801_base_Born_TL"
+  },
+  "301821": {
+    "Id": 301821,
+    "MonsterLv": 21,
+    "SceneName": "Levels/StoryActivity/StoryActivity_18/StoryActivity_18_001_A_01_Mir",
+    "ConfigPrefabName": "StoryActivity_18_001_A_Mir_C1",
+    "Mir": true,
+    "Theme": 486,
+    "BGM": "forest_explore_setState",
+    "LeaveTriggerEvent": "amb_forest_all_stop",
+    "LevelScript": "AIScript.LevelAndGroupController.Level.DcValueActivity_LevelController"
+  },
+  "301822": {
+    "Id": 301822,
+    "MonsterLv": 22,
+    "SceneName": "Levels/StoryActivity/StoryActivity_18/StoryActivity_18_009_A_01",
+    "ConfigPrefabName": "StoryActivity_18_009_A_C2",
+    "Theme": 486,
+    "BGM": "forest_explore_setState",
+    "LeaveTriggerEvent": "amb_forest_all_stop",
+    "LevelScript": "AIScript.LevelAndGroupController.Level.DcValueActivity_LevelController"
+  },
+  "301823": {
+    "Id": 301823,
+    "MonsterLv": 23,
+    "SceneName": "Levels/StoryActivity/StoryActivity_18/StoryActivity_18_015_A_01_Mir",
+    "ConfigPrefabName": "StoryActivity_18_015_A_Mir_C3",
+    "Mir": true,
+    "Theme": 486,
+    "BGM": "forest_explore_setState",
+    "LeaveTriggerEvent": "amb_forest_all_stop",
+    "LevelScript": "AIScript.LevelAndGroupController.Level.DcValueActivity_LevelController"
+  },
+  "301824": {
+    "Id": 301824,
+    "MonsterLv": 24,
+    "SceneName": "Levels/StoryActivity/StoryActivity_18/StoryActivity_18_Boss_A_01",
+    "ConfigPrefabName": "StoryActivity_18_Boss_A_C4",
+    "Theme": 120,
+    "BGM": "amb_10113_combatBoss_setState",
+    "LeaveTriggerEvent": "amb_10113_all_stop",
+    "IntroCutscene": "fx_m31801_base_Born_TL"
+  },
+  "301825": {
+    "Id": 301825,
+    "MonsterLv": 91,
+    "SceneName": "Levels/StoryActivity/StoryActivity_18/StoryActivity_18_001_A_01",
+    "ConfigPrefabName": "StoryActivity_18_001_A_Story1",
+    "Theme": 486,
+    "BGM": "forest_explore_setState",
+    "LeaveTriggerEvent": "amb_forest_all_stop",
+    "LevelScript": "AIScript.LevelAndGroupController.Level.DcValueActivity_LevelController"
+  },
+  "301826": {
+    "Id": 301826,
+    "MonsterLv": 92,
+    "SceneName": "Levels/StoryActivity/StoryActivity_18/StoryActivity_18_Boss_A_01",
+    "ConfigPrefabName": "StoryActivity_18_Boss_A_Story2",
+    "Theme": 120,
+    "BGM": "amb_10113_combatBoss_setState",
+    "LeaveTriggerEvent": "amb_10113_all_stop",
+    "IntroCutscene": "fx_m31801_base_Born_TL"
   }
 }

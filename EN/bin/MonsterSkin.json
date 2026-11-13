@@ -6146,6 +6146,27 @@
     "ModelScale": 17500,
     "ColliderScale": 10000
   },
+  "3180101": {
+    "Id": 3180101,
+    "MonsterManual": 3180105,
+    "Model": "Actor/Monster/31801FeiLong/31801FeiLong_Actor",
+    "RunAnimationSpd": 130000,
+    "WalkAnimationSpd": 28500,
+    "BarHeight": 8000,
+    "ModelScale": 10000,
+    "ColliderScale": 10000,
+    "ForbiddenBehitRot": true
+  },
+  "3180201": {
+    "Id": 3180201,
+    "Model": "Actor/Monster/31802BaoLin/31802BaoLin_Actor",
+    "RunAnimationSpd": 56000,
+    "WalkAnimationSpd": 25000,
+    "BarHeight": 8000,
+    "ModelScale": 13000,
+    "ColliderScale": 10000,
+    "ForbiddenBehitRot": true
+  },
   "11601111": {
     "Id": 11601111,
     "Model": "Actor/Character/11601/11601_PeaShooter_Actor",
@@ -6468,6 +6489,15 @@
     "WalkAnimationSpd": 15000,
     "BarHeight": 10000,
     "ModelScale": 20000,
+    "ColliderScale": 10000
+  },
+  "16100011": {
+    "Id": 16100011,
+    "Model": "Actor/Character/16101/16101_Stronghold_Actor",
+    "RunAnimationSpd": 35000,
+    "WalkAnimationSpd": 15000,
+    "BarHeight": 10000,
+    "ModelScale": 8000,
     "ColliderScale": 10000
   },
   "8010301": {

@@ -573,5 +573,66 @@
     "Name": "MallRecommendGroup.1045.1",
     "StartTime": "2026-10-20T12:00:00+08:00",
     "EndTime": "2026-11-13T10:59:59+08:00"
+  },
+  "1046": {
+    "Id": "1046",
+    "Sort": 1,
+    "PackageList": [
+      "pack.first",
+      "pack.sr"
+    ],
+    "Name": "MallRecommendGroup.1046.1",
+    "StartTime": "2026-11-13T12:00:00+08:00",
+    "EndTime": "2026-12-04T10:59:59+08:00"
+  },
+  "1047": {
+    "Id": "1047",
+    "Sort": 2,
+    "PackageList": [
+      "pack.19_role",
+      "pack.19_role_s",
+      "pack.19_role_l",
+      "pack.19_gift",
+      "pack.19_res"
+    ],
+    "Name": "MallRecommendGroup.1047.1",
+    "StartTime": "2026-11-13T12:00:00+08:00",
+    "EndTime": "2026-12-04T10:59:59+08:00"
+  },
+  "1048": {
+    "Id": "1048",
+    "Sort": 3,
+    "PackageList": [
+      "pack.19_disc",
+      "pack.19_disc_s",
+      "pack.19_disc_l"
+    ],
+    "Name": "MallRecommendGroup.1048.1",
+    "StartTime": "2026-11-13T12:00:00+08:00",
+    "EndTime": "2026-12-04T10:59:59+08:00"
+  },
+  "1049": {
+    "Id": "1049",
+    "Sort": 4,
+    "PackageList": [
+      "pack.01_disc_m",
+      "pack.disc",
+      "pack.01_disc_w"
+    ],
+    "Name": "MallRecommendGroup.1049.1",
+    "StartTime": "2026-11-13T12:00:00+08:00",
+    "EndTime": "2026-12-04T10:59:59+08:00"
+  },
+  "1050": {
+    "Id": "1050",
+    "Sort": 5,
+    "PackageList": [
+      "pack.01_role_m",
+      "pack.role",
+      "pack.01_role_w"
+    ],
+    "Name": "MallRecommendGroup.1050.1",
+    "StartTime": "2026-11-13T12:00:00+08:00",
+    "EndTime": "2026-12-04T10:59:59+08:00"
   }
 }
