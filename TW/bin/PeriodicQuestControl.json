@@ -4,6 +4,7 @@
     "FinalReward1": 86002,
     "FinalRewardQty1": 1,
     "DesText": "PeriodicQuestControl.101002.1",
+    "TitleText": "PeriodicQuestControl.101002.2",
     "UIAssets": "_101002/periodic_act_01",
     "CtrlName": "_101002/PeriodicQuestCtrl_01",
     "PreviewType": 2
@@ -11,8 +12,17 @@
   "1110701": {
     "Id": 1110701,
     "DesText": "PeriodicQuestControl.1110701.1",
+    "TitleText": "PeriodicQuestControl.1110701.2",
     "UIAssets": "_1110701/_1110701",
     "CtrlName": "_1110701/PeriodicQuestCtrl_cover",
+    "PreviewType": 2
+  },
+  "1110501": {
+    "Id": 1110501,
+    "DesText": "PeriodicQuestControl.1110501.1",
+    "TitleText": "PeriodicQuestControl.1110501.2",
+    "UIAssets": "_1110501/_1110501",
+    "CtrlName": "_1110501/PeriodicQuestCtrl_cover",
     "PreviewType": 2
   }
 }

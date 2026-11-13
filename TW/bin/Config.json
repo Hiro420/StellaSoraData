@@ -187,6 +187,14 @@
     "Id": "BuildNoteModifierPointMax",
     "Value": "15"
   },
+  "BuildGeneratorDifficultyToNoteCount": {
+    "Id": "BuildGeneratorDifficultyToNoteCount",
+    "Value": "{\"1\":10,\"2\":20,\"3\":30,\"4\":60,\"5\":90,\"6\":120,\"7\":150,\"8\":180}"
+  },
+  "BuildGeneratorConsumeItem": {
+    "Id": "BuildGeneratorConsumeItem",
+    "Value": "30,2"
+  },
   "StarTowerGrowthItemIds": {
     "Id": "StarTowerGrowthItemIds",
     "Value": "51"
@@ -201,7 +209,7 @@
   },
   "StoryUnlockTime": {
     "Id": "StoryUnlockTime",
-    "Value": "2026-11-13T12:00:00+08:00"
+    "Value": "2026-10-30T12:00:00+08:00"
   },
   "StoryLastEnd_UnlockCondition_Chapter10": {
     "Id": "StoryLastEnd_UnlockCondition_Chapter10",
@@ -401,7 +409,7 @@
   },
   "IceCreamSpecialCustomerId": {
     "Id": "IceCreamSpecialCustomerId",
-    "Value": "966002"
+    "Value": "966001"
   },
   "IceCreamSpecialCustomerOrderNum": {
     "Id": "IceCreamSpecialCustomerOrderNum",
@@ -429,7 +437,7 @@
   },
   "IceCreamPatienceShylock": {
     "Id": "IceCreamPatienceShylock",
-    "Value": "10"
+    "Value": "5"
   },
   "IceCreamScoreShylock": {
     "Id": "IceCreamScoreShylock",
@@ -438,6 +446,10 @@
   "IceCreamOctopusClick": {
     "Id": "IceCreamOctopusClick",
     "Value": "3,6"
+  },
+  "IceCreamOctopusInterval": {
+    "Id": "IceCreamOctopusInterval",
+    "Value": "6,15"
   },
   "JointDrill_Challenge_Tickets_Id": {
     "Id": "JointDrill_Challenge_Tickets_Id",
@@ -754,6 +766,10 @@
   "SoldierCardQualityAdjustGradeAdd": {
     "Id": "SoldierCardQualityAdjustGradeAdd",
     "Value": "{\"1\":0,\"2\":0,\"3\":0}"
+  },
+  "SoldierRecommendScoreCondition": {
+    "Id": "SoldierRecommendScoreCondition",
+    "Value": "150"
   },
   "DormMaxPresetNum": {
     "Id": "DormMaxPresetNum",

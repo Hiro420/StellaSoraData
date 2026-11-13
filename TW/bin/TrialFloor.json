@@ -1899,6 +1899,82 @@
     "Theme": 101,
     "MonsterLv": 1
   },
+  "1231611": {
+    "Id": 1231611,
+    "TrialChar": 161,
+    "TrialSectType": 1,
+    "SceneName": "Levels/TrainingLevels/TrainingLevels_01/TrainingLevels_01",
+    "ConfigPrefabName": "TutorialLevel_16101",
+    "TrialBuild": 16101,
+    "QuestFlow": [
+      1610101,
+      1610102,
+      1610103,
+      1610104
+    ],
+    "BGM": "travelerTrail_combatNormal_setState",
+    "LeaveTriggerEvent": "amb_city_all_stop",
+    "DungeonDelay": 45000,
+    "Theme": 101,
+    "MonsterLv": 1
+  },
+  "1231612": {
+    "Id": 1231612,
+    "TrialChar": 161,
+    "TrialSectType": 2,
+    "SceneName": "Levels/TrainingLevels/TrainingLevels_01/TrainingLevels_01",
+    "ConfigPrefabName": "TutorialLevel_16102",
+    "TrialBuild": 16102,
+    "QuestFlow": [
+      1610201,
+      1610202,
+      1610203,
+      1610204
+    ],
+    "BGM": "travelerTrail_combatNormal_setState",
+    "LeaveTriggerEvent": "amb_city_all_stop",
+    "DungeonDelay": 45000,
+    "Theme": 101,
+    "MonsterLv": 1
+  },
+  "1231613": {
+    "Id": 1231613,
+    "TrialChar": 161,
+    "TrialSectType": 3,
+    "SceneName": "Levels/TrainingLevels/TrainingLevels_01/TrainingLevels_01",
+    "ConfigPrefabName": "TutorialLevel_16103",
+    "TrialBuild": 16103,
+    "QuestFlow": [
+      1610301,
+      1610302,
+      1610303,
+      1610304
+    ],
+    "BGM": "travelerTrail_combatNormal_setState",
+    "LeaveTriggerEvent": "amb_city_all_stop",
+    "DungeonDelay": 45000,
+    "Theme": 101,
+    "MonsterLv": 1
+  },
+  "1231614": {
+    "Id": 1231614,
+    "TrialChar": 161,
+    "TrialSectType": 4,
+    "SceneName": "Levels/TrainingLevels/TrainingLevels_01/TrainingLevels_01",
+    "ConfigPrefabName": "TutorialLevel_16104",
+    "TrialBuild": 16104,
+    "QuestFlow": [
+      1610401,
+      1610402,
+      1610403,
+      1610404
+    ],
+    "BGM": "travelerTrail_combatNormal_setState",
+    "LeaveTriggerEvent": "amb_city_all_stop",
+    "DungeonDelay": 45000,
+    "Theme": 101,
+    "MonsterLv": 1
+  },
   "2134031": {
     "Id": 2134031,
     "TrialChar": 134,
@@ -2310,6 +2386,82 @@
       1350602,
       1350603,
       1350604
+    ],
+    "BGM": "travelerTrail_combatNormal_setState",
+    "LeaveTriggerEvent": "amb_city_all_stop",
+    "DungeonDelay": 45000,
+    "Theme": 101,
+    "MonsterLv": 1
+  },
+  "2143031": {
+    "Id": 2143031,
+    "TrialChar": 143,
+    "TrialSectType": 5,
+    "SceneName": "Levels/TrainingLevels/TrainingLevels_01/TrainingLevels_01",
+    "ConfigPrefabName": "TutorialLevel_14305",
+    "TrialBuild": 143031,
+    "QuestFlow": [
+      1430501,
+      1430502,
+      1430503,
+      1430504
+    ],
+    "BGM": "travelerTrail_combatNormal_setState",
+    "LeaveTriggerEvent": "amb_city_all_stop",
+    "DungeonDelay": 45000,
+    "Theme": 101,
+    "MonsterLv": 1
+  },
+  "2143032": {
+    "Id": 2143032,
+    "TrialChar": 143,
+    "TrialSectType": 6,
+    "SceneName": "Levels/TrainingLevels/TrainingLevels_01/TrainingLevels_01",
+    "ConfigPrefabName": "TutorialLevel_14306",
+    "TrialBuild": 143032,
+    "QuestFlow": [
+      1430601,
+      1430602,
+      1430603,
+      1430604
+    ],
+    "BGM": "travelerTrail_combatNormal_setState",
+    "LeaveTriggerEvent": "amb_city_all_stop",
+    "DungeonDelay": 45000,
+    "Theme": 101,
+    "MonsterLv": 1
+  },
+  "2156031": {
+    "Id": 2156031,
+    "TrialChar": 156,
+    "TrialSectType": 5,
+    "SceneName": "Levels/TrainingLevels/TrainingLevels_01/TrainingLevels_01",
+    "ConfigPrefabName": "TutorialLevel_15605",
+    "TrialBuild": 156031,
+    "QuestFlow": [
+      1560501,
+      1560502,
+      1560503,
+      1560504
+    ],
+    "BGM": "travelerTrail_combatNormal_setState",
+    "LeaveTriggerEvent": "amb_city_all_stop",
+    "DungeonDelay": 45000,
+    "Theme": 101,
+    "MonsterLv": 1
+  },
+  "2156032": {
+    "Id": 2156032,
+    "TrialChar": 156,
+    "TrialSectType": 6,
+    "SceneName": "Levels/TrainingLevels/TrainingLevels_01/TrainingLevels_01",
+    "ConfigPrefabName": "TutorialLevel_15606",
+    "TrialBuild": 156032,
+    "QuestFlow": [
+      1560601,
+      1560602,
+      1560603,
+      1560604
     ],
     "BGM": "travelerTrail_combatNormal_setState",
     "LeaveTriggerEvent": "amb_city_all_stop",

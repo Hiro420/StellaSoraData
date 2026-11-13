@@ -126,5 +126,37 @@
     "SummonLevelUp": true,
     "FloorId": 10040,
     "ScoreGetSwitchGroup": 1002
+  },
+  "511": {
+    "Id": 511,
+    "GroupId": 51,
+    "Difficult": 1,
+    "SummonLevelUp": true,
+    "FloorId": 10041,
+    "ScoreGetSwitchGroup": 1001
+  },
+  "512": {
+    "Id": 512,
+    "GroupId": 51,
+    "Difficult": 2,
+    "SummonLevelUp": true,
+    "FloorId": 10042,
+    "ScoreGetSwitchGroup": 1002
+  },
+  "521": {
+    "Id": 521,
+    "GroupId": 52,
+    "Difficult": 1,
+    "SummonLevelUp": true,
+    "FloorId": 10043,
+    "ScoreGetSwitchGroup": 1001
+  },
+  "522": {
+    "Id": 522,
+    "GroupId": 52,
+    "Difficult": 2,
+    "SummonLevelUp": true,
+    "FloorId": 10044,
+    "ScoreGetSwitchGroup": 1002
   }
 }

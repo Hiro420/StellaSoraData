@@ -1138,5 +1138,35 @@
     "Subject": "MailTemplate.20403.2",
     "Desc": "MailTemplate.20403.3",
     "Type": 1
+  },
+  "11301": {
+    "Id": 11301,
+    "Explanation": "执笔展卷，勾勒未名之境 活动结束倒计时邮件",
+    "Icon": "Icon/Head/head_12501",
+    "Author": "MailTemplate.11301.1",
+    "LetterPaper": "background2",
+    "Subject": "MailTemplate.11301.2",
+    "Desc": "MailTemplate.11301.3",
+    "Type": 1
+  },
+  "11302": {
+    "Id": 11302,
+    "Explanation": "执笔展卷，勾勒未名之境 活动结束货币转换邮件",
+    "Icon": "Icon/Head/head_12501",
+    "Author": "MailTemplate.11302.1",
+    "LetterPaper": "background2",
+    "Subject": "MailTemplate.11302.2",
+    "Desc": "MailTemplate.11302.3",
+    "Type": 1
+  },
+  "11303": {
+    "Id": 11303,
+    "Explanation": "执笔展卷，勾勒未名之境 活动任务结束未领取邮件",
+    "Icon": "Icon/Head/head_12501",
+    "Author": "MailTemplate.11303.1",
+    "LetterPaper": "background2",
+    "Subject": "MailTemplate.11303.2",
+    "Desc": "MailTemplate.11303.3",
+    "Type": 1
   }
 }

@@ -71,6 +71,18 @@
     "CtrlName": "DoubleDropActCtrl",
     "DesText": "ActivityDouble.103006.1"
   },
+  "103007": {
+    "Id": 103007,
+    "InstanceType": [
+      4,
+      8
+    ],
+    "DailyTimes": 8,
+    "RewardType": 1,
+    "UIAssets": "_103001/DoubleDropActPanel",
+    "CtrlName": "DoubleDropActCtrl",
+    "DesText": "ActivityDouble.103007.1"
+  },
   "103012": {
     "Id": 103012,
     "InstanceType": [

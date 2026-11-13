@@ -136,5 +136,28 @@
       190,
       210
     ]
+  },
+  "7": {
+    "Id": 7,
+    "StartTime": "2026-12-01T04:00:00+08:00",
+    "EndTime": "2027-01-01T03:59:59+08:00",
+    "BossList": [
+      5009,
+      5010,
+      5011
+    ],
+    "OtherHuntCost1Tid": 39,
+    "OtherHuntCost1Qty": 1,
+    "TraceCost1Tid": 38,
+    "TraceCost1Qty": 1,
+    "StarDropCount": [
+      130,
+      140,
+      150,
+      160,
+      180,
+      190,
+      210
+    ]
   }
 }

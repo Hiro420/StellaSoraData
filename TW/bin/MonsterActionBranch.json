@@ -17647,6 +17647,18 @@
     "TraceDuration": 50000,
     "Activate": true
   },
+  "16100011": {
+    "Id": 16100011,
+    "GroupId": 16100011,
+    "SkillId": 16133002,
+    "Priority": 1,
+    "Weight": 1,
+    "Rate": 10000,
+    "ReleaseDistance": 30000,
+    "ReleaseAngle": 450000,
+    "TraceDuration": 50000,
+    "Activate": true
+  },
   "500310101": {
     "Id": 500310101,
     "GroupId": 6,
