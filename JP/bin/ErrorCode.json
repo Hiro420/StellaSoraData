@@ -395,6 +395,18 @@
     "Template": "ErrorCode.111110.1",
     "ShowType": 1
   },
+  "111111": {
+    "Id": 111111,
+    "Title": "ErrRglBuildPreference",
+    "Template": "ErrorCode.111111.1",
+    "ShowType": 1
+  },
+  "111112": {
+    "Id": 111112,
+    "Title": "ErrRglBuildDiscard",
+    "Template": "ErrorCode.111112.1",
+    "ShowType": 1
+  },
   "111201": {
     "Id": 111201,
     "Title": "ErrOutfitStrengthenMax",

@@ -773,6 +773,42 @@
     "Name": "MainScreenCG.1131.1",
     "Sort": 8950
   },
+  "1132": {
+    "Id": 1132,
+    "IsShown": true,
+    "FullScreenImg": "CG/1132/1132",
+    "ListImg": "Icon/CGHead/story_main_10001_004_11_L",
+    "Icon": "Icon/CGHead/story_main_10001_004_11_S",
+    "Name": "MainScreenCG.1132.1",
+    "Sort": 8949
+  },
+  "1133": {
+    "Id": 1133,
+    "IsShown": true,
+    "FullScreenImg": "CG/1133/1133",
+    "ListImg": "Icon/CGHead/story_main_10001_006_a_L",
+    "Icon": "Icon/CGHead/story_main_10001_006_a_S",
+    "Name": "MainScreenCG.1133.1",
+    "Sort": 8948
+  },
+  "1134": {
+    "Id": 1134,
+    "IsShown": true,
+    "FullScreenImg": "CG/1134/1134",
+    "ListImg": "Icon/CGHead/story_main_10001_008_01_L",
+    "Icon": "Icon/CGHead/story_main_10001_008_01_S",
+    "Name": "MainScreenCG.1134.1",
+    "Sort": 8947
+  },
+  "1135": {
+    "Id": 1135,
+    "IsShown": true,
+    "FullScreenImg": "CG/1135/1135",
+    "ListImg": "Icon/CGHead/story_main_10001_011_L",
+    "Icon": "Icon/CGHead/story_main_10001_011_S",
+    "Name": "MainScreenCG.1135.1",
+    "Sort": 8946
+  },
   "2001": {
     "Id": 2001,
     "IsShown": true,
@@ -934,6 +970,15 @@
     "Icon": "Icon/CGHead/story_tales_18_001_S",
     "Name": "MainScreenCG.2018.1",
     "Sort": 1983
+  },
+  "2019": {
+    "Id": 2019,
+    "IsShown": true,
+    "FullScreenImg": "CG/2019/2019",
+    "ListImg": "Icon/CGHead/story_tales_19_001_L",
+    "Icon": "Icon/CGHead/story_tales_19_001_S",
+    "Name": "MainScreenCG.2019.1",
+    "Sort": 1982
   },
   "30101": {
     "Id": 30101,
@@ -1247,5 +1292,23 @@
   "31202": {
     "Id": 31202,
     "Name": "MainScreenCG.31202.1"
+  },
+  "31301": {
+    "Id": 31301,
+    "IsShown": true,
+    "FullScreenImg": "CG/31301/31301",
+    "ListImg": "Icon/CGHead/story_event_13_001_a_L",
+    "Icon": "Icon/CGHead/story_event_13_001_a_S",
+    "Name": "MainScreenCG.31301.1",
+    "Sort": 958
+  },
+  "31302": {
+    "Id": 31302,
+    "IsShown": true,
+    "FullScreenImg": "CG/31302/31302",
+    "ListImg": "Icon/CGHead/ev13bg_view_turtle_L",
+    "Icon": "Icon/CGHead/ev13bg_view_turtle_S",
+    "Name": "MainScreenCG.31302.1",
+    "Sort": 957
   }
 }

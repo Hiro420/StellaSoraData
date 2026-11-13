@@ -1994,5 +1994,53 @@
     "Type": "greet",
     "Action": "chat_a",
     "BubbleEmoji": "avg_emoji_star"
+  },
+  "16101": {
+    "Id": 16101,
+    "CharId": 161,
+    "Type": "happy",
+    "Action": "presents_a",
+    "BubbleEmoji": "avg_emoji_flower"
+  },
+  "16102": {
+    "Id": 16102,
+    "CharId": 161,
+    "Type": "happy2",
+    "Action": "presents_b",
+    "BubbleEmoji": "avg_emoji_star"
+  },
+  "16103": {
+    "Id": 16103,
+    "CharId": 161,
+    "Type": "normal",
+    "Action": "chat_a",
+    "BubbleEmoji": "avg_emoji_happy"
+  },
+  "16104": {
+    "Id": 16104,
+    "CharId": 161,
+    "Type": "normal2",
+    "Action": "chat_b",
+    "BubbleEmoji": "avg_emoji_attention"
+  },
+  "16105": {
+    "Id": 16105,
+    "CharId": 161,
+    "Type": "think",
+    "Action": "think_a"
+  },
+  "16106": {
+    "Id": 16106,
+    "CharId": 161,
+    "Type": "shy",
+    "Action": "shy_a",
+    "BubbleEmoji": "avg_emoji_shy"
+  },
+  "16107": {
+    "Id": 16107,
+    "CharId": 161,
+    "Type": "greet",
+    "Action": "chat_a",
+    "BubbleEmoji": "avg_emoji_love"
   }
 }

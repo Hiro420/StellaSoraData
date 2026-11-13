@@ -1105,5 +1105,32 @@
     "Params": "[162,29]",
     "ItemId": 2,
     "ItemQty": 20
+  },
+  "130": {
+    "Id": 130,
+    "CharId": 161,
+    "Sort": 1,
+    "Cond": 401,
+    "Params": "[161,10]",
+    "ItemId": 2,
+    "ItemQty": 5
+  },
+  "131": {
+    "Id": 131,
+    "CharId": 161,
+    "Sort": 2,
+    "Cond": 401,
+    "Params": "[161,20]",
+    "ItemId": 2,
+    "ItemQty": 10
+  },
+  "132": {
+    "Id": 132,
+    "CharId": 161,
+    "Sort": 3,
+    "Cond": 401,
+    "Params": "[161,29]",
+    "ItemId": 2,
+    "ItemQty": 20
   }
 }

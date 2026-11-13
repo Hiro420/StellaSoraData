@@ -12,7 +12,7 @@
   "EventOptions.10402.1": "<sprite name=item_11_small>を200枚消費し、素質（虹）をランダムで1個獲得する",
   "EventOptions.10403.1": "<sprite name=item_11_small>を30枚獲得する",
   "EventOptions.10501.1": "以下のいずれかを得る。<sprite name=item_11_small>を200枚獲得（50％）/<sprite name=item_11_small>を100枚失う（50％）",
-  "EventOptions.10502.1": "以下のいずれかを得る。<sprite name=item_11_small>を650枚獲得（30％）/<sprite name=item_11_small>を200枚失う（70％）",
+  "EventOptions.10502.1": "以下のいずれかを得る。<sprite name=item_11_small>を650枚獲得（{0}％）/<sprite name=item_11_small>を200枚失う（{1}％）",
   "EventOptions.10503.1": "<sprite name=item_11_small>を30枚獲得する",
   "EventOptions.10601.1": "最大HPを20%消費し、50%の確率で素質（虹）をランダムで1個獲得する",
   "EventOptions.10602.1": "最大HPを40%消費し、素質（金）をランダムで1個獲得する",
