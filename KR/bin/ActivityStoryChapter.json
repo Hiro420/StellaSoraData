@@ -190,5 +190,22 @@
     "IconRes3": "Icon/ActivityReview/ep_event_10111_bg",
     "Banner": "Icon/ActivityReview/ep_event_10111_banner",
     "PanelId": 520
+  },
+  "1011302": {
+    "Id": 1011302,
+    "ChapterId": 10113,
+    "SortOrder": 106,
+    "ActivityGroupType": 1,
+    "Title": "ActivityStoryChapter.1011302.1",
+    "StoryTime": "ActivityStoryChapter.1011302.2",
+    "StoryLineId": 1,
+    "PrevChapterType": 1,
+    "PrevChapterId": 10,
+    "HandBookId": 31301,
+    "IconRes1": "Icon/ActivityReview/zs_10113_title_logo_lang",
+    "IconRes2": "Icon/ActivityReview/ep_event_10113_icon",
+    "IconRes3": "Icon/ActivityReview/ep_event_10113_bg",
+    "Banner": "Icon/ActivityReview/ep_event_10113_banner",
+    "PanelId": 586
   }
 }

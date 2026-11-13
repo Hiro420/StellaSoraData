@@ -559,6 +559,20 @@
       10
     ]
   },
+  "161": {
+    "Id": 161,
+    "Name": "TrialCharacter.161.1",
+    "CharId": 161,
+    "CharacterSkin": 16102,
+    "Break": 8,
+    "Level": 90,
+    "SkillLevel": [
+      10,
+      10,
+      10,
+      10
+    ]
+  },
   "162": {
     "Id": 162,
     "Name": "TrialCharacter.162.1",
@@ -2113,6 +2127,20 @@
       10
     ]
   },
+  "16101": {
+    "Id": 16101,
+    "Name": "TrialCharacter.16101.1",
+    "CharId": 161,
+    "CharacterSkin": 16101,
+    "Break": 8,
+    "Level": 90,
+    "SkillLevel": [
+      10,
+      10,
+      10,
+      10
+    ]
+  },
   "13403": {
     "Id": 13403,
     "Name": "TrialCharacter.13403.1",
@@ -2258,6 +2286,34 @@
     "Name": "TrialCharacter.13503.1",
     "CharId": 135,
     "CharacterSkin": 13503,
+    "Break": 8,
+    "Level": 90,
+    "SkillLevel": [
+      10,
+      10,
+      10,
+      10
+    ]
+  },
+  "14303": {
+    "Id": 14303,
+    "Name": "TrialCharacter.14303.1",
+    "CharId": 143,
+    "CharacterSkin": 14303,
+    "Break": 8,
+    "Level": 90,
+    "SkillLevel": [
+      10,
+      10,
+      10,
+      10
+    ]
+  },
+  "15603": {
+    "Id": 15603,
+    "Name": "TrialCharacter.15603.1",
+    "CharId": 156,
+    "CharacterSkin": 15603,
     "Break": 8,
     "Level": 90,
     "SkillLevel": [
@@ -2882,6 +2938,76 @@
     "Name": "TrialCharacter.201011.1",
     "CharId": 137,
     "CharacterSkin": 13701,
+    "Break": 6,
+    "Level": 70,
+    "SkillLevel": [
+      7,
+      7,
+      7,
+      7
+    ]
+  },
+  "201021": {
+    "Id": 201021,
+    "Name": "TrialCharacter.201021.1",
+    "CharId": 161,
+    "CharacterSkin": 16101,
+    "Break": 6,
+    "Level": 70,
+    "SkillLevel": [
+      7,
+      7,
+      7,
+      7
+    ]
+  },
+  "201022": {
+    "Id": 201022,
+    "Name": "TrialCharacter.201022.1",
+    "CharId": 112,
+    "CharacterSkin": 11201,
+    "Break": 6,
+    "Level": 70,
+    "SkillLevel": [
+      7,
+      7,
+      7,
+      7
+    ]
+  },
+  "201023": {
+    "Id": 201023,
+    "Name": "TrialCharacter.201023.1",
+    "CharId": 111,
+    "CharacterSkin": 11101,
+    "Break": 6,
+    "Level": 70,
+    "SkillLevel": [
+      7,
+      7,
+      7,
+      7
+    ]
+  },
+  "201031": {
+    "Id": 201031,
+    "Name": "TrialCharacter.201031.1",
+    "CharId": 161,
+    "CharacterSkin": 16101,
+    "Break": 6,
+    "Level": 70,
+    "SkillLevel": [
+      7,
+      7,
+      7,
+      7
+    ]
+  },
+  "201032": {
+    "Id": 201032,
+    "Name": "TrialCharacter.201032.1",
+    "CharId": 118,
+    "CharacterSkin": 11801,
     "Break": 6,
     "Level": 70,
     "SkillLevel": [

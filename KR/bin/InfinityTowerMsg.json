@@ -1,17 +1,41 @@
 {
-  "1004": {
-    "Id": 1004,
-    "Title": "InfinityTowerMsg.1004.1",
-    "Content": "InfinityTowerMsg.1004.2",
+  "1001": {
+    "Id": 1001,
+    "Title": "InfinityTowerMsg.1001.1",
+    "Content": "InfinityTowerMsg.1001.2",
     "Type": 1,
     "DayOfWeek": [
-      0,
       1,
+      4
+    ]
+  },
+  "1002": {
+    "Id": 1002,
+    "Title": "InfinityTowerMsg.1002.1",
+    "Content": "InfinityTowerMsg.1002.2",
+    "Type": 1,
+    "DayOfWeek": [
       2,
+      5
+    ]
+  },
+  "1003": {
+    "Id": 1003,
+    "Title": "InfinityTowerMsg.1003.1",
+    "Content": "InfinityTowerMsg.1003.2",
+    "Type": 1,
+    "DayOfWeek": [
       3,
-      4,
-      5,
       6
+    ]
+  },
+  "1005": {
+    "Id": 1005,
+    "Title": "InfinityTowerMsg.1005.1",
+    "Content": "InfinityTowerMsg.1005.2",
+    "Type": 1,
+    "DayOfWeek": [
+      0
     ]
   },
   "2101": {

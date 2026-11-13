@@ -304,6 +304,12 @@
     "EndSceneName": "Levels/StoryActivity/StoryActivity_1/StoryActivity_1_Victory01",
     "BGM": "music_victory_setState_rogueLike"
   },
+  "120": {
+    "Id": 120,
+    "Theme": 120,
+    "EndSceneName": "Levels/StoryActivity/StoryActivity_18/StoryActivity_18_Boss_A_Victory01",
+    "BGM": "music_victory_setState_rogueLike"
+  },
   "201": {
     "Id": 201,
     "Theme": 201,
@@ -535,6 +541,12 @@
   "482": {
     "Id": 482,
     "Theme": 482,
+    "BGM": "music_victory_setState_rogueLike"
+  },
+  "486": {
+    "Id": 486,
+    "Theme": 486,
+    "EndSceneName": "Levels/StoryActivity/StoryActivity_18/StoryActivity_18_Victory01",
     "BGM": "music_victory_setState_rogueLike"
   },
   "901": {

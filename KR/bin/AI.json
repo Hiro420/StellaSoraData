@@ -644,6 +644,24 @@
     "FCGlobal": "AIScript.Character._15901.ParallelScript_Support",
     "FCComboGroup": "Character/15901/Combos/ComboGroup_Char_159"
   },
+  "16100": {
+    "Id": 16100,
+    "FCAction": "AIScript.Character._16101.Action",
+    "FCGlobal": "AIScript.Character._16101.ParallelScript_MainControl",
+    "FCComboGroup": "Character/16101/Combos/ComboGroup_Char_161"
+  },
+  "16101": {
+    "Id": 16101,
+    "FCAction": "AIScript.Character._16101.Action",
+    "FCGlobal": "AIScript.Character._16101.ParallelScript_MainControl",
+    "FCComboGroup": "Character/16101/Combos/ComboGroup_Char_161"
+  },
+  "16102": {
+    "Id": 16102,
+    "FCAction": "AIScript.ActorActionBase",
+    "FCGlobal": "AIScript.Character._16101.ParallelScript_Support",
+    "FCComboGroup": "Character/16101/Combos/ComboGroup_Char_161"
+  },
   "10201": {
     "Id": 10201,
     "FCIdle": "Character/10201/Behaviour/IdleBehaviour",
