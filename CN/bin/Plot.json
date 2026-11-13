@@ -1399,6 +1399,41 @@
     "Rewards": "{\"2\":30}",
     "PicSource": "Icon/MapEpisode/ep_character_16003"
   },
+  "16101": {
+    "Id": 16101,
+    "Char": 161,
+    "Name": "Plot.16101.1",
+    "Desc": "Plot.16101.2",
+    "AvgId": "CG_161_01",
+    "PlotType": 1,
+    "UnlockAffinityLevel": 1,
+    "Rewards": "{\"2\":30}",
+    "PicSource": "Icon/MapEpisode/ep_character_16101"
+  },
+  "16102": {
+    "Id": 16102,
+    "Char": 161,
+    "Name": "Plot.16102.1",
+    "Desc": "Plot.16102.2",
+    "AvgId": "CG_161_02",
+    "PlotType": 1,
+    "PrePlot": 16101,
+    "UnlockAffinityLevel": 5,
+    "Rewards": "{\"2\":30}",
+    "PicSource": "Icon/MapEpisode/ep_character_16102"
+  },
+  "16103": {
+    "Id": 16103,
+    "Char": 161,
+    "Name": "Plot.16103.1",
+    "Desc": "Plot.16103.2",
+    "AvgId": "CG_161_03",
+    "PlotType": 1,
+    "PrePlot": 16102,
+    "UnlockAffinityLevel": 10,
+    "Rewards": "{\"2\":30}",
+    "PicSource": "Icon/MapEpisode/ep_character_16103"
+  },
   "16201": {
     "Id": 16201,
     "Char": 162,

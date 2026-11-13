@@ -148,5 +148,35 @@
     "ProfileIcon": "Icon/TraceHunt/TraceProfile_009",
     "HeadIcon": "Icon/TraceHunt/TraceHead_009",
     "Image": "Icon/TraceHunt/TraceImage_009"
+  },
+  "5009": {
+    "Id": 5009,
+    "MonsterId": 6500420,
+    "FloorGroup": 42,
+    "ClueIcon": "Icon/TraceHunt/TraceClue_009",
+    "TargetIcon": "Icon/TraceHunt/TraceTarget_009",
+    "ProfileIcon": "Icon/TraceHunt/TraceProfile_009",
+    "HeadIcon": "Icon/TraceHunt/TraceHead_009",
+    "Image": "Icon/TraceHunt/TraceImage_009"
+  },
+  "5010": {
+    "Id": 5010,
+    "MonsterId": 6500510,
+    "FloorGroup": 51,
+    "ClueIcon": "Icon/TraceHunt/TraceClue_010",
+    "TargetIcon": "Icon/TraceHunt/TraceTarget_010",
+    "ProfileIcon": "Icon/TraceHunt/TraceProfile_010",
+    "HeadIcon": "Icon/TraceHunt/TraceHead_010",
+    "Image": "Icon/TraceHunt/TraceImage_010"
+  },
+  "5011": {
+    "Id": 5011,
+    "MonsterId": 6500520,
+    "FloorGroup": 52,
+    "ClueIcon": "Icon/TraceHunt/TraceClue_011",
+    "TargetIcon": "Icon/TraceHunt/TraceTarget_011",
+    "ProfileIcon": "Icon/TraceHunt/TraceProfile_011",
+    "HeadIcon": "Icon/TraceHunt/TraceHead_011",
+    "Image": "Icon/TraceHunt/TraceImage_011"
   }
 }

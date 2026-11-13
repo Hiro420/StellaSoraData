@@ -394,6 +394,25 @@
     "EndType": 2,
     "EndTime": "2026-11-10T10:59:59+08:00"
   },
+  "22": {
+    "Id": 22,
+    "SortId": 22,
+    "PopUpType": 3,
+    "PopUpRes": "UI/MallPkgPopup/Popup_18",
+    "ScriptName": "OwnPopUp.MallPkgPopupCtrl",
+    "ScriptParams": "[\"pack.19_res\", \"pack.19_gift\", \"pack.19_disc_l\", \"pack.19_role_l\"]",
+    "PopRefreshType": 3,
+    "PopJumpType": 3,
+    "JumpToParams": 18,
+    "StartCondType": 71,
+    "StartCondParams": [
+      2
+    ],
+    "StartType": 2,
+    "StartTime": "2026-11-13T12:00:00+08:00",
+    "EndType": 2,
+    "EndTime": "2026-12-04T10:59:59+08:00"
+  },
   "23": {
     "Id": 23,
     "SortId": 23,
@@ -635,6 +654,16 @@
     "PopRefreshType": 2,
     "PopJumpType": 2
   },
+  "1022": {
+    "Id": 1022,
+    "SortId": 1022,
+    "PopUpType": 2,
+    "ActivityId": 10113,
+    "PopUpRes": "UI_Activity/10113/PopUp",
+    "ScriptName": "ActivityPopUp.ActivityUnchartedMap_10113PopUpCtrl",
+    "PopRefreshType": 2,
+    "PopJumpType": 2
+  },
   "2005": {
     "Id": 2005,
     "SortId": 2005,
@@ -847,6 +876,16 @@
     "PopRefreshType": 2,
     "PopJumpType": 2
   },
+  "2024": {
+    "Id": 2024,
+    "SortId": 3011,
+    "PopUpType": 1,
+    "ActivityId": 103007,
+    "PopUpRes": "UI_Activity/_103001/PopUp",
+    "ScriptName": "ActivityPopUp.ActivityDoubleDrop_103001PopUpCtrl",
+    "PopRefreshType": 2,
+    "PopJumpType": 2
+  },
   "2027": {
     "Id": 2027,
     "SortId": 2011,
@@ -860,6 +899,17 @@
     "StartCondParams": [
       1
     ]
+  },
+  "2028": {
+    "Id": 2028,
+    "SortId": 2028,
+    "PopUpType": 1,
+    "ActivityId": 510008,
+    "PopUpRes": "UI_Activity/_510008/PopUp",
+    "ScriptName": "ActivityPopUp.ActivityJointDrillPopUpCtrl",
+    "PopRefreshType": 2,
+    "PopJumpType": 2,
+    "JumpToParams": 149
   },
   "2031": {
     "Id": 2031,

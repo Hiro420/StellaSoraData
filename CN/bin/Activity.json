@@ -196,6 +196,21 @@
     "EndTime": "2026-11-10T03:59:59+08:00",
     "TabBgRes": "Icon/Banner/tab_activity_103001_lang"
   },
+  "103007": {
+    "Id": 103007,
+    "SortId": 5,
+    "ActivityType": 21,
+    "Name": "紧急悬赏",
+    "PreLimit": 1,
+    "LimitParam": "3",
+    "PlayCond": 1,
+    "PlayCondParams": "3",
+    "StartType": 2,
+    "StartTime": "2026-11-27T04:00:00+08:00",
+    "EndType": 2,
+    "EndTime": "2026-12-04T03:59:59+08:00",
+    "TabBgRes": "Icon/Banner/tab_activity_103001_lang"
+  },
   "103012": {
     "Id": 103012,
     "SortId": 5,
@@ -666,6 +681,17 @@
     "TabBgRes": "Icon/Banner/tab_activity_201018_lang",
     "EntranceId": 1001
   },
+  "201019": {
+    "Id": 201019,
+    "SortId": 14,
+    "ActivityType": 13,
+    "Name": "诺瓦异闻-枫前置故事集",
+    "StartType": 2,
+    "StartTime": "2026-11-24T12:00:00+08:00",
+    "EndType": 2,
+    "EndTime": "2026-12-04T10:59:59+08:00",
+    "TabBgRes": "Icon/Banner/tab_activity_sidestory"
+  },
   "201021": {
     "Id": 201021,
     "SortId": 14,
@@ -942,6 +968,19 @@
     "EndType": 2,
     "EndTime": "2026-11-03T04:00:00+08:00"
   },
+  "400020": {
+    "Id": 400020,
+    "MidGroupId": 10113,
+    "SortId": 4,
+    "ActivityType": 23,
+    "Name": "沁凉补给站2期",
+    "ActivityThemeType": 23,
+    "StartType": 2,
+    "StartTime": "2026-11-13T12:00:00+08:00",
+    "EndType": 2,
+    "EndTime": "2026-11-27T04:00:00+08:00",
+    "MiniGameRedDot": 1130304
+  },
   "500001": {
     "Id": 500001,
     "SortId": 6,
@@ -1150,6 +1189,22 @@
     "BannerRes": "banner_activity_05",
     "TabBgRes": "Icon/Banner/tab_activity_05"
   },
+  "500014": {
+    "Id": 500014,
+    "SortId": 6,
+    "ActivityType": 14,
+    "Name": "BD兑换活动",
+    "PreLimit": 1,
+    "LimitParam": "10",
+    "PlayCond": 1,
+    "PlayCondParams": "10",
+    "StartType": 2,
+    "StartTime": "2026-11-27T12:00:00+08:00",
+    "EndType": 2,
+    "EndTime": "2026-12-04T11:00:00+08:00",
+    "BannerRes": "banner_activity_05",
+    "TabBgRes": "Icon/Banner/tab_activity_05"
+  },
   "510001": {
     "Id": 510001,
     "SortId": 4,
@@ -1261,6 +1316,22 @@
     "EndTime": "2026-09-30T03:59:59+08:00",
     "EnterRes": "Icon/Banner/banner_avtivity_m_3_lang",
     "TabBgRes": "Icon/Banner/tab_activity_jointdrill_3_lang"
+  },
+  "510008": {
+    "Id": 510008,
+    "SortId": 4,
+    "ActivityType": 7,
+    "Name": "总力战S8",
+    "PreLimit": 1,
+    "LimitParam": "6",
+    "PlayCond": 1,
+    "PlayCondParams": "10",
+    "StartType": 2,
+    "StartTime": "2026-11-26T12:00:00+08:00",
+    "EndType": 2,
+    "EndTime": "2026-12-05T03:59:59+08:00",
+    "EnterRes": "Icon/Banner/banner_avtivity_m",
+    "TabBgRes": "Icon/Banner/tab_activity_jointdrill"
   },
   "600001": {
     "Id": 600001,
@@ -1687,6 +1758,28 @@
     "EndTime": "2026-11-17T10:59:59+08:00",
     "TabBgRes": "Icon/Banner/tab_activity_trial_115_lang"
   },
+  "700134": {
+    "Id": 700134,
+    "SortId": 7,
+    "ActivityType": 6,
+    "Name": "浅试身手-优叶",
+    "StartType": 2,
+    "StartTime": "2026-11-13T12:00:00+08:00",
+    "EndType": 2,
+    "EndTime": "2026-12-04T10:59:59+08:00",
+    "TabBgRes": "Icon/Banner/tab_activity_trial_161_lang"
+  },
+  "700135": {
+    "Id": 700135,
+    "SortId": 7,
+    "ActivityType": 6,
+    "Name": "浅试身手-风影",
+    "StartType": 2,
+    "StartTime": "2026-11-17T12:00:00+08:00",
+    "EndType": 2,
+    "EndTime": "2026-12-01T10:59:59+08:00",
+    "TabBgRes": "Icon/Banner/tab_activity_trial_143"
+  },
   "1010001": {
     "Id": 1010001,
     "MidGroupId": 10100,
@@ -2081,6 +2174,22 @@
     "StartTime": "2026-02-17T12:00:00+08:00",
     "EndType": 2,
     "EndTime": "2026-02-27T03:59:59+08:00"
+  },
+  "1110501": {
+    "Id": 1110501,
+    "SortId": 3,
+    "ActivityType": 1,
+    "Name": "#风影复刻卡池纪念活动（优叶版本）",
+    "SpecialParam": "1010502",
+    "PreLimit": 1,
+    "LimitParam": "5",
+    "PlayCond": 1,
+    "PlayCondParams": "5",
+    "StartType": 2,
+    "StartTime": "2026-11-17T12:00:00+08:00",
+    "EndType": 2,
+    "EndTime": "2026-12-01T10:59:59+08:00",
+    "TabBgRes": "Icon/Banner/tab_activity_1110501_lang"
   },
   "1010501": {
     "Id": 1010501,
@@ -2772,5 +2881,53 @@
     "StartTime": "2026-11-03T12:00:00+08:00",
     "EndType": 2,
     "EndTime": "2026-11-13T03:59:59+08:00"
+  },
+  "1011301": {
+    "Id": 1011301,
+    "MidGroupId": 10113,
+    "SortId": 8,
+    "ActivityType": 9,
+    "Name": "优叶战斗关卡",
+    "ActivityThemeType": 23,
+    "StartType": 2,
+    "StartTime": "2026-11-13T12:00:00+08:00",
+    "EndType": 2,
+    "EndTime": "2026-11-27T04:00:00+08:00"
+  },
+  "1011302": {
+    "Id": 1011302,
+    "MidGroupId": 10113,
+    "SortId": 10,
+    "ActivityType": 30,
+    "Name": "优叶活动剧情",
+    "ActivityThemeType": 23,
+    "StartType": 2,
+    "StartTime": "2026-11-13T12:00:00+08:00",
+    "EndType": 2,
+    "EndTime": "2026-11-27T04:00:00+08:00"
+  },
+  "1011303": {
+    "Id": 1011303,
+    "MidGroupId": 10113,
+    "SortId": 11,
+    "ActivityType": 11,
+    "Name": "优叶活动任务",
+    "ActivityThemeType": 23,
+    "StartType": 2,
+    "StartTime": "2026-11-13T12:00:00+08:00",
+    "EndType": 2,
+    "EndTime": "2026-12-04T10:59:59+08:00"
+  },
+  "1011304": {
+    "Id": 1011304,
+    "MidGroupId": 10113,
+    "SortId": 12,
+    "ActivityType": 12,
+    "Name": "优叶活动商店",
+    "ActivityThemeType": 23,
+    "StartType": 2,
+    "StartTime": "2026-11-13T12:00:00+08:00",
+    "EndType": 2,
+    "EndTime": "2026-12-04T10:59:59+08:00"
   }
 }

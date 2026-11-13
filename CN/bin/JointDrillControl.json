@@ -103,5 +103,20 @@
     "CtrlName": "JointDrillActCtrl",
     "DescText": "JointDrillControl.510007.2",
     "DetailDesc": "JointDrillControl.510007.3"
+  },
+  "510008": {
+    "Id": 510008,
+    "Type": 1,
+    "DrillStartTime": 86400,
+    "DrillDurationTime": 557999,
+    "DrillLevelGroupId": 51008,
+    "DrillQuestGroupId": 1008,
+    "PlotTitle": "JointDrillControl.510008.4",
+    "PlotDesc": "JointDrillControl.510008.5",
+    "BG": "UI_Activity/_510008/SpriteAtlas/bg_jointdrill",
+    "DrillPrefab": "_510008/jointDrill_act_01",
+    "CtrlName": "JointDrillActCtrl",
+    "DescText": "JointDrillControl.510008.2",
+    "DetailDesc": "JointDrillControl.510008.3"
   }
 }

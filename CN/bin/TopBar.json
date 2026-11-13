@@ -1483,7 +1483,7 @@
     "Title": "TopBar.Task_10113.1",
     "Coin": true,
     "CoinIds": [
-      73117
+      73118
     ]
   },
   "UnchartedMapStory_10113": {
@@ -1495,7 +1495,7 @@
     "Title": "TopBar.UnchartedMapPanel.1",
     "Coin": true,
     "CoinIds": [
-      73117
+      73118
     ]
   },
   "StarTowerTokenBuyPanel": {
@@ -1509,5 +1509,13 @@
     ],
     "HideCoinAdd": true,
     "DelayShow": true
+  },
+  "IceCreamLevelsSelectPanel_400020": {
+    "Id": "IceCreamLevelsSelectPanel_400020",
+    "Title": "TopBar.IceCreamLevelsSelectPanel_400020.1",
+    "Coin": true,
+    "CoinIds": [
+      73118
+    ]
   }
 }

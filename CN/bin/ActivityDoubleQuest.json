@@ -377,6 +377,69 @@
     "ItemId": 82007,
     "ItemQty": 60
   },
+  "107001": {
+    "Id": 107001,
+    "ActivityId": 103007,
+    "Desc": "ActivityDoubleQuest.107001.1",
+    "QuestType": 39,
+    "QuestParams": "[200]",
+    "ItemId": 1,
+    "ItemQty": 60000
+  },
+  "107002": {
+    "Id": 107002,
+    "ActivityId": 103007,
+    "Desc": "ActivityDoubleQuest.107002.1",
+    "QuestType": 39,
+    "QuestParams": "[300]",
+    "ItemId": 32000,
+    "ItemQty": 25
+  },
+  "107003": {
+    "Id": 107003,
+    "ActivityId": 103007,
+    "Desc": "ActivityDoubleQuest.107003.1",
+    "QuestType": 39,
+    "QuestParams": "[400]",
+    "ItemId": 82007,
+    "ItemQty": 60
+  },
+  "107004": {
+    "Id": 107004,
+    "ActivityId": 103007,
+    "Desc": "ActivityDoubleQuest.107004.1",
+    "QuestType": 39,
+    "QuestParams": "[600]",
+    "ItemId": 1,
+    "ItemQty": 60000
+  },
+  "107005": {
+    "Id": 107005,
+    "ActivityId": 103007,
+    "Desc": "ActivityDoubleQuest.107005.1",
+    "QuestType": 39,
+    "QuestParams": "[800]",
+    "ItemId": 32000,
+    "ItemQty": 25
+  },
+  "107006": {
+    "Id": 107006,
+    "ActivityId": 103007,
+    "Desc": "ActivityDoubleQuest.107006.1",
+    "QuestType": 39,
+    "QuestParams": "[1000]",
+    "ItemId": 1,
+    "ItemQty": 60000
+  },
+  "107007": {
+    "Id": 107007,
+    "ActivityId": 103007,
+    "Desc": "ActivityDoubleQuest.107007.1",
+    "QuestType": 39,
+    "QuestParams": "[1200]",
+    "ItemId": 82007,
+    "ItemQty": 60
+  },
   "112001": {
     "Id": 112001,
     "ActivityId": 103012,

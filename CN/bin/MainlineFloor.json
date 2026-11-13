@@ -484,8 +484,7 @@
     "Theme": 22,
     "BGM": "waterBridge_explore_setState",
     "LeaveTriggerEvent": "amb_city_all_stop",
-    "MonsterLv": 6,
-    "LevelScript": "AIScript.LevelAndGroupController.Level.EP89CircleControl"
+    "MonsterLv": 6
   },
   "1080201": {
     "Id": 1080201,
@@ -828,5 +827,15 @@
     "BGM": "amb_900001_combatBoss_setState",
     "LeaveTriggerEvent": "amb_900001_all_stop",
     "MonsterLv": 1
+  },
+  "9920309": {
+    "Id": 9920309,
+    "SceneName": "Levels/StoryActivity/StoryActivity_18/StoryActivity_18_Boss_A_01",
+    "ConfigPrefabName": "StoryActivity_18_Boss_A_N12",
+    "Theme": 120,
+    "BGM": "amb_10113_combatBoss_setState",
+    "LeaveTriggerEvent": "amb_10113_all_stop",
+    "MonsterLv": 1,
+    "IntroCutscene": "fx_m31801_base_Born_TL"
   }
 }

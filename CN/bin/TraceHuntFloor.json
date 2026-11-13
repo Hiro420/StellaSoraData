@@ -103,5 +103,33 @@
     "ConfigPrefabName": "TraceHunt_LeiSheZhu_Hard",
     "BGM": "city_combatBoss_setState",
     "LeaveTriggerEvent": "amb_city_all_stop"
+  },
+  "10041": {
+    "Id": 10041,
+    "SceneName": "Levels/Roguelike/Roguelike_2/Roguelike_2_MiniBoss_005",
+    "ConfigPrefabName": "TraceHunt_MaoDa_Dark",
+    "BGM": "city_combatBoss_setState",
+    "LeaveTriggerEvent": "amb_city_all_stop"
+  },
+  "10042": {
+    "Id": 10042,
+    "SceneName": "Levels/Roguelike/Roguelike_2/Roguelike_2_MiniBoss_005",
+    "ConfigPrefabName": "TraceHunt_MaoDa_Dark_Hard",
+    "BGM": "city_combatBoss_setState",
+    "LeaveTriggerEvent": "amb_city_all_stop"
+  },
+  "10043": {
+    "Id": 10043,
+    "SceneName": "Levels/Roguelike/Roguelike_3/Roguelike_3_MiniBoss_001",
+    "ConfigPrefabName": "TraceHunt_ChuanSongGuai_Fire",
+    "BGM": "city_combatBoss_setState",
+    "LeaveTriggerEvent": "amb_city_all_stop"
+  },
+  "10044": {
+    "Id": 10044,
+    "SceneName": "Levels/Roguelike/Roguelike_3/Roguelike_3_MiniBoss_001",
+    "ConfigPrefabName": "TraceHunt_ChuanSongGuai_Fire_Hard",
+    "BGM": "city_combatBoss_setState",
+    "LeaveTriggerEvent": "amb_city_all_stop"
   }
 }
